@@ -1,0 +1,5 @@
+{"url": "https://developer.paypal.com/docs/api/", "query": "+%22api+documentation%22+OR+%22api+reference%22", "name": "REST API reference - PayPal Developer", "crawled": "2017-05-15T19:34:57.016384"}
+{"url": "https://developer.paypal.com/docs/classic/api/", "query": "+%22api+documentation%22+OR+%22api+reference%22", "name": "NVP and SOAP API Reference - PayPal Developer", "crawled": "2017-05-15T19:34:57.016798"}
+{"url": "https://developer.paypal.com/docs/api/overview", "query": "+%22api+documentation%22+OR+%22api+reference%22", "name": "REST API overview - PayPal Developer", "crawled": "2017-05-15T19:34:57.017178"}
+{"url": "https://developer.paypal.com/docs/integration/direct/payments/", "query": "+%22api+documentation%22+OR+%22api+reference%22", "name": "Payments REST API - PayPal Developer", "crawled": "2017-05-15T19:34:57.017539"}
+{"url": "https://developer.paypal.com/docs/", "query": "+%22api+documentation%22+OR+%22api+reference%22", "name": "PayPal Developer Documentation - PayPal Developer", "crawled": "2017-05-15T19:34:57.017895"}
