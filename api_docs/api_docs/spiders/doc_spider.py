@@ -27,7 +27,7 @@ class DocSpider(scrapy.Spider):
     site = []
     data = ApiDocsItem()
 
-    nltk.data.path.append('/home/cuky/tensorflow/nltk_data')
+    nltk.data.path.append('/home/cuky/Devel/kdd2017/Crawler/api_docs/nltk')
     cachedStopWords = set(stopwords.words("english"))
     cachedStopWords.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{', '}'])
 

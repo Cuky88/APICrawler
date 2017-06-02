@@ -11,15 +11,16 @@ class GsearchSpider(scrapy.Spider):
     name = "gsearch"
     # queries = ('+%22api+documentation%22+OR+%22api+reference%22')
     queries =''
-    sitename = ''
-    linksToCrawl = 1
+    file = ''
+    # define how many google search result-links should be crawled
+    linksToCrawl = 5
     download_delay = 5
     base_url_fmt = 'https://www.google.com/search?q=site:{sitename}{query}'
 
-    def __init__(self, sn='', keys='', *args, **kwargs):
+    def __init__(self, csv='', keys='', *args, **kwargs):
         super(GsearchSpider, self).__init__(*args, **kwargs)
-        if len(sn) == 0 or len(keys) == 0:
-            print("Please enter arguments for website as followed: scrapy crawl -a sn='www.yourwebsite.com' -a keys=\"term1,"
+        if len(csv) == 0 or len(keys) == 0:
+            print("Please enter arguments for website as followed: scrapy crawl -a csv='file.csv' -a keys=\"term1,"
             "term2, term3,...\"")
             return 0
         else:
@@ -31,7 +32,7 @@ class GsearchSpider(scrapy.Spider):
                 i -= 1
                 if i >= 1:
                     key += "+OR+"
-            self.sitename = sn
+            self.file = csv
             self.queries = "+" + key
 
     def start_requests(self):
