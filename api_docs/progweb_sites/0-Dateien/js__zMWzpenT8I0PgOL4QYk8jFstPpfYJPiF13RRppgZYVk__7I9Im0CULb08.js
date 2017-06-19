@@ -1,0 +1,6 @@
+/* Source and licensing information for the line(s) below can be found at https://www.programmableweb.com/sites/all/modules/custom/pw_views_load_more_mod/js/pw_views_load_more_mod.js. */
+(function($){Drupal.behaviors.pw_views_load_more_mod={attach:function(context,settings){$('#pager_id',context).click(function(e){if(typeof ga!="undefined")ga('send','event','load-more-pages','click','page load')})}}})(jQuery);;
+/* Source and licensing information for the above line(s) can be found at https://www.programmableweb.com/sites/all/modules/custom/pw_views_load_more_mod/js/pw_views_load_more_mod.js. */
+/* Source and licensing information for the line(s) below can be found at https://www.programmableweb.com/sites/all/modules/custom/pw_custom_ga/pw_custom_ga.js. */
+(function($){Drupal.behaviors.pw_custom_ga={attach:function(context,settings){if(Drupal.settings.search!==undefined&&Drupal.settings.search.pageCategory!==undefined){pageCategoryValueSearch=Drupal.settings.search.pageCategory;window.searchPageCategory=pageCategoryValueSearch.toString().toLowerCase()}}}})(jQuery);;
+/* Source and licensing information for the above line(s) can be found at https://www.programmableweb.com/sites/all/modules/custom/pw_custom_ga/pw_custom_ga.js. */

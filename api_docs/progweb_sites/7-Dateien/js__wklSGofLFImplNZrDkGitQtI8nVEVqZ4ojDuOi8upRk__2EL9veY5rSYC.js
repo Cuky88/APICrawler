@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at https://www.programmableweb.com/sites/all/modules/custom/pw_custom_ga/pw_custom_ga.js. */
+(function($){Drupal.behaviors.pw_custom_ga={attach:function(context,settings){if(Drupal.settings.search!==undefined&&Drupal.settings.search.pageCategory!==undefined){pageCategoryValueSearch=Drupal.settings.search.pageCategory;window.searchPageCategory=pageCategoryValueSearch.toString().toLowerCase()}}}})(jQuery);;
+/* Source and licensing information for the above line(s) can be found at https://www.programmableweb.com/sites/all/modules/custom/pw_custom_ga/pw_custom_ga.js. */
