@@ -4,80 +4,51 @@
 # scrapy crawl gsearch -a sn='paypal.com' -a keys="api documentation,api reference"
 
 import scrapy
-import datetime
-from api_docs.items import ApiDocsItem
+from api_docs.items import GoogleDocsItem, GoogleDocsItemLoader
+import jsonlines
+from scrapy.selector import Selector
+
+def get_urls_from_json():
+    lines = []
+
+    with jsonlines.open('apispider_result_v1.json') as reader:
+        for obj in reader:
+            name = obj["api_url"]
+            if name not in lines:
+                lines.append(obj['api_url'])
+        return lines
 
 class GsearchSpider(scrapy.Spider):
     name = "gsearch"
-    # queries = ('+%22api+documentation%22+OR+%22api+reference%22')
-    queries =''
-    file = ''
-    # define how many google search result-links should be crawled
-    linksToCrawl = 5
-    download_delay = 5
-    base_url_fmt = 'https://www.google.com/search?q=site:{sitename}{query}'
 
-    def __init__(self, csv='', keys='', *args, **kwargs):
+    queries = ('+%22api+documentation%22+OR+%22api+reference%22+OR+%22documentation%22')
+    url = []
+    # define how many google search result-links should be crawled
+    GooglelinksToCrawl = 5  # crawl only the first 5 google results
+    google_base_url_fmt = 'https://www.google.com/search?q=site:{sitename}{query}'
+
+    def __init__(self, *args, **kwargs):
         super(GsearchSpider, self).__init__(*args, **kwargs)
-        if len(csv) == 0 or len(keys) == 0:
-            print("Please enter arguments for website as followed: scrapy crawl -a csv='file.csv' -a keys=\"term1,"
-            "term2, term3,...\"")
-            return 0
-        else:
-            keys = keys.split(",")
-            key=''
-            i =len(keys)
-            for k in keys:
-                key += "%22" + k.replace(" ", "+") + "%22"
-                i -= 1
-                if i >= 1:
-                    key += "+OR+"
-            self.file = csv
-            self.queries = "+" + key
+        self.url = get_urls_from_json()
 
     def start_requests(self):
-        url = self.make_google_search_request()
-        yield scrapy.Request(url=url, callback=self.parse)
+        for i, link in enumerate(self.url):
+            yield scrapy.Request(url=self.google_request(link), callback=self.parse_google, meta={'link':link})
 
-    def make_google_search_request(self):
-        return self.base_url_fmt.format(sitename=self.sitename, query=self.queries)
+    def google_request(self, site_url):
+        return self.google_base_url_fmt.format(sitename=site_url, query=self.queries)
 
-    def parse(self, response):
-        # Extract Information out of Google Search
-        items = []
-        item = ApiDocsItem()
+    def parse_google(self, response):
+        loader = GoogleDocsItemLoader(item=GoogleDocsItem(), selector=Selector)
+        api_name_link = response.meta['link']
+        loader.add_value('api_name', api_name_link)
 
-        for num, sel in enumerate(response.xpath('//div[@id="ires"]//div[@class="g"]')):
-            if(num < self.linksToCrawl):
+        # Extract Information out of Google
+        for num, sel in enumerate(response.xpath('//div[@id="rso"]//div[@class="g"]')):
+            if num < self.GooglelinksToCrawl:
+                # 'link' Link von Google
+                link_str = "link" + str(num + 1)
+                link = sel.xpath('.//h3[@class="r"]//a//@href').extract()[0]
+                loader.add_value(link_str, link)
 
-                item['url'] = sel.xpath('.//div[@class="s"]//cite[@class="_Rm"]//text()').extract()[0]
-                #print(item['url'])
-                item['name'] = sel.xpath('.//h3[@class="r"]/a/text()').extract()[0]
-                #print(item['name'])
-                item['query'] = self.queries
-                # funktioniert, aber nicht nötig Google-Seiten zu speichern
-                # item['html'] = sel.xpath('//html').extract()
-                #print(item['html'])
-                item['crawled'] = datetime.datetime.utcnow().isoformat()
-
-                # Follow each link from Google to get API descriptions
-                yield scrapy.Request(item['url'], callback=self.get_descriptions, meta={'item': item, 'items': items})
-
-    def get_descriptions(self, response):
-        item = response.meta['item']
-        items = response.meta['items']
-        for num, sel in enumerate(response.xpath('//div[@class="dax-api"]')):
-            title = "title" + str(num)
-            descr = "descr" + str(num)
-            sonst = "sonst" + str(num)
-
-            item[title] = sel.xpath('.//header[@class="dax-topic"]//h2//text()').extract()[0]
-            print(item[title])
-            item[descr] = sel.xpath('.//header[@class="dax-topic"]//div[@class="dax-preamble"]//text()').extract()
-            print(item[descr])
-            item[sonst] = sel.xpath('.//div[@class="dax-resource"]//div[@class="dax-topic"]//div[@class="dax-preamble"]//text()').extract()
-            print(item[sonst])
-
-        items.append(item)
-
-        return items
+        yield loader.load_item()
