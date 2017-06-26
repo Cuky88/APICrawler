@@ -23,12 +23,20 @@ class ApiSpider(scrapy.Spider):
     base_url = "https://www.programmableweb.com"
     base_url_fmt = 'https://www.programmableweb.com/category/payments/api?pw_view_display_id=apis_all&page={page}'
 
+    # def start_requests(self):
+    #     #p = 0
+    #     for p in range(8):
+    #         url = self.base_url_fmt.format(page=p)
+    #         self.logger.info('[progweb] Scrapping ProgrammableWeb Page %d : %s', p, self.base_url_fmt.format(page=p))
+    #         yield scrapy.Request(url=url, callback=self.parse, meta={'page_num': p})
+
     def start_requests(self):
-        #p = 0
         for p in range(8):
-            url = self.base_url_fmt.format(page=p)
-            self.logger.info('[progweb] Scrapping ProgrammableWeb Page %d : %s', p, self.base_url_fmt.format(page=p))
-            yield scrapy.Request(url=url, callback=self.parse, meta={'page_num': p})
+            html_file_name = "progweb_sites/" + str(p) + ".html"
+            source_url = "file:///home/cuky/Devel/kdd2017/Crawler/api_docs/" + html_file_name
+
+            self.logger.info('[progweb] Scrapping ProgrammableWeb Page %d : %s', p, html_file_name)
+            yield scrapy.Request(url=source_url, callback=self.parse, meta={'page_num': p})
 
     def parse(self, response):
         page_num = response.meta['page_num']
