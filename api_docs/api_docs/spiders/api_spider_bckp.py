@@ -11,7 +11,7 @@ from api_docs.items import ApiDocsItem, ApiItemLoader
 
 
 class ApiSpider(scrapy.Spider):
-    name = "apispider"
+    name = "apispider_bckp"
 
     custom_settings = {
         'DOWNLOAD_DELAY': '3',

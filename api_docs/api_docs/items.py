@@ -17,7 +17,12 @@ class ApiDocsItem(Item):
     progweb_date = Field()
     crawled_date = Field()
     api_url = Field()
+    api_url_full = Field()
     progweb_descr = Field()
+    progweb_title = Field()
+    DNSLookupError = Field()
+    HttpError = Field()
+    TimeoutError = Field()
 
     # Für apidescr
     link = Field()

@@ -5,9 +5,13 @@
 
 import scrapy
 import datetime
-import urlparse
 import tldextract
 from api_docs.items import ApiDocsItem, ApiItemLoader
+from scrapy.spidermiddlewares.httperror import HttpError
+from twisted.internet.error import DNSLookupError
+from twisted.internet.error import TimeoutError
+from scrapy.selector import Selector
+import urlparse
 
 
 class ApiSpider(scrapy.Spider):
@@ -21,14 +25,16 @@ class ApiSpider(scrapy.Spider):
 
     linksToCrawl = 100  # max 100 API/Site
     base_url = "https://www.programmableweb.com"
-    base_url_fmt = 'https://www.programmableweb.com/category/payments/api?pw_view_display_id=apis_all&page={page}'
+    base_url_fmt = 'https://www.programmableweb.com/category/all/apis?page={page}'
 
     def start_requests(self):
-        #p = 0
-        for p in range(8):
+        # p = 0
+        for p in range(640):
             url = self.base_url_fmt.format(page=p)
-            self.logger.info('[progweb] Scrapping ProgrammableWeb Page %d : %s', p, self.base_url_fmt.format(page=p))
-            yield scrapy.Request(url=url, callback=self.parse, meta={'page_num': p})
+            meta = {'page_num': p, 'url':url}
+            self.logger.info('[api_spider] Scrapping ProgrammableWeb Page %d : %s', p, self.base_url_fmt.format(page=p))
+            yield scrapy.Request(url=url, callback=self.parse, meta=meta, dont_filter=True,
+                                 errback=lambda x: self.errback_progweb(x, meta))
 
     def parse(self, response):
         page_num = response.meta['page_num']
@@ -36,7 +42,7 @@ class ApiSpider(scrapy.Spider):
 
         for num, sel in enumerate(response.xpath('//div[@id="api"]//tbody//tr')):
             if num < self.linksToCrawl:
-                self.logger.info('[progweb] Page %s - Api Num %s', page_num, num)
+                self.logger.info('[api_spider] Page %s - Api Num %s', page_num, num)
                 loader = ApiItemLoader(item=ApiDocsItem(), selector=sel)
 
                 dummy = []
@@ -57,9 +63,11 @@ class ApiSpider(scrapy.Spider):
                 loader.add_value('progweb_date', dummy[1])
                 loader.add_value('crawled_date', dummy[2])
 
-                # Go to details of api
-                yield scrapy.Request(dummy[3][0], callback=self.get_descriptions, meta={'loader': loader, 'dummy': dummy})
+                meta = {'loader': loader, 'dummy': dummy}
 
+                # Go to details of api
+                yield scrapy.Request(urlparse.urljoin(self.base_url, dummy[3][0]), callback=self.get_descriptions,
+                                     meta=meta, dont_filter=True, errback=lambda x: self.errback_progweb(x, meta))
 
     def get_descriptions(self, response):
         loader = response.meta['loader']
@@ -73,16 +81,59 @@ class ApiSpider(scrapy.Spider):
                     # api_url - dummy[5]
                     extracted = tldextract.extract(sel.xpath('.//span//a//text()').extract()[0])
                     dummy.append("{}.{}".format(extracted.domain, extracted.suffix))
+                    # api_url_full - dummy[6]
+                    dummy.append(sel.xpath('.//span//a//text()').extract()[0])
                 elif sel.xpath('.//label//text()').extract()[0].strip() == "Secondary Categories":
                     # progweb_cat
                     dummy[4][0] += "," + sel.xpath('.//span//a//text()').extract()[0].strip()
 
         # Get progweb description text
-        # progweb_descr - dummy[6]
+        # progweb_descr - dummy[7]
         dummy.append(response.css('.api_description').xpath('./text()').extract())
+        # progweb_title - dummy[8]
+        dummy.append(response.css('.node-header').xpath('./h1/text()').extract())
 
         loader.add_value('progweb_cat', dummy[4])
-        loader.add_value('api_url', unicode(dummy[5]))
-        loader.add_value('progweb_descr', dummy[6])
+        if len(dummy[5]):
+            loader.add_value('api_url', unicode(dummy[5]))
+            loader.add_value('api_url_full', unicode(dummy[6]))
+            loader.add_value('progweb_descr', dummy[7])
+            loader.add_value('progweb_title', dummy[8])
+        else:
+            loader.add_value('progweb_descr', dummy[5])
+            loader.add_value('progweb_title', dummy[6])
+
+        yield loader.load_item()
+
+    def errback_progweb(self, failure, meta):
+        if 'loader' in meta:
+            loader = meta['loader']
+        else:
+            loader = ApiItemLoader(item=ApiDocsItem(), selector=Selector)
+
+        # log all errback failures,
+        # in case you want to do something special for some errors,
+        # you may need the failure's type
+        self.logger.error(repr(failure))
+
+        # if isinstance(failure.value, HttpError):
+        if failure.check(HttpError):
+            # you can get the response
+            response = failure.value.response
+            self.logger.error('[api_spider] HttpError on %s', response.url)
+            loader.add_value('HttpError', response.url)
+
+        # elif isinstance(failure.value, DNSLookupError):
+        elif failure.check(DNSLookupError):
+            # this is the original request
+            request = failure.request
+            self.logger.error('[api_spider] DNSLookupError on %s', request.url)
+            loader.add_value('DNSLookupError', request.url)
+
+        # elif isinstance(failure.value, TimeoutError):
+        elif failure.check(TimeoutError):
+            request = failure.request
+            self.logger.error('[api_spider] TimeoutError on %s', request.url)
+            loader.add_value('TimeoutError', request.url)
 
         yield loader.load_item()
