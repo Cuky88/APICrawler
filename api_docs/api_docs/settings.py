@@ -15,29 +15,30 @@ SPIDER_MODULES = ['api_docs.spiders']
 NEWSPIDER_MODULE = 'api_docs.spiders'
 
 #USER_AGENT = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0"
-#USER_AGENT = "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36"
+USER_AGENT = "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36"
 # use random User-Agents
 #DOWNLOADER_MIDDLEWARES = {
 #    'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
 #    'api_docs.middlewares.RandomUserAgentMiddleware': 400,
 #}
 
+# Uncomment to activate Scrapoxy
 # Scrapoxy Settings
-CONCURRENT_REQUESTS_PER_DOMAIN = 1
-RETRY_TIMES = 0
+#CONCURRENT_REQUESTS_PER_DOMAIN = 1
+#RETRY_TIMES = 0
 
-# PROXY
-PROXY = 'http://127.0.0.1:8888/?noconnect'
+# SCRAPROXY
+#PROXY = 'http://127.0.0.1:8888/?noconnect'
 
 # SCRAPOXY
-API_SCRAPOXY = 'http://127.0.0.1:8889/api'
-API_SCRAPOXY_PASSWORD = 'KDD2017'
-WAIT_FOR_START = 50
+#API_SCRAPOXY = 'http://127.0.0.1:8889/api'
+#API_SCRAPOXY_PASSWORD = 'KDD2017'
+#WAIT_FOR_START = 50
 
 DOWNLOADER_MIDDLEWARES = {
-    'scrapoxy.downloadmiddlewares.proxy.ProxyMiddleware': 100,
-    'scrapoxy.downloadmiddlewares.wait.WaitMiddleware': 101,
-    'scrapoxy.downloadmiddlewares.scale.ScaleMiddleware': 102,
+    #'scrapoxy.downloadmiddlewares.proxy.ProxyMiddleware': 100,
+    #'scrapoxy.downloadmiddlewares.wait.WaitMiddleware': 101,
+    #'scrapoxy.downloadmiddlewares.scale.ScaleMiddleware': 102,
     'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': None,
     'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
     'api_docs.middlewares.RandomUserAgentMiddleware': 400,
