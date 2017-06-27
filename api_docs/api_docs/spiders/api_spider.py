@@ -1,5 +1,5 @@
-# Ausfhren mit cmd:
-# scrapy crawl doccrawl
+# Ausfhren mit cmd aus /kdd2017/Crawler/api_docs:
+# scrapy crawl apispider
 
 # Start Scrapoxy with: scrapoxy start conf.json -d
 
@@ -29,18 +29,19 @@ class ApiSpider(scrapy.Spider):
 
     def start_requests(self):
         # p = 0
-        for p in range(640):
+        for p in range(5): #640
             url = self.base_url_fmt.format(page=p)
             meta = {'page_num': p, 'url':url}
             self.logger.info('[api_spider] Scrapping ProgrammableWeb Page %d : %s', p, self.base_url_fmt.format(page=p))
-            yield scrapy.Request(url=url, callback=self.parse, meta=meta, dont_filter=True,
-                                 errback=lambda x: self.errback_progweb(x, meta))
+
+            yield scrapy.Request(url=url, callback=self.parse, meta=meta,
+                                 errback=lambda self, err: self.errback_progweb(err, meta))
 
     def parse(self, response):
         page_num = response.meta['page_num']
         # Extract Information out of ProgrammableWeb
 
-        for num, sel in enumerate(response.xpath('//div[@id="api"]//tbody//tr')):
+        for num, sel in enumerate(response.xpath('//section[@id="block-system-main"]//div[@class="view-content"]//tbody//tr')):
             if num < self.linksToCrawl:
                 self.logger.info('[api_spider] Page %s - Api Num %s', page_num, num)
                 loader = ApiItemLoader(item=ApiDocsItem(), selector=sel)
@@ -53,10 +54,9 @@ class ApiSpider(scrapy.Spider):
                 # crawled_date - dummy[2]
                 dummy.append(unicode(datetime.datetime.utcnow().isoformat()))
                 # progweb_url -dummy[3]
-                dummy.append(sel.css('.views-field-title').xpath('./a/@href').extract())
+                dummy.append(sel.css('.views-field-title').xpath('.//a/@href').extract())
                 # progweb_cat - dummy[4]
-                dummy.append( \
-                    sel.css('.views-field-field-article-primary-category').xpath('./a/text()').extract())
+                dummy.append(sel.css('.views-field-field-article-primary-category').xpath('./a/text()').extract())
 
                 loader.add_value('id', num)
                 loader.add_value('api_name', dummy[0])
@@ -67,7 +67,7 @@ class ApiSpider(scrapy.Spider):
 
                 # Go to details of api
                 yield scrapy.Request(urlparse.urljoin(self.base_url, dummy[3][0]), callback=self.get_descriptions,
-                                     meta=meta, dont_filter=True, errback=lambda x: self.errback_progweb(x, meta))
+                                     meta=meta, errback=lambda self, err: self.errback_progweb(err, meta))
 
     def get_descriptions(self, response):
         loader = response.meta['loader']
@@ -105,11 +105,14 @@ class ApiSpider(scrapy.Spider):
 
         yield loader.load_item()
 
-    def errback_progweb(self, failure, meta):
+    def errback_progweb(self, failure):
         if 'loader' in meta:
             loader = meta['loader']
         else:
             loader = ApiItemLoader(item=ApiDocsItem(), selector=Selector)
+
+        if 'url' in meta:
+            loader.add_value('page_url', meta['url'])
 
         # log all errback failures,
         # in case you want to do something special for some errors,

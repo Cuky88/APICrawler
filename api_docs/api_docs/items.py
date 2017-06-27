@@ -20,6 +20,7 @@ class ApiDocsItem(Item):
     api_url_full = Field()
     progweb_descr = Field()
     progweb_title = Field()
+    page_url = Field()
     DNSLookupError = Field()
     HttpError = Field()
     TimeoutError = Field()
