@@ -29,7 +29,7 @@ class ApiSpider(scrapy.Spider):
 
     def start_requests(self):
         # p = 0
-        for p in range(5): #640
+        for p in range(640): #640
             url = self.base_url_fmt.format(page=p)
             meta = {'page_num': p, 'url':url}
             self.logger.info('[api_spider] Scrapping ProgrammableWeb Page %d : %s', p, self.base_url_fmt.format(page=p))
@@ -105,7 +105,7 @@ class ApiSpider(scrapy.Spider):
 
         yield loader.load_item()
 
-    def errback_progweb(self, failure):
+    def errback_progweb(self, failure, meta):
         if 'loader' in meta:
             loader = meta['loader']
         else:
