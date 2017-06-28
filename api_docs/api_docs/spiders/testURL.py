@@ -15,52 +15,52 @@ def main(argv):
         start_time = time.time()
         for i, obj in enumerate(read):
             dic = {}
-            if i < 5:
-                if 'api_url' in obj:
-                    host = obj["api_url"]
-                    url = obj["api_url_full"]
-                    title = obj["progweb_title"]
 
-                    if title not in lines:
-                        dic['api_url'] = host
-                        dic['api_url_full'] = url
-                        dic['progweb_title'] = title
+            if 'api_url' in obj:
+                host = obj["api_url"]
+                url = obj["api_url_full"]
+                title = obj["progweb_title"]
 
-                        try:
-                            a = urllib2.urlopen(url)
+                if title not in lines:
+                    dic['api_url'] = host
+                    dic['api_url_full'] = url
+                    dic['progweb_title'] = title
 
-                            print(str(i) + " Status: " + str(a.getcode()))
+                    try:
+                        a = urllib2.urlopen(url)
 
-                            dic['error'] = 0
+                        print(str(i) + " Status: " + str(a.getcode()))
 
-                            lines.append(dic)
-                        except (urllib2.HTTPError, ValueError) as e:
-                            dic['error'] = 1
-                            lines.append(dic)
-                            continue
-                        except urllib2.URLError as e:
-                            dic['error'] = 2
-                            lines.append(dic)
-                            continue
-                        except httplib.BadStatusLine as e:
-                            dic['error'] = 3
-                            lines.append(dic)
-                            continue
-                        except:
-                            dic['error'] = 4
-                            lines.append(dic)
-                            continue
+                        dic['error'] = 0
 
-        elapsed_time = time.time() - start_time
-        print('It took ' + str(elapsed_time) + ' seconds')
+                        lines.append(dic)
+                    except (urllib2.HTTPError, ValueError) as e:
+                        dic['error'] = 1
+                        lines.append(dic)
+                        continue
+                    except urllib2.URLError as e:
+                        dic['error'] = 2
+                        lines.append(dic)
+                        continue
+                    except httplib.BadStatusLine as e:
+                        dic['error'] = 3
+                        lines.append(dic)
+                        continue
+                    except:
+                        dic['error'] = 4
+                        lines.append(dic)
+                        continue
 
-    with jsonlines.open('dump.json', mode='w') as writer:
-        # json.dump(lines, writer, indent=2)
-        # writer.write('\n')
-        writer.write(lines)
+    elapsed_time = time.time() - start_time
+    print('It took ' + str(elapsed_time) + ' seconds')
 
-        # return lines
 
+with jsonlines.open('dump.json', mode='w') as writer:
+    # json.dump(lines, writer, indent=2)
+    # writer.write('\n')
+    writer.write(lines)
+
+    # return lines
 
 if __name__ == "__main__":
     main(sys.argv)
