@@ -30,12 +30,16 @@ class ApiDocsItem(Item):
     descr = Field()
 
 class GoogleDocsItem(Item):
+    from_g = Field()
     api_name = Field()
     link1 = Field()
     link2 = Field()
     link3 = Field()
     link4 = Field()
     link5 = Field()
+    DNSLookupError = Field()
+    HttpError = Field()
+    TimeoutError = Field()
 
 class ApiItemLoader(ItemLoader):
     default_item_class = ApiDocsItem
@@ -55,6 +59,7 @@ class GoogleDocsItemLoader(ItemLoader):
     default_output_processor = TakeFirst()
 
     id_in = TakeFirst()
+    from_g_in = TakeFirst()
     link1_in = TakeFirst()
     link2_in = TakeFirst()
     link3_in = TakeFirst()

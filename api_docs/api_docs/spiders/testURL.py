@@ -2,6 +2,8 @@ import jsonlines
 import json
 import sys
 import urllib2
+import httplib
+
 import time
 from pprint import pprint
 
@@ -28,16 +30,23 @@ def main(argv):
 
                     try:
                         a = urllib2.urlopen(url)
-                        a.getcode()
 
                         if i % 10 == 0:
-                            print("%d .....Working....", i)
+                            print(str(i) + " .....Working....Status: " + a.getcode())
 
                         dic['error'] = 0
                     except (urllib2.HTTPError, ValueError) as e:
                         dic['error'] = 1
+                        continue
                     except urllib2.URLError as e:
                         dic['error'] = 2
+                        continue
+                    except httplib.BadStatusLine as e:
+                        dic['error'] = 3
+                        continue
+                    except:
+                        dic['error'] = 4
+                        continue
 
                     lines.append(dic)
                     # print("LINES: %s", lines)
