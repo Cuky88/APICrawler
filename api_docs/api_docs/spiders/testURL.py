@@ -55,12 +55,12 @@ def main(argv):
     print('It took ' + str(elapsed_time) + ' seconds')
 
 
-with jsonlines.open('dump.json', mode='w') as writer:
-    # json.dump(lines, writer, indent=2)
-    # writer.write('\n')
-    writer.write(lines)
+    with jsonlines.open('dump.json', mode='w') as writer:
+        # json.dump(lines, writer, indent=2)
+        # writer.write('\n')
+        writer.write(lines)
 
-    # return lines
+        # return lines
 
 if __name__ == "__main__":
     main(sys.argv)
