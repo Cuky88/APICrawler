@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Ausführen mit cmd:
-# scrapy crawl gsearch -a sn='paypal.com' -a keys="api documentation,api reference"
+# scrapy crawl gsearch
 
 import scrapy
 from api_docs.items import GoogleDocsItem, GoogleDocsItemLoader
@@ -42,7 +42,7 @@ class GsearchSpider(scrapy.Spider):
     url = []
     # define how many google search result-links should be crawled
     GooglelinksToCrawl = 5  # crawl only the first 5 google results
-    google_base_url_fmt = 'https://www.google.com/search?q=site:{sitename}{query}'
+    google_base_url_fmt = 'https://www.google.com/search?q=site:{sitename}{query}&lr=lang_en'
 
     def __init__(self, *args, **kwargs):
         super(GsearchSpider, self).__init__(*args, **kwargs)
@@ -52,11 +52,9 @@ class GsearchSpider(scrapy.Spider):
     def start_requests(self):
         for i, entry in enumerate(self.url):
             loader = GoogleDocsItemLoader(item=GoogleDocsItem(), selector=Selector)
-            print("Loader init")
 
             meta = {'link': entry['api_url'], 'title': entry['progweb_title'], 'id': i, 'loader': loader,
                     'error': entry['error'], 'full_link': entry['api_url_full']}
-            print("Meta init")
 
             if entry['error'] in (1, 2, 3, 4):
                 self.logger.info('[gsearch] Error code %d on %s ##### starting google search', entry['error'], entry['api_url_full'])
@@ -65,7 +63,6 @@ class GsearchSpider(scrapy.Spider):
                                      meta=meta, dont_filter=True,
                                      errback=lambda self, err: self.errback_gsearch(err, meta))
             else:
-                print("in else")
                 self.logger.info('[gsearch] Link on %s successful', entry['api_url_full'])
 
                 yield scrapy.Request(url="http://example.com", callback=self.noparse,
@@ -74,7 +71,7 @@ class GsearchSpider(scrapy.Spider):
 
     def google_request(self, site_url, meta):
         query = self.queries
-        query += '+AND+%22' + meta['title'] + '%22'
+        query += '%22' + meta['title'] + '%22'
         return self.google_base_url_fmt.format(sitename=site_url, query=query)
 
     def noparse(self, response):
@@ -99,12 +96,13 @@ class GsearchSpider(scrapy.Spider):
         loader.add_value('error', response.meta['error'])
 
         # Extract Information out of Google
-        for num, sel in enumerate(response.xpath('//div[@id="rso"]//div[@class="g"]')):
-            if num < self.GooglelinksToCrawl:
-                # 'link' Link von Google
-                link_str = "link" + str(num + 1)
-                link = sel.xpath('.//h3[@class="r"]//a//@href').extract()[0]
-                loader.add_value(link_str, link)
+        if len(response.xpath('//div[@id="rso"]//div[@class="g"]')) > 0:
+            for num, sel in enumerate(response.xpath('//div[@id="rso"]//div[@class="g"]')):
+                if num < self.GooglelinksToCrawl:
+                    # 'link' Link von Google
+                    link_str = "link" + str(num + 1)
+                    link = sel.xpath('.//h3[@class="r"]//a//@href').extract()[0]
+                    loader.add_value(link_str, link)
 
         yield loader.load_item()
 
