@@ -71,7 +71,7 @@ class GsearchSpider(scrapy.Spider):
 
     def google_request(self, site_url, meta):
         query = self.queries
-        query += '%22' + meta['title'] + '%22'
+        query += '+%22' + meta['title'] + '%22'
         return self.google_base_url_fmt.format(sitename=site_url, query=query)
 
     def noparse(self, response):
