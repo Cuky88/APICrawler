@@ -7,7 +7,7 @@
 
 from scrapy.item import Item, Field
 from scrapy.loader import ItemLoader
-from scrapy.loader.processors import TakeFirst, Join, MapCompose
+from scrapy.loader.processors import TakeFirst, Join, MapCompose, Identity
 
 class ApiDocsItem(Item):
     id = Field()
@@ -30,25 +30,27 @@ class ApiDocsItem(Item):
     descr = Field()
 
 class GoogleDocsItem(Item):
-    from_g = Field()
     api_name = Field()
+    api_title = Field()
+    from_g = Field()
+    id = Field()
+    error = Field()
     link1 = Field()
     link2 = Field()
     link3 = Field()
     link4 = Field()
     link5 = Field()
-    DNSLookupError = Field()
     HttpError = Field()
+    DNSLookupError = Field()
     TimeoutError = Field()
     UnknownError = Field()
-    error = Field()
 
 class ApiItemLoader(ItemLoader):
     default_item_class = ApiDocsItem
     default_input_processor = MapCompose(unicode.strip)
     default_output_processor = TakeFirst()
 
-    id_in = TakeFirst()
+    id_in = Identity()
     progweb_descr_in = MapCompose(lambda x: x.replace("\n", " ").strip())
     progweb_descr_out = Join()
     descr_in = MapCompose(lambda x: x.replace("\n", " ").strip())
@@ -60,10 +62,11 @@ class GoogleDocsItemLoader(ItemLoader):
     #default_input_processor = MapCompose(lambda x: x.replace("\n", " ").strip())
     default_output_processor = TakeFirst()
 
-    id_in = TakeFirst()
-    from_g_in = TakeFirst()
-    link1_in = TakeFirst()
-    link2_in = TakeFirst()
-    link3_in = TakeFirst()
-    link4_in = TakeFirst()
-    link5_in = TakeFirst()
+    id_in = Identity()
+    error_in = Identity()
+    from_g_in = Identity()
+    #link1_in = TakeFirst()
+    #link2_in = TakeFirst()
+    #link3_in = TakeFirst()
+    #link4_in = TakeFirst()
+    #link5_in = TakeFirst()

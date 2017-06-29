@@ -9,14 +9,17 @@ from scrapy.spidermiddlewares.httperror import HttpError
 from twisted.internet.error import DNSLookupError
 from twisted.internet.error import TimeoutError
 from scrapy.selector import Selector
-import jsonlines
+import json
+from pprint import pprint
+
 
 def get_urls_from_json():
     lines = []
-    dic = {}
 
-    with jsonlines.open('dump.json') as reader:
-        for obj in reader:
+    with open('dump.json') as reader:
+        read = json.load(reader)
+        for i, obj in enumerate(read):
+            dic = {}
             if 'api_url' in obj:
                 host = obj["api_url"]
                 url = obj["api_url_full"]
@@ -30,8 +33,7 @@ def get_urls_from_json():
                     dic['error'] = error
 
                     lines.append(dic)
-
-        return lines
+    return lines
 
 class GsearchSpider(scrapy.Spider):
     name = "gsearch"
@@ -50,33 +52,48 @@ class GsearchSpider(scrapy.Spider):
     def start_requests(self):
         for i, entry in enumerate(self.url):
             loader = GoogleDocsItemLoader(item=GoogleDocsItem(), selector=Selector)
+            print("Loader init")
+
+            meta = {'link': entry['api_url'], 'title': entry['progweb_title'], 'id': i, 'loader': loader,
+                    'error': entry['error'], 'full_link': entry['api_url_full']}
+            print("Meta init")
 
             if entry['error'] in (1, 2, 3, 4):
                 self.logger.info('[gsearch] Error code %d on %s ##### starting google search', entry['error'], entry['api_url_full'])
-                meta = {'link': entry['api_url'], 'title': entry['progweb_title'], 'id': i, 'loader': loader,
-                        'error': entry['error']}
+
                 yield scrapy.Request(url=self.google_request(entry['api_url'], meta), callback=self.parse_google,
                                      meta=meta, dont_filter=True,
                                      errback=lambda self, err: self.errback_gsearch(err, meta))
             else:
+                print("in else")
                 self.logger.info('[gsearch] Link on %s successful', entry['api_url_full'])
 
-                loader.add_value('api_name', entry['api_url'])
-                loader.add_value('from_g', 0)
-                loader.add_value('link1', entry['api_url_full'])
-                loader.add_value('id', i)
-
-                yield loader.load_item()
+                yield scrapy.Request(url="http://example.com", callback=self.noparse,
+                                     meta=meta, dont_filter=True,
+                                     errback=lambda self, err: self.errback_gsearch(err, meta))
 
     def google_request(self, site_url, meta):
         query = self.queries
         query += '+AND+%22' + meta['title'] + '%22'
         return self.google_base_url_fmt.format(sitename=site_url, query=query)
 
+    def noparse(self, response):
+        loader = response.meta['loader']
+
+        loader.add_value('api_name', response.meta['link'])
+        loader.add_value('api_title', response.meta['title'])
+        loader.add_value('from_g', 0)
+        loader.add_value('id', response.meta['id'])
+        loader.add_value('error', response.meta['error'])
+        loader.add_value('link1', response.meta['full_link'])
+
+        yield loader.load_item()
+
     def parse_google(self, response):
         loader = response.meta['loader']
 
         loader.add_value('api_name', response.meta['link'])
+        loader.add_value('api_title', response.meta['title'])
         loader.add_value('from_g', 1)
         loader.add_value('id', response.meta['id'])
         loader.add_value('error', response.meta['error'])
@@ -93,6 +110,12 @@ class GsearchSpider(scrapy.Spider):
 
     def errback_gsearch(self, failure, meta):
         loader = meta['loader']
+
+        loader.add_value('api_name', meta['link'])
+        loader.add_value('api_title', meta['title'])
+        loader.add_value('from_g', 2)
+        loader.add_value('id', meta['id'])
+        loader.add_value('error', meta['error'])
 
         # log all errback failures,
         # in case you want to do something special for some errors,
