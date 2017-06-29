@@ -40,6 +40,8 @@ class GoogleDocsItem(Item):
     DNSLookupError = Field()
     HttpError = Field()
     TimeoutError = Field()
+    UnknownError = Field()
+    error = Field()
 
 class ApiItemLoader(ItemLoader):
     default_item_class = ApiDocsItem
