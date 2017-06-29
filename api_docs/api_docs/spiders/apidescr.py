@@ -70,7 +70,9 @@ class DescrSpider(scrapy.Spider):
         'AUTOTHROTTLE_ENABLED': 'False',
     }
 
-    nltk.data.path.append('/home/cuky/Devel/kdd2017/Crawler/api_docs/nltk')
+    #.data.path.append('/home/cuky/Devel/kdd2017/Crawler/api_docs/nltk')
+    # for VM
+    nltk.data.path.append('/home/kdd/APICrawler/api_docs/nltk')
     cachedStopWords = set(stopwords.words("english"))
     cachedStopWords.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{', '}'])
 
