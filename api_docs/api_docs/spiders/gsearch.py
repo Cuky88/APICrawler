@@ -65,7 +65,7 @@ class GsearchSpider(scrapy.Spider):
 
                 yield scrapy.Request(url=self.google_request(entry['api_url'], meta1), callback=self.parse_google,
                                      meta=meta1, dont_filter=True,
-                                     errback=lambda err: self.errback_gsearch(err, meta1))
+                                     errback=lambda err: self.errback_gsearch1(err, meta1))
             else:
                 self.logger.info('[gsearch] Link on %s successful', entry['api_url_full'])
 
@@ -74,7 +74,7 @@ class GsearchSpider(scrapy.Spider):
 
                 yield scrapy.Request(url="http://example.com", callback=self.noparse,
                                      meta=meta2, dont_filter=True,
-                                     errback=lambda err: self.errback_gsearch(err, meta2))
+                                     errback=lambda err: self.errback_gsearch2(err, meta2))
 
     def google_request(self, site_url, meta):
         query = self.queries
@@ -113,12 +113,52 @@ class GsearchSpider(scrapy.Spider):
 
         yield loader.load_item()
 
-    def errback_gsearch(self, failure, meta):
+    def errback_gsearch1(self, failure, meta):
         loader = meta['loader']
 
         loader.add_value('api_name', meta['link'])
         loader.add_value('api_title', meta['title'])
-        loader.add_value('from_g', 2)
+        loader.add_value('from_g', 11)
+        loader.add_value('id', meta['id'])
+        loader.add_value('error', meta['error'])
+
+        # log all errback failures,
+        # in case you want to do something special for some errors,
+        # you may need the failure's type
+        self.logger.error(repr(failure))
+
+        # if isinstance(failure.value, HttpError):
+        if failure.check(HttpError):
+            # you can get the response
+            response = failure.value.response
+            self.logger.error('[gsearch] HttpError on %s', response.url)
+            loader.add_value('gHttpError', response.url)
+
+        # elif isinstance(failure.value, DNSLookupError):
+        elif failure.check(DNSLookupError):
+            # this is the original request
+            request = failure.request
+            self.logger.error('[gsearch] DNSLookupError on %s', request.url)
+            loader.add_value('gDNSLookupError', request.url)
+
+        # elif isinstance(failure.value, TimeoutError):
+        elif failure.check(TimeoutError, TCPTimedOutError):
+            request = failure.request
+            self.logger.error('[gsearch] TimeoutError on %s', request.url)
+            loader.add_value('gTimeoutError', request.url)
+
+        else:
+            request = failure.request
+            loader.add_value('gUnknownError', request.url)
+
+        yield loader.load_item()
+
+    def errback_gsearch2(self, failure, meta):
+        loader = meta['loader']
+
+        loader.add_value('api_name', meta['link'])
+        loader.add_value('api_title', meta['title'])
+        loader.add_value('from_g', 01)
         loader.add_value('id', meta['id'])
         loader.add_value('error', meta['error'])
 
