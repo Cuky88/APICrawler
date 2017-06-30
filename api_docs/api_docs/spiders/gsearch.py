@@ -129,23 +129,23 @@ class GsearchSpider(scrapy.Spider):
             # you can get the response
             response = failure.value.response
             self.logger.error('[gsearch] HttpError on %s', response.url)
-            loader.add_value('HttpError', response.url)
+            loader.add_value('gHttpError', response.url)
 
         # elif isinstance(failure.value, DNSLookupError):
         elif failure.check(DNSLookupError):
             # this is the original request
             request = failure.request
             self.logger.error('[gsearch] DNSLookupError on %s', request.url)
-            loader.add_value('DNSLookupError', request.url)
+            loader.add_value('gDNSLookupError', request.url)
 
         # elif isinstance(failure.value, TimeoutError):
         elif failure.check(TimeoutError, TCPTimedOutError):
             request = failure.request
             self.logger.error('[gsearch] TimeoutError on %s', request.url)
-            loader.add_value('TimeoutError', request.url)
+            loader.add_value('gTimeoutError', request.url)
 
         else:
             request = failure.request
-            loader.add_value('UnknownError', request.url)
+            loader.add_value('gUnknownError', request.url)
 
         yield loader.load_item()

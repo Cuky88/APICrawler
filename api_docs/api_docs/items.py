@@ -40,10 +40,10 @@ class GoogleDocsItem(Item):
     link3 = Field()
     link4 = Field()
     link5 = Field()
-    HttpError = Field()
-    DNSLookupError = Field()
-    TimeoutError = Field()
-    UnknownError = Field()
+    gHttpError = Field()
+    gDNSLookupError = Field()
+    gTimeoutError = Field()
+    gUnknownError = Field()
 
 class ApiItemLoader(ItemLoader):
     default_item_class = ApiDocsItem
@@ -65,6 +65,10 @@ class GoogleDocsItemLoader(ItemLoader):
     id_in = Identity()
     error_in = Identity()
     from_g_in = Identity()
+    gHttpError_in = Identity()
+    gDNSLookupError_in = Identity()
+    gTimeoutError_in = Identity()
+    gUnknownError_in = Identity()
     #link1_in = TakeFirst()
     #link2_in = TakeFirst()
     #link3_in = TakeFirst()
