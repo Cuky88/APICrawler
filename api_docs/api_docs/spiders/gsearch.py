@@ -64,13 +64,13 @@ class GsearchSpider(scrapy.Spider):
 
                 yield scrapy.Request(url=self.google_request(entry['api_url'], meta), callback=self.parse_google,
                                      meta=meta, dont_filter=True,
-                                     errback=lambda self, err: self.errback_gsearch(err, meta))
+                                     errback=lambda err, meta: self.errback_gsearch(err, meta))
             else:
                 self.logger.info('[gsearch] Link on %s successful', entry['api_url_full'])
 
                 yield scrapy.Request(url="http://example.com", callback=self.noparse,
                                      meta=meta, dont_filter=True,
-                                     errback=lambda self, err: self.errback_gsearch(err, meta))
+                                     errback=lambda err, meta: self.errback_gsearch(err, meta))
 
     def google_request(self, site_url, meta):
         query = self.queries

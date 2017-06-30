@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Ausführen mit cmd:
-# scrapy crawl gsearch -a sn='paypal.com' -a keys="api documentation,api reference"
+# scrapy crawl apidescr
 
 import scrapy
 from api_docs.items import ApiDocsItem, ApiItemLoader
@@ -70,7 +70,7 @@ class DescrSpider(scrapy.Spider):
         'AUTOTHROTTLE_ENABLED': 'False',
     }
 
-    #.data.path.append('/home/cuky/Devel/kdd2017/Crawler/api_docs/nltk')
+    #nltk.data.path.append('/home/cuky/Devel/kdd2017/Crawler/api_docs/nltk')
     # for VM
     nltk.data.path.append('/home/kdd/kdd/APICrawler/api_docs/nltk')
     cachedStopWords = set(stopwords.words("english"))
