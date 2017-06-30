@@ -7,7 +7,7 @@ import scrapy
 from api_docs.items import GoogleDocsItem, GoogleDocsItemLoader
 from scrapy.spidermiddlewares.httperror import HttpError
 from twisted.internet.error import DNSLookupError
-from twisted.internet.error import TimeoutError
+from twisted.internet.error import TimeoutError, TCPTimedOutError
 from scrapy.selector import Selector
 import json
 from pprint import pprint
@@ -135,7 +135,7 @@ class GsearchSpider(scrapy.Spider):
             loader.add_value('DNSLookupError', request.url)
 
         # elif isinstance(failure.value, TimeoutError):
-        elif failure.check(TimeoutError):
+        elif failure.check(TimeoutError, TCPTimedOutError):
             request = failure.request
             self.logger.error('[gsearch] TimeoutError on %s', request.url)
             loader.add_value('TimeoutError', request.url)

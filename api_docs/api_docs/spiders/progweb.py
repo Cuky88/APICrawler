@@ -1,3 +1,5 @@
+# DO not use this spider. It wasdesigned to crawl everything at once, which will not work and lead to loss of information
+
 import scrapy
 import logging
 import urlparse

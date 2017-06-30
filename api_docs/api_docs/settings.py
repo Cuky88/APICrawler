@@ -16,11 +16,6 @@ NEWSPIDER_MODULE = 'api_docs.spiders'
 
 #USER_AGENT = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0"
 USER_AGENT = "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36"
-# use random User-Agents
-#DOWNLOADER_MIDDLEWARES = {
-#    'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
-#    'api_docs.middlewares.RandomUserAgentMiddleware': 400,
-#}
 
 # Uncomment to activate Scrapoxy
 # Scrapoxy Settings
@@ -70,10 +65,10 @@ PROXY_MODE = 0
 #CUSTOM_PROXY = "http://host1:port"
 
 # Retry many times since proxies often fail
-RETRY_TIMES = 2
+RETRY_TIMES = 1
 # Retry on most error codes since proxies fail for different reasons
-RETRY_HTTP_CODES = [500, 503, 504, 400, 403, 404, 408]
-HTTPERROR_ALLOWED_CODES = [500, 503, 504, 400, 403, 404, 408]
+#RETRY_HTTP_CODES = [500, 502, 503, 504, 400, 403, 404, 408]
+#HTTPERROR_ALLOWED_CODES = [500, 502, 503, 504, 400, 403, 404, 408]
 
 USER_AGENT_LIST = "useragents.txt"
 
