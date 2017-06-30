@@ -57,21 +57,24 @@ class GsearchSpider(scrapy.Spider):
             loader = GoogleDocsItemLoader(item=GoogleDocsItem(), selector=Selector)
             print("######### Working on " + str(i) + ".API #########")
 
-            meta = {'link': entry['api_url'], 'title': entry['progweb_title'], 'id': i, 'loader': loader,
-                    'error': entry['error'], 'full_link': entry['api_url_full']}
-
             if entry['error'] in (1, 2, 3, 4):
                 self.logger.info('[gsearch] Error code %d on %s ##### starting google search', entry['error'], entry['api_url_full'])
 
-                yield scrapy.Request(url=self.google_request(entry['api_url'], meta), callback=self.parse_google,
-                                     meta=meta, dont_filter=True,
-                                     errback=lambda err: self.errback_gsearch(err, meta))
+                meta1 = {'link': entry['api_url'], 'title': entry['progweb_title'], 'id': i, 'loader': loader,
+                        'error': entry['error'], 'full_link': entry['api_url_full']}
+
+                yield scrapy.Request(url=self.google_request(entry['api_url'], meta1), callback=self.parse_google,
+                                     meta=meta1, dont_filter=True,
+                                     errback=lambda err: self.errback_gsearch(err, meta1))
             else:
                 self.logger.info('[gsearch] Link on %s successful', entry['api_url_full'])
 
+                meta2 = {'link': entry['api_url'], 'title': entry['progweb_title'], 'id': i, 'loader': loader,
+                        'error': entry['error'], 'full_link': entry['api_url_full']}
+
                 yield scrapy.Request(url="http://example.com", callback=self.noparse,
-                                     meta=meta, dont_filter=True,
-                                     errback=lambda err: self.errback_gsearch(err, meta))
+                                     meta=meta2, dont_filter=True,
+                                     errback=lambda err: self.errback_gsearch(err, meta2))
 
     def google_request(self, site_url, meta):
         query = self.queries
