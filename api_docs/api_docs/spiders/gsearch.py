@@ -35,7 +35,7 @@ def get_urls_from_json():
 
                     lines.append(dic)
                     cnt = i
-    print("######### Successfully loaded " + str(cnt) + "APIs #########")
+    print("######### Successfully loaded " + str(cnt) + " APIs #########")
     return lines
 
 class GsearchSpider(scrapy.Spider):
@@ -55,6 +55,7 @@ class GsearchSpider(scrapy.Spider):
     def start_requests(self):
         for i, entry in enumerate(self.url):
             loader = GoogleDocsItemLoader(item=GoogleDocsItem(), selector=Selector)
+            print("######### Working on " + str(i) + ".API #########")
 
             meta = {'link': entry['api_url'], 'title': entry['progweb_title'], 'id': i, 'loader': loader,
                     'error': entry['error'], 'full_link': entry['api_url_full']}
@@ -64,13 +65,13 @@ class GsearchSpider(scrapy.Spider):
 
                 yield scrapy.Request(url=self.google_request(entry['api_url'], meta), callback=self.parse_google,
                                      meta=meta, dont_filter=True,
-                                     errback=lambda err, meta: self.errback_gsearch(err, meta))
+                                     errback=lambda err: self.errback_gsearch(err, meta))
             else:
                 self.logger.info('[gsearch] Link on %s successful', entry['api_url_full'])
 
                 yield scrapy.Request(url="http://example.com", callback=self.noparse,
                                      meta=meta, dont_filter=True,
-                                     errback=lambda err, meta: self.errback_gsearch(err, meta))
+                                     errback=lambda err: self.errback_gsearch(err, meta))
 
     def google_request(self, site_url, meta):
         query = self.queries
