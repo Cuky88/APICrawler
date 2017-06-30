@@ -15,6 +15,7 @@ from pprint import pprint
 
 def get_urls_from_json():
     lines = []
+    cnt = 0
 
     with open('dump.json') as reader:
         read = json.load(reader)
@@ -33,6 +34,8 @@ def get_urls_from_json():
                     dic['error'] = error
 
                     lines.append(dic)
+                    cnt = i
+    print("######### Successfully loaded " + str(cnt) + "APIs #########")
     return lines
 
 class GsearchSpider(scrapy.Spider):
