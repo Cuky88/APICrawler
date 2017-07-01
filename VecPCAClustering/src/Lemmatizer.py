@@ -2,7 +2,7 @@ import nltk
 from nltk.corpus import wordnet as wn
 from nltk.stem import WordNetLemmatizer
 
-
+##assign Wordnet Tag
 def is_noun(tag):
     return tag in ['NN', 'NNS', 'NNP', 'NNPS']
 
@@ -47,6 +47,7 @@ def stem(list2):
     text = ""
     wnl = WordNetLemmatizer()
     for tup in add_pos(list2):
+        ##checks if word is in wordnet. commented out to get special descriptions as well
         #if len(wn.synsets(tup[0])) > 0:
             text = text + " " + wnl.lemmatize(tup[0], tup[1])
     return text
