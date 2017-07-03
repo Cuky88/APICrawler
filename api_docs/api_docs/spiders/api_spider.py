@@ -35,7 +35,7 @@ class ApiSpider(scrapy.Spider):
             self.logger.info('[api_spider] Scrapping ProgrammableWeb Page %d : %s', p, self.base_url_fmt.format(page=p))
 
             yield scrapy.Request(url=url, callback=self.parse, meta=meta,
-                                 errback=lambda self, err: self.errback_progweb(err, meta))
+                                 errback=lambda err: self.errback_progweb(err, meta))
 
     def parse(self, response):
         page_num = response.meta['page_num']
@@ -67,7 +67,7 @@ class ApiSpider(scrapy.Spider):
 
                 # Go to details of api
                 yield scrapy.Request(urlparse.urljoin(self.base_url, dummy[3][0]), callback=self.get_descriptions,
-                                     meta=meta, errback=lambda self, err: self.errback_progweb(err, meta))
+                                     meta=meta, errback=lambda err: self.errback_progweb(err, meta))
 
     def get_descriptions(self, response):
         loader = response.meta['loader']
@@ -138,5 +138,9 @@ class ApiSpider(scrapy.Spider):
             request = failure.request
             self.logger.error('[api_spider] TimeoutError on %s', request.url)
             loader.add_value('TimeoutError', request.url)
+
+        else:
+            request = failure.request
+            loader.add_value('UnknownError', request.url)
 
         yield loader.load_item()

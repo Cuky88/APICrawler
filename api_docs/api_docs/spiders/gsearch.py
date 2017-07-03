@@ -17,7 +17,7 @@ def get_urls_from_json():
     lines = []
     cnt = 0
 
-    with open('dump.json') as reader:
+    with open('notinlist_v1.json') as reader:
         read = json.load(reader)
         for i, obj in enumerate(read):
             dic = {}
@@ -32,6 +32,7 @@ def get_urls_from_json():
                     dic['api_url_full'] = url
                     dic['progweb_title'] = title
                     dic['error'] = error
+                    dic['id'] = i
 
                     lines.append(dic)
                     cnt = i
@@ -53,15 +54,16 @@ class GsearchSpider(scrapy.Spider):
         self.logger.info('[gsearch] Links successfully loaded')
 
     def start_requests(self):
-        for i, entry in enumerate(self.url):
+        for entry in self.url:
             loader = GoogleDocsItemLoader(item=GoogleDocsItem(), selector=Selector)
-            print("######### Working on " + str(i) + ".API #########")
+            print("######### Working on " + str(entry['id']) + ".API #########")
 
             if entry['error'] in (1, 2, 3, 4):
-                self.logger.info('[gsearch] Error code %d on %s ##### starting google search', entry['error'], entry['api_url_full'])
+                self.logger.info('[gsearch] Error code %d on %s ##### starting google search', entry['error'],
+                                 entry['api_url_full'])
 
-                meta1 = {'link': entry['api_url'], 'title': entry['progweb_title'], 'id': i, 'loader': loader,
-                        'error': entry['error'], 'full_link': entry['api_url_full']}
+                meta1 = {'link': entry['api_url'], 'title': entry['progweb_title'], 'loader': loader,
+                         'error': entry['error'], 'full_link': entry['api_url_full']}
 
                 yield scrapy.Request(url=self.google_request(entry['api_url'], meta1), callback=self.parse_google,
                                      meta=meta1, dont_filter=True,
@@ -69,8 +71,8 @@ class GsearchSpider(scrapy.Spider):
             else:
                 self.logger.info('[gsearch] Link on %s successful', entry['api_url_full'])
 
-                meta2 = {'link': entry['api_url'], 'title': entry['progweb_title'], 'id': i, 'loader': loader,
-                        'error': entry['error'], 'full_link': entry['api_url_full']}
+                meta2 = {'link': entry['api_url'], 'title': entry['progweb_title'], 'loader': loader,
+                         'error': entry['error'], 'full_link': entry['api_url_full']}
 
                 yield scrapy.Request(url="http://example.com", callback=self.noparse,
                                      meta=meta2, dont_filter=True,
@@ -84,11 +86,11 @@ class GsearchSpider(scrapy.Spider):
     def noparse(self, response):
         loader = response.meta['loader']
 
-        loader.add_value('api_name', response.meta['link'])
-        loader.add_value('api_title', response.meta['title'])
+        loader.add_value('api_url', response.meta['link'])
+        loader.add_value('progweb_title', response.meta['title'])
         loader.add_value('from_g', 0)
-        loader.add_value('id', response.meta['id'])
         loader.add_value('error', response.meta['error'])
+        loader.add_value('api_url_full', response.meta['full_link'])
         loader.add_value('link1', response.meta['full_link'])
 
         yield loader.load_item()
@@ -96,10 +98,10 @@ class GsearchSpider(scrapy.Spider):
     def parse_google(self, response):
         loader = response.meta['loader']
 
-        loader.add_value('api_name', response.meta['link'])
-        loader.add_value('api_title', response.meta['title'])
+        loader.add_value('api_url', response.meta['link'])
+        loader.add_value('progweb_title', response.meta['title'])
         loader.add_value('from_g', 1)
-        loader.add_value('id', response.meta['id'])
+        loader.add_value('api_url_full', response.meta['full_link'])
         loader.add_value('error', response.meta['error'])
 
         # Extract Information out of Google
@@ -116,10 +118,10 @@ class GsearchSpider(scrapy.Spider):
     def errback_gsearch1(self, failure, meta):
         loader = meta['loader']
 
-        loader.add_value('api_name', meta['link'])
-        loader.add_value('api_title', meta['title'])
+        loader.add_value('api_url', meta['link'])
+        loader.add_value('progweb_title', meta['title'])
         loader.add_value('from_g', 11)
-        loader.add_value('id', meta['id'])
+        loader.add_value('api_url_full', meta['full_link'])
         loader.add_value('error', meta['error'])
 
         # log all errback failures,
@@ -156,10 +158,10 @@ class GsearchSpider(scrapy.Spider):
     def errback_gsearch2(self, failure, meta):
         loader = meta['loader']
 
-        loader.add_value('api_name', meta['link'])
-        loader.add_value('api_title', meta['title'])
+        loader.add_value('api_url', meta['link'])
+        loader.add_value('progweb_title', meta['title'])
         loader.add_value('from_g', 01)
-        loader.add_value('id', meta['id'])
+        loader.add_value('api_url_full', meta['full_link'])
         loader.add_value('error', meta['error'])
 
         # log all errback failures,
@@ -189,6 +191,7 @@ class GsearchSpider(scrapy.Spider):
 
         else:
             request = failure.request
+            self.logger.error('[gsearch] UnknownError on %s', request.url)
             loader.add_value('gUnknownError', request.url)
 
         yield loader.load_item()

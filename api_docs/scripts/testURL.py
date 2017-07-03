@@ -55,7 +55,7 @@ def main(argv):
     print('It took ' + str(elapsed_time) + ' seconds')
 
 
-    with jsonlines.open('dump.json', mode='w') as writer:
+    with jsonlines.open('url_test.json', mode='w') as writer:
         # json.dump(lines, writer, indent=2)
         # writer.write('\n')
         writer.write(lines)
