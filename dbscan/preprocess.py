@@ -7,7 +7,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
 def load_json():
-    with open('/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/dbscan/source/progweb_final_15838.json') as data_file:
+    with open('/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/dbscan/source/progweb_final_filtered.json') as data_file:
         data = json.load(data_file)
     descr=[]
 
