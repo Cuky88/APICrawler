@@ -2,7 +2,10 @@ import Lemmatizer
 import Reader
 import Kmeans
 import Vectrizer
+import KMeans2
 import time
+from sklearn.decomposition import PCA as sklearnPCA
+
 start_time = time.time()
 
 
@@ -26,17 +29,33 @@ start_time = time.time()
 # Vectorizer ######################################
 ###################################################
 df = Vectrizer.text_to_vec(corp2)
-df = df.values
-print(df)
 
-print("--- Vectorizing: %s seconds ---" % (time.time() - start_time))
+# DataFrame to NDFrame
+df = df.values
+
+
+print("--- Vectorizer: %s seconds ---" % (time.time() - start_time))
+start_time = time.time()
+
+# PCA #############################################
+###################################################
+sklearn_pca = sklearnPCA(n_components=100)
+sklearn_transf = sklearn_pca.fit_transform(df)
+
+#print(sklearn_transf.shape)
+
+print("--- PCA: %s seconds ---" % (time.time() - start_time))
 start_time = time.time()
 
 
 # K-Means #########################################
 ###################################################
 
-Kmeans.TFKMeansCluster(df, 20)
+##Second implementation
+KMeans2.Kmeans2(sklearn_transf,20,1000)
+
+##First implementation (Marcel)
+#Kmeans.TFKMeansCluster(sklearn_transf, 20)
 print("--- KMeans: %s seconds ---" % (time.time() - start_time))
 
 
