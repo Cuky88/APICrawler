@@ -1,5 +1,4 @@
 import json
-import jsonlines
 import sys
 from pprint import pprint
 
@@ -9,8 +8,9 @@ def main(argv):
     tmp = []
 
     # add information from google crawling to progweb dataset
-    with jsonlines.open('gsearch_result_v3_3301.json') as reader:
-        for t in reader:
+    with open('gsearch_final_filtered.json') as reader:
+        read = json.load(reader)
+        for t in read:
             tmp.append(t)
 
     with open('progweb_final_15838.json') as reader:
@@ -21,8 +21,13 @@ def main(argv):
             if 'id' in api:
                 dic['id'] = api['id']
             else:
-                dic['id'] = 999
+                dic['id'] = 000000
 
+
+            if 'api_name' in api:
+                dic['api_name'] = api['api_name']
+            else:
+                dic['api_name'] = "NO NAME"
 
             if 'progweb_cat' in api:
                 dic['progweb_cat'] = api['progweb_cat']
@@ -52,14 +57,18 @@ def main(argv):
             if 'api_url_full' in api:
                 dic['api_url_full'] = api['api_url_full']
             else:
-                dic['api_url_full'] = "NO FULLURL"
+                dic['api_url_full'] = "NO FULL-URL"
 
-            dic['progweb_date'] = api['progweb_date']
+            if 'progweb_date' in api:
+                dic['progweb_date'] = api['progweb_date']
+            else:
+                dic['progweb_date'] = "01.01.2020"
+
             dic['crawled_date'] = api['crawled_date']
 
             for gsearch in tmp:
                 if 'api_url_full' in api:
-                    if api['progweb_title'] == gsearch['api_title']:
+                    if api['progweb_title'] == gsearch['progweb_title']:
                         if 'link1' in gsearch:
                             dic['link1'] = gsearch['link1']
                         if 'link2' in gsearch:
@@ -80,15 +89,14 @@ def main(argv):
                         if 'gUnknownError' in gsearch:
                             dic['gUnknownError'] = gsearch['gUnknownError']
 
-                    dic['from_g'] = gsearch['from_g']
-                    dic['error'] = gsearch['error']
+                        dic['from_g'] = gsearch['from_g']
+                        dic['error'] = gsearch['error']
 
             full.append(dic)
 
-            #final.update({id:full})
-        pprint(full)
+        #pprint(full)
 
-        with open('g_run_complete_v1.json', 'w') as outfile:
+        with open('combGnP.json', 'w') as outfile:
             json.dump(full, outfile, indent=2)
             outfile.write('\n')
 

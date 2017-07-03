@@ -50,9 +50,9 @@ class DescrSpider(scrapy.Spider):
         'AUTOTHROTTLE_ENABLED': 'False',
     }
 
-    #nltk.data.path.append('/home/cuky/Devel/kdd2017/Crawler/api_docs/nltk')
+    nltk.data.path.append('/home/cuky/Devel/kdd2017/Crawler/api_docs/nltk')
     # for VM
-    nltk.data.path.append('/home/kdd/kdd/APICrawler/api_docs/nltk')
+    #nltk.data.path.append('/home/kdd/kdd/APICrawler/api_docs/nltk')
     cachedStopWords = set(stopwords.words("english"))
     cachedStopWords.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{', '}'])
 
@@ -118,6 +118,7 @@ class DescrSpider(scrapy.Spider):
             outfile.write('\n')
 
         print("####### Omitted " + str(cnt_pdf) + " links, because of PDF format! #######")
+        print(len(self.data))
 
     def start_requests(self):
         for api in self.data:
