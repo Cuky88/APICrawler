@@ -1,0 +1,74 @@
+[
+  {
+    "crawled_date": "2017-06-27T09:24:52.854585",
+    "progweb_title": "Instagram API",
+    "progweb_url": "https://www.programmableweb.com/api/instagram",
+    "progweb_descr": "Instagram is a photo sharing iPhone app and service. Users take photos and can share them with Instagram contacts, as well as friends on other social networks like Twitter and Facebook. The Instagram API provides access to user authentication, friend connections, photos and all the other elements of the iPhone app--including uploading new media.",
+    "api_url_full": "http://instagram.com/developer/",
+    "progweb_date": "12.15.2010",
+    "api_name": "Instagram",
+    "progweb_cat": "Photos,Mobile",
+    "id": 0,
+    "api_url": "instagram.com"
+  },
+  {
+    "crawled_date": "2017-06-27T09:24:56.163082",
+    "progweb_title": "Bit.ly API",
+    "progweb_url": "https://www.programmableweb.com/api/bitly",
+    "progweb_descr": "bit.ly allows users to shorten, share, and track links (URLs). Reducing the URL length makes sharing easier. bit.ly  can be accessed through their website, bookmarklets and this open API. bit.ly is also integrated into several popular third-party tools such as Tweetdeck and is used extensively on services like Twitter. Unique user-level and aggregate links can be created and let users view complete, real-time traffic and referrer data, as well as location and metadata.",
+    "api_url_full": "http://dev.bitly.com/get_started.html",
+    "progweb_date": "07.13.2008",
+    "api_name": "Bit.ly",
+    "progweb_cat": "URL Shortener,URLs",
+    "id": 1,
+    "api_url": "bitly.com"
+  },
+  {
+    "crawled_date": "2017-06-27T09:24:59.558274",
+    "progweb_title": "MySpace API",
+    "progweb_url": "https://www.programmableweb.com/api/myspace",
+    "progweb_descr": "The MySpace Developer Platform (MDP) allows developers to create applications that interact with MySpace members and their social data. With MDP you will be able to create compelling new products that integrate directly into MySpace pages and get exposure to millions of people around the world.",
+    "api_url_full": "http://wiki.developer.myspace.com/index.php?title=Category%3ARESTful_API",
+    "progweb_date": "12.31.2007",
+    "api_name": "MySpace",
+    "progweb_cat": "Social",
+    "id": 2,
+    "api_url": "myspace.com"
+  },
+  {
+    "crawled_date": "2017-06-27T09:25:03.966352",
+    "progweb_title": "Amazon Marketplace Web Service API",
+    "progweb_url": "https://www.programmableweb.com/api/amazon-marketplace-web-service",
+    "progweb_descr": "Helps sellers automate listings, orders, payments, reports, and more. By exchanging data, sellers can integrate Amazon marketplace into their current applications and workflow.",
+    "api_url_full": "https://sellercentral.amazon.com/gp/mws/index.html",
+    "progweb_date": "08.04.2010",
+    "api_name": "Amazon Marketplace Web Service",
+    "progweb_cat": "eCommerce",
+    "id": 3,
+    "api_url": "amazon.com"
+  },
+  {
+    "crawled_date": "2017-06-27T09:25:07.735754",
+    "progweb_title": "Disqus API",
+    "progweb_url": "https://www.programmableweb.com/api/disqus",
+    "progweb_descr": "From their site: Disqus provides an API for users to interact with the Disqus backend. Disqus is the webwide discussion community where you carry your conversations with you. For Bloggers - Plug in and experience the best comment system, backed by your own forum. For Everyone - Claim and track your comments across blogs!",
+    "api_url_full": "http://disqus.com/api/docs/",
+    "progweb_date": "01.27.2008",
+    "api_name": "Disqus",
+    "progweb_cat": "Blogging,Forums",
+    "id": 4,
+    "api_url": "disqus.com"
+  },
+  {
+    "crawled_date": "2017-06-27T09:25:11.778700",
+    "progweb_title": "uClassify API",
+    "progweb_url": "https://www.programmableweb.com/api/uclassify",
+    "progweb_descr": "The uClassify API allows you to classify text. You might use it to create a spam filter, categorize web pages, automate e-mail support, detect languages, classify a batch of blog posts, and more. uClassify.com was formed to share classifier technology with the masses. Classifiers are usually popular at colleges or companies, so uClassify.com is intended to help spread the word to more people. For a definition of a classifier, see the About page at uClassify.com.",
+    "api_url_full": "http://www.uclassify.com/",
+    "progweb_date": "10.05.2008",
+    "api_name": "uClassify",
+    "progweb_cat": "Tools",
+    "id": 5,
+    "api_url": "uclassify.com"
+  }
+]
