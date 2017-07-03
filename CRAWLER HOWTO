@@ -10,12 +10,15 @@ It is crawling the programmableweb site with all its api's
 --> results will be saved to url_test.json
 the result now contains a new key called "error", which indicates, if the link is reachable or if it yields an error with ints from 0 to 4
 
-4. The dataset from step 3 will be used to crawl google for every link with error from 1 to 4. You can start gsearch by gsearch.py
+4. With script/keyCheck.py the progweb_final.json will be checked if every key is populated. If not, dummy values will be created for the missing keys. Then the result from the link check from step 3 will be included . If a link was not checked, the 'error' key will get the value 5.
+--> result will be saved to progweb_final_filtered.json
+
+5. The dataset from step 3 will be used to crawl google for every link with error from 1 to 4. You can start gsearch by gsearch.py
 Before starting the crawler, it is recommended to intsall/ activate scrapoxy, since google is blocking your request pretty fast.
 --> resulst will be saved in gsearch_result.json , however, yu should rename it to gsearch_result_v1.json or another version number manually
 It may happen, that the crawler stops before finishing the complete json, for example due to internet connections loss or unicode chars in api title. Therefore, I have provided additional scripts to help you.
 
-4a. If the google spider stops too early, you need to find out which apis have been crawled and which ones not. You can use scripts/gNotRun.py to find it out. The first statement "with open(....) as reader:" loads the first result from gsearch and compares with the url_test.json.
+5a. If the google spider stops too early, you need to find out which apis have been crawled and which ones not. You can use scripts/gNotRun.py to find it out. The first statement "with open(....) as reader:" loads the first result from gsearch and compares with the url_test.json.
 --> result will be saved to notinlist_v1.json
 You can now go to the gsearch.py and change the input file name from url_test.json to notinlist_v1.json on line 20 and run the spider again.
 
@@ -24,13 +27,13 @@ With this, the content of of the first and second run of gsearch will be combine
 
 Do this until you have iterated over url_test.json once.
 
-4b. Since you have got your gsearch results in several files, you can start scripts/combG.py. This will combine all files from the gsearch spider into one file. Again, you have to edit the "with open(....) as reader:" statements scripts/combG.py to load your own gsearch results.
+5b. Since you have got your gsearch results in several files, you can start scripts/combG.py. This will combine all files from the gsearch spider into one file. Again, you have to edit the "with open(....) as reader:" statements scripts/combG.py to load your own gsearch results.
 --> result will be saved in gsearch_final.json
 
-5. Now you can start apidescr.py to crawl all th extracted links and to get the content of the specific website.
+6. Now you can start apidescr.py to crawl all th extracted links and to get the content of the specific website.
 --> results will be saved in apidescr_result.json
 
-6. Now further processeing is needed. Due to the way of loading urls, we needed to generate one entry in apidescr_result.json for every link we had. For example if we had one api with 3 different links from google, then we have this api three times in apidescr_result.json with 3 different single links (link1, link2, link3) with the belonging descr1, descr2 & descr3.
+7. Now further processeing is needed. Due to the way of loading urls, we needed to generate one entry in apidescr_result.json for every link we had. For example if we had one api with 3 different links from google, then we have this api three times in apidescr_result.json with 3 different single links (link1, link2, link3) with the belonging descr1, descr2 & descr3.
 This can be done with scripts/combGnP.py. It will load three files: progweb_final.json, gsearch_final.json and the apidescr_resul.json.
 Overview about which keys will be taken from which file:
 -- progweb_final.json: every key
