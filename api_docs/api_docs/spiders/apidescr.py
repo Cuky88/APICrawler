@@ -66,7 +66,7 @@ class DescrSpider(scrapy.Spider):
                 if '.pdf' not in api['link1']:
                     dic = {}
                     dic['link1'] = api['link1']
-                    dic['api_title'] = api['api_title']
+                    dic['progweb_title'] = api['progweb_title']
                     dic['id'] = api['id']
                     self.data.append(dic)
                 else:
@@ -76,7 +76,7 @@ class DescrSpider(scrapy.Spider):
                 if '.pdf' not in api['link2']:
                     dic = {}
                     dic['link2'] = api['link2']
-                    dic['api_title'] = api['api_title']
+                    dic['progweb_title'] = api['progweb_title']
                     dic['id'] = api['id']
                     self.data.append(dic)
                 else:
@@ -86,7 +86,7 @@ class DescrSpider(scrapy.Spider):
                 if '.pdf' not in api['link3']:
                     dic = {}
                     dic['link3'] = api['link3']
-                    dic['api_title'] = api['api_title']
+                    dic['progweb_title'] = api['progweb_title']
                     dic['id'] = api['id']
                     self.data.append(dic)
                 else:
@@ -96,7 +96,7 @@ class DescrSpider(scrapy.Spider):
                 if '.pdf' not in api['link4']:
                     dic = {}
                     dic['link4'] = api['link4']
-                    dic['api_title'] = api['api_title']
+                    dic['progweb_title'] = api['progweb_title']
                     dic['id'] = api['id']
                     self.data.append(dic)
                 else:
@@ -106,7 +106,7 @@ class DescrSpider(scrapy.Spider):
                 if '.pdf' not in api['link5']:
                     dic = {}
                     dic['link5'] = api['link5']
-                    dic['api_title'] = api['api_title']
+                    dic['progweb_title'] = api['progweb_title']
                     dic['id'] = api['id']
                     self.data.append(dic)
                 else:
@@ -122,7 +122,7 @@ class DescrSpider(scrapy.Spider):
     def start_requests(self):
         for api in self.data:
             loader = ApiItemLoader(item=ApiDocsItem(), selector=Selector)
-            meta = {'title': api['api_title'], 'id': api['id'], 'loader': loader}
+            meta = {'title': api['progweb_title'], 'id': api['id'], 'loader': loader}
             link = ''
             if 'link1' in api:
                 link = api['link1']
