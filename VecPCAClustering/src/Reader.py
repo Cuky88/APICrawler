@@ -3,7 +3,7 @@ import re
 
 
 def load_descr():
-    with open('/home/caro/PycharmProjects/KDD/resources/final.json') as data_file:
+    with open('/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/VecPCAClustering/resources/final.json') as data_file:
         data = json.load(data_file)
     descr=[]
 
