@@ -1060,7 +1060,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 4792, 
-    "api_url": "tyntec.com"
+    "api_url": "tyntec.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T14:42:44.865189", 
@@ -1073,7 +1075,9 @@
     "error": 0, 
     "progweb_cat": "Payments,eCommerce", 
     "id": 4869, 
-    "api_url": "paytabs.com"
+    "api_url": "paytabs.com",
+    "c": 9,
+    "c_comment": "processing payments"
   }, 
   {
     "crawled_date": "2017-06-27T15:00:26.999346", 
@@ -1086,7 +1090,9 @@
     "error": 0, 
     "progweb_cat": "Mapping", 
     "id": 5045, 
-    "api_url": "google.com"
+    "api_url": "google.com",
+    "c": 13,
+    "c_comment": "routing and navigation"
   }, 
   {
     "crawled_date": "2017-06-27T15:00:06.217014", 
@@ -1099,7 +1105,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Stocks", 
     "id": 5152, 
-    "api_url": "xignite.com"
+    "api_url": "xignite.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T15:34:32.466097", 
@@ -1112,7 +1120,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 5700, 
-    "api_url": "orange.com"
+    "api_url": "orange.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T15:52:30.649920", 
@@ -1125,7 +1135,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 5904, 
-    "api_url": "sinch.com"
+    "api_url": "sinch.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T15:52:22.045442", 
@@ -1138,7 +1150,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 5962, 
-    "api_url": "google.com"
+    "api_url": "google.com",
+    "c": 10,
+    "c_comment": "online chat and groups"
   }, 
   {
     "api_url": "solacesystems.com", 
@@ -1151,7 +1165,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 6015, 
-    "crawled_date": "2017-06-27T15:52:13.641424"
+    "crawled_date": "2017-06-27T15:52:13.641424",
+    "c": 10,
+    "c_comment": "online chat and groups"
   }, 
   {
     "crawled_date": "2017-06-27T16:10:23.899823", 
@@ -1164,7 +1180,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 6085, 
-    "api_url": "smsprime.com"
+    "api_url": "smsprime.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T16:10:02.486681", 
@@ -1177,7 +1195,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 6223, 
-    "api_url": "cmtelecom.com"
+    "api_url": "cmtelecom.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T16:09:59.602608", 
@@ -1190,7 +1210,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 6248, 
-    "api_url": "defturesms.com"
+    "api_url": "defturesms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T16:28:20.729131", 
@@ -1203,7 +1225,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 6339, 
-    "api_url": "octopush.com"
+    "api_url": "octopush.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T16:28:16.298725", 
@@ -1216,7 +1240,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 6371, 
-    "api_url": "kokomessaging.com"
+    "api_url": "kokomessaging.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T16:28:08.360180", 
@@ -1229,7 +1255,9 @@
     "error": 0, 
     "progweb_cat": "Payments,eCommerce", 
     "id": 6399, 
-    "api_url": "getpoynt.com"
+    "api_url": "getpoynt.com",
+    "c": 9,
+    "c_comment": "processing transactions"
   }, 
   {
     "crawled_date": "2017-06-27T16:28:00.687847", 
@@ -1242,7 +1270,9 @@
     "error": 0, 
     "progweb_cat": "Payments,eCommerce", 
     "id": 6454, 
-    "api_url": "bluesnap.com"
+    "api_url": "bluesnap.com",
+    "c": 9,
+    "c_comment": "processing transactions"
   }, 
   {
     "crawled_date": "2017-06-27T16:27:54.850283", 
@@ -1255,7 +1285,9 @@
     "error": 0, 
     "progweb_cat": "Payments,eCommerce", 
     "id": 6509, 
-    "api_url": "paypal.com"
+    "api_url": "paypal.com",
+    "c": 9,
+    "c_comment": "processing payments"
   }, 
   {
     "crawled_date": "2017-06-27T16:45:24.062866", 
@@ -1268,7 +1300,9 @@
     "error": 0, 
     "progweb_cat": "Payments,eCommerce", 
     "id": 6705, 
-    "api_url": "readthedocs.org"
+    "api_url": "readthedocs.org",
+    "c": 9,
+    "c_comment": "processing payments"
   }, 
   {
     "api_url": "sudopay.com", 
@@ -1281,7 +1315,9 @@
     "error": 1, 
     "progweb_cat": "Payments,eCommerce", 
     "id": 6782, 
-    "crawled_date": "2017-06-27T16:45:12.132113"
+    "crawled_date": "2017-06-27T16:45:12.132113",
+    "c": 9,
+    "c_comment": "processing payments"
   }, 
   {
     "crawled_date": "2017-06-27T17:01:56.385348", 
@@ -1294,7 +1330,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 7026, 
-    "api_url": "sales.lv"
+    "api_url": "sales.lv",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:01:56.382732", 
@@ -1307,7 +1345,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7027, 
-    "api_url": "iwiz.in"
+    "api_url": "iwiz.in",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:01:56.376932", 
@@ -1320,7 +1360,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7029, 
-    "api_url": "expresstexts.org"
+    "api_url": "expresstexts.org",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:01:53.350928", 
@@ -1333,7 +1375,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7033, 
-    "api_url": "247-bulksms.com"
+    "api_url": "247-bulksms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:19:47.745801", 
@@ -1346,7 +1390,9 @@
     "error": 2, 
     "progweb_cat": "Payments,eCommerce", 
     "id": 7123, 
-    "api_url": "ismachine.net"
+    "api_url": "ismachine.net",
+    "c": 9,
+    "c_comment": "processing payments"
   }, 
   {
     "crawled_date": "2017-06-27T17:19:27.163400", 
@@ -1359,7 +1405,9 @@
     "error": 2, 
     "progweb_cat": "Mapping", 
     "id": 7237, 
-    "api_url": "opencagedata.com"
+    "api_url": "opencagedata.com",
+    "c": 2,
+    "c_comment": "mapping and geocoding"
   }, 
   {
     "crawled_date": "2017-06-27T17:19:27.122489", 
@@ -1372,7 +1420,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7253, 
-    "api_url": "carouselsms.com"
+    "api_url": "carouselsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:19:23.358100", 
@@ -1385,7 +1435,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7277, 
-    "api_url": "sendmode.co.uk"
+    "api_url": "sendmode.co.uk",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:19:17.558991", 
@@ -1398,7 +1450,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7286, 
-    "api_url": "chikka.com"
+    "api_url": "chikka.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:35:10.686704", 
@@ -1411,7 +1465,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Currency", 
     "id": 7358, 
-    "api_url": "coinfinance.com"
+    "api_url": "coinfinance.com",
+    "c": 12,
+    "c_comment": "#11# currency charts data"
   }, 
   {
     "crawled_date": "2017-06-27T17:35:21.896407", 
@@ -1424,7 +1480,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Stocks", 
     "id": 7455, 
-    "api_url": "xignite.com"
+    "api_url": "xignite.com",
+    "c": 8,
+    "c_comment": "stock data"
   }, 
   {
     "crawled_date": "2017-06-27T17:35:17.629684", 
@@ -1437,7 +1495,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Currency", 
     "id": 7466, 
-    "api_url": "btcdig.com"
+    "api_url": "btcdig.com",
+    "c": 18,
+    "c_comment": "crypto currency mining"
   }, 
   {
     "crawled_date": "2017-06-27T17:35:17.606569", 
@@ -1450,7 +1510,9 @@
     "error": 2, 
     "progweb_cat": "Financial,Currency", 
     "id": 7475, 
-    "api_url": "prelude.io"
+    "api_url": "prelude.io",
+    "c": 12,
+    "c_comment": "crypto currency chart data"
   }, 
   {
     "crawled_date": "2017-06-27T17:35:14.616728", 
@@ -1463,7 +1525,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7501, 
-    "api_url": "keidsms.com"
+    "api_url": "keidsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:35:07.214507", 
@@ -1476,7 +1540,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7554, 
-    "api_url": "freesms.com.ng"
+    "api_url": "freesms.com.ng",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:34:57.023467", 
@@ -1489,7 +1555,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Stocks", 
     "id": 7604, 
-    "api_url": "enclout.com"
+    "api_url": "enclout.com",
+    "c": 8,
+    "c_comment": "stock and trading data"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:41.843156", 
@@ -1502,7 +1570,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 7634, 
-    "api_url": "mobyt.com"
+    "api_url": "mobyt.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:57.294650", 
@@ -1515,7 +1585,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Stocks", 
     "id": 7672, 
-    "api_url": "nyxdata.com"
+    "api_url": "nyxdata.com",
+    "c": 15,
+    "c_comment": "forex data"
   }, 
   {
     "api_url": "way2voicesms.com", 
@@ -1528,7 +1600,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7687, 
-    "crawled_date": "2017-06-27T17:52:57.253548"
+    "crawled_date": "2017-06-27T17:52:57.253548",
+    "c": 10,
+    "c_comment": "online messaging"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:48.728322", 
@@ -1541,7 +1615,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Currency", 
     "id": 7719, 
-    "api_url": "btc-dealer.com"
+    "api_url": "btc-dealer.com",
+    "c": 6,
+    "c_comment": "crypto currency trading"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:45.237732", 
@@ -1554,7 +1630,9 @@
     "error": 2, 
     "progweb_cat": "Financial,Currency", 
     "id": 7738, 
-    "api_url": "mercado-bitcoin.com.ar"
+    "api_url": "mercado-bitcoin.com.ar",
+    "c": 12,
+    "c_comment": "crypto currency chart data"
   }, 
   {
     "api_url": "oneapi4sms.com", 
@@ -1567,7 +1645,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7759, 
-    "crawled_date": "2017-06-27T17:52:45.182623"
+    "crawled_date": "2017-06-27T17:52:45.182623",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:41.840575", 
@@ -1580,7 +1660,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7760, 
-    "api_url": "neonsms.ie"
+    "api_url": "neonsms.ie",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:41.837909", 
@@ -1593,7 +1675,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7761, 
-    "api_url": "skebby.com"
+    "api_url": "skebby.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:41.835360", 
@@ -1606,7 +1690,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 7762, 
-    "api_url": "airgramapp.com"
+    "api_url": "airgramapp.com",
+    "c": 10,
+    "c_comment": "online messages"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:41.825052", 
@@ -1619,7 +1705,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Currency", 
     "id": 7765, 
-    "api_url": "mincointools.net"
+    "api_url": "mincointools.net",
+    "c": 18,
+    "c_comment": "crypto currency mining"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:41.817314", 
@@ -1632,7 +1720,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Currency", 
     "id": 7769, 
-    "api_url": "bit2c.co.il"
+    "api_url": "bit2c.co.il",
+    "c": 6,
+    "c_comment": "crypto currency trading"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:41.799125", 
@@ -1645,7 +1735,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7776, 
-    "api_url": "smscenter.pk"
+    "api_url": "smscenter.pk",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:41.788429", 
@@ -1658,7 +1750,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7780, 
-    "api_url": "sms-bh.com"
+    "api_url": "sms-bh.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:41.785898", 
@@ -1671,7 +1765,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7781, 
-    "api_url": "everydaybulksms.com"
+    "api_url": "everydaybulksms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:41.782978", 
@@ -1684,7 +1780,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7782, 
-    "api_url": "largebulksms.com"
+    "api_url": "largebulksms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:38.745971", 
@@ -1697,7 +1795,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7785, 
-    "api_url": "sendonlinesms.com"
+    "api_url": "sendonlinesms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:38.740803", 
@@ -1710,7 +1810,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 7787, 
-    "api_url": "sfwsms.com"
+    "api_url": "sfwsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:38.733124", 
@@ -1723,7 +1825,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7790, 
-    "api_url": "softnetsms.net"
+    "api_url": "softnetsms.net",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.299850", 
@@ -1736,7 +1840,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7811, 
-    "api_url": "smseway.com"
+    "api_url": "smseway.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.297311", 
@@ -1749,7 +1855,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7812, 
-    "api_url": "sms123go.com"
+    "api_url": "sms123go.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.289633", 
@@ -1762,7 +1870,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7815, 
-    "api_url": "textbizi.com"
+    "api_url": "textbizi.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.282000", 
@@ -1775,7 +1885,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 7818, 
-    "api_url": "vipbulksms.com"
+    "api_url": "vipbulksms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.276549", 
@@ -1788,7 +1900,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7820, 
-    "api_url": "kevsms.com"
+    "api_url": "kevsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.274047", 
@@ -1801,7 +1915,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 7821, 
-    "api_url": "websprix.com"
+    "api_url": "websprix.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.268881", 
@@ -1814,7 +1930,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 7823, 
-    "api_url": "text2africa.com"
+    "api_url": "text2africa.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.263482", 
@@ -1827,7 +1945,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7825, 
-    "api_url": "gmtsms.com"
+    "api_url": "gmtsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.260953", 
@@ -1840,7 +1960,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7826, 
-    "api_url": "donbulksms.com"
+    "api_url": "donbulksms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.258325", 
@@ -1853,7 +1975,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7827, 
-    "api_url": "genesisbulksms.com"
+    "api_url": "genesisbulksms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.255775", 
@@ -1866,7 +1990,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7828, 
-    "api_url": "excelngsms.com"
+    "api_url": "excelngsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.253272", 
@@ -1879,7 +2005,9 @@
     "error": 2, 
     "progweb_cat": "Messaging", 
     "id": 7829, 
-    "api_url": "mikysms.com"
+    "api_url": "mikysms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:34.250685", 
@@ -1892,7 +2020,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Stocks", 
     "id": 7830, 
-    "api_url": "tradingeconomics.com"
+    "api_url": "tradingeconomics.com",
+    "c": 8,
+    "c_comment": "#15# financial and stock data. also forex"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:31.270599", 
@@ -1905,7 +2035,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7845, 
-    "api_url": "evamegsms.com"
+    "api_url": "evamegsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:31.262858", 
@@ -1918,7 +2050,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7848, 
-    "api_url": "giftedsms.com"
+    "api_url": "giftedsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:31.260323", 
@@ -1931,7 +2065,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7849, 
-    "api_url": "freesmsbag.com"
+    "api_url": "freesmsbag.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:31.257788", 
@@ -1944,7 +2080,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7850, 
-    "api_url": "hslsms.com"
+    "api_url": "hslsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T17:52:22.818505", 
@@ -1957,7 +2095,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Currency", 
     "id": 7884, 
-    "api_url": "masterchain.info"
+    "api_url": "masterchain.info",
+    "c": 12,
+    "c_comment": "crypto currency charts and transactions"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:04.890462", 
@@ -1970,7 +2110,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 7908, 
-    "api_url": "tnz.co.nz"
+    "api_url": "tnz.co.nz",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:26.764382", 
@@ -1983,7 +2125,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 7935, 
-    "api_url": "mayorfirstsms.com"
+    "api_url": "mayorfirstsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:24.842864", 
@@ -1996,7 +2140,9 @@
     "error": 2, 
     "progweb_cat": "Financial,Currency", 
     "id": 7950, 
-    "api_url": "wdcticker.com"
+    "api_url": "wdcticker.com",
+    "c": 12,
+    "c_comment": "crypto currency charts"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:20.432291", 
@@ -2009,7 +2155,9 @@
     "error": 0, 
     "progweb_cat": "Payments,eCommerce", 
     "id": 7965, 
-    "api_url": "payscape.com"
+    "api_url": "payscape.com",
+    "c": 9,
+    "c_comment": "processing transactions"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:12.366714", 
@@ -2022,7 +2170,9 @@
     "error": 0, 
     "progweb_cat": "Financial,Currency", 
     "id": 8011, 
-    "api_url": "796.com"
+    "api_url": "796.com",
+    "c": 6,
+    "c_comment": "crypto currency trading"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:12.330577", 
@@ -2035,7 +2185,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 8025, 
-    "api_url": "youphoriclabs.com"
+    "api_url": "youphoriclabs.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:12.325438", 
@@ -2048,7 +2200,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 8027, 
-    "api_url": "sparrowsms.com"
+    "api_url": "sparrowsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:12.322826", 
@@ -2061,7 +2215,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 8028, 
-    "api_url": "silverstreet.com"
+    "api_url": "silverstreet.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:08.576766", 
@@ -2074,7 +2230,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 8042, 
-    "api_url": "smseagle.eu"
+    "api_url": "smseagle.eu",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:08.569040", 
@@ -2087,7 +2245,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 8045, 
-    "api_url": "onewaysms.sg"
+    "api_url": "onewaysms.sg",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:08.548159", 
@@ -2100,7 +2260,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 8053, 
-    "api_url": "txt4ever.com"
+    "api_url": "txt4ever.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:08.541170", 
@@ -2113,7 +2275,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 8055, 
-    "api_url": "smspinoy.com"
+    "api_url": "smspinoy.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:08.538592", 
@@ -2126,7 +2290,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 8056, 
-    "api_url": "totext.net"
+    "api_url": "totext.net",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:08.535939", 
@@ -2139,7 +2305,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 8057, 
-    "api_url": "slipsms.com"
+    "api_url": "slipsms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "api_url": "bongolive.co.tz", 
@@ -2152,7 +2320,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 8058, 
-    "crawled_date": "2017-06-27T18:10:08.533131"
+    "crawled_date": "2017-06-27T18:10:08.533131",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:04.886751", 
@@ -2165,7 +2335,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 8060, 
-    "api_url": "utbox.net"
+    "api_url": "utbox.net",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:04.856589", 
@@ -2178,7 +2350,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 8073, 
-    "api_url": "ot-sms.com"
+    "api_url": "ot-sms.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:04.837286", 
@@ -2191,7 +2365,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 8080, 
-    "api_url": "papatexts.com"
+    "api_url": "papatexts.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "api_url": "samparksms.com", 
@@ -2204,7 +2380,9 @@
     "error": 0, 
     "progweb_cat": "Messaging", 
     "id": 8082, 
-    "crawled_date": "2017-06-27T18:10:04.831532"
+    "crawled_date": "2017-06-27T18:10:04.831532",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:00.678561", 
@@ -2217,7 +2395,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 8083, 
-    "api_url": "360-technologies.com"
+    "api_url": "360-technologies.com",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:00.652143", 
@@ -2230,7 +2410,9 @@
     "error": 0, 
     "progweb_cat": "Payments,eCommerce", 
     "id": 8093, 
-    "api_url": "openpay.mx"
+    "api_url": "openpay.mx",
+    "c": 1,
+    "c_comment": "send money"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:00.644336", 
@@ -2243,7 +2425,9 @@
     "error": 1, 
     "progweb_cat": "Financial,Currency", 
     "id": 8096, 
-    "api_url": "cex.io"
+    "api_url": "cex.io",
+    "c": 18,
+    "c_comment": "crypto currency mining"
   }, 
   {
     "crawled_date": "2017-06-27T18:10:00.619981", 
@@ -2256,7 +2440,9 @@
     "error": 1, 
     "progweb_cat": "Messaging", 
     "id": 8105, 
-    "api_url": "eventsms.com.ng"
+    "api_url": "eventsms.com.ng",
+    "c": 7,
+    "c_comment": "online sms"
   }, 
   {
     "crawled_date": "2017-06-27T18:09:56.988808", 
