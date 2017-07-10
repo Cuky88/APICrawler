@@ -1,0 +1,176 @@
+[
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "AddThis Menu",
+        "id": 166,
+        "progweb_descr": " AddThis free way boost traffic back site making easy visitor share content AddThis Menu API clientside JavaScript API use add AddThis sharing tool button menu toolbox web page When Get Code AddThis web interface get code use API Menu API large number feature let customize appearance behavior tool page"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "del.icio.us",
+        "id": 295,
+        "progweb_descr": " From site delicious social bookmarking website primary use delicious store bookmark online allow access bookmark computer add bookmark anywhere On delicious use tag organize remember bookmark much flexible system folder API provide readwrite access Delicious bookmarks tag via HTTPbased interface RESTful API return response XML"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "BibSonomy",
+        "id": 745,
+        "progweb_descr": " From site BibSonomy system share bookmark list literature BibSonomy provide web service use REST You use provided client library write Java access API directly interact web service would like write client language Java"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "Pinboard",
+        "id": 826,
+        "progweb_descr": " Pinboard social bookmarking tool API pattern Yahoos popular Delicious service Create tag search bookmark Write application base aggregated knowledge public bookmarks particular user public bookmark API use RESTful protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "Diigo",
+        "id": 1206,
+        "progweb_descr": " Diigo provide browser addon improve research productivity As read web instead bookmarking highlight portion web page particular interest You also attach sticky note specific part web page"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "Zootool",
+        "id": 1332,
+        "progweb_descr": " Zootool webservice let user collect organize share favorite image videos document web Zootool API let developer build application around Zootools tool Developers access user information friends follower item In addition API provide access detailed item data include number view like Applications also add new item Zootool database"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "GiveALink",
+        "id": 12635,
+        "progweb_descr": " GiveALink social bookmarking recommendation service Their state goal collect information object people bookmark annotate organize object order mine sociosemantic link GiveALink API allow developer access GiveALink data use within application Functionality include retrieve user annotation get similar tag retrieve use tag get info associate URL API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "Kippt",
+        "id": 12711,
+        "progweb_descr": " Kippt bookmarking application user use save web file Users organize bookmark search share people Kippt API allow developer access integrate functionality Kippt application create new application Some example API method include manage account information retrieve list bookmark search list bookmark"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "Gimme Bar",
+        "id": 13529,
+        "progweb_descr": " Gim Bar bookmarking service Gim Bar save store user bookmark personalize library cloud Bookmarks organize different collection list back Dropbox share others Gim Bar API allow developer access functionality data Gim Bar integration application Some example API method include access user collection get user information post collection access collection information"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "Radbox",
+        "id": 14057,
+        "progweb_descr": " Radbox service allow user bookmark save video numerous video website YouTube Facebook CNN etc watch later Users also save video via email Google Reader share video others Radbox API allow developer access Radboxs functionality add video either individually bulk Radbox"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "SendTab",
+        "id": 14680,
+        "progweb_descr": " Most SendTabs functionality within extension web browser extension let share link instantly computer You essence send tab one computer another open link view You return previously send tab searchable history also bookmarking service SendTab API RESTful allow developer incorporate SendTab data application"
+    },
+    {
+        "progweb_cat": "Bookmarks,Social",
+        "api_name": "LinqTo.me",
+        "id": 14711,
+        "progweb_descr": " LinqTome allow user bookmark tag share link friend via social network webservice API provide LinqTome allow us automate apps website With API user query links create user follower query list favorite link insert edit new link API us RESTful call"
+    },
+    {
+        "progweb_cat": "Bookmarks",
+        "api_name": "Pocket",
+        "id": 434,
+        "progweb_descr": " Previously offer name Read It Later Pocket service allow user save article video read use later Pocket API allow application interact Pocket service API use build full feature Pocket client platform mashup read list data allow user save page list application API use free commercial application"
+    },
+    {
+        "progweb_cat": "Bookmarks",
+        "api_name": "Readability",
+        "id": 456,
+        "progweb_descr": " Readability subscription service let user bookmark articleswebpages read later comfortable read view Readability also support writer publisher contentarticles pay part user subscription fee user bookmark content Readability API allow user interact article read list well article contribution Users easily add bookmark read list well pull content article read list"
+    },
+    {
+        "progweb_cat": "Bookmarks",
+        "api_name": "Instapaper",
+        "id": 528,
+        "progweb_descr": " Instapaper API allow thirdparty application add URLs Instapaper Instapaper service let user save long web page read late time API single method It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Bookmarks",
+        "api_name": "GitHub Activity Starring",
+        "id": 5898,
+        "progweb_descr": " GitHub Activity Starring API allow developer integrate GitHub repository star feature application enable user bookmark repository This API require user account authenticate GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Bookmarks",
+        "api_name": "Historious",
+        "id": 14726,
+        "progweb_descr": " Historious website bookmarking tool similar Delicious Historious API enable developer write program able access user account perform certain operation API method allow user return API key add document account return user tag return info user API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Bookmarks",
+        "api_name": "Symbaloo",
+        "id": 14812,
+        "progweb_descr": " Symbaloo online startpage let user organize access favorite websites web service one page Symbaloo API enable user connect website Symbaloo order make website personalize social API provide method let user update user desktops bookmark API use RESTful protocol response format either XML JSON"
+    },
+    {
+        "progweb_cat": "Bookmarks",
+        "api_name": "linkaGoGo",
+        "id": 15851,
+        "progweb_descr": " LinkaGoGo free favorite social bookmarking application Its unique dynamic toolbars automatically adapt youll find bookmark without click"
+    },
+    {
+        "progweb_cat": "Bookmarks,Blogging",
+        "api_name": "Blogmarks",
+        "id": 716,
+        "progweb_descr": " An implementation Atom Publishing Protocol"
+    },
+    {
+        "progweb_cat": "Bookmarks,Reference",
+        "api_name": "Zotero",
+        "id": 828,
+        "progweb_descr": " Zotero free tool help user collect organize cite share research source It implement extension Firefox browser API provide functionality plugin include retrieval tag user specific item collection subcollections API use REST JavaScript protocol response format XML XHTML"
+    },
+    {
+        "progweb_cat": "Bookmarks,Reference",
+        "api_name": "EasyBib",
+        "id": 14194,
+        "progweb_descr": " EasyBib automatic bibliography composer EasyBib help format research source citation variety format EasyBib API way third party create fullyformatted bibliographical source To integrate EasyBibs citation capability sit developer choose simple source code EasyBib Cite Widget EasyBib API documentation complex integration Options within API include data form field population bulk post various style format data source"
+    },
+    {
+        "progweb_cat": "Bookmarks,Music",
+        "api_name": "Everytime",
+        "id": 10831,
+        "progweb_descr": " Everytime tool allow people save share music video web computer Media share either publicly privately well bookmarked user browser Everytime API allow developer access integrate functionality Everytime application create new application Some example API method include retrieve medium file post medium file manage playlist"
+    },
+    {
+        "progweb_cat": "Bookmarks,Classification",
+        "api_name": "Trails.by",
+        "id": 12023,
+        "progweb_descr": " Trailsby hybrid bookmarking platform allow collection curated bookmarking list call trail additional social QA component Users post question user post answer form bookmark trail It hop offer new way combat information overload combine functionality social bookmarking site QA sit Trailsby API allow user search exist trail request page rating topic new status It also allow search keyword Calls return JSON format"
+    },
+    {
+        "progweb_cat": "Bookmarks,Classification",
+        "api_name": "GroupMe",
+        "id": 15590,
+        "progweb_descr": " From site Extends idea social tag system like delicious Flickr BibSonomy introduce group dimension foundation social tag system folksonomies A folksonomy collection tag assignment Over time likely semantics emergetags often assigned resource may synonyms With GroupMes approach taggable group extend tag assignment group dimension"
+    },
+    {
+        "progweb_cat": "Bookmarks,Notes",
+        "api_name": "Memonic",
+        "id": 14119,
+        "progweb_descr": " Memonic application allow user capture organize share web content Memonic offer service personal use business use publisher use use Evernote Memonic API allow developer access functionality data Memonic API free noncommercial use use commercial use approval Some example API method include access user set user group user"
+    },
+    {
+        "progweb_cat": "Bookmarks,Text",
+        "api_name": "Copyto",
+        "id": 14687,
+        "progweb_descr": " Copyto private bookmarking service people dont want get lose ton bookmark save useful part page find online Copyto keep urls bookmark You able select content bookmarked page save long want Copyto enables save portion web pageYou share bookmarks contact group Copyto create conversation Copyto API enable developer interact Copyto web site programmatically via simple HTTP request"
+    },
+    {
+        "progweb_cat": "Bookmarks,Semantics",
+        "api_name": "hbookmark",
+        "id": 15118,
+        "progweb_descr": " hbookmark way archive sort link via twitter purpose hbookmark API expose hbookmarks functionality HTTPbased GET request API support follow request retrieve search bookmark tag bm twitter bookmark tag tag search bookmarkedby Responses format JSON"
+    },
+    {
+        "progweb_cat": "Bookmarks,URLs",
+        "api_name": "Scribble",
+        "id": 15836,
+        "progweb_descr": " SCRIBBLE centralize categorizable list favorite link accessible everywhere available Artypapers member With scribble access link favorite website computer Internet connection"
+    }
+]

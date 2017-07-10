@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "French,Domains",
+        "api_name": "Gandi Domain",
+        "id": 14069,
+        "progweb_descr": " Gandi host domain management site By use Domain API may purchase renew transfer domain even change DNS configuration forward without log Gandis website This site largely French API longer available October 1 2012"
+    },
+    {
+        "progweb_cat": "French,Hosting",
+        "api_name": "Gandi Hosting",
+        "id": 14070,
+        "progweb_descr": " Gandi provide VPS cloud hosting service Hosting API allow user manipulate manage various Gandi Hosting resource example may create new virtual machine new disk release IP address etc Gandinet largely French Hosting API currently Beta"
+    }
+]

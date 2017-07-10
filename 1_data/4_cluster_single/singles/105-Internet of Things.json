@@ -1,0 +1,632 @@
+[
+    {
+        "progweb_cat": "Internet of Things,Environment",
+        "api_name": "CubeSensors",
+        "id": 614,
+        "progweb_descr": " CubeSensors small device contain seven different sensor detect environmental condition They capable monitor air quality temperature humidity noise light barometric pressure sensor motion CubeSensors glow different color reflect health indoor environment CubeSensors API enable developer access CubeSensors sensor data programmatically"
+    },
+    {
+        "progweb_cat": "Internet of Things,Environment",
+        "api_name": "GardenKit",
+        "id": 6064,
+        "progweb_descr": " GreenIQs GardenKit API provide access product Smart Garden Hub Smart Garden Hub application aim cut water consumption garden landscape GardenKit API allow developer access component require build full partial application base GardenKit APIs functionality Some example API method include retrieve valve setting configure valve setting access light setting"
+    },
+    {
+        "progweb_cat": "Internet of Things,Environment",
+        "api_name": "Thinking Things",
+        "id": 6747,
+        "progweb_descr": " Telefonicas new IoT product line Thinking Things small stackable white block intercept environment data interface home automation system modular sensor hardware come integrate global connectivity potential build Telefonica M2M SIMs sensor may monitor behavior automate set trigger remotely controllable web mobile interface Telefonicas Thinking Things API expand potential create new application interface device API currently beta API use construct home automation apps connect logistics system"
+    },
+    {
+        "progweb_cat": "Internet of Things,Bluetooth",
+        "api_name": "The Beacon Registry",
+        "id": 663,
+        "progweb_descr": " Beacon Registry allow provider create maintain registration record UUIDmajorminor combination Bluetooth Low Energy device include iBeacons API use HTTP PUSH acceptsreturns data XML JSON Use API program specific information push user proximity Bluetooth Beacon"
+    },
+    {
+        "progweb_cat": "Internet of Things,Backend",
+        "api_name": "Beebotte",
+        "id": 1125,
+        "progweb_descr": " Beebotte provide key build block accelerate development Internet Things real time connect application Beebotte support REST Websockets MQTT protocol connect anything everything real time"
+    },
+    {
+        "progweb_cat": "Internet of Things,Application Development",
+        "api_name": "Losant",
+        "id": 1491,
+        "progweb_descr": " Losant REST API allow developer access integrate functionality Losant applications Some example API method include manage device manage action manage user Losant internet thing platform help user develop build manage internet thing solution"
+    },
+    {
+        "progweb_cat": "Internet of Things,Application Development",
+        "api_name": "Google Weave",
+        "id": 2777,
+        "progweb_descr": " Google Weave communication platform design IoT device support phonetodevicetocloud communication user interaction web application mobile Weave feature Android automatic application installation cloud support mobile desktop Additionally Weave offer Brillo support building integrate interoperable communication builtin easytouse share capability Weave Brillo require program application per developer"
+    },
+    {
+        "progweb_cat": "Internet of Things,Application Development",
+        "api_name": "Netbeast",
+        "id": 4042,
+        "progweb_descr": " Netbeast API builder platform automate deployment IoT application API use automate dashboard control synchronize function IoT device appliances multifunctional attribute API stretch OS host capability embed device Beaglebone Raspberry Pi It also support OS platform include Linux Windows Netbeast API transmit request response JSON format"
+    },
+    {
+        "progweb_cat": "Internet of Things,Application Development",
+        "api_name": "Temboo",
+        "id": 11483,
+        "progweb_descr": " Temboo technology stack connect device Internet Things Generate productionready code robust IoT application minute complete application logic sensor data stream Develop run application enterprisestandard platform bring together APIs programming language hardware platform data storage service connectivity option"
+    },
+    {
+        "progweb_cat": "Internet of Things,Cameras",
+        "api_name": "Dronesmith",
+        "id": 1500,
+        "progweb_descr": " Dronesmith REST API allow developer access integrate functionality Dronesmith application Some example API method include manage drone object retrieve image control drone Dronesmith allow user fly manage drone API"
+    },
+    {
+        "progweb_cat": "Internet of Things,Hardware",
+        "api_name": "Allthingstalk",
+        "id": 1742,
+        "progweb_descr": " Allthingstalk API provide internet service feature It available REST architecture JSON data OAuth2 authentication It support Arduino open source platform AllThingsTalk Internet Things platform develop IoT product application"
+    },
+    {
+        "progweb_cat": "Internet of Things,Hardware",
+        "api_name": "Hayo",
+        "id": 1896,
+        "progweb_descr": " Hayo API allow developer build apps implement virtual remote control connect device home API sense transmit event virtual remote control device make easy user achieve desire action application simply manipulate virtual remote control API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Internet of Things,Hardware",
+        "api_name": "Adafruit IO",
+        "id": 1933,
+        "progweb_descr": " Adafruit IO REST API HTTPS possible Adafruit IO system make data useful allow simple data connection little programming require IO build Ruby Rails NodeJS include client library wrap REST MQTT APIs It provide place online learn electronics make design product maker age skill level Adafruit Industries promote teach share engineering DIY electronic kit open source hardware"
+    },
+    {
+        "progweb_cat": "Internet of Things,Hardware",
+        "api_name": "Adafruit IO MQTT",
+        "id": 2102,
+        "progweb_descr": " Adafruit IOs MQTT API expose fee data use special topic Message Queue Telemetry Transport protocol device communication Adafruit IO support Use MQTT library client publishsubscribe fee sendreceive feed data Adafruit system make data useful allow simple data connection little programming require Adafruit Industries promote teach share engineering DIY electronic kit open source hardware"
+    },
+    {
+        "progweb_cat": "Internet of Things,Hardware",
+        "api_name": "Helium",
+        "id": 2430,
+        "progweb_descr": " Helium API integrate internet thing device It available REST architecture JSON format API token require authenticate Use API create project active sensor programmable hardware wireless command"
+    },
+    {
+        "progweb_cat": "Internet of Things,Applications",
+        "api_name": "Cisco IOx Metrics",
+        "id": 1809,
+        "progweb_descr": " Cisco IOx Metrics API design synchronize monitoring data flow error event across service API provide metric framework microservices require implement mechanism account message error within IOx service ecosystem"
+    },
+    {
+        "progweb_cat": "Internet of Things,Applications",
+        "api_name": "Cisco Flare",
+        "id": 1810,
+        "progweb_descr": " Cisco Flare API simplify deployment mobile device interactive portal access device functional parameter within particular environment It RESTful API support use mobile device discover gadget support connectivity operational infrastructure exist give environment API functionally design simultaneously deploy variety location technology alongside realtime communication capability deliver top notch interactive experience user"
+    },
+    {
+        "progweb_cat": "Internet of Things,Applications",
+        "api_name": "Cisco IP Interoperability and Collaboration System (IPICS)",
+        "id": 1813,
+        "progweb_descr": " Cisco IP Interoperability Collaboration System IPICS APIallows developer deploy programmatic tool custom application manage controllingoperations parameter Cisco IPICS platform RESTful API equip function support control various Cisco IPICS operation include VTG creation user management among others"
+    },
+    {
+        "progweb_cat": "Internet of Things,Applications",
+        "api_name": "URX App Search",
+        "id": 6975,
+        "progweb_descr": " URX App Search API let access knowledge graph organize apps content action allow user take You provide specific detail user ’ context eg location keywords time intend action API reply deep link meta data relevant apps display user RESTful URX API provide easy way link interaction within app via deep link tactic retrieve information perform action within apps URX accept applicant online email signup access website"
+    },
+    {
+        "progweb_cat": "Internet of Things,Content",
+        "api_name": "Cisco Connected Mobile Experiences (CMX)",
+        "id": 1811,
+        "progweb_descr": " Cisco Connected Mobile Experiences CMX API combine use WiFi Cisco wireless infrastructure support detection location mobile device RESTful API useful integrate direct mobile content delivery functionality application This make easy user directly deliver personalized marketing content smartphones target audience specific location Cisco CMX API transmit request HTTP protocol return responses JSON format"
+    },
+    {
+        "progweb_cat": "Internet of Things,Cloud",
+        "api_name": "Cisco Data in Motion",
+        "id": 1812,
+        "progweb_descr": " Cisco Data Motion DMo API data management solution network connection Internet Thing IoT Designed deploy inbuilt solution Ciscopowered product RESTful API provide artificial intelligence mechanism acquire manage data edge device Developers use DMo API integrate realtime data filter capability edge device sensor"
+    },
+    {
+        "progweb_cat": "Internet of Things,Cloud",
+        "api_name": "Hologram Dash",
+        "id": 1825,
+        "progweb_descr": " Hologram provider connectivity solution Internet Things IoT device company ’ infrastructure consist cloud service interface device data lifecycle management IoT SIM Card facilitate global cellular network accessibility Hologram Dash precertified board implement cellular connectivity device Hologram Dash API support integration Hologram ’ cellular connectivity capability IoT apps"
+    },
+    {
+        "progweb_cat": "Internet of Things,Cloud",
+        "api_name": "Undagrid Channels",
+        "id": 2971,
+        "progweb_descr": " This API use set property channel remove property channel set push configuration channel remove push configuration channel Undagrid wireless Internet Things network consist device organize connect selfexpanding network"
+    },
+    {
+        "progweb_cat": "Internet of Things,Cloud",
+        "api_name": "Undagrid Nodes",
+        "id": 2973,
+        "progweb_descr": " This API use commission decommission node This data gather device run Undagrid network technology Undagrid wireless Internet Things network consist device organize connect selfexpanding network"
+    },
+    {
+        "progweb_cat": "Internet of Things,Cloud",
+        "api_name": "Undagrid Groups",
+        "id": 2974,
+        "progweb_descr": " This API use access data Undagrid cloud return create group channel add sensor node group remove sensor node group This data gather device run Undagrid network technology Undagrid wireless Internet Things network consist device organize connect selfexpanding network"
+    },
+    {
+        "progweb_cat": "Internet of Things,Cloud",
+        "api_name": "littleBits Cloud",
+        "id": 5406,
+        "progweb_descr": " littleBits Cloud API allow developer connect littleBits device internet LittleBits sell set tiny electrical module user snap together easily create prototype electronic device These module use educator teach student electrical system DIYers prototyping idea"
+    },
+    {
+        "progweb_cat": "Internet of Things,Cloud",
+        "api_name": "Konekt",
+        "id": 5545,
+        "progweb_descr": " Konekt provide REST API lowlevel TCPIP socket service API allow developer provide cellular connectivity device REST API offer device management SMS cloud feature TCPIP socket service API allow device interact Konekt platform provide access outgo SMS cloud feature"
+    },
+    {
+        "progweb_cat": "Internet of Things,Cloud",
+        "api_name": "theThings.IO REST",
+        "id": 6487,
+        "progweb_descr": " theThingsIO cloud service make developer IOT device store query data service offer easily deployable backend component thing customizable frontend interface metric gauge performance theThingsIO also offer diagnostics interoperability ITO device privacy ensure To store share data programmatically real time across connect thing theThingsIO RESTful API utilize Currently beta mode API use HTTP request JSON format call response"
+    },
+    {
+        "progweb_cat": "Internet of Things,eCommerce",
+        "api_name": "Kwik",
+        "id": 1885,
+        "progweb_descr": " Kwik API allow developer access integrate functionality Kwik application Public documentation available API access come account service Kwik IoT platform allow brand connect directly customer enable repetitive directtoconsumer purchase"
+    },
+    {
+        "progweb_cat": "Internet of Things,Artificial Intelligence",
+        "api_name": "Mozilla Ambient Light Sensor",
+        "id": 1931,
+        "progweb_descr": " Mozilla Ambient Light Sensor API signal web browser application change light intensity Its integration allow smart device detect change adjust setting property color contrast APIs desktop browser compatibility currently restrict Firefox Gecko mobile compatibility restrict Firefox Mobile Gecko Chrome Android API currently beta release subject future change"
+    },
+    {
+        "progweb_cat": "Internet of Things,Artificial Intelligence",
+        "api_name": "Mozilla Screen Orientation",
+        "id": 2151,
+        "progweb_descr": " Unlike device screen inbuilt capacity detecting change orientation But device equip automated mechanism control screen orientation Mozilla Screen Orientation API provide CSS JavaScript mechanisms control screen orientation It enable device implement content adjustment use CSS relative either landscape portrait mode screen Developers alternatively use JavaScript screen orientation get lock screen current orientation API currently support Firefox OS Firefox Android mobile browser It still beta release subject future change"
+    },
+    {
+        "progweb_cat": "Internet of Things,Artificial Intelligence",
+        "api_name": "Mozilla Battery Status",
+        "id": 2175,
+        "progweb_descr": " Mozilla Battery Status API monitor system battery level mobile device streams notification event change battery level charge progress Its integration allow user retrieve realtime update device battery level status API ’ desktop browser compatibility currently restrict Chrome Firefox Gecko Opera mobile browser compatibility support Android Webview Firefox Mobile Gecko Opera Mobile Chrome Android"
+    },
+    {
+        "progweb_cat": "Internet of Things,Artificial Intelligence",
+        "api_name": "Mozilla Device Orientation",
+        "id": 2177,
+        "progweb_descr": " Mozilla Device Orientation API enhance responsiveness webenabled device detect slight change physical position relative gravitational pull Its integration equips handheld device tablet smartphones capability sensor change orientation trigger automatic rotation retain display upright position regardless orientation device API ’ desktop browser compatibility currently restrict Chrome Firefox Gecko mobile browser compatibility support Android Firefox Mobile Gecko Safari Mobile It currently beta release subject future change"
+    },
+    {
+        "progweb_cat": "Internet of Things,Artificial Intelligence",
+        "api_name": "Proximity Events",
+        "id": 2179,
+        "progweb_descr": " Proximity Events API detect closeness device object initiate appropriate reaction shut phone ’ screen close user ear Its sensor notify browser deviceobject distance change turn responds appropriate instruction react device user proximity event API compatible Firefox Gecko browser desktop Firefox Mobile Gecko browser mobile It currently beta release subject future change"
+    },
+    {
+        "progweb_cat": "Internet of Things,Activity Streams",
+        "api_name": "Density",
+        "id": 2087,
+        "progweb_descr": " Density operate people counter platform Density API support count record monitor people traffic particular location public private domain This include business premise public facility school security installation among others API require token authentication conveys request URI Query StringCRUD HTTP format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Internet of Things,Activity Streams",
+        "api_name": "Sensorberg",
+        "id": 3475,
+        "progweb_descr": " Sensorberg IoT system provider base Germany Existing application extend Sensorberg platform order add beacon signal reading capability Sensorberg develop cloudbased beacon management platform provide REST API This platform enable developer provide digital interaction end consumer"
+    },
+    {
+        "progweb_cat": "Internet of Things,API",
+        "api_name": "GSMA Directory",
+        "id": 2150,
+        "progweb_descr": " This RESTful API GSMA API Directory return search across field API Tls support API Status API either come soon live API provider GSMA represent interest mobile operator worldwide unite nearly 800 operator almost 300 company broader mobile ecosystem"
+    },
+    {
+        "progweb_cat": "Internet of Things,API",
+        "api_name": "Paraimpu",
+        "id": 5784,
+        "progweb_descr": " Use Paraimpu REST API create InternetofThings Paraimpu support JSON authenticate via Token assign create free account API allow user connect physical thing appliance light home system web Link device APIs create Things Connections share data API home page contain documentation include tutorial code example"
+    },
+    {
+        "progweb_cat": "Internet of Things,Browsers",
+        "api_name": "Mozilla Geolocation",
+        "id": 2178,
+        "progweb_descr": " Mozilla Geolocation support integration navigation property webbased application RESTful API allow developer integrate locationtracking application device This way user voluntarily deploy device determine watch current location API compatible desktop mobile browser"
+    },
+    {
+        "progweb_cat": "Internet of Things,3D",
+        "api_name": "Think Silicon NemaGFX Graphics",
+        "id": 2188,
+        "progweb_descr": " Think Silicon NemaGFX Graphics API expedite development Graphics User Interface GUI embed wearable device Its advanced architecture prominently feature ultralow power capability design minimize battery energy consumption Developers use API access various geometric primitive addition affine 3D functionality span 2D3D rotation scale shear domain among others"
+    },
+    {
+        "progweb_cat": "Internet of Things,Data",
+        "api_name": "thethings.iO Cloud",
+        "id": 2200,
+        "progweb_descr": " Execute JavaScript code thethingsiO cloud use Cloud Code API There three type Cloud Code include trigger job function Some expose service email twilio httpRequest Twitter thethingsiO enterprise platform Internet Things solution"
+    },
+    {
+        "progweb_cat": "Internet of Things,Data",
+        "api_name": "thethings.iO",
+        "id": 2424,
+        "progweb_descr": " theThingsIO API RESTful service allow store share realtime data generate Internet connect thing This include Arduino Raspberry Pi Intel Galileo Electric Imp It provide way thing store realtime data visualize theThingsIO dashboard thethingsiO enterprise platform Internet Things solution"
+    },
+    {
+        "progweb_cat": "Internet of Things,Data",
+        "api_name": "thethings.iO MQTT",
+        "id": 2425,
+        "progweb_descr": " thethingsiO MQTT use Message Queue Telemetry Transport This publishsubscribe base light weight message protocol use top TCPIP protocol It design connection remote location small code footprint require andor network bandwidth limit An MQTT Broker server Internet Things use MQTT connect thethingsiO enterprise platform Internet Things solution"
+    },
+    {
+        "progweb_cat": "Internet of Things,Data",
+        "api_name": "thethings.iO CoAP",
+        "id": 2427,
+        "progweb_descr": " theThingsIO CoAP API use Constrained Application Protocol This software protocol intend use simple electronics device allow communicate interactively Internet CoAP design translate HTTP simplify integration web This include ThingWrite ThingRead Activate API service allow store share realtime data generate Internetconnected thing provide way thing store realtime data visualize theThingsIO dashboard thethingsiO enterprise platform Internet Things solution"
+    },
+    {
+        "progweb_cat": "Internet of Things,Data",
+        "api_name": "Samsung ARTIK Cloud",
+        "id": 4193,
+        "progweb_descr": " Samsung ARTIK Cloud open data exchange platform design bring order chaos break silo empower bring promise IoT With easy use open APIs tool collect store act data device cloud service"
+    },
+    {
+        "progweb_cat": "Internet of Things,Data",
+        "api_name": "ClearBlade",
+        "id": 4658,
+        "progweb_descr": " ClearBlade API offer scalable application development platform integrate exist application Features include micro service realtime message analytics This REST API respond JSON use Token authentication ClearBlade base Austin focus deliver enterprise software company around world"
+    },
+    {
+        "progweb_cat": "Internet of Things,Auto",
+        "api_name": "IBM Bluemix Car Diagnostic",
+        "id": 2446,
+        "progweb_descr": " IBM Bluemix Car Diagnostic API translate OBD error cod human readable form make easy assess status vehicle This API support error code read ELM327 OBD dongles well error code specific car manufacturer Car Diagnostic database professionally maintain include 17000 error code"
+    },
+    {
+        "progweb_cat": "Internet of Things,Auto",
+        "api_name": "Easyroad",
+        "id": 2460,
+        "progweb_descr": " Easyroad API access car data It available JSON format OAuth2 authentication method Easyroad internet thing company connect vehicle analyze driver data Web content write Norwegian Developers speak language use Google Translate understand sit content API documentation English"
+    },
+    {
+        "progweb_cat": "Internet of Things,Auto",
+        "api_name": "PSA Group Connected Car",
+        "id": 3168,
+        "progweb_descr": " Connected Car API offer access 89 car signal follow manufacturer Peugeot Citroën DS Automobiles Developers need PSA Group car order build application follow domain support telemetry maintenance alert correlation API Keys use authentication"
+    },
+    {
+        "progweb_cat": "Internet of Things,Auto",
+        "api_name": "Mojio",
+        "id": 7160,
+        "progweb_descr": " Mojio create alwayson cellular GPS device plug newer vehicle connects smartphones via Mojio app app help driver monitor vehicle action location delay phone call texts vehicle park communicate others let know vehicle estimate time arrival diagnosis vehicle issue track trip mileage Mojio make SDK available developer develop apps use Mojio data"
+    },
+    {
+        "progweb_cat": "Internet of Things,Collecting",
+        "api_name": "Orange Live Objects",
+        "id": 2604,
+        "progweb_descr": " Orange Live Objects API bring Internet Things IoT whole new level developer With Live Objects user manage object collect store IoT data well secure process IoT data Through Live Objects Portal user easily access APIs many service Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Internet of Things,Automation",
+        "api_name": "t6",
+        "id": 2654,
+        "progweb_descr": " t6 API orientedData platform connects physical object time series DB provide HTTP JSON format Developers integrate sense event store value monitor information customize dashboard send alert interface also available GitHub httpsgithubcommathcollt6"
+    },
+    {
+        "progweb_cat": "Internet of Things,Automation",
+        "api_name": "Amazon Alexa Smart Home Skills",
+        "id": 2782,
+        "progweb_descr": " smart home skill automation solution support cod configuration instrument interpret voice command transmit message cloudenabled device It allow user use cloud device implement remote connection manipulation home office appliance Amazon Alexa Home Skills API platform play crucial role understand transform command directives prior convey smart home skills Its infrastructure consist skill adapter function host Amazon Web Services ’ AWS Lambda event source represent Alexa Connected Home API send request user ’ skill adapter JSON format These request usually consist object payload object user ’ skill adapter turn return response JSON format similarly contain object payload object API develop multiple language A developer must sign Amazon developer account acquire OAuth 20 access token able use API create smart home skill"
+    },
+    {
+        "progweb_cat": "Internet of Things,Automation",
+        "api_name": "Muzzley",
+        "id": 3500,
+        "progweb_descr": " Muzzley allow developer integrate application Internet Things platform feature product related light thermostat automotive health Muzzley REST API offer device connection automation control This API require API Keys authentication use OAuth exchange information JSON format Additionally Muzzley provide support recommendation build interact connect device"
+    },
+    {
+        "progweb_cat": "Internet of Things,Audio",
+        "api_name": "Amazon Alexa Voice Service",
+        "id": 2779,
+        "progweb_descr": " Alexa Voice Service AVS component Amazon ’ Alexa Skills Kit When deploy Amazon Alexa Voice Service API developer use microphone speaker enable voice functionality cloudconnected product voice integration transforms product Alexacompliant gadget capable access variety functionality audio playback speech recognition well volume control API send request return response JSON format Developers must use Login Amazon portal access API ’ authentication token"
+    },
+    {
+        "progweb_cat": "Internet of Things,Big Data",
+        "api_name": "Proximus EnCo Smartliving.io",
+        "id": 2796,
+        "progweb_descr": " Proximus EnCo Smartlivingio API integrate internet thing application Based Belgium Proximus present EnCo enable company developer interested cod new application With reason provide HTTP request receive JSON response via endpoint available documentation site Proximus telecom mobile communication company base Belgium Proximus EnCo developer platform focus APIs telecom IoT BigData"
+    },
+    {
+        "progweb_cat": "Internet of Things,Big Data",
+        "api_name": "Proximus EnCo Status",
+        "id": 2816,
+        "progweb_descr": " Proximus EnCo Status API integrate status SEaaS relate internet thing application available LoRa network HTTP request available receive JSON response return Proximus telecom mobile communication company base Belgium Proximus EnCo developer platform focus APIs telecom IoT BigData"
+    },
+    {
+        "progweb_cat": "Internet of Things,Big Data",
+        "api_name": "Proximus EnCo Sensor Value",
+        "id": 2817,
+        "progweb_descr": " Proximus EnCo Sensor Value API retrieve sensor data device register user account Developers access token send HTTP GET request receive JSON response return Proximus telecom mobile communication company base Belgium Proximus EnCo developer platform focus APIs telecom IoT BigData"
+    },
+    {
+        "progweb_cat": "Internet of Things,Big Data",
+        "api_name": "Proximus EnCo Keys",
+        "id": 2818,
+        "progweb_descr": " Proximus EnCo Keys API retrieve LoRa internet thing key also available developer portal JSON response return developer send HTTP request previously authorize token Proximus telecom mobile communication company base Belgium Proximus EnCo developer platform focus APIs telecom IoT BigData"
+    },
+    {
+        "progweb_cat": "Internet of Things,Big Data",
+        "api_name": "Proximus EnCo Device & Sensor",
+        "id": 2819,
+        "progweb_descr": " Proximus EnCo Device Sensor API integrate information collection device sensor Token require authenticate HTTP GET request retrieve JSON response return Proximus telecom mobile communication company base Belgium Proximus EnCo developer platform focus APIs telecom IoT BigData"
+    },
+    {
+        "progweb_cat": "Internet of Things,Big Data",
+        "api_name": "Proximus EnCo Address Autocomplete",
+        "id": 2820,
+        "progweb_descr": " Proximus EnCo Address Autocomplete API send partial street name locality names aim use autocomplete efficiency source Developers send HTTP GET request receive JSON response return Use token authenticate Proximus telecom mobile communication company base Belgium Proximus EnCo developer platform focus APIs telecom IoT BigData"
+    },
+    {
+        "progweb_cat": "Internet of Things,Addresses",
+        "api_name": "Proximus EnCo Address Scoring",
+        "id": 2821,
+        "progweb_descr": " Proximus EnCo Address Scoring API integrate directory data street name localities address Available JSON architecture respective HTTP request Token require authenticate Proximus telecom mobile communication company base Belgium Proximus EnCo developer platform focus APIs telecom IoT BigData"
+    },
+    {
+        "progweb_cat": "Internet of Things,Platform-as-a-Service",
+        "api_name": "Arrayent Embedded",
+        "id": 2876,
+        "progweb_descr": " Arrayent Embedded APIs method allow developer configure Arrayent Connect Agent ACA receive raw data message get information status ACA function call Arrayent internet thing platform allow company deliver connect product customer"
+    },
+    {
+        "progweb_cat": "Internet of Things,Authentication",
+        "api_name": "Arrayent EcoAdaptor for Nest",
+        "id": 2879,
+        "progweb_descr": " Arrayent EcoAdaptor Nest API allow developer federate defederate Nest cloud service It include command submit oath token EcoAdapter Nest service update exist token new one defederating Nest Arrayent internet thing platform allow company deliver connect product customer"
+    },
+    {
+        "progweb_cat": "Internet of Things,Agriculture",
+        "api_name": "Parrot Sequoia",
+        "id": 2902,
+        "progweb_descr": " This API transport agnostic use along USB serial IP layer communicate PTP compliant camera It allow capture config calibrate download Parrot Sequoia camera control USB use PTP protocol WIFI use PTPIP HTTPAPI Both allow change setting calibrate sensor trigger image capture manage internal memory"
+    },
+    {
+        "progweb_cat": "Internet of Things,Agriculture",
+        "api_name": "Parrot Flower Power Sensor Data",
+        "id": 2903,
+        "progweb_descr": " This API provide access sensor data use Flower Power Cloud return Get Samples Location Obtain Sync Data Obtain garden location statuses Parrot Pot smart flowerpot help plant selfwatering system four builtin sensor monitor light temperature soil moisture fertilizer level real time It send customized recommendation alert help good care plant"
+    },
+    {
+        "progweb_cat": "Internet of Things,Agriculture",
+        "api_name": "Parrot Flower Power Cloud",
+        "id": 2904,
+        "progweb_descr": " This API provide access connect Flower Power Cloud retrieve sensor ’ data Parrot Pot smart flowerpot help plant selfwatering system four builtin sensor monitor light temperature soil moisture fertilizer level real time It send customized recommendation alert help good care plant"
+    },
+    {
+        "progweb_cat": "Internet of Things,Agriculture",
+        "api_name": "Parrot Flower Power User",
+        "id": 2905,
+        "progweb_descr": " This API provide access user data use Flower Power Cloud return Get profile Obtain version info Parrot Pot smart flowerpot help plant selfwatering system four builtin sensor monitor light temperature soil moisture fertilizer level real time It send customized recommendation alert help good care plant"
+    },
+    {
+        "progweb_cat": "Internet of Things,Hosting",
+        "api_name": "HugeServer ION",
+        "id": 2977,
+        "progweb_descr": " HugeServer ION platform offer server control panel automation system ION provide sub account support traffic management realtime bandwidth graph internal VPN automate reinstallation system ION API use server monitoring management HugeServer provide dedicated server colocation hybrid server virtual server cloud host solution"
+    },
+    {
+        "progweb_cat": "Internet of Things,Cities",
+        "api_name": "Predix Traffic Planning",
+        "id": 3551,
+        "progweb_descr": " Traffic Planning API offer metadata obtain light sensor along public roadway Information speed direction available historical realtime development purpose This REST API return data JSON format use OAuth 2 Tokens authentication Predix industrial software platform develop General Electric Digital aim improve asset performance management APM operation business"
+    },
+    {
+        "progweb_cat": "Internet of Things,Analytics",
+        "api_name": "Predix Time Series",
+        "id": 3674,
+        "progweb_descr": " Time Series API offer sensor data management distribution storage Four price plan available This REST API return data JSON format use OAuth 2 Tokens authentication Predix industrial software platform develop General Electric Digital aim improve asset performance management APM operation business"
+    },
+    {
+        "progweb_cat": "Internet of Things,Analytics",
+        "api_name": "Wia",
+        "id": 4122,
+        "progweb_descr": " Wia cloud base backend develop Internet Things application It feature device management event collection analytics push notification Wia API REST base use Tokens authentication return data JSON format Wia base UK provide service maker startups enterprise user"
+    },
+    {
+        "progweb_cat": "Internet of Things,Analytics",
+        "api_name": "DeviceHub",
+        "id": 4416,
+        "progweb_descr": " DeviceHub API allow developer integrate solution available DeviceHub platform application develop IoT project different device DeviceHub PaaS Platform Service company enable hardwaremobile developer connect manage multiple device remotely"
+    },
+    {
+        "progweb_cat": "Internet of Things,Analytics",
+        "api_name": "mnubo",
+        "id": 4544,
+        "progweb_descr": " mnubo analytics platform aim improve different kind hardware extract value sensor data mnubo accomplishes collect object data process within mnubos cloud base platform order provide strategic insight SmartObjects mnubos proprietary software suite provide descriptive predictive prescriptive analytics mnubo delivers service automotive industry wearable manufacturer construction industry healthcare provider"
+    },
+    {
+        "progweb_cat": "Internet of Things,Analytics",
+        "api_name": "Meeti",
+        "id": 5634,
+        "progweb_descr": " Meeti REST API allow developer access integrate functionality Meeti application smart device Some example API method include connect device manage device manage account information Meeti MoBagel device analytics software service Internet Things smart device"
+    },
+    {
+        "progweb_cat": "Internet of Things,Customization",
+        "api_name": "Predix Asset Data",
+        "id": 3675,
+        "progweb_descr": " Asset Data API create store instanced asset model machine type example asset model include pumps organization This REST API return data JSON format use OAuth 2 Tokens authentication Predix industrial software platform develop General Electric Digital aim improve asset performance management APM operation business"
+    },
+    {
+        "progweb_cat": "Internet of Things,Aggregation",
+        "api_name": "IOStash IoT PaaS",
+        "id": 3682,
+        "progweb_descr": " IOStash IoT PaaS API allow developer integrate Internet Things IoT platform application IOStashs IoT platform provide multiple M2M interface real time data delivery It securely consolidate filter distribute data IoT device asset enterprise application mobile apps IOStash free personal use"
+    },
+    {
+        "progweb_cat": "Internet of Things",
+        "api_name": "Kaa Admin",
+        "id": 3914,
+        "progweb_descr": " Kaa Admin API allow developer integrate application internet thing IoT platform open source Kaa IoT platform provide unobscured cloud IoT development It allow user connect manage device via cloud prototype smart product collect analyze data real time scale IoT solution deploy IoT solution anywhere"
+    },
+    {
+        "progweb_cat": "Internet of Things",
+        "api_name": "Meshblu",
+        "id": 7256,
+        "progweb_descr": " Formerly Skynet Meshblu API internet thing With collaborative approach Skynet offer API help developer make drone dance turn hue light bulb control electronic device like Belkin WeMo This hybrid cloud API also offer send receive message device monitor sensor activity main value Skynet chrome app already build market name NodeBlu This app help developer experiment easy drag drop write term Some feature API include status device message event data site provide example REST demo social medium additional support"
+    },
+    {
+        "progweb_cat": "Internet of Things",
+        "api_name": "SenseIoT",
+        "id": 7272,
+        "progweb_descr": " SenseIoT platform store processing sensor data safely securely cloud It come tool visualize data set trigger remotely manage data SenseIoT API enable developer integrate platform function device sensor sensor network connect internet"
+    },
+    {
+        "progweb_cat": "Internet of Things",
+        "api_name": "Particle",
+        "id": 8110,
+        "progweb_descr": " Particle API allow developer access integrate functionality Particle application device API allow write function device firmware call app realtime Some example API method include turn wifi connect device manage device Particle product allow user connect type electronics internet use cellular connectivity"
+    },
+    {
+        "progweb_cat": "Internet of Things",
+        "api_name": "Interpair",
+        "id": 14307,
+        "progweb_descr": " Interpair cloudbased device pair service By use dynamically generate PIN code two client exchange pair information To send pair information one client post information via interpairnet URL parameter receive numeric code return client retrieve information use code"
+    },
+    {
+        "progweb_cat": "Internet of Things,Home Automation",
+        "api_name": "Space Bunny",
+        "id": 3965,
+        "progweb_descr": " Space Bunny Internet Things platform use monitor live stream remotely control device This platform feature safe message queue user management protocol bridge data stream separation Space Bunny API support smart home industrial application development This API exchange information JSON format use API Keys authentication"
+    },
+    {
+        "progweb_cat": "Internet of Things,Home Automation",
+        "api_name": "Neura",
+        "id": 5389,
+        "progweb_descr": " Neura Internet Things service aim improve engagement user communication increase security home automation APISDK documentation available build apps OAuth2 purpose Neuras resource keep application device connect user activity With API developer study request health wellness information subscribe push notification authenticate user More RESTful API return JSON responses health wellness example httpsgithubcomNeuraLabsNeuradocumentationblobmastertextquickstartPullmd"
+    },
+    {
+        "progweb_cat": "Internet of Things,Home Automation",
+        "api_name": "Nest",
+        "id": 7887,
+        "progweb_descr": " Nest Thermostat smart thermostat learn homeowner habit automatically adjust house temperature Nest Protect smoke carbon monoxide alarm warn user sound deactivate easily wave arm Both device control user mobile phone Nest API allow user control Nest Thermostat Nest Protect well display current configuration By use API developer integrate Nest Thermostat Nest Protect product application service"
+    },
+    {
+        "progweb_cat": "Internet of Things,Home Automation",
+        "api_name": "Netatmo",
+        "id": 8349,
+        "progweb_descr": " Netatmo design produce distributes beautiful smart object make people ’ home smarter Netatmo Connect Netatmos APIs suite enables third party apps service interact Netatmo product Depending want choose best Netatmo Connect program Netatmo Weather Weather open data Netatmo Smart Home Interaction Netatmo smart device Netatmo Enterprise Bulk anonymized data"
+    },
+    {
+        "progweb_cat": "Internet of Things,Location",
+        "api_name": "OGC SensorThings",
+        "id": 4015,
+        "progweb_descr": " OGC SensorThings REST API SensorUp allow developer access integrate functionality OGC SensorThings application Some example API method include retrieve list sensor access connected object return location object OGC SensorThings provide IoT internet thing data exchange platform base open geospatial ISO standard"
+    },
+    {
+        "progweb_cat": "Internet of Things,Augmented Reality",
+        "api_name": "Bt.tn",
+        "id": 4320,
+        "progweb_descr": " Bttn big physical button power AA battery program perform certain task Bttn intend offer developer REST API program press trigger web event initiate purchase augment work environment API action support GET POST PUT HTTP method"
+    },
+    {
+        "progweb_cat": "Internet of Things,Accessibility",
+        "api_name": "Weaver",
+        "id": 4370,
+        "progweb_descr": " Weaver API provide tool developer use Weaver Internet Things service frameworks Use Weaver API enable handle many device relation brand vendor Weaver strive userfriendly efficient scalable cost effective service developer connect apps IOT device smart bulbs thermostat much"
+    },
+    {
+        "progweb_cat": "Internet of Things,Energy",
+        "api_name": "Beagle Sense",
+        "id": 4495,
+        "progweb_descr": " Beagle range wireless sensor place throughout home office Each sensor monitor either air quality temperature outdoor noise indoor noise air pressure humidity light Use Beagle Sense API access sensor data API use GET method HTTPS responses JSON Collected data transmit private wireless network local base station securely communicate Beagles Cloud Service A available API method allow return list device retrieve raw data sensor configure sensor"
+    },
+    {
+        "progweb_cat": "Internet of Things,Framework",
+        "api_name": "Arrow Intelligent Services",
+        "id": 4687,
+        "progweb_descr": " Arrow Intelligent Services API provide single normalized interface complex proprietary hardware API simplify standardizes interaction hardware software networking element make easy connect device Internet Things API represent use Swagger JSON standard schema give user information need individual call Arrow Intelligent Services framework use APIfirst approach supplier enterprise developer Internet Things"
+    },
+    {
+        "progweb_cat": "Internet of Things,Backend-as-a-Service",
+        "api_name": "scriptr.io",
+        "id": 5104,
+        "progweb_descr": " Scriptrio API bring developer wealth tool backend service Scriptrio Cloud platform implement secure scalable reliable Internet Things application serverside JavaScript script provide developer development team wide range tool web IDE integration code repository APIs Scriptrio simplify development IoT apps reduces time market provide connector many third party device Nest Withings Fitbit Carvoyant etc service seamlessly use first class object script"
+    },
+    {
+        "progweb_cat": "Internet of Things,Intelligence",
+        "api_name": "Angus.ai",
+        "id": 5180,
+        "progweb_descr": " Angusai API make easy developer give sens machine Angusai embrace AI technology text voice sound image video text laser sonar accelerometer ready lightweight setup cloud device tune noisychanging context Angusai API many unique SDKs associate flexible host data"
+    },
+    {
+        "progweb_cat": "Internet of Things,Wi-Fi",
+        "api_name": "ThingPark",
+        "id": 5199,
+        "progweb_descr": " ThingPark REST API allow developer access integrate functionality ThingPark application Public documentation available API access come account service ThingPark Actility cloud platform longrange internetofthings IoT application wifi capability"
+    },
+    {
+        "progweb_cat": "Internet of Things,Geography",
+        "api_name": "VIMOC Technologies",
+        "id": 5643,
+        "progweb_descr": " VIMOC REST API allow developer access integrate functionality VIMOC applications Some example API method include retrieve site information look site manage site specification VIMOC Technologies ubiquitous landscape compute platform connects Internet Things place"
+    },
+    {
+        "progweb_cat": "Internet of Things,Health",
+        "api_name": "Scio",
+        "id": 6066,
+        "progweb_descr": " Scio molecular sensor device read chemical make material object With Scio application chemical make whatever user scan Scio retrieve Scio API allow developer access integrate functionality data Scio application create new application Public documentation available interested developer email feedbackconsumerphysicscom information"
+    },
+    {
+        "progweb_cat": "Internet of Things,Machine Learning",
+        "api_name": "OpenSensors",
+        "id": 6175,
+        "progweb_descr": " OpenSensors REST API apiopensensorsio enables list user connect device creation new connect device OSIO platform update device list topic belong know user access historical data OpenSensors realtimeopensensorsio API help access OpenSensors realtime event firehose post subscribe real time message"
+    },
+    {
+        "progweb_cat": "Internet of Things,B2B",
+        "api_name": "Telematic REST",
+        "id": 6630,
+        "progweb_descr": " This REST base API provide developer easy access telematics data vehicle fleet Service provider may install connect car second Internet Things Examples implementation scenario include receive location car measure drive behavior receiving alarm warn manage geofences"
+    },
+    {
+        "progweb_cat": "Internet of Things,Authorization",
+        "api_name": "thingk.me",
+        "id": 6757,
+        "progweb_descr": " Claysters thingkme provision server use set open public domain interoperable APIs help device Internet Things make security decision With API device delegate security decision thingkme follow recommendation Using XMPP protocol API also allow device Internet Things create account register device make decision device trust API also support interoperability device"
+    },
+    {
+        "progweb_cat": "Internet of Things,API Management",
+        "api_name": "Omega Ricochet",
+        "id": 6939,
+        "progweb_descr": " RacoWireless offer collection communication management tool DevCloud Omega Management Suite platform design increase interoperability IoT device RESTful API integration RacoWireless Omega Management Suite DevCloud process handle Omega Richochet API enable ability device management acces rich device data statistic SOAP protocol"
+    },
+    {
+        "progweb_cat": "Internet of Things,Software-as-a-Service",
+        "api_name": "Carvoyant",
+        "id": 7115,
+        "progweb_descr": " Carvoyant middleware platform thats design help developer create application connect car It potentially interact vehicle build since 1996 amount 240 million compatible vehicle US alone Carvoyant API simplify management data come different vehicle device data carrier"
+    },
+    {
+        "progweb_cat": "Internet of Things,Management",
+        "api_name": "Brivo Labs SAM",
+        "id": 7444,
+        "progweb_descr": " Brivo Labs internet thing company offer webhosted solution allow business remotely control access office warehouse building main value Brivo ability control computer room real time goal protect sensitive data This specially targeted developer intend connect social aspect physical aspect internet thing It ’ similar remote control community integrate along functionality control location remotely Brivo offer SAM API different way invite community manage physical location SAM API platform feature security control data visuals itineraries Its resource user data management device management secure communication"
+    },
+    {
+        "progweb_cat": "Internet of Things,Gadgets",
+        "api_name": "Pinoccio",
+        "id": 7592,
+        "progweb_descr": " Pinoccio sell batterypowered microcontrollers allow user create device communicate wirelessly internet Pinnoccio API allow user manage retrieve information device It also handle data storage protocol architecture require make easy web programmer get start hardwarebased project"
+    },
+    {
+        "progweb_cat": "Internet of Things,TV",
+        "api_name": "Illiri",
+        "id": 8754,
+        "progweb_descr": " Illiri technical service connects two device platform mobile web radio TV etc together Illiri API allow developer access integrate functionality Illiri application create new application Some example API method include connect device start manage session manage account information"
+    },
+    {
+        "progweb_cat": "Internet of Things,Internet of Things",
+        "api_name": "Sense Tecnic WoTkit",
+        "id": 9200,
+        "progweb_descr": " Sense Tecnic software company develop technology Internet Things IoT WoTkit Sense Tecnics web centric sense platform make easy connect realworld object Internet system serve sensor data aggregator remote control dashboard data process tool Sense Tecnic provide RESTful API WoTkit allow developer connect use real world sensor data application Example API method include sensor sensor subscription sensor field sensor data API use Keys basic authentication Applications OAuth2 authorization control access user sensor data"
+    }
+]

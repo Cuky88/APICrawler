@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Accounts,Authentication",
+        "api_name": "OrganiCity Permissions",
+        "id": 3126,
+        "progweb_descr": " This API allow read global role assign user read role specific request client assign user add remove global role user This component streamline handle read edit assign role specific user functionality API available service account client require appropriate role Organicity company create smart city future platform interaction everyone include citizen activists researcher business government"
+    },
+    {
+        "progweb_cat": "Accounts,Email",
+        "api_name": "Act-On Account",
+        "id": 4943,
+        "progweb_descr": " ActOn Account API allow developer integrate application API service enable user get manage customer account information ActOn marketing automation software provider"
+    },
+    {
+        "progweb_cat": "Accounts,Analytics",
+        "api_name": "GoSquared Account",
+        "id": 6253,
+        "progweb_descr": " GoSquared Account API allow developer perform administrative action GoSquared account integrate service application These action include change setting configuration list resource account GoSquared realtime people analytics company provide customer information visitor website"
+    },
+    {
+        "progweb_cat": "Accounts,Activity Streams",
+        "api_name": "Spredfast Account",
+        "id": 6645,
+        "progweb_descr": " Spredfast Account API provide developer limit meta information set streams belongs individual account A user system multiple stream account API useful access multiple stream specific user perform single request"
+    }
+]

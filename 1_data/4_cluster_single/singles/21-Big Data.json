@@ -1,0 +1,128 @@
+[
+    {
+        "progweb_cat": "Big Data,Analytics",
+        "api_name": "DigitalGlobe GBDX Write Vector",
+        "id": 1400,
+        "progweb_descr": " DigitalGlobe provide service allow user vector would like visualize index easily pass user Vector write complete via shapefile ingest API write JSON format vector JSON format vector may write via either synchronous asynchronous method user specify index provide vector Vector generation useful direct addition update vector without need third party service vector submission request form GBDX living digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth imagery data analysis"
+    },
+    {
+        "progweb_cat": "Big Data,Analytics",
+        "api_name": "DigitalGlobe GBDX Aggregation",
+        "id": 1416,
+        "progweb_descr": " DigitalGlobe GBDX Aggregation vector capability give user ability summarize vast amount vector data rapidly easily location keyword datetime Aggregations allow user poll large area information narrow search eventually reach specific data desire download Aggregations also give user ability run analytics change detection discover zone similar area interest GBDX live digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth satellite imagery data analysis"
+    },
+    {
+        "progweb_cat": "Big Data,Analytics",
+        "api_name": "DigitalGlobe GBDX Read Vector",
+        "id": 1422,
+        "progweb_descr": " DigitalGlobe GBDX Read Vector search capability give user ability query vast amount vector data rapidly easily location keyword datetime It allow access wide variety vector data include map data social medium record API provide analyst tool visually map available vector within give aoi GBDX live digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth imagery data analysis"
+    },
+    {
+        "progweb_cat": "Big Data,Analytics",
+        "api_name": "DigitalGlobe GBDX AnswerFactory",
+        "id": 1423,
+        "progweb_descr": " DigitalGlobe GBDX AnswerFactory web application support Google Chrome They support Microsoft Internet Explorer Edge functional Firefox actively test AnswerFactory simple webbased interface allows take advantage power GBDX cloudbased remote sense scale It allow create project contain area region globe care add answer within area include locate counting object detect change identify foliage find OpenStreetMaps OSM new feature GBDX live digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth imagery data analysis"
+    },
+    {
+        "progweb_cat": "Big Data,Analytics",
+        "api_name": "DigitalGlobe GBDX IDAHO",
+        "id": 1424,
+        "progweb_descr": " DigitalGlobe GBDX IDAHO service cloudbased data storage format design high availability real time access IDAHO acronym IPE Data Architecture Highlyavailable Objectstore tilebased imagery format optimize storage cloudbased object store IDAHO image consist two file type tile metadata file Converting large footprint satellite imagery IDAHO format provide imagerymanipulating algorithm tilebased access imagery significantly reduce load time compute time parallel processing GBDX living digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth imagery data analysis"
+    },
+    {
+        "progweb_cat": "Big Data,Analytics",
+        "api_name": "DigitalGlobe GBDX Authentication",
+        "id": 1428,
+        "progweb_descr": " DigitalGlobe GBDX Authentication API allow get access DigitalGlobes GBDX platform GBDX use OAuth2 authentication authorization need GBDX username password API key To make request GBDX API youll need OAuth2 token It open protocol allow secure authorization simple standard method web mobile desktop application GBDX live digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth satellite imagery data analysis"
+    },
+    {
+        "progweb_cat": "Big Data,Analytics",
+        "api_name": "DigitalGlobe GBDX Web Application",
+        "id": 1429,
+        "progweb_descr": " GBDX web application provide way find tasks meet business need define area interest organize work track progress Google Chrome Firefox Safari support browser support version Internet Explorer It allow organize work project upload file define area interest run task extensive task library GBDX living digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth satellite imagery data analysis"
+    },
+    {
+        "progweb_cat": "Big Data,Analytics",
+        "api_name": "DigitalGlobe GBDX S3 Storage",
+        "id": 1430,
+        "progweb_descr": " GBDX store ancillary data derive product Amazon Web Services AWS S3 bucket When workflow run GBDX platform task call StageDataToS3 typically last task run workflow This task take process data place AWS S3 bucket GBDX S3 Storage Service allow user access data provide temporary credential require access Prefix Folder Object S3 bucket GBDX living digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth satellite imagery data analysis"
+    },
+    {
+        "progweb_cat": "Big Data,Analytics",
+        "api_name": "Platfora REST",
+        "id": 6092,
+        "progweb_descr": " Platfora big data analytics company provide business way analyze data Platfora REST API let developer integrate Platforas service application enable customer access data directly This API RESTful resource object represent JSON"
+    },
+    {
+        "progweb_cat": "Big Data,Addresses",
+        "api_name": "Kruispuntdatabank KBO",
+        "id": 1477,
+        "progweb_descr": " Kruispuntdatabank KBO API provide company business data Belgium enterprise register Belgium Kruispuntbank van Ondernemingen KBO It available REST architecture JSON format API authentication Key"
+    },
+    {
+        "progweb_cat": "Big Data,Cloud",
+        "api_name": "Orange Datavenue",
+        "id": 4224,
+        "progweb_descr": " Orange Datavenue API provide developer way collect store manage aggregate secure customer data connect object platform A Developer Account require access API"
+    },
+    {
+        "progweb_cat": "Big Data,Cloud",
+        "api_name": "Rackspace Cloud Big Data",
+        "id": 6154,
+        "progweb_descr": " Rackspace Cloud Big Data ondemand Apache Hadoop service Rackspace open cloud Rackspace Cloud Big Data API let developer integrate service application API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Big Data,Data",
+        "api_name": "Cloudera Manager",
+        "id": 5849,
+        "progweb_descr": " Cloudera Manager REST API provide platform manage enterprise data hub Apache Hadoop API use standard HTTP JSON authenticate use HTTP Basic Authentication Use Caldera Manager app manage data central administrative hub run diagnostic report monitor activity alert health check See extensive documentation information code sample"
+    },
+    {
+        "progweb_cat": "Big Data,Data",
+        "api_name": "Company Data",
+        "id": 6976,
+        "progweb_descr": " Company Data searchable site host database 3400000 record company base United Kingdom Each company data set include information account mortgage key client important figure file status history Company Data API use open government record source data In order consume API developer must posses API key receive pay fee API usage"
+    },
+    {
+        "progweb_cat": "Big Data,eCommerce",
+        "api_name": "Qubell Platform",
+        "id": 5958,
+        "progweb_descr": " Qubell provide autonomic system configuration management service Qubell API allow developer streamline updates application self repair problem API include feature privacy guard automatic reconfiguration report change"
+    },
+    {
+        "progweb_cat": "Big Data,Database",
+        "api_name": "Context Matters",
+        "id": 6464,
+        "progweb_descr": " Context Matters Reimbursement Tracker platform pharmaceutical company Data Scientists use data analysis database large API Beta enable developer perform analysis efficiently integration option complexity Context matter API allow customer perform complex database query integrate exist system Context Matters data API currently Beta mode access grant case case basis"
+    },
+    {
+        "progweb_cat": "Big Data,Algorithms",
+        "api_name": "Decooda",
+        "id": 6777,
+        "progweb_descr": " Decoodas cognitive linguistics analysis API help business harvest insight mass amount data Currently API close beta Interested developer may visit site request access additional information API rapidly filter limitless amount structure unstructured text base content demand real time return smart analytics content tag potential use report business decision make community engagement capture"
+    },
+    {
+        "progweb_cat": "Big Data,Agriculture",
+        "api_name": "getETFSDetails",
+        "id": 6999,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getETFDetails API provide ETF profile information include description fund family underlie index inception date alpha beta share outstanding management fee asset management top 10 holding All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Big Data,Agriculture",
+        "api_name": "getUSDAGrainPrices",
+        "id": 7010,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getUSDAGrainPrices API provide daily cash grain bid price location throughout United States cover corn wheat oat soybean market All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Big Data,Media",
+        "api_name": "getNews",
+        "id": 7001,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getNews API return news headline article relate photo base upon news source category subcategory andor keyword All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Big Data,Australian",
+        "api_name": "ABS ITT",
+        "id": 7296,
+        "progweb_descr": " Australian Bureau Statistics ABS host RESTful API give developer access data hold Australias national statistic agency ABS collect data concern wide range economic social environmental political issue gather nationwide census Use call GetDatasetList display general overview data content outline method specific query"
+    }
+]

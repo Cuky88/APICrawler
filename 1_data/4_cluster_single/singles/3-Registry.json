@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Registry,Crime",
+        "api_name": "Recordsapi Public Records",
+        "id": 2661,
+        "progweb_descr": " Recordsapicom large record database provider internet Instant Realtime Results And upadates alomost daily"
+    },
+    {
+        "progweb_cat": "Registry,Authentication",
+        "api_name": "U.S. Digital Registry API",
+        "id": 4630,
+        "progweb_descr": " US Digital Registry API builder portal tool authenticate validity official government social medium account mobile apps store US Digital Registry government create API establish channel citizens consumer information public service domains access US Digital Registry probe authenticity digital medium account use convey information Ownership OMB Max ID prerequisite condition access US Digital Registry This limit registry ’ access federal government employee contractor API ’ request response anchor HTTP protocol JSON format respectively Both US Digital Registry API beta release"
+    },
+    {
+        "progweb_cat": "Registry,Asia",
+        "api_name": "RIPEstat Data",
+        "id": 6993,
+        "progweb_descr": " RIPE NCC regional internet agency responsible register IP address AS number Europe Asia public RIPEstat Data API use NCC member web large interface NCCs RIPEstat internet resource toolbox programmatically retrieve information active IP address AS number exchange information BGP BNS information"
+    }
+]

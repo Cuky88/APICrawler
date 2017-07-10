@@ -1,0 +1,68 @@
+[
+    {
+        "progweb_cat": "Tickets,Events",
+        "api_name": "Ticketmaster Inventory Status",
+        "id": 2558,
+        "progweb_descr": " Ticketmaster Inventory Status API track update status event main inventory Ticketmaster platform It provide near real time update ticket availability ongoing schedule event API allow maximum 1000 event IDs per call return information availability quantity remain ticket This API send request URI QueryCRUD format return responses JSON format Its access restrict authorized developer"
+    },
+    {
+        "progweb_cat": "Tickets,Events",
+        "api_name": "Ticketmaster Top Picks",
+        "id": 2559,
+        "progweb_descr": " Ticketmaster Top Picks API allow user sift ticket available seat different section venue Its integration allow user access near real time data seat pick accord availability pricing API require API Key authentication send request URI StringCRUD format"
+    },
+    {
+        "progweb_cat": "Tickets,Events",
+        "api_name": "Ticketmaster Season Ticketing",
+        "id": 2560,
+        "progweb_descr": " Ticketmaster Season Ticketing API provide access season ticket data Its call allow external system access ticket data associate particular season client RESTful API use HTTPS communication protocol conveys request response JSON format"
+    },
+    {
+        "progweb_cat": "Tickets,Events",
+        "api_name": "Ticketmaster Partner",
+        "id": 3984,
+        "progweb_descr": " Ticketmaster Partner API let developer integrate ability reserve purchase retrieve ticket event information website application By default API user make 5000 callsday Rate increase provide casebycase basis Ticketmaster online ticket retail platform offer ticket concert sport event play fair"
+    },
+    {
+        "progweb_cat": "Tickets,Events",
+        "api_name": "Viagogo",
+        "id": 4117,
+        "progweb_descr": " Viagogo API connect user Viagogo ’ ticket service marketplace This include functionality search view event purchase list ticket Viagogo operate close 60 different county HTTP JSON format"
+    },
+    {
+        "progweb_cat": "Tickets,Authentication",
+        "api_name": "Ticketmaster OAuth",
+        "id": 2570,
+        "progweb_descr": " Ticketmaster OAuth API simplify authentication Ticketmaster user Apps feature API capable authorize request Ticketmaster Open Platform user ’ behalf API also deploy social signon solution Its access require authentication token"
+    },
+    {
+        "progweb_cat": "Tickets,Customer Service",
+        "api_name": "TM Forum Trouble Ticket",
+        "id": 4063,
+        "progweb_descr": " TM Forum Trouble Ticket API allow developer access Trouble Ticket Management Systems order create track manage trouble ticket TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Tickets,Attractions",
+        "api_name": "Ingresso TicketSwitch",
+        "id": 4241,
+        "progweb_descr": " Ingresso TicketSwitch API provide way user search event view availability include individual seat reserve purchase ticket API service connect directly venue ticket system Any ticket buy via API purchase live venue system Developers integrate application API enable user purchase ticket directly application This API use large ticket site Amazon Tickets ticketsamazoncouk YPlan yplanappcom From Box Office fromtheboxofficecom Ingresso global distribution system entertainment ticket"
+    },
+    {
+        "progweb_cat": "Tickets,Entertainment",
+        "api_name": "BookingShow",
+        "id": 4258,
+        "progweb_descr": " BookingShow event ticket platform base Italy BookingShow API allow search event buy ticket BookingShow Platform permit emission fiscal seal Italian legislative obligation Protocols include HTTP JSON REST XML authentication available via API Key token"
+    },
+    {
+        "progweb_cat": "Tickets,Forms",
+        "api_name": "osTicket Platform",
+        "id": 5885,
+        "progweb_descr": " osTicket Platform API allow developer write push HTML form osTicket This allow thirdparty application automatically open ticket service osTicket free open source support ticket system capable handle inquiry create use email web form phone call single platform"
+    },
+    {
+        "progweb_cat": "Tickets,Customer Relationship Management",
+        "api_name": "Networked Help Desk",
+        "id": 7345,
+        "progweb_descr": " Networked Help Desk provide way company uniformly communicate help desk information various department NetworkedHelpDeskorg RESTful API allow developer implement ticket share across company platform use Universal Unique Identifiers UUID identify ticket distribute across network Developers visit NetworkedHelpDeskorgs website request API key access"
+    }
+]

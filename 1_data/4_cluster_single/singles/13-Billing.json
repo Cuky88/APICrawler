@@ -1,0 +1,80 @@
+[
+    {
+        "progweb_cat": "Billing,Enterprise",
+        "api_name": "BillForward",
+        "id": 1700,
+        "progweb_descr": " BillForward API integrate bill web service It available REST architecture JSON method OAuth authentication method Endpoints sandbox production part resource along SDKs HTTP request documentation URL address Enterprises use API unify bill product market departmental alternative"
+    },
+    {
+        "progweb_cat": "Billing,Payments",
+        "api_name": "PayPal Billing Plans",
+        "id": 1769,
+        "progweb_descr": " PayPal Billing Plans API allow create subscription recur payment good service It available REST architecture JSON callbacks With Billing Plans developer create update plan accord merchant preference"
+    },
+    {
+        "progweb_cat": "Billing,Payments",
+        "api_name": "PayPal Billing Agreements",
+        "id": 1770,
+        "progweb_descr": " PayPal Billing Agreements API retrieve data related agreement It create agreement update agreement show agreement detail cancel agreement It available REST architecture JSON body example available present create PayPal payment agreement override merchant preference ship fee tax information"
+    },
+    {
+        "progweb_cat": "Billing,Payments",
+        "api_name": "Transverse Tract SOAP",
+        "id": 6510,
+        "progweb_descr": " Transverse softwareasaservice company provide business way automate billing manage customer subscription Transverse Tract SOAP API let developer integrate application Tract service make SOAP request API API use Basic HTTP Authentication"
+    },
+    {
+        "progweb_cat": "Billing,Payments",
+        "api_name": "Transverse Tract REST",
+        "id": 6514,
+        "progweb_descr": " Transverse softwareasaservice company provide business way automate billing manage customer subscription Transverse Tract REST API let developer integrate application Tract service make REST request API API use HTTP Basic Authentication"
+    },
+    {
+        "progweb_cat": "Billing,Financial",
+        "api_name": "Funkbit Splitabill",
+        "id": 2907,
+        "progweb_descr": " Funkbit Splitabill API allow user monitor share bill expense Developers use program language Java Python JavaScrip Ruby integrate RESTful API payment application This API send request HTTP format return responses JSON format current version API beta release"
+    },
+    {
+        "progweb_cat": "Billing,Automation",
+        "api_name": "Recharge Billing",
+        "id": 3729,
+        "progweb_descr": " Recharge Billing RESTful API integrate recur bill web service It available make HTTP request receive XML response SSL authentication"
+    },
+    {
+        "progweb_cat": "Billing",
+        "api_name": "TM Forum Billing Management",
+        "id": 4084,
+        "progweb_descr": " TM Forum Billing Management API allow user manage bill account bill item settlement note advice TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Billing,Brazilian",
+        "api_name": "Gerencianet",
+        "id": 4571,
+        "progweb_descr": " Gerencianet API allow developer integrate service handle billing payment receipt application Gerencianet Brazilian intermediary payment company allow user issue bill payment book customer get receipts payment receive Gerencianet website API documentation provide solely Portuguese"
+    },
+    {
+        "progweb_cat": "Billing,Accounting",
+        "api_name": "Billingbooth",
+        "id": 4725,
+        "progweb_descr": " With Billingbooth API user access Billingbooth billing invoice engine API also allow channelready bill large customer structure include recurringsubscription charge multiple product tariff concurrent invoicing period schedule Billingbooth design system integration mind service access API"
+    },
+    {
+        "progweb_cat": "Billing,Business",
+        "api_name": "Rebilly",
+        "id": 4734,
+        "progweb_descr": " Rebilly API provide subscription platform recur billing integrate exist application It offer multicurrency support data portability several feature This API REST base return JSON data Rebilly location Austin Montreal Barbados focus innovate good way live work"
+    },
+    {
+        "progweb_cat": "Billing,Business",
+        "api_name": "Hiveage",
+        "id": 5996,
+        "progweb_descr": " Use RESTful Hiveage API manage business billing online Access API available Hiveage user exist account Hiveage use JSON authenticate via API Key HTTP Basic Auth Use API create invoice manage contact accept payment track employee time mileage create report"
+    },
+    {
+        "progweb_cat": "Billing,Management",
+        "api_name": "Windows Azure Billing",
+        "id": 5303,
+        "progweb_descr": " Windows Azure Billing API predict manage billing service available preview It work HTTP protocol authenticate Token goal API include interact Azure Resource Usage affords obtain consumption data Azure subscription Azure RateCard get price use Azure subscription"
+    }
+]

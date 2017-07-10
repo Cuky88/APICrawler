@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Marketplace,3D",
+        "api_name": "CGTrader",
+        "id": 1905,
+        "progweb_descr": " CGTrader API integrate 3D model management design purchase publish marketplace It available REST architecture OAuth2 authentication method JSON callback format With API developer integrate 3D model eshop monetize organize 3D file"
+    },
+    {
+        "progweb_cat": "Marketplace,Directories",
+        "api_name": "HireAHelper",
+        "id": 3298,
+        "progweb_descr": " HireAHelper API aim provide developer realtime availability pricing thousand HireAHelpers move labor vendor nationwide You need zip code date pull vendor service area available booking date information vendor include name location description review rating pricing profile Other feature include limit query result filter different vendor criterion HireAHelper offer open API however developers request access via website"
+    },
+    {
+        "progweb_cat": "Marketplace,Applications",
+        "api_name": "OpenChannel Marketplace",
+        "id": 3835,
+        "progweb_descr": " OpenChannel API let build app catalog partner directory addon marketplace bot store within weekend"
+    },
+    {
+        "progweb_cat": "Marketplace,Animals",
+        "api_name": "SHOP.COM",
+        "id": 4834,
+        "progweb_descr": " SHOPCOM API allow developer integrate SHOPCOM service content application This enable user developer application search view product detail exclusive SHOPCOM product 1000 major specialty brand product Return data include preformatted referral link publisher register SHOPCOM Affiliate Publisher Network APN SHOPCOM online store offering wide range product"
+    },
+    {
+        "progweb_cat": "Marketplace,eCommerce",
+        "api_name": "Cnova",
+        "id": 5165,
+        "progweb_descr": " Cnova API aim provide retailer ability expose product Cnova Marketplace Cnova large global eCommerce company API offer registration product manage inventory price notification request make ​​and confirm This documentation write Portuguese"
+    },
+    {
+        "progweb_cat": "Marketplace,Catalogs",
+        "api_name": "Yandex Market",
+        "id": 5658,
+        "progweb_descr": " Yandex internet search company base Europe Yandex Market API allow developer create application automate publication YandexMarket online catalogue product wide range category This API REST base This API REST base"
+    },
+    {
+        "progweb_cat": "Marketplace,Accounts",
+        "api_name": "Questrade",
+        "id": 5872,
+        "progweb_descr": " Questrade API allow developer ability create application access feature account data retrieve market data well assist make trade Questrade brokerage account Questrade Inc Canadian company provide service direct access online trading US Canadian market customize Web PCbased trading platform"
+    },
+    {
+        "progweb_cat": "Marketplace,Advertising",
+        "api_name": "Clever Cloud add-on",
+        "id": 7348,
+        "progweb_descr": " Clever Cloud Platform service provider specialize deploy apps Their addon API allow developer host service Clever Cloud marketplace addon CleverClouds suite Clever Cloud require API key addon use support integration programming language"
+    },
+    {
+        "progweb_cat": "Marketplace,API",
+        "api_name": "Faascape",
+        "id": 13163,
+        "progweb_descr": " Faascape market place application Saas web service Faascape API suite service offer access best feature API supplier suite include API service email fax phone SMS subscription management data storage APIs use RESTful call response format JSON site French"
+    }
+]

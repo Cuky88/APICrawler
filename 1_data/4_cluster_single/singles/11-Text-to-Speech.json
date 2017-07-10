@@ -1,0 +1,68 @@
+[
+    {
+        "progweb_cat": "Text-to-Speech,Audio",
+        "api_name": "IBM Watson Text to Speech WebSocket",
+        "id": 1839,
+        "progweb_descr": " This API speechsynthesis capability synthesize text naturalsounding speech variety languages accent voice service support least one male female voice sometimes language Audio stream back client minimal delay include method synthesizes text audio WebSocket protocol call support plain text SSML input include"
+    },
+    {
+        "progweb_cat": "Text-to-Speech,Audio",
+        "api_name": "IBM Watson Text to Speech",
+        "id": 5767,
+        "progweb_descr": " IBM Text Speech API allow user synthesize speech English Spanish text Currently male voice available language female voice English service incorporates appropriate cadence intonation synthesize speech help sound natural Text Speech service create audio file wav ogg format"
+    },
+    {
+        "progweb_cat": "Text-to-Speech,Audio",
+        "api_name": "IBM Watson Speech to Text",
+        "id": 6287,
+        "progweb_descr": " IBM Speech Text API automatically transcribe English speech text Developers use API add speech transcription capability application Speech recognition accuracy highly dependent quality input audio service transcribe word know Thus conversion speech text may perfect IBM Speech Text part Watson Developer Cloud currently still beta"
+    },
+    {
+        "progweb_cat": "Text-to-Speech,Audio",
+        "api_name": "Oddcast Text to Speech",
+        "id": 7217,
+        "progweb_descr": " Oddcast offer suite APIs allow developer add tool enterprise level platform enhance user ’ engagement medium Oddcast ’ Text Speech API allow developer integrate text speech functionality web mobile application API support 20 language type include emotive cue special audio effect offer library 185 voice It compatible dynamic web application support Flash JavaScript It also allow admin report profanity filter track usage"
+    },
+    {
+        "progweb_cat": "Text-to-Speech,Audio",
+        "api_name": "Oddcast Voice Toolkit",
+        "id": 7218,
+        "progweb_descr": " Oddcast offer set APIs allow developer add tool enterprise level platform enhance user ’ engagement medium Oddcasts Voice Toolkit API allow user record create dialogue within application toolkit come 3 component “ Textto Speech ” user input text create audio version message 200 voice 30 language available “ RecordbyPhone ” ActionScript flashbased API interface allow user call toll free number record Mp3 audio clip 30 second length “ RecordbyMic ” API XML interface allow user record Mp3 audio clip 30 second length via microphone In scenario user preview audio clip Oddcast offer host service well ongoing customer support"
+    },
+    {
+        "progweb_cat": "Text-to-Speech,Audio",
+        "api_name": "Oddcast Text to Sing",
+        "id": 7221,
+        "progweb_descr": " Oddcast offer set APIs allow developer add tool enterprise level platform enhance user ’ engagement medium Text Sing API allow user type word hear sung back accord melody preset song Either male female English speaking voice may use background music insert well This Flashbased service integrates well Oddcast APIs"
+    },
+    {
+        "progweb_cat": "Text-to-Speech,Audio",
+        "api_name": "Text to Speech",
+        "id": 7274,
+        "progweb_descr": " Transform capture script audio API name Text Speech site state offer simple free high quality way listen transcribe text MP3 format access link This API could useful developer aim integrate audio transcription website either improve listen English language include user visual impairment provide alternative usual content website Support available via email Text speech invite developer report bug goal increase quality service"
+    },
+    {
+        "progweb_cat": "Text-to-Speech,Cloud",
+        "api_name": "Speechmatics",
+        "id": 1924,
+        "progweb_descr": " Speechmatics API offer transcription platform integrate exist application It support different audio video format MP4 WAV This REST API return data JSON format use Token authentication Speechmatics provide cloudbased service range language"
+    },
+    {
+        "progweb_cat": "Text-to-Speech,Accessibility",
+        "api_name": "ResponsiveVoice Text To Speech",
+        "id": 4423,
+        "progweb_descr": " ResponsiveVoice TextToSpeech API support 51 language This crossplatform HTML5based library opensourced noncommercial nonprofit use It include speech synthesis speech recognition SW design VoiceEnable website apps"
+    },
+    {
+        "progweb_cat": "Text-to-Speech,Telephony",
+        "api_name": "Plivo Call Speak",
+        "id": 5604,
+        "progweb_descr": " Plivo Call Speak API allow developer play message use Plivos texttospeech engine Its usually use play notification live call Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Text-to-Speech,Japanese",
+        "api_name": "DOCOMO Text to Speech",
+        "id": 6346,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development Text Speech API accepts inputted text English Katakana Hiragana translate natural sound spoken voice API implement via REST accessible Android iOS Java SDKs DOCOMO also offer API console easily demo many APIs"
+    }
+]

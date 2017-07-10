@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Comparisons,Booking",
+        "api_name": "EAN Alternate Properties",
+        "id": 5986,
+        "progweb_descr": " EAN Alternate Properties API allow developer integrate Expedia database application enable user search list alternate available property similar specific hotel nightly rate length stay This RESTful API EAN stand Expedia Affiliate Network service provide Expedia"
+    },
+    {
+        "progweb_cat": "Comparisons,Marketing",
+        "api_name": "Spredfast Compare",
+        "id": 6646,
+        "progweb_descr": " Spredfast Compare API provide developer percentage entity volume comparison multiple stream This API useful scenario developer need take social poll two different topic"
+    }
+]

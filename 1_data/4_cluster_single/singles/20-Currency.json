@@ -1,0 +1,122 @@
+[
+    {
+        "progweb_cat": "Currency,Bitcoin",
+        "api_name": "Poloniex",
+        "id": 611,
+        "progweb_descr": " Poloniex cryptocurrency exchange base US It offer public readonly API method get ticker market 24hour volume market order book give market past 200 trade give market candlestick chart data currency information Trading API allow user get balance deposit address deposit withdrawal history open order trade history This API also let users place buy sell order cancel order place withdrawal"
+    },
+    {
+        "progweb_cat": "Currency,Bitcoin",
+        "api_name": "Coinleap",
+        "id": 5755,
+        "progweb_descr": " Coinleap API allow developer integrate digital currency method project Coin feature incoming outgo transaction available This service simplify payment send digital currency Documentation show option display parameter responses place"
+    },
+    {
+        "progweb_cat": "Currency,Bitcoin",
+        "api_name": "MyNXT Wallet",
+        "id": 6255,
+        "progweb_descr": " MyNXT Wallet permit user control personal finance open source decentralize system API service interaction myNXTinfo online wallet performance standard NXT query Users note server work HTTPS mode offering security every call Parameters include email require login email password login uuid optional gauthusercode need 2fa enabled site provide additional example call response get encrypt wallet get ticket get account user"
+    },
+    {
+        "progweb_cat": "Currency,Bitcoin",
+        "api_name": "MyNXT",
+        "id": 6256,
+        "progweb_descr": " MyNXT decentralize way use mobile wallet This open source tool allow user take control fund without downloads installation hassle API service interaction myNXTinfo online wallet performance standard NXT query Every time developer make call myNXTinfo API site determine best server process request All server work HTTPS mode provide security call make method"
+    },
+    {
+        "progweb_cat": "Currency,Bitcoin",
+        "api_name": "Cryptonator",
+        "id": 7159,
+        "progweb_descr": " Cryptonator cryptocurrency rate calculator conversion service include information 300 cryptocurrencies Prices source 34 exchange update every 30 second Developers retrieve cryptocurrency exchange rate data use Cryptonator API"
+    },
+    {
+        "progweb_cat": "Currency,Bitcoin",
+        "api_name": "CoinTweak",
+        "id": 7605,
+        "progweb_descr": " CoinTweak company aim provide fully anonymous service people use without reveal personal data Currently CoinTweak offer profitability calculator 20 different cryptocurrencies People encourage suggest new unlisted cryptocurrencies inclusion calculator design simple interface"
+    },
+    {
+        "progweb_cat": "Currency,Financial",
+        "api_name": "ForexAPI.io",
+        "id": 1482,
+        "progweb_descr": " Forex REST API allow developer access integrate functionality Forex API applications Some example API method include retrieve rate currency retrieve different currency set base currency Forex API provide foreign exchange rate data apps service"
+    },
+    {
+        "progweb_cat": "Currency,Financial",
+        "api_name": "TipsGO Currency",
+        "id": 2792,
+        "progweb_descr": " TipsGO Currency API provide convenient way access information world currency It include currency symbol display format This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    },
+    {
+        "progweb_cat": "Currency,Financial",
+        "api_name": "Xignite GlobalCurrenciesFile",
+        "id": 4623,
+        "progweb_descr": " Xignite GlobalCurrenciesFile currency exchange data API This API offer daily forex rate 150 currency currency conversion rate sync account stock analysis tool Documentation access via contact provider"
+    },
+    {
+        "progweb_cat": "Currency,Stocks",
+        "api_name": "Coin",
+        "id": 1570,
+        "progweb_descr": " CoinAPI provide realtime exchange rate stock symbol quote Developers obtain metadata exchange rate OHLCV Open High Low Close Volume timeseries data trade Symbols retrieve type Spot Futures Options Additional information strike price contract unit expiration time also available API provide JSON format response require API Key authentication"
+    },
+    {
+        "progweb_cat": "Currency",
+        "api_name": "Cryptonator Cryptocurrency Prices",
+        "id": 1921,
+        "progweb_descr": " Cryptonator provide unique volume cryptocurrency exchange rate data deliver easytointegrate JSON format via simple HTTPS request Prices update every 30 second cover 300 cryptocurrencies accross 22 exchange SIMPLE TICKER Returns actual volumeweighted price total 24h volume price change httpswwwcryptonatorcomapitickerbtcusd COMPLETE TICKER Returns actual volumeweighted price total 24h volume rate change well price volume across connect exchange httpswwwcryptonatorcomapifullbtcusd LIST OF SUPPORTED CRYPTOCURRENCIES httpswwwcryptonatorcomapicurrencies"
+    },
+    {
+        "progweb_cat": "Currency",
+        "api_name": "LTCRabbit",
+        "id": 7156,
+        "progweb_descr": " LTCRabbit Litecoin LTC X11 coin mining service All payouts even X11 coin LTC user earn additional LTC LTCRabbit affiliate program LTCRabbit API allow user retrieve general pool information user earnings information shoutbox message API also let user create delete worker post message shoutbox"
+    },
+    {
+        "progweb_cat": "Currency,Banking",
+        "api_name": "NAB FX Rates",
+        "id": 2217,
+        "progweb_descr": " NAB FX Rates API provide list know buy sell rate Foreign Exchange This official API provide National Australia Bank Limited"
+    },
+    {
+        "progweb_cat": "Currency,Conversions",
+        "api_name": "Amdoren Currency",
+        "id": 2908,
+        "progweb_descr": " Amdoren Currency API provide programmatic access uptodate currency exchange rate currency conversion 150 currency This API may use personal commercial website application This API provide free charge"
+    },
+    {
+        "progweb_cat": "Currency,Conversions",
+        "api_name": "The Free Currency Converter",
+        "id": 6279,
+        "progweb_descr": " Free Currency Converter API allow user convert one currency another Currency value update every 30 minute query accept maximum 10 conversion parameter If user need frequent value update additional conversion parameter contact API provider information Developers free use Free Currency Converter either personal commercial application No warranty provide"
+    },
+    {
+        "progweb_cat": "Currency,Brazilian",
+        "api_name": "Vitortec Currency Quote",
+        "id": 4054,
+        "progweb_descr": " Currency Quote API use obtain currency information Banco Central Brasil BCB This API return information JSON format Vitortec software development firm base Brazil provide application Android Facebook Chrome Windows Linux Also provide web development service CMS WordPress Bootstrap"
+    },
+    {
+        "progweb_cat": "Currency,Data",
+        "api_name": "XE Currency Data",
+        "id": 4631,
+        "progweb_descr": " XE Currency Data API backend solution track realtime exchange rate international currency market API serve hub streaming exchange rate 160 currency deliver 100 source around world HTTPS GET serve gateway access API responsive JSON XML CSV protocol use XE Currency Data API attract minimum fee 799 annually Prices different pricing plan depend request volume categorize minimum 10000 request per month medium 100000 request per month enterprise unlimited request per month"
+    },
+    {
+        "progweb_cat": "Currency,Accounts",
+        "api_name": "currencylayer",
+        "id": 5218,
+        "progweb_descr": " Currencylayer provide REST API realtime historical exchange rate 168 world currency precious metal deliver JSON format compatible application framework language Currencylayer forex data power currency converter mobile apps backoffice system around world"
+    },
+    {
+        "progweb_cat": "Currency,eCommerce",
+        "api_name": "VineOS Currency Conversion",
+        "id": 5564,
+        "progweb_descr": " VineOS Currency Conversion API Vine Global convert 165 currency API use JSON HTTP authenticate via API Key Currency rate update every hour API free open public use See API documentation API request definition code sample"
+    },
+    {
+        "progweb_cat": "Currency,European",
+        "api_name": "Fixer.io",
+        "id": 6839,
+        "progweb_descr": " Fixerio API return foreign exchange rate base daily historical feed European Central Bank These foreign exchange reference rate generally update 3pm Central European Time API quote rate Euro default user request quote make different currency"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Fonts,Animation",
+        "api_name": "Kemono Friends Meme Generator",
+        "id": 1530,
+        "progweb_descr": " Kemono Friends API return font data base animation Kemono Friends Japan It available REST architecture See live demo httpskyoyababagithubiofontFriendsFudemo"
+    },
+    {
+        "progweb_cat": "Fonts,Editing",
+        "api_name": "Font",
+        "id": 4174,
+        "progweb_descr": " Font API access font glyph level detail use REST protocol Developers build font manager incorporate application workflow provide font preview option Font Editing tool also support Along REST format include HTTP JSON JSONP XML Key require authenticate This API provide Everything Fonts Font tool service marketplace"
+    },
+    {
+        "progweb_cat": "Fonts,Text",
+        "api_name": "Font Hinting",
+        "id": 4175,
+        "progweb_descr": " Font Hinting API allow hint instruct font use REST protocol Key authenticate Developers add font list font hint font API support Windows GDI Direct Wire Gray Scale format This API provide Everything Fonts Font tool service marketplace"
+    },
+    {
+        "progweb_cat": "Fonts,Conversions",
+        "api_name": "Font Conversion",
+        "id": 4415,
+        "progweb_descr": " This RESTful API convert text one format another Designed help frontend development Font Conversion support major format ttf otf svg woff postscript format etc Font Conversion API also convert font file fontface kit Standard output either encoded JSON binary fontzip file"
+    },
+    {
+        "progweb_cat": "Fonts,Design",
+        "api_name": "gzaas",
+        "id": 13667,
+        "progweb_descr": " Gzaas web service let user create custom full screen message use custom typography These message associate link post anywhere share others"
+    }
+]

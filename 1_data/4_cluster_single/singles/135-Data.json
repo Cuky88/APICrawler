@@ -1,0 +1,812 @@
+[
+    {
+        "progweb_cat": "Data,Air Travel",
+        "api_name": "FlightStats",
+        "id": 509,
+        "progweb_descr": " FlightStats cuttingedge data service company focus commercial aviation We lead provider realtime global flight data company individual across travel ecosystem FlightStats aggregate data many source provide industry ’ complete global coverage commercial airline flight information With FlightStats® Flex APIs slice dice data way want APIs powerful precise concise They design ease use REST support JSON JSONP XML format well SOAP FlightStats® Flex APIs receive reply API request English Simplified Chinese Japanese German Spanish French Portuguese Arabic Please watch FlightStats Developer Blog support language product update FlightStats® Flex API Web Services provide set status positional APIs flight airport fleet route area They also include schedule airline reference airport reference rating delay index weather information All Flex APIs available user active evaluation plan If dont account complete Evaluation Account Request If already account simply log access tool documentation"
+    },
+    {
+        "progweb_cat": "Data,Air Travel",
+        "api_name": "FlightStats Flight Status & Track",
+        "id": 6163,
+        "progweb_descr": " FlightStats ’ APIs provide access complete global flight data available These APIs answer question important air traveler industry professional Flight Status Track API allow query status position airport flight route area FlightStats cuttingedge data service company focus commercial aviation We lead provider realtime global flight data company individual across travel ecosystem"
+    },
+    {
+        "progweb_cat": "Data,Air Travel",
+        "api_name": "FlightStats Schedules",
+        "id": 6164,
+        "progweb_descr": " FlightStats ’ APIs provide access complete global flight data available These APIs answer question important air traveler industry professional Schedules API delivers access schedule information upcoming flight web service feature convenient search method flight route airport compliment realtime FlightStatus API FlightStats cuttingedge data service company focus commercial aviation We lead provider realtime global flight data company individual across travel ecosystem"
+    },
+    {
+        "progweb_cat": "Data,Air Travel",
+        "api_name": "FlightStats Alerts",
+        "id": 6166,
+        "progweb_descr": " FlightStats cuttingedge data service company focus commercial aviation We lead provider realtime global flight data company individual across travel ecosystem Alerts API offer pushbased alert flight status information Alerts base flight segment trigger variety condition status change API allow create retrieve delete Alert rule"
+    },
+    {
+        "progweb_cat": "Data,Air Travel",
+        "api_name": "FlightStats Delay Index",
+        "id": 6167,
+        "progweb_descr": " FlightStats cuttingedge data service company focus commercial aviation We lead provider realtime global flight data company individual across travel ecosystem DelayIndexService API return measure level departure delay specify airport currently experience A low index 01 indicate departure run relatively smoothly A high index 45 indicative significant delay flight operation disruption index update every 30 minute"
+    },
+    {
+        "progweb_cat": "Data,Air Travel",
+        "api_name": "FlightStats FIDS",
+        "id": 6168,
+        "progweb_descr": " FlightStats cuttingedge data service company focus commercial aviation We lead provider realtime global flight data company individual across travel ecosystem FIDS API specifically design provide data need FIDS display flight board commonly visible airport terminal hotel lobby place traveler find"
+    },
+    {
+        "progweb_cat": "Data,Air Travel",
+        "api_name": "FlightStats Ratings",
+        "id": 6169,
+        "progweb_descr": " FlightStats cuttingedge data service company focus commercial aviation We lead provider realtime global flight data company individual across travel ecosystem Ratings API provide rating flight performance relative flight score produce rating process account ontime percentage degree lateness This API yield result flight define carrier code flight number example HA25 route define departure airport arrival airport example PDX HNL"
+    },
+    {
+        "progweb_cat": "Data,Air Travel",
+        "api_name": "FlightStats Airports",
+        "id": 6176,
+        "progweb_descr": " FlightStats cuttingedge data service company focus commercial aviation We lead provider realtime global flight data company individual across travel ecosystem Airports API delivers important detail airport include IATAICAO code location latlong airport name street address elevation UTC time zone offset This data deliver XML JSON response English Simplified Chinese Airports API also let determine airport near specify location latlong within specify radius"
+    },
+    {
+        "progweb_cat": "Data,Air Travel",
+        "api_name": "FlightStats Airlines",
+        "id": 6177,
+        "progweb_descr": " FlightStats cuttingedge data service company focus commercial aviation We lead provider realtime global flight data company individual across travel ecosystem Airlines API delivers important detail airline include IATAICAO code airline name activeinactive status This data deliver XML JSON response localize multiple language"
+    },
+    {
+        "progweb_cat": "Data,Air Travel",
+        "api_name": "FlightStats Weather",
+        "id": 6178,
+        "progweb_descr": " Airlines API delivers important detail airline include IATAICAO code airline name activeinactive status This data deliver XML JSON response localize multiple language Weather API include METAR TAF Terminal AerodromeArea Forecast Zone Forecasts METAR report provide uptodate information current weather condition airport enrich report tag annotation identify prevailing condition notable hazard may impact aviation Our two forecast product TAF Zone Forecasts complementary scope TAF provide detailed forecast immediate vicinity airport generally cover 9 12 hour window sometimes great Zone Forecasts provide longerterm geographically broad outlook via daybyday forecast generally stretch week future"
+    },
+    {
+        "progweb_cat": "Data,Business",
+        "api_name": "BizVizz",
+        "id": 615,
+        "progweb_descr": " Bizvizz service offer corporate data consumer often find regulatory document financial statement advocacy report This deal could useful startups consumer developer developer free API access use key make corporate data accessible In site Bizvizz display documentation explore company list company industry list industry respective parameter example response HTTP method"
+    },
+    {
+        "progweb_cat": "Data,File Sharing",
+        "api_name": "Dropbox Datastore",
+        "id": 635,
+        "progweb_descr": " Dropbox Datastore API enable developer store sync structure data contact todoitems This API let developer store manage application data Each datastore contain set table table contains set record exist data It access multiple platform online offline"
+    },
+    {
+        "progweb_cat": "Data",
+        "api_name": "Infochimps IP Intelligence Geolocation",
+        "id": 801,
+        "progweb_descr": " InfoChimps data marketplace publisher owner datasets charge usage Digital Element premier supplier IP geolocation data Their data use number large internet company include Askcom AOL CNNcom Their data independently verify 99 accurate country level 95 accurate city level worldwide API use RESTful protocol response format JSON JSONP"
+    },
+    {
+        "progweb_cat": "Data",
+        "api_name": "Connekt Infinite Scrolling WP",
+        "id": 3040,
+        "progweb_descr": " This REST API Ajax Load More addon Wordpress allow infinite scroll WordPress REST API V 20 addon work rout standard Ajax Load More request API endpoint data retrieval data return JSON display use JS template frontend website Using simple GET request JavaScript Repeater Template custom endpoint develop specifically Ajax Load More user able access website data infinite scroll result use WP REST API"
+    },
+    {
+        "progweb_cat": "Data",
+        "api_name": "DataCite for Datacentres",
+        "id": 3456,
+        "progweb_descr": " Register datasets via RESTful API It service data publisher mint DOIs register associate metadata They recommend integrate minting update DOIs metadata management infrastructure DataCite memberbased organization help make data research output accessible developingsupporting method help research community locate identify cite research data"
+    },
+    {
+        "progweb_cat": "Data",
+        "api_name": "GitHub Repository Deployment",
+        "id": 5875,
+        "progweb_descr": " GitHub Repository Deployment API allow developer list create update deployment also allow developer list deployment status create deployment status This API use twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data",
+        "api_name": "GitHub Repository Deploy Keys",
+        "id": 5876,
+        "progweb_descr": " GitHub Repository Deploy Keys API allow developer list get add edit remove deploy key This API use twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data",
+        "api_name": "GitHub Git Commits",
+        "id": 5897,
+        "progweb_descr": " GitHub Git Commits API allow developer integrate GitHub commits feature application enable functionality ie get create commit This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data",
+        "api_name": "GitHub Repository Statuses",
+        "id": 5928,
+        "progweb_descr": " GitHub Repository Statuses API allow external service mark commit success failure pending state GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data",
+        "api_name": "HPE Haven OnDemand Delete Connector",
+        "id": 5949,
+        "progweb_descr": " Delete Connector API offer HP IDOL OnDemand let developer delete exist connector configuration HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Data",
+        "api_name": "HPE Haven OnDemand Connector Status",
+        "id": 5959,
+        "progweb_descr": " Connector Status API offer HP IDOL OnDemand let developer retrieve information external system update IDOL OnDemand APIs This API allow check status last run connector HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "Happy",
+        "id": 1475,
+        "progweb_descr": " Happy API high performance universal program interface provide developer fast reliable integration HappyCos platform use gRPC protocol gRPC secure modern communication protocol open source Google Some feature include It bridge gap software platforms simplifies clientserver cod speed implementation Happy API ensure developer integrate HappyCo platform minimum time invest maximum reliability provide enterprise comprehensive workflow report HappyCo lead platform inspect monitor analyze performance business asset realtime HappyCo service target Real Estate Hospitality Retail Airports Franchising"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "Rakam",
+        "id": 1551,
+        "progweb_descr": " Rakam REST API allow developer access integrate functionality Rakam applications Some example API method include retrieve event retrieve datastreams manage user Rakam data analytics platform bring together user data one place"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "Zema OData Web Service",
+        "id": 1584,
+        "progweb_descr": " Zema OData Web Service API available data management analysis solution To request access contact michellemollineauxzecom"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "PSN Leaderboard",
+        "id": 1841,
+        "progweb_descr": " PSN Leaderboard API facilitate development apps process data PS3 Vita PS4 game API support transmission data different format include player stats game list trophy image profile videos Its integration also support accessibility game background data user authentication full language data push service functionality API ’ access require 20 monthly subscription"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "Chartbeat Report Builder",
+        "id": 1932,
+        "progweb_descr": " This API may use call historical data either onetime recur report download directly browser It allow fetch daily report correspond query IDs Weekly report run midnight Mondays Chartbeat help understand audience connect content"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "Astronomer",
+        "id": 2210,
+        "progweb_descr": " Astronomer REST API allow developer access integrate functionality Astronomer application Some example API method include retrieve analytics identify data manage data project Astronomer provide service collect analytics data application combine data provide insight"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "FireBrowse",
+        "id": 2691,
+        "progweb_descr": " This API allow access Broad GDAC Firehose pipeline Broads Firehose Web API service data generate Firehose Pipeline This pipeline process TCGA data set allow directly get TCGAFirehose data provide cancer research community unify data repository enables data share across cancer genomic study support precision medicine"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "London DataStore MyLondon",
+        "id": 2736,
+        "progweb_descr": " London DataStore MyLondon API web internet API driven CKAN API product API MyLondon API provide tool access date information city London DataStore provide free open data share give anyone access 600 datasets London data environment housing health transport"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "TomTom Online Traffic Incidents",
+        "id": 2854,
+        "progweb_descr": " TomTom Online Traffic Flow API allow developer construct webbased mobile apps display realtime traffic data map It power trademarked TomTom Traffic portal display realtime data prevail traffic condition select road Users use different zoom level view detail incident traffic jam delay right start point destination point route RESTful API send request HTTP return response JSON JSONP XML format"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "datasnap.io Entity",
+        "id": 3047,
+        "progweb_descr": " datasnapio Entity API allow developer populate major entity use report analytics Some entity available API beacon geofences campaign etc Datasnap service provide insight base proximitytriggered engagement use careful measurement predictive analytics responsive visualization"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "Qubole",
+        "id": 3779,
+        "progweb_descr": " Qubole API allow developer integrate cloudscale data process system application Qubole service simplifies scale speed big data analytics perform data store AWS Google Azure cloud It also provide autoscaling allow user automatically add remove resource reflect usage"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "mParticle",
+        "id": 4158,
+        "progweb_descr": " mParticle data automation platform design deliver easy marketing analytics integration This platform use add new application functionality analytics push notification monetization without change code mParticle API REST base return data JSON format use OAuth 2 authentication mParticle base New York provide mobile data management marketing service"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "Scops",
+        "id": 4352,
+        "progweb_descr": " Scops API analyze data Facebook LinkedIn Twitter It integrate web service mobile application startup plan growth plan Additional API information available httpsscopsioapipricing"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "TruValue Labs Insight360 ESG",
+        "id": 4596,
+        "progweb_descr": " TruValue Labs ’ Insight360 ESG API ESG analytics program Insight 360 offer access realtime ESG analytic data 6000 public equity worldwide include company list NYSE NASDAQ FTSE ESG stand Environmental Social Governance Insight 360 offer multiple sustainability performance metric unlimited API call JSON XML CSV format Documentation acquire contact TruValue Labs via infotruvaluelabscom"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "Druid",
+        "id": 4638,
+        "progweb_descr": " Druid REST API allow developer access integrate functionality Druid application create new application Some example API method include query data various specification retrieve data set integrate data set Druid opensourced data repository customizable analytics data solution"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "Haralyzer",
+        "id": 4789,
+        "progweb_descr": " Haralyzer API allow developer store raw HAR data extract performance data page inside HAR data HAR HTTP Archive common format record HTTP trace information long take fetch DNS information long object take request This API require Redis run locally It currently Beta"
+    },
+    {
+        "progweb_cat": "Data,Analytics",
+        "api_name": "Fluxifi",
+        "id": 7636,
+        "progweb_descr": " Fluxifi useful platform offer data visualization data integration data aggregation Developers might find API valuable want simplify complex content website application mobile service Fluxifi API respond XML JSON In documentation site developer find easy guide start creation process include code sample NET C Curl Java Nod PHP Phyton Ruby Objective C"
+    },
+    {
+        "progweb_cat": "Data,Software-as-a-Service",
+        "api_name": "UK Vehicle Data Tyre Size VRM Lookup",
+        "id": 1693,
+        "progweb_descr": " UK Vehicle Data Tyre Size VRM Lookup API return specific tire data JSON format Currently API support request via registration VRM UK Netherlands Also UK VIN number use make request Tyre Size VRM Lookup API return manufacturer data related fitting size Registration need access API documentation Developers pay per lookup monthly accord requirement UK Vehicle Data SoftwareasaService firm balance incoming traffic 3 UK ISO 27001 accredit tier 1 datacenters"
+    },
+    {
+        "progweb_cat": "Data,Classification",
+        "api_name": "Google Cloud Data Loss Prevention",
+        "id": 1757,
+        "progweb_descr": " Google Cloud Data Loss Prevention API offer scalable classification redaction service sensitive information credit card number social security number passport number API allow developer manage analyse protect report small text stream large datasets 40 pattern detector use classify sensitive information Currently Google Cloud Data Loss Prevention API beta"
+    },
+    {
+        "progweb_cat": "Data,Health",
+        "api_name": "ProPublica Vital Signs",
+        "id": 1775,
+        "progweb_descr": " ProPublica Vital Signs API design use consumerfacing B2B app developer look access quantitative qualitative data medical provider power Vital Signs app API include information five general area As 3202017 available participant close beta information beta program join waitlist please complete form"
+    },
+    {
+        "progweb_cat": "Data,Activity Streams",
+        "api_name": "ADL Experience (xAPI)",
+        "id": 1781,
+        "progweb_descr": " ADL Experience xAPI allow developer integrate performance track analysis capability application API provide data share interface application track human performance behavioral trend It support deployment human machine readable analytical tool retrieval big data human performance trend related instructional material Users deploy API track behavior people exhibit read article answer quiz watch movie chat play game interact mobile apps among others xAPI operate crossplatform solution variety software application include mobile device wearable gadget education management system among others ADL Initiative US government program promote policy learn use technology"
+    },
+    {
+        "progweb_cat": "Data,Activity Streams",
+        "api_name": "Google Awareness",
+        "id": 2569,
+        "progweb_descr": " Google Awareness API unify sense platform equips application capability react process different context define user ’ environment activity Designed optimize performance without compromise system resource API combine seven location context signal single platform allow developer build powerful feature contextualize user ’ environment activity seven location context signal time location place activity beacon headphones weather This API offer user friendly feature energy save functionality A single Google Awareness API sufficient get app run simplifies integration process overall productivity API also process raw signal deliver filter data user ’ context It able manage battery life processing signal way previously possible Google Awareness API anchor Fence API Snapshot API Fence API allow app register current situation user conveys notification meet combined context condition Fence API send callback register fence destination app even app Snapshot API hand allow app send request information current context user A Snapshot APIenabled app request context detail user ’ current location location ’ weather condition"
+    },
+    {
+        "progweb_cat": "Data,Aggregation",
+        "api_name": "O2 Mobility",
+        "id": 1887,
+        "progweb_descr": " O2 Czech Republic lead provider telecommunication service include fixedline mobile network well IP TV service company O2 Mobility API support construction apps capture movement people two place It functionally design provide access previous day data number people move specified site another along breakdown duration stay"
+    },
+    {
+        "progweb_cat": "Data,Aggregation",
+        "api_name": "O2 Socio Demo",
+        "id": 1888,
+        "progweb_descr": " O2 Czech Republic lead provider telecommunication service include fixedline mobile network well IP TV service company O2 Socio Demo API allow developer build apps support collection analysis sociodemographic data particular location target group API allow user determine number people visit particular locationssuch train stationson particular day along breakdown demographic characteristic people duration stay"
+    },
+    {
+        "progweb_cat": "Data,Aggregation",
+        "api_name": "Google Consumer Surveys",
+        "id": 3867,
+        "progweb_descr": " Google Consumer Surveys API facilitate use Web mobile apps creation integration survey Anchored Google Cloud Platform REST API incorporate consumer survey data gather moderation processing functionality web mobilebased research application Google Consumer Surveys convey request response JSON HTTP format Its authorization require OAuth 20 authentication Existing Google Consumer Surveys Enterprise customer gain immediate access API invoicing contract non Enterprise customer contact company email prior gain access"
+    },
+    {
+        "progweb_cat": "Data,Aggregation",
+        "api_name": "Gator.io Gatorscore",
+        "id": 4021,
+        "progweb_descr": " Gatorio Gatorscore API realtime intelligence gather user profile solution website API generate analytical summary user demographic description location data well search request IP identity access device among quantitative detail It also allocate user score scale 01000 detect bot fraud score less 100 pointer likelihood user bot fraudster Gatorio Gatorscore API send HTTP request turn generate response JSON format Access API ’ documentation require signup authorization token although provider post link try API"
+    },
+    {
+        "progweb_cat": "Data,Cloud",
+        "api_name": "Satori RTM",
+        "id": 1909,
+        "progweb_descr": " Satori RTM API offer cloudbased realtime manage messaging platform use wire protocol enable communication 2 end API allow user subscribe specific channel order receive stream message Data exchange JSON object Satori firm base California provide live data product"
+    },
+    {
+        "progweb_cat": "Data,Content",
+        "api_name": "Orange Data Share",
+        "id": 2050,
+        "progweb_descr": " Orange Data Share API allow developer access user resource integrate user personal data application Data Share request consent access user data take care aspect privacy Data Share ecosystem part Datavenue service suite connect many popular device single API"
+    },
+    {
+        "progweb_cat": "Data,Content",
+        "api_name": "Nzbplanet",
+        "id": 4661,
+        "progweb_descr": " Nzbplanet API allow developer access nzb index data integrate API service application This API Rest base output format xml json Nzbplanetnet index content public news service Usenet"
+    },
+    {
+        "progweb_cat": "Data,Content",
+        "api_name": "HPE Haven OnDemand Create Connector",
+        "id": 5944,
+        "progweb_descr": " Create Connector API offer HP IDOL OnDemand let developer retrieve information external system update IDOL OnDemand APIs This API allow create connector configuration connect external repository specify content retrieve HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Data,Applications",
+        "api_name": "Esri ArcGIS Feature Service",
+        "id": 2193,
+        "progweb_descr": " ArcGIS geospatial solution develop map location applicationsThe Esri ArcGIS Feature Service API provide access layer table summarize datasets It facilitate query edit feature geometry description API conveys request responses JSON format"
+    },
+    {
+        "progweb_cat": "Data,Applications",
+        "api_name": "Orange Trust Badge",
+        "id": 2718,
+        "progweb_descr": " With Orange Trust Badge API customer get clear information personal data application use Trust Badge bring transparency control user personal data Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Data,Applications",
+        "api_name": "Google Data Transfer",
+        "id": 4689,
+        "progweb_descr": " Google Data Transfer API service developer assist management transfer data one user another within domain API also include vary method resource administer transfer Insert method List available application source destination user status Get request App ID Resource ID"
+    },
+    {
+        "progweb_cat": "Data,Applications",
+        "api_name": "ApplyGem",
+        "id": 6476,
+        "progweb_descr": " ApplyGem offer webbased software use create form review applicant interface allows recruiter navigate form review applicant filter category ApplyGem REST API allow developer build web form application top ApplyGem interface send applicant data via REST API API access state account API key within HTTP GET POST request"
+    },
+    {
+        "progweb_cat": "Data,Addresses",
+        "api_name": "MasterCard Retail Locations Insights",
+        "id": 2356,
+        "progweb_descr": " MasterCard Retail Locations Insights real estate solution generate performance metric specify merchant retail location integration MasterCard Retail Locations Insights API facilitate access monthly update data business performance individual retail location It use score system show growth trend market stability rating sale transaction volume ticket size specify merchant location API useful platform evaluate validate viability particular business location term customer traffic rental cost growth potential"
+    },
+    {
+        "progweb_cat": "Data,Data-as-a-Service",
+        "api_name": "MySqlJS",
+        "id": 2616,
+        "progweb_descr": " MySqlJS API allow developer access MySQL JavaScript client It remove need custom server code handle data transfer client MySQL database This API design use closedsource environment rather public website It free use commercial noncommercial project without usage restriction"
+    },
+    {
+        "progweb_cat": "Data,Artificial Intelligence",
+        "api_name": "IBM Watson Discovery",
+        "id": 2651,
+        "progweb_descr": " IBM Watson Discovery REST API allow developer access integrate functionality IBM Watson Discovery applications Some example API method include build query data retrieve result add data manage query integrate IBM Watson APIs IBM Watson Discovery provide functionality search crawl convert normalize data provide feature discover pattern data insight data"
+    },
+    {
+        "progweb_cat": "Data,Messaging",
+        "api_name": "Confluent Kafka REST",
+        "id": 2652,
+        "progweb_descr": " Confluent Kafka REST API allow system connect HTTP send receive message Kafka Confluent Platform stream data platform enable organize manage data many different source one reliable high performance system This kind platform provide system transport data tool need connect data source application data sink platform Confluent make easy build realtime data pipeline stream application integrate data multiple source location single central stream data platform It leverage Apache Kafka popular realtime faulttolerant highly scalable message system Kafka Connect open source framework scalably reliably connect Kafka external system databases keyvalue store search index file system"
+    },
+    {
+        "progweb_cat": "Data,Automation",
+        "api_name": "exana.io Buildbot REST",
+        "id": 2660,
+        "progweb_descr": " This REST API use Buidlbots data APIs Getter Control section It also design keep REST principle discoverable Buildbot opensource framework automate software build test release process"
+    },
+    {
+        "progweb_cat": "Data,Automation",
+        "api_name": "Keepit",
+        "id": 3752,
+        "progweb_descr": " Keepit backup cloud service base Denmark help maintain collection digital medium across device This service feature version control collaboration automate synchronization business offer audit support backup statistic overviews interrupt backup Keepit API use OAuth authentication"
+    },
+    {
+        "progweb_cat": "Data,Auto",
+        "api_name": "TomTom Online Traffic Flow",
+        "id": 2853,
+        "progweb_descr": " TomTom Online Traffic Flow API allow developer construct webbased mobile apps display realtime traffic data map It power trademarked TomTom Traffic portal display realtime data traffic condition select road Users use different zoom level view detail current speed free flow speed traffic roads RESTful API send HTTPformatted request return JSON JSONP XMLformatted response"
+    },
+    {
+        "progweb_cat": "Data,Geography",
+        "api_name": "TomTom Online Routing",
+        "id": 2856,
+        "progweb_descr": " TomTom Online Routing API navigation solution travel route destination API provide calculation route distance travel time estimate relative prevail traffic condition prescribe road speed prefer route It also display geometric route definition addition show sequence waypoints turn accord selection user API send request HTTP format return responses JSON JSONP XML format"
+    },
+    {
+        "progweb_cat": "Data,Animals",
+        "api_name": "DigiBird",
+        "id": 2961,
+        "progweb_descr": " DigiBird API allow developer programmatically access cultural heritage data pertaining bird This include videos image sound artwork prominently feature bird Much data DigiBird enrich via crowdsourcing Although focus DigiBird exclusively bird method us may apply topic"
+    },
+    {
+        "progweb_cat": "Data,Cities",
+        "api_name": "OrganiCity Assets Discovery",
+        "id": 3008,
+        "progweb_descr": " This API facilitate exploration inspection available asset use OrganiCity It allow access urban data observatory provide data scientist city decision maker organization citizen way explore mixed static realtime urban social data stream This include search retrieve filter asset use multiple option information service sit provider asset data experiment OrganiCity company create smart city future platform interaction everyone include citizen activists researcher business government"
+    },
+    {
+        "progweb_cat": "Data,Cities",
+        "api_name": "Organicity Datasource",
+        "id": 3106,
+        "progweb_descr": " This API provide access data store Organicity This include information service sit provider asset data experiment OrganiCity company create smart city future platform interaction everyone include citizen activists researcher business government"
+    },
+    {
+        "progweb_cat": "Data,Cities",
+        "api_name": "Landscape Computing",
+        "id": 6120,
+        "progweb_descr": " Landscape Computing REST API provide access wide range data generate parking sensor within Landscape Computing Architecture sensor access two level sit zone Sites correspond particular geographical area zone small subset sensor within site API use generate information zone find information people park Two site available Palo Alto CA Newcastle Australia"
+    },
+    {
+        "progweb_cat": "Data,Demographics",
+        "api_name": "Urban Algorithms Geo Data",
+        "id": 3236,
+        "progweb_descr": " Urban Geo Data API allow user access socioeconomic environmental profile specific GPS location Such data type include air noise pollution crime rate demographic profile social amenity infrastructure well prevail real estate condition API send HTTPformatted request return JSONformatted response Currently API support GPS location Czech Republic"
+    },
+    {
+        "progweb_cat": "Data,Economics",
+        "api_name": "Federal Reserve Bank of St. Louis GeoFRED",
+        "id": 3246,
+        "progweb_descr": " This API return shape file GeoFRED text WKT format use Geographical Economic Data database retrieve specific data desire accord source release region category It accommodate program language parse XML JSON communicate server use HTTPS These website host Economic Research Division Federal Reserve Bank St Louis"
+    },
+    {
+        "progweb_cat": "Data,Economics",
+        "api_name": "Federal Reserve Bank of St. Louis FRASER",
+        "id": 3247,
+        "progweb_descr": " This API allow user harvest metadata document FRASER database provide request return information FRASER repository Query Federal Reserve Economic Data Archival Federal Reserve Economic Data database retrieve specific data desire use program language parse XML JSON These website host Economic Research Division Federal Reserve Bank St Louis"
+    },
+    {
+        "progweb_cat": "Data,Economics",
+        "api_name": "Federal Reserve Bank of St. Louis FRED",
+        "id": 3248,
+        "progweb_descr": " This API web service allow developer write program build application retrieve economic data FRED® ALFRED® It contain frequently update US macro regional economic time series annual quarterly monthly weekly daily frequency aggregate economic data various source It return request include data source release category series This allow query Federal Reserve Economic Data Archival Federal Reserve Economic Data database retrieve specific data desire accommodates program language parse XML JSON These website host Economic Research Division Federal Reserve Bank St Louis"
+    },
+    {
+        "progweb_cat": "Data,Open Data",
+        "api_name": "Open Humans Public Data",
+        "id": 3289,
+        "progweb_descr": " This API allow retrieve representation data share publicly Open Humans member include URLs download data Data source include American Gut GoViral Harvard Personal Genome Project Open Humans data network encourages contribution science connect data share"
+    },
+    {
+        "progweb_cat": "Data,Science",
+        "api_name": "SciStarter Data",
+        "id": 3416,
+        "progweb_descr": " Data API offer access SciStarters database citizen science project Additionally developer compare add new project database This API use JSON response API Keys authentication SciStarter community informal formal research project event submit outreach interaction"
+    },
+    {
+        "progweb_cat": "Data,Science",
+        "api_name": "Harvard DVN Data Deposit",
+        "id": 5476,
+        "progweb_descr": " Harvard DVN Data Deposit API allow developer integrate Harvard Dataverse Network DVN application allow user deposit data metadata Dataverse Network Dataverse project dedicate share archive cite research data"
+    },
+    {
+        "progweb_cat": "Data,Customer Service",
+        "api_name": "FCC Consumer Help Center Complaint Data",
+        "id": 3585,
+        "progweb_descr": " FCC Consumer Help Center Complaint Data API integrate customer complains It available JSON XML CSV format token Documentation find link provide Socratacom"
+    },
+    {
+        "progweb_cat": "Data,Blockchain",
+        "api_name": "Tierion Hash",
+        "id": 3600,
+        "progweb_descr": " Tierion Hash API help manage authentication API request use JSON REST It work Tierions data APIs anchor data Blockchain"
+    },
+    {
+        "progweb_cat": "Data,Blockchain",
+        "api_name": "Tierion Explorer",
+        "id": 3601,
+        "progweb_descr": " Explorer API allow retrieve publish public data This JSON REST API use datastores securely collect store data This include Blockchain receipt validation"
+    },
+    {
+        "progweb_cat": "Data,Bitcoin",
+        "api_name": "Tierion Data",
+        "id": 3602,
+        "progweb_descr": " Verify data manage datastores collect record use JSON REST base API It use Blockchain securely collect store data include receipt verify record"
+    },
+    {
+        "progweb_cat": "Data,Authentication",
+        "api_name": "Stampery",
+        "id": 3630,
+        "progweb_descr": " Stampery API employ blockchain technology validate authenticate document also maintain tamper proof data record API work scalable solution embeds verification evidentiary stamp document use Ethereumblockchain Bitcoinblockchain technology two blockchain technology detect track profile change make record prevent data breach enforce data integrity facilitate instant retrieval evidentiary data"
+    },
+    {
+        "progweb_cat": "Data,Networking",
+        "api_name": "oVirt",
+        "id": 3669,
+        "progweb_descr": " oVirt Linuxbased KVM virtualization project feature high availability live migration storage management system scheduler oVirt group system together offer complete data center virtualization solution oVirt engine use configure network storage node image access API This API REST base hypermedia support XML use data exchange"
+    },
+    {
+        "progweb_cat": "Data,Networking",
+        "api_name": "MaidSafe Library",
+        "id": 7557,
+        "progweb_descr": " MaidSafe provide distributed platform enable developer engineer fast secure application Control data include physical access provide selfauthentication MaidSafe API Library provide data storage manipulation enable public private data share without intermediary MaidSafe network It provide secure communication privacy use network associate application Users login data location serverfree network Passwords susceptible theft transit never transmit No DNS mean web censor"
+    },
+    {
+        "progweb_cat": "Data,API Management",
+        "api_name": "OpenDataSoft Dataset Search",
+        "id": 3812,
+        "progweb_descr": " This REST API provide search facility OpenDataSoft dataset catalog Full test search multicriteria field query result faceting provided OpenDataSoft SaaS publish data manages APIs use cloudbased platform It allow publish share reuse data"
+    },
+    {
+        "progweb_cat": "Data,API Management",
+        "api_name": "OpenDataSoft Real Time Push",
+        "id": 3813,
+        "progweb_descr": " This REST API allow build datasets real time data It useful building crowdsourced datasets Real time push entry point also make available dataset owner OpenDataSoft SaaS publish data manages APIs use cloudbased platform It allow publish share reuse data"
+    },
+    {
+        "progweb_cat": "Data,API Management",
+        "api_name": "OpenDataSoft Record Search",
+        "id": 3814,
+        "progweb_descr": " This REST API make possible perform complex query record dataset Including fulltext search geo search faceted search feature dataset record OpenDataSoft SaaS publish data manages APIs use cloudbased platform It allow publish share reuse data"
+    },
+    {
+        "progweb_cat": "Data,API Management",
+        "api_name": "OpenDataSoft Dataset Records",
+        "id": 3815,
+        "progweb_descr": " This REST API make possible fetch individual record use identifier Record ID OpenDataSoft SaaS publish data manages APIs use cloudbased platform It allow publish share reuse data"
+    },
+    {
+        "progweb_cat": "Data,API Management",
+        "api_name": "OpenDataSoft Dataset Lookup",
+        "id": 3816,
+        "progweb_descr": " This REST API make possible fetch individual dataset information OpenDataSoft SaaS publish data manages APIs use cloudbased platform It allow publish share reuse data"
+    },
+    {
+        "progweb_cat": "Data,API Management",
+        "api_name": "API Plug",
+        "id": 4293,
+        "progweb_descr": " API Plug API Restful API generate code data source It deployment ready sign account choose option create documentation need Access API gain sign httpsapiplugcomsignup"
+    },
+    {
+        "progweb_cat": "Data,Bluetooth",
+        "api_name": "Proximity Beacon",
+        "id": 3899,
+        "progweb_descr": " Proximity Beacon API aid cloudbased registration beacon facilitate attachment correspond data beacon API operate component Bluetooth low energy BLE beacon platform deploy RESTful endpoint process correspond data BLE beacon It also flexible variety beacon technology include Google ’ Eddystone Apple ’ iBeacon attribute make accommodative apps anchor android iOS web platform Proximity Beacon API conveys request responses JSON format"
+    },
+    {
+        "progweb_cat": "Data,European",
+        "api_name": "Soccerama.pro",
+        "id": 3920,
+        "progweb_descr": " Socceramapro API data stream platform professional soccer competition API generate fullseason analysis league tournament teams player fixtures It send request HTTP protocol return responses JSON format APIs provider extend coverage 325 league cup competition around world However number league accessible API depend specific standard customize plan price EUR15 EUR125"
+    },
+    {
+        "progweb_cat": "Data,Astronomy",
+        "api_name": "NASA Predict the Sky",
+        "id": 3937,
+        "progweb_descr": " NASA ’ Predict Sky API continuously monitor global weather condition facilitate schedule opportune moment view space event – planet satellite lunar eclipse comets meteor International Space Station – part world Designed transmit request responses JSON format API filter weather data forecast visibility specific space object particular time location API beta release development credit NASA ’ 2013 Space Apps Challenge"
+    },
+    {
+        "progweb_cat": "Data,Astronomy",
+        "api_name": "NASA Planetary Data Systems (PDS)",
+        "id": 3948,
+        "progweb_descr": " NASA Planetary Data System PDS API serve common channel access data store eight node constitute PDS directory Backed NASA ’ Science Mission Directorate PDS archive huge collection planetary exploration data range space image model telemetry attributable planetary mission stretch way back 30 year ago RESTful API allow scientist filter tailor PDS data suit unique need"
+    },
+    {
+        "progweb_cat": "Data,Astronomy",
+        "api_name": "NASA Outgassing Db",
+        "id": 4199,
+        "progweb_descr": " NASA ’ Outgassing Db API dataset material intend spacecraft use dataset compilation information obtain Goddard Space Flight Center Stanford Research Institute Jet Propulsion Laboratory Response type include JSON XML CSV"
+    },
+    {
+        "progweb_cat": "Data,Database",
+        "api_name": "UK Electoral Roll",
+        "id": 3955,
+        "progweb_descr": " UK Electoral Roll API access portal database million individual voter profile contact demographic data hold governmentsourced voter register API support search electoral roll database name address phone number UK Electoral Roll API submit response NET format make necessary user platform process XML use format provide API ’ documentation Access fee 1p per request peg minimum acceptable fee £100 10000 request"
+    },
+    {
+        "progweb_cat": "Data,Database",
+        "api_name": "SysAid",
+        "id": 4607,
+        "progweb_descr": " SysAid ITSM Service Desk Help Desk software solution integrate essential IT tool one product Its rich set feature include powerful Help Desk IT Asset Management easytouse tool analyze optimize IT performance"
+    },
+    {
+        "progweb_cat": "Data,Database",
+        "api_name": "Time Series Guru",
+        "id": 6134,
+        "progweb_descr": " Time Series Guru API allow user query aggregate add data host time series databases HTTP Users may order time series databases use either HDD SSD storage database may range size 1GB multiple Terabytes Users may add 244GB RAM database improve query speed These database optimize handle event metric analytics"
+    },
+    {
+        "progweb_cat": "Data,Entertainment",
+        "api_name": "MLB GameDay XML Data Python",
+        "id": 4043,
+        "progweb_descr": " MLB GameDay XML Data Python API transmit interprets real time data live MLB baseball game API provide live update progress game scoreboard change player statistic etc start end"
+    },
+    {
+        "progweb_cat": "Data,Conversions",
+        "api_name": "Tabex",
+        "id": 4088,
+        "progweb_descr": " Tabex PDF Excel API highspeed file conversion solution capable precisely detect extract tabular data still fluid PDF document API convert PDF file Excel also host format include XML CSV HTML Text Its algorithmic orientation allow developer deploy different mode API call incorporate vary magnitude work flow may analytical data process nature RESTful API full release accompany documentation although developer must contact provider get access API key"
+    },
+    {
+        "progweb_cat": "Data,Extraction",
+        "api_name": "NASA PO.DAAC Extract Granules",
+        "id": 4139,
+        "progweb_descr": " Physical Oceanography Distributed Active Archive Center PODAAC part NASAs Earth Observing System Data Information System EOSDIS PODAACs purpose store oceanography climatography relate data obtain NASA PODAAC also serve pathway related archive provide relevant tool make datasets easily consumable applicable NASAs PODAAC Extract Granules API extraction service produce netcdf3 hdf4 file output Parameters include datasetId shortName granuleName bbox format"
+    },
+    {
+        "progweb_cat": "Data,Climate",
+        "api_name": "NASA PO.DAAC Dataset Metadata",
+        "id": 4140,
+        "progweb_descr": " Physical Oceanography Distributed Active Archive Center PODAAC part NASAs Earth Observing System Data Information System EOSDIS PODAACs purpose store oceanography climatography relate data obtain NASA PODAAC also serve pathway related archive provide relevant tool make datasets easily consumable applicable NASAs PODAAC Dataset Metadata API give access PODAACs dataset catalog Possible query include datasetId shortName format"
+    },
+    {
+        "progweb_cat": "Data,Standards",
+        "api_name": "Mithril",
+        "id": 4287,
+        "progweb_descr": " Mithril API aim provide small focused API templates engine virtual DOM API also aim feature utility high level model well support rout componentization API pair inhouse JavaScript framework name"
+    },
+    {
+        "progweb_cat": "Data,Internet of Things",
+        "api_name": "Sierra Wireless AirVantage",
+        "id": 4436,
+        "progweb_descr": " Sierra Wireless AirVantage API allow developer integrate data mobile application It aim particularly useful wireless project associate Internet Things Protocols include CSV JSON RSS XML Developers authenticate Key token OAuth Sierra Wireless provide innovative connectivity option Internet Things"
+    },
+    {
+        "progweb_cat": "Data,Internet of Things",
+        "api_name": "HPE Haven OnDemand Update Connector",
+        "id": 5966,
+        "progweb_descr": " Update Connector API offer HP IDOL OnDemand let developer retrieve information external system update IDOL OnDemand APIs This API update parameter exist connector HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Data,eCommerce",
+        "api_name": "Sears Store Information",
+        "id": 4586,
+        "progweb_descr": " Sears ’ Store Information API give user access information relate Sears Kmart store This information include store location store hour service offer customer service pharmacy number distance specify store This RESTful API JSON XML format also accepts geographical coordinate input"
+    },
+    {
+        "progweb_cat": "Data,eCommerce",
+        "api_name": "Experian Data Quality Data Append",
+        "id": 7150,
+        "progweb_descr": " Experian Data Quality ’ realtime data enhancement solution append extensive list demographic attitudinal element These SOAPbased Web service design provide insight web visitor prospect customer API let developer integrate service third party application Appends information base user ’ IP address geolocation software append information base address data return 900 data attribute leverage Experians ConsumerViewSM database nation large repository consumer marketing data"
+    },
+    {
+        "progweb_cat": "Data,Financial",
+        "api_name": "Xignite GlobalOptionsFile",
+        "id": 4622,
+        "progweb_descr": " XigniteGlobalOptionsFile offer user data equity option trade US international exchange Data include endofday price bid ask quote last trade price day contract expiration date etc XigniteGlobalOptionsFile sync accounting analysis tool include Matlab R Documentation access via contact provider"
+    },
+    {
+        "progweb_cat": "Data,Games",
+        "api_name": "Clash of Clans Developer",
+        "id": 4636,
+        "progweb_descr": " Clash Clans API enable development channel integrate thirdparty apps Clan ’ suite playing functionality search player profile leader board many API facilitates realtime data accessibility interaction Every single request API require JSON Web Token responses convey JSON format Clash Clans API currently beta release access documentation restrict user register developer account"
+    },
+    {
+        "progweb_cat": "Data,Movies",
+        "api_name": "Gracenote Data Delivery",
+        "id": 4739,
+        "progweb_descr": " Gracenote Data Delivery API read application access TV movie schedule respective show information Protocols available include HTTP JSON REST JSONP support include To make call developer authenticate API Key Gracenote formerly CDDB maintain license data audio CDs digital file identification song lyric"
+    },
+    {
+        "progweb_cat": "Data,Agriculture",
+        "api_name": "FAOSTAT",
+        "id": 4796,
+        "progweb_descr": " FAOSTAT API REST API use access FAOSTAT data FAOSTAT maintain Statistics Division Food Agricultural Organization United Nations FAOSTAT major component FAO ’ information system contribute organization ’ strategic objective collect analyze interpret disseminate information relate nutrition food agriculture development fight global hunger malnutrition"
+    },
+    {
+        "progweb_cat": "Data,Agriculture",
+        "api_name": "John Deere Machine",
+        "id": 5343,
+        "progweb_descr": " John Deere Machine API allow developer integrate John Deere machine data application This API use AEMP telematics standard widely use handle information construction heavy equipment API provide equipment information machine location elevation cumulative machine hour fuel consumption last 24 hour"
+    },
+    {
+        "progweb_cat": "Data,Asia",
+        "api_name": "NEA Datasets",
+        "id": 4816,
+        "progweb_descr": " NEA Datasets API offer update weather environmental information Singapores National Environment Agency It provide application ultraviolet information forecast earthquake information Developers need register receive API key use API National Environment Agency responsible preserve clean environment Singapore"
+    },
+    {
+        "progweb_cat": "Data,Community",
+        "api_name": "The Setup",
+        "id": 4819,
+        "progweb_descr": " Setup website collect interview interview ask people work type software hardware tool use get job do Use Setup API access list interview interview category type software hardware mention interviewee us GET method HTTPS return JSON"
+    },
+    {
+        "progweb_cat": "Data,Energy",
+        "api_name": "Utility",
+        "id": 4820,
+        "progweb_descr": " Utility API offer data collection system integrate renewable energy orient application It use gather utility bill usage data This REST API return data JSON format Developers need API Token use endpoint UtilityAPI base Oakland California delivers simple access energy usage data"
+    },
+    {
+        "progweb_cat": "Data,Energy",
+        "api_name": "WattTime Impact",
+        "id": 7489,
+        "progweb_descr": " WattTime collect power grid energy usage information many source put one place standardize format Users retrieve data use shift energy consumption grid use green energy source WattTime Impact API allow user integrate realtime energy cleanliness data website project application"
+    },
+    {
+        "progweb_cat": "Data,Marketing",
+        "api_name": "Act-On Facts",
+        "id": 4941,
+        "progweb_descr": " ActOn Facts API allow developer integrate application API service enable user use ActOn fact also add custom fact record event information tailor marketing need ActOn marketing automation software provider"
+    },
+    {
+        "progweb_cat": "Data,Security",
+        "api_name": "Mozilla Data Store",
+        "id": 5283,
+        "progweb_descr": " Mozilla Data Store API allow store share data available Firefox OS internal application It work intermediary regardless API data structure formats Resources include API concept usage manifest field API interface examples specification browser compatibility"
+    },
+    {
+        "progweb_cat": "Data,Collaboration",
+        "api_name": "Yammer Data Export",
+        "id": 5291,
+        "progweb_descr": " Yammer Data Export API allow developer verify Admin package export message Notes Files topic user group This API also allow perform onetime export simply specify start date end date would like export data Yammer provide social collaboration software business enterprises size"
+    },
+    {
+        "progweb_cat": "Data,Fantasy Sports",
+        "api_name": "dat REST",
+        "id": 5507,
+        "progweb_descr": " dat REST API provide developer ability build application store data use various format dat open source project provide stream interface every file format data storage backend"
+    },
+    {
+        "progweb_cat": "Data,Hardware",
+        "api_name": "HPE Haven OnDemand Retrieve Config",
+        "id": 5742,
+        "progweb_descr": " Retrieve Config API offer HP IDOL OnDemand let developer retrieve information external system update IDOL OnDemand APIs This API return configuration information connector along license key validation verification information HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Data,Application Development",
+        "api_name": "GitHub Git Trees",
+        "id": 5861,
+        "progweb_descr": " GitHub Git Trees API allow developer integrate Git tree feature application enable functionality ie get tree get tree recursively create tree This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data,Application Development",
+        "api_name": "GitHub Git Tags",
+        "id": 5862,
+        "progweb_descr": " GitHub Git Tags API allow developer integrate Git tag feature application enable functionality ie get tag create tag object This API deal tag object ie annotate tag lightweight tag GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data,Application Development",
+        "api_name": "GitHub Git Blobs",
+        "id": 5882,
+        "progweb_descr": " GitHub Git Blobs API allow developer integrate GitHub blob feature application enable functionality ie get create customize blob arbitrary binary data This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data,Application Development",
+        "api_name": "GitHub Repository Pages",
+        "id": 5917,
+        "progweb_descr": " GitHub Repository Pages API allow developer retrieve information GitHub Pages configuration statuses build Only authenticated owner access information site build even public mode This API use twofacetor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data,Application Development",
+        "api_name": "GitHub Repository Merging",
+        "id": 5918,
+        "progweb_descr": " GitHub Repository Merging API allow developer merge branch repository merge do server side local repository need This API use twofacetor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data,Application Development",
+        "api_name": "GitHub Repository Forks",
+        "id": 5920,
+        "progweb_descr": " GitHub Repository Forks API allow developer list create fork This API use twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data,Application Development",
+        "api_name": "GitHub Repository Comments",
+        "id": 5921,
+        "progweb_descr": " GitHub Repository Comments API allow developer list commit comment repository With API developer ability create get update delete customize commit comment GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data,Application Development",
+        "api_name": "GitHub Repository Releases",
+        "id": 5929,
+        "progweb_descr": " GitHub Repository Releases API allow developer integrate service application enable individual access information publish release user push access also receive listing draft release This API use twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data,Application Development",
+        "api_name": "GitHub Repositories",
+        "id": 5985,
+        "progweb_descr": " GitHub Repositories API let developer get list repository authenticate user Developers list organization list organization repository separately GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Data,Storage",
+        "api_name": "Google Cloud Datastore",
+        "id": 5914,
+        "progweb_descr": " Google Cloud Datastore API provide developer robust scalable storage apps form schemaless NoSQL datastore datastore provide strong consistency read ancestor query eventually provide consistency query well There plan downtime Google Cloud Datastore"
+    },
+    {
+        "progweb_cat": "Data,Accounting",
+        "api_name": "HPE Haven OnDemand Connector History",
+        "id": 5947,
+        "progweb_descr": " Connector History API offer HP IDOL OnDemand let developer retrieve information external system update IDOL OnDemand APIs This API allow check status connector HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Data,Content Management",
+        "api_name": "Box Content",
+        "id": 5990,
+        "progweb_descr": " Box Content API allow developer integrate content management feature application enable user use directly application This API RESTful"
+    },
+    {
+        "progweb_cat": "Data,Metadata",
+        "api_name": "Harvard DVN Data Sharing",
+        "id": 5999,
+        "progweb_descr": " Harvard DVN Data Sharing API allow developer integrate Harvard Dataverse Network DVN application allow user access DVN data metadata This API allow remote nonDVN archiveapplication search holding download file Dataverse Network"
+    },
+    {
+        "progweb_cat": "Data,Availability",
+        "api_name": "Self-service Bicycles",
+        "id": 6818,
+        "progweb_descr": " Selfservice Bicycles API develop JCDecaux online platform provide customer information bike station bicycle availability There two type data static dynamic static data give user information stable information eg station location number bike stand dynamic data provide user information state station ie number available bike number free bike stand With API developer able incorporate feature application"
+    },
+    {
+        "progweb_cat": "Data,Environment",
+        "api_name": "Chain",
+        "id": 6917,
+        "progweb_descr": " Chain API enable developer work environmental data capture sensor device These sensor collect data local temperature humidity barometric pressure Chain API project MIT Media Lab currently use Tidmarsh Living Observatory project Chain API still development ready production use"
+    },
+    {
+        "progweb_cat": "Data,Accessibility",
+        "api_name": "Opera Link",
+        "id": 7563,
+        "progweb_descr": " Opera software company provider Opera web browser run variety operate system range device Opera Link API provide read write access HTTP interface user Opera Link data storage It REST API HTTP method GET POST PUT DELETE support With REST API Bookmarks Notes Speed Dial data type expose manipulate"
+    },
+    {
+        "progweb_cat": "Data,Data",
+        "api_name": "OfficeRecovery",
+        "id": 10786,
+        "progweb_descr": " OfficeRecovery provider tool data extraction dozen email database office productivity application file format tool use recover restore lose email mailbox repair corrupt database fix damage Office document OfficeRecovery Web API provide functionality allow developer embed OfficeRecovery Online service site use service resource remote recovery corrupt data API use RESTful call response format XML"
+    }
+]

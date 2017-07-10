@@ -1,0 +1,1604 @@
+[
+    {
+        "progweb_cat": "Education,Annotations",
+        "api_name": "Mendeley",
+        "id": 125,
+        "progweb_descr": " Mendeley platform allow scholar world collaborate open science everyone If ’ inspire contribute mission build tool make researcher ’ live easy ’ love join API community"
+    },
+    {
+        "progweb_cat": "Education,Non-Profit",
+        "api_name": "DonorsChoose",
+        "id": 205,
+        "progweb_descr": " DonorsChooseorg online charity make easy anyone help student need Heres work public school teacher every corner America post classroom project request DonorsChooseorg Requests range pencil poetry write unit violins school recital microscope slide biology class Then browse project request give amount one inspire Once project reach fund goal deliver material school Youll get photo project take place thankyou letter teacher cost report show dollar spent If give 100 youll also receive handwritten thankyou letter student DonorsChooseorgs simple JSON API allow developer pull DonorsChooseorg classroom project list website application use project selection criterion choose JSON API use DonorsChooseorg partner like Chevron SONIC DriveIn NBC Universal Bing PayPal others build highprofile highly customized give cause marketing experience API also enable developer donate project purchase gift card without rout user DonorsChooseorg payment"
+    },
+    {
+        "progweb_cat": "Education,Training",
+        "api_name": "WizIQ Virtual Classroom",
+        "id": 329,
+        "progweb_descr": " WizIQ offer rich set intuitive tool online teach include virtual classroom student recruitment tool payment collection mechanism Developers use WizIQ API integrate WizIQ website CMS Learning Management System Functionality expose API include conduct live class multiple user take attendance upload manage content API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Education,Training",
+        "api_name": "Coursmos",
+        "id": 4956,
+        "progweb_descr": " Coursmos offer 75000 video microcourses online platform user learn teach lesson business lifestyle API available Mashape work REST protocol OAuth2 Features API include documentation course user comment lesson request category utility"
+    },
+    {
+        "progweb_cat": "Education,Training",
+        "api_name": "ExpertusONE",
+        "id": 8148,
+        "progweb_descr": " ExpertusONE dynamic cloud learn management system LMS help company train educate employee business partner customer ExpertusONE APIs allow developer access integrate functionality ExpertusONE applications Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Education,Training",
+        "api_name": "Hatsize",
+        "id": 10146,
+        "progweb_descr": " service provide cloudhosting platform train education provider include video demo related medium resource It seek create environment manage instructional resource learner access host widely distribute data center optimize access user location API method support add updating learner user account assignment appropriate group access permission Methods synchronize train across internally host system resource manage within service cloud environment API also handle integration system provide learner account data operating information"
+    },
+    {
+        "progweb_cat": "Education,Training",
+        "api_name": "Springest",
+        "id": 11072,
+        "progweb_descr": " Springest Dutch continue education service help user find compare course book article train course use search filter capability Springest API open searchable data Springest user Users query train guide course content well integrate program service use REST call return XML JSON"
+    },
+    {
+        "progweb_cat": "Education,Training",
+        "api_name": "Articulate Online",
+        "id": 13554,
+        "progweb_descr": " service integrates web application host elearning content user information allow track learner progress assessment outcomes Access require login establish customer account admin user credential specify Interaction service include function monitor update learner activity API support management instructional content present learner Methods include add delete updating learner account manage learner group create delete add user manage access system document"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "Udacity Course Catalog",
+        "id": 375,
+        "progweb_descr": " Udacity provide online programming course help people advance tech career Courses offer demand allow student work pace Courses teach employee company like Google Facebook MongoDB give student chance create fully functional apps show potential employer Udacity Course Catalog API enable developer programmatically access Udacitys course information"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "Education.com",
+        "id": 778,
+        "progweb_descr": " Educationcoms SchoolFinder API give FREE school data 130000 public private K12 school across US state Use API get comprehensive information school academic performance test score student demographic teacher statistic review parent"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "Science Museum",
+        "id": 1172,
+        "progweb_descr": " Use Science Museum APIs access pledge information list exhibition gallery current historical Pledges API develop Science Museum exhibition Does fly cost Earth In exhibition visitor make pledge also enter demographic data Use Pledges API access pledge data Countries API use Pledges API reference purpose Exhibitions API list exhibition gallery Science Museum current past"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "OpenDOAR",
+        "id": 1648,
+        "progweb_descr": " From site OpenDOAR construct comprehensive authoritative list institutional subjectbased repository API machinetomachine interface let third party application run wide variety query OpenDOAR Database get back XML data You choose receive repository title URLs suitable OAIPMH harvest available OpenDOAR data intermediate level detail"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "Ghent University Academic Bibliography",
+        "id": 7633,
+        "progweb_descr": " Ghent University Academic Bibliography provide bibliographic information describe scientific publication Ghent University researcher Ghent University Academic Bibliography API provide number method developer programmatically access bibliographic information API able deliver feed bibliographic data various department project access data describe single publication subset collection collection whole search publication use variety parameter much"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "PastPlace",
+        "id": 9068,
+        "progweb_descr": " PastPlaces API offer access information A Vision Britain Through Time database compiles data historical survey Britain database part Great Britain Historical GIS Project offer historical information year 1801 2001 Data include map statistical trend historical description API request send via HTTP Example query include place name place location unit name"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "Rutgers University Community Repository",
+        "id": 9290,
+        "progweb_descr": " Rutgers Community Repository RUcore Universityâ€™s digital repository educational material digital research create used Rutgers community collaborator RUcore API provide RESTful interface interact repository framework API adhere OAIPMH standard metadata harvest API return XML JSON format response"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "Cooper-Hewitt National Design Museum",
+        "id": 9476,
+        "progweb_descr": " CooperHewitt National Design Museum part Smithsonian Institution museum US devote historical contemporary design Collections exhibition dedicate explore history culture design decorative art CooperHewitt National Design Museum Collection database provide RESTish style API Use API return information exhibition galleries department object people period role type CooperHewitts Collection database Access provide via API key OAuth access token use monitor access API"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "Stanford HighWire",
+        "id": 9639,
+        "progweb_descr": " HighWire ePublishing service independent scholarly work publisher society association university service provide venue distribution 1765 journal reference work book HighWire provide Stanford University HighWire API enable publisher push pull content within across platform An account required service"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "TurnItin iThenticate",
+        "id": 9833,
+        "progweb_descr": " service provide search publish article resource match sample provide user application It report occurrence text provide service across journal publication publish source allow verification original work identify copy text publish elsewhere Uses include verification academic institution work turn original student claim investigation author suspect copy work without proper attribution API method support submit document text check match publish source Methods also support manage document collection via folder structure user account API return similarity report cite location text match content submit request"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "Jorum",
+        "id": 10013,
+        "progweb_descr": " Jorum service development UK provide high education collect share learn teach material allow reuse repurposing Jorum API allow user search collection listResources By submitter resource pagination By author pagination By keyword pagination By title paginationBy simple search pagination user specify maximum number resource returnedThe service use REST call return JSON XML CSV"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "University of Michigan Buildings",
+        "id": 11995,
+        "progweb_descr": " University Michigan state university Ann Arbor Michigan offer variety APIs allow developer access integrate various data University Michigan application create new application University Michigan APIs include UMs building information API return building name ID neighboring building University Michigans campus Interested developer sign information httpdeveloperitumichedunode8"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "ORCID",
+        "id": 12106,
+        "progweb_descr": " ORCID Open Researcher Contributor ID scholarly nonprofit organization They aim resolve difficulty name ambiguity scholarly communication As international interdisciplinary collaborative effort try develop scheme link identify research object grant paper patent Their API provide two tier RESTful provide access information ORCID database It return result JSON XML HTML"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "University of Michigan Courses",
+        "id": 12224,
+        "progweb_descr": " University Michigan state university Ann Arbor Michigan offer variety APIs allow developer access integrate various data University Michigan application create new application University Michigan APIs include UMs course school information course APIs return list course school course information textbook information course Interested developer sign information httpdeveloperitumichedunode8"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "UNT Digital Library Collections",
+        "id": 13228,
+        "progweb_descr": " UNT Digital Library create maintain University North Texas Libraries Digital Projects Unit library include image archival storage electronic file digital preservation metadata development UNT offer API grant access content within library API offer several utility design different search functionality Utilities range thumbnail base search identifier search"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "Reciprocal Research Network",
+        "id": 13754,
+        "progweb_descr": " Reciprocal Research Network RRN online research environment provide access First Nations item Northwest Coast British Columbia Records item museum around world available Create online collection collaborative project related discussion API RESTful return responses JSON XML"
+    },
+    {
+        "progweb_cat": "Education,Reference",
+        "api_name": "NTNU IME Faculty",
+        "id": 14234,
+        "progweb_descr": " Data fetch University database query via WebService interface Users fetch course schedule organizational data NTNUs official database API use RESTful interface response format either JSON TXT"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "GreatSchools",
+        "id": 447,
+        "progweb_descr": " Find nearby US school zip code city full address Once find school see information school include address Dig deeper retrieve review user student test score"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Schoology",
+        "id": 937,
+        "progweb_descr": " Schoology online mobile application classroom education management Schoology offer feature teacher school manage homework assignment engage student manage education material Schoology API allow developer access integrate functionality Schoology application create new application Some example API method include manage comment email message manage user account information upload managing document"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Altmetric",
+        "id": 1039,
+        "progweb_descr": " Altmetric powerful web application track online conversation scientific article It search mention scholarly work social medium sit scholarly bookmarking service science news outlet Altmetric collect analyzes hundred thousand posting ten thousand article datasets month This data make available end user web interface developer API Altmetric API function use REST call issue JSON JSONP"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "UC Berkeley Registration Status Check",
+        "id": 1063,
+        "progweb_descr": " University California Berkeley open institutional data University California Berkeley API allow developer access integrate data Berkeley application create new application Some example API method include retrieve department information search department"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Harvard University CS50 Courses",
+        "id": 3528,
+        "progweb_descr": " This API provide RESTful interface allow request data programmatically CS50 Courses JSON JSONP XML format At least per day CS50 synchronize Courses Instruction FAS offer many course API tend return lot data best performance cache copy locally synchronize API per day CS50 program course offer Harvard University make available set APIs use class"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "EdX Course Structure",
+        "id": 5505,
+        "progweb_descr": " EdX Course Structure API allow developer integrate EdX course structure interfaces application enable user use feature directly This API use REST design principle support JSON datainterchange format EdX provider online class cover many different topic"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Sycamore School",
+        "id": 6941,
+        "progweb_descr": " Sycamore School school management software service daycarepreschool K12 college campus school program Sycamore School Public API allow developer access data within Sycamores student information system Sycamore School API available use people obtain user ID school ID family ID andor studentID API allow user retrieve basic information school include relate news news article event cafeteria class list family User specific data may return usercreated memo task journal entry Student information enrol class homework grade retrieve More information class sturcture family information access API well Sycamore School API consume HTTP request"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "UChicago Can I Graduate?",
+        "id": 7178,
+        "progweb_descr": " University Chicago provide Can I Graduate service help student figure class need take order graduate choose degree It also offer schedule tool suggest course help student meet graduation requirement Can I Graduate API allow user generate class recommendation well retrieve class ID crosslisting data course description section data grade distribution data class grade distribution data term class pair data"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Open Onderwijs Data",
+        "id": 7773,
+        "progweb_descr": " Open Onderwijs Data Open Education Data organization connects citizens data Dutch educational system Open Onderwijs Data API provide developer unify programmatic interface access data various institution include DUO Education Executive Service Home Education Inspectorate Windows Accountability program"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "ScottyLabs",
+        "id": 8231,
+        "progweb_descr": " ScottyLabs interdisciplinary student organization Carnegie Mellon University dedicate connect student technological tool encourage innovation ScottyLabsâ€™ APIsCMU project initiate provide developer access structure oncampus data API currently allow developer access course schedule information API able filter result department semester course"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Philadelphia School Information",
+        "id": 8322,
+        "progweb_descr": " Philadelphia School Information provide user collection REST call retrieve information SDP School District Philadelphia These call allow user get list Philadelphia school get list school SDP slat closure get basic detailed information single school"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "University of Toronto EASI",
+        "id": 8647,
+        "progweb_descr": " ROSI University Torontos Repository Student Information store student information access universitys student staff Developers extract information ROSI secure manner use EASI web service These service access via SOAP call Code sample available PHP Python NET Java Perl"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Open University of Catalonia (UOC)",
+        "id": 8652,
+        "progweb_descr": " Open University Catalonia UOC public internetcentered university offer online degree specialization course Based Barcelona Spain UOC internationally recognize online university community 60000 student Open University Catalonia offer open REST API Available service include calender classroom mail people subject user Accepted format XML JSON An API key require"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "NUSMods",
+        "id": 8835,
+        "progweb_descr": " NUSMods National University Singapore Modules unofficial API consolidate NUS module information Modules NUS equivalent course Information use NUSMods API take Centralized Online Undergraduates Registration System CORS Integrated Virtual Learning Environment IVLE NUS websites bulletin examination timetable NUSMods API still development suggestion welcome"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Matchbox",
+        "id": 9083,
+        "progweb_descr": " Matchbox application admission system colleges university Matchbox provide high education institution feature manage aspect application process recruitment acceptance Matchbox API allow developer access integrate functionality Matchbox application create new application Some example API method include retrieve application retrieve application information manage application file"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Harvard Faculty Finder",
+        "id": 9289,
+        "progweb_descr": " Harvard Faculty Finder HFF provide method student faculty administrator general public search Harvard faculty member base research teach expertise HFF database faculty profile Rather index link exist information source make possible search browse faculty information across school Currently member Harvard community make use HFF expect change later year"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Stanford University Student",
+        "id": 9291,
+        "progweb_descr": " Stanford Universityâ€™s Middleware Integration Services MaIS provide integration service technology campus community facilitate management enterprise data people organization course workgroups authority Standford University Student API provide RESTful access student course data GET call allow user access data student course ID query along specify parameter Responses XML format"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Aalto University",
+        "id": 9674,
+        "progweb_descr": " Aalto University new multidisciplinary university science art meet technology business University locate Espoo Helsinki Finland Aalto University provide API Noppa course portal RESTful API allow read access course information Responses may JSON XML format JSONP callback support"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "USOS",
+        "id": 9675,
+        "progweb_descr": " USOS student management information system use Polish institution high education USOS API provide RESTful interface interact data course user faculty geographics much Functionality data storage messaging may automate well Default response format JSON though XMLMAP XMLITEMS support translate JSON data XML JSONP support callback though CORS prefer"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Drillster",
+        "id": 9855,
+        "progweb_descr": " Drillster memorization platform Users create drill exercise various topic help memorization knowledge retention There community user share access drill set Drillster set use variety language Drillster API allow developer access integrate functionality Drillster applications Some example API method include manage user account manage access retrieve drill detail set"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "MasteryConnect",
+        "id": 10096,
+        "progweb_descr": " MasteryConnect platform educator teacher MasteryConnect allow teacher access core standard common standard track student progress grade student performance MasteryConnect API allow developer access integrate functionality MasteryConnect applications Public documentation available interested developer sign information httpwwwmasteryconnectcomlearnmoreplanspricinghtml"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "National Taiwan University Activity",
+        "id": 10116,
+        "progweb_descr": " National Taiwan University NTU website provide Activity API retrieve information person NTU account monitor activity site log Retrievable information include user department registration information attempt retrieve lose password etc This API accessible via SOAP call issue XML format NTU website provide Chinese English"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "BYU Academic",
+        "id": 10188,
+        "progweb_descr": " service provide support course teach Brigham Young University It allow creation update course record link university curriculum inventory course student registration record service allow control coursework student performance across BYU academic calendar API method support definition update course section link list curriculum inventory offering date time student registration roll class schedule variable Methods also allow update official curriculum list official title grading rule record student course performance academic status date BYU academic calendar"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Memjogger",
+        "id": 10283,
+        "progweb_descr": " Memjogger web application space repetition learn API make possible perform progammatically operation available web interface All operation fully document"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "New Zealand Ministry of Education DEX",
+        "id": 10393,
+        "progweb_descr": " New Zealand Ministry Education provide Data Exchange Service DEX main automate integration point student data system manage school manage Ministry One Ministrys goals increase number studentmanagementsystemtoDEX transaction DEX access programmatically use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "StudyStack",
+        "id": 10511,
+        "progweb_descr": " StudyStack web site let visitor use computer display stack virtual card contain information certain subject Subjects include Geography History Math Languages Science Medicine StudyStack provide REST API access flashcard enter user site API return array user stack content stack category stack within category Responses format JSON Any data return studystack API must make visible search engine robot"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "OpenMinds",
+        "id": 10552,
+        "progweb_descr": " OpenMinds learn platform transforms user content learning application application accessible student track individual performance service preloaded 5000 item language artsgrades k8 aligned Common Core standard API retrieve create edit delete data within user resource folder API use REST call return JSON txt"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "CampusLink",
+        "id": 10901,
+        "progweb_descr": " service provide operational support activity colleges school educational institution Specific service include custom online admission form new student recruitment integration current student record databases learning management system LMSs Blackboard Moodle delivery curriculum Merchant service support operation school bookstore direct selling activity API method support creation application student interaction inquiry application admission financial aid review workflows process submission Methods also support interaction current student student record update integration LMS curriculum management ad hoc communication via online chat phone response"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "CommunityMX",
+        "id": 11061,
+        "progweb_descr": " CommunityMX CMX host panel expert help visitor learn late web development technique provide personal support project goal Every day CMX add new article tutorial videos starter kit discussion late development use popular product CMX provide API enable user search retrieve content tip website This service accessible use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Isoph Blue",
+        "id": 11323,
+        "progweb_descr": " Isoph division LearnSomething lead provider elearning success solution Isoph Blue complete customizable portal environment tool create wide range learn content manage vibrant community learner It enable organization develop manage wide variety continue education training certification initiatives Isoph Blue API enable developer integrate Isoph Blues function service application use SOAP call"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Chalkable",
+        "id": 11360,
+        "progweb_descr": " Chalkable offer web application school teacher student Chalkable application feature like calendar homework track gradebooks student teacher Chalkable API allow developer access integrate functionality Chalkable application create new application Public documentation available interested developer sign httpschalkablecomAccountDeveloperSignup"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Tin Can",
+        "id": 11450,
+        "progweb_descr": " Tin Can platform design capture share learn experience offline online Tin Can capture learn experience Learning Record Store LRS access Tin Can API Tin Can API allow developer access integrate functionality Tin Can application create new application Some example API method include create statement access learn experience information manage account information"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Diglib",
+        "id": 12033,
+        "progweb_descr": " Diglib directory online educational resource Currently resource offer free charge Diglib provide API allow vendor educational material integrate system Diglibs API user retrieve site agreement educational resource customer use REST call either XML text format"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "University of Warsaw",
+        "id": 12213,
+        "progweb_descr": " University Warsaw API manage USOS student management system university Poland University Warsaw API allow developer access integrate functionality data USOS University Warsaw application create new application Some example API method include return information class send email access user information API return responses either English Polish"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "University of Nottingham Get Entry Profile",
+        "id": 12476,
+        "progweb_descr": " University Nottingham Get Entry Profile API allow user obtain UCAS Entry Profile high education course UCAS Universities Colleges Admissions Service British admission service student apply university college This API part ePortfolio Lifelong Learning Reference Model Project"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "University of Washington Decision Support",
+        "id": 12519,
+        "progweb_descr": " Enterprise Data Warehouse central repository University Washingtons electronically store institutional data This repository organize way meaningful business analysis reporting Decision Support API provide programmatic access information data report contain Enterprise Data Warehouse"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "University of Washington Student",
+        "id": 12538,
+        "progweb_descr": " University Washington Student API provide programmatic access information student database This database contain information UW student include course data registration data section data personal data general academic data This service include public private function"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "SmarterMeasure",
+        "id": 12546,
+        "progweb_descr": " service help educator assess learner readiness engage online learn program overall prospect success instructional environment heavy technology It provide assessment tool evaluate student skill knowledge attribute suit technological instruction API method support learner account creation management report assessment result chart result Integration kit allow connection service Blackboard Pearson Learning Studio environment"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "CodeLesson",
+        "id": 12566,
+        "progweb_descr": " CodeLesson provide instructor lead online course user access 24 hour day Courses comprise online discussion reading quiz cod exercise review instructor CodeLesson API let user retrieve information CodeLesson This information include list certification offer certification earn student course offer CodeLesson API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "CoboCards",
+        "id": 13021,
+        "progweb_descr": " CoboCards online mobile application flashcard Users create flashcard study flashcard share flashcard study online people Flashcards also export printed site CoboCards API allow developer access integrate functionality CoboCards application create new application Some example API method include retrieve card cardsets add delete manage flashcard manage account user information"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "CollegiateLink",
+        "id": 13208,
+        "progweb_descr": " service provide tool help college staff manage cocurricular activity student club organization interest group include student registration organization member event management allocation fee group communication Student officer get tool roster management officer election track community service hour related task API method support list campus organization membership roster membership specify student officer position Methods also support event list schedule management"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Engrade",
+        "id": 13705,
+        "progweb_descr": " Engrade connect 31 million administrator teacher student parent online classroom tool Engrades communication online learn platform include gradebook secure message homework calendar online quiz flashcard third party application Engrades API allow developer integrate class management tools student information system partner service API use RESTful call response format XML JSON serialize PHP"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Illinois 2010 School Report Cards",
+        "id": 13764,
+        "progweb_descr": " Illinois 2010 school report card API allow user receive detail data public school school district append string json Chicago Tribune school webpage response call dictionary data school gather Illinois State Board Educations yearly report API also return list school give district city county Additionally API provide limited support search school name latitudelongitude pair Note API updated 2011 score"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Getting Homework Done",
+        "id": 13866,
+        "progweb_descr": " Submit homework job high school level less submitHomework method job do one team college graduate student Check status job status method fetch solution do solution method Code available github API use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "Haiku Learning Management System",
+        "id": 14384,
+        "progweb_descr": " Haiku learn management system allow teacher bring classroom web web classroom Features include website design development listserve host assignment dropboxes Haiku LMS API expand set interface allow Haiku LMS user organization integrate extend Haiku LMS use third party program Haiku LMS REST API allow developer write program access modify data within Haiku LMS Haiku LMS API allow variety function include retrieve user information class information assignment information"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "BrainHoney",
+        "id": 14697,
+        "progweb_descr": " Agilix BrainHoney stateoftheart learn management system help educational institution improve student learn experience It design course author learn objective management gradebook management student tool make virtual learning easy BrainHoney support Distributed Learning Application Protocol DLAP system integration BrainHoney ToGo Player BrainHoney Web Server BrainHoney Reporting Server interact BrainHoney Servers use DLAP API This API use integrate third party application BrainHoney API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Education",
+        "api_name": "University of Washington Groups",
+        "id": 14855,
+        "progweb_descr": " Students member University Washington community partake organization others group share communication mechanism example might group parttime history faculty University Washington Groups API provide developer within UW community administrate group include add remove member"
+    },
+    {
+        "progweb_cat": "Education,Science",
+        "api_name": "Natureserve species",
+        "id": 882,
+        "progweb_descr": " NatureServe Explorer provide data include image 70000 plant animal specie United States Canada Global Comprehensive Species Service provide direct access specie data XML format support analysis"
+    },
+    {
+        "progweb_cat": "Education,Science",
+        "api_name": "IRIS Seismographs in Schools",
+        "id": 10854,
+        "progweb_descr": " Incorporated Research Institutions Seismologyâ€™s Seismographs Schools Program provide realtime seismic data research tool nationwide network participate teacher IRIS Seismographs Schools API provide developer RESTful interface automate access IRIS SIS data"
+    },
+    {
+        "progweb_cat": "Education,Science",
+        "api_name": "Strand Map",
+        "id": 13320,
+        "progweb_descr": " Strand Map Service SMS together National Science Digital Library NSDL provide interactive graphical interface help K12 student understand relationship science concept Educators use Strand Map Service insert Strand Maps provide American Association Advancement Science AAAS websites JavaScript API help educator easily display Strand Maps also expose functionality add custom content event listener map This API freely available us JSON data format"
+    },
+    {
+        "progweb_cat": "Education,Science",
+        "api_name": "Strand Map Service",
+        "id": 14329,
+        "progweb_descr": " Strand Map Service SMS provide interactive graphical interface help K12 teacher student understand relationship science concept Strand Maps demonstrate connectedness idea skills student develop time map illustrate learn goal different grade relationships goal K12 student across range science technology engineering mathematics STEM discipline CSIP API let developer search concept map find digital library resource support concept map Developers access concept map number format eg XML OWLLite SVG PDF PNG TIFF JPEG Developers use CSIP dynamically generate concept map fragment concept map locate digital library resource support concept map service support textual well navigational search concept map Developers use textual search feature locate appropriate concept list concept concept map concept map fragment navigational search allow search use relationship concept eg prerequisite give concept API use RESTful call JavaScript embed include site"
+    },
+    {
+        "progweb_cat": "Education,Government",
+        "api_name": "Oregon Education",
+        "id": 897,
+        "progweb_descr": " Project OFAR initiative Oregon Department Education collaboration University Oregon publish information state educational assessment result project support access assessment data state student parent teacher school district administrator legislators educational researcher API enables outside entity receive validate transactional data via realtime interaction state system"
+    },
+    {
+        "progweb_cat": "Education,Government",
+        "api_name": "GlobalTeach LMS",
+        "id": 9924,
+        "progweb_descr": " service provide learning management system LMS function elearning course online instructional component It help creation update access educational content use course sponsor educational institution organizational training program Other functionality include student roster attendance assignment submission grade API method support search course catalog review course listing selection individual course Methods support course registration enrollment along student interaction access syllabus instructional material interaction classmates instructor via chat forum post post assignment API also track course completion performance longerterm credential planning"
+    },
+    {
+        "progweb_cat": "Education,Government",
+        "api_name": "Data.ed.gov",
+        "id": 13678,
+        "progweb_descr": " Dataedgov website provide information Department Education grant Datasets performance statistic data provide accessible site website part Open Government Initiative Dataedgov provide data via CSV JSON XML Socrata Open Data API Data set split K12 college university"
+    },
+    {
+        "progweb_cat": "Education,Animals",
+        "api_name": "ARKive",
+        "id": 992,
+        "progweb_descr": " ARKiveorg hop promote conservation threaten specie wildlife imagery ARKive API provide range method retrieve specie information image ARKive database API use REST protocol return JSON personal API key need access service"
+    },
+    {
+        "progweb_cat": "Education,Management",
+        "api_name": "Whipplehill",
+        "id": 1048,
+        "progweb_descr": " service provide function manage school record via software service SaaS platform Its Podium module support faculty need instructional resource class roster management grade related task Studentfocused function include course information access faculty staff directory attendance record etc Web access provide via specialized web content management system CMS capabilities API method support interaction partner within provider Ecosystem deliver specific function service Methods handle user profile setting access permission athletic school event information post dissemination news update etc"
+    },
+    {
+        "progweb_cat": "Education,Management",
+        "api_name": "Konnect Again",
+        "id": 5482,
+        "progweb_descr": " Konnect Again API use programmatically access Konnect Again alumnus search management platform Using HTTP call standard POST GET verb developer manage profile user edit associate organization query data location add edit news post create manage tags manage alumnus group API come welldocumented unique page description API value Konnect Again service high educational institution locate manage alumnus In addition API platform Konnect Again customized school logo color autoupdate function report statistic organize event even email subscriber"
+    },
+    {
+        "progweb_cat": "Education,Management",
+        "api_name": "LearnUpon",
+        "id": 9372,
+        "progweb_descr": " LearnUpon cloudbased learn management system LMS allow user create manage course It include function let user import course content create exam award certificate get report lessontakers LearnUpon also provide ecommerce platform let user sell course theyve make LearnUpon come multiple language include English Spanish French German LearnUpon platform function content programmatically accessible RESTful API"
+    },
+    {
+        "progweb_cat": "Education,Management",
+        "api_name": "Illuminate Education",
+        "id": 11369,
+        "progweb_descr": " Illuminate Education provide web base education software Their solution allow educator manage gradebook assessment system parent portal attendance data management report card Special Education system schedule grade discipline Illuminate API let developer integate application Illuminate system Data available via API include school site grade level student course roster API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Education,Management",
+        "api_name": "Desire2Learn",
+        "id": 12891,
+        "progweb_descr": " Desire2Learn online learn platform offer variety online learn product Desire2Learn offer numerous feature teacher student online learn Desire2Learn API allow developer access integrate functionality Desire2Learn application create new application Some example API method include manage user account manage discussion forum modules project access gradebooks dropboxes"
+    },
+    {
+        "progweb_cat": "Education,Art",
+        "api_name": "Art Clinic",
+        "id": 1098,
+        "progweb_descr": " Art Clinic member International Society Education Art InSEA provide program infant child teenager adult family Art Clinic API allow people retrieve program drawing videos news site content via SOAP call Art Clinic website provide English Portuguese"
+    },
+    {
+        "progweb_cat": "Education,Art",
+        "api_name": "The Walters Art Museum Collections",
+        "id": 7641,
+        "progweb_descr": " Walters Art Museum Baltimore art museum museum expose data image describe work art collection via API Walters Art Museum Collections API access information particular collection work exhibition museum location metadata describe artworksâ€™ geographic relationship"
+    },
+    {
+        "progweb_cat": "Education,Art",
+        "api_name": "Finnish National Gallery",
+        "id": 7643,
+        "progweb_descr": " Finnish National Gallery Finlands large organization art museum manage 36000 work art Finnish National Gallery API web service capable deliver information artwork artists This REST API able search artist keyword"
+    },
+    {
+        "progweb_cat": "Education,Tools",
+        "api_name": "ProProfs Quiz Maker",
+        "id": 1103,
+        "progweb_descr": " ProProfs online Quiz maker tool It offer tool create share two type namely score personality quiz site provide option upload document include video refer take score quiz quiz taker It offer choice question type include multiple choice check box match API allow user capture learner data database website Example usage include insert lead capture database name email quiz taker insert name information people take certain test An account required service"
+    },
+    {
+        "progweb_cat": "Education,Tools",
+        "api_name": "Noisebridge",
+        "id": 9820,
+        "progweb_descr": " Noisebridge nonprofit educational corporation provide public space contain electronics lab machine shop library darkroom kitchen Anyone come use facility work project either alone group Noisebridge provide simple RESTful API access webbased service people use facility cod So far simple texttospeech service available moment API accessible Noisebridge public space change authorization method run"
+    },
+    {
+        "progweb_cat": "Education,Tools",
+        "api_name": "Skolportalen",
+        "id": 10938,
+        "progweb_descr": " Skolportalen Education Portal service run Local Authorities JÃ¤mtland County It provide collection software service Association school system These ITrelated service represent variety tool help streamline daily work Such create questionnaire enable distance learn provide email service Skolportalen API enable user programmatically retrieve informational document site"
+    },
+    {
+        "progweb_cat": "Education,Tools",
+        "api_name": "Classmarker",
+        "id": 11555,
+        "progweb_descr": " Classmarkers API provide realtime test result Classmarkercom account customer internal system without reveal username password Classmarker provide secure online test system many type classroom individual test data kept safely available time API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Education,Tools",
+        "api_name": "Study Island Dictionary",
+        "id": 11821,
+        "progweb_descr": " Study Island online service educational enhancement It provide tools every grade level readily conform state standard education One tool Study Island provide Dictionary API allow user look word programmatically via SOAP call"
+    },
+    {
+        "progweb_cat": "Education,Tools",
+        "api_name": "University of Waterloo Open Data",
+        "id": 12051,
+        "progweb_descr": " University Waterloo Open Data API offer 25 method extract data University Waterloo websites A sample available information include information parking course exams campus event faculty program listing Developers free build apps program per University Waterloo Open Data License Agreement httpsuwaterloocaopendatauniversitywaterlooopendatalicenseagreementv1"
+    },
+    {
+        "progweb_cat": "Education,Tools",
+        "api_name": "Curriculum U",
+        "id": 13967,
+        "progweb_descr": " Curriculum U webbased application enables create share curriculum Its API let search learn content school level return K12 content standard XML format"
+    },
+    {
+        "progweb_cat": "Education,Tools",
+        "api_name": "Ediscio",
+        "id": 14580,
+        "progweb_descr": " Ediscio online flashcard learn website Users create flashcard set learn schedule Ediscio also provide RESTful API allow developer create website application use Ediscio flashcard Methods include download cardboxes download flashcard cardbox send learn statistic back Ediscio"
+    },
+    {
+        "progweb_cat": "Education,Tools",
+        "api_name": "Flashcard Exchange",
+        "id": 14685,
+        "progweb_descr": " Flashcard Exchange online flashcard service many different category topic Flashcard Exchange RESTful API make public API also enhance provide two way communication third party application"
+    },
+    {
+        "progweb_cat": "Education,England",
+        "api_name": "Victoria & Albert Museum",
+        "id": 1238,
+        "progweb_descr": " Victoria Albert Museum API design RESTful interface collection know It return item database paginate XML JSON format purpose VA API maximise access collection encourage use"
+    },
+    {
+        "progweb_cat": "Education,England",
+        "api_name": "University of Leeds Progress File",
+        "id": 10190,
+        "progweb_descr": " University Leeds found 1904 Yorkshires old large university In September 2010 launch new eportfolio system Progress File medical dentistry student Progress File allow student gather evidence learn evaluate progress Progress File compose exercise response feedback learn note completion report gallery resource section Progress File API enable user interact Progress File programmatically add retrieve delete comment competency"
+    },
+    {
+        "progweb_cat": "Education,England",
+        "api_name": "JISC Monitoring Unit",
+        "id": 12681,
+        "progweb_descr": " service provide UK government organization champion integration technology within high education Its role include oversee technology initiative fund within UK college university file require report track service performance establish metric Monitoring Unit provide access report data JISC measure service usage time inform interested third party API method support search database technology program within institution site monitor JISC Methods allow retrieval summary across site detail report individual site"
+    },
+    {
+        "progweb_cat": "Education,Games",
+        "api_name": "Quizlet Flashcards",
+        "id": 1302,
+        "progweb_descr": " Quizlet API let developer use Quizlets vast database 200 million flashcard cover every possible subject With 2 million register user 7 million flashcard set Quizlet large flash card study game website Quizlet API let user search download edit upload flashcard set use application Developers also mark set favorites show website create edit join group use group classmate set Developers also search definition API use RESTful call response format JSON Quizlets API also suppors OAuth2 allow developer authenticate act behalf Quizlet user"
+    },
+    {
+        "progweb_cat": "Education,Games",
+        "api_name": "Spellodrome",
+        "id": 8600,
+        "progweb_descr": " Spellodrome online education tool help student age 5 18 learn spell It use game teach student help get interested learning Spellodrome provide weekly report email parent teacher SOAPbased Spellodrome API allow user log retrieve commonly misspell word retrieve user personal best score"
+    },
+    {
+        "progweb_cat": "Education,Games",
+        "api_name": "Mathletics Hall of Fame",
+        "id": 9336,
+        "progweb_descr": " Mathleticscom provide online math game educational purpose It use school student age 5 18 Mathletics Hall Fame scoreboard showcasing topscoring student classrooms US around world Hall Fame score information accessible programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Education,Games",
+        "api_name": "Braineos",
+        "id": 13109,
+        "progweb_descr": " Braineos website offer flashcard game learn variety subject topics Example subject include vocabulary foreign language math history Braineos API allow developer access data functionality Braineos create new application flashcard game Some example API method include search flashcard deck retrieve specific user deck view content specific deck"
+    },
+    {
+        "progweb_cat": "Education,Calendars",
+        "api_name": "Aeries",
+        "id": 1410,
+        "progweb_descr": " Aeries API webbased REST API system currently provide Test Scores Gradebook Data Gradebook Scores updatable API API output JSON XML include School Information School Terms Calendar Bell Schedule Access API reserve Aeries Software Elite Partners certificate issue directly Aeries Software otherwise district issue 32 character alphanumeric string certificate unique district interact API Aeries Software benchmark deliver industry lead student data management system software provide customer service innovative solution California K12 education"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "iQualify",
+        "id": 1525,
+        "progweb_descr": " iQualify API offer learnercentered education platform feature interactive social learning tool assessment management feedback support API expose management analytics responses build learn experience JSON prefer response format iQualify offer free monthly payment plan"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "Blackboard Learn",
+        "id": 1543,
+        "progweb_descr": " Blackboard Learn API allow developer manage announcement course content course membership course grade data source Blackboard Learn design help educator involve K12 high education government business engage learner whatever device use It allow user build course content host discussion send targeted notification use analytics track learner progress"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "Instructure Canvas Mobile APP",
+        "id": 1671,
+        "progweb_descr": " Instructure lead provider innovative education software solution K12 high education domains Instructure Canvas Mobile APP API support development learn management system classroom application student teacher API support Android iOS mobile apps provide information academic information announcement conversation discussion assignment file people quiz among others"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "SURFnet Open Education",
+        "id": 1673,
+        "progweb_descr": " SURFnet Open Education API aka Open Onderwijs API open standard share education data Its production spearhead SURFnet collaboration institution higher learn API facilitates share wide range academic information include course student mark course credit semester schedule Developers turn use data build new application"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "AzEDS",
+        "id": 2345,
+        "progweb_descr": " Arizona Department Education ADE use online platform supplement dissemination academic information service well learn resource ADE ’ information technology initiative Arizona Education Learning Accountability System develop AzEDS API simplify development integration education application It RESTful API send request return response JSON format API ’ beta version currently available sandbox environment production version due release July 2017"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "ARSnova",
+        "id": 2496,
+        "progweb_descr": " ARSnova API integrate learning management system open source environment HTTPS callback perform SSL web socket encryption JSON format available OAuth2 authentication ARSnova power Technische Hochschule Mittelhessen University Applied Sciences aim innovative approach Audience Response Systems ARS Additional API information httpsgithubcomthmprojectsarsnovabackendblobmasterREADMEmd"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "Open edX Courses",
+        "id": 3363,
+        "progweb_descr": " Open edX APIs allow build application interact edX open source platform Use Courses REST API obtain information edX MOOC course EdX provide educational opportunity various university colleges high learning institution"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "Open edX Enrollment",
+        "id": 3364,
+        "progweb_descr": " Open edX REST APIs allow build application interact edX open source platform Use Enrollment API view user course enrollment information enroll user course EdX provide educational opportunity various university colleges high learning institution"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "Open edX User",
+        "id": 3365,
+        "progweb_descr": " Open edX REST APIs allow build application interact edX open source platform User API allow view update account preference information EdX provide educational opportunity various university colleges high learning institution"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "SpringRoll",
+        "id": 4103,
+        "progweb_descr": " SpringRoll REST API allow developer access integrate functionality SpringRoll applications Some example API method include create manage module upload medium retrieve player module medium SpringRoll online education module medium manager"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "SchoolTime",
+        "id": 4263,
+        "progweb_descr": " SchoolTime API allow developer integrate SchoolTimes school management capability application include learning management system MOOC content provider payroll HRIS application accounting application SchoolTime allow user manage aspects institution centralize interface It design use K12 colleges university train center"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "Pearson LearningStudio",
+        "id": 5123,
+        "progweb_descr": " LearningStudio APIs set RESTful SOAP service Pearson provide many tool online course environment With LearningStudio APIs user leverage LearningStudio Learning Management System LMS strengthen engagement interaction develop rich user experience integrate student information system SIS create student faculty portal create adhoc report develop new course tool integrate thirdparty tool much Explore LearningStudio APIs build next great learn experience Pearson provide educational product service learn institution government individual"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "School Loop High Priority Groups",
+        "id": 6325,
+        "progweb_descr": " School Loop learn management system design power professional learning community especially support atrisk youth It many feature include easy integration Google student performance track learn management team secure innetwork mail daily email newsletter cover assignment grade SchoolLoop High Priority Groups API enable user programmatically create list update delete high priority group"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "Velocedge CADE LMW",
+        "id": 9051,
+        "progweb_descr": " SCORMcompliant Communication And Distance Education CADE software system develop Velocedge help facilitate distance learn One feature CADE Learning Management Web LMW facilitate online learn web browser LMW provide tools kind train communication program include limited live satellite delivery interactive web training conferencing collaboration workshop ondemand service CADE LMW access interact programmatically use SOAP call"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "Instructure Canvas",
+        "id": 13699,
+        "progweb_descr": " Canvas Instructure opensource learn management system LMS Instructors use Canvas grade paper conduct online test student communicate student edit learn content Canvas API allow developer access integrate Canvas functionality service applications Some example API method include create edit access account information add enrol student add edit course add edit assignment"
+    },
+    {
+        "progweb_cat": "Education,Learning Management Systems",
+        "api_name": "Firmwater",
+        "id": 13700,
+        "progweb_descr": " Firmwater host learn management system platform training vendor publishers Some feature include learner interface report generation content management tool publisher Firmwater API allow developer integrate Firmwater application service Some example API method include create edit user session access account information list session course information"
+    },
+    {
+        "progweb_cat": "Education,Civics",
+        "api_name": "Civil Rights Data Collection (CRDC)",
+        "id": 1674,
+        "progweb_descr": " Civil Rights Data Collection CRDC API brainchild US Department Education allow user track gather data concern progress education civil right public school It allow developer build apps provide access variety parameter include student enrollment chronic absenteeism outofschool suspension public school Developers seek access API must sign API key Githubanchored link provide documentation"
+    },
+    {
+        "progweb_cat": "Education,Open Source",
+        "api_name": "My Brothers Keeper",
+        "id": 1675,
+        "progweb_descr": " US Department Education initiate My Brothers Keeper MBK API provide peertopeer mechanism track school progress crucial life outcome youth Its integration application allow developer provide access numerous datasets produce My Brother ’ Keeper Task Force include demographic characteristic youth ’ progress school school API support mainly track indicator associate academic nonacademic progress youth age 18 24 relative race ethnicity gender parameter Some analytical data gather API include rate school dropout college enrollment graduation labor force participation among others Developers seek access API must sign API key Githubanchored link provide documentation"
+    },
+    {
+        "progweb_cat": "Education,Open Source",
+        "api_name": "BigBlueButton",
+        "id": 3739,
+        "progweb_descr": " BigBlueButton integrate chat poll emojis playback whiteboard desktop share WebRTC presentation web cam online learn service It available JSON XML format share secret"
+    },
+    {
+        "progweb_cat": "Education,Open Source",
+        "api_name": "OpenEd",
+        "id": 7229,
+        "progweb_descr": " OpenEd create foster usage educational resource K12 teacher Particularly goal provide resource help teach standard A great way foster usage magnify value OpenEd deliver make API available ed tech developer company To end OpenEd offer API resource search contribution standard information"
+    },
+    {
+        "progweb_cat": "Education,Real Estate",
+        "api_name": "SchoolDigger",
+        "id": 1962,
+        "progweb_descr": " SchoolDigger API provide K12 data 123000 school Information available include test score data demographic rank Additionally API offer school district attendance boundary polylines map JSON use response SchoolDigger API require API Keys order gain access full capability"
+    },
+    {
+        "progweb_cat": "Education,Addresses",
+        "api_name": "opendata.education",
+        "id": 2220,
+        "progweb_descr": " opendataeducation provide developer open data UK education sector API require API Keys authentication HTTP method use request response JSON XML format Edubase Children Centres School Group Links use data source incorporate choose format follow SIF standard"
+    },
+    {
+        "progweb_cat": "Education,Search",
+        "api_name": "Rice University People",
+        "id": 2668,
+        "progweb_descr": " This API provide information campus People include follow search parameter Key Name Id API allow Rice University account holder access publicly accessible data University information people valid account Rice Apps provide developer way improve student life technology Rice University"
+    },
+    {
+        "progweb_cat": "Education,Search",
+        "api_name": "Canadiana Discovery Portal",
+        "id": 7642,
+        "progweb_descr": " Canadiana Discovery Portal free web service allow user search digital collection Canadian library archive museum Canadiana Discovery Portal API allow developer programmatically query collection API able limit query result source medium type language record type unique record key date range"
+    },
+    {
+        "progweb_cat": "Education,Search",
+        "api_name": "MatchCollege",
+        "id": 13207,
+        "progweb_descr": " service provide information US colleges university It allow search result filter state degree seek career support criterion Results provide information admission requirement tuition financial aid available housing choice API method support submission search query specify location ZIP code city state Results return include institution name location latitude longitude address contact option phone web URL degree program available average class size funding option"
+    },
+    {
+        "progweb_cat": "Education,Search",
+        "api_name": "Europeana OpenSearch",
+        "id": 14293,
+        "progweb_descr": " Europeana enable people explore digital resource Europes museum libraries archive audiovisual collection Europeana OpenSearch API allow user develop application search display Europeana collection metadata preview Europeana aggregate metadata 1500 data provider Most provider give access Europeana via national thematic aggregator In Europeana metadata access form 360 different datasets Search parameter include keyword phrase field API use RESTful call response format RSS JSON"
+    },
+    {
+        "progweb_cat": "Education,Search",
+        "api_name": "OCWSearch",
+        "id": 15156,
+        "progweb_descr": " OCW Search search engine dedicate increase access information find best free university course online Several university publish course material free online OpenCourseWare OCW initiative describe OpenCourseWare Consortium website OCW Search independent search engine index course find course faster"
+    },
+    {
+        "progweb_cat": "Education,Scheduling",
+        "api_name": "Rice University Courses",
+        "id": 2669,
+        "progweb_descr": " This API provide information campus Courses include follow parameter Term Year Title API allow Rice University account holder access publicly accessible data University information schedule Rice Apps provide developer way improve student life technology Rice University"
+    },
+    {
+        "progweb_cat": "Education,Scheduling",
+        "api_name": "EdX Enrollment",
+        "id": 5504,
+        "progweb_descr": " EdX Enrollment API provide developer access user course enrollment information ability enroll user course This API use REST design principle support JSON datainterchange format EdX provider online class cover many different topic"
+    },
+    {
+        "progweb_cat": "Education,Scheduling",
+        "api_name": "Eveoh MyTimetable",
+        "id": 9072,
+        "progweb_descr": " Located Netherlands Eveoh develop education software educational institution focus improve information delivery student employee MyTimetable Eveohs flagship product It offer personalized uptodate timetable student staff member via web mobile phone elearning portal MyTimetable offer open RESTful API reuse timetabling user profile data application API use OAuth authentication data return XML JSON format"
+    },
+    {
+        "progweb_cat": "Education,Scheduling",
+        "api_name": "SchedEz",
+        "id": 10171,
+        "progweb_descr": " service provide host learn management platform schedule educational activity It allow instructor create update online class information resource manage student list schedule class session assignment track attendance collect assess student submission etc service also facilitate faculty recruit compensation educational institution API method support integration system use education provider include HR system manage staff record student information system handle data learner Methods support create manage class portal schedule class activity attendance track manage coursework include student completion assignment instructor assessment"
+    },
+    {
+        "progweb_cat": "Education,Scheduling",
+        "api_name": "USC Schedule of Classes",
+        "id": 11109,
+        "progweb_descr": " University Southern Californiaâ€™s Schedule Classes API web service provide RESTful interface cache Schedule Classes data APIâ€™s primary purpose integrate schedule data USC websites API pull general data Registrarâ€™s office populate cache data"
+    },
+    {
+        "progweb_cat": "Education,Scheduling",
+        "api_name": "Nova Software Schedule File",
+        "id": 11167,
+        "progweb_descr": " Nova Software IT company focus area school administration company product service support process service plan schedule absence management student record well communication school home website provide solely Swedish Nova Software also host Schedule File API allow multiple user create manage scholastic schedule service function available use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Education,Scheduling",
+        "api_name": "University of Washington R25 Classroom Scheduling",
+        "id": 12537,
+        "progweb_descr": " University Washington R25 Classroom Scheduling API provide programmatic access schedule information UW classrooms Users may search information event location reservation example application could query API detail room availability KANE 110 This API access via REST call use XML data format"
+    },
+    {
+        "progweb_cat": "Education,Library",
+        "api_name": "Rice University Library",
+        "id": 2670,
+        "progweb_descr": " This API provide information campus Library include Key Room Live parameter API allow Rice University account holder access publicly accessible data University information Fondren Library Rice Apps provide developer way improve student life technology Rice University"
+    },
+    {
+        "progweb_cat": "Education,Library",
+        "api_name": "CORE",
+        "id": 9749,
+        "progweb_descr": " CORE COnnecting REpositories facilitate free access scholarly article aggregate Open Access repository Additionally CORE harvest enriches make accessible metadata fulltext PDF content many repository CORE API provide developer access metadata text API access via HTTP GET POST call require API Key return XML JSON format response"
+    },
+    {
+        "progweb_cat": "Education,Library",
+        "api_name": "MERLOT",
+        "id": 10495,
+        "progweb_descr": " service formally name Multimedia Educational Resource Learning Online Teaching provide access resource collection instructional resource support online instruction include course outline speaker note learn assessment study note Varying access level include basic advanced search material search across membership list development personal collection contribution new material comment exist one API method support search MERLOT resource collection either singlebox keyword match advance search specific data field Methods also support compile custom personal resource collection contribution new material either information source instructional aide collection"
+    },
+    {
+        "progweb_cat": "Education,Library",
+        "api_name": "Bibliotek",
+        "id": 10849,
+        "progweb_descr": " Bibliotek library rather database item hold Danish public library Bibliotek provide online access record item publish Denmark well item find Danish public research library Denmarkbased user place request item local library even library normally carry desired item Certain item DVDs VHS tape may unavailable nonlocal borrower A warn appear record item may unavailable Bibliotek also allow user check loan reservation favorite library well ask renewal delete reservation If user library doesnt yet provide borrower data Bibliotek link librarys website provide instead Users may also search Biblioteks item database use either web interface SOAPbased API Bibliotek website offer Danish English though part site include API documentation provide solely Danish"
+    },
+    {
+        "progweb_cat": "Education,Library",
+        "api_name": "HathiTrust Volumes",
+        "id": 13511,
+        "progweb_descr": " HathiTrust Volumes API allow user retrieve information volume deposit HathiTrust Digital Library Given standard identifier known item API return basic metadata item This API intend simple fast way help people inline data HathiTrust OPAC similar system This unofficial API own maintain endorsed HathiTrust Digital Library"
+    },
+    {
+        "progweb_cat": "Education,Library",
+        "api_name": "OCLC QuestionPoint",
+        "id": 13628,
+        "progweb_descr": " OCLC nonprofit computer library service research organization maintain WorldCat global network library content QuestionPoint API give developer access QuestionPoint knowledge base collection QA pair contribute nearly 500 library worldwide Functionality include give developer search access QuestionPoint QA pair return question match query access specific QA pair metadataQuestion ID API use RESTful call response format XML JSON HTML TXT"
+    },
+    {
+        "progweb_cat": "Education,Library",
+        "api_name": "Worldcat Registry",
+        "id": 13630,
+        "progweb_descr": " OCLC nonprofit computer library service research organization maintain WorldCat global network library content Registry API give developerlevel access information Worldcat Registry With API user accomplish follow Search basic information institution consortia base variety infromation WorldCat Registry Profile Retrieve detail information single institution consortium base Institution ID OCLC Symbol Retrieve OpenURL resolver information base Instution ID OCLC Symbol IP address API use REST SRU protocol response format XML HTML"
+    },
+    {
+        "progweb_cat": "Education,Library",
+        "api_name": "Open Archives Initiative",
+        "id": 13639,
+        "progweb_descr": " Open Archives Initiative API provide lowbarrier mechanism repository interoperability API allow service provider harvest article metadata repository use OAIPMH protocol use metadata service OAIPMH compose set six verb service invoke within HTTP"
+    },
+    {
+        "progweb_cat": "Education,Customer Relationship Management",
+        "api_name": "LearnCube Virtual Classroom",
+        "id": 3120,
+        "progweb_descr": " LearnCube Virtual Classroom API integrate online teach learning feature REST architecture It available JSON response token authentication As learn management system Learn Cube offer virtual classroom virtual school eCourses assessment CRM administration Full API access available request"
+    },
+    {
+        "progweb_cat": "Education,Community",
+        "api_name": "Curriki Search",
+        "id": 3147,
+        "progweb_descr": " Curriki Search API integrate search educational open source feature web service Searches cover textbased query subject category type resource grade level review rating It available provider approval apicurrikiorg"
+    },
+    {
+        "progweb_cat": "Education,Analytics",
+        "api_name": "Campus Labs",
+        "id": 3430,
+        "progweb_descr": " Campus Labs API integrate educational data application OAuth2 authentication available HTTP request JSON responses Developers explore course evaluation notation demographic account outcomes interface Campus Labs platform help unify campus data help institution make datainformed decision"
+    },
+    {
+        "progweb_cat": "Education,Analytics",
+        "api_name": "Assembly Platform",
+        "id": 3714,
+        "progweb_descr": " Assembly Platform API integrate data analysis education application It provide access REST HTTP communication format JSON response protocol Required OAuth2 bearer token authenticate"
+    },
+    {
+        "progweb_cat": "Education,Analytics",
+        "api_name": "EnderMetrics",
+        "id": 5242,
+        "progweb_descr": " EnderMetrics API allow developer integrate analytics technology mobile education apps API collect information child learn develop skill use education apps apps optimize well serve need API documentation available upon registration EnderMetrics"
+    },
+    {
+        "progweb_cat": "Education,Analytics",
+        "api_name": "EdX Data Analytics",
+        "id": 5501,
+        "progweb_descr": " EdX Data Analytics API provide developer tool build application view analyze student activity course This API use REST design principle support JSON datainterchange format EdX provider online class cover many different topic"
+    },
+    {
+        "progweb_cat": "Education,Data",
+        "api_name": "College Scorecard Data",
+        "id": 3710,
+        "progweb_descr": " College Scorecard Data API integrate school academic admission student repayment methodology web service It available HTTP query JSON CSV responses Developers require Key access Additional API information httpsgithubcom18FopendatamakerblobapidocsAPImd"
+    },
+    {
+        "progweb_cat": "Education,Data",
+        "api_name": "Harvard Course Planner",
+        "id": 4677,
+        "progweb_descr": " Harvard Course Planner API offer access Harvards student course management data This API allow user add remove course via Course Planner This REST API use HTTP Basic Authentication type Dataverse project focus share archive cite research data maintain Institute Quantitative Social Science"
+    },
+    {
+        "progweb_cat": "Education,Data",
+        "api_name": "Metacog",
+        "id": 4976,
+        "progweb_descr": " Metacogs learn data platform allow user create learning object like project quiz problem set measure track student learn API JSON base RESTful It use HTTP POSTGET method API Tokens authentication Use API request data generate learning object Methods include retrieve training session ids event request score data manage rubric See API documentation full method description access sandbox environment API"
+    },
+    {
+        "progweb_cat": "Education,Data",
+        "api_name": "Innovative NYC Schools",
+        "id": 5540,
+        "progweb_descr": " NYC Department Education number different datasets school handbook information district boundries health service test result demographic park map datasets available various format Innovative NYC Schools API allow developer access resource"
+    },
+    {
+        "progweb_cat": "Education,Data",
+        "api_name": "Clever Data",
+        "id": 11790,
+        "progweb_descr": " Clever Data API expose Clevers information retrieval functionality It RESTful API return JSONencoded data Clever educationoriented data organization tool Intended developer software developer school administration Clever provide data process organize integration security student information Administrators teacher upload student information Clever share information enable system apps"
+    },
+    {
+        "progweb_cat": "Education,Books",
+        "api_name": "Chegg Affiliate",
+        "id": 3976,
+        "progweb_descr": " Chegg Affiliate API book rental portal allow user search textbook title price detail provider API Chegg mainly rent textbooks distributes etextbooks subsidize rate online library portal API ideal Cheggaffiliated developer run shop site compare rental price textbooks stationery item Access API ’ documentation must request email restrict developer approve Chegg affiliate account"
+    },
+    {
+        "progweb_cat": "Education,Books",
+        "api_name": "Koninklijke Bibliotheek WLIC",
+        "id": 7647,
+        "progweb_descr": " dataset Watermarks Incunabula print Low Countries WILC offer access 16000 watermark book print 1450 1501 incunabula Low Countries today Netherlands Belgium WILC set comprises 16071 illustration watermark take 2229 incunabula edition preserve 14300 copy worldwide many one copy set include watermark book hold library archive museum world strength set huge quantity illustration detail descriptive metadata addition four geographical coordinate longitude latitude place manufacture preservation allow set use various way National Library Netherlands KB offer open data CC0 licence metadata object illustration watermark Access via SRU OAIPMH protocol"
+    },
+    {
+        "progweb_cat": "Education,Books",
+        "api_name": "Pearson Brilliant Series",
+        "id": 9859,
+        "progweb_descr": " Brilliant book Pearson outcomefocused straight point Brilliant book cover 100 topic help reader learn subject quickly Pearson Brilliant API allow developer access integrate functionality data Pearson Brilliant book application Some example API method include retrieve book retrieve book information get author information search book author"
+    },
+    {
+        "progweb_cat": "Education,Books",
+        "api_name": "Connexions",
+        "id": 13686,
+        "progweb_descr": " Connexions global repository open educational material include textbook teach material learn material Connexions provide content repository module collection lens view printing content feed author tool API use REST JavaScript XMLRCP protocols return response XML"
+    },
+    {
+        "progweb_cat": "Education,Visualizations",
+        "api_name": "Sidekick",
+        "id": 5024,
+        "progweb_descr": " Sidekick provide platform build present walkthroughs interactive tutorial API access developer available Key authentication JSON protocol SSL support Sidekick aim increase customer success offering walkthrough tutorial WordPress cPanel Plesk Gdrive"
+    },
+    {
+        "progweb_cat": "Education,Collaboration",
+        "api_name": "BrainCert Virtual Classroom",
+        "id": 5243,
+        "progweb_descr": " BrainCert Virtual Classroom API allow developer schedule launch live class record session hold audiovideo conference host group chat share desktops share file use interactive whiteboards share presentation sell class create discount coupon This API provide BrainCert allinone education platform offer tool learn teach collaborate online"
+    },
+    {
+        "progweb_cat": "Education,Collaboration",
+        "api_name": "BrainCert Whiteboard",
+        "id": 5246,
+        "progweb_descr": " BrainCert Whiteboard API allow developer embed flashbased Interactive Whiteboard websites whiteboard feature draw tool highlighter text editor LaTeX math equation Wolfram Alpha output snapshot save This API provide BrainCert allinone education platform offer tool learn teach collaborate online"
+    },
+    {
+        "progweb_cat": "Education,Collaboration",
+        "api_name": "Unofficial Instructables",
+        "id": 5411,
+        "progweb_descr": " Unofficial Instructables API available Mashape Instructables DIY platform allow publish online guide This resource guarantee support Instructables however aim provide data access category technology food list form metadata detail display content individual Instructable See Unofficial API Adam Watters httpwwwinstructablescomidUsingtheInstructablesUnofficialAPI"
+    },
+    {
+        "progweb_cat": "Education,Collaboration",
+        "api_name": "University of Reddit",
+        "id": 9673,
+        "progweb_descr": " University Reddit community people look teach learn form online collection free accessible course University Reddit API provide developer interface automate access University data Exposed resource include metadata describe class lecture user catalog All response JSON format"
+    },
+    {
+        "progweb_cat": "Education,Collaboration",
+        "api_name": "Blackboard Collaborate",
+        "id": 13181,
+        "progweb_descr": " Blackboard Collaborate webbased learn platform design specifically education It use school level well government corporate organization platform give educator ability offer online blend mobile learn API allow developer integrate Blackboard Collaborate LMS CMS VLE portal Documentation publicly available developer contact provider information"
+    },
+    {
+        "progweb_cat": "Education,Images",
+        "api_name": "EdX Profile Images",
+        "id": 5295,
+        "progweb_descr": " EdX Profile Images API allow developer integrate profile image service application enable user upload remove profile image application edX Platform APIs use REST design principle support JSON data interchange format APIs also use edX OAuth 20 authentication EdX provide online class student educator open source online course platform high education institution"
+    },
+    {
+        "progweb_cat": "Education,Accounts",
+        "api_name": "Google Classroom",
+        "id": 5305,
+        "progweb_descr": " Google Classroom API allow user integrate student account domains education application include course alias invitation student teacher user entity This API use REST interface OAuth 20 access manage student roster classroom information visit httpsdevelopersgooglecomclassroomguidesgetstarted"
+    },
+    {
+        "progweb_cat": "Education,Accounts",
+        "api_name": "EdX User",
+        "id": 5503,
+        "progweb_descr": " EdX User API let developer view update account information This API use REST design principle support JSON datainterchange format EdX provider online class cover many different topic"
+    },
+    {
+        "progweb_cat": "Education,Mobile",
+        "api_name": "EdX Mobile",
+        "id": 5502,
+        "progweb_descr": " EdX Mobile API let developer build application student view course information video course developer instance Open edX This API use REST design principle support JSON datainterchange format EdX provider online class cover many different topic"
+    },
+    {
+        "progweb_cat": "Education,Russian",
+        "api_name": "Stepic",
+        "id": 6126,
+        "progweb_descr": " Stepic online educational website provide lesson variety subject Use Stepic REST API access information Stepic site like announcement assignment course course grade"
+    },
+    {
+        "progweb_cat": "Education,Cloud",
+        "api_name": "eLearning Cloud",
+        "id": 6298,
+        "progweb_descr": " eLearning AG educational marketplace professional online learn material service Its online education platform connect individual course provider via web eLearning AG Cloud REST API let developer integrate service application With API integrate user application able use service offer eLearning AG"
+    },
+    {
+        "progweb_cat": "Education,Cloud",
+        "api_name": "Docebo LMS",
+        "id": 6378,
+        "progweb_descr": " Docebo eLearning platform deliver educational material professional corporates Docebo let customer work course material online track progress website Docebo API let developer integrate service application With API integrate user application able use service offer Docebo directly"
+    },
+    {
+        "progweb_cat": "Education,Cloud",
+        "api_name": "figshare",
+        "id": 10424,
+        "progweb_descr": " Figshare allow researcher publish research online easily citable sharable discoverable manner All file format publish include videos datasets Creative common license permit research easily share still allow researcher maintain ownership finding Figshare give user unlimited public space 1GB private storage space free figshare API enable program make use figshareâ€™s functionality content This API employ REST call access use anyone"
+    },
+    {
+        "progweb_cat": "Education,Cloud",
+        "api_name": "WiseNET",
+        "id": 11762,
+        "progweb_descr": " WiseNET information management solution provider register training organization base Australia New Zealand They help vocational training institution grow business information technology support educational program customerstudent relation They offer range product include cloudbased financial workflow streamline customer satisfaction survey professional consultation WiseNETâ€™s API RESTbased expose data post retrieval functionality It return XML JSONformatted data"
+    },
+    {
+        "progweb_cat": "Education,Cloud",
+        "api_name": "SCORM Cloud",
+        "id": 15102,
+        "progweb_descr": " Shareable Content Object Reference ModelSCORM define specific way construct Learning Management Systems train content work well SCORM conformant system SCORM Cloud take advantage cloud let deliver course wherever need Your course sit cloud wait SCORM Cloud call And theyre cloud rather stuck LMS SCORM Cloud call service want deliver training"
+    },
+    {
+        "progweb_cat": "Education,Enterprise",
+        "api_name": "iLMS",
+        "id": 6374,
+        "progweb_descr": " Inspired eLearning online education platform provide professional enterprise educational product iLMS API let developer integrate platform application With API integrate user application able utilize feature inspire eLearning offer API REST format request return JSON format"
+    },
+    {
+        "progweb_cat": "Education,Applications",
+        "api_name": "DreamApply",
+        "id": 6472,
+        "progweb_descr": " DreamApply API allow university exchange student applicant data DreamApply DreamApply online application platform 100 European high education institution This RESTful API require API key HTTPS support"
+    },
+    {
+        "progweb_cat": "Education,Jobs",
+        "api_name": "Portfolium",
+        "id": 6753,
+        "progweb_descr": " Portfolium social network display achievements high school student college student recent grad One mission service end college graduate unemployment connect graduate match company Portfolium REST API allow retrieve portfolio entry connect data write system Such characteristic goal create amaze rich application around Portfolium platform"
+    },
+    {
+        "progweb_cat": "Education,Jobs",
+        "api_name": "MVU CareerForward",
+        "id": 10027,
+        "progweb_descr": " CareerForward selfcontained online course provide student opportunity assess career interest explore career option create educational development plan It design help student learn plan work life career opportunity within global economy A SOAPbased API provide allow user interact CareerForward programmatically"
+    },
+    {
+        "progweb_cat": "Education,Jobs",
+        "api_name": "Inside Higher Ed",
+        "id": 10617,
+        "progweb_descr": " Inside Higher Ed online news opinion job list provider high education Inside Higher Ed Job Posting API allow contract job provider automate post job listing Users may access API either REST call SOAP web service"
+    },
+    {
+        "progweb_cat": "Education,Datacenter",
+        "api_name": "POERUP",
+        "id": 6924,
+        "progweb_descr": " POERUP project make team expert Online Educational Resources OER Massive Open Online Courses MOOC project host database research accumulate global OER MOOC policy initiatives Their database currently include 360 record initiative launch educational organization expect grow exceed 500 Their information upload via CSV tabular format query type country region hashtag Returned institution data JSON format include specific consortium URL summary project initiatives hashtag ID address geocoordinates additional taxonomy Due security restriction API return 10 result time As project still process update expect"
+    },
+    {
+        "progweb_cat": "Education,3D",
+        "api_name": "Versal Gadget",
+        "id": 7084,
+        "progweb_descr": " Versal open publishing platform design transform online learn passive presentation interactive online educational experience without require cod experience Using Versal platform teacher subject matter expert share knowledge use creation canvas gadget architecture open APIs flexible embedding option Versal provide simple iframepostMessagebased API building interactive learning application call gadget Developers use HTML5JSCSS create gadget host platform configure teacher learner interact set service include persistence asset uploadingtranscoding assessment"
+    },
+    {
+        "progweb_cat": "Education,Project Management",
+        "api_name": "DIY",
+        "id": 7212,
+        "progweb_descr": " DIY social network DIY project aim child student DIYs API focus manage application content allow user create update add delete search project people category user"
+    },
+    {
+        "progweb_cat": "Education,Project Management",
+        "api_name": "IMS Enterprise Services",
+        "id": 13919,
+        "progweb_descr": " IMS nonprofit consortium whose contribute member lead institution supplier government worldwide collaborate Interoperability Adoption Learning Impact IMS Global Learning Consortium develop standard enable development adoption technology improve transform education API offer functionality follow area person management group management membership management It use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Education,Math",
+        "api_name": "Equa Images",
+        "id": 7441,
+        "progweb_descr": " Provided Tools Webtop Equa Images allow user submit mathematical equation formula express common operation Equa Images API return formula express image PNG format"
+    },
+    {
+        "progweb_cat": "Education,Math",
+        "api_name": "Wiris Quizzes",
+        "id": 11999,
+        "progweb_descr": " service add function generate present questionnaire mathematical notation within learn management system LMS It allow creation quiz question random variable automatic evaluation answer It provide 2D 3D graphical representation mathematical relationship A formula editor allow creation question submission answer API method support submission question composition quiz compose previously define question Methods also support automate assessment student answer base configuration define question create"
+    },
+    {
+        "progweb_cat": "Education,Business",
+        "api_name": "DigitalChalk",
+        "id": 7519,
+        "progweb_descr": " DigitalChalk Learning Management System LMS allow user create sell SCORMcompliant course online Users customize appearance course company logo color They also customize notification email certificate completion term service DigitalChalks REST API allow user access manage data programmatically"
+    },
+    {
+        "progweb_cat": "Education,Business",
+        "api_name": "Litmos",
+        "id": 14669,
+        "progweb_descr": " Litmos easytouse SCORMcertified learn management system Litmos API Magnum enable developer connect application Litmos train engine This allow great integration training data generate Litmos system currently use within organization"
+    },
+    {
+        "progweb_cat": "Education,Application Development",
+        "api_name": "Udemy",
+        "id": 7559,
+        "progweb_descr": " Udemy online learn platform Students access 16000 course include program language music finance yoga photography etc Experts also create course teach Udemy API allow developer build application integration Udemy use Udemy functionality It REST API predictable resourceoriented URLs use HTTP response cod show error"
+    },
+    {
+        "progweb_cat": "Education,Application Development",
+        "api_name": "CS50",
+        "id": 10430,
+        "progweb_descr": " CS50 introductory program course offer Harvard University Instructor David Malan make avaialable set APIs use class These APIs include follow HarvardEnergy utility information campus building HarvardCourses course information HarvardEvents campus related event information HarvardFood menu nutritional fact portion recipe HarvardMaps campus map information HarvardNews news item HarvardTweets student tweet information Shuttleboy campus shuttle information API use RESTful call response format XML JSON JSONP CSV PHP"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "Museet for Sofart",
+        "id": 7644,
+        "progweb_descr": " Museet Sofart Maritime Museum Denmark tell story Denmarks maritime ship history Museet Sofart API enable programmatic search museum database Exposed resource include museum collection item library image databases object description digital exhibit API return JSON format metadata describe object database"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "Fitzwilliam Museum",
+        "id": 7668,
+        "progweb_descr": " Fitzwilliam Museum principle museum University Cambridge museum expose object record online catalog RESTful API API able query record deliver comprehensive metadata describe museum object"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "Western Australian Museum",
+        "id": 13441,
+        "progweb_descr": " Western Australian Museum comprise six public site housing 45 million historical object Museum also manage 200 shipwreck site Western Australian coast Western Australian Museum API allow user retrieve information relate artifact shipwreck own museum This RESTbased API return data XML JSON format free use signup requirement"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "Rijksmuseum",
+        "id": 13598,
+        "progweb_descr": " service give access metadata digital image relate 100000 artwork collection Rijksmuseum Amsterdam Netherlands museum chronicle Dutch heritage artwork artifacts span countrys history antiquity late 19th century service include recent work due copyright consideration Data provide Dutchlanguage documentation large range painting print ceramic household item Methods expose descriptive data artwork accord standard Dublin Core structure title creator creation date description language type eg paint print sculpture format medium paper oil paint canvas bronze usage right Methods also return image three size 100x100px 250x250px 2500x2500px Note API documentation also Dutch language"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "Raphael Research Resource",
+        "id": 13599,
+        "progweb_descr": " service expose link data UK National Gallerys collection work 16thcentury painter Raphael It provide access image descriptive text metadata Information represent period 500 year document history provenance artwork describe background technique material use Applications access select data via SPARQL query retrieve complete ontology Provided data RDF format"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "LAARC Catalogue Search",
+        "id": 13716,
+        "progweb_descr": " London Archaeological Archive Research Center LAARC service Museum London LAARC lead repository archive relate archaeological work undertaken Greater London area LAARC provide online catalog hold summary information archaeological sit project LAARC offer API query online catalog API RESTful return response XML"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "Powerhouse Museum Collection",
+        "id": 13718,
+        "progweb_descr": " Powerhouse Museum part Museum Applied Arts Sciences Sydney New South Wales Australia It hold diverse collection include history science technology design industry decorative art music transport space exploration Museum offer number online collection well OPAC An API make collection datasets available developer API use RESTful protocol return response XML JSON JSONP YAML XML catalog also query use YQL"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "The Oxford Celtic Coin Index",
+        "id": 13753,
+        "progweb_descr": " Celtic Coin Index online incarnation Celtic Coin collection Institute Archaeology Oxford University collection begin 1960 contains photographs information coin hold Britains museum Coins still find added collection API RESTful return response JSON XML geoRSS KML RSS CSV"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "Museum Victoria",
+        "id": 13755,
+        "progweb_descr": " Museum Victoria science culture museum state Victoria Australia Museum Victoria operate Melbourne Museum Scienceworks science museum Melbourne Planetarium Royal Exhibition Building Museum Victoria provide History Technology Collections Online An API available access collection It RESTful API return response JSON XML"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "British Museum",
+        "id": 13888,
+        "progweb_descr": " Linked Data SPARQL query service provide access collection data available British Museumâ€™s web interface Collection Online computer readable format RDF open data standard allow use collection data within link data application interested promote accessibility collaboration Also provide JSON output metadata object British Museum collection"
+    },
+    {
+        "progweb_cat": "Education,Museums",
+        "api_name": "Open Context",
+        "id": 15044,
+        "progweb_descr": " Open Context free open access resource electronic publication primary field research archaeology museum collection field science datasets Open Context provide simple RESTful web service get content express XHTML human use browser support Atom Syndication Format plus GeoRSS extension JSON Javascript Object Notation KML format use GoogleEarth Atombased web service provide set query option request item collection"
+    },
+    {
+        "progweb_cat": "Education,History",
+        "api_name": "Connected Histories",
+        "id": 7646,
+        "progweb_descr": " Connected Histories collection digital source relate early modern nineteenth century Britain accessible single federate search Connected Histories API provide programmatic access search engine allow developer search collection name place date"
+    },
+    {
+        "progweb_cat": "Education,History",
+        "api_name": "Texas History",
+        "id": 11276,
+        "progweb_descr": " Portal To Texas History provide University North Texas online database historical document item collection comprise 28 million file 215290 unique item Ferris Wheel API allow user connect Texas history portal use REST protocol service allow user harvest metadata open archive Users make call get information repository list metadata list set retrieve identify list complete many function"
+    },
+    {
+        "progweb_cat": "Education,History",
+        "api_name": "Open Domesday",
+        "id": 13162,
+        "progweb_descr": " Domesday Book Englands early survive public record record survey land hold William Conqueror people Open Domesday API support geographical query place nearby place manor API use RESTful call response format XML JSON YAML Pickle Django"
+    },
+    {
+        "progweb_cat": "Education,History",
+        "api_name": "Black Country History",
+        "id": 13601,
+        "progweb_descr": " service provide information museum holding archive image historic artifact related Black Country This region central England west Birmingham prominent UK history coal mining metalworking industry Search target museum holding alone local document archive broad collection artifact record Partners resource include organization town Dudley Sandwell Walsall Wolverhampton API method support submission query Open Search application use Lucene filter desire metadata field Dublin Core structure title creator description creation date subject etc Methods also allow format result return include sort format grouping etc"
+    },
+    {
+        "progweb_cat": "Education,Rewards",
+        "api_name": "Vivo",
+        "id": 8124,
+        "progweb_descr": " Vivo school reward system educator set goal student earn point Vivos achieve goal Students turn Vivos various reward Vivo API allow developer access information store within Vivo system Exposed resource include user data transaction award information reward management search functionality"
+    },
+    {
+        "progweb_cat": "Education,Food",
+        "api_name": "Rutgers",
+        "id": 8209,
+        "progweb_descr": " Rutgers State University New Jersey provide collection APIs may useful student others live work campus Rutgers APIs use retrieve information university event din location sport game score campus building facility hour operation class schedule These APIs retrieve data variety format use endpoint Information use Nextbus API Rutgers area also provide although one Universitys APIs"
+    },
+    {
+        "progweb_cat": "Education,Backend",
+        "api_name": "Teech.io",
+        "id": 8267,
+        "progweb_descr": " Teechio flexible backendasaservice BaaS allow developer store data web mobilebased education application cloud It also help app owner manage users material grade push notification provide analytics feature help track student learn Developers integrate Teechio system application use SDKs REST API"
+    },
+    {
+        "progweb_cat": "Education,Forms",
+        "api_name": "Open Assessments",
+        "id": 8324,
+        "progweb_descr": " Open Assessments service create share question order ass people knowledge Questions create Open Assessments embed page website Users create retrieve assessment programmatically via REST API This service build Open Tapestry funding MIT"
+    },
+    {
+        "progweb_cat": "Education,Publishing",
+        "api_name": "Pearson FT Education",
+        "id": 8371,
+        "progweb_descr": " As publishing company behind Penguin Books Financial Times multiple education business Pearson one worldâ€™s large learn company Pearson provide developer access information catalog series APIs Pearson FT Education API allow developer educational application publish Financial Times article royaltyfree Articles textonly become available 30 day publication A license entitle developer republish 1000 article"
+    },
+    {
+        "progweb_cat": "Education,Publishing",
+        "api_name": "HighWire Press",
+        "id": 10747,
+        "progweb_descr": " HighWire Press lead ePublishing platform partner independent scholarly publisher society association university press facilitate digital dissemination journal reference work book proceeding HighWire Press provide access COUNTER report publication SOAPbased API COUNTER Counting Online Usage NeTworked Electronic Resources international set standard protocols govern record exchange online usage data"
+    },
+    {
+        "progweb_cat": "Education,Events",
+        "api_name": "The Blue Alliance",
+        "id": 8539,
+        "progweb_descr": " FIRST Inspiration Recognition Science Technology host Robotics Competition open high school student around world Blue Alliance website provide archive FIRST Robotics Competition match This include team information event result videos Blue Alliance API provide user data find website"
+    },
+    {
+        "progweb_cat": "Education,Sustainability",
+        "api_name": "AASHE STARS",
+        "id": 8572,
+        "progweb_descr": " STARS program AASHE Association Advancement Sustainability Higher Education STARS Sustainability Tracking Assessment Rating System selfreporting framework college university United States Canada measure track sustainability performance STARS API expose three resource Institutional metadata report STARS technical manual This REST API currently accept GET request"
+    },
+    {
+        "progweb_cat": "Education,Collecting",
+        "api_name": "Deutsche Digitale Bibliothek",
+        "id": 8699,
+        "progweb_descr": " German Digital Library Deutsche Digitale Bibliothek german central web portal digital cultural heritage Germany It hold metadata preview link digitize borndigital cultural object Deutsche Digitale Bibliothek API use REST call return JSON API allow user query information sector item include aip binary child edm indexingprofile parent source view well advanced search An API Key require service"
+    },
+    {
+        "progweb_cat": "Education,Collecting",
+        "api_name": "Royal Albert Memorial Museum",
+        "id": 9069,
+        "progweb_descr": " Located Devon England Royal Albert Memorial Museum Art Gallery RAMM house one million individual object specimens around world area zoology anthropology fine art geology archaeology RAMM offer RESTful API allow use data image application Basic API usage include get list available site retrieve list available category specific site retrieve paged list object specify category site keyword API return data JSON XML format"
+    },
+    {
+        "progweb_cat": "Education,Collecting",
+        "api_name": "National Maritime Museum",
+        "id": 13717,
+        "progweb_descr": " National Maritime Museum NMM Greenwich England lead maritime museum world collection 2 million item related seafaring navigation astronomy NMM provide online collection catalogue record image Access online catalog also available API API use SOLR query"
+    },
+    {
+        "progweb_cat": "Education,Merchants",
+        "api_name": "Mobipaycash",
+        "id": 8712,
+        "progweb_descr": " Mobipaycash ecommerce integration company serve business business client well business customer client site offer airline book hotel booking bus book fund transfer ecommerce integration bill payment service Mobipaycash offer APIs utilize travel recharge finance ecommerce educational service An account required service"
+    },
+    {
+        "progweb_cat": "Education,Testing",
+        "api_name": "Learnosity",
+        "id": 8837,
+        "progweb_descr": " Learnosity cloudbased learn assessment toolkit It enable user create test administer analyze result So far Learnosity provide 23 different kind question service function device OS locate anywhere world Learnositys APIs allow user author assess report test API user also embed test editor question report website application Additional feature work"
+    },
+    {
+        "progweb_cat": "Education,Testing",
+        "api_name": "BYU Entrance Exams",
+        "id": 10186,
+        "progweb_descr": " service provide access score placement exams report Brigham Young University behalf student apply admission course credit award basis score Exam score cover test program Advance Placement AP College Level Entrance Placement CLEP others Data retain within universitys student information application substantial confidentiality requirement mandate US Family Educational Rights Privacy Act FERPA API method support retrieval placement exam score student base request identify correct student ID value Separate method cover entrance exam score credit award basis score"
+    },
+    {
+        "progweb_cat": "Education,Testing",
+        "api_name": "BrainMeasures",
+        "id": 11021,
+        "progweb_descr": " BrainMeasures test certification service help employer screen hire best candidate user take developer certification professional credential BrainMeasures API allow integration test screen service thirdparty application BrainMeasures offer technician additional cost aid integration upkeep API An account required service"
+    },
+    {
+        "progweb_cat": "Education,Testing",
+        "api_name": "Boom test uitgevers",
+        "id": 11215,
+        "progweb_descr": " service provide standardized management Dutch School Proficiency Tests SVT It cover test mathematics arithmetic well read technical proficiency comprehension read material service available school educational institution Netherlands API method support management institution account information listing available testing product completion purchase license test institution student"
+    },
+    {
+        "progweb_cat": "Education,Testing",
+        "api_name": "It's Learning",
+        "id": 14872,
+        "progweb_descr": " service enhance provider online learn train platform allow creation content combine text image audio video It also allow creation test quiz include multiple question type specify answer API method support management navigation within platform resource track learner user account full contact information history interaction service Methods support creation arrangement learn object instructional text medium element along assessment learner progress API generate notification comment learner application manager well report learner progress system activity"
+    },
+    {
+        "progweb_cat": "Education,Social",
+        "api_name": "Stanford University Workgroup",
+        "id": 9292,
+        "progweb_descr": " Stanford Universityâ€™s Middleware Integration Services MaIS provide integration service technology campus community facilitate management enterprise data people organization course workgroups authority Workgroups Stanford exist way identify group people name tool use application service Stanford University Workgroup API provide RESTful access Workgroup manager Via HTTP GETPOST call user create edit delete workgroups add delete member administrator Responses XML format"
+    },
+    {
+        "progweb_cat": "Education,Social",
+        "api_name": "StudiHelp",
+        "id": 9366,
+        "progweb_descr": " StudiHelp German website student meet collaborate online Students search study buddy expert specific subject well chat discuss common interest Users also get news relevant university city site StudiHelp host SOAP API allow user search website give term user StudiHelp website provide solely German"
+    },
+    {
+        "progweb_cat": "Education,Social",
+        "api_name": "SpanDex",
+        "id": 9995,
+        "progweb_descr": " SpanDex collaborative academic platform intend ease research collaboration professor project work SpanDex API allow user open entire ZIP Tarball file SpanDeX open text snippet small incomplete entire document via URL parameter open text snippet small incomplete entire document POSTed via web form service use REST call"
+    },
+    {
+        "progweb_cat": "Education,Social",
+        "api_name": "Edmodo",
+        "id": 11528,
+        "progweb_descr": " Edmodo act social network educator student provide secure environment connect collaborate access homework grade share content engage class discussion Edmodo Platform provide independent developer digital publisher access siteâ€™s suite feature goal develop evolve catalog apps enable deep broad functionality within Edmodo platform"
+    },
+    {
+        "progweb_cat": "Education,Engagement",
+        "api_name": "OrgSync",
+        "id": 9670,
+        "progweb_descr": " OrgSync provide online campus engagement platform education community connect student organization department program goal improve communication information share collaboration report OrgSync API provide developer interface customer create campus specific process leverage OrgSync data service All API access HTTPS Responses JSON format"
+    },
+    {
+        "progweb_cat": "Education,Localization",
+        "api_name": "Code.org Local School Database",
+        "id": 9742,
+        "progweb_descr": " Codeorg nonprofit foundation dedicate spread computer program education On website provide Local School Search allow user locate school near give location offer programming course database power service accessible programmatically via JSON third party integrate application Public contact information list private contact information"
+    },
+    {
+        "progweb_cat": "Education,Writing",
+        "api_name": "Plagtracker",
+        "id": 9764,
+        "progweb_descr": " Plagtracker free service determine whether give text original plagiarize Users upload paper site Plagtracker scan plagiarism return report finding Plagtrackerâ€™s API enable webmaster developer analyze texts URLs originality see whether theyve duplicate elsewhere online"
+    },
+    {
+        "progweb_cat": "Education,Database",
+        "api_name": "Harvard Dash",
+        "id": 9807,
+        "progweb_descr": " DASH Harvard Universityâ€™s digital repository scholarly article dissertation thesis literature generate Harvard educational community Bibliographic data DASH available us Harvard DASH API provide bibliographic data repository via two standard opensearch OAIPMH OpenSearch RESTful interface return query result RSS ATOM feed OAIPMH standard applicationindependent framework base metadata harvest It return XML format data"
+    },
+    {
+        "progweb_cat": "Education,Database",
+        "api_name": "IDS Knowledge Services",
+        "id": 10423,
+        "progweb_descr": " IDS Knowledge Services provide access ten thousand research document regard poverty reduction develop world All document freely available online IDS provide bibliographic information research include title author name date publish publish organization Abstracts specifically write document help user decide whether download full text IDS Knowledge Services provide RESTful API make datasets programmatically accessible organization individual"
+    },
+    {
+        "progweb_cat": "Education,News Services",
+        "api_name": "Johns Hopkins University Hub",
+        "id": 9814,
+        "progweb_descr": " Johns Hopkins University Hub serve news center universitys diverse decentralize research activity This include everything cancer study mechanical engineering project Developers wish access Hub content programmatically use RESTful API call issue XML JSON JSONP"
+    },
+    {
+        "progweb_cat": "Education,Semantics",
+        "api_name": "Sketch Engine",
+        "id": 10087,
+        "progweb_descr": " Sketch Engine SkE Corpus Query System let users access information 30 million 10 billion word 42 language come Information provide form word sketch onepage automatic corpusderived summary word grammatical collocational behavior Collocation describe behavior word term occur together often mere chance would dictate Users also employ SkEs WebBootCaT service build instant corpus specialist terminology language These corpus upload SkE exploration SkEs information access directly though web browser programmatically use REST call"
+    },
+    {
+        "progweb_cat": "Education,Semantics",
+        "api_name": "Achievement Standards Network",
+        "id": 11391,
+        "progweb_descr": " service provide listings educational standard topic instructional level school agency jurisdiction setting standard Hierarchically organize listing define specific learn outcome statement expect learner vary level education Consistent formatting allow interconnection educational standard different jurisdiction provider allow consistent description achievement level across instructional setting API method support request specify topic educational level Methods return XML metadata describe matching standard log system include standard identifier name text statement source jurisdiction Returned data filter match particular need"
+    },
+    {
+        "progweb_cat": "Education,Semantics",
+        "api_name": "LX-Center",
+        "id": 12153,
+        "progweb_descr": " Natural Language Speech Group University Lisbons Department Informatics provide several online linguistics tool process text Sentence Chunker tool mark sentence paragraph boundary unwraps sentence split line Tokenizer segment text lexically relevant tokens Some provided tool design specifically use Portuguese language These tool include PartofSpeech POS Tagger Constituency Parser Computational Grammar language process These service access via LXCenter SOAP API"
+    },
+    {
+        "progweb_cat": "Education,Sales",
+        "api_name": "in2Era",
+        "id": 10182,
+        "progweb_descr": " service provide embedded link purchase book educational material intend child kindergarten primary grade Educational content activity also provide integrated website register distributor reach child parent API method provide access information product catalog support display item listing provide content purchase via integration Information update product add provider recommend cache product record locally improve performance"
+    },
+    {
+        "progweb_cat": "Education,eBooks",
+        "api_name": "iLanguageArts",
+        "id": 10191,
+        "progweb_descr": " iLanguageArts online education system provide Perfection Learning It allow teacher student access manage Language Artsrelated digital book resource time anywhere internet connection Digital book personalize use highlight note bookmark iLanguageArts provide SOAPbased API enable user retrieve ebooks programmatically"
+    },
+    {
+        "progweb_cat": "Education,Medical",
+        "api_name": "CPE Monitor Service",
+        "id": 10195,
+        "progweb_descr": " CPE Monitor allow continue education provider submit attendee list CPE continue pharmacy education activity Accreditation Council Pharmacy Education ACPE National Association Boards Pharmacy NABP develop CPE Monitor order authenticate store data complete CPE unit receive pharmacist pharmacy technician service expect save time expense streamline process verify licensee registrant meet CPE requirement provide centralized repository pharmacistsâ€™ pharmacy techniciansâ€™ continue education detail CPE Monitor Service API permit direct programmatic interaction CPE Monitor With user add edit remove CPE information programmatically via SOAP call"
+    },
+    {
+        "progweb_cat": "Education,Podcasts",
+        "api_name": "podcast.de",
+        "id": 10234,
+        "progweb_descr": " podcastde German podcast site caters teach user everything podcast podcastde API give developer access 100000 podcasts information surround This include functionality access podcast bookmark favorite playlist specific property etc API RESTful response format JSON A maximum 200 response return call ensure platform stability"
+    },
+    {
+        "progweb_cat": "Education,European",
+        "api_name": "eduroam URN",
+        "id": 10344,
+        "progweb_descr": " service provide registry permanently valid resource identifier entity within GÃ‰ANT infrastructure serve European educational institution affiliate people register resource Uniform Resource Name URN log format resemble http web address Each URN associate http URL resource currently access If resource must move new URL registry listing may update allow persistent identifier redirect update location access resource API method support submission request contain URN special character escape format API return current URL associate identifier Methods also support list currently register URNs associate URLs"
+    },
+    {
+        "progweb_cat": "Education,Australian",
+        "api_name": "Victorian Student Number",
+        "id": 10345,
+        "progweb_descr": " service provide registry school student within Australian state Victoria Listings allow retrieval student data well update record activity event related student school career Its main purpose handle batch update uploading file summarize information group student new enrollment disenrollment program completion course registration activity participation API method support send retrieve batch file contain record update group student Methods also support retrieval batch file reconciliation process issue confirmation complete update"
+    },
+    {
+        "progweb_cat": "Education,Storage",
+        "api_name": "WESP",
+        "id": 10367,
+        "progweb_descr": " WESP Web Email Storage Project use host homepage mail file WESP create University Twentes student association service base central database PostgreSQL hold user information WESP XMLRPC API enable people retrieve information WESPs user user group via programmatic mean"
+    },
+    {
+        "progweb_cat": "Education,German",
+        "api_name": "MELT",
+        "id": 10532,
+        "progweb_descr": " MELT Metadata Ecology Learning Teaching project design provide people use educational content access useful type metadata goal help find resource fit need term language culture prefer teach style MELT provide German FWU Institut fuer Film und Bild FWU contribute 700 learning object 1500 asset MELT repository These resource access MELT website use SOAPbased API MELT website provide English German"
+    },
+    {
+        "progweb_cat": "Education,German",
+        "api_name": "Museumsvokabular",
+        "id": 13123,
+        "progweb_descr": " Inventorying catalog immense variety object find museum require extensive specialized vocabulary However information vocabulary often widely disperse museumsvokabular API allow user retrieve vocabulary necessary fundamental museum work website documentation API available German An English language option available applies certain part site doesnt cover documentation"
+    },
+    {
+        "progweb_cat": "Education,Standards",
+        "api_name": "Academic Benchmarks",
+        "id": 11076,
+        "progweb_descr": " Academic Benchmarks AB provide education company underlie data utility standardize management use education standard AB Standards Registry host 26 million state national district international standard configurable digital format AB API enable user browse search standard document conduct alignment leverage ABâ€™s suggestion engine fuel alignment across authority access alignment data support website search report These service use REST one case XMLRPC call issue either XML JSON format"
+    },
+    {
+        "progweb_cat": "Education,International",
+        "api_name": "Afla.MD",
+        "id": 11101,
+        "progweb_descr": " service provide current report school educational institution former Soviet republic Moldova It expose list detail Moldovan educational institution accessible name geographic region provide performance score base data provide institution service intend encourage review awareness scrutiny activity school within country API method support listing school institution educational level geographic location institution method support access detail infrastructure language student population finance API also provide score area study gender"
+    },
+    {
+        "progweb_cat": "Education,Customization",
+        "api_name": "CCKF RealizeIt",
+        "id": 11268,
+        "progweb_descr": " CCKF developer RealizeIt adaptive learning system teachers student parent system design adapt learner learn learner service enhance personalize learn RealizeIt meant use publisher seek futureproof enhance transform learning platform well learner look learn path adapt need system expose functionality via API allow developer integrate online offering Public documentation available"
+    },
+    {
+        "progweb_cat": "Education,Customization",
+        "api_name": "ATutor Transformable",
+        "id": 11436,
+        "progweb_descr": " ATutor Webbased Learning Content Management System software give user access variety feature include student profile collaborative group file storage message content tracker social networking Transformable learn object repository support complete customization learn content create interoperable accessible adaptive learning content API allow user search repository keywords API also use lookup URLs view download import export course It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Education,Media",
+        "api_name": "SWITCHcast",
+        "id": 11353,
+        "progweb_descr": " service provide video management record lecture part course university Switzerland Instructors use system create videorecordings lecturer class presentation available student class service allow group video content clip channel control access viewer API method support separate producer spectator function Spectators readonly access view video content make available Producer function give write access add new content capture use downloaded client manage update delete exist content Producer method allow designation channel contain specified video clip allow spectator method list viewer access"
+    },
+    {
+        "progweb_cat": "Education,Media",
+        "api_name": "Triumph",
+        "id": 13085,
+        "progweb_descr": " Triumph API allow user retrieve lesson test unspecified subject It also provide calendarplanner function method access medium resource It capacity keep track multiple user information Triumph API operate via SOAP use XML data format"
+    },
+    {
+        "progweb_cat": "Education,Marketplace",
+        "api_name": "WyzAnt ShareASale Affiliate Program",
+        "id": 11357,
+        "progweb_descr": " WyzAnt online tutor marketplace connect student independent tutor WyzAnt affiliate program partner compensate drive customer traffic WyzAnt Wyzant ShareASale Affiliate Program API allow partner perform realtime search WyzAnt tutor database"
+    },
+    {
+        "progweb_cat": "Education,Notes",
+        "api_name": "Campus Notes",
+        "id": 11373,
+        "progweb_descr": " Campus Notes dedicate class note assignment file manager online application accessible anywhere Campus Notes API allow developer integrate Campus Notes functionality include record share access download data"
+    },
+    {
+        "progweb_cat": "Education,Video",
+        "api_name": "Khan Academy",
+        "id": 11799,
+        "progweb_descr": " Khan Academy nonprofit educational organization provide free online education anyone anywhere site contains 3200 online video cover subject finance physic math art API give developer access nearly data stored site categorize Playlists Within playlist user discover video use playlist get information exercise API also return information badge award via exercise dashboard API method split topic videos exercise badge user data API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Education,Language",
+        "api_name": "LingQ",
+        "id": 11956,
+        "progweb_descr": " LingQ provide language learner portal access various form content assistance offering include personal tutor live conversation make friend community learn new vocabulary writing correct ability download lesson content offsite usage API utilizes language platform neutral RESTful protocol It allow simple programmatic access HTTP access specific feature LingQ All method return JSON result default output format available"
+    },
+    {
+        "progweb_cat": "Education,Language",
+        "api_name": "CloudBank",
+        "id": 12035,
+        "progweb_descr": " CloudBank crowdsourced information system advance language learn It allow user collect annotate tag interesting language culturerelated content save CloudBank repository From content syndicate variety way repository also offer web interface add edit discuss content online community CloudBank API allow user access CloudBanks function store data programmatically via REST call"
+    },
+    {
+        "progweb_cat": "Education,Content",
+        "api_name": "ATutor AContent",
+        "id": 12353,
+        "progweb_descr": " ATutor Webbased Learning Content Management System software give user access variety feature include student profile collaborative group file storage message content tracker social networking AContent learning content author system respository use create Webbased learn content It use along learning management system develop share archive learning material API allow developer access AContent third party application API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Education,Canadian",
+        "api_name": "EASI",
+        "id": 12740,
+        "progweb_descr": " EASI Enterprise Applications Solutions Integration API develop method University Toronto staff member could access ROSI Repository Student Information programmatically ROSI institutional system support operation plan management student academic record account award It definitive source institutional data applicant student alumni respect work degree diploma certificate program University Toronto"
+    },
+    {
+        "progweb_cat": "Education,Energy",
+        "api_name": "Webservice-Energy",
+        "id": 12989,
+        "progweb_descr": " service develop EUfunded MESoR project provide data application encourage use management renewable energy resource It provide information application solar wind energy along forecast effectiveness system life cycle Its goal link user information encourage share interaction around energy conservation API method support estimation location solar irradience shadow effect several different source Methods also forecast availability hydro power resource weather event likely effect renewable energy use"
+    },
+    {
+        "progweb_cat": "Education,Energy",
+        "api_name": "National Renewable Energy Lab",
+        "id": 12990,
+        "progweb_descr": " service provide access authoritative information use alternative energy technology US National Renewable Energy Laboratory NREL It provide energy usage rate data enable development renewable energy installation use alternative fuel Resources emphasize electricity generation solarpower installation general transportation solution API method support access utility serve specific location electricity rate charge energy generation cost saving photovoltaic PV energy system location alternative fuel station"
+    },
+    {
+        "progweb_cat": "Education,Energy",
+        "api_name": "CenterPoint Energy Usage History Inquiry",
+        "id": 12992,
+        "progweb_descr": " Houston Texas energy utility provide electricity service 2 million customer Its usage history service give automated access customer billing history electricity usage measure interval data recorder IDR It intend encourage involvement thirdparty information provider customer permission access electricity usage information API method support contact validation thirdparty system information access along provider account management Methods also allow retrieval usage history account specify request validate application"
+    },
+    {
+        "progweb_cat": "Education,eCommerce",
+        "api_name": "OpenSesame",
+        "id": 13673,
+        "progweb_descr": " OpenSesame platform buy sell eLearning course OpenSesame user manage eLearning course create edit eLearning course sell eLearning course others well buy eLearning course OpenSesame API allow developer access integrate information functionality OpenSesame application sit Some example API method include search retrieve course catalog information integrate OpenSesame account access metadata course"
+    },
+    {
+        "progweb_cat": "Education,Recommendations",
+        "api_name": "Knewton",
+        "id": 13746,
+        "progweb_descr": " Knewton use data continuously personalize online learning content individual student Knewton analyze data performance student similar student Adaptive Learning Platformâ„¢ platform well relevance educational content order serve best activity student particular moment time Knewton API allow developer access integrate Knewtons functionality application Public documentation available interested developer sign httpwwwknewtoncomsignupplatform access"
+    },
+    {
+        "progweb_cat": "Education,Directories",
+        "api_name": "Muselia",
+        "id": 15428,
+        "progweb_descr": " Muselia API use display information 99 museum area web site information museum use enrich art relate site hotel tourist site Muselia global directory museum Our mission facilitate information need visit museum world Muselia create maintain help many user update complete data museum"
+    },
+    {
+        "progweb_cat": "Education,Mapping",
+        "api_name": "Fizber Schools",
+        "id": 15657,
+        "progweb_descr": " Fizber Schools API let application search school city result show school name address phone number Also include precise location via latitude longitude easy inclusion local school map"
+    }
+]

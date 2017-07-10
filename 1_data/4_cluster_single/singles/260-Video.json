@@ -1,0 +1,1562 @@
+[
+    {
+        "progweb_cat": "Video,Games",
+        "api_name": "IVA's Video",
+        "id": 69,
+        "progweb_descr": " Internet Video Archives API connect huge library video asset massive ever grow metadata collection amass number image Our video asset include movie trailer TV series season episode trailer video game trailer music videos much much Our data collection expand daily API design easily allow aggregate data application web site"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "Dailymotion",
+        "id": 90,
+        "progweb_descr": " Dailymotion one big video platform world offer video storage view capability user We would like make easy developer integrate video creation delivery across many platform desktop mobile console settop box Dailymotion API allow developer access integrate Dailymotions functionality content Some example API method include upload share play content view create edit data video content embed Dailymotion player site"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "Trailer Addict",
+        "id": 899,
+        "progweb_descr": " TrailerAddict offer movie trailer highdefinition Users ability embed trailer HD anywhere TrailerAddict let user find trailer film genre actor actress TrailerAddict API give developer ability embed trailer variable width offset trailer count trailer film API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "Film Crave",
+        "id": 1202,
+        "progweb_descr": " Update Data plan available include movie database release schedule Starting low 99 FilmCrave API allow reach enormous collection movie review movie rating trailer actor director release date movie resource Put content onto site Can use small medium size websites lack initial data need movie review want apart come social network If special request additional data type let u know We customize API Update free API allow Mobile Applications"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "Movieclips.com",
+        "id": 1262,
+        "progweb_descr": " Movieclipscom site collect movie clip make completely searchable actor title genre occasion action mood character theme set prop even dialogue Movieclips API allow approve partner interact movieclipscom search engine clip metadata Some data return include duration movie title dialogue API allow developer integrate movie clip application Full documentation publicly available Developers may submit proposal review grant"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "Entertainment Express Pro",
+        "id": 3309,
+        "progweb_descr": " Entertainment Express Professional provide subscriber access Internet Video Archive IVA trailer direct link various embed option API fully customizable use unlimited Application Profiles Application Profiles let customize content want return API streamline code Entertainment Express Professional offer developer quick access IVA ’ content ecosystem enhance application organize collection high quality trailer earth This version require subscription IVAs service"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "Entertainment Express Standard",
+        "id": 3312,
+        "progweb_descr": " Entertainment Express Standard provide FREE access Internet Video Archive IVA trailer use ad support video player API fully customizable use Application Profiles Application Profiles let customize content want return API streamline code Entertainment Express Standard offer developer quick free access IVA ’ content ecosystem enhance application organize collection high quality trailer earth This API take search term ID ID Type return JSON response basic metadata list match IVA video asset along iframe embed code free trailer player ad support"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "T3Media",
+        "id": 10352,
+        "progweb_descr": " service provide host video content access via search browse function A robust permission model allow access select element within repository proprietary metadata management tool provide automated extraction technical detail format codec aspect ratio etc well human catalog describe video later retrieval API method support ingest video resource definition access permission technical descriptive metadata Methods also support category type videos well individual title Methods also support content preview fulllength view permission allow"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "Magisto",
+        "id": 10401,
+        "progweb_descr": " Magisto video edit application Users make videos upload Magisto edit video variety feature Magisto API allow developer access integrate functionality Magisto application create new application Some example API method include uploading videos video source create manage videos return video start stop video play"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "Smotri",
+        "id": 10811,
+        "progweb_descr": " Smotricom stream video site allow user upload video file Smotricom API provide RESTful interface upload download video search file authenticate user pull list related video access video metadata Results return JSON XML format"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "MovieMeter",
+        "id": 15465,
+        "progweb_descr": " MovieMeter API XMLRPC webservice use retrieve film information Dutch In future API may also support log vote user base method"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "MovieZine.se",
+        "id": 15468,
+        "progweb_descr": " MovieZinese Swedish movie review service This RESTful API allow user query MovieZine database information movie review"
+    },
+    {
+        "progweb_cat": "Video,Movies",
+        "api_name": "Opensubtitles",
+        "id": 15609,
+        "progweb_descr": " Get movie subtitle This database 300000 subtitle It available multiple language many option"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Veoh",
+        "id": 99,
+        "progweb_descr": " Veoh Veohcom VeohTV Veohcom video host aggregate share 700000 uploaders independent producer major network VeohTV app play video download highres video VeohTV TVlike guide search organization feature"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "VHX",
+        "id": 337,
+        "progweb_descr": " VHX service brings online video together around web Users discover share watch videos well create personal dashboard VHX API let user access account via web site application API use read write video account create video playlist embed player site It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Vine oEmbed",
+        "id": 6471,
+        "progweb_descr": " Vine oEmbed API return oEmbed compatible format embed HTML Vine video Vine service mobile device allow user create share short 6 second less loop video When user publishes video Vine appear profile timeline follower Videos also post Twitter Facebook This API use JSON XML response return oEmbed compatible format embed HTML Vine video"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Vimeo Advanced",
+        "id": 8685,
+        "progweb_descr": " Vimeo website allow user view people video upload others see No advertisement add user videos basic account free Vimeo Advanced API provide REST method add retrieve modify delete data Vimeo website Information asset expose API pertain user activity albums category channel contact group forums people videos video comment video embed video uploads Unlike Simple API user Advanced API need register application use OAuth authentication"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Hollybyte",
+        "id": 9273,
+        "progweb_descr": " Hollybyte online video platform offer solution manage distribute monetize digital video across multiple channel device Hollybyte offer multiple video uploading option well intuitive interface sort manage organize video content Hollybyte API allow developer create rich video site application"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Keek",
+        "id": 9501,
+        "progweb_descr": " Keek video share application Keek allow user share discover short video respond comment video via video share videos message privately Keek API allow developer access integrate functionality Keek application Some example API method include retrieve user user information retrieve trend video return video comment"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Flixwagon",
+        "id": 10868,
+        "progweb_descr": " Flixwagon video share social networking platform Flixwagon allow user create videos real time share live Flixwagon API allow developer integrate functionality Flixwagon application websites Public documentation available interested developer contact solutionsflixwagoncom API detail"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Viddy",
+        "id": 11558,
+        "progweb_descr": " Viddy social video share service Its iPhone application let user shoot 15second video clip push social networking site clip enhance filter production package include music tag title local information API allow developer create application could integrate ability share video Viddy It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Bambuser Metadata",
+        "id": 12030,
+        "progweb_descr": " Bambuser video share service It design individual brand stream live video feed social medium site like Facebook Tumblr Bambuser capture save video allow user set profile event It also mobile interface Their Metadata allow developer access part database It RESTful API provide response JSON XML"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Bambuser oEmbed",
+        "id": 12087,
+        "progweb_descr": " Bambuser video share service It design individual brand stream live video feed social medium site like Facebook Tumblr Bambuser capture save video allow user set profile event It also mobile interface oEmbed API allow user embed video stream web site application include mobile API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "MyVidster",
+        "id": 12108,
+        "progweb_descr": " MyVidster social video website It allow user share view collect favorite video Users add videos collection bookmarking MyVidster around Internet Users also capable explore usersâ€™ videos collection Users explore keyword search tag feature collection RESTful API expose functionality post retrieve videos site It return data XML format"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Twitvid",
+        "id": 12142,
+        "progweb_descr": " Twitvid social network let user search watch share videos topic people interest Twitvid API expose site data use devleopers third party site application Functionality separate upload search medium retrieval utility method An API also available realtime stream incoming video relate metadata APIs use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "Socialcam",
+        "id": 13327,
+        "progweb_descr": " Socialcam video share application Socialcam user share videos Socialcam mobile application Users tag video like video export video share videos Socialcam user Socialcam API allow developer access functionality Socialcam create new application Public documentation available interested developer email apisocialcamcom API access"
+    },
+    {
+        "progweb_cat": "Video,Social",
+        "api_name": "shelby.tv",
+        "id": 13534,
+        "progweb_descr": " shelbytv interactive online video player allow user see friend watch interact via shelbytv video player well discover new video content Users also share watch shelbytv API allow developer access integrate shelbytv player functionality application Some example API method include retrieve user information access video content share broadcast viewing channel"
+    },
+    {
+        "progweb_cat": "Video,Search",
+        "api_name": "Revver",
+        "id": 114,
+        "progweb_descr": " Revver online medium syndication network whose mission support independent medium artist create viral video network connect maker sharer sponsor free open marketplace reward When upload video Revver attach ad unique track technology Revverize video Any ad revenue generate video split 5050 creator Revver Revver API allow build video share site It well suit application use heavy javascript AJAX andor Flash appropriate application need update add content Revver function need use XMLRPC security reason Programmatically view Revver library Distribute Revver video push user Revver videos monetize Syndication social aspect available"
+    },
+    {
+        "progweb_cat": "Video,Search",
+        "api_name": "Blinkx",
+        "id": 407,
+        "progweb_descr": " NOTE No public docs register Use blinkx search capability site blinkx repository vast speechtotext visual analysis feature"
+    },
+    {
+        "progweb_cat": "Video,Search",
+        "api_name": "Digitalsmiths",
+        "id": 12268,
+        "progweb_descr": " Digitalsmiths video search recommendation service create leverage data around video content include TV film live event across connect device Digitalsmiths solution help user find relevant personalize entertainment across multiple channel device API allow metadata integration Documentation available"
+    },
+    {
+        "progweb_cat": "Video,Search",
+        "api_name": "Magma",
+        "id": 13204,
+        "progweb_descr": " Magma online repository video content Users search find watch video variety genre various subject Users also discover video content browse top 100 video web current time Magma API allow developer access integrate functionality data Magma application create new application Some example API method include search video retrieve information video retrieve embed link get information video channel"
+    },
+    {
+        "progweb_cat": "Video,Community",
+        "api_name": "Vimeo",
+        "id": 237,
+        "progweb_descr": " Let Vimeo take care video need Their API handle upload transcoding host playback video type Embed video website share large community filmmaker call Vimeo home API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Video,Community",
+        "api_name": "WebPurify Video Moderation",
+        "id": 4473,
+        "progweb_descr": " Video moderation demand Our live moderator available 24x7 365 day year protect user brand We never crowdsource Quickly integrate live moderator application 35¢ per minute video content moderate With reliable result rapid API response time moderate video base standard criterion custom criterion"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "YouTube",
+        "id": 304,
+        "progweb_descr": " Data API allow user integrate program YouTube allow perform many operation available website It provide capability search video retrieve standard feed see related content A program also authenticate user upload video modify user playlist This integration use variety use develop web application allow user upload video YouTube device desktop application bring YouTube experience new platform Data API give user programmatic access video user information store YouTube This use personalize web site application user exist information well perform action like comment rating video This RESTful API provide response XML format"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Ooyala Discovery Profiles",
+        "id": 2541,
+        "progweb_descr": " Ooyala Discovery Profiles API support configuration recommendation setting player Discovery API allow developer consider playerid profileid usually find bottom left Backlot UI ’ player Discovery tab similar identifier API require API Key token authentication It send HTTPformatted request return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Coub",
+        "id": 5052,
+        "progweb_descr": " Coub web API allow send retrieve data Coub server via HTTP request responses Almost Coubs feature available API query manage user channel data upload coub video search video channel much A coub loop video last 10 second"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Flowplayer Drive",
+        "id": 5541,
+        "progweb_descr": " Drive Flowplayer video management API Use Drive integrate video share upload publish encode metric tool app REST API accept call return response JSON authenticate via API Token Drive free account holder videos less 4 minute Flowplayer brand Upgrade extend video limit remove brand See API documentation detail description API endpoint code sample"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Rapt",
+        "id": 6069,
+        "progweb_descr": " Rapt Media platform allow user create build interactive video feature device platform application Rapt Media API allow developer access integrate functionality Rapt Media application device create new application API access available Rapt Media enterprise account"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Ziggeo",
+        "id": 7693,
+        "progweb_descr": " Ziggeo power videos everywhere Weve develop lead asynchronous video recordingplayback technology Our set APIs SDKs let easily capture curate manage usergenerated professional video"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Movideo",
+        "id": 8739,
+        "progweb_descr": " Movideo manage video platform MVP allow user deliver online video anywhere kind device Users share medium content Movideo account external partner retain full control content stream Movideo also capable livestreams event performance occur Media player fully customizable use CSS XML Video file transcoded singly bulk many different format quality level require Movideo provide JavaScript widget insert medium onto website Additionally Movideos function make available developer via REST API"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Tout",
+        "id": 11150,
+        "progweb_descr": " Tout mobile video platform Tout RESTful API use OAuth20 accepts request HTTPS return JSON response Use API record share video real time aggregate video user hashtag hold video conversation asynchronously Register Tout get start API"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Mosami",
+        "id": 11340,
+        "progweb_descr": " Mosami cloudbased service building realtime interactive video experience deliver browser API offer access medium process algorithms face track background extraction composition mix run server Users connect webcams via simple widget embed within site HTML"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Latakoo Flight",
+        "id": 11833,
+        "progweb_descr": " Lakatoo Flight API allow use sendstore share large video file HD SD internet API allow integration Lakatoo Flight user application Using REST protocol return JSON user securely send file use SSL support call public Lakatoo API currently beta documentation available request"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Video Grabber",
+        "id": 12134,
+        "progweb_descr": " service use public URL online video access file contain content make available download save locally It require application installation Rather track file save location generates download copy file user system API method support submission URL several popular online video repository link return allow capture local save source file"
+    },
+    {
+        "progweb_cat": "Video,Media",
+        "api_name": "Twistage",
+        "id": 12247,
+        "progweb_descr": " Twistage host online video platform provide video workflow management organization company also provide whitelabel service business want leverage online video service build API platform allow developer integrate Twistage computer device web service appliance Documentation RESTful API publicly available"
+    },
+    {
+        "progweb_cat": "Video,Audio",
+        "api_name": "Framey",
+        "id": 317,
+        "progweb_descr": " Framey JavaScript application let user record video website With Framey user embed webcam recorder sit Users integrate Framey embed recorder use rubygem provide code snippet accept update Framey server new video ready Responses format JSON"
+    },
+    {
+        "progweb_cat": "Video,Audio",
+        "api_name": "Chrome Sender",
+        "id": 3092,
+        "progweb_descr": " Chrome Sender API support Google integrates broadcast device Resources include configuration receiver sender display status volume game metadata medium pause photo queue"
+    },
+    {
+        "progweb_cat": "Video,Audio",
+        "api_name": "Youtube Viral Videos",
+        "id": 5789,
+        "progweb_descr": " Using Youtube Viral Videos API developer get wealth viral video YouTube With API video filter category Entertainment Music Animals Comedy Sports Film Technology News People Games Autos Travel Education Nonprofits Howtos Shows"
+    },
+    {
+        "progweb_cat": "Video,Audio",
+        "api_name": "VidyoWorks",
+        "id": 6319,
+        "progweb_descr": " Vidyo implement website video audio communication ability VidyoWorks APIs incorporate VidyoConferencing infrastructure via client server easy plugin API capability add videoconferencing desktop web environment VidyoWorks Server API implement HTTP use SOAP protocol API enable complete video call management control feature Server API also allow access custom web portal application integration"
+    },
+    {
+        "progweb_cat": "Video,Audio",
+        "api_name": "Oddcast AV Capture",
+        "id": 7220,
+        "progweb_descr": " Oddcast offer set APIs allow developer add tool enterprise level platform enhance user ’ engagement medium Oddcast AV Capture Module allow user capture audio video event take place webcam screen within Flash application package video easy share MP4 FLV format This Actionscript 30 API allow application customize crop area dimension output type video"
+    },
+    {
+        "progweb_cat": "Video,Audio",
+        "api_name": "CameraTag",
+        "id": 9403,
+        "progweb_descr": " CameraTag service let developer give website ability record video visitor webcams This accomplished use single line JavaScript code embed nonbranded CameraTag recorder Recordings do HD developer choose prefer recording format HTML interface fully customizable CameraTag handle video stream thumbnail generation transcoding developer"
+    },
+    {
+        "progweb_cat": "Video,Audio",
+        "api_name": "True Key Video Hosting",
+        "id": 11934,
+        "progweb_descr": " TrueKey Video Hosting online video publishing solution provider Businesses use service manage stream proprietary video content Users upload video encode number video format share securely account web player TrueKey API expose uploading informational functionality service It RESTful API return XMLencoded data"
+    },
+    {
+        "progweb_cat": "Video,Audio",
+        "api_name": "Atlas",
+        "id": 14911,
+        "progweb_descr": " Atlas global video audio index open source open API gather store metadata provide powerful rich query interface build cool stuff content With large database 15 video audio source US UK online TV Atlas find place play content matter"
+    },
+    {
+        "progweb_cat": "Video,Messaging",
+        "api_name": "Seesmic",
+        "id": 417,
+        "progweb_descr": " Public API beta Use API view user follow view list video get videos timeline"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Ustream.TV",
+        "id": 422,
+        "progweb_descr": " Access UstreamTVs database allow broadcaster endusers share show browse video Programmatically search broadcaster specific name retrieve popular show start stream show"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Viddler",
+        "id": 506,
+        "progweb_descr": " Use Viddler API view update Viddlers data You upload video create Viddler account get public section user profile update user profile data generate token embed recorder get video detail update video detail set permalink video display video upload certain user get video certain tag get currently feature video add comment video delete comment delete video"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Kyte",
+        "id": 740,
+        "progweb_descr": " NOTE No public docs register Programmatically surf channel content kyte repository use API upload show channel Add TV channel app site blog social network mobile device"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Kewego Video",
+        "id": 757,
+        "progweb_descr": " Kewego APIs set web service give developer programmatic access feature video site Video Network Kewego European whitelabel video platform provider operate Video Network 150 video portal Using APIs developer develop personalize implement video solution Internet Intranet Mobile API use RESTful protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Ooyala Video Player",
+        "id": 1177,
+        "progweb_descr": " Ooyala Player API enable full customization Ooyala Player look feel well functionality Embed video site"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Floobs",
+        "id": 1188,
+        "progweb_descr": " API implement live streaming feature With Floobs API 3rd party software developer get information floobs user channel video They also create content app upload videos live streaming"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Brightcove",
+        "id": 1205,
+        "progweb_descr": " Brightcove online digital medium platform use medium company business organization worldwide publish distribute video Web ondemand platform use professional publisher power online video initiative Brightcove Media API allow user interact Brightcove Media Library This API use REST JavaScript protocols Responses format XML JSON"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "vzaar",
+        "id": 1216,
+        "progweb_descr": " vzaar allow business upload video vzaar platform From vzaar stream video business website online market product listing vzaar host video player embed content web vzaar intend ecommerce usage vzaar API expose vzaarï¿½s key feature web application would like build custom solution top vzaar video platform"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "ToWatchList",
+        "id": 7196,
+        "progweb_descr": " ToWatchList help user create unified towatch list webbased videos list include embed video host either YouTube Vimeo regardless website user find video post Users send receive data ToWatchLists server use ToWatchList API"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Panopto Upload",
+        "id": 7260,
+        "progweb_descr": " Panoptos API aim provide way upload video one central library make available within organization across Internet API also allow search capability videos user find content within medium"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Vizrt Escenic Content Engine",
+        "id": 10304,
+        "progweb_descr": " Escenic Content Engine part Vizrt Online Suite provide high performance content management delivery system text image audio file video clip digital asset use modern website It also provide set tool build website powerful frontend user interface Everything store within Escenic Content Engine accessible Java Server Pages tag library JavaScript REST APIs"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Open Spreety",
+        "id": 10843,
+        "progweb_descr": " service provide lookup access extensive database video medium content available vary format different supplier Video resource listing categorize genre content category provider along technical criterion like file format image size quality access location API method support access record specific video unique identifier listing format genre decade recently add new filter criterion Methods also allow search database character string specify request Methods return description match video still image provider access URL"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "OpenHallway",
+        "id": 11040,
+        "progweb_descr": " OpenHallway usability test service create make web usable site allow user create test scenario website send link participant record audio video user test Results available review share OpenHallway API allow user integrate screen record technology third party application Premium Account require API access documentation available request"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Videobl",
+        "id": 12156,
+        "progweb_descr": " Videobl free video capture tool enable anyone request video answer responses comment feedback anyone simply send link videobl use conduct video survey capture customer feedback host contest API let user create retrieve request list reply capture detail reply It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "TED",
+        "id": 12612,
+        "progweb_descr": " TED nonprofit hold set conference devote Ideas Worth Spreading TED open library 1000 TEDTalks user access API API also expose data associate talk include TED Quotes event theme tag It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "RealGravity",
+        "id": 14107,
+        "progweb_descr": " RealGravity online video host platform RealGravity offer user service upload publish video content websites application content license syndication generate revenue ad RealGravity API allow developer access content functionality RealGravity Some example API method include search retrieve video base category provider video library"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "AuraLink",
+        "id": 14309,
+        "progweb_descr": " Auralink offer high definition video conferencing online service Auralinks Integration API allow developer create web base video conferencing tool provide ondemand translation service remote legal deposition tool speaktotheexpert technical support personalize coach instruction schedule ad hoc sale meeting talktothephysician health care kiosks Full documentation API publicly available"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Brightcove Player",
+        "id": 14362,
+        "progweb_descr": " Brightcove online digital medium platform use medium company business organization worldwide publish distribute video Web ondemand platform use professional publisher power online video initiative Brightcove Player API provide ability build user interface allow control functionality player This API use JavaScript ActionScript protocols Responses format XML JSON"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "LongTail Video Bits on the Run",
+        "id": 14366,
+        "progweb_descr": " LongTail Video produce JW Player internet video player Bits Run manage complete video workflow include upload transcoding stream analyze Bits Run Developer API allow developer insert Bits Run functionality website application This include video uploads player embeds thumbnail creation provider offer API kit manage authentication serialization send API call streamline interaction Bits Run API use RESTful call response format XML JSON well serialize PHP Python"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Limelight Networks",
+        "id": 14396,
+        "progweb_descr": " Limelight Networks internet platform service company integrate businesscritical part online content namely digital content online mobile With service customer engage audience digital medium optimize advertising manage digital asset build customer relationship Limelight Networks APIs programmer write client server application interact data contain within Limelight Video Platform account They documentation play manage content analyze data mobile service"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "SyncTV",
+        "id": 14675,
+        "progweb_descr": " SyncTV powerful platform premium video service provider want extend service million connect TVs Bluray player settops smart phone tablet available major manufacturer SyncTV offer turnkey system include world SyncTV enable device powerful SyncTV content management transaction engine new age television network content producer SyncTV provide two APIs RESTful API Javascript API developer use build application use SyncTV service data Developers give developer id unique developer platform develop"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "AnyClip",
+        "id": 14765,
+        "progweb_descr": " AnyClip API enable ability build program use video clip metadata whether theyre web social network desktop mobile device AnyClip API provide range API method start building application top AnyClip platform"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "GarageTV",
+        "id": 14853,
+        "progweb_descr": " GarageTV Dutch site upload share find watch videos kind GarageTV API provide developer opportunity create new interface GarageTV functionality You search rate comment video Also authenticate application upload new video site"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "HighlightCam",
+        "id": 14955,
+        "progweb_descr": " HighlightCam video service let developer submit video summarize quickly automatically shorten desire fraction original video HighlightCam API let user submit videos summarization shorten desire fraction original video HighlightCam algorithm look feature like motion voice face select part likely interest"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Magnify.net",
+        "id": 15716,
+        "progweb_descr": " From site Magnify API free channel functionality layout All content discover review publish Magnify behalf take anywhere You search browse display video playlists user comment use site web application You build widget tune exact need You mix match mash use video way weve never imagine And initial release stay tune even power"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Ooyala Interactive Video",
+        "id": 15718,
+        "progweb_descr": " Ooyala Interactive Video API enable Backlot user create clickable object within video stream API beta Backlot video platform analytics content syndication feature monetization capability scalable content delivery"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "Ooyala Analytics",
+        "id": 15719,
+        "progweb_descr": " Ooyala Analytics API allow developer create visualization direct access analytical data Backlot Ooyala Analytics API allow programmatically get data video channel metric example get top 20 video watch site get time day people watch videos site Backlot video platform analytics content syndication feature monetization capability scalable content delivery"
+    },
+    {
+        "progweb_cat": "Video",
+        "api_name": "VMIX Media Platform",
+        "id": 15756,
+        "progweb_descr": " VMIX provide suite RESTful APIs interfacing client video library VMIX lead provider video content management solution Their cloudbased Platform Service design highvolume video producer mind power top online publisher medium entertainment enterprise APIs contain function allow user create modify medium collection encrypt content retrieve medium much Responses format either XML JSON"
+    },
+    {
+        "progweb_cat": "Video,Editing",
+        "api_name": "Impossible Software",
+        "id": 470,
+        "progweb_descr": " Impossible Software video advertising solution provider Their product enable advertiser content producer customize videos demand real time tens thousand time per hour With webbased tool client create video template include motion track format push onto production delivery infrastructure Impossible Software offer three level API realtime render API RESTful medium management API JSONformatted video script language"
+    },
+    {
+        "progweb_cat": "Video,Editing",
+        "api_name": "Touchcast",
+        "id": 9045,
+        "progweb_descr": " Touchcast web video platform Touchcast offer feature user create interactive video web mobile device Touchcast API allow developer access integrate functionality Touchcast application main API method embed Touchcast video application websites allow playback"
+    },
+    {
+        "progweb_cat": "Video,Editing",
+        "api_name": "ReelSurfer",
+        "id": 11107,
+        "progweb_descr": " ReelSurfer service let user clip share video website In order clip video user use bookmarklet go ReelSurfer site enter URL video Clips combine organize reel share friend ReelSurfer API provide programmatic access service functionality Currently user use API create new clip API use XMLRPC call response format XML"
+    },
+    {
+        "progweb_cat": "Video,Editing",
+        "api_name": "Animoto",
+        "id": 15067,
+        "progweb_descr": " Quickstart API enable creation Animoto video project content provided partner website application With Quickstart API partner send user Animoto create new video specify imagesvideo clipsand audio track include new video"
+    },
+    {
+        "progweb_cat": "Video,News Services",
+        "api_name": "New York Times Movie Reviews",
+        "id": 508,
+        "progweb_descr": " New York Times Movie Review API give access movie review New York Times critic API give access 22000 New York Times movie review today back 1924 Using Movie Reviews API review NYT Critics Picks search movie review keyword"
+    },
+    {
+        "progweb_cat": "Video,Photos",
+        "api_name": "Stupeflix",
+        "id": 771,
+        "progweb_descr": " Using Stupeflix API knit together videos photo music text produce video Stupeflix video generation process fully automate generate one video generate thousand amount work Just fill template XML description send medium"
+    },
+    {
+        "progweb_cat": "Video,Photos",
+        "api_name": "Embedly",
+        "id": 1285,
+        "progweb_descr": " Get embed code via API 100 different site Videos image rich content add site use oEmbed standard Embedlys API retrieve embed information"
+    },
+    {
+        "progweb_cat": "Video,Photos",
+        "api_name": "Picovico",
+        "id": 11685,
+        "progweb_descr": " Picovico slideshow creation tool Its platform allow user upload photo set arrange desire order Users spiffy presentation Picovicoâ€™s theme style Furthermore user upload audio add soundtrack slideshow final product URL user share Picovico API expose entire slideshow creation functionalities developer build new application server top It RESTful API return JSONencoded data"
+    },
+    {
+        "progweb_cat": "Video,Photos",
+        "api_name": "SlideBomb",
+        "id": 14684,
+        "progweb_descr": " SlideBombs API let create slideshows show SlideBomb website SlideBomb slideshows contain Youtube video image mashable medium online service beta use JSONRPC process request"
+    },
+    {
+        "progweb_cat": "Video,HTML5",
+        "api_name": "Video.js",
+        "id": 979,
+        "progweb_descr": " Videojs JavaScriptbased HTML5 Video Player It provide common control skin build HTMLCSS support fullscreen subtitle capability Videojs fix crossbrowser inconsistency manage fallback Flash playback technology HTML5 video isnt support JavaScript API use edit control video use Videojs"
+    },
+    {
+        "progweb_cat": "Video,HTML5",
+        "api_name": "Brightcove Smart Player",
+        "id": 3514,
+        "progweb_descr": " Brightcove Smart Player API also JavaScript library aim useful create plugins A main functionality consist interact Video Cloud Player run Flash HTML medium"
+    },
+    {
+        "progweb_cat": "Video,HTML5",
+        "api_name": "Flowplayer",
+        "id": 10450,
+        "progweb_descr": " Flowplayer HTML5 video player web mobile tablet Flowplayer offer feature like various skin CSS customization embed ability website application Flowplayer API allow developer access integrate functionality Flowplayer application create new application Some example API method include load video manage video delete video playing video"
+    },
+    {
+        "progweb_cat": "Video,Entertainment",
+        "api_name": "SubDB",
+        "id": 1006,
+        "progweb_descr": " SubDB free centralize subtitle database intend use opensource noncommercial software Users upload subtitle freely download others With SubRank algorithm database choose best subtitle among available video file make download process easy SubDB API let user download upload subtitle database API use HTTP call response format comma separate value"
+    },
+    {
+        "progweb_cat": "Video,Entertainment",
+        "api_name": "IVA's OData",
+        "id": 3798,
+        "progweb_descr": " Access Internet Video Archive IVA content update Restful API This 20 update small JSON response increase performance It allow connect IVAs library video asset movie trailer TV series music videos game trailer image"
+    },
+    {
+        "progweb_cat": "Video,Entertainment",
+        "api_name": "CoveritLive",
+        "id": 12188,
+        "progweb_descr": " CoveritLive liveblogging platform It allow journalist blogger cover event real time CoveritLive also provide Social TV Chat Events solution These option offer entire interactive experience CoveritLiveâ€™s platform Broadcasters reporting service host second screen commentary entire event platform CoveritLiveâ€™s API expose data retrieval plus event comment post functionality It RESTful API return JSONformatted data"
+    },
+    {
+        "progweb_cat": "Video,Mobile",
+        "api_name": "Vine",
+        "id": 1105,
+        "progweb_descr": " Vine service mobile device allow user create share short 6 second less loop video When user publishes video Vine appear profile timeline follower Videos also post Twitter Facebook Vine API allow user retrieve data service include popular video user data user timeline video match give tag individual post notification"
+    },
+    {
+        "progweb_cat": "Video,Mobile",
+        "api_name": "Applicaster",
+        "id": 10866,
+        "progweb_descr": " Applicaster platform help company create customize deliver mobile broadcast customer user Applicaster offer interactive tool mobile video live content Applicaster API allow developer access integrate functionality Applicaster application create new application Public documentation available interested developer contact supportapplicastercom API information"
+    },
+    {
+        "progweb_cat": "Video,Mobile",
+        "api_name": "Yospace",
+        "id": 13649,
+        "progweb_descr": " Yospace platform service mobile video creation delivery Yospace allow publisher broadcaster host manage video content mobile advertiser integrate video mobile ad mobile application developer create mobile application Yospace API allow developer access integrate functionality Yospace Some example API method include manage queue upload manage medium access account information"
+    },
+    {
+        "progweb_cat": "Video,Mobile",
+        "api_name": "ThirdPresence",
+        "id": 14481,
+        "progweb_descr": " ThirdPresence API use deep integration ThirdPresence mobile video platform whitelabel mobile video publishing service Developers integrate ThirdPresence content management system application API allow application list update add delete video Additionally API provide access categorization system use ThirdPresence"
+    },
+    {
+        "progweb_cat": "Video,Mobile",
+        "api_name": "Qik",
+        "id": 15453,
+        "progweb_descr": " Qik Platform Application Programming Interface enable anyone integrate build web desktop phone application take advantage Qiks mobile video share platform"
+    },
+    {
+        "progweb_cat": "Video,Mobile",
+        "api_name": "Vuclip Video",
+        "id": 15715,
+        "progweb_descr": " Use Vuclip Video API push exist Internet video consumer worldwide Mobile operator distribute custombranded video search delivery service subscriber Others push videos variety mobile device enhance social site Another option provide search video delivery million videos Free sign available paid partner program plan monetize app"
+    },
+    {
+        "progweb_cat": "Video,TV",
+        "api_name": "Justin.tv",
+        "id": 1222,
+        "progweb_descr": " Justintv API include basic building block developer need create application browse channel play live stream allow user broadcast live video interact Justintv social network backend API compose two distinct part Flash component REST API"
+    },
+    {
+        "progweb_cat": "Video,TV",
+        "api_name": "TheTVDB.com",
+        "id": 1249,
+        "progweb_descr": " TheTVDBcom site community drive database television show goal accurate source information TV series many language country Users interact database RESTful interface get result XML format"
+    },
+    {
+        "progweb_cat": "Video,TV",
+        "api_name": "Viki",
+        "id": 10569,
+        "progweb_descr": " Viki global television service include music video show movie translate 150 language Viki API allow user serach site content include Movies series episodes newscast newsclips artist music video feature video come soon others service use REST call return JSON XML JSONP UTC image"
+    },
+    {
+        "progweb_cat": "Video,TV",
+        "api_name": "MyShowroom.TV",
+        "id": 13735,
+        "progweb_descr": " service provide platform create host share video content either live broadcast availability prerecord downloads It accommodate remote feed record event festival show concert sport activity etc Video available different audience application like elearning class security monitoring API method support list current availability live feed prerecord TV show well upcoming schedule show Searchbased access retrieve content match submit query Methods manage user listing individual preferred content within system along social interaction among viewer producer"
+    },
+    {
+        "progweb_cat": "Video,TV",
+        "api_name": "NDS Service Delivery Platform",
+        "id": 13786,
+        "progweb_descr": " NDS Service Delivery Platform SDP use exist settop box headend It offer connectivity TV content apps online information With user deliver contextual relate online content companion device smart TVs SDP contain APIs allow developer write clientside application device iOS Android tablet application set top box SDP give developer access information store within TV platform This information include program event schedule VOD catalog user preference APIs allow user thing like manage recording DVR change channel independent application companion device Documentation available upon registration service currently beta"
+    },
+    {
+        "progweb_cat": "Video,TV",
+        "api_name": "Boxee",
+        "id": 15351,
+        "progweb_descr": " Using Boxee laptop connect HDTV Boxee provide place enjoy movie TV show music photo well stream content service like Netflix MTV Pandora flickr Boxee also support social networking feature allow user share stream Boxeee Boxee API enable developer build application top Boxee platform Example Boxee Applications include Pandora Netflix CNN BBC iPlayer"
+    },
+    {
+        "progweb_cat": "Video,TV",
+        "api_name": "CoolStreaming",
+        "id": 15532,
+        "progweb_descr": " CoolStreaming service allow user select aggregate television show around world CoolStreaming offer open access key part CoolStreaming TVVideo repository user community via open API interface Using API user integrate online TVvideos CoolStreamings repository application API use RESTful protocol allow user integrate TVvideos blog homepage Responses format XML"
+    },
+    {
+        "progweb_cat": "Video,Cloud",
+        "api_name": "Google Cloud Video Intelligence",
+        "id": 1667,
+        "progweb_descr": " Google Cloud Video Intelligence API video analysis tool extract metadata video defines important noun entity Accuracy improve time new concept introduce Also API separate signal noise order obtain relevant information video detect scene change Google Cloud Video Intelligence API currently private beta"
+    },
+    {
+        "progweb_cat": "Video,Cloud",
+        "api_name": "Brightcove Ingest Profiles",
+        "id": 3516,
+        "progweb_descr": " Brightcove Ingest Profiles API enable profile creation retrieval update Video Cloud account Useful transcode video Available token authentication JSON architecture"
+    },
+    {
+        "progweb_cat": "Video,Cloud",
+        "api_name": "TelVue HyperCaster",
+        "id": 3811,
+        "progweb_descr": " HyperCaster API use deliver high quality professional look digital television channel Content management browser base application support categorization search draganddrop schedule TelVue broadcast technology corporation base New Jersey enhance channel programming increase delivery TelVues service include live internet stream video demand"
+    },
+    {
+        "progweb_cat": "Video,Cloud",
+        "api_name": "Coconut",
+        "id": 4267,
+        "progweb_descr": " Coconut API allow developer integrate cloud video encode project application Coconut use encode single video thousand per day There less one second queue time job request encode process begin Coconut support multiscreen transcoding Android iOS browser etc Apple HTTP Live Streaming Users export encode video CDN"
+    },
+    {
+        "progweb_cat": "Video,Cloud",
+        "api_name": "Brightcove Videocloud Media",
+        "id": 4969,
+        "progweb_descr": " Brightcove Videocloud Media API allow interact function video cloud medium REST protocol Developers use API Token access content Guides include topic add transcription remote asset embed video cloud medium create videos remote asset Brightcove platform distribute video web It target enterprise organization worldwide"
+    },
+    {
+        "progweb_cat": "Video,Cloud",
+        "api_name": "Advection.NET",
+        "id": 9813,
+        "progweb_descr": " AdvectionNET global video delivery network come virtual commerce DRM membership payperminute geotargeting service AdvectionNETâ€™s cloudbased network use support exist infrastructure without need add server change exist content network many feature make accessible integration purpose use variety APIs come REST SOAP XMLRPC format"
+    },
+    {
+        "progweb_cat": "Video,Cloud",
+        "api_name": "Lemonwhale",
+        "id": 10922,
+        "progweb_descr": " Lemonwhale cloud video service deliver ondemand live video experience Lemonwhale API divide two part separate endpoint public call use common request public place private call use private place require login"
+    },
+    {
+        "progweb_cat": "Video,Cloud",
+        "api_name": "TelVue CloudCast",
+        "id": 13306,
+        "progweb_descr": " CloudCast stream service available option within TelVue Connect environment Its capability include multiple screen support broadcast TV channel cloud content management TelVue broadcast technology corporation base New Jersey enhance channel programming increase delivery TelVues service include live internet stream video demand"
+    },
+    {
+        "progweb_cat": "Video,Cloud",
+        "api_name": "BetterEncoding",
+        "id": 14121,
+        "progweb_descr": " BetterEncoding demand cloudbased video encode software integrate user system quickly encode video file BetterEncoding API expose functionality software include upload encode monitor encode process download delte list It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Video,Cloud",
+        "api_name": "Kadoo",
+        "id": 14952,
+        "progweb_descr": " Kadoo Backstage ’ cloudspecific open source APIs give developer ability create web mobile apps service APIs create crosscloud compatibility speaking service Kadoo cloudbased video host service give user access application web service device Developers use APIs give apps mobile web service access Kadoos file user billing cloud API use RESTful protocol"
+    },
+    {
+        "progweb_cat": "Video,API",
+        "api_name": "Vidyo.io",
+        "id": 1796,
+        "progweb_descr": " Vidyoio developer platform allow developer embed realtime multiparty video chat web mobile desktop application There method available manage device share window monitor video layout"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "LoopMe Reporting",
+        "id": 1929,
+        "progweb_descr": " LoopMe Reporting API offer advertisement campaign statistic user account API support filter granularity country publisher platform Data return JSON format LoopMe video platform support programmatic advertisement exchange follow ad format support video native rich medium interstitial Integrated artificial intelligence determines right time show advertisement"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Virool Embed Player",
+        "id": 2022,
+        "progweb_descr": " Virool Embed Player API allow developer access integrate functionality Virool application websites main API method embed Virool video ad player application website Virool video advertising platform application website"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Virool Message",
+        "id": 2120,
+        "progweb_descr": " Virool Message API allow developer access integrate functionality Virool application websites main API method access message event retrieve Virool video advertising platform application website"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Virool Offer",
+        "id": 2121,
+        "progweb_descr": " Virool Offers REST API allow developer access integrate functionality Virool application websites main API method retrieve list offer Virool video advertising platform application website"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Virool Mobile",
+        "id": 2122,
+        "progweb_descr": " Virool Mobile API allow developer access integrate functionality Virool application websites main API method embed Virool video ad player make small screen mobile device Virool video advertising platform application website"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Virool InLine Unit",
+        "id": 2125,
+        "progweb_descr": " Virool InLine Unit API allow developer access integrate functionality Virool application websites main API method create tag embed Virool player widget Virool video advertising platform application website"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Ooyala Pulse",
+        "id": 2544,
+        "progweb_descr": " Ooyala Pulse API allow developer integrate endpoint different standalone system associate Ooyala Pulse user interface RESTful API integrate various complimentary video campaign endpoint include book goal rule report Ad target forecast system These endpoint support functionality display ad creation asset uploads communication protocol analytical report event prediction This API ’ authentication require tokens request response transmit JSON format"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Pulpix",
+        "id": 2722,
+        "progweb_descr": " Pulpix REST API allow developer access integrate functionality Pulpix application Public documentation available API access come account service Pulpix video engagement platform brand engage user video"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Meideistudio Videolean",
+        "id": 4903,
+        "progweb_descr": " Videolean API platform aid create professional video A user selects template variety category business product ecommerce restaurant etc customizes text music aspects video This REST API return call JSON format require API Key"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Shakr",
+        "id": 5236,
+        "progweb_descr": " Shakr REST API allow developer access integrate functionality Shakr application create new application Some example API method include embed Shakr retrieve user retrieve manage list category Shakr video advertising application"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Videogram",
+        "id": 6018,
+        "progweb_descr": " Videogram API Cinemacraft allow developer access integrate functionality Videogram application Public documentation available interested developer contact Cinemacraft API access httpwwwcinemacrafttvcontactphp Videogram Cinemacraft video share consume publish monetize platform"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "Brightroll",
+        "id": 11205,
+        "progweb_descr": " BrightRoll video delivery platform network Its solution design advertiser publisher streamline content delivery mean advertiser BrightRoll offer analytical tool extensive network publisher work Publishers use network leverage position highvolume content creator BrightRoll offer API expose integrative function It RESTful API return XML JSONencoded data"
+    },
+    {
+        "progweb_cat": "Video,Advertising",
+        "api_name": "StormSwift",
+        "id": 11957,
+        "progweb_descr": " StormSwiftMediacom mobile video distribution platform use send consumer video message mobile device StormSwift API allow user retrieve video information StormSwiftmediacom include title description publishing date information API return JSON format accessible API token"
+    },
+    {
+        "progweb_cat": "Video,Screenshots",
+        "api_name": "Pipe",
+        "id": 2090,
+        "progweb_descr": " Pipe API integrate screen video record web mobile application It available JSON data XML format Authentication automatic via webhooks although provide extra layer security HTTP XPipeSignature Developers use API create video record project provide 4k UltraHD quality bandwidth independent MP4 conversion snapshot device rotation"
+    },
+    {
+        "progweb_cat": "Video,Accessibility",
+        "api_name": "Rede Klyp",
+        "id": 2411,
+        "progweb_descr": " Rede Klyp USbased organization operates diversify portfolio print broadcast internet medium company ’ Rede Klyp API design use development application support live video stream A developer must acquire API key AppID Token provider able deploy API"
+    },
+    {
+        "progweb_cat": "Video,Accessibility",
+        "api_name": "Kaltura",
+        "id": 13528,
+        "progweb_descr": " Kaltura open source online platform video publishing management syndication monetization associate APIs allow user access every core service platform customization integration know CMS custom inhouse application"
+    },
+    {
+        "progweb_cat": "Video,Accounts",
+        "api_name": "Ooyala Rights Locker",
+        "id": 2538,
+        "progweb_descr": " Ooyala Rights Locker help define manage digital asset entitlements Ooyala Backlot Ooyala Player Ooyala Rights Lock APIs Ooyala Rights Locker API support use Backlot API ’ asset label publishing procedure creation management entitlement customer account"
+    },
+    {
+        "progweb_cat": "Video,Accounts",
+        "api_name": "Ooyala Flex Core",
+        "id": 2543,
+        "progweb_descr": " Ooyala Flex Core allow developer carry operation account Developers use API perform operation asset account property account workspace event message templates object metadata definition among others This API transmit request URI QueryCRUD format return responses JSON JSONP format"
+    },
+    {
+        "progweb_cat": "Video,Authentication",
+        "api_name": "Ooyala Authorization",
+        "id": 2539,
+        "progweb_descr": " Ooyala Authorization API protect video player content unauthorized access player use API validate user credential access playback entitlement Developers also use API manage issuance license accessibility Digital Rights Management system Ooyala Authorization API send URI Query StringCRUD format request return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Video,Authentication",
+        "api_name": "Brightcove OAuth",
+        "id": 6202,
+        "progweb_descr": " Brightcove OAuth API allow developer authenticate Brightcove service get access Brightcove APIs case developer use API directly retrieve accesstoken Brightcove online video platform provide user cloudbased solution deliver monetize video across different connect device"
+    },
+    {
+        "progweb_cat": "Video,Analytics",
+        "api_name": "Ooyala Usage",
+        "id": 2540,
+        "progweb_descr": " Ooyala Usage API track data statistic Ooyala user account Its integration allow user retrieve video statistic – volume player bytes streams playback – Ooyala account activity A user must use API key authenticate API Each API key offer perminute limit maximum 100 request User seek exceed request limit must manually throttle additional request API sends HTTPformatted request return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Video,Analytics",
+        "api_name": "Algocian Artemis",
+        "id": 2693,
+        "progweb_descr": " Algocian Artemis REST API allow developer access integrate functionality Algocian Artemis application Public documentation available interested developer contact Algocian infoalgociancom information Algocian offer machine learn driven analytics video camera"
+    },
+    {
+        "progweb_cat": "Video,Analytics",
+        "api_name": "Zype",
+        "id": 3122,
+        "progweb_descr": " Zype API integrate video feature application aim convert fan customer It available JSON XML architectures RESTful API service Zype OTT top content video platform"
+    },
+    {
+        "progweb_cat": "Video,Analytics",
+        "api_name": "SemaMediaData Lecture Video Analysis",
+        "id": 4748,
+        "progweb_descr": " SemaMediaData Lecture Video Analysis API allow user integrate video analytics feature application Developers use API detect lecture slide transition video presentation recognize text OCR extract keywords analyze video browsing Requests responses available JSON Authentication Key"
+    },
+    {
+        "progweb_cat": "Video,Analytics",
+        "api_name": "YouTube Reporting",
+        "id": 4777,
+        "progweb_descr": " YouTube Reporting API provide developer access set predefined report contains comprehensive set YouTube Analytics data channel content owner Report field characterize either dimension metric API request must authorize use OAuth 20 protocol"
+    },
+    {
+        "progweb_cat": "Video,Analytics",
+        "api_name": "Brightcove Analytics",
+        "id": 6144,
+        "progweb_descr": " Brightcove Analytics API enable developer programmatically retrieve analytics individual videos host Brightcove video share platform sort data analytics return include account information various field data popular videos ranking This enable dynamic chart table visualization create represent video analytics"
+    },
+    {
+        "progweb_cat": "Video,Billing",
+        "api_name": "Ooyala Ecommerce",
+        "id": 2542,
+        "progweb_descr": " Ooyala Ecommerce API operate payment platform Ooyala ’ Revenue Builder project It allow developer simplify process payment allocation entitlements user It process validate payment use custom billing vendor addition manage product catalogue handle entitlement use Vindicia Cashbox Ooyala Rights Locker respectively Ooyala Ecommerce API conveys JSONformatted request response"
+    },
+    {
+        "progweb_cat": "Video,Big Data",
+        "api_name": "Ooyala Live",
+        "id": 2545,
+        "progweb_descr": " Ooyala Live API use data power program interactive playback functionality transmit personalize Linear TV channel realtime event Media company broadcaster use API ’ big data capability personalize stream real time program RESTful API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Video,Business",
+        "api_name": "Wistia Playlist",
+        "id": 2662,
+        "progweb_descr": " Wistia Playlist API allow developer control behavior Wistia playlists It also give developer access Player API video currently embed Wistia professional video host service come analytics SEO marketing tool Both free paid version available"
+    },
+    {
+        "progweb_cat": "Video,Business",
+        "api_name": "Wistia Upload",
+        "id": 2663,
+        "progweb_descr": " Wistia Upload API allow developer upload new video file Wistia account programmatically Developers also allow site visitor upload content create new access token upload permission Wistia professional video host service come analytics SEO marketing tool Both free paid version available"
+    },
+    {
+        "progweb_cat": "Video,Business",
+        "api_name": "Wistia Stats",
+        "id": 2664,
+        "progweb_descr": " Wistia Stats API allow developer retrieve accountwide information programmatically This include many time individual video video account project load play total amount time people spend watch video Wistia professional video host service come analytics SEO marketing tool Both free paid version available"
+    },
+    {
+        "progweb_cat": "Video,Business",
+        "api_name": "Wistia Plugin",
+        "id": 2665,
+        "progweb_descr": " Wistia Plugin API give developer light framework script load initialization video along property position DOM element This API work embed type include iframes Wistia professional video host service come analytics SEO marketing tool Both free paid version available"
+    },
+    {
+        "progweb_cat": "Video,Business",
+        "api_name": "Wistia Player",
+        "id": 2748,
+        "progweb_descr": " This JavaScript API support number way interact control Wistia video player It use interface Flash HTML5 version player provide function accomplish common goal To use Player API need handle mean javascript variable associate Wistia video defines Player API method Wistia video host service business"
+    },
+    {
+        "progweb_cat": "Video,Business",
+        "api_name": "TwentyThree",
+        "id": 3704,
+        "progweb_descr": " TwentyThree API integrate video marketing application It available JSON XML format OAuth authentication method TwentyThree video marketing platform allow business use video social medium email marketing CRM gather analytics"
+    },
+    {
+        "progweb_cat": "Video,Business",
+        "api_name": "The Aol On Network",
+        "id": 8207,
+        "progweb_descr": " Aol On Network large online library video cover news pop culture within wide range channel AOL On Network API allow developer integrate video content display functionality websites Specifically developer get information video studio category well search video library access video feed specific URL access daily monthly statistic account"
+    },
+    {
+        "progweb_cat": "Video,Business",
+        "api_name": "Wistia Data",
+        "id": 14989,
+        "progweb_descr": " Wistia video host share service builtin analytics track video With platform engage prospect customer employee video Wistia API provide access much content though provide way programmatically upload video upload widget Use Wistia API access project videos Share video via API list previous sharing platform also allow generate embed code video Then retrieve detailed analytics video include number user embed page number click play average percent video watch"
+    },
+    {
+        "progweb_cat": "Video,Content Management",
+        "api_name": "SYNQ",
+        "id": 2906,
+        "progweb_descr": " SYNQ API cover uploading storage transcoding necessary format content delivery purpose Additionally allow developer attach custom video metadata create Webhook notification API support JSON HTML Webhook response"
+    },
+    {
+        "progweb_cat": "Video,Documents",
+        "api_name": "Movida Labs Deeva",
+        "id": 3025,
+        "progweb_descr": " Movida Labs Deeva API offer video processing system extract specific information entity people organization keywords location This system use offer customer recommendation base extracted information Potential application include tag transcribe SEO video content search Deeva API require API Keys authentication respond JSON XML"
+    },
+    {
+        "progweb_cat": "Video,Authorization",
+        "api_name": "YouTube Content ID",
+        "id": 3243,
+        "progweb_descr": " YouTube Content ID API allow direct interaction YouTubes right management system Administrators content owner obtain metadata ownership information policy information content Additionally API combine YouTube Data API YouTube Player APIs order allow third party application upload manage video Content ID API require OAuth 20 authentication"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "Snickers Media Encoding",
+        "id": 3295,
+        "progweb_descr": " Snickers Media Encoding API integrate video application It available REST architecture HTTP request"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "HeyWatch HTTP Live Streaming",
+        "id": 9009,
+        "progweb_descr": " HeyWatch video encode service provide encode software APIs allow user convert file cloud HTTP Live Streaming API allow user encode file use HTTP stream protocol implement Apple use device HTTP Live Streaming API supplement Robot API facilitate API call perform successive order base chronology service use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "GridVid.me",
+        "id": 11629,
+        "progweb_descr": " Gridvid FFmpeg base distribute video transcoder allow transmission process cloud via REST APIs Gridvid create CPUsage cloud compute service offer access idle computer faster compute need These need cater motion graphic life science finance industry name"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "Aviberry",
+        "id": 11894,
+        "progweb_descr": " Aviberry cloudbased video encode system It accept videos multiple source include FTP FTPS HTTP S3 Aviberry work almost medium format tune output video match specific requirement size dimension bitrate etc Aviberry API allow user integrate Aviberrys function online service content management system use HTTP GET POST call"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "EncoderCloud",
+        "id": 14172,
+        "progweb_descr": " EncoderCloud service allow user encode video file compatible format web mobile website application EncoderCloud integrate EncoderCloud API allow developer integrate EncoderCloud functionality websites application Some example API method include access encode job information status create new encode job retrieve notification detail encode job"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "Warp",
+        "id": 14218,
+        "progweb_descr": " Warp video stream platform provide video transcoding management stream analytics Warp API provide access authenticate account data via SOAP API SDKs provide PHP C API allow developer read write metadata upload videos account Developers add edit remove category video search video delete videos A free demo account give two video pay account start 49 250 video"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "Sorenson 360",
+        "id": 14848,
+        "progweb_descr": " Sorenson 360 provide video transcoding cloud storage much via Sorenson 360 API service help developer add high quality video websites web application mobile application API provide many method organize content asset folder group Perhaps big use video encode service convert uploaded format consistent format developer require include HTML5 Flash Silverlight QuickTime"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "Rambla",
+        "id": 14882,
+        "progweb_descr": " Rambla live video stream medium encode traffic monitoring service Rambla API RESTful API consist four distinct part Rambla Storage Service RASS Rambla Transcoding Service RATS Rambla Monitoring Service RAMS Rambla Stream Enabler RASE API provide tool access video data store Rambla Content Delivery Network"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "Zencoder",
+        "id": 15104,
+        "progweb_descr": " Webbased encode software service design quickly convert video web mobile compatible format platform perform fast encode handle unusual corrupt file service handle Developers use service REST base API JSON data structure API tightly bind Amazon S3 service API function require S3 bucket save transcoded video"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "Panda",
+        "id": 15215,
+        "progweb_descr": " Panda powerful video encode service Upload file type Panda encode video format fit display web Features ability create stream iPad iPhone Has jQuery uploader script simplify client upload process directly Panda"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "Ankoder",
+        "id": 15411,
+        "progweb_descr": " Ankoder cloud base video transcoding API enable company easily integrate video function web service Its payperuse service keep uptodate late codecs save develop custom encode solution"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "HeyWatch Core Video Encoding",
+        "id": 15571,
+        "progweb_descr": " HeyWatch professional powerful scalable cloud video encode software service SaaS HeyWatch Core Video Encoding allow user integrate video encoding service thirdparty application video encode output several format include HTML5 iOS Android WebM MP4 H264 flash video HeyWatch also offer Robot API simplify automate use Core Video Encoding API"
+    },
+    {
+        "progweb_cat": "Video,Encoding",
+        "api_name": "Encoding.com",
+        "id": 15771,
+        "progweb_descr": " Encodingcom let encode transcode video demand use XML base web service API let specify output format audio video codecs bit sample rate much"
+    },
+    {
+        "progweb_cat": "Video,Catalogs",
+        "api_name": "Brightcove Playback",
+        "id": 3515,
+        "progweb_descr": " Brightcove Playback API access video playlist data website mobile application It available JSON architecture policy key authentication method"
+    },
+    {
+        "progweb_cat": "Video,Text",
+        "api_name": "Teletext",
+        "id": 3527,
+        "progweb_descr": " Teletext API provide demand Teletext data XML format This system offer data 83 channel still operate around Europe Teletext free use developer need obtain API Key request API use SOAP format"
+    },
+    {
+        "progweb_cat": "Video,Conversions",
+        "api_name": "Clipchamp",
+        "id": 4238,
+        "progweb_descr": " Clipchamp API let embed button website web app visitor click record compress convert upload video It come number resolution incl 480p 720p 1080p format incl MP4 WebM compression 5 level option Your user video file get process convert compressed client get uploaded result small file faster uploads This help reduce eliminate cost involve serverside video transcoding API build use HTML5 Flash involve JavaScript It work desktop mobile browser adjust wide range use case customization parameter"
+    },
+    {
+        "progweb_cat": "Video,Conversions",
+        "api_name": "Zamzar",
+        "id": 4360,
+        "progweb_descr": " Zamzar API allow access video conversion feature JSON format API Key A get start guide show start conversion job download file"
+    },
+    {
+        "progweb_cat": "Video,Conversions",
+        "api_name": "Veo Video Converter",
+        "id": 10433,
+        "progweb_descr": " Veo Video Converter online video conversion service Users upload video via URL PC convert online without limit number conversion service compatible major mobile device convert videos popular format Users manage videos embed videos share via social network API let user request conversion get conversion status retrieve convert file It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Video,Conversions",
+        "api_name": "Gomi",
+        "id": 12551,
+        "progweb_descr": " Gomi cloud video encode platform Gomi API allow user automate transfer encode delivery audio video It feature support popular web video delivery format stream html5 video delivery With API user encode video upload website bulk encode large video audio library API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Video,Conversions",
+        "api_name": "OpenCrypt Video Conversion",
+        "id": 15103,
+        "progweb_descr": " OpenCrypt Video Conversion API design allow transcodeconvert video upload server Flash Video format suitable display site embed video player After provide Video Conversion API video file API provide convert video thumbnail video transfer back server host Video Conversion API also provide metadata information video duration height width Video Conversion API enable user web server convert video include web site content become increasingly popular product demonstration social network content"
+    },
+    {
+        "progweb_cat": "Video,Cameras",
+        "api_name": "SemaMediaData Video Segmentation",
+        "id": 4648,
+        "progweb_descr": " SemaMediaData Video Segmentation API allow user implement visual detection feature application It work separate video stream scene recognize camera transition Requests response available JSON format Developers make call authenticate API Key"
+    },
+    {
+        "progweb_cat": "Video,Cameras",
+        "api_name": "Eagle Eye Video",
+        "id": 7120,
+        "progweb_descr": " Eagle Eye Networks provide web cloud technology make camera use easy robust accessible From cloud Eagle Eyes server deploy analytics one multiple camera With Eagle Eye Video API user record index store camera video API interface camera record video transmits securely cloud storage available use application This REST API allow manage video anywhere"
+    },
+    {
+        "progweb_cat": "Video,File Sharing",
+        "api_name": "Streamable",
+        "id": 4669,
+        "progweb_descr": " Streamable API allow developer implement stream feature application What documentation show relate video schema upload video import video URL API JSON format accessible OAuth2 authorization Resources interact user also available"
+    },
+    {
+        "progweb_cat": "Video,Bots",
+        "api_name": "Diffbot Video Extraction",
+        "id": 4735,
+        "progweb_descr": " With Diffbot Video Extraction API developers extract information video include image URL embed code By request field timeout callback HTTP GET developer receive author date duration viewCount humanLanguage information Learn create custom API link httpswwwyoutubecomwatchvVNv3EZEUgok"
+    },
+    {
+        "progweb_cat": "Video,Platform-as-a-Service",
+        "api_name": "Panopto Video Platform",
+        "id": 4736,
+        "progweb_descr": " Panopto video platform education business share knowledge Panopto Video Platform API allow integration video feature capture stream lecture documnetation provide guided topic regard server integration web service security course folder format REST JSON along OAuth 2 authentication"
+    },
+    {
+        "progweb_cat": "Video,Database",
+        "api_name": "Gracenote Online Video",
+        "id": 4738,
+        "progweb_descr": " Gracenote Online Video API allow integrate video content application REST XML format Additional visual capability Gracenote also provide social medium API component aim engage user preference movie TV show Gracenote formerly CDDB maintain license data audio CDs digital file identification song lyric"
+    },
+    {
+        "progweb_cat": "Video,Campaigns",
+        "api_name": "Ooyala Player",
+        "id": 5014,
+        "progweb_descr": " Ooyala REST API access token In brief detail JavaScript Player API allow customize HTML5 flash player aim improve video experience consumer engage marketing campaign API method include Player control event information Ooyala cloudbased digital video platform"
+    },
+    {
+        "progweb_cat": "Video,Office",
+        "api_name": "Office 365 Video",
+        "id": 5240,
+        "progweb_descr": " Office 365 Video API interact video channel object This API allow developer discover interact video channel API service This API RESTful"
+    },
+    {
+        "progweb_cat": "Video,Application Development",
+        "api_name": "MixerFactory Render",
+        "id": 5256,
+        "progweb_descr": " Render API MixerFactory leverage video render engine add video edit capability web mobile apps API use XML POSTGET method require API Key authentication Input video image sound video structure description XML Render API output video MOV MP4 FLV Accepted input format include flv wmv tiff jpg wav mp3 png gif See extensive documentation information code sample"
+    },
+    {
+        "progweb_cat": "Video,Algorithms",
+        "api_name": "Minute",
+        "id": 5445,
+        "progweb_descr": " Minute REST API allow developer access integrate functionality Minute application Public documentation available developer interested API contact Minute httpminutelycontact Minute video shorten share platform allow user shorten videos share watching"
+    },
+    {
+        "progweb_cat": "Video,Real Time",
+        "api_name": "Meerkat",
+        "id": 5632,
+        "progweb_descr": " Meerkat REST API allow developer access integrate functionality Meerkat applications Some example API method include retrieve video broadcast view broadcast activity retrieve broadcast detail like broadcast viewer Meerket live video stream application use Tweeting live video Twitter"
+    },
+    {
+        "progweb_cat": "Video,Real Time",
+        "api_name": "Livestream",
+        "id": 14877,
+        "progweb_descr": " Livestream API offer flexibility control live view experience Visit Developers portal learn get start build custom integration live ondemand content Livestream API offer flexibility control live view experience Visit Developers portal learn get start build custom integration live ondemand content"
+    },
+    {
+        "progweb_cat": "Video,WebRTC",
+        "api_name": "Appear.in",
+        "id": 5931,
+        "progweb_descr": " Appearin API allow developer easily insert video communication service web page Appearin build WebRTC work Google Chrome Opera Mozilla Firefox browser well newer version Android This service support video conversation 8 people free usable without login installation"
+    },
+    {
+        "progweb_cat": "Video,WebRTC",
+        "api_name": "AddLive",
+        "id": 10305,
+        "progweb_descr": " AddLive service design supplement extend WebRTC emerge open standard place high quality video voice technology directly web browser AddLive provide support nonWebRTC browser native application multiparty conferencing screen share JavaScript API provide AddLive enable user include live video audio feature application"
+    },
+    {
+        "progweb_cat": "Video,Data",
+        "api_name": "YouTube Data",
+        "id": 5957,
+        "progweb_descr": " YouTube Data API allow developer get YouTube search result programmatically retrieve insert update delete resource like video playlist Before submit API request developer need register application Google Combined YouTube APIs Data API allow developer integrate complete YouTube functionality application"
+    },
+    {
+        "progweb_cat": "Video,Collaboration",
+        "api_name": "newrow Layers",
+        "id": 6016,
+        "progweb_descr": " New Row Layers REST API make call HTTP require API Key provide New Row authentication Currently SSL mechanism implement New Row Layers API allow meeting moderator add content viewer screen ticker tape message poll Layers prepare advanced even change fly layer broadcast See API home page information New Row APIs help implement Layers"
+    },
+    {
+        "progweb_cat": "Video,Collaboration",
+        "api_name": "VSee",
+        "id": 7694,
+        "progweb_descr": " VSee video conference screen share service provide users private secure way collaborate video communication service provide oneclick application share draganddrop file transfer low bandwidth usage VSee API use REST call return JSON API allow user integrate video conference feature thirdparty application An account required service"
+    },
+    {
+        "progweb_cat": "Video,Collaboration",
+        "api_name": "WeVideo",
+        "id": 9589,
+        "progweb_descr": " WeVideo online video creation service WeVideo allow user create manage videos online Videos host cloud work collaboratively allow multiple people work edit videos WeVideo API allow developer access integrate functionality WeVideo application Public documentation available interested developer contact saleswevideocom information"
+    },
+    {
+        "progweb_cat": "Video,Collaboration",
+        "api_name": "TenHands",
+        "id": 10645,
+        "progweb_descr": " TenHands video conferencing collaboration service TenHands integrated collaboration application Google DropBox Box LogMeIn TenHands API allow developer access integrate functionality TenHands applications Some example API method include manage user manage list group create group conference"
+    },
+    {
+        "progweb_cat": "Video,Publishing",
+        "api_name": "Brightcove Dynamic Ingest",
+        "id": 6142,
+        "progweb_descr": " Brightcove Dynamic Ingest API use retrieve video asset create new rendition Brightcove video publish platform Ingest API syncs file download form customer storage location specific iteration create Brightcove cloudbased solution distribute monetize video across webenabled device"
+    },
+    {
+        "progweb_cat": "Video,Publishing",
+        "api_name": "Brightcove CMS",
+        "id": 6203,
+        "progweb_descr": " Brightcove CMS API allow developer create video object retrieve video information integrating service Brightcove online video platform provide user cloudbased solution deliver monetize video across different connect device"
+    },
+    {
+        "progweb_cat": "Video,Publishing",
+        "api_name": "Brightcove Player Management",
+        "id": 6234,
+        "progweb_descr": " Brightcove Player Management API allow developer create manage video player integrating service application Brightcove online video platform provide user cloudbased solution deliver monetize video across different connect device"
+    },
+    {
+        "progweb_cat": "Video,Publishing",
+        "api_name": "Brightcove Delivery System",
+        "id": 6235,
+        "progweb_descr": " Brightcove Delivery System APIs allow developer manage deploy group file also know repository integrate service application Brightcove online video platform provide user cloudbased solution deliver monetize video across different connect device"
+    },
+    {
+        "progweb_cat": "Video,Publishing",
+        "api_name": "VideoBloom",
+        "id": 15742,
+        "progweb_descr": " VideoBloom Integrator Application Programming Interface API allow company empower member marketplace online video capability Members easily add remove videos Web sit listing classified property well manage video playlist Your company ï¿½Integratorï¿½ maintains highlevel member management right addingremoving member share credential Web property total video usage statistic etc Since Integrator API private label API company display video use lookandfeel VideoBlooms Integrator API perfect real estate portal automotive marketplace retailer classified directory university professional association social network etc Key functionality Integrator API include Marketplace member add remove video edit video description Marketplace member track video usage realtime individual video Integrator add remove video capability specific member Integrator manage share credential password etc seamless video usage Integrator monitor video marketplace statistic realtime Integrator select type online video player integrate marketplace Integrator use lookandfeel display video marketplace Power marketplace directories social network ecommerce Web sit video Deployment Average installation time 30 hour Deployment time base average client installation perform client"
+    },
+    {
+        "progweb_cat": "Video,Browsers",
+        "api_name": "SightCall",
+        "id": 6292,
+        "progweb_descr": " Sightcall Platformasaservice offer browsercentric Javascript API enhance WebRTC enable easy implementation real time cloudbased video conferencing API allow developer initiate group video call browser ability also share screen transfer file With open standard mind Sightcall eliminates need video plugins Flash Java Silverlight Sightcall offer code example good documentation SDKs Android iOS"
+    },
+    {
+        "progweb_cat": "Video,Animation",
+        "api_name": "Sezion Video",
+        "id": 6413,
+        "progweb_descr": " Sezion solution automatically generate personalized video use various type content social medium fee database tweet website Sezion video API automate process accept content input well additional customizable detail JSONRPC protocol HTTPS enable programmatic creation management distribution personalize videos Sezion offer free service well sandbox test API functionality"
+    },
+    {
+        "progweb_cat": "Video,Wiki",
+        "api_name": "Wikipedia2Cartoon",
+        "id": 8034,
+        "progweb_descr": " Wikipedia2Cartoon free film generator allow user create movie convert webpage wikipedia article cartoon talk show file small file size hourlong high quality cartoon several megabyte Wikipedia2Cartoon API use REST call allow user submit webpage URL turn cartoon An account required service"
+    },
+    {
+        "progweb_cat": "Video,Streaming",
+        "api_name": "Evercam",
+        "id": 8049,
+        "progweb_descr": " Evercam service allow user write code connect 1600 IP camera DVRs NVRs make camera useful integrated application Evercam API allow developer access integrate functionality Evercam application create new application Some example API method include retrieve camera model manage user connect camera via IP"
+    },
+    {
+        "progweb_cat": "Video,Streaming",
+        "api_name": "Pirateplay",
+        "id": 10860,
+        "progweb_descr": " Pirateplay Swedish video stream service allow user access stream Swedish television SVT Play Channel 5 Play TV3 Play TV4 play along library useful resource downloadable player client online television service API return listing support content provider list stream URLs metadata information use GET return either JSON XML"
+    },
+    {
+        "progweb_cat": "Video,Streaming",
+        "api_name": "Click2Stream",
+        "id": 11884,
+        "progweb_descr": " Click2Stream videofeed host platform Users partner Click2Stream space server host live feed cameras Their live feed park permanent page Click2Streamâ€™s website embed elsewhere personal Facebook page Click2Stream API expose functionality data retrieval camera operation presentation customization It RESTful API return JSONformatted data"
+    },
+    {
+        "progweb_cat": "Video,Streaming",
+        "api_name": "DaCast",
+        "id": 12567,
+        "progweb_descr": " DaCast completely integrate video stream platform enable business broadcast audiovisual content allow viewer watch free pay programming We help 60000 broadcaster stream live video reduce bandwidth cost improve broadcast quality easytouse full service platform via Broadcaster API v2 Broadcaster API release month ago major upgrade functionality performance Dacast ’ new RESTful API easily use create delete live stream retrieve information need It design specifically quick easy integration feature DaCast platform wide variety cloud video application service digital medium workflow"
+    },
+    {
+        "progweb_cat": "Video,Streaming",
+        "api_name": "Mydeo Media Manager",
+        "id": 15285,
+        "progweb_descr": " m3 API access Mydeo medium manager You upload video medium collect viewer statistic deliver file global CDN Mydeo facilitate content tag integrated reporting"
+    },
+    {
+        "progweb_cat": "Video,Streaming",
+        "api_name": "Apideo",
+        "id": 15315,
+        "progweb_descr": " Apideo API use put video website Apideo live stream like video chat Apideo bring user together interact web page"
+    },
+    {
+        "progweb_cat": "Video,Applications",
+        "api_name": "Wurl",
+        "id": 8180,
+        "progweb_descr": " Wurl video stream service design provide appmakers access highquality video publisher around world Wurl scan internet free professionallyproduced content add index They dont collect either usergenerated pirate videos Wurl whitelabel service allow appmakers deliver content platform brand Wurl API allow developer set browse search interface retrieve video metadata play video apps"
+    },
+    {
+        "progweb_cat": "Video,Applications",
+        "api_name": "Framebase",
+        "id": 9433,
+        "progweb_descr": " Framebase make easy include maintain videos application take care transcoding compatibility issue Framebase enable endusers record video inside browser upload videos computer Framebase support uploads major file format play videos browser device Framebase API allow developer highlycustomized integration service well manage video"
+    },
+    {
+        "progweb_cat": "Video,Management",
+        "api_name": "Clearleap",
+        "id": 8225,
+        "progweb_descr": " Clearleap video library distribution service allow user manage distribute control interact video library across tv multimedia display Clearleap API allow user access control resource within Clearleap platform well automate task An account required service"
+    },
+    {
+        "progweb_cat": "Video,Widgets",
+        "api_name": "Vimeo JavaScript",
+        "id": 8686,
+        "progweb_descr": " Vimeo website allow user view people video upload others see No advertisement add user videos basic account free Vimeo JavaScript API allow user control playback embed Vimeo player modify embed player retrieve information current status playback player When video embed use Universal Embed Code developer control use mini JS library call Froogaloop interact API manually send serialize JSON object A previously available version API intend Flash player deprecate"
+    },
+    {
+        "progweb_cat": "Video,Widgets",
+        "api_name": "Vimeo oEmbed",
+        "id": 8687,
+        "progweb_descr": " Vimeo website allow user view people video upload others see No advertisement add user videos basic account free Vimeo oEmbed API allow user retrieve embed code Vimeo video It use oEmbed open standard design specifically embed video image websites Developers use API get embed code video URL Developers may use Vimeo oEmbed API without register application"
+    },
+    {
+        "progweb_cat": "Video,Widgets",
+        "api_name": "Vimeo ActionScript",
+        "id": 8688,
+        "progweb_descr": " Vimeo website allow user view people video upload others see No advertisement add user videos basic account free Vimeo ActionScript API allow developer integrate Vimeo Flash player call Moogaloop Flash project use ActionScript 3 This accomplished via VimeoPlayeras simple ActionScript class add Vimeo video support API access Flash project Developers free expand class additional method variable need project"
+    },
+    {
+        "progweb_cat": "Video,Marketing",
+        "api_name": "Videolicious",
+        "id": 8789,
+        "progweb_descr": " Videolicious video HD video creation application Users make videos various content video clip Videolicious Videolicious API allow developer access integrate functionality Videolicious application Public documentation available interested developer email developervideoliciouscom information"
+    },
+    {
+        "progweb_cat": "Video,Marketing",
+        "api_name": "ScreenPlay",
+        "id": 9165,
+        "progweb_descr": " ScreenPlay provide API web service customer access video database simple series parameter This method access ScreenPlay content allow publisher integrate website apps efficiently program specific call Screenplay API Some example API method include request specific title category retrieve data Public documentation available interested developer contact informationscreenplayinccom information"
+    },
+    {
+        "progweb_cat": "Video,Marketing",
+        "api_name": "Vidyard",
+        "id": 9203,
+        "progweb_descr": " Vidyard video host platform embed analytics tool help business track monetize video content Vidyard help content marketer get video asset provide indepth data viewer behavior automatically push marketing automation system CRMs Vidyard offer video solution developer via simple REST API Additional information API available request"
+    },
+    {
+        "progweb_cat": "Video,Spanish",
+        "api_name": "Tu.TV",
+        "id": 9038,
+        "progweb_descr": " TuTV video host share site similar YouTube TuTV user post kind videos include vlogs music video tutorial animation parody news clip TuTV API enable developer retrieve user information search video It also allow retrieve popular video recent video videos category video URL TuTV website API documentation provide entirely Spanish"
+    },
+    {
+        "progweb_cat": "Video,Images",
+        "api_name": "HeyWatch Video Preview",
+        "id": 9143,
+        "progweb_descr": " HeyWatch video encode service provide encode software APIs allow user convert file cloud HeyWatch Video Preview API allow user generate preview video different format Thumbnail Storyboard GIF animation service use REST call return JSON create video preview HeyWatch Video Preview supplement Robot API facilitate API call perform successive order base chronology"
+    },
+    {
+        "progweb_cat": "Video,Gifts",
+        "api_name": "Sociagram",
+        "id": 9185,
+        "progweb_descr": " Sociagram social video application also enable electronic gift give eCommerce service Companies use Sociagram site Sociagram video plugin Sociagram API allow developer access integrate functionality Sociagram application create new application Public documentation available interested developer email partnershipssociagramcom API access"
+    },
+    {
+        "progweb_cat": "Video,Jobs",
+        "api_name": "LaunchPad Recruits",
+        "id": 9239,
+        "progweb_descr": " LaunchPad Recruits online video interview service allow screen job candidate effectively resume curriculum vitae alone Video interview alternative phone screening first round interview Tha LaunchPad Recruits API allow integrate video interview application API resource include account interviews question candidate invite callback API RESTful responses error message return use JSON"
+    },
+    {
+        "progweb_cat": "Video,Jobs",
+        "api_name": "Wowzer",
+        "id": 9750,
+        "progweb_descr": " WePow video interview platform WePow offer video interviewing tool platform company interview job candidate video WePow API allow developer access integrate functionality WePow applications Some example API method include view application retrieve candidate information manage account information"
+    },
+    {
+        "progweb_cat": "Video,Hosting",
+        "api_name": "Host Stream Sell",
+        "id": 9271,
+        "progweb_descr": " Host Stream Sell video host stream solution provide secure access video Use platform upload encode securely store videos cloud Access video permit use simple API call application API enable send request retrieve information dynamically display user API also provide method grant remove access video website base user unique user ID Requests return XML JSON format An API key require"
+    },
+    {
+        "progweb_cat": "Video,Hosting",
+        "api_name": "Framesocket",
+        "id": 13727,
+        "progweb_descr": " Framesocket video host publish platform Framesocket work websites tablet mobile Framesocket also offer analytics video consumption visitor Framesocket API allow developer access integrate Framesockets functionality application service Some example API method include integrate video web phone tablet application play video measure analytics traffic manage account"
+    },
+    {
+        "progweb_cat": "Video,Hosting",
+        "api_name": "Videofy.me",
+        "id": 13728,
+        "progweb_descr": " Videofyme video management publishing service websites blogs Features include CMS integration video share advertising opportunity Videofyme API allow developer access Videofyme functionality Some example API method include upload embed videos create Videofyme widget allow user browse video collection"
+    },
+    {
+        "progweb_cat": "Video,Hosting",
+        "api_name": "Playwire",
+        "id": 14153,
+        "progweb_descr": " Playwire video host publish platform allow user encode host publish monetize video content one program Playwire API allow developer integrate Playwire functionality content websites application Some example API method include list videos count show video upload new video delete video display video category list"
+    },
+    {
+        "progweb_cat": "Video,Hosting",
+        "api_name": "VideoBam",
+        "id": 14171,
+        "progweb_descr": " VideoBam free video host service allow user upload video share social networking site blog website VideoBam API allow developer access integrate data functionality VideoBam applications Some example API method include access user information retrieve list videos upload video delete video access video information"
+    },
+    {
+        "progweb_cat": "Video,Hosting",
+        "api_name": "Vidly",
+        "id": 15427,
+        "progweb_descr": " Vidly cloudbased video host service addition basic host service design optimize video playback different device system Once user provide source video Vidly host content server convert source video 22 output rendition When enduser request video Vidly detect device operate system use delivers video best optimized playback environment Vidly API operate HTTP POST use XML offer method upload update delete video This web service also expose functionality gather video playback statistic Furthermore user manipulate format parameter upload update videos create custom video rendition base anticipated user need"
+    },
+    {
+        "progweb_cat": "Video,Education",
+        "api_name": "USC Webcam",
+        "id": 9312,
+        "progweb_descr": " University Southern Californiaâ€™s Webcam API produce Universityâ€™s Web Services API provide RESTful access archive still photos movie TommyCam webcam center Tommy Trojan statue middle USCâ€™s University Park campus API retrieve JSON JSONP listing"
+    },
+    {
+        "progweb_cat": "Video,Transcoding",
+        "api_name": "Amazon Elastic Transcoder",
+        "id": 9376,
+        "progweb_descr": " Amazon Elastic Transcoder cloudbased web service provide developer business way convert transcoding video file formats Elastic Transcoder service design easy use It come presets popular output format create multiple rendition content one job Users give precise control scale crop mat stretch videos Elastic Transcoder user transcode 20 minute video free month After user pay base number minute resolution video need transcode All service feature available AWS Management Console via REST API"
+    },
+    {
+        "progweb_cat": "Video,Telephony",
+        "api_name": "Weemo",
+        "id": 9790,
+        "progweb_descr": " Weemo provide video collaboration service embed work application websites allow user communicate without switch program highquality video feed base robust scalable cloud platform Weemos REST JavaScript APIs enable developer integrate video service website application"
+    },
+    {
+        "progweb_cat": "Video,Meetings",
+        "api_name": "omNovia Archive",
+        "id": 10619,
+        "progweb_descr": " omNovia provide webinars online training live event webcasting solution collaborative online meeting omNovia Archive API allow customer view detail archive recorded session charge view"
+    },
+    {
+        "progweb_cat": "Video,Meetings",
+        "api_name": "MegaMeeting",
+        "id": 12132,
+        "progweb_descr": " service provide online platform interactive webbased meeting webinar broadcast It manage video feed attendee PCs desire distributes presenter content capability interaction via voiceoverIP VoIP audio chat audience survey function share user screen Meeting session record archive later playback API method support create new meeting session manage participant invitation registration function Methods also support create retrieve delete session recording"
+    },
+    {
+        "progweb_cat": "Video,Meetings",
+        "api_name": "Vyew",
+        "id": 13266,
+        "progweb_descr": " Vyew online meeting web conference webinar service Some feature Vyew offer include online meeting room VOIP file share capability Vyew API allow developer access integrate functionality Vyew applications Some example API method include create new meeting room manage account information importing document"
+    },
+    {
+        "progweb_cat": "Video,Tools",
+        "api_name": "Forni.ca",
+        "id": 11044,
+        "progweb_descr": " Fornica adult video grabber grab video metadata adult video site Fornica API allow developer automate video grab RESTful interface return JSON response"
+    },
+    {
+        "progweb_cat": "Video,Tools",
+        "api_name": "Screenr Business",
+        "id": 12336,
+        "progweb_descr": " Screenr Business webbased screen record service design businessesâ€™ client colleague support system It allow client capture error share video privately support staff diagnostic purpose API provide integration functionality embeddable recorder URLs It RESTful API JSON format"
+    },
+    {
+        "progweb_cat": "Video,Tools",
+        "api_name": "GoalBit",
+        "id": 12451,
+        "progweb_descr": " GoalBit open source video delivery platform include feature live ondemand content premium usergenerated content large scale enterprise deployment With platform user manage aspect online digital medium include ingestion transcoding storage replication backup delivery stream ace control much GoalBit Suit API allow user access content platform API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Video,Metadata",
+        "api_name": "Veenome",
+        "id": 11587,
+        "progweb_descr": " Veenome unique video data service provider Their product intake video put descriptive metadata Objects brand face recognize Veenome turn tag describe video tag machinereadable timestamped location video use anything SEO categorization moderation filter Veenomeâ€™s core product RESTful API expose serviceâ€™s entire functionality"
+    },
+    {
+        "progweb_cat": "Video,Metadata",
+        "api_name": "PBS COVE",
+        "id": 12618,
+        "progweb_descr": " PBS COVE API create intent expose PBS video metadata user A wide range data pull use API include title description video type link transcript iTunes purchase link link stream video medium metadata Videos offer online available Real Time Messaging Protocol link mp4 flv encode video newer national program encode playback Apple mobile device use HTTP Live Streaming API divide three subsection Categories Programs Videos Categories way organize program videos Programs bucket one many Videos These distinct section intend create taxonomy data expose PBS COVE API end provide developer standard enables robust us information service make available All call API must authenticate session Every call limit 200 result though subsequent call retrieve data page"
+    },
+    {
+        "progweb_cat": "Video,Enterprise",
+        "api_name": "SproutVideo",
+        "id": 11679,
+        "progweb_descr": " SproutVideo simple easy use video host service business Features include security option HD video support customizable player playlist creation customization analytics mobile support SproutVideo API allow business interact SproutVideo account RESTful interface upload list modify delete video tag playlist"
+    },
+    {
+        "progweb_cat": "Video,Enterprise",
+        "api_name": "Qumu",
+        "id": 12518,
+        "progweb_descr": " Qumu business video platform provider Qumus video platform let business capture manage distribute live ondemand content Qumu Video Control Center give business control entire video life cycle acquire video content build manage library delivering ondemand video provide secure portal employee view content An API available via SDK allow developer access platform functionality add iOS Android platform desktop web application Public documentation available"
+    },
+    {
+        "progweb_cat": "Video,Enterprise",
+        "api_name": "VCASMO",
+        "id": 13986,
+        "progweb_descr": " VCASMO online presentation tool use synchronize video powerpoint music within single presentation VCASMO API private beta allow interaction presentation well get information presentation To inquire future availability contact infovcasmocom"
+    },
+    {
+        "progweb_cat": "Video,Nordic",
+        "api_name": "JM Data MovieApp",
+        "id": 11787,
+        "progweb_descr": " JM Data Services specializes product retailer rental movie maintain large database movie information It also provide MovieApp API allow user search movie retrieve information check availability specific store even reserve movie online API provide function well allow user maintain list favorite movie find nearby store"
+    },
+    {
+        "progweb_cat": "Video,Mapping",
+        "api_name": "Kinomap",
+        "id": 11804,
+        "progweb_descr": " Kinomap provide geolocation solution videomaking Users film travel bike ride run create map track route journey With smartphones GPSenabled camera upload directly Kinomap downloadable app Kinomap host video online mediasharing platform Kinomap offer APIs upload video embed videos access data APIs RESTful return data encode XML JSON"
+    },
+    {
+        "progweb_cat": "Video,Mapping",
+        "api_name": "VodoModo",
+        "id": 14237,
+        "progweb_descr": " VodoModo provide premium geolocation video location map navigation service mobile web Vodomodo API support three main API function tour list tour detail video key call tour list call return list currently active tour Vodomodo system tour detail call return detail specific tour Vodomodo system video key call return key allow access one video Vodomodo platform API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Video,Email",
+        "api_name": "mailVU",
+        "id": 11870,
+        "progweb_descr": " MailVU video platform Individuals create distribute video content MailVU offer API service provider university API allow developer incorporate video record store stream service It also allow business rebrand add videos application API component nonbranded service integrate portion product"
+    },
+    {
+        "progweb_cat": "Video,Music",
+        "api_name": "Muzu.tv Data",
+        "id": 13093,
+        "progweb_descr": " Muzu free music video site user watch create share music video playlists Users also create free personalize music tv channel build upon multiple video playlist data API expose site data order developer integrate site application API user search database return artist detail channel detail video detail image create vanity name artists API use RESTful call response format XML RSS"
+    },
+    {
+        "progweb_cat": "Video,Music",
+        "api_name": "Muzu.tv Player",
+        "id": 13305,
+        "progweb_descr": " Muzu free music video site user watch create share music video playlists Users also create free personalize music tv channel build upon multiple video playlist player API allow user control interact player JavaScript call Functionality play pause stop much available API allow user integrate player site"
+    },
+    {
+        "progweb_cat": "Video,Dashboards",
+        "api_name": "VHX Megaplaya",
+        "id": 13323,
+        "progweb_descr": " VHX service brings online video together around web Users discover share watch videos well create personal dashboard Megaplaya API let user load list YouTube Vimeo raw video URLs via JavaScript API also allow user hide UI create control"
+    },
+    {
+        "progweb_cat": "Video,Content",
+        "api_name": "SublimeVideo",
+        "id": 13836,
+        "progweb_descr": " SublimeVideo HTML5 video player service SublimeVideo compatible variety browser mobile platform Users manage video content integrate video content sit SublimeVideo API allow developer access integrate SublimeVideos functionality application Some example API method include play video stop video load video resize video restore video"
+    },
+    {
+        "progweb_cat": "Video,Feeds",
+        "api_name": "VidCaster",
+        "id": 14300,
+        "progweb_descr": " VidCaster provide platform let user create video site domain VidCaster API let user integrate number site feed include RSS GeoRSS MRSS video audioonly podcast embeddable widget applications Some feed produce globally entire site feed produce individual category"
+    },
+    {
+        "progweb_cat": "Video,Security",
+        "api_name": "Sensr.net",
+        "id": 14346,
+        "progweb_descr": " Sensrnet cloudbased IPcamera video stream archive service Use Sensrnet record video data surveillance camera Use video relay service view Live review archive footage use cloud storage Sensrnet As February 2013 Sensr API OAuth2 compliant"
+    },
+    {
+        "progweb_cat": "Video,England",
+        "api_name": "Buto.tv",
+        "id": 14860,
+        "progweb_descr": " Butotv service upload manage measure online video service direct content creator video share site Butotv API provide RESTful interface video collection playlists metadata user account"
+    },
+    {
+        "progweb_cat": "Video,Webcams",
+        "api_name": "Nimbb",
+        "id": 15299,
+        "progweb_descr": " With Nimbb visitor record video use webcam They play videos lightweight Flash player stream technology"
+    },
+    {
+        "progweb_cat": "Video,Blogging",
+        "api_name": "Hictu",
+        "id": 15489,
+        "progweb_descr": " Hictu video microblogging site It provide API retrieve video post user profile well ability post textvideo message basic API require API Key readonly Advanced API allow user access Hictu platform write permission Using method user post thought home page share video"
+    }
+]

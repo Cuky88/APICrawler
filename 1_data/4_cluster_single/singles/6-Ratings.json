@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Ratings,Business",
+        "api_name": "B-Reputation",
+        "id": 3464,
+        "progweb_descr": " BReputation API offer access business database Developers request data use GET method Information offer RESTful API include company basic information review summary JSON use data exchange API Keys authentication BReputation platform client employee review company"
+    },
+    {
+        "progweb_cat": "Ratings,Business",
+        "api_name": "ScubaTribe",
+        "id": 7063,
+        "progweb_descr": " ScubaTribe service focus help scuba diving business compile review rating dive industry Diver review invitation verify ScubaTribe API allow developer programmatically invite customer review scuba service automatically generate code With API developer set feedback template extract metadata individual review see trend large amount accumulate data API also give ability edit publicfacing company profile include photo company description location"
+    },
+    {
+        "progweb_cat": "Ratings",
+        "api_name": "GitHub Rate Limit",
+        "id": 5899,
+        "progweb_descr": " GitHub Rate Limit API allow developer gain access information rate limit rule Developers check current rate limit status make call API GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Ratings",
+        "api_name": "SimilarWeb Website Global Ranking",
+        "id": 9986,
+        "progweb_descr": " service provide numerical rank indicate website popularity influence It allow relative position website compare 30 million website indexed provider Worldwide analysis aim evaluate site relation internet whole Site rank update month site rank reflect popularity current month API method support submission website domain name request rank Methods return numerical ranking indicate recent evaluation service"
+    },
+    {
+        "progweb_cat": "Ratings",
+        "api_name": "SimilarWeb Website Category Ranking",
+        "id": 9988,
+        "progweb_descr": " service provide analysis website evaluate content functional category performance versus sit category It review content available specify web domain assigns site overall one categories provider taxonomy websites A ranking within category indicate site performance relative direct competitor API method support submission website domain retrieve list category maintain service best describe content function Returned data provide rank site within category represent site popularity user sit category"
+    },
+    {
+        "progweb_cat": "Ratings,Accessibility",
+        "api_name": "TryMyUI",
+        "id": 6080,
+        "progweb_descr": " TryMyUI site use acquire feedback web software usability user Try My UI find targeted demographic customizable test pool size rate user interface test provide video people use web site specific task screen mouse movement keystroke voice narration tester give opinion product RESTful TryMyUI API accept HTTP GET POST request require customer use test information view active test data send crash report aquire tokens user request access TryMyUI server retrieve task test return worker information All response API JSON TryMyUI service require persurvey cost monthly subscription use enterprise intend source userbase"
+    }
+]

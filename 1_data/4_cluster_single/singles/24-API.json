@@ -1,0 +1,146 @@
+[
+    {
+        "progweb_cat": "API,Predictions",
+        "api_name": "Traitify",
+        "id": 610,
+        "progweb_descr": " Traitify measure personality sequence visual assessment API could useful understand user ’ behavior predict data recognize pattern preference Developers field user experience benefit API aim offer good understanding diverse quality make person human conversational creative empower competitive caring easygoing outgo skill This personal information service API personality assessment It access use Javascript REST return value JSON protocol API require key In site developer find code sample Curl Ruby NodeJS NET Java Phyton PHP explore category find assessment get slide slide response personality type personality trait"
+    },
+    {
+        "progweb_cat": "API,Backend",
+        "api_name": "AdNail",
+        "id": 684,
+        "progweb_descr": " AdNail REST API provide API access MilAnuncios TusAnuncios SegundaMano Google Search AdNail provide API access service"
+    },
+    {
+        "progweb_cat": "API,Prototype",
+        "api_name": "JSONPlaceholder",
+        "id": 1691,
+        "progweb_descr": " JSONPlaceholder online REST service use whenever need fake data Run code console anywhere CORS JSONP support Its like image placeholder web developer use tutorial fake server share code example JSONPlaceholder simple fake REST API test prototyping power JSON Server"
+    },
+    {
+        "progweb_cat": "API",
+        "api_name": "cPanel",
+        "id": 2264,
+        "progweb_descr": " cPanels XML API allow issue command cPanel WHM use XML language JSON API allow submit request system receive JSON response By include command custom script perform function remotely without access cPanel WHM user interface"
+    },
+    {
+        "progweb_cat": "API",
+        "api_name": "Flask",
+        "id": 5196,
+        "progweb_descr": " Flask REST API provide access web functionality Django REST framework provide Some example API method include retrieve parser manage render retrieve text"
+    },
+    {
+        "progweb_cat": "API",
+        "api_name": "AllRecharge",
+        "id": 6101,
+        "progweb_descr": " AllRecharge API service B2B aggregate online payment mobile recharge service single API package Using RESTful AllRecharge API developer implement request use JSON XML format recharge credit data mobile phone prepay minute AllRecharge sync large international provider APIs Vodafone Airtel aggregate mobile recharge data recharge bill payment electricity payment APIs"
+    },
+    {
+        "progweb_cat": "API",
+        "api_name": "Google APIs Discovery",
+        "id": 14223,
+        "progweb_descr": " This lightweight API use within Google make available developer It make Googles APIs listable provide additional information API include full list resource method Google use API Discovery API internally maintain client library APIs well fill sandbox potential API call"
+    },
+    {
+        "progweb_cat": "API",
+        "api_name": "Mashery",
+        "id": 14890,
+        "progweb_descr": " Mashery provide scalable secure ondemand infrastructure API enable delivery data content product multiple device mobileweb application Mashery API design facilitate integration external tool exist site pull member application content report need create custom workflow migrate exist API program Mashery API use RESTful protocol response format JSONRPC"
+    },
+    {
+        "progweb_cat": "API,API Design",
+        "api_name": "Nanoscale",
+        "id": 3139,
+        "progweb_descr": " Nanoscale provide integration API microservices API dashboard contain endpoint environment host reference SDKs available indirectly access interface It require JSON architecture token access"
+    },
+    {
+        "progweb_cat": "API,API Design",
+        "api_name": "Jam",
+        "id": 3897,
+        "progweb_descr": " Jam API enable parse website JSON accessible API via CSS selector It feature element property correspond array Sample code available Nodejs Ruby language"
+    },
+    {
+        "progweb_cat": "API,News Services",
+        "api_name": "Presshub.io",
+        "id": 3296,
+        "progweb_descr": " Presshubio allow developer publish external site article post many major online content publisher Facebook Instant Articles Apple News Medium"
+    },
+    {
+        "progweb_cat": "API,Catalogs",
+        "api_name": "APIs.guru",
+        "id": 3471,
+        "progweb_descr": " APIsguru API function directory open source machinereadable web APIs conform OpenAPI Swagger 20 description format It ideally API Wikipedia feature collection open source publicly accessible RESTful APIs Whether free pay API must editable anyone exist communitydriven project provide data accessibility REST platform qualify inclusion APIsguru API weed noncompliant private APIs transforms variety format Swagger 20 format fixes error addition accommodate additional data support daily specification update APIsguru API return response JSON format"
+    },
+    {
+        "progweb_cat": "API,Bitcoin",
+        "api_name": "Interactive Data Company",
+        "id": 3536,
+        "progweb_descr": " Interactive Data API integrate realtime system offer financial market data Also offer analytics related solution financial institution active trader individual investor This API support 160 currency commodity data historical exchange rate personalize commodity currency data hardtovalue instrument Interactive Data API REST base require API Keys authentication respond XML CSV XLS JSON"
+    },
+    {
+        "progweb_cat": "API,eCommerce",
+        "api_name": "Veeqo",
+        "id": 3679,
+        "progweb_descr": " Veeqo multichannel order processing platform inventory management system This platform support ship label printing report accounting integration allow automate manipulation order inventory data across different ecommerce site Veeqo API respond JSON format us OAuth 2 authentication"
+    },
+    {
+        "progweb_cat": "API,Testing",
+        "api_name": "Ping",
+        "id": 4168,
+        "progweb_descr": " Ping API service allow developer test APIs It use determine API behaving unexpectedly determine response time different country validate login flow Users test APIs use script write JavaScript CoffeeScript Test server available Oregon US Virginia US Tokyo Japan Singapore Frankfurt Germany"
+    },
+    {
+        "progweb_cat": "API,Payments",
+        "api_name": "Square Connect",
+        "id": 4250,
+        "progweb_descr": " Square Connect API money management tool developer allow management transaction sale report inventory Square offer multiple APIs aim provide snycing capability sale report employee management iOS platform"
+    },
+    {
+        "progweb_cat": "API,Application Development",
+        "api_name": "Amazon MWS",
+        "id": 4301,
+        "progweb_descr": " Amazon MWS Marketplace Web Service API specific service people sell Amazon This API offer amazon seller swap information order report payment listing enables sell automation help seller grow business"
+    },
+    {
+        "progweb_cat": "API,REST",
+        "api_name": "HTTP Library Test",
+        "id": 4565,
+        "progweb_descr": " HTTP Library Test API allow developer test different kind HTTP scenario All endpoint response JSONencoded"
+    },
+    {
+        "progweb_cat": "API,Activity Streams",
+        "api_name": "Streamdata.io",
+        "id": 4967,
+        "progweb_descr": " Streamdataio REST API allow developer access integrate functionality Streamdata application APIs Streamdata allow developer turn API stream API Streamdataio host service proxy turn API stream API"
+    },
+    {
+        "progweb_cat": "API,API Management",
+        "api_name": "Amazon Gateway",
+        "id": 5394,
+        "progweb_descr": " Amazon Gateway API aim simplify API development process publish maintain monitoring application scale mention website What developer create API access data business logic functionality Amazon Elastic Compute Cloud EC2 Amazon Web Services Resources include developer guide basic authentication reference REST protocol"
+    },
+    {
+        "progweb_cat": "API,Conversions",
+        "api_name": "Youtube Signature Decoder",
+        "id": 6485,
+        "progweb_descr": " Youtube Signature Decoder Sirianeorg allow developer send Youtube protect video signature correct signature return Developers use information order gain access video audio stream This simple API use one HTTP GET request accept 400 unit day service offer monthly charge unlimited usage"
+    },
+    {
+        "progweb_cat": "API,Analytics",
+        "api_name": "getCorporateActions",
+        "id": 6988,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getCorporateActions API provide corporate action data equity include Splits Dividends Earnings base symbol All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "API,Analytics",
+        "api_name": "getHighLows",
+        "id": 6989,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getHighsLows API provide list new 52week high 52week low base exchange asset type All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "API,Data",
+        "api_name": "CDYNE",
+        "id": 15838,
+        "progweb_descr": " CDYNE create provide usebased quality communication data solution include SMS Voice Data Enhancement Verification Our APIs allow end user easily integrate product exist application program"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Activity Streams,Social",
+        "api_name": "Yammer OG Delivery",
+        "id": 5319,
+        "progweb_descr": " Yammer private social network company Yammer OG Delivery API allow developer deliver activity user ’ Yammer network This do defining appropriate JSON payload post API endpoint use Oauth access token obtain earlier process authentication"
+    },
+    {
+        "progweb_cat": "Activity Streams,Feeds",
+        "api_name": "Stream",
+        "id": 6259,
+        "progweb_descr": " Stream API allow developer access integrate functionality Stream application create new application Some example API method include add delete activity retrieve activity manage user information Stream activity stream newsfeed service Activity stream newsfeeds build Stream implement scale"
+    },
+    {
+        "progweb_cat": "Activity Streams,Application Development",
+        "api_name": "GetStream.io",
+        "id": 6571,
+        "progweb_descr": " GetStreamio API allow user quickly build scalable news feed After create free account receive API Key user create Flat Aggregated Notification feed well addremove activity followunfollow batch insert activity GetStreamio currently client Ruby JavaScriptNode Python PHP A free account allow 3million fanouts per month 5GB free storage unlimited user account More fanouts storage available pay account"
+    },
+    {
+        "progweb_cat": "Activity Streams,Marketing",
+        "api_name": "Spredfast Flock",
+        "id": 6652,
+        "progweb_descr": " Flock API provide information state Flock Unlock In word provide developer information percentage progress towards target volume achieve unlock goody example display behindthescenes photo get 1000 tweet wthe flock hashtag"
+    }
+]

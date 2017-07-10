@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Infrastructure-as-a-Service,Application Development",
+        "api_name": "OpenStack Compute",
+        "id": 2336,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service It provide standard APIs well suit multiple implementation OpenStack Compute API product OpenStack Nova project API provide RESTful HTTP service platform access tremendously scalable ondemand compute resource use either virtual physical machine Its deployment require access OpenStack Compute service provider API strictly support JSONformatted request response"
+    },
+    {
+        "progweb_cat": "Infrastructure-as-a-Service,Applications",
+        "api_name": "OpenStack Container Infrastructure Management",
+        "id": 2344,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service It provide standard APIs well suit multiple implementation OpenStack Container Infrastructure Management Magnum API allow developer deploy magnum commandline client communication channel create manage container cluster Its RESTful property enable use Advanced Messaging Queuing Protocol AMQP send request magnum conductor portal Operating service run controller machine magnum conductor orchestrate cluster simply connect heat OpenStack Magnum API use HTTP method process request response"
+    },
+    {
+        "progweb_cat": "Infrastructure-as-a-Service",
+        "api_name": "Chef Push Jobs",
+        "id": 6089,
+        "progweb_descr": " Chef cloud base company provide business way manage infrastructure turn workable code Chef Push Jobs API use create job retrieve status use Chef Push Jobs tool API let developer integrate service application enable customer get notification job realtime"
+    },
+    {
+        "progweb_cat": "Infrastructure-as-a-Service,Domains",
+        "api_name": "BuddyNS",
+        "id": 6162,
+        "progweb_descr": " BuddyNS API allow management associate zone verification registry authority correctness zone delegation status zone BuddyNS cluster timely synchronization zone domain name owner Access REST API HTTP HTTPs require basic HTTP authentication API KeyToken Requests HTTP POST response JSON Buddy NS API BuddyNS secondary DNS service feature automatic timely synchronization support international domain name IDM multiserver international cluster distribution BuddyNS private DNS cache open public BuddyNS provide free query 3 million monthly unlimited record update domain"
+    },
+    {
+        "progweb_cat": "Infrastructure-as-a-Service,Analytics",
+        "api_name": "6fusion",
+        "id": 6275,
+        "progweb_descr": " API 6fusion offer integration feature bill contract infrastructure service infrastructure service It allow user analyze cost efficiency IT service market trend JSON fetch resource GET method Available documentation generic key OAuth token"
+    },
+    {
+        "progweb_cat": "Infrastructure-as-a-Service,Billing",
+        "api_name": "Infrastructure Republic WWWengine",
+        "id": 6444,
+        "progweb_descr": " WWWengine REST API allow Internet Service Providers ISPs integrate website product ISP account Infrastructure Republic enable business setup management feature address cloud Infrastructure Republic API offer solution Telcos ISPs IAPs registrars domain host company API parameter enable follow service programmatically access manipulated Domains Provisioning Management Customer Management Domains Monetization Provisioning Management Domains Whois Privacy Provisioning Management Enterprise DNS Provisioning Management Website Security Provisioning Management API documentation find open source GitHub"
+    }
+]

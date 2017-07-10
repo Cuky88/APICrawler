@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Bluetooth,Location",
+        "api_name": "Google Proximity Beacon",
+        "id": 5013,
+        "progweb_descr": " Google Proximity Beacon API allow developer manage data associate BLE beacon use REST interface This API part Bluetooth low energy BLE beacon platform also include Eddystone open beacon format Google"
+    },
+    {
+        "progweb_cat": "Bluetooth,Messaging",
+        "api_name": "Orange Beacon",
+        "id": 5466,
+        "progweb_descr": " Use Orange Beacon API Orange Partner send push notification Bluetooth Set beacon send message Bluetooth device proximity beacon Interested developer must sign account information"
+    }
+]

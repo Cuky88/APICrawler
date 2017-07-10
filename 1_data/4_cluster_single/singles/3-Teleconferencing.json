@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Teleconferencing",
+        "api_name": "Plivo Conference Member",
+        "id": 5605,
+        "progweb_descr": " Plivo Conference Member API let developer perform various function hangup member call kick member conference mutingunmuting member Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Teleconferencing",
+        "api_name": "Plivo Conference",
+        "id": 5606,
+        "progweb_descr": " Plivo Conference API allow developer list ongoing conference account It also let developer terminate particular conference Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Teleconferencing,Audio",
+        "api_name": "AnyMeeting",
+        "id": 6940,
+        "progweb_descr": " AnyMeeting API offer client access scalable business videoconferencing solution Developers access AnyMeeting API share data programmatically interface presentation communication mode conferencing platform make available integration web video phone Through AnyMeeting API partner gain access screensharing multiparty video share phone base conferencing webinars record feature"
+    }
+]

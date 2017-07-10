@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Integration,Analytics",
+        "api_name": "PeopleKeys",
+        "id": 3525,
+        "progweb_descr": " PeopleKeys API support integration requisite functional feature profile personality trait individual APIs provider PeopleKeys lead vendor solution analyze people behavioral pattern basis DISC Drive Influence Steadiness Compliance theory Developers use RESTful API access integrateand manipulate wide range profiling feature associate DISC platform current version API v30 beta release design provide accessibility vendor ’ proprietary DISC24 test"
+    },
+    {
+        "progweb_cat": "Integration,API",
+        "api_name": "CalcFusion",
+        "id": 5145,
+        "progweb_descr": " CalcFusion API REST API enable automation Excel spreadsheets This accomplished transform Excel API facilitate communication CalcFusion 3rd party system enterprise software With CalcFusion user easily build new apps embed websites new feature integrate within IT system Salesforce Java PHP Net"
+    },
+    {
+        "progweb_cat": "Integration,Database",
+        "api_name": "Espresso Logic Live",
+        "id": 6982,
+        "progweb_descr": " Live API create RESTJSON API database table view store procedure It allow user extend API complex REST endpoint include nocompile business rule security filter pagination optimistic locking service integration API provide integration SQL NoSQL databases enterprise system RESTSOAP service"
+    }
+]

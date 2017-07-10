@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Marine,Location",
+        "api_name": "AISHub XML Webservice",
+        "id": 2513,
+        "progweb_descr": " This API allow AISHub member access webservice retrieve AISHub data XML JSON format Some data form return AISHub data XML ZIP file vessel area boundary JSON file data vessel MMSI include MMSI Time Longitude latitude AIS vessel track develops navigation safety AIS track system originally develop collision avoidance tool enable commercial vessel see clearly condition improve helmsman information surround environment AIS continuously transmit vessel position identity speed course along relevant information AIS equip vessel within range"
+    },
+    {
+        "progweb_cat": "Marine,Data",
+        "api_name": "Pole Star",
+        "id": 4417,
+        "progweb_descr": " Pole Star API support stream navigational tracking data ship cruise high sea berth destination port API ’ provider Pole Star Space Applications Ltd major international brand maritime transportation industry Other transmit request return JSON protocol RESTful API simple configuration design aid integration compatibility client host application Pole Star API welldocumented access require API key permission"
+    },
+    {
+        "progweb_cat": "Marine,Data-as-a-Service",
+        "api_name": "World Tides",
+        "id": 5768,
+        "progweb_descr": " Use World Tides API retrieve tidal information anywhere world World Tides API accept call via GET POST return data JSON support HTTPHTTPS Developers receive API Key authentication register World Tides API return information coordinate close point tidal information available height tide give time tidal data user calculate tide height give time See World Tides API documentation information code example"
+    }
+]

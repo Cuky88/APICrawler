@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "HTML5,Application Development",
+        "api_name": "Monaca Cloud",
+        "id": 2278,
+        "progweb_descr": " This API provide browserbased development environment service It provide Cordova development without setup right Web browser Monaca lead HTML5 development platform give developer power create rich UI PhoneGap apps run native speed"
+    },
+    {
+        "progweb_cat": "HTML5,Application Development",
+        "api_name": "CodePen",
+        "id": 6053,
+        "progweb_descr": " Codepen browserbased HTML CSS JavaScript code editor supply instant preview program Codepen also describe playground front end developer community hub forum Codepen API use access store HTML CSS JavaScript file store HTTPS endpoint also perform autoforking In order fill pen different value developer make POST request Codepen endpoint data format JSON Using prefill editor function user programmatically update project title library dependency CSS color use HTML processing"
+    },
+    {
+        "progweb_cat": "HTML5,Browsers",
+        "api_name": "Web Storage",
+        "id": 6456,
+        "progweb_descr": " Web Storage API HTML browserbased API offer alternative data storage method cookies An example use case user may complete multiple transaction different window provider To solve issue arise cooky developer use Web Storage sessionStorage IDL attribute store relevant information browser session enable data disperse across multiple page access site window Furthermore localStorage IDL attribute use store browser large amount sitespecific information accessible across multiple window Web Storage API documentation come form abstract write edit Google W3C representative"
+    },
+    {
+        "progweb_cat": "HTML5,Validation",
+        "api_name": "Validator.nu",
+        "id": 12680,
+        "progweb_descr": " service validates html code range standard specify request Options include generic html5 validation validation document object model Input include http http URL data resource IRI A range preset schema specify request API method support submission resource URL validate along number parameter parser schema Unicode option Returned data provide reference departures relevant standard"
+    }
+]

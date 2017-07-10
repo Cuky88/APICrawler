@@ -1,0 +1,128 @@
+[
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Datarella",
+        "id": 641,
+        "progweb_descr": " Datarella big data collection company base Germany Their Explore app access sensor smartphones wearable device record data like location environment personal behavior This data aggregate issued way respect user privacy Datarella partner help increase customer data portfolio Datarella API provide way user may access data set consume real time analytics Explore app user In addition OAuth API accept user Explore App login email password authentication"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "ThreatConnect",
+        "id": 1444,
+        "progweb_descr": " Threat Connect API integrate intelligent analytics detect threat It available REST architecture HTTP request JSON format It accessible format HTTP header With API developer implement cyber defense measure"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Dark Gray Engines Line Intelligence",
+        "id": 1566,
+        "progweb_descr": " Line Intelligence API allow developer retrieve information user phone number country code carrier line type This use validate phone number registration purchase JSON prefer response format Dark Gray Engines offer user intelligence tool data mining service Organizations benefit user behavior analysis advance machine learn prediction credit card fraud detection address verification proxy detection language prediction sentiment analysis geolocation"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Dark Gray Engines Whois",
+        "id": 1571,
+        "progweb_descr": " Whois API provide ownership registrant information give IP address This functionality pair Geolocation API match IP address physical registrant detail JSON prefer response format Dark Gray Engines offer user intelligence tool data mining service Organizations benefit user behavior analysis advance machine learn prediction credit card fraud detection address verification proxy detection language prediction sentiment analysis"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Dark Gray Engines Geolocation",
+        "id": 1572,
+        "progweb_descr": " Geolocation API offer location data determine user IP address API use provide location base content language currency JSON prefer response format Dark Gray Engines offer user intelligence tool data mining service Organizations benefit user behavior analysis advance machine learn prediction credit card fraud detection address verification proxy detection language prediction sentiment analysis"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Dark Gray Engines Address Intelligence",
+        "id": 1573,
+        "progweb_descr": " Address Intelligence API offer detailed address information API use verify address verify deliverability ship identify commercial residential address JSON prefer response format Dark Gray Engines offer user intelligence tool data mining service Organizations benefit user behavior analysis advance machine learn prediction credit card fraud detection address verification proxy detection language prediction sentiment analysis"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Dark Gray Engines IP Reputation",
+        "id": 1574,
+        "progweb_descr": " IP Reputation API offer information IP address related blacklist virus malware report source relevant security data determine site consider trustworthy JSON prefer response format Dark Gray Engines offer user intelligence tool data mining service Organizations benefit user behavior analysis advance machine learn prediction credit card fraud detection address verification proxy detection language prediction sentiment analysis"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Dark Gray Engines Proxy Detection",
+        "id": 1575,
+        "progweb_descr": " Proxy Detection API determine IP address behind proxy TOR service JSON prefer response format Dark Gray Engines offer user intelligence tool data mining service Organizations benefit user behavior analysis advance machine learn prediction credit card fraud detection address verification proxy detection language prediction sentiment analysis"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Dark Gray Engines OTP SMS Verification",
+        "id": 1579,
+        "progweb_descr": " OneTime Password OTP Simple Message Service SMS Verification API determine ownership mobile device Users provide API phone number engine generate 6digit one time password verification JSON prefer response format Dark Gray Engines offer user intelligence tool data mining service Organizations benefit user behavior analysis advance machine learn prediction credit card fraud detection address verification proxy detection language prediction sentiment analysis"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Dark Gray Engines Credit Card Fraud Risk",
+        "id": 1580,
+        "progweb_descr": " Credit Card Fraud Risk API calculate risk score base credit card transaction Several source use determine say risk score include location address verification high risk country domain age JSON prefer response format Dark Gray Engines offer user intelligence tool data mining service Organizations benefit user behavior analysis advance machine learn prediction credit card fraud detection address verification proxy detection language prediction sentiment analysis"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Dark Gray Engines Disposable E-Mail",
+        "id": 1581,
+        "progweb_descr": " Disposable EMail API determine email address relate know disposable email provider engine track 3600 disposable email provider JSON prefer response format Dark Gray Engines offer user intelligence tool data mining service Organizations benefit user behavior analysis advance machine learn prediction credit card fraud detection address verification proxy detection language prediction sentiment analysis"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Ryft",
+        "id": 4209,
+        "progweb_descr": " Ryft provide big data analytics solution Ryft API available free trial data analysis real time intelligence purpose httpwwwryftcomfreetrial Ryft provide JDBC ODBC OData JSON interface Java Scala Python C C R library"
+    },
+    {
+        "progweb_cat": "Intelligence,Analytics",
+        "api_name": "Idilia Query Rewriting",
+        "id": 5007,
+        "progweb_descr": " Idilia Query Rewriting API provide paraphrase Internet search query use machine learning pattern Available format XML JSON REST Idilia Query Rewriting analyze semantic relationship Language Graph Developers authenticate API Key See demo httpwwwidiliacomdemosqueryrewriting"
+    },
+    {
+        "progweb_cat": "Intelligence,Energy",
+        "api_name": "Unplugg",
+        "id": 1767,
+        "progweb_descr": " Unplugg API provide forecast energy consumption temperature timeseries data energy product API return predictive JSON payload timeseries webhooks base historical data Developers need obtain API Key request access documentation Unplugg software development firm base Portugal"
+    },
+    {
+        "progweb_cat": "Intelligence,Monitoring",
+        "api_name": "Wapack Labs Cyberwatch",
+        "id": 3061,
+        "progweb_descr": " Wapack Labs Cyberwatch API integrate domain search application It aim useful security purpose monitor web activity Available JSON CSV format API Key Wapack Labs provide cyberthreat security service"
+    },
+    {
+        "progweb_cat": "Intelligence,Data",
+        "api_name": "Orbit",
+        "id": 3924,
+        "progweb_descr": " Orbit API integrate artificial intelligence feature data application Orbit provide natural language processing platform API method language processing entity extraction classification sentiment analysis With API user detect languages identify people place type text analyze positive negative sentiment categorize text accord IPTC NewsCode standard"
+    },
+    {
+        "progweb_cat": "Intelligence,Hacking",
+        "api_name": "Blueliv",
+        "id": 4919,
+        "progweb_descr": " Blueliv API use integration Cyber Threat Intelligence feature application service Main component REST API access Token include predictive search engine threat prevention real time information Blueliv provide cyber threat information solution analysis intelligence enterprise service provider security vendor"
+    },
+    {
+        "progweb_cat": "Intelligence,Algorithms",
+        "api_name": "Idilia Language Graph",
+        "id": 5006,
+        "progweb_descr": " Idilia Language Graph API work knowledge base 100 million fact express relationship annotation Linguistic algorithm use Language Graph predict language sentiment API use obtain word classification information discover sense inventory word expression name entity See language graph work httpwwwidiliacomdemoslanguagegraphbrowser"
+    },
+    {
+        "progweb_cat": "Intelligence,Semantics",
+        "api_name": "Idilia Semantic Matching",
+        "id": 5008,
+        "progweb_descr": " Idilia Semantic Matching API available XML JSON REST protocols determines sense analysis document Use API include social medium monitor search precision profanity filter A parameter add additional semantic analysis Visit Twitter demo site httpwwwidiliacomdemostwitterfiltering"
+    },
+    {
+        "progweb_cat": "Intelligence,Extraction",
+        "api_name": "AlchemyAPI Keyword Extraction",
+        "id": 5655,
+        "progweb_descr": " AlchemyAPI Keyword Extraction API extract topic keywords text HTML post webbased content This API normalize target text remove ad navigation link unnecessary content extract topic keywords Alchemy API Keyword Extraction API support several language make foreign language topic keyword extraction categorize possible Requests JSON response JSON RDF XML Authentication unique private API Key AlchemyAPI data mining platform It provide set semantic analysis capability natural language processing field Customers able perform social medium monitor target advertisement track sentiment medium automate content aggregation recommendation"
+    },
+    {
+        "progweb_cat": "Intelligence,Contacts",
+        "api_name": "InsideView",
+        "id": 6930,
+        "progweb_descr": " InsideView CRM intelligence service offer complete accurate customer information help increase sale market productivity It help user clean segment marketing database complete company contact information InsideView also help prioritize sale opportunities user focus one best chance close InsideView API enable user access platform function programmatically integrate application"
+    }
+]

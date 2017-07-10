@@ -1,0 +1,236 @@
+[
+    {
+        "progweb_cat": "Content Management",
+        "api_name": "Kentico",
+        "id": 704,
+        "progweb_descr": " Kentico Cloud APIs give developer access cloudbased APIfirst CMS enable create web mobile application use preferred language technology API call must authorize use API key unless developer retrieve publish content project Delivery API documentation include example request Curl response JSON method"
+    },
+    {
+        "progweb_cat": "Content Management",
+        "api_name": "Drupal Routing",
+        "id": 3982,
+        "progweb_descr": " Drupal Routing REST API allow developer access integrate functionality Drupal Routing application Some example API method include retrieve pathway manage pathway route content manage account Drupal Routing provide way sort Drupal content rout"
+    },
+    {
+        "progweb_cat": "Content Management",
+        "api_name": "HPE Haven OnDemand Retrieve Index Fields",
+        "id": 5977,
+        "progweb_descr": " Retrieve Index Fields API offer HP IDOL OnDemand let developer retrieve list field ingest give text index Retrieve Index Fields API also return type field HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Content Management",
+        "api_name": "Content Management",
+        "id": 6937,
+        "progweb_descr": " Content Management RESTful API Contentful API allow user import content personal server thirdparty system tap crowdsourced user contribution Some feature include ability automate content import update custom script export content offline backup build content management application"
+    },
+    {
+        "progweb_cat": "Content Management",
+        "api_name": "Osmek",
+        "id": 15124,
+        "progweb_descr": " Osmek web publish system host cloud It separate content everything else site use number way Its API let retrieve content need feature RESTful interface return data JSON PHP HTML XML format"
+    },
+    {
+        "progweb_cat": "Content Management",
+        "api_name": "Bitrix Platform",
+        "id": 15236,
+        "progweb_descr": " Bitrix API provide insight Bitrix Site Manager web management system Bitrix Intranet Portal intranet collaboration suite Bitrix Site Manager technological base building manage web sit It offer way develop support maintain web project Bitrix Site Manager use commercial personal web developer base develop new site manage exist site API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Content Management,Content",
+        "api_name": "Facebook Instant Articles",
+        "id": 2260,
+        "progweb_descr": " Facebook Instant Articles API allow developer create publish update delete Instant Articles content management system Instant Articles article load instantly reader Facebook feed make likely click read Users publish new Instant Articles via API become publicly available user website"
+    },
+    {
+        "progweb_cat": "Content Management,Content",
+        "api_name": "MediaValet Enterprise Media Library Management",
+        "id": 3731,
+        "progweb_descr": " MediaValet API intend offer developer cloudbased digital asset management solution DAMS build 100 scratch Microsoft Azure MediaValet API aim provide developer ability set search upload download share protocol enterprisewide digital asset user APIs goal integrate outside website variety application include Office 365 Active Directory Adobe Suite Hootsuite others"
+    },
+    {
+        "progweb_cat": "Content Management,Content",
+        "api_name": "Pressly",
+        "id": 4617,
+        "progweb_descr": " Pressly REST API allow developer access integrate functionality Pressly applications Some example API method include retrieve content ping view content detail information manage content user Pressly content management platform allow user audience share discover content Pressly also offer content marketing service"
+    },
+    {
+        "progweb_cat": "Content Management,Content",
+        "api_name": "Contentful Images",
+        "id": 5054,
+        "progweb_descr": " Contentful Images API permit retrieve image asset PDF file image videos It show JSON responses It accessible token API option include change image format modify JPEG quality resize crop change background color Contentful APIfirst content management system design work well across multiple device type"
+    },
+    {
+        "progweb_cat": "Content Management,Content",
+        "api_name": "Contentful Preview",
+        "id": 5055,
+        "progweb_descr": " Contentful Preview API help developer view unpublished content deliver drafts entry Available JSON REST format token authentication model Preview API work content management system compatible device Contentful APIfirst content management system design work well across multiple device type"
+    },
+    {
+        "progweb_cat": "Content Management,Content",
+        "api_name": "Widen Media Collective",
+        "id": 10169,
+        "progweb_descr": " Widen Media Collective webbased digital asset management solution Widen Enterprises Users Widen Collective manage share distribute digital asset photos logos audiovideo clip presentation document Widen offer Web Services API allow web application search access digital asset metadata Widen Digital Asset Management DAM With API client dynamically pull asset metadata Widen DAM use web application"
+    },
+    {
+        "progweb_cat": "Content Management,API",
+        "api_name": "Cosmic JS",
+        "id": 2269,
+        "progweb_descr": " Cosmic JS API allow developer access manage content use webbased internetconnected application Developers deploy web apps public Git repository well private repository With upgraded bucket add unlimited custom domains Developers use Cosmic JS dashboard manage content drag drop medium build content relationship"
+    },
+    {
+        "progweb_cat": "Content Management,API",
+        "api_name": "Gentics Mesh",
+        "id": 3970,
+        "progweb_descr": " Gentics Mesh API integrate content management web service mobile application It provide REST JSON parameter accessible token"
+    },
+    {
+        "progweb_cat": "Content Management,Advertising",
+        "api_name": "Brandfolder",
+        "id": 2380,
+        "progweb_descr": " Brandfolder API allow developer integrate exist application digital asset management platform API offer programmatic access complex level workflow customization Tokens use authentication GET method support Brandfolder Colorado base firm help company protect organize optimize digital asset"
+    },
+    {
+        "progweb_cat": "Content Management,Backend",
+        "api_name": "Rooftop CMS",
+        "id": 3082,
+        "progweb_descr": " Rooftop CMS API facilitate construction apps responsive crossplatform multilanguage content management environment It essentially WordPress solution developer use implement CMS application language It make easy nonPHP developer integrate WordPress functionality CMSs API ’ provider ’ ability host content spar developer need generate WordPress theme RESTful API send request JSON format return responses JSON Webhooks format"
+    },
+    {
+        "progweb_cat": "Content Management,Backend",
+        "api_name": "prismic.io",
+        "id": 8537,
+        "progweb_descr": " prismicio API help developer designer build digital product fast enjoyable way manage content"
+    },
+    {
+        "progweb_cat": "Content Management,B2B",
+        "api_name": "ButterCMS",
+        "id": 3803,
+        "progweb_descr": " ButterCMS APIfirst CMS rapidly build CMSpowered website program language Great blog dynamic page"
+    },
+    {
+        "progweb_cat": "Content Management,Enterprise",
+        "api_name": "Plone CMS",
+        "id": 4915,
+        "progweb_descr": " Pythonbased Plone CMS API provide integration resource content management system It provide REST style aim facilitate implementation offer HTTP basic auth authenticate user Plone open source CMS content editor site administrator designers deployers developer"
+    },
+    {
+        "progweb_cat": "Content Management,Blogging",
+        "api_name": "Hail",
+        "id": 5068,
+        "progweb_descr": " Hail REST API allow developer access integrate functionality Hail application Some example API method include manage user retrieve post article manage tags manage content Hail content management system allow user create manage publish content easily across multiple channel device"
+    },
+    {
+        "progweb_cat": "Content Management,Blogging",
+        "api_name": "Neocities",
+        "id": 5629,
+        "progweb_descr": " Neocities API allow developer make change website programmatically Neocities provide free hosting tool help people create website discover new one It feature inbrowser HTML editor custom domain support easy file upload RSS feed Neocities doesnt insert ad user website"
+    },
+    {
+        "progweb_cat": "Content Management,Health",
+        "api_name": "Ability Access",
+        "id": 5244,
+        "progweb_descr": " Ability Network customer management system target healthcare service like home health hospice agency skilled nursing facility Clinics physician also benefit Ability RESTbased API Ability Access available toolkit aim manage business health data efficiently"
+    },
+    {
+        "progweb_cat": "Content Management,Applications",
+        "api_name": "Instart Logic",
+        "id": 5252,
+        "progweb_descr": " Instart Logic API allow developer access Instart Logics cloud application delivery service programmatically Users anything API customer portal web interface Instart Logic design deliver mobile cloud application faster CDN Content Delivery Network"
+    },
+    {
+        "progweb_cat": "Content Management,Editing",
+        "api_name": "Wagtail",
+        "id": 5347,
+        "progweb_descr": " Wagtail content management system offer open source edit feature It create Python language use Django framework REST architecture Created developer developer While API access capability edit content manage document select formats editor guide explain create new page manage document image Wagtail part Torchbox agency UK dedicate digital strategy UX design animation implementation service"
+    },
+    {
+        "progweb_cat": "Content Management,Design",
+        "api_name": "dotCMS",
+        "id": 5386,
+        "progweb_descr": " dotCMS content management service provide search geolocation recommendation customization RESTful API offer web service content store widget REST JSON JSONP format What characteristic seem unique dotCMS Responsive design multiserver high scalability push publish visual workflow comprehensive package open source APIs"
+    },
+    {
+        "progweb_cat": "Content Management,Design",
+        "api_name": "ThemeForest",
+        "id": 15330,
+        "progweb_descr": " ThemeForest marketplace buy sell website template CMS theme sort product like WordPress Drupal Joomla Files price base complexity quality use file Anyone free sign account begin trade purchasing file"
+    },
+    {
+        "progweb_cat": "Content Management,Integration",
+        "api_name": "Mezzanine",
+        "id": 5718,
+        "progweb_descr": " Mezzanine API RESTful API help developer create custom content type programmatically interact search engine customize way search engine access different type content Mezzanine open source content management platform build use Django framework It provide simple yet also extensible architecture support diverse active community utilize default functionality provide integrated efficient platform"
+    },
+    {
+        "progweb_cat": "Content Management,Database",
+        "api_name": "ServerPilot",
+        "id": 6680,
+        "progweb_descr": " ServerPilot API allow developer manage server system user databases use HTTPS request API also allow developer create web application All response return JSON format"
+    },
+    {
+        "progweb_cat": "Content Management,Auctions",
+        "api_name": "eBay Return Management",
+        "id": 6690,
+        "progweb_descr": " eBay Return Management API let developer retrieve manage buyer return Information retrieve summary buyer return item detail information specific return Some detailed information include reason return day allow returnsAdditionally API also allow developer provide buyer return information"
+    },
+    {
+        "progweb_cat": "Content Management,Auctions",
+        "api_name": "eBay Related Items Management",
+        "id": 6691,
+        "progweb_descr": " eBay Related Items Management service let seller bundle product together ie show related item item buyer interested Its API allow developer integrate application create product bundle use various type use case"
+    },
+    {
+        "progweb_cat": "Content Management,Webhooks",
+        "api_name": "Content Delivery",
+        "id": 6836,
+        "progweb_descr": " Contentfuls Content Deliverly API offer way deliver content mobile apps website connect device It design help display content end user Features API include run query content fullyindexed JSON enable offline content usage delta synchronization integrate service via webhooks"
+    },
+    {
+        "progweb_cat": "Content Management,Classification",
+        "api_name": "HPE Haven OnDemand Add to Text Index",
+        "id": 7319,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Add Text Index API organize incoming content index make content easy integrate APIs In order index content one must first use Create Text Index API create index Asynchronous API usage recommend large quantity request"
+    },
+    {
+        "progweb_cat": "Content Management,Classification",
+        "api_name": "HPE Haven OnDemand Create Text Index",
+        "id": 7320,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Create Text Index API allow one create index unique name Developers use index classify content use Add To Text Index API Indexes come different format call flavor vary accord maximum number document scale performance number field type"
+    },
+    {
+        "progweb_cat": "Content Management,Classification",
+        "api_name": "HPE Haven OnDemand Delete Text Index",
+        "id": 7321,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Delete Text Index API allow one delete index previously create Create Text Index API Indexes come different format call flavor vary accord maximum number document scale performance number field type To delete index one send request Delete Text Index API include name index one desire delete"
+    },
+    {
+        "progweb_cat": "Content Management,Classification",
+        "api_name": "HPE Haven OnDemand Delete from Text Index",
+        "id": 7322,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Delete Text Index API allow one delete content index previously insert Add Text Index API To delete content one send request Delete Text Index API include index name reference content one desire delete After deletion content available use additional APIs"
+    },
+    {
+        "progweb_cat": "Content Management,Classification",
+        "api_name": "HPE Haven OnDemand Index Status",
+        "id": 7323,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Their set Indexing APIs allow content management general classification ability Indexes come different format call flavor vary accord maximum number document scale performance number field type To check status index flavor developer send request Index Status API return data number content piece storage availability recent updatesadditions"
+    },
+    {
+        "progweb_cat": "Content Management,Classification",
+        "api_name": "HPE Haven OnDemand List Indexes",
+        "id": 7324,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Their set Indexing APIs allow general databasing functionality Indexes come different format call flavor vary accord maximum number document scale performance number field type List Index API return list name dynamic data set create Create Text Index API"
+    },
+    {
+        "progweb_cat": "Content Management,Hosting",
+        "api_name": "uCoz",
+        "id": 10262,
+        "progweb_descr": " service provide host website simple configuration content management CMS tool help technically naive user manage update site Functions organize number module place content functional component onto page Controls include access permission content type page blog news photo etc visitor forum content index Site owner register domain create site provider domain handson control function API method support create new page add text photo content along update exist page Methods allow blog news content type different element API support management site user account permission access content well content display template"
+    },
+    {
+        "progweb_cat": "Content Management,Web Site Management",
+        "api_name": "liveSTORYBOARD CMS",
+        "id": 13056,
+        "progweb_descr": " liveSTORYBOARD CMS web content author management publishing system It fully compliant W3C standard support humanreadable URLs use clean markup style help search engine index client sit easily All site content store XML format enable easy retrieval via custom topical hierarchy liveSTORYBOARD browserbased hosted CMS mean user access service time anywhere browser internet connection"
+    }
+]

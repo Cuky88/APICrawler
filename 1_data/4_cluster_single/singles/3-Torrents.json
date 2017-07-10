@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Torrents,Aggregation",
+        "api_name": "OneOm",
+        "id": 2191,
+        "progweb_descr": " OneOm API return torrent file magnet link subtitle TV show Methods include list TV show runtime date image search TV show title obtain TV schedule specific date This information available JSON format"
+    },
+    {
+        "progweb_cat": "Torrents,Cloud",
+        "api_name": "Bitport",
+        "id": 3042,
+        "progweb_descr": " Bitport API allow developer create torrent related extension plugins Bitport platform use download torrent cloud play online All work do Bitports server user IP address keep secure Also torrent access anywhere big torrent download faster"
+    },
+    {
+        "progweb_cat": "Torrents,Data",
+        "api_name": "Debrid Link",
+        "id": 6291,
+        "progweb_descr": " Debrid Link downloader seedbox host download file store filehosters exchange information use BitTorrent protocol across remote server This torrent application access service fast download compatible many filehosters Using Debrid Link RESTful API developer command POST GET HTTP request programmatically access seedboxes create torrent application Specific API call make return user information manage retrieve torrent data within seedbox access downloader manage link receive traffic information interact Debridlink forum result API request return JSON format Based France Debrid Link charge monthly subscription API usage free testing include"
+    }
+]

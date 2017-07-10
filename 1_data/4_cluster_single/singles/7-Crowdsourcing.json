@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Crowdsourcing,Annotations",
+        "api_name": "Playment",
+        "id": 1966,
+        "progweb_descr": " Playment REST API allow developer access integrate functionality Playment applications Some example API method include create request job manage request retrieve job result Playment online platform crowdsourcing people annotate image moderate online content ondemand workforce"
+    },
+    {
+        "progweb_cat": "Crowdsourcing,Business",
+        "api_name": "Scale",
+        "id": 3077,
+        "progweb_descr": " Scale API allow user access ondemand human workforce different category task innovative solution dub “ API Human Labor ” essentially scalable interface outsource labor ondemand workforce Users apply API perform variety task within categorization transcription phone call function provider API expand scope functionality gradual introduction new endpoint Scale API generates request return response HTTP JSON format respectively"
+    },
+    {
+        "progweb_cat": "Crowdsourcing,Campaigns",
+        "api_name": "Ammado REST",
+        "id": 6026,
+        "progweb_descr": " Ammado global crowdsourcing platform visitor donate support million fundraiser non profit worldwide platform support 75 different currency type Using Ammado API developer integrate Ammado donation functionality 3rd party webaccessible application well manage fundraise campaign Making HTTP request developers program payment donor view support platform currency retrieve status donation search beneficiary active non profit create edit campaign API accessible API key request email Ammados support team"
+    },
+    {
+        "progweb_cat": "Crowdsourcing,Charity",
+        "api_name": "Crowdfunder",
+        "id": 6626,
+        "progweb_descr": " Crowdfunder UK base platform people crowdsource fund unique project Crowdfunder project typically involve social endeavor relate community charity environment art music publishing film theatre Currently open beta HTTP GET call Crowdfunder API make request JSON list current campaign filter project name category Implementing API user may programmatic access specific detail individual project include project field biography description URL current funding amount last pledge amount project video image category additional detail As API beta Crowdfunder accept feedback user may implement API"
+    },
+    {
+        "progweb_cat": "Crowdsourcing,Conversions",
+        "api_name": "CrowdTrust Bad Actor Check",
+        "id": 7193,
+        "progweb_descr": " Bad Actor Check API automate due diligence require Equity crowdfunding Users may register via CrowdTrust website CrowdTrust service provide user verify crowdfunding data This data use entrepreneur crowdfunding platform investor"
+    },
+    {
+        "progweb_cat": "Crowdsourcing,Browsers",
+        "api_name": "CrowdProcess",
+        "id": 7289,
+        "progweb_descr": " CrowdProcess provide browserpowered distributed compute platform It connect browser people use website associate CrowdProcess use small amount browser process power perform task job developer Things run well CrowdProcess generally highly parallel CPU intensive low IO requirement platforms performance dependent number bandwidth browser connect"
+    },
+    {
+        "progweb_cat": "Crowdsourcing,Writing",
+        "api_name": "Editz",
+        "id": 14273,
+        "progweb_descr": " Formerly call gooseGrade Editz crowdsourced copy edit solution When user join reader find send copy edit suggestion Editz build retroactive edit tool It work webpage HTML text Editz API allow developer use Editzs database correction create innovative application use Editz data With API user read correction get grade change correction status API use RESTful call response format XML JSON"
+    }
+]

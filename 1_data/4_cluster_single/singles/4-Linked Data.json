@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Linked Data,Big Data",
+        "api_name": "Ultralink",
+        "id": 2231,
+        "progweb_descr": " Ultralink platform flexible innovative channel connect access analyze data Developers use Ultralink API access content exploit functional component Ultralink database RESTful API apply clientside database deploy within mainstream webbased Ultralink database API conveys JSONformatted responses request authentication require API key"
+    },
+    {
+        "progweb_cat": "Linked Data,Open Data",
+        "api_name": "UniGraph",
+        "id": 3327,
+        "progweb_descr": " UniGraph API facilitate access vast collection knowledge resource API power UniGraph QL graph traversal language platform less imitation Facebookoperated GraphQL UniGraph QL support processing graphrelated query least intervention Developers option deploy either data stream endpoint RESTlike requestresponse endpoint Whereas data streaming endpoint support realtime transmission graph traverse result RESTlike requestresponse endpoint conveys result soon query execution RESTlike requestresponse endpoint also impose 20seconds time limit query execution automatically generate timeout error warning use either endpoint require basic understand UniGraph schema"
+    },
+    {
+        "progweb_cat": "Linked Data,Documents",
+        "api_name": "Link Developer",
+        "id": 6458,
+        "progweb_descr": " Link technology allow user include link rich digital content print document Users create digital watermark QR cod short URLs add poster label business card invitation flyer print item Digital watermark QR code scan mobile device take people directly link digital content Link Developer API allow user create watermarked image short URLs QR cod analyze traffic API also let user update destination link watermark QR code anytime even long create print"
+    },
+    {
+        "progweb_cat": "Linked Data,eCommerce",
+        "api_name": "Button Loyalty",
+        "id": 6547,
+        "progweb_descr": " Buttons DeepLink commerce give developer ability link complimentary apps together order extend app functionality across apps drive adoption increase downloads serverside integration Button offer RESTful Loyalty API help track crossapp commerce insert promotion apps order increase customer loyalty In order process API request developer must acquire partner ID partner secret access With HTTP POST GET request Button API programmatically evoke create manage user retrieve user point balance manage user point accordance loyalty reward move reward balance Button offer stag production API environments test publish respectively"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "progweb_cat": "Profiles,Email",
+        "api_name": "Klaviyo Profiles",
+        "id": 2239,
+        "progweb_descr": " Klaviyo Profiles API integrate person record management Developers interact REST architecture send HTTP request receive JSON response authenticate API Key API use organize profile customer respective record"
+    },
+    {
+        "progweb_cat": "Profiles,Avatars",
+        "api_name": "Avatar",
+        "id": 3366,
+        "progweb_descr": " Avatar API allow developer get user profile picture real name base email address This use personalize emailbased communication even add real name database email address API use public profile data hold Google include information 1 billion user"
+    },
+    {
+        "progweb_cat": "Profiles,Demographics",
+        "api_name": "Deconstructed Rule",
+        "id": 6554,
+        "progweb_descr": " Deconstructed platform aggregate service user data system connect device use API platform help map user device segment audience base real time comprehensive data profile incorporate identify attribute event data logins Deconstructeds Rule API use transform user profile data acquire via User API programmatically trigger event within development stack These condition base time base event attribute A use case could user sign subscribe service make purchase Rule API could program trigger site email service provider contact user example Rule API utilize create demographic segment help target advertising"
+    },
+    {
+        "progweb_cat": "Profiles,Data",
+        "api_name": "getFinacialRatios",
+        "id": 6835,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getFinancialRatios API provide key financial ratio equity base symbol Up 8 year financial ratio available field include earnings per share return equity price earnings All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Profiles,Data",
+        "api_name": "getIncomeStatements",
+        "id": 6962,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getIncomeStatements API provide access public company financial Income statement base symbol All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Profiles,Data",
+        "api_name": "getBalanceSheets",
+        "id": 6963,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getBalanceSheets API provide access public company financial balance sheet base symbol All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Profiles,Data",
+        "api_name": "getCompetitors",
+        "id": 6964,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getCompetitors API provide list related stock symbol competitor underlie stock input All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Profiles,Data",
+        "api_name": "getInsiders",
+        "id": 6965,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getInsiders API provide insider transaction record publically trade company base symbol Data report include date transaction transaction type number share transaction value All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Profiles,Data",
+        "api_name": "getRatings",
+        "id": 6966,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getRatings API provide analyst rating stock strong buy moderate buy hold moderate sell strong sell base symbol All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Profiles,Data",
+        "api_name": "getIndexMembers",
+        "id": 6967,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getIndexMembers API return stock compromise give index All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Profiles,Business",
+        "api_name": "getProfile",
+        "id": 6958,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getProfile API use request information company sector industry company description CEO recent earnings PE ratio address base symbol All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Profiles,Business",
+        "api_name": "getFinacialHighlights",
+        "id": 6959,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getFinancialHighlights API provide key financial highlight ratio statistic equity base symbol Fields include market capitalization revenue net income revenue growth earnings per share All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    }
+]

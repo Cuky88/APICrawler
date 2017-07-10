@@ -1,0 +1,116 @@
+[
+    {
+        "progweb_cat": "Semantics,Natural Language Processing",
+        "api_name": "Amplify",
+        "id": 773,
+        "progweb_descr": " Amplify web service develop Hapax brings human understand content Using patent Natural Language Processing technology Amplify read understands every word use text It identify significant topic brand people perspective emotion action timescales present finding actionable XML structure"
+    },
+    {
+        "progweb_cat": "Semantics,SEO",
+        "api_name": "VeryRelated Mind Maps Keyword",
+        "id": 1248,
+        "progweb_descr": " VeryRelated Mind Maps Keyword API offer programmatic way access mind map data VeryRelatedcom system Given word search term API return list related word It useful application keyword discovery search engine optimization content enhancement guide search word relationship visualization"
+    },
+    {
+        "progweb_cat": "Semantics,Text",
+        "api_name": "Extractiv",
+        "id": 1327,
+        "progweb_descr": " Extractiv service automatically convert unstructured text structure semantic data It combine extremely fast web crawler powerful natural language processing technology Extractiv two APIs OnDemand platform allow user upload document URLs process oneatatime Crawling platform let user create crawl job crawl web process content Both APIs use RESTful protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "Semantics,Content",
+        "api_name": "MeaningCloud Lemmatization, PoS and Parsing",
+        "id": 1555,
+        "progweb_descr": " MeaningCloud provider software solution support semantic analysis text access source social medium document article MeaningCloud Lemmatization PoS Parsing API support various basic linguistic module deploy application Its parser carry variety functionality analyze different language include Catalan English French Italian Spanish API facilitate integration morphosyntactic semantic analytical capability linguistic application This API support HTTP HTTPS endpoint return response JSON XML format"
+    },
+    {
+        "progweb_cat": "Semantics,Classification",
+        "api_name": "MeaningCloud Text Clustering",
+        "id": 1556,
+        "progweb_descr": " MeaningCloud provider software solution support semantic analysis text access source social medium document article MeaningCloud Text Clustering API support categorization identical related set text similar group create separate cluster relate content It utilize algorithmic tool detect list cluster obtain set texts addition assign descriptive attribute cluster API support HTTP HTTPS endpoint return response JSON XML format"
+    },
+    {
+        "progweb_cat": "Semantics,Classification",
+        "api_name": "MeaningCloud Text Classification",
+        "id": 5941,
+        "progweb_descr": " MeaningCloud Text Classification API assign one category text use domainspecific taxonomy RESTful API use GET POST POST recommend HTTPS return JSON XML Text Classification API perform preclassification task like extract text tokenization stopword removal lemmatization Using rulebased filter statistical document classification API perform accurate classification across wide range environment See documentation information Text Classification model work taxonomy support"
+    },
+    {
+        "progweb_cat": "Semantics,Analytics",
+        "api_name": "b-semantic",
+        "id": 4978,
+        "progweb_descr": " Use bsemantics API extract analyze web text API contain endpoint text extraction entity extraction similarity compute Bsemantic REST base employ HTTP POST method accept JSON data type Use text extraction service extract main text element URL HTML source code entity extraction web service identifies entities map Wikipedia article similarity web service compute similarity one source another value 1 0 See API docs full endpoint description code sample Bsemantic available limited usage free"
+    },
+    {
+        "progweb_cat": "Semantics,Analytics",
+        "api_name": "SemantAPI Human",
+        "id": 6775,
+        "progweb_descr": " SemantAPI allow evaluate several sentiment analysis APIs Just like SemantAPI Robot SemantAPI Human use CSV output analyze sentiment valuable factor Human API analyze submit document use Amazons Mechanical Turk In way human assign sentiment score A list 10 step available could beneficial connect use Human API particular development project"
+    },
+    {
+        "progweb_cat": "Semantics,Extraction",
+        "api_name": "MeaningCloud Sentiment Analysis",
+        "id": 5940,
+        "progweb_descr": " MeaningCloud Sentiment Analysis API detect sentiment text Make call REST API GET POST POST recommend HTTPS return JSON XML An API Key require available signing account MeaningCloud SentimentAnalysis API determine whether piece text positive negative neutral sentiment identify local polarity different sentence text evaluate relationship This result polarity value text whole See documentation example code snippet test console get familiar API"
+    },
+    {
+        "progweb_cat": "Semantics,Extraction",
+        "api_name": "MeaningCloud Topics Extraction",
+        "id": 5950,
+        "progweb_descr": " MeaningCloud Topics Extraction API extract relevant information element unstructured text RESTful API use GET POST POST recommend HTTPS return JSON XML Use Topics Extraction API retrieve information like name entity people organization place concept time money expression URIs phone number API currently support text Spanish English French Italian Portuguese Catalan"
+    },
+    {
+        "progweb_cat": "Semantics,Extraction",
+        "api_name": "FRED - Open Knowledge Extraction",
+        "id": 6240,
+        "progweb_descr": " FRED API allow user perform Open Knowledge Extraction operation automatically create RDFOWL ontology link data natural language sentence result enrich use Named Entity Resolution NER WordSense Disambiguation WSD FRED APIs method base discourse representation theory linguistic frame combinatory categorial grammar ontology design pattern"
+    },
+    {
+        "progweb_cat": "Semantics,Extraction",
+        "api_name": "Purifyr",
+        "id": 12712,
+        "progweb_descr": " Purifyr service mine web content extract information base semantic analysis Purifyr turn website lot graphic noise write content contains without anything else Purifyr API allow developer access integrate functionality Purifyr application create new application API method return content website URL submit API endpoint"
+    },
+    {
+        "progweb_cat": "Semantics,Language",
+        "api_name": "MeaningCloud Language Identification",
+        "id": 5951,
+        "progweb_descr": " Use MeaningCloud Language Identification API identify language text Make call RESTful API GET POST POST recommend HTTPS return JSON XML Using statistic technique base Ngrams evaluation API identify 60 different language Sign MeaningCloud account receive access key get start API Documentation include code example test console get familiar Language Identification API"
+    },
+    {
+        "progweb_cat": "Semantics,Application Development",
+        "api_name": "DOCOMO Open Sentence/Speech Understanding",
+        "id": 6345,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development Open SentenceSpeech Understanding API use retrieve semantic meaning inputted function Open SentenceSpeech Understanding API implement via REST Dialogue API Android iOS Java SDKs DOCOMO also offer API console easily demo many APIs"
+    },
+    {
+        "progweb_cat": "Semantics",
+        "api_name": "SimilarWeb Website Categorization",
+        "id": 9984,
+        "progweb_descr": " service provide categorization website domains accord provider classification scheme It evaluate website whole rather page page assign overall classification taxonomy website topic Where website address multiple category service provide rating site relevance one API method support submission website URL analysis API return one suggest categorization base service topic taxonomy relevance score Returned data also indicate content identifies URL adult site"
+    },
+    {
+        "progweb_cat": "Semantics",
+        "api_name": "SPIN RDF",
+        "id": 12592,
+        "progweb_descr": " service provide applicationlevel access provider SPARQLMotion engine connects process step sequence one step generate output becomes input next Processing step build query SPARQL language generate RDF graph encode data pass step step Queries also perform action process result set construct RDF triple modify RDF data source API method support conversion SPARQL query string SPIN SPARQL Inferencing Format RDF encode use either format input generate format"
+    },
+    {
+        "progweb_cat": "Semantics",
+        "api_name": "Googe Refine ReconciliationService",
+        "id": 12641,
+        "progweb_descr": " service return potential match within dataset specify name label text match may approximate help link ambiguous text string welldefined record data entity service base Freebase relevance service function part Google Refine platform data analysis cleanup API method support submission query term limit number result return types entity include result set technical detail Returned data include record dataset loosely match submit query string"
+    },
+    {
+        "progweb_cat": "Semantics",
+        "api_name": "Semantic Engines Semantic",
+        "id": 14733,
+        "progweb_descr": " Semantic Engines Semantic API deploy compute cloud power tool include SenseBot OpinionCrawl LinkSensor It allow user utilize highquality semantic text mining solution enrich application Semantic Engines LLC develop product field information search retrieval text mining semantic analysis sentiment analysis contextual advertising Semantic API feature include extraction semantic concept page document create ï¿½semantic cloudï¿½ concept describe group page generate multidocument summary set page generate essay topic base set page It use RESTful SOAP protocols require use API key Responses format XML"
+    },
+    {
+        "progweb_cat": "Semantics",
+        "api_name": "Watson",
+        "id": 14874,
+        "progweb_descr": " Watson deploy APIs allow developer programmatically access semantic content semantic data ontology collect exploit feature provide These APIs mean basis development lightweight semantic web application exploit online knowledge Watson gateway Semantic Web guide requirement Semantic Web application It provide efficient access point online ontology semantic data Therefore gateway play three main role 1 collect available semantic content Web 2 analyzes extract useful metadata index 3 implement efficient query facility access data API use either RESTful SOAP JavaScript protocol Responses format XML JSON TXT"
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "progweb_cat": "Chat",
+        "api_name": "Google Talk",
+        "id": 213,
+        "progweb_descr": " From site As long adhere requirement XMPP specs able connect Google Talk service Other client connect include httpgaimsourceforgenet GAIM httpwwwceruleanstudioscomlearn Trillian Pro"
+    },
+    {
+        "progweb_cat": "Chat",
+        "api_name": "Yahoo Messenger",
+        "id": 486,
+        "progweb_descr": " From site A Yahoo Messenger Plugin HTML page run inside Yahoo Messenger Developers create plugins use Yahoo Messenger Plugin SDK—a toolkit JavaScript C APIs With Plugin SDK APIs create excite helpful collaborative plugins make available anyone Messenger Network offer chance show next great idea 60 million user"
+    },
+    {
+        "progweb_cat": "Chat",
+        "api_name": "Whatsapp Chat API Daemon",
+        "id": 701,
+        "progweb_descr": " Whatsapp Chat API Daemon API allow user send receive Whatsapp message program use websockets HTTP It use PHPbased ChatAPI library access Whatsapp This API create developer could use ChatAPI interact Whatsapp even project werent write PHP"
+    },
+    {
+        "progweb_cat": "Chat",
+        "api_name": "GitHub Emojis",
+        "id": 5952,
+        "progweb_descr": " GitHub Emojis API allow developer integrate GitHub emojis service application list emojis available use GitHub GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Chat",
+        "api_name": "IRCCloud",
+        "id": 8769,
+        "progweb_descr": " IRCCloud IRC Internet Relay Chat client operate inbrowser It design always connect able receive message even user browser close computer offline Users access IRCCloud multiple computer without confuse service service design focus unobtrusive function doesnt use graphical emoticon IRCCloud API allow user access service programmatically via REST call Only secure access support API functional still development Its method response message format subject change time"
+    },
+    {
+        "progweb_cat": "Chat",
+        "api_name": "Windows Live Presence",
+        "id": 15604,
+        "progweb_descr": " From site Windows Live Presence API HTTPbased API return Windows Live Messenger user presence use JavaScript Object Notation JSON image Windows Live Presence API use conjunction Windows Live Messenger IM Control A Web site show user ’ presence use Windows Live Presence API let visitor send message user Windows Live Messenger IM Control"
+    },
+    {
+        "progweb_cat": "Chat",
+        "api_name": "Windows Live Messenger IM Control",
+        "id": 15605,
+        "progweb_descr": " From site Windows Live Messenger IM Control enable web site show presence Windows Live Messenger user let site visitor engage instant messaging conversation Messenger users A Web site invite user share Messenger presence exchange message visitor site"
+    },
+    {
+        "progweb_cat": "Chat",
+        "api_name": "Windows Live Messenger Library",
+        "id": 15618,
+        "progweb_descr": " From site Windows Live Messenger Library clientside library building Webbased application integrate Windows Live Messenger With Messenger Library developer build presenceenabled instant messaging application web site visitor use interact well Windows Live Messenger client user Messenger Library write C compile JavaScript use Script"
+    },
+    {
+        "progweb_cat": "Chat,Social",
+        "api_name": "Facebook Chat",
+        "id": 582,
+        "progweb_descr": " This API allow user integrate Facebook Chat Webbased desktop mobile instant messaging product user instant message client connects Facebook Chat via JabberXMPP service Responses format XML vCard"
+    },
+    {
+        "progweb_cat": "Chat,Social",
+        "api_name": "Doodle Republic Chatoon",
+        "id": 10509,
+        "progweb_descr": " Doodle Republic allow user chat use artwork create message know Chatoons Users create customize image Doodle Republics browserbased Art Lab result image use chat save share make ecards Doodle Republic provide premade cartoon character user include Chatoons Users access Doodle Republics Chatoon service programmatically use SOAPbased API"
+    },
+    {
+        "progweb_cat": "Chat,Social",
+        "api_name": "Pulse.to",
+        "id": 14056,
+        "progweb_descr": " Pulseto group SMStexting service allow user create specific group people communicate via text message group texts send either via mobile Pulseto website Customers Pulseto range business marketing purpose sport team stay connect Pulseto API allow developer integrate Pulsetos functionality websites Public documentation available example API method include send text message notify message receive send texts allow recipient opt buy service product Those interested API email apipulseto information"
+    },
+    {
+        "progweb_cat": "Chat,Social",
+        "api_name": "Mibbit",
+        "id": 14257,
+        "progweb_descr": " Mibbit online chat client embed third party website Mibbit API allow user gather information widget API return information number user widget setting change It use JavaScript protocol response format JSON JSONP PNG"
+    },
+    {
+        "progweb_cat": "Chat,Social",
+        "api_name": "Chatterous",
+        "id": 14838,
+        "progweb_descr": " Chatterous group chat combine web im email phone You create group friend chat together friend use preferred chatting softwareno need even join Chatterous Chatterous API let access edit member group well send search message API currently public beta"
+    },
+    {
+        "progweb_cat": "Chat,Widgets",
+        "api_name": "IMified",
+        "id": 586,
+        "progweb_descr": " From site IMified instant messenger buddy work across major IM network offer access grow number web application well productivity tool like note reminder todos Imified help get thing do faster IMified widget ARE NOT plugin download IM client ARE widgets IMified buddy appear main menu accessible time"
+    },
+    {
+        "progweb_cat": "Chat,Widgets",
+        "api_name": "Zopim Chat",
+        "id": 14420,
+        "progweb_descr": " Zopim livechat widget let user monitor visitor websites engage chat This functionality use sell directly online customer Some aspect Zopim widget customize via API Functionality customize include set visitorï¿½s name email log hide edit appearance chat button bubble window API us JavaScript"
+    },
+    {
+        "progweb_cat": "Chat,Messaging",
+        "api_name": "HipChat",
+        "id": 797,
+        "progweb_descr": " HipChat instant messaging service design company team platform allow internal communication chat room file share HipChat private secure selfbuilding buddy list"
+    },
+    {
+        "progweb_cat": "Chat,Messaging",
+        "api_name": "C2Call Low Level",
+        "id": 3201,
+        "progweb_descr": " C2Call Low Level API integrate chat messaging voice video web mobile application It available JSON architecture OAuth authentication method Usage aim facilitate enterprise communication secure message monetization strategy"
+    },
+    {
+        "progweb_cat": "Chat,Messaging",
+        "api_name": "Imo Games",
+        "id": 12970,
+        "progweb_descr": " Imoim webbased service allow user hold text voice video chat multiple instant messaging protocol Currently support protocol include MSN Skype Yahoo Messenger Google Talk Facebook AIMICQ Jabber MySpace Hyves VKontakte Steam Some feature imo include link user instant message account create network group chat searchable chat history much imoâ€™s Game API allow developer share game one million user imoâ€™s platform API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Chat,Messaging",
+        "api_name": "Envolve",
+        "id": 14001,
+        "progweb_descr": " Envolve offer customizable web chat message application With Envolve web site owner create multiple topic chat room site Envolve API allow owner build custom chat experience user A wide range customizations available include Single Sign On color customizations programmatic creation group chat string customizations slew behavioral option"
+    },
+    {
+        "progweb_cat": "Chat,Messaging",
+        "api_name": "OMS",
+        "id": 14067,
+        "progweb_descr": " OMS Online Messenger Service webservice available everyone want create messenger client OMS webservice let user add messenger like ICQ MSN Messenger AOL Instant Messenger application webservice offer functionality user management Create Change Delete offline user management Add Delete login logout API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Chat,Real Time",
+        "api_name": "Grove.io",
+        "id": 953,
+        "progweb_descr": " Grove host IRC chat service team go beyond basic IRC server It offer archive searchable chat log channel management access control private messaging web client service It also support major IRC client bot Grove offer three API service Simple POST post basic service message channel HTTP API building application top Grove pull variety usage data Live API request realtime update via long poll"
+    },
+    {
+        "progweb_cat": "Chat,Real Time",
+        "api_name": "LiveChat",
+        "id": 14584,
+        "progweb_descr": " LiveChat live chat software enable sale representative contact customer website With LiveChat API user login manipulate license use thirdparty software Users return list operator get list chat transcripts It use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Chat,Automation",
+        "api_name": "BOT libre!",
+        "id": 1113,
+        "progweb_descr": " BOT libre allow create artificial intelligent chat bot train share others BOT libre API allow chat bots REST You free use API personal commercial recreation usage"
+    },
+    {
+        "progweb_cat": "Chat,Business",
+        "api_name": "Campfire",
+        "id": 1284,
+        "progweb_descr": " From 37Signals Campfire realtime chat collaboration tool Share file link create room specific discussion"
+    },
+    {
+        "progweb_cat": "Chat,Business",
+        "api_name": "Banckle Chat",
+        "id": 6560,
+        "progweb_descr": " Banckle cloud base software company offer business online customer support service Banckle Chat one application available Banckle enabling business connect customer via chat live web Banckle Chat API let developer personalize customer ’ experience integrating application enable interact customer directly application"
+    },
+    {
+        "progweb_cat": "Chat,Business",
+        "api_name": "LivePerson Agent",
+        "id": 14198,
+        "progweb_descr": " LivePerson platform enable business identify engage customer use right communication channel right time This host solution delivers tool support manage online customer interaction ï¿½ chat email voice knowledgebase ï¿½ single agent application service provide user opportunity immediately chat representative via instant messaging system embed site With API user create update retrieve resource Responses format XML JSON With LivePerson Agent API developer create agent chat application desktop mobile device serverbased software application These application enable agent real virtual log LivePerson account take chat visitor transfer chat agent API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Chat,Business",
+        "api_name": "Olark",
+        "id": 14887,
+        "progweb_descr": " Olark realtime chat website monitoring service Olark JavaScript API allow developer add additional functionality website monitoring visitor spotlight certain part website base visitor show important visitor monitor visitor go website"
+    },
+    {
+        "progweb_cat": "Chat,Business",
+        "api_name": "LivePerson Visit",
+        "id": 14981,
+        "progweb_descr": " LivePerson platform enable business identify engage customer use right communication channel right time This host solution delivers tool support manage online customer interaction ï¿½ chat email voice knowledgebase ï¿½ single agent application service provide user opportunity immediately chat representative via instant messaging system embed site With API user create update retrieve resource Responses format XML JSON By use LivePerson Platform APIs user customize application add feature extend reach LivePerson solution Use LivePerson Visit API REST monitor activity visitor beyond website wide range device application website use HTTP request These include mobile device social medium websites desktop application In addition use Visit API add custom variable exist monitor website visit"
+    },
+    {
+        "progweb_cat": "Chat,Customer Service",
+        "api_name": "LiveZilla Chat Bot",
+        "id": 1563,
+        "progweb_descr": " LiveZilla Chat Bot API allow provide premium customer service chat live customer give direct assistance need Ask visitor whether question need help increase customer satisfaction sale While LiveZilla Chat Bot standard set able browse Knowledge Base use Chat Bot API order perform complex process logic Chat Bot API need place inside separate ChatBot script eg PHP Each Chat Bot script need save absolute URL see Bot Account User Management Chat Bot API suppose exchange data LiveZilla server Chat Bot script well visualize user side"
+    },
+    {
+        "progweb_cat": "Chat,Customer Service",
+        "api_name": "Chatra JavaScript",
+        "id": 3163,
+        "progweb_descr": " Chatra JavaScript API provide interactive functionality implementation purpose Developers access button chat width height color language mode clientID group feature Available JSON object public secret API Keys authentication method"
+    },
+    {
+        "progweb_cat": "Chat,Customer Service",
+        "api_name": "Chatra REST",
+        "id": 3167,
+        "progweb_descr": " Chatra REST API integrate chat service web service JSON support format Public secret key require authentication method"
+    },
+    {
+        "progweb_cat": "Chat,Customer Service",
+        "api_name": "Purist-it In-App Chat Support",
+        "id": 4710,
+        "progweb_descr": " Use Puristit inapp Chat API add chat support mobile apps API RESTful use JSON endpoint API Key authorization API compatible iOS Android push notification enable include backend portal customer service agent See API docs information get start integrate chat mobile apps"
+    },
+    {
+        "progweb_cat": "Chat,Customer Service",
+        "api_name": "Chat Center",
+        "id": 4879,
+        "progweb_descr": " Chat Center REST API allow developer access integrate functionality Chat Center application main API method pass along customer name email application Chat Center Chat Center customer service chat solution"
+    },
+    {
+        "progweb_cat": "Chat,Customer Service",
+        "api_name": "LIVE CHAT libre!",
+        "id": 6898,
+        "progweb_descr": " LIVE CHAT libre allow user create live chat channel chat room personal commercial recreational us These chat channel room embed user website application access Android device LIVE CHAT libre API enable user access chat channel programmatically integrate access channel mobile application"
+    },
+    {
+        "progweb_cat": "Chat,Customer Service",
+        "api_name": "LiveLeader Data Export",
+        "id": 13235,
+        "progweb_descr": " Kalibera LiveLeader live chat base support service LiveLeader data export API let users access historical chat data integrate CMS Chat data search time user keyword location ISP API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Chat,Customer Service",
+        "api_name": "SnapEngage Event",
+        "id": 14604,
+        "progweb_descr": " SnapEngage live chat solution allow business support team interact site visitor real time SnapEngage API allow developer interface SnapEngage thirdparty application Using API SnapEngage automatically POST event external URL new request receive either offline live chat This transaction provide detailed information pertain request allow developer recreate request destination system API use HTTP protocol resposnes format XML"
+    },
+    {
+        "progweb_cat": "Chat,Bots",
+        "api_name": "Lingr",
+        "id": 1640,
+        "progweb_descr": " From site Lingr open community chatroom You chat anything want public private room No account require special software Just choose room start chat You could use Lingr API write application monitor activity chatroom notify friend chat whoop already create chatbot automatically respond chatter anything else think"
+    },
+    {
+        "progweb_cat": "Chat,Bots",
+        "api_name": "DOCOMO Dialogue",
+        "id": 6349,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development Dialogue API enable user conversation Chatbot natural informal tone Input receive textual format reply issue blend natural conversation Dialogue API implement via REST Dialogue API Android iOS Java SDKs DOCOMO also offer API console easily demo many APIs"
+    },
+    {
+        "progweb_cat": "Chat,Bots",
+        "api_name": "Paphus Live Chat",
+        "id": 6897,
+        "progweb_descr": " Paphus Live Chat enable user create live chat channel chat room forum chat bot embed website mobile application Chat bots completely automate provide customer service support personnel available Developers use Paphus Live Chat API integrate access chat channel mobile application"
+    },
+    {
+        "progweb_cat": "Chat,Bots",
+        "api_name": "Program O Chatbot",
+        "id": 9002,
+        "progweb_descr": " Program O Chatbot chat robot give natural language response user input At core Program O open source AIML Artificial Intelligence Markup Language engine write MySQL PHP Users converse chatbot directly website programmatically via REST call"
+    },
+    {
+        "progweb_cat": "Chat,Sales",
+        "api_name": "SnapEngage Chat URL",
+        "id": 1697,
+        "progweb_descr": " SnapEngage Chat URL API create retrieves chat URL API Key require authenticate GET method allow developer return URL call response Once obtain URL share Twitter link SnapEngage provide live chat software customer support"
+    },
+    {
+        "progweb_cat": "Chat,Sales",
+        "api_name": "SnapEngage Chat",
+        "id": 1698,
+        "progweb_descr": " SnapEngage Chat API integrate chat feature websites include widgetID email phone user agent locale agent status app version name visitor message Sample request available API Key authentication method HTTP format perform callback SnapEngage provide live chat software customer support"
+    },
+    {
+        "progweb_cat": "Chat,Sales",
+        "api_name": "SnapEngage Provisioning",
+        "id": 1699,
+        "progweb_descr": " SnapEngage Provisioning API available JSON XML format REST architecture It allow developer create new user account access exist user account detail update exist user account find user account exist delete exist user account create Widget add exist user account"
+    },
+    {
+        "progweb_cat": "Chat,Sales",
+        "api_name": "SnapEngage Logs",
+        "id": 2415,
+        "progweb_descr": " SnapEngage Logs API allow customize report interface SnapEngage log data thirdparty application To authenticate developer replace API token personal ID token SnapEngage provider live chat software"
+    },
+    {
+        "progweb_cat": "Chat,Analytics",
+        "api_name": "ChatPirate",
+        "id": 2300,
+        "progweb_descr": " ChatPirate API integrate chat business application REST architecture JSON format basic authentication ChatPirate provide customization analytics security feature basic pro enterprise plan"
+    },
+    {
+        "progweb_cat": "Chat,Analytics",
+        "api_name": "JivoChat",
+        "id": 3180,
+        "progweb_descr": " JivoChat integrate chat feature Windows Mac OS X Android iPhone Web Available JSON architecture Methods function include chatMode getContactInfo setUserToken showProactiveInvitation"
+    },
+    {
+        "progweb_cat": "Chat,Data Mining",
+        "api_name": "Dazah",
+        "id": 2552,
+        "progweb_descr": " Dazah provide chat recommendation system offer several service include lead generation digital community date application network group Dazahs discover connect capability benefit organization online community niche group Dazah REST API require OAuth 2 authentication us JSON JSONP response"
+    },
+    {
+        "progweb_cat": "Chat,Collaboration",
+        "api_name": "Flowdock Streaming",
+        "id": 2610,
+        "progweb_descr": " This stream API provide realtime access flow also allow listen message event change flow All request stream API make streamflowdockcom CA Flowdock team collaboration app desktop mobile web allow solve problem across tool team time zone"
+    },
+    {
+        "progweb_cat": "Chat,Collaboration",
+        "api_name": "CometChat",
+        "id": 4720,
+        "progweb_descr": " CometChat API allow integrate chat feature web service REST protocol API Key With API developer create user remove user update user add friend remove friend within application Documentation include access PHP language installation via cloud CometChat specialize PHP chat software available 9 language"
+    },
+    {
+        "progweb_cat": "Chat,Collaboration",
+        "api_name": "Fleep",
+        "id": 6581,
+        "progweb_descr": " Fleep chat service design improve collaboration within team business Users add people conversation use email address receive message email sign service Fleep accessible device connects internet user file message sync across device Users find important information use Fleeps rich search functionality cover conversation file pin message"
+    },
+    {
+        "progweb_cat": "Chat,Collaboration",
+        "api_name": "Flowdock",
+        "id": 14021,
+        "progweb_descr": " Flowdock service allow project team member collaborate It feature team inbox realtime group chat activity feed Chat history store forever user organize chat tag later reference Flowdock provide API let developer interact flow post message Influx With API user create custom integration Flowdock API use RESTful call response format HTML"
+    },
+    {
+        "progweb_cat": "Chat,Cloud",
+        "api_name": "Microsoft Parature",
+        "id": 3170,
+        "progweb_descr": " Microsoft Parature API integrate chat experience aim increase customer engagement Ut include JSON architecture Token authentication method In addition chat user also request support ticket interact CSR platform"
+    },
+    {
+        "progweb_cat": "Chat,Application Development",
+        "api_name": "BrainShop",
+        "id": 3737,
+        "progweb_descr": " BrainShop customizable chat bot provider artificial intelligence capability After sign developer create trainable robot brain integrate application 2 pay plan avilable free option available well BrainShop REST API require API Keys authentication respond JSON format"
+    },
+    {
+        "progweb_cat": "Chat,API",
+        "api_name": "SendBird Chat",
+        "id": 3936,
+        "progweb_descr": " SendBird messagingasaservice It provide client SDK chat API backend apps enable realtime communication among apps ’ user Supports iOS Android Web JS Unity Xamarin Server API"
+    },
+    {
+        "progweb_cat": "Chat,API",
+        "api_name": "LivePerson Chat",
+        "id": 14793,
+        "progweb_descr": " LivePerson platform enable business identify engage customer use right communication channel right time This host solution delivers tool support manage online customer interaction chat email voice knowledgebase single agent application service provide user opportunity immediately chat representative via instant messaging system embed site With API user create update retrieve resource Responses format XML By use LivePerson Platform APIs user customize application add feature extend reach LivePerson solution RESTful Chat API let developer offer live chat software connect Internet JavaScript Chat API offer interface enable customize chat window design access LivePerson chat web browser Responses format JSON Use Chat API JavaScript create innovative chat window design browserbased environment"
+    },
+    {
+        "progweb_cat": "Chat,Engagement",
+        "api_name": "BoldChat REST",
+        "id": 5558,
+        "progweb_descr": " BoldChat REST API LogMeIn reveal developer BoldChat functionalities chat event data system CRM Ticketing integration software implement bidirectional JSON REST API call In addition BoldChat REST API Data Extraction Reporting method allow developer export data external system analysis reporting"
+    },
+    {
+        "progweb_cat": "Chat,Customer Relationship Management",
+        "api_name": "Zendesk Zopim",
+        "id": 6322,
+        "progweb_descr": " Zendesk software service company provide business different communication tool Zendesk Zopim API enable developer integrate Zendesk Chat service application With API user application interact chat"
+    },
+    {
+        "progweb_cat": "Chat,Adult",
+        "api_name": "LOVE droids",
+        "id": 7291,
+        "progweb_descr": " LOVE droids tool create chat bots function virtual boyfriends girlfriends Users customize bot avatar language preference bot train conversation chat log script LOVE droids offer directory thousand bots come realistic voice voice recognition capability Using API integrate bot website mobile application give user full control bots client interface"
+    },
+    {
+        "progweb_cat": "Chat,Voice",
+        "api_name": "Plivo Voice Chat",
+        "id": 7723,
+        "progweb_descr": " Plivo Voice Chat free opensource audio conferencing service To get started user simply create conference room invite others URL provide begin talk Conference room automatically shut 24 hour Users may create conference room programmatically use Voice Chat REST API"
+    },
+    {
+        "progweb_cat": "Chat,Video",
+        "api_name": "Ninchat",
+        "id": 8961,
+        "progweb_descr": " Ninchat persistent chat service also provide live video meeting filesharing function chat always stays even user online maintains unlimited message history Users multiple channel people interest group work group web address message history Users opt receive notification time name specify word mention channel Ninchat user hold video audio meeting 12 speaker unlimited viewer Ninchat provide REST API allow developer create custom client functionalities bot service"
+    },
+    {
+        "progweb_cat": "Chat,Video",
+        "api_name": "Twelephone",
+        "id": 10139,
+        "progweb_descr": " Twelephone HTML5 WebRTCpowered Twitter Telephone place receive peertopeer encrypt voice video call Twitter Twelephone support HD video audio chat emoticon callme button website integration However It require require chrome extension use API allow developer integrate CallMe button website Twelephone data"
+    },
+    {
+        "progweb_cat": "Chat,Video",
+        "api_name": "TokBox OpenTok",
+        "id": 14807,
+        "progweb_descr": " OpenTok free set APIs TokBox enable website weave live group video communication online experience TokBox web application allow user make multiparty video chat call Internet without download With OpenTok user control size layout movement video stream stream multiple page site create viewer participant roles scale large gathering API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Chat,French",
+        "api_name": "MesCorrespondances",
+        "id": 9628,
+        "progweb_descr": " MesCorrespondances French chat site featuring AI call Kairos design help user find others enjoy chat Kairos base selection user interest personality test result feedback previous chat Over time learns recognize people user likely want chat MesCorrespondances API allow user perform chat function include provide feedback use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Chat,Mobile",
+        "api_name": "Hipmob",
+        "id": 11069,
+        "progweb_descr": " Hipmob mobile live chat service aim connect customer customer service service also integrate CRMs customer service platform Hipmob API allow admins manage application setting obtain device information API use REST call return JSON use API Key SSL authentication"
+    },
+    {
+        "progweb_cat": "Chat,Mobile",
+        "api_name": "Hipmob Server",
+        "id": 11102,
+        "progweb_descr": " Hipmob provide hosted live chat mobile application send text audio video photo In order use API developer must sign receive code download Hipmob library use Hipmob whatever message application assistance may need API specifically allow developer send message application device manage setting obtain device information Functionality include RESTful principle JSON response format"
+    },
+    {
+        "progweb_cat": "Chat,Robots",
+        "api_name": "Pandorabots",
+        "id": 13234,
+        "progweb_descr": " Pandorabots world lead platform building deploy chatbots Over 225000 registered developer use service create 250000 bot chat endusers multiple language three billion time Pandorabots API provide API access bot host platform Pandorabots also offer free SDKs Github httpsgithubcompandorabots free integrate development environment build chatbots AIML 20 httpsplaygroundpandorabotscomen"
+    },
+    {
+        "progweb_cat": "Chat,Robots",
+        "api_name": "BotPlatform",
+        "id": 14750,
+        "progweb_descr": " BotPlatform API RESTful service service provider manage resource With API user add retrievemodify delete resource within code These resource may previously uploaded BotPlatform website BotPlatform exclusive certify platform Windows Live Messenger MSN robots 70000 individual developer world BotPlatform instant messenger bot builder interactive promotion application online marketing"
+    },
+    {
+        "progweb_cat": "Chat,Events",
+        "api_name": "Fuze Box",
+        "id": 14630,
+        "progweb_descr": " Fuze Box provider Internet mobile base unified communication solution Fuze Box APIs allow user incorporate meeting presence IM applications A suite APIs offer follow category Meeting Scheduling APIs Account management creation event schedule XMPP access presence chat utilities available web mobile environment Presence IM APIs Indicate individual onlineoffline across multiple messaging network instant message across multiple platform Mobile APIs Fuze Box offer SDKs mobile platform compliment Meeting IM Presence APIs Reporting Analytics APIs These APIs include capacity provide partner analytics expand report capability include statistic individual aggregate usage Fuze Box platform service APIs use REST SOAP protocols response format XML JSON Full documentation available upon request"
+    },
+    {
+        "progweb_cat": "Chat,Enterprise",
+        "api_name": "Boldchat",
+        "id": 15625,
+        "progweb_descr": " From site Boldchat web service provide access customer account data mean SOAP HTTP BoldChat live chat software provide real time sale customer support"
+    }
+]

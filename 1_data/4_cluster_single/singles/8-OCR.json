@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "OCR,Captcha",
+        "api_name": "Text Captcha Decoder",
+        "id": 1928,
+        "progweb_descr": " Text Captcha Decoder aim provide captcha text decoder developer API allow developer enable application decode captcha service available multiple pricing plan"
+    },
+    {
+        "progweb_cat": "OCR,Extraction",
+        "api_name": "Taggun",
+        "id": 2086,
+        "progweb_descr": " Taggun API perform image transcription realtime Taggun extract valuable metadata image document use natural language processing It beyond simple OCR imagetotext process It extract total amount tax amount date purchase merchant name merchant address merchant category paper receipt"
+    },
+    {
+        "progweb_cat": "OCR,Conversions",
+        "api_name": "NewOCR",
+        "id": 3975,
+        "progweb_descr": " NewOCR API integrate character recognition application interface available HTTP protocol Key allow convert JPG PNG GIF BMP TIFF PDF DjVu file text"
+    },
+    {
+        "progweb_cat": "OCR,Conversions",
+        "api_name": "(a9t9) OCR",
+        "id": 4711,
+        "progweb_descr": " a9t9 OCR API offer free image text conversion Use API parse text image return result JSON It use HTTP POST method handle multi page PDFs API accessible mobile desktop iOS Android compatible See API docs information include method description rate limit OCR API support 21 Languages include Chinese Japanese Korean"
+    },
+    {
+        "progweb_cat": "OCR,Cloud",
+        "api_name": "Aspose.OCR",
+        "id": 6181,
+        "progweb_descr": " AsposeOCR API program interface offer Apose let developer integrate service application enable customer ability scan document recognize optical character directly application API REST base use platform support REST Apose software company specialize file management cloud"
+    },
+    {
+        "progweb_cat": "OCR,Editing",
+        "api_name": "OCR",
+        "id": 6749,
+        "progweb_descr": " online OCR convert text image upload text easily edit computer This API allow user upload JPEG PNG GIF BMP multipage TIFF PDF DJVU file After upload server return recognize text well status indicator"
+    },
+    {
+        "progweb_cat": "OCR,Text",
+        "api_name": "OCR Web Service",
+        "id": 10046,
+        "progweb_descr": " service provide optical scan uploaded document image photos digital image text recognition extraction Optical character recognition OCR scanning distinguishes image text content uploaded original generates digital text original content Output format option include txt well PDF Word Excel rtf html API method support submission file contain scan photographed page image along parameter desire output include text language output data format color black white etc Methods return text recognize character input image file name output document"
+    },
+    {
+        "progweb_cat": "OCR,Tools",
+        "api_name": "WiseTrend OCR",
+        "id": 15005,
+        "progweb_descr": " OCR Cloud 20 API provide Optical Character Recognition OCR functionality demand use awardwinning ABBYY OCR engine backend provide superior recognition even lowquality image image mobile phone camera Multilingual recognition 100 language well barcode recognition support API convert image multiple format PDFTIFPNGJPG contain text editable searchable textbased document PDFTXTRTFDOCXLSXMLHTMLetc Full documentation available wwwwisetrendcomWiseTRENDOnlineOCRAPIv20htm"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "progweb_cat": "Images,Social",
+        "api_name": "Pinterest",
+        "id": 382,
+        "progweb_descr": " This API RESTful allow developer use Pinterest Pin feature integrate API application Log information require view API documentation"
+    },
+    {
+        "progweb_cat": "Images,Social",
+        "api_name": "Twitch Emotes",
+        "id": 6224,
+        "progweb_descr": " Twitch Emotes API allow developer integrate emoticon data application website Version 2 API currently development Once finalize Version 1 API deprecate Twitch Emotes begin service display subscriber emotes available Twitch since grow become popular source emoticon code internet"
+    },
+    {
+        "progweb_cat": "Images,Photos",
+        "api_name": "Pixabay - Free Images",
+        "id": 623,
+        "progweb_descr": " Pixabay website user browse download high quality photo vector graphic art illustration license free Pixabay host RESTful API interface query retrieve CC0 public domain image Pixabays directory 260000 photo API access via HTTP address return JSON unicode API limit maximum 300 search result per query require API key access"
+    },
+    {
+        "progweb_cat": "Images,Photos",
+        "api_name": "Deepomatic",
+        "id": 4824,
+        "progweb_descr": " Deepomatic REST API allow developer access integrate functionality Deepomatic application Some example API method include create new object manage object add access database search object Deepomatic platform allow user upload monetize photo image"
+    },
+    {
+        "progweb_cat": "Images,Photos",
+        "api_name": "YAY Images",
+        "id": 5035,
+        "progweb_descr": " YAY Images REST API allow developer access integrate functionality YAY Images applications Some example API method include integrate search functionality retrieve stock image photos search photo image YAY Images stock photo image site"
+    },
+    {
+        "progweb_cat": "Images,Photos",
+        "api_name": "Detect Nudity",
+        "id": 5943,
+        "progweb_descr": " Detect Nudity API allow developer integrate ability detect nude pornographic image application service This API offer free charge API request example provide cURL Java Nodejs PHP Python ObjectiveC Ruby NET"
+    },
+    {
+        "progweb_cat": "Images,Photos",
+        "api_name": "Pixuate",
+        "id": 6543,
+        "progweb_descr": " Pixuate offer suite image processing service include facial recognition object recognition scan textual character match Pixuate Web APIs implement web mobile application via REST protocol Using API console developer upload photo bucket use image processing HTTP POST request initiate perform Pixuate image recognition function potential use case include relate image product improve marketing detailed facial statistic locate logo within picture use template match scan card quickly upload debit card number"
+    },
+    {
+        "progweb_cat": "Images,Photos",
+        "api_name": "APICloud.Me FaceMark",
+        "id": 6874,
+        "progweb_descr": " APICloudMe cloudbased API provider aim deliver scalable APIs simple consume reliable well document FaceMark API capable detect 68 point frontal face photograph 35 profile face photograph Developers use JSON request send URL upload image FaceMark API scan detect facial landmark return vector coordinate facial feature position"
+    },
+    {
+        "progweb_cat": "Images,Web Site Management",
+        "api_name": "Grabicon",
+        "id": 648,
+        "progweb_descr": " Grabicon API generate favicon site If site appear favicon API create suitable default Grabicon also ensure favicons appear consistent size matter size originally display This API free documentation include several code example use"
+    },
+    {
+        "progweb_cat": "Images,Web Site Management",
+        "api_name": "Screen Capture",
+        "id": 7596,
+        "progweb_descr": " A free use screen capture API Simple JSON request produce response JSON object reference cloud base image"
+    },
+    {
+        "progweb_cat": "Images,Extraction",
+        "api_name": "Pinterest Mini",
+        "id": 682,
+        "progweb_descr": " Pinterest Mini API unofficial API allow developer extract URLs pin board page Pinterest Pinterest social pinboard service user pin web page image like virtual pinboards may either public private"
+    },
+    {
+        "progweb_cat": "Images,Extraction",
+        "api_name": "IBM Watson Visual Insights",
+        "id": 4768,
+        "progweb_descr": " IBM Watson Visual Insights API allow developer upload set image zip file visual insight extraction API service return summary image set visual attribute summary consist JSON array label Labels form tag food pet outdoors animal mountain scene etc insight use target campaign customer intelligence situation"
+    },
+    {
+        "progweb_cat": "Images,Games",
+        "api_name": "LoLWallpapers",
+        "id": 1395,
+        "progweb_descr": " LoLWallpapers API allow developer fetch information wallpaper LoLWallpapers This include wallpaper title submission date dimension pixel size bytes LoLWallpapers host collection high definition League Legends LoL desktop wallpaper free download use This API still Alpha may unstable To use API developer need request API key"
+    },
+    {
+        "progweb_cat": "Images,Analytics",
+        "api_name": "DigitalGlobe GBDX Catalog",
+        "id": 1412,
+        "progweb_descr": " DigitalGlobe GBDX Catalog API query GBDX Vector Services database API compatibility layer allow user switch query current GBDX catalog query Vector service limit functionality change This include Get API heartbeat Get record ID Search catalog GBDX living digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth satellite imagery data analysis"
+    },
+    {
+        "progweb_cat": "Images,Analytics",
+        "api_name": "DigitalGlobe GBDX Workflow",
+        "id": 1413,
+        "progweb_descr": " DigitalGlobe GBDX Workflow system series task chain together run GBDX platform Each task individual process performs specific action In order run part workflow task must register workflow system task registry Workflow API allow user register task workflow system task registry manage task task registry create new workflow submitting workflow definition GBDX living digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth satellite imagery data analysis"
+    },
+    {
+        "progweb_cat": "Images,Analytics",
+        "api_name": "DigitalGlobe GBDX Ordering",
+        "id": 1414,
+        "progweb_descr": " GBDX Orders API let order imagery catalog ID check status order This include maximum number band pan multi resolution order status S3 bucket location acquisition GBDX living digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth satellite imagery data analysis"
+    },
+    {
+        "progweb_cat": "Images,Big Data",
+        "api_name": "DigitalGlobe GBDX Thumbnail",
+        "id": 1415,
+        "progweb_descr": " DigitalGlobe GBDX Thumbnail Service let request thumbnail image image metadata You request thumbnail dimension browse mode orientation thumbnail mode service redirects API request Amazon Web Services S3 location image file metadata file This include Get thumbnail catalog ID Dimensions Get metadata file image catalog ID Get location thumbnail image metadata file catalog ID GBDX live digital library document planet tool extract meaningful insight scale library ecosystem match creator insights customer turn effective solution It geospatial big data make accessible use cloudbased platform put location intelligence fingertip DigitalGlobe combine resolution accuracy global coverage experience provide highresolution Earth satellite imagery data analysis"
+    },
+    {
+        "progweb_cat": "Images,Colors",
+        "api_name": "Icons8",
+        "id": 1585,
+        "progweb_descr": " Icons8 provide extensive ISO compliant icon library API allow developer search retrieve icon use template customization build graphic text editor integrate application customization feature Icons8 API require API Keys authentication Fees pay monthly basis licensing free establish open source project"
+    },
+    {
+        "progweb_cat": "Images,Colors",
+        "api_name": "W3C CSS Painting",
+        "id": 3178,
+        "progweb_descr": " W3C CSS Painting API specification describe API allow developer use additional"
+    },
+    {
+        "progweb_cat": "Images,Optimization",
+        "api_name": "ImageOptim",
+        "id": 1586,
+        "progweb_descr": " ImageOptim API allow developer optimize resize image load fast save bandwidth API use custom JPEG decoder feature progressive render overshoot deringing good text readability quantization table optimize highDPI screen color profile support Additionally API support lossy PNG compression reduce size PNG image 75"
+    },
+    {
+        "progweb_cat": "Images,Optimization",
+        "api_name": "Images Optimizer",
+        "id": 1732,
+        "progweb_descr": " Images Optimizer API provide developer tool easy use image optimization You use API endpoint free access optimization image application image format support JPEG GIF PNG"
+    },
+    {
+        "progweb_cat": "Images,Optimization",
+        "api_name": "Image Recycle",
+        "id": 3690,
+        "progweb_descr": " ImageRecycle API integrate optimization feature websites It available JSON architecture API Key Users analyze websites httpswwwimagerecyclecom send PDF full report ImageRecycle help user speed web page load compress optimizing image"
+    },
+    {
+        "progweb_cat": "Images,Annotations",
+        "api_name": "Onprint",
+        "id": 1704,
+        "progweb_descr": " Onprint API allow developer integrate ability enrich organize scan image application use Onprint Platform Onprint allow user enrich print document catalog book poster brochure use smartphones Developers need API Key Platform account access APIs service"
+    },
+    {
+        "progweb_cat": "Images,Graphics",
+        "api_name": "Imagga Color Extraction",
+        "id": 1816,
+        "progweb_descr": " Imagga Technologies provide several APIs include Imagga Color Extraction API make possible developer integrate image manipulation organization functionality application Imagga Color Extraction API simplify process extract color constitute product ’ image It program analyze product image composition generate five representative color suggestion product RESTful API suitable web application variety industry include online store fashion design content management system"
+    },
+    {
+        "progweb_cat": "Images,Graphics",
+        "api_name": "Imagga Smart Cropping",
+        "id": 1817,
+        "progweb_descr": " Imagga Technologies provider several APIs include Imagga Smart Cropping API make possible developer integrate image manipulation organization functionality application Imagga Smart Cropping API equip artificial intelligence capability automate detection analysis pixel content different section image This make easy app user crop image basis visual significance area image APIs functionality support image crop analysis multiple URLs RESTful API return response JSON format"
+    },
+    {
+        "progweb_cat": "Images,Graphics",
+        "api_name": "Imagga Auto-Tagging",
+        "id": 1819,
+        "progweb_descr": " Imagga Technologies provide several APIs include Imagga AutoTagging API make possible developer integrate image manipulation organization functionality application Imagga AutoTagging API support label photo distinctive tag simplify access retrieval highvolume databases It equip AI algorithmic functionality expediteimage recognition RESTful API return response JSON format"
+    },
+    {
+        "progweb_cat": "Images,Graphics",
+        "api_name": "Imagga Image Categorization",
+        "id": 1821,
+        "progweb_descr": " Imagga Technologies provider several APIs include Imagga Image Categorization API make possible developer integrate image manipulation organization functionality application Imagga Image Categorization API equip automate image recognition capability detect object concept imagesIt program analyze image composition generate category suggestion image RESTful API return response JSON format"
+    },
+    {
+        "progweb_cat": "Images,Graphics",
+        "api_name": "IconFinder REST",
+        "id": 3019,
+        "progweb_descr": " This API allow user access library icon IconFinder All data send UTF8 encode JSON identify medium type Filtering option include sizes format license style category It also possible search inside single icon set specific designer IconFinder search tool graphic designer web developer"
+    },
+    {
+        "progweb_cat": "Images,Graphics",
+        "api_name": "Lica",
+        "id": 12862,
+        "progweb_descr": " service render upload photo line drawing simplify stylized contour Users specify level detail extent processing conversion control appearance output API method support upload photo along parameter control conversion process Methods also track original convert image allow reprocess additional modification"
+    },
+    {
+        "progweb_cat": "Images,Images",
+        "api_name": "Imagga Personal Photo Organization",
+        "id": 1818,
+        "progweb_descr": " Imagga Technologies provide several APIs include Imagga Personal Photo Organization API make possible developer integrate image manipulation organization functionality application Imagga Personal Photo Organization API allow developer build automate photo organize tool image apps It functionally design arrange personal photo different group topic RESTful API return responses JSON format"
+    },
+    {
+        "progweb_cat": "Images,Screenshots",
+        "api_name": "Thum.io Screenshot Generator",
+        "id": 1939,
+        "progweb_descr": " Thumio Screenshot Generator API allow developer generate realtime website screenshots By default screenshots take 1200x1200 pixel browser advance option available specify screen width crop pixel original website Thumio also support emulation mobile sit Users get 1000 screenshots per month free"
+    },
+    {
+        "progweb_cat": "Images,3D",
+        "api_name": "Octopus",
+        "id": 2093,
+        "progweb_descr": " Octopus REST API allow developer access integrate functionality Octopus application create new application Some example API method include make request retrieve visual content manage content Octopus visual content platform delivers visual photo VR video 3D content application platform"
+    },
+    {
+        "progweb_cat": "Images,3D",
+        "api_name": "IBM Watson AlchemyVision",
+        "id": 4717,
+        "progweb_descr": " IBM Watson AlchemyVision API analyze image use natural language processing technology machine learn algorithms determine content context Users submit image either URLs file API recognize tag categorize image well detect face identify people return confidence score"
+    },
+    {
+        "progweb_cat": "Images,Infrastructure-as-a-Service",
+        "api_name": "OpenStack Image Service",
+        "id": 2199,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service organization provide standard APIs well suit multiple implementation include Openstack Image Service API provide default configuration deploy OpenStack Compute service This API design perform various task include create list update delete image It convey request response JSON format"
+    },
+    {
+        "progweb_cat": "Images,Animation",
+        "api_name": "Tenor GIF",
+        "id": 2348,
+        "progweb_descr": " This API help Tenors partner drive daily use–case around visual expression message chat community apps It allow search browse relevant GIFs term emoji entire conversation An extended API also available partner 10M Daily Active Users Tenor GIF Keyboard app available iOS Android Mac"
+    },
+    {
+        "progweb_cat": "Images,Audio",
+        "api_name": "Juicebox-Pro",
+        "id": 2536,
+        "progweb_descr": " This API allow control JuiceboxPro embed HTML document even create custom User Interfaces Juicebox use HTML5 create manage image gallery web site blog portfolio"
+    },
+    {
+        "progweb_cat": "Images,Editing",
+        "api_name": "Pixpie",
+        "id": 2657,
+        "progweb_descr": " Pixpie offer image optimization manipulation service improve quality performance web mobile application Pixpie PlatformasaService increase KPIs allow company focus business logic Additionally platform increase user loyalty improve delivery rate Pixpie API respond JSON format"
+    },
+    {
+        "progweb_cat": "Images,Editing",
+        "api_name": "LibPixel Image",
+        "id": 4106,
+        "progweb_descr": " LibPixel Image REST API allow developer access integrate functionality LibPixel applications Some example API method include post image edit image resize image LibPixel image processing service allow adjust resize edit image online"
+    },
+    {
+        "progweb_cat": "Images,Editing",
+        "api_name": "Imagify",
+        "id": 4295,
+        "progweb_descr": " Imagify API provide tool optimize resize image Users upload optimize image fill data parameter control optimization resizing image"
+    },
+    {
+        "progweb_cat": "Images,Editing",
+        "api_name": "Zara 4",
+        "id": 4354,
+        "progweb_descr": " Zara 4 image compression platform base United Kingdom This platform use optimize exist website SEO purpose Zara 4 offer REST API use OAuth access tokens authentication 4 plan include limit free plan available Developers contact Zara 4 directly obtain plan high limit"
+    },
+    {
+        "progweb_cat": "Images,Editing",
+        "api_name": "Clipping Magic",
+        "id": 6582,
+        "progweb_descr": " Clipping Magic webbased service automatically remove background image either singly bulk Users customize image add background color rotate image add shadow etc Clipping Magic fast inbrowser interface indepth tutorial examples It support JPEG PNG GIF image file"
+    },
+    {
+        "progweb_cat": "Images,Editing",
+        "api_name": "You Tracker Image Resizer",
+        "id": 8560,
+        "progweb_descr": " Youtrackercomâ€™s Image Resizer API free web service allow website resize image specify height width In addition ability specify imageâ€™s quality percentage API support option preserve aspect ratio andor prevent enlargement"
+    },
+    {
+        "progweb_cat": "Images,Backup",
+        "api_name": "SandCage",
+        "id": 2750,
+        "progweb_descr": " SandCage offer dedicated infrastructure service integration focus website optimization file handle Developers integrate SandCage solve scalability redundancy performance problem SandCage API use schedule task obtain information list destroy file This API REST base service call HTTP POST respond JSON"
+    },
+    {
+        "progweb_cat": "Images,Astronomy",
+        "api_name": "NASA EPIC",
+        "id": 2963,
+        "progweb_descr": " This API provide information daily natural color imagery collect DSCOVRs Earth Polychromatic Imaging Camera EPIC instrument Uniquely position EarthSun Lagrange point EPIC provide full disc imagery Earth capture unique perspective certain astronomical event lunar transit EPIC Earth Polychromatic Imaging Camera 10channel spectroradiometer 317 – 780 nm onboard NOAA ’ Deep Space Climate Observatory spacecraft NASA open data support NASA ’ scientist engineer information technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Images,Astronomy",
+        "api_name": "NASA Astronomy Picture of the Day (APOD)",
+        "id": 4620,
+        "progweb_descr": " NASA ’ Astronomy Picture Day APOD API give developer access APOD imagery relevant metadata An API key require highvolume request It HTTP format"
+    },
+    {
+        "progweb_cat": "Images,Monetization",
+        "api_name": "Makemoji",
+        "id": 3015,
+        "progweb_descr": " Makemoji monetizable emoji keyboard design mobile application It offer Flashtag technology search entire emoji library frequently use trend category Also Makemoji offer user realtime track target banner advertisement data management base Amazon S3 server Developers need register order access API documentation"
+    },
+    {
+        "progweb_cat": "Images,Notifications",
+        "api_name": "W3C Visibility",
+        "id": 3177,
+        "progweb_descr": " W3C Visibility API allow resource request user agent guarantee display viewport unmodified manner report success failure meeting guarantee Additionally API document defines mechanism request visibility protection receive notification event deliver resource meeting visibility contract"
+    },
+    {
+        "progweb_cat": "Images,Application Development",
+        "api_name": "Buildkite Emojis",
+        "id": 3255,
+        "progweb_descr": " Buildkite Emojis API integrate emojis use character w Successful response demonstrate send request integrate rocket Shipit squirrel meme troll face meme Available JSON format REST environment"
+    },
+    {
+        "progweb_cat": "Images,Application Development",
+        "api_name": "ShepHertz App42 Cloud Image Processor",
+        "id": 5694,
+        "progweb_descr": " ShepHertz App42 Cloud Image Processor API allow developer resizecropscale image also access available convert image APP42 CDN Network ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Images,Application Development",
+        "api_name": "DOCOMO Image Recognition",
+        "id": 6344,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development Image Detection API scan image return relevant information find within Returned information include product URLs find within picture reference database 5 million recognizable product label Most 2 dimensional product book cover DVD case package etc recognizable well Image Recognition API implement via REST correspond Android Java SDKs DOCOMO also offer API console easily demo many APIs"
+    },
+    {
+        "progweb_cat": "Images,Adult",
+        "api_name": "PicPurify Realtime Porn Image Detection",
+        "id": 3285,
+        "progweb_descr": " Picpurify adult content moderation service base deep learning technology Over 1 million image use create algorithm identifies adult relate content Realtime Porn Image Detection API available 247 accessible via Amazon AWS cloud service This API use API Keys authentication HTTP request"
+    },
+    {
+        "progweb_cat": "Images,Adult",
+        "api_name": "Sensitive Image Detection",
+        "id": 3520,
+        "progweb_descr": " Sensitive Image Detection realtime API provide sciencebacked high accuracy detection sensitive image pornography nudity sexuality violence Endpoints allow use GET request validate image URL To consume API user need sign via Mashape"
+    },
+    {
+        "progweb_cat": "Images,Adult",
+        "api_name": "Clearsite Content Filtering",
+        "id": 4133,
+        "progweb_descr": " Clearsite Content Filtering API tool detect nudity image It provide two algorithm accuracy algorithm tailor specifically image scope algorithm also detect digital depiction nudity application prone obscure depiction offensive content small reduction accuracy"
+    },
+    {
+        "progweb_cat": "Images,Adult",
+        "api_name": "NetSpark Nude Detect",
+        "id": 4406,
+        "progweb_descr": " Nude Detect image recognition API gear towards filter image contain nudity pornography otherwise lewd conduct This API support image file type include WEBP PNG JPGJPEG BMP GIF TIFF file JSON format Nude Detect combine parametric nonparametric approach distinguish image swimwear lingerie pornographic nature"
+    },
+    {
+        "progweb_cat": "Images,File Sharing",
+        "api_name": "Skyfish",
+        "id": 3508,
+        "progweb_descr": " Skyfish API integrate image storage organization share feature application Available JSON request responses token authentication Skyfish medium file management platform"
+    },
+    {
+        "progweb_cat": "Images,Recognition",
+        "api_name": "Visual Search",
+        "id": 3513,
+        "progweb_descr": " Visual Search API provide API service search visually similar image input image base image content characteristic color distribution shapegeometry image feature result sort visual similarity score"
+    },
+    {
+        "progweb_cat": "Images,Recognition",
+        "api_name": "PyImageSearch Web",
+        "id": 5733,
+        "progweb_descr": " PyImageSearch Web API currently allow developer detect face additional method expect added future This API intend teach tool use computer vision tutorial PyImageSearch blog This blog focus teach programmer image search engines work build one"
+    },
+    {
+        "progweb_cat": "Images,Recognition",
+        "api_name": "CloudSight",
+        "id": 5823,
+        "progweb_descr": " CloudSight API allow developer integrate image recognition service apps Its call allow developer submit image receive description image content return CloudSight work even end user take picture wrong angle poor light condition CloudSight recognize nearly 40 million image"
+    },
+    {
+        "progweb_cat": "Images,Conversions",
+        "api_name": "Optimus Image Compression",
+        "id": 3865,
+        "progweb_descr": " Optimus provide API automatically compress optimize image This allow developer integrate Optimus directly image optimization process application With API user compress JPG PNG image format even convert exist image WebP"
+    },
+    {
+        "progweb_cat": "Images,Conversions",
+        "api_name": "Video Thumbnail Maker",
+        "id": 5581,
+        "progweb_descr": " Video Thumbnail Maker API allow user create thumbnail video submit API URL upload A web interface also provide access service Users create multiple thumbnail video thumbnail watermarked A simple PHP library available download"
+    },
+    {
+        "progweb_cat": "Images,Conversions",
+        "api_name": "NoXLS html2image",
+        "id": 6878,
+        "progweb_descr": " NoXLS html2image API generate image screenshot web page It allow HTMLCSS support allow generate customize image size"
+    },
+    {
+        "progweb_cat": "Images,Data",
+        "api_name": "NASA LANCE-MODIS",
+        "id": 4099,
+        "progweb_descr": " NASA ’ LANCEMODIS API give user access library geodata LANCE Land Atmosphere Near realtime Capability EOS term use denote satellite image geographical atmospheric phenomenon natural manmade Combined MODIS Moderateresolution Imaging Spectroradiometer LANCEMODIS API offer data imagery variety satellite instrument allow Near RealTime NRT observation data acquisition Data typically available within 3 hour satellite observation"
+    },
+    {
+        "progweb_cat": "Images,Data",
+        "api_name": "NASA GIBS",
+        "id": 4162,
+        "progweb_descr": " NASA ’ Global Imagery Browse Services GIBS API give user access database Earth observation data GIBS API offer access highresolution satellite image tile pyramid format Users GIBS API also access Open Geospatial Consortium OGC Web Map Tile Service WMTS Tiled Web Map Service TWMS Google Earth KML file Geospatial Data Abstraction Library GDAL GIBS API power “ OnEarth ” NASAJPL server system"
+    },
+    {
+        "progweb_cat": "Images",
+        "api_name": "NASA PO.DAAC Image Granules",
+        "id": 4137,
+        "progweb_descr": " Physical Oceanography Distributed Active Archive Center PODAAC part NASAs Earth Observing System Data Information System EOSDIS PODAACs purpose store oceanography climatography relate data obtain NASA PODAAC also serve pathway related archive provide relevant tool make datasets easily consumable applicable NASA ’ PODAAC Image Granules API render granule jpeg andor png file Image Granule API follow OGC WMS protocol"
+    },
+    {
+        "progweb_cat": "Images",
+        "api_name": "Blitline",
+        "id": 10034,
+        "progweb_descr": " Blitline payasyougo image processing service It allow user chain together operation image process complete push user prefer online photo storage service Blitlines API allow user create image processing job programmatically use JSONformatted REST call Blitline also offer Blitshots API allow user take screenshot website run additional Blitline operation It function way Blitlines primary API minor modification call"
+    },
+    {
+        "progweb_cat": "Images,Classification",
+        "api_name": "Google Cloud Vision",
+        "id": 4232,
+        "progweb_descr": " Google Cloud Vision API allow developer create application understand image content use machine learn Google Cloud Vision classify image category detect object detect face read print word contain image It analyze image theyre uploaded integrate image storage Google Cloud Storage"
+    },
+    {
+        "progweb_cat": "Images,Humor",
+        "api_name": "Imoji",
+        "id": 4336,
+        "progweb_descr": " Imoji API allow developer integrate sticker application Stickers use message photo edit reaction comment Imoji provide list trend sticker well comprehensive keyword search help user find theyre look Users also create sticker image Imojis custom create emoji sticker user create photo meme graphic use text message communication"
+    },
+    {
+        "progweb_cat": "Images,Brazilian",
+        "api_name": "Meerkat Facial Recognition",
+        "id": 4471,
+        "progweb_descr": " Facial Recognition API integrate image recognition platform exist application This platform feature facial landmark extraction confidence level inference surveillance setup Facial Recognition REST API return data JSON format require API Keys authentication Meerkat machine learn firm base Brazil provide image recognition people track facial expression inference product"
+    },
+    {
+        "progweb_cat": "Images,Documents",
+        "api_name": "Ontotext Image Analytics",
+        "id": 4474,
+        "progweb_descr": " Image Analytics service provide mean get tags category associate image web page Image Analytics base Imagga Image Tagging API integrate text analytics service SelfService Semantic Suite S4 web page process text content image page analyse tags category recommend see also httpswwwprogrammablewebcomapiontotexts4textanalytics"
+    },
+    {
+        "progweb_cat": "Images,Advertising",
+        "api_name": "Plytix",
+        "id": 4818,
+        "progweb_descr": " Plytix REST API allow developer access integrate functionality Plytix applications Some example API method include uploading image photos resize image photos retrieve analytics Plytix provide collection product image advertise well analytics product"
+    },
+    {
+        "progweb_cat": "Images,Advertising",
+        "api_name": "Plytix Resellers",
+        "id": 4841,
+        "progweb_descr": " Plytix Resellers REST API allow developer access integrate reseller functionality Plytix applications Some example API method include manage different site manage different product manage user Plytix provide collection product image advertise well analytics product"
+    },
+    {
+        "progweb_cat": "Images,Design",
+        "api_name": "ImgServe",
+        "id": 4827,
+        "progweb_descr": " ImgServe allow developer edit photo realtime edit image URL After sign account user create workspace upload image ImgServe Content Delivery Network CDN deliver modify image URLs change Use ImgServe crop modify format resize watermark image"
+    },
+    {
+        "progweb_cat": "Images,Algorithms",
+        "api_name": "ViSenze ViSearch Data",
+        "id": 4887,
+        "progweb_descr": " ViSenze ViSearch Data REST API allow developer access integrate functionality ViSenze ViSearch Data application Some example API method include manage data retrieve image data access data interface image ViSenze ViSearch provide platform reverse image search allow user utilise uploaded image link search query instead keywords"
+    },
+    {
+        "progweb_cat": "Images,Algorithms",
+        "api_name": "ViSenze ViSearch Search",
+        "id": 4889,
+        "progweb_descr": " ViSenze ViSearch Search REST API allow developer access integrate functionality ViSenze ViSearch Search applications Some example API method include search preindexed image search color search uploading image ViSenze ViSearch provide platform reverse image search allow user utilise uploaded image link search query instead keywords"
+    },
+    {
+        "progweb_cat": "Images,Algorithms",
+        "api_name": "Mind4Cloud",
+        "id": 6601,
+        "progweb_descr": " Mind4Cloud RESTful API implement stateoftheart image processing computer vision tool It give ability apply photo edit filter one HTTP request"
+    },
+    {
+        "progweb_cat": "Images,Intelligence",
+        "api_name": "Netra",
+        "id": 5267,
+        "progweb_descr": " Netra REST API allow developer access integrate functionality Netra application Public documentation available API access come account service Netra visual search platform allow user search image videos specific object keywords"
+    },
+    {
+        "progweb_cat": "Images,Hotels",
+        "api_name": "EAN Room Images",
+        "id": 6013,
+        "progweb_descr": " EAN Room Images API allow developer integrate Expedia database application enable user see room image specific hotel organize room type This RESTful API EAN stand Expedia Affiliate Network service provide Expedia"
+    },
+    {
+        "progweb_cat": "Images,Cloud",
+        "api_name": "Aspose.Imaging",
+        "id": 6020,
+        "progweb_descr": " AsposeImaging API program interface offer Apose let developer integrate service application enable customer inspect convert transform image directly application API REST base use platform support REST Apose software company specialize file management cloud"
+    },
+    {
+        "progweb_cat": "Images,Accessibility",
+        "api_name": "IIIF Image",
+        "id": 6677,
+        "progweb_descr": " International Image Interoperability Framework IIIF act tool help deliver imagebased resource user image available gathered repository around world IIIF Image API allow developer request image use standard HTTP HTTPS request"
+    },
+    {
+        "progweb_cat": "Images,French",
+        "api_name": "Shotbot",
+        "id": 15035,
+        "progweb_descr": " Shotbot tool webmaster create screenshot thumbnail website Shotbot API allow user integrate Shotbot site automatically generate screenshots API use RESTful interface site documentation French"
+    }
+]

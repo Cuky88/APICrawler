@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Genetics,Education",
+        "api_name": "Rat Genome Database",
+        "id": 1682,
+        "progweb_descr": " Rat Genome Database API allow developer programmatically access information annotation store Rat Genome Database RGD RGD host rat genomics genetics physiology functional data It also include data comparative genomics rat human mouse"
+    },
+    {
+        "progweb_cat": "Genetics,Science",
+        "api_name": "GeneMatcher",
+        "id": 4178,
+        "progweb_descr": " GeneMatcher API allow developer add new submission website well update delete search exist submission GeneMatcher website allows clinicians researcher share interest gene gene connect Investigators post gene theyre interested automatically receive email notification another individual post match gene"
+    },
+    {
+        "progweb_cat": "Genetics,Cloud",
+        "api_name": "Google Genomics",
+        "id": 5887,
+        "progweb_descr": " Google Genomics API allow developer store process explore share DNA information use Googles cloud infrastructure API design handle DNA sequence read referencebased alignment variant call Google Genomics implement API define Global Alliance Genomics Health access compliant software"
+    },
+    {
+        "progweb_cat": "Genetics,Database",
+        "api_name": "Kegg Medicus",
+        "id": 6409,
+        "progweb_descr": " Kegg Medicus API allow developer access customize KEGGbased analysis search compute biochemical pathway cellular process analyze universe gene completely sequence genome Currently academic development use"
+    },
+    {
+        "progweb_cat": "Genetics,Database",
+        "api_name": "GA4GH Genomics",
+        "id": 6844,
+        "progweb_descr": " Genomic Data Working Group coalition assemble create interoperability standard store share genomic data GA4GH Genomics API offer Interoperability exchange genomic data various platform organization send simple HTTP request JSON equip RESTful API"
+    }
+]

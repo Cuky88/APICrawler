@@ -1,0 +1,188 @@
+[
+    {
+        "progweb_cat": "Agriculture,Big Data",
+        "api_name": "Vinsight",
+        "id": 1615,
+        "progweb_descr": " Vinsight API allow developer access integrate functionality Vinsight application API return yield forecast base area date various crop Vinsight provide yield prediction data agriculture crop vineyard"
+    },
+    {
+        "progweb_cat": "Agriculture,Analytics",
+        "api_name": "EquipmentWatch",
+        "id": 1802,
+        "progweb_descr": " EquipmentWatch API allow serve content need Construction Equipment LiftAccess Agricultural Equipment Markets It provide way make informed decision heavy equipment include Taxonomy Verification Market Data EquipmentWatch database information product constructionheavy equipment industry"
+    },
+    {
+        "progweb_cat": "Agriculture,Government",
+        "api_name": "FarmBuild Farm Mapping",
+        "id": 3294,
+        "progweb_descr": " Farm Mapping API provide industry personalize farm information Land manager farmer agricultural advisor end user benefit application integrate FarmBuild Datasets provide Victorian Government improve product yield quality soil health offisite impact Farm Mapping API use open source OpenLayers library AngularJS"
+    },
+    {
+        "progweb_cat": "Agriculture,History",
+        "api_name": "aWhere",
+        "id": 3692,
+        "progweb_descr": " aWhere API integrate historical weather data aim improve agricultural decision HTTP format available send request receive response Authentication require OAuth2 access aWhere provide agronomic data service agriculture intelligence"
+    },
+    {
+        "progweb_cat": "Agriculture,Database",
+        "api_name": "USDA PubAg",
+        "id": 4795,
+        "progweb_descr": " USDA PubAg API support integration apps access search database agricultural publication database contain 41000 fulltext journal article USDA staff include million citation Access free webbased API require API key tie maximum hourly request rate 1000 unit Permissions must seek high rate hourly request Released fullysupported documented mode USDA PubAg API flexible either JSON XML format"
+    },
+    {
+        "progweb_cat": "Agriculture,Data",
+        "api_name": "National Agricultural Statistics Service Quick Stats",
+        "id": 5448,
+        "progweb_descr": " This API provide USDA provide access information Quick Stats database online database contain official publish aggregate estimate relate US agricultural production Each request return 50000 record support format include JSON XML CSV Developers register API key"
+    },
+    {
+        "progweb_cat": "Agriculture,Data",
+        "api_name": "AgriCharts getGrainBids",
+        "id": 6213,
+        "progweb_descr": " AgriCharts OnDemand getGrainBids API provide developer cashbid data 30 close location relation request zip code AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Data",
+        "api_name": "AgriCharts getQuote",
+        "id": 6217,
+        "progweb_descr": " AgriCharts getQuote API provide developer way request price data either realtime delay endofday By integrate service application user able access price data directly AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Data",
+        "api_name": "AgriCharts getQuoteEod",
+        "id": 6237,
+        "progweb_descr": " AgriCharts getQuoteEod API provide developer way request endofday price data combine exchange symbol every equity future fund world By integrate service application user able access price data directly AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Data",
+        "api_name": "AgriCharts getHistory",
+        "id": 6238,
+        "progweb_descr": " AgriCharts OnDemand getHistory API provide developer way request historical time series data stock index mutual fund ETFs future indices forex pair By integrate service application user able access historical time series data directly AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Data",
+        "api_name": "AgriCharts getFuturesOptions",
+        "id": 6239,
+        "progweb_descr": " AgriCharts OnDemand getFuturesOptions API provide developer EOD option data strike expiration date volatility etc AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Data",
+        "api_name": "AgriCharts getSpecialOptions",
+        "id": 6244,
+        "progweb_descr": " AgriCharts OnDemand getSpecialOptions API provide developer delay I endofday D data shortdated weekly future option AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Data",
+        "api_name": "AgriCharts getUSDAGrainPrices",
+        "id": 6252,
+        "progweb_descr": " AgriCharts OnDemand getUSDAGrainPrices API provide developer access daily cash grain bid price location throughout United States cover corn wheat oat soybean market AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture",
+        "api_name": "National Agricultural Statistics Service VegScape",
+        "id": 5449,
+        "progweb_descr": " VegScape API provide access geospatial data daily weekly average biweekly average vegetation condition across United States Calls make HTTP data return XML format VegScape vegetation condition monitoring system use webbased interactive mapping platform allow navigation zoom pan download data"
+    },
+    {
+        "progweb_cat": "Agriculture,Mapping",
+        "api_name": "National Agricultural Statistics Service CropScape",
+        "id": 5454,
+        "progweb_descr": " National Agricultural Statistics Service CropScape API provide access cropland data layer This data layer georeferenced crop specific create use satellite imagery API available RESTful SOAP form return data Text CSV JSON format"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getWeather",
+        "id": 5756,
+        "progweb_descr": " AgriCharts getWeather API provide developer access current condition forecast base zip code well weather map base type region AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getNewsSources",
+        "id": 6017,
+        "progweb_descr": " AgriCharts getNewsSources API provide developer access public news source authorization status per source AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getTechnicals",
+        "id": 6215,
+        "progweb_descr": " AgriCharts getTechnicals API provide developer access technical data statistic equity index future forex fund base symbol Fields include move average percent change different time period stochastics AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getChart",
+        "id": 6216,
+        "progweb_descr": " AgriCharts OnDemand getChart API provide developer way request custom chart image variable chart type size period technical indicator base symbol AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getLeaders",
+        "id": 6228,
+        "progweb_descr": " Agricharts OnDemand getLeaders API provide developer access leaderboard list equity future forex mutual fund ETFs include active gainer loser whats hot whats hot AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getHighsLows",
+        "id": 6229,
+        "progweb_descr": " AgriCharts OnDemand getHighsLows API provide developer access list new 52week high 52week low base exchange asset type AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getScreener",
+        "id": 6230,
+        "progweb_descr": " AgriCharts OnDemand getScreener API provide ability screen stock index mutual fund ETF future instrument meet custom set criterion AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getSignal",
+        "id": 6231,
+        "progweb_descr": " AgriCharts getSignal API provide access Barchart Technical Opinion Signal buy sell hold base variety short medium longterm technical indicator base symbol AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getInstrumentDefinition",
+        "id": 6233,
+        "progweb_descr": " AgriCharts getInstrumentDefinition API provide developer way request meta data financial instrument symbol exchange exchange MIC Meta data include instrument name exchange code tick increment base cod expiration date AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getNewsCategories",
+        "id": 6243,
+        "progweb_descr": " AgriCharts getNewsCategories API provide developer access news source category subcategory data AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Activity Streams",
+        "api_name": "AgriCharts getNews",
+        "id": 6270,
+        "progweb_descr": " AgriCharts getNews API provide developer way request news headline article relate photo base upon news source category subcategory andor keyword AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Climate",
+        "api_name": "Iteris ClearAg Crop Health",
+        "id": 5871,
+        "progweb_descr": " Crop Health API provide growth pest specific recommendation agricultural user single sine corn growth spring wheat growth canola growth sugar beet growth barley growth API service Iteris ClearAg provide highresolution data service derive data assimilation model technology agricultural application ClearAg offer multiple APIs agribusiness offer API integration application framework white label capability"
+    },
+    {
+        "progweb_cat": "Agriculture,Climate",
+        "api_name": "Growstuff",
+        "id": 7040,
+        "progweb_descr": " Growstuff online community food gardener Using open source platform gardener track seed plant exchange seed local gardener learn grow food Growstuff process develop API allow 3rd party application build around open datasets regard crop climate geographic specific plant advice API JSON format HTTP request Additional open developer documentation available GitHub"
+    },
+    {
+        "progweb_cat": "Agriculture,Contracts",
+        "api_name": "AgriCharts getFuturesSpecifications",
+        "id": 6232,
+        "progweb_descr": " AgriCharts getFuturesSpecifications API provide developer contract information trading hour contract size tick size future contract AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Contracts",
+        "api_name": "AgriCharts getFuturesOptionsExpirations",
+        "id": 6254,
+        "progweb_descr": " AgriCharts getFuturesOptionsExpirations API provide developer way request information last trade date option future contract AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    },
+    {
+        "progweb_cat": "Agriculture,Contracts",
+        "api_name": "AgriCharts getFuturesExpirations",
+        "id": 6269,
+        "progweb_descr": " AgriCharts getFuturesExpiration API provide developer way request information first notice last trade date future contract AgriCharts BarChart Company provide agribusiness cloudbased data API solution"
+    }
+]

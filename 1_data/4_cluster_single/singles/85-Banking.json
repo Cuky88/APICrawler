@@ -1,0 +1,512 @@
+[
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "Bank IFSC Code",
+        "id": 545,
+        "progweb_descr": " Use eBank IFSC Code API access eBanks database 170 Indian bank 150000 branch API free limit usage However interested party must register API Key order use API Along IFSC code API return bank name address MICR code bank district state name"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "Bank Swift IFSC Code",
+        "id": 624,
+        "progweb_descr": " Bank Swift IFSC Code service allow user get Indian bank Branch IFSC Code detail database include 150 bank one million branch Bank Swift IFSC Code API enable developer programmatically access database IFSC cod Swift code Micr code branch code detail free A PHP implementation API available"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "BBVA Loan",
+        "id": 1393,
+        "progweb_descr": " Loans API allows see client preapproved loan available BBVA condition attach loan whether accept one click It allow third party application retrieve follow information BBVA user Preapproved loan consumption installment amount BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "Hellenic Bank Account Reporting",
+        "id": 1493,
+        "progweb_descr": " Hellenic Bank Account Reporting API help get report detail information kind transaction make single multiple This API allow view account statement transaction status detail transaction view date account balance Integrating API allow build apps offer customer account reconciliation service personalize finance management increase insight detailed transaction analytics By combine banking analytics business analytics understand spending pattern trend financial apps help business well cater customer ’ needs Transactions perform secure manner OAuth 2 protocol Selfregister get start Testing app available Hellenic Bank ’ sandbox environment Realtime access account activity via Sandbox log Hellenic Bank offer platform financial APIs Companies developer interested use APIs register test sandbox environment APIs openness modularity allow customer experiment innovate standard allow connect system quickly Openness 3rd party solution eg FinTechs enables platform partnership integrate value chain These APIs"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "Intrinio US Bank & Bank Holding Company",
+        "id": 1545,
+        "progweb_descr": " Intrinio US Bank Bank Holding Company API allow developer access quarterly report FDICinsured bank This include filing UBPRs Y9Cs call report contain information bank asset debts company information Users query full statement individual item historical recent filing US bank"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "BBVA Customers",
+        "id": 1588,
+        "progweb_descr": " Customers API provide third party application information belong BBVA user associate OAuth token use invoke API include User ’ unique identifier Name Surnames Gender It allow retrieve current key user information accurate update without endless form BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "BBVA Compass Payments",
+        "id": 1597,
+        "progweb_descr": " BBVA Compass Payments Services provide method available money movement account allow Initiate transfer BBVA Compass account third party account Cancel andor reverse transfer Check status individual transfer It allow send receive money secure transfer fund capability BBVA Compass APIs implement use HATEOAS Hypermedia Engine Application State HATEOAS enable interaction construction API flow provide hyperlink BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "BBVA Payments",
+        "id": 1599,
+        "progweb_descr": " Payments API provide way send money authorize user ’ BBVA account bank account domestic cross border It allow third party application perform money transfer BBVA user ’ account include follow operation Money Transfer Transfer Simulation Scheduled Transfer BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "BBVA Notifications",
+        "id": 1603,
+        "progweb_descr": " BBVA Notifications API provide way developer set basic delivery configuration parameter specific application API allow get notified real time customer bank transaction It provide method retrieve delete subscription associate application allow follow operation Create retrieve update delete configuration parameter application Get subscription associate application Delete subscription associate application BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "IBAN SWIFT/BIC Validation",
+        "id": 2006,
+        "progweb_descr": " IBANcom operate webbased portal realtime identification validation calculation International Bank Account Numbers IBAN This platform use algorithmic formula determine validity IBANs IBAN SWIFTBIC Validation API allow developer integrate BIC code authentication functionality application It simplify access BIC code directory make easy user validate SWIFT BIC cod banking transaction API sends HTTPformatted request return response JSON XML format"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "Yodlee Open Banking",
+        "id": 2105,
+        "progweb_descr": " Yodlee Open Banking API allow developer access integrate functionality Yodlee Open Banking application Yodlee Open Banking API connect financial system userpermitted financial data banking institution Public documentation available API access come account service Yodlee Interactive cloud platform provide digital financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "Monzo",
+        "id": 2238,
+        "progweb_descr": " This API predictable intuitive interface interact Monzo user account offer REST webhooks service This include Accounts Balance Transactions Monzo provide smart technology bank experience instant payment notification builtin budget feefree travel"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "TipsGO Location",
+        "id": 2768,
+        "progweb_descr": " TipsGo Location API enable user browse list bank BranchesATMs location information This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "TipsGO MoneyChanger",
+        "id": 3265,
+        "progweb_descr": " TipsGo MoneyChanger API use implement capability similar MyMonyChanger App This API allow access global directory Money Changers exchange rate foreign currency conversion MoneyChanger API facilitate P2P foreign currency exchange allow compare foreign currency exchange rate bank money changer different global location This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "TipsGO InvestmentCalculator",
+        "id": 3266,
+        "progweb_descr": " Tips Go InvestmentCalculator API use easily build investment saving calculator create graphs showing investment return time This API specifically design get response user minimum number input API platform neutral use mobile web application framework This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "Kontomatik Banking",
+        "id": 3738,
+        "progweb_descr": " Kontomatik Banking API readonly API allow financial institution access user bank data programmatically This include personal data account balance full statement Kontomatik product allow financial institution obtain KYC perform credit score build accurate profile customer order provide contextual offer"
+    },
+    {
+        "progweb_cat": "Banking,Financial",
+        "api_name": "TreasuryView",
+        "id": 4545,
+        "progweb_descr": ""
+    },
+    {
+        "progweb_cat": "Banking,Authentication",
+        "api_name": "Hellenic Bank Authentication",
+        "id": 1497,
+        "progweb_descr": " Hellenic Bank Authentication API power app robust set permissionbased consumer business account transactional data adhere banklevel security requirement Effectively manage data also key regulatory reporting Use API authenticate user easily webdesktop mobile application This enable extend reach attract additional customer Transactions perform secure manner OAuth 2 protocol Selfregister get start Testing app available Hellenic Bank ’ sandbox environment Realtime access account activity via Sandbox log Hellenic Bank offer platform financial APIs Companies developer interested use APIs register test sandbox environment APIs openness modularity allow customer experiment innovate standard allow connect system quickly Openness 3rd party solution eg FinTechs enables platform partnership integrate value chain These APIs"
+    },
+    {
+        "progweb_cat": "Banking,Authentication",
+        "api_name": "BBVA Authentication",
+        "id": 1587,
+        "progweb_descr": " BBVA Authentication protocol offer secure way approve BBVA access API resource third party enterprises developer This protocol support OAuth2 Authorization Framework BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking",
+        "api_name": "Ally",
+        "id": 1502,
+        "progweb_descr": " Ally API return bank data It available OAuth authentication JSON format include addition FIX protocol message use standard know FIXML REST operation include account balance holding With API developer write trading analytics apps via brokerage account Ally bank provide digital financial service include credit card auto home loan investment"
+    },
+    {
+        "progweb_cat": "Banking",
+        "api_name": "IBM Bluemix Party Data Management",
+        "id": 3378,
+        "progweb_descr": " This BAIN REST API allow maintain comprehensive set customer reference detail include demographic administrative KYC relate property status activity summary power IBMs API Management solution Bluemix Code sample available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking",
+        "api_name": "IBM Bluemix Issued Device Allocation",
+        "id": 3386,
+        "progweb_descr": " This BAIN REST API power IBMs API Management solution Bluemix Code examples available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking",
+        "api_name": "IBM Bluemix Offer Management",
+        "id": 3419,
+        "progweb_descr": " This BAIN REST API use orchestrate processing offer new customer exist customer power IBMs API Management solution Bluemix Offer process define primarily nature product service consider include document check collateral allocation credit assessment underwriting decision Code examples available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking",
+        "api_name": "IBM Bluemix Customer Access Entitlement",
+        "id": 3422,
+        "progweb_descr": " This BAIN REST API use service fulfillment control cover product service channeldevice usage entitlement power IBMs API Management solution Bluemix Use reference channel access control utilization limit Code examples available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking",
+        "api_name": "IBM Bluemix Position Keeping",
+        "id": 3437,
+        "progweb_descr": " This BAIN REST API administers transaction record general product service day day financial tracking power IBMs API Management solution Bluemix Code examples available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking",
+        "api_name": "IBM Bluemix Party Authentication",
+        "id": 3438,
+        "progweb_descr": " This BAIN REST API cross channel capability may use devicetag secret information authenticate party power IBMs API Management solution Bluemix It assume number authentication level define deployment channel device specific variation may require Code example available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking",
+        "api_name": "IBM Bluemix Correspondence",
+        "id": 3439,
+        "progweb_descr": " This BAIN REST API orchestrate production preformatted correspondence batch correspondence power IBMs API Management solution Bluemix Optimize delivery bundle channel selection route inbound correspondence Code examples available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking",
+        "api_name": "Mondo Web hooks",
+        "id": 4920,
+        "progweb_descr": " Mondo Web hook API API allow developer incorporate realtime push notification event occur within account application Mondo API allow interaction user bank account include transaction list retrieval API currently beta interested developer get touch via Mondo Twitter account Mondo mobilefirst bank banking application"
+    },
+    {
+        "progweb_cat": "Banking",
+        "api_name": "Mondo REST",
+        "id": 5095,
+        "progweb_descr": " Mondo REST API banking API allow interaction user account Interactions include list retrieve transaction API currently beta interested developer get touch via Mondo Twitter account Mondo mobilefirst bank banking application"
+    },
+    {
+        "progweb_cat": "Banking,Credit Cards",
+        "api_name": "Cashplus",
+        "id": 1509,
+        "progweb_descr": " Cashplus REST API allow developer access integrate functionality Cashplus application Some example API method include retrieve account retrieve transaction Cashplus banking solution provider UK"
+    },
+    {
+        "progweb_cat": "Banking,Credit Cards",
+        "api_name": "BBVA Cards",
+        "id": 1598,
+        "progweb_descr": " This API allow third party application interact card BBVA user provide operation Card list Card detail Card transaction Gain access card information customer trace purchase user make card use simple REST service BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Credit Cards",
+        "api_name": "BBVA Compass Cards",
+        "id": 1601,
+        "progweb_descr": " This API provide way create service customer debit card need operation available debit card These service require card link execute allows third party application perform follow operation Retrieve debit card user Get detail debit card Block cancel debit card lose steal compromise LinkUnlink card user BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Credit Cards",
+        "api_name": "IBM Bluemix Card Authorization",
+        "id": 3379,
+        "progweb_descr": " This BAIN REST API execute decision base authorization record propose card transaction merchant network power IBMs API Management solution Bluemix card authorization trigger verbal check customer detail security authorization give Code sample available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking,Credit Cards",
+        "api_name": "IBM Bluemix Card Capture",
+        "id": 3418,
+        "progweb_descr": " This BAIN REST API use capture retrieve card payment transaction merchant network power IBMs API Management solution Bluemix It support point sale network capture authorize card transaction initiate appropriate principal debit associate transaction fee card facility Code examples available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking,Credit Cards",
+        "api_name": "OCBC Bank Credit Card Advisor",
+        "id": 4024,
+        "progweb_descr": " OCBC Bank Credit Card Advisor provide interactive platform recommend credit card option basis usergenerated preference profile Developers use API create apps automate collection user ’ financial lifestyle profile instant conversion data tailor credit card recommendation API ’ provider lead Singaporean bank international operation 17 country It return JSONformatted response call make use HTTP GET method"
+    },
+    {
+        "progweb_cat": "Banking,Aggregation",
+        "api_name": "BBVA PayStats",
+        "id": 1589,
+        "progweb_descr": " data service specification PayStats API provide statistical transaction data retrieve BBVA card BBVA point sale BBVA PayStats offer anonymized aggregated statistical data million transaction perform card BBVA POS terminal BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Accounts",
+        "api_name": "BBVA Accounts",
+        "id": 1590,
+        "progweb_descr": " BBVA Accounts API allow third party application interact account BBVA user It provide way verify ownership check balance retrieve account transaction include account type status balance transaction history BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Accounts",
+        "api_name": "BBVA Business Accounts",
+        "id": 1591,
+        "progweb_descr": " Business Accounts API allow third party application access business authorize bank account transaction It provide way retrieve balance transaction business user market standard format AEB43 automate native access product BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Accounts",
+        "api_name": "BBVA Compass Accounts",
+        "id": 1600,
+        "progweb_descr": " Compass Accounts API allow application retrieve BBVA account log user get detail information specific account link unlink account application It provide way create neobank account affiliate develop financial app access bank account transaction This service allow leverage API provide way customer create new check account access key account data site app BBVA Compass APIs implement use HATEOAS Hypermedia Engine Application State HATEOAS enable interaction construction API flow provide hyperlink BBVA API Market platform global financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Accounts",
+        "api_name": "Capital One 360 Bank Account Starter",
+        "id": 2573,
+        "progweb_descr": " This API enable user open 360 Savings Account 360 Money Market Account You pass applicant information Capital One perform eligibility identity check applicant return status new account number rout number account create See documentation information"
+    },
+    {
+        "progweb_cat": "Banking,Accounts",
+        "api_name": "Figo",
+        "id": 4787,
+        "progweb_descr": " figoio first BankingasaService Europe It enable access every financial service provider one API With figo Banking API developer integrate access bank account history transaction submission payment Authentication available via OAuth2 Formats JSON REST allow request receive response retrieve bank account modify bank account remove PIN number server"
+    },
+    {
+        "progweb_cat": "Banking,Accounts",
+        "api_name": "IBAN Check",
+        "id": 5018,
+        "progweb_descr": " IBAN Check API let developer integrate service application enable user check International Bank Account Number IBAN number valid invalid IBAN number new standard bank account number Europe country outside Europe Tuxx provider APIs base Netherlands"
+    },
+    {
+        "progweb_cat": "Banking,Cloud",
+        "api_name": "Mambu On The Fly",
+        "id": 1713,
+        "progweb_descr": " Mambu On Fly API retrieve data custom filter HTTP request available return JSON response Basic auth secure HTTPS require authenticate Use API obtain client search transaction notification journal entry filter result"
+    },
+    {
+        "progweb_cat": "Banking,Cloud",
+        "api_name": "Mambu Images",
+        "id": 1714,
+        "progweb_descr": " Mambu Images API integrate image retrieval financial application It available REST architecture HTTP request JSON response Developers use basic authentication access interface via HTTPS Use API obtain images client profile"
+    },
+    {
+        "progweb_cat": "Banking,Cloud",
+        "api_name": "Mambu Notifications",
+        "id": 1715,
+        "progweb_descr": " Mambu Notifications API integrate message bank application Under REST architecture developer perform callback HTTP JSON format previously authenticate HTTP basic protocol Use API send message recipient filter date"
+    },
+    {
+        "progweb_cat": "Banking,Cloud",
+        "api_name": "Mambu Custom Views",
+        "id": 1716,
+        "progweb_descr": " Mambu Custom Views API retrieve custom view entity filter With REST interface developer authenticate via basic auth send HTTP request receive JSON response They use API filter custom view client group loan deposit transaction"
+    },
+    {
+        "progweb_cat": "Banking,Cloud",
+        "api_name": "Mambu Clients",
+        "id": 1717,
+        "progweb_descr": " Mambu Clients API retrieve view store create update client Linked data may include address custom field identification document It available REST architecture JSON format Use API search client first name last name birth date id document number branch ID"
+    },
+    {
+        "progweb_cat": "Banking,Cloud",
+        "api_name": "Mambu Document Templates",
+        "id": 1718,
+        "progweb_descr": " Mambu Document Templates API retrieve document template data It available REST architecture HTTP request JSON response basic authentication Use API access ID document template key"
+    },
+    {
+        "progweb_cat": "Banking,Cloud",
+        "api_name": "Mambu Transaction Channels",
+        "id": 1719,
+        "progweb_descr": " Mambu Transaction Channels REST API retrieve list transaction channel organization via JSON format Developers access interface HTTP basic auth secure HTTPS protocol"
+    },
+    {
+        "progweb_cat": "Banking,Cloud",
+        "api_name": "Mambu Users",
+        "id": 1720,
+        "progweb_descr": " Mambu Users API retrieve individual group user ID REST architecture allow perform callback send HTTP request receive JSON response Use API combine Custom Fields API set preferred filter"
+    },
+    {
+        "progweb_cat": "Banking,Cloud",
+        "api_name": "Mambu Currencies",
+        "id": 1721,
+        "progweb_descr": " Mambu Currencies API retrieve currency data account organization Developers send HTTP request receive JSON responses REST architecture previously authenticate via HTTP basic format Use API access information type currency exchange rate"
+    },
+    {
+        "progweb_cat": "Banking,Data",
+        "api_name": "Standard Chartered Straight2Bank",
+        "id": 2040,
+        "progweb_descr": " Standard Chartered API provide access corporate banking service payment balance reference data It return various type “ Account Balances ” applicable specify Account Number Account Detail Balance well find support transaction type give account This include Accounts Bank Code Inquiry Holiday Calendar Inquiry Standard Chartered international banking group commit building sustainable business provide widerange product service personal business customer across 71 country"
+    },
+    {
+        "progweb_cat": "Banking,Data",
+        "api_name": "DataYuge IFSC Code",
+        "id": 2212,
+        "progweb_descr": " DataYuge IFSC Indian Financial System Code Code API offer late alphanumeric code EFT transfer India API free charge limitation API Keys need authentication JSON use response DataYuge software development firm offer analytics tool related service"
+    },
+    {
+        "progweb_cat": "Banking,Data",
+        "api_name": "IFSC Bank Codes",
+        "id": 3014,
+        "progweb_descr": " IFSC Bank Codes REST API allow developer access integrate functionality IFSC Banks application websites Some example API method include retrieve bank IFSC code retrieve bank MICR code search code IFSC Bank provide data code information bank India"
+    },
+    {
+        "progweb_cat": "Banking,Currency",
+        "api_name": "Yodlee Money Movement",
+        "id": 2110,
+        "progweb_descr": " Yodlee Money Movement REST API allow developer access integrate money movement functionality application Yodlee Money Movement API provide platform customer access transfer money pay bill online Yodlee Interactive cloud platform provide digital financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Currency",
+        "api_name": "OCBC Bank Forex",
+        "id": 4025,
+        "progweb_descr": " OCBC Bank Forex API delivers realtime update foreign exchange rate movement international currency relative base currency Developers incorporate API apps forex display board screen Its provider lead Singaporean bank international operation 17 country API return JSONformatted response call make use HTTP GET method"
+    },
+    {
+        "progweb_cat": "Banking,Enterprise",
+        "api_name": "Yodlee Risk Insight",
+        "id": 2111,
+        "progweb_descr": " Yodlee Risk Insight REST API allow developer access integrate credit risk functionality Yodlee application Yodlee Risk Insight API allow user run risk insight report company make credit decision Yodlee Interactive cloud platform provide digital financial service business"
+    },
+    {
+        "progweb_cat": "Banking,Merchants",
+        "api_name": "EquityBank Transaction",
+        "id": 2206,
+        "progweb_descr": " EquityBank Transactions API integrate payment banking application With JSON formar token authentication developer purchase airtime transfer money get payment status create merchant payment"
+    },
+    {
+        "progweb_cat": "Banking,Accessibility",
+        "api_name": "EquityBank Identity",
+        "id": 2281,
+        "progweb_descr": " EquityBank Identity API integrate identity access banking application Developers change password obtain merchant access token send POST request receive JSON response return Sandbox available experiment Identity Transaction APIs"
+    },
+    {
+        "progweb_cat": "Banking,Compliance",
+        "api_name": "Railsbank",
+        "id": 2467,
+        "progweb_descr": " Railsbank REST API allow developer access integrate functionality Railsbank application Public documentation yet available interested developer sign information httpswwwrailsbankcomapi Railsbank connect global bank together via banking compliance platform API"
+    },
+    {
+        "progweb_cat": "Banking,Compliance",
+        "api_name": "IBM Bluemix Sales Product Agreement",
+        "id": 3380,
+        "progweb_descr": " This BAIN REST API capture legal term condition force sell product power IBMs API Management solution Bluemix This include many detail influence product service fulfillment applicable fee rate select feature option Code examples available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking,Bots",
+        "api_name": "BuildingBankingBots",
+        "id": 2615,
+        "progweb_descr": " Our API give developer ability access user transactional data UKs bank build society credit card"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Table I.5B Banks: Loans and Advances of ACUs to Non-Bank Customers by Industry, Yearly",
+        "id": 2914,
+        "progweb_descr": " MAS Table I5B Banks Loans Advances ACUs NonBank Customers Industry Yearly API summarize year end data loan advance channel Singapore ’ Asian Currency Units different industry category nonbank customer This include total breakdown loan advance loan business consumer loan API ’ main industry classification include agriculture mining quarry manufacturing building construction general commerce transport storage communication Business service financial institution private professional individual – business purpose others This API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Table I.17 Credit and Charge Card Statistics, Yearly",
+        "id": 2915,
+        "progweb_descr": " MAS Table I17 Credit Charge Card Statistics Yearly API allow user extract annual summary credit card transaction Monetary Authority Singapore website API use export different type statistic include number main supplementary card total card billing rollover balance bad debt write chargeoff rate API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Table I.17 Credit and Charge Card Statistics, Monthly",
+        "id": 2916,
+        "progweb_descr": " MAS Table I17 Credit Charge Card Statistics Monthly API allow user extract monthly summary credit card transaction Monetary Authority Singapore website API use export different type statistic include number main supplementary card total card billing rollover balance bad debt write chargeoff rate API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Table I.5B Banks: Loans and Advances of ACUs to Non-Bank Customers by Industry, Monthly",
+        "id": 2935,
+        "progweb_descr": " MAS Table I5B Banks Loans Advances ACUs NonBank Customers Industry Monthly API summarize monthly data loan advance channel Singapore ’ Asian Currency Units different industry category nonbank customer This include total breakdown loan advance loan business consumer loan API ’ main industry classification include agriculture mining quarry manufacturing building construction general commerce transport storage communication Business service financial institution private professional individual – business purpose others This API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Table I.5A Banks: Loans and Advances of DBUs to Non-Bank Customers by Industry, Yearly",
+        "id": 2936,
+        "progweb_descr": " MAS Table I5A Banks Loans Advances DBUs NonBank Customers Industry Yearly API summarize year end data loan advance channel different industry category nonbank customer Singapore ’ domestic banking unit This include total breakdown loan advance loan business consumer loan API ’ main industry classification include agriculture mining quarry manufacturing building construction general commerce transport storage communication Business service financial institution private professional individual – business purpose others This API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Table I.5A Banks: Loans and Advances of DBUs to Non-Bank Customers by Industry, Monthly",
+        "id": 2937,
+        "progweb_descr": " MAS Table I5A Banks Loans Advances DBUs NonBank Customers Industry Monthly API summarize monthly data loan advance channel different industry category nonbank customer Singapore ’ domestic banking unit This include total breakdown loan advance loan business consumer loan API ’ main industry classification include agriculture mining quarry manufacturing building construction general commerce transport storage communication Business service financial institution private professional individual – business purpose others This API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Table I.4 Banks: Deposits (Excluding S$NCDs) of DBUs by Types of Non-Bank Customers, Yearly",
+        "id": 2938,
+        "progweb_descr": " MAS Table I4 Banks Deposits Excluding SNCDs DBUs Types NonBank Customers Yearly API provide summary deposit hold end specify year nonbank entity Singapore ’ domestic banking unit This include total deposit Singapore government statutory board deposit nonbank financial institution deposit resident Singapore deposit resident outside Singapore API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Table I.4 Banks: Deposits (Excluding S$NCDs) of DBUs by Types of Non-Bank Customers, Monthly",
+        "id": 2955,
+        "progweb_descr": " MAS Table I4 Banks Deposits Excluding SNCDs DBUs Types NonBank Customers Monthly API provide summary deposit hold end specify calendar month nonbank entity Singapore ’ domestic banking unit This include total deposit Singapore government statutory board deposit nonbank financial institution deposit resident Singapore deposit resident outside Singapore API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Domestic Interest Rates, Daily",
+        "id": 2957,
+        "progweb_descr": " MAS Domestic Interest Rates Daily API provide day ’ summary interbank deposit borrowing rate different financial instrument offer bank Singapore API generate 3month US Singapore Interbank Offered Rates SIBOR Singapore Overnight Rate Average Standing Facility Deposit Rate Standing Facility Deposit Rate API send request return response JSON format Users access historical current data"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Domestic Interest Rates, Weekly",
+        "id": 2958,
+        "progweb_descr": " MAS Domestic Interest Rates Weekly API provide week ’ summary deposit borrow rate different financial instrument offer Singapore ’ banking institution API use publish 3month US Singapore Interbank Offered Rates SIBOR Singapore Overnight Rate Average Standing Facility Deposit Rate Standing Facility Deposit Rate API send request return response JSON format Users access historical current data"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Domestic Interest Rates, Monthly",
+        "id": 2959,
+        "progweb_descr": " MAS Domestic Interest Rates Monthly API provide monthbymonth summary interbank deposit borrowing rate different financial instrument offer bank Singapore API use publish 3month US Singapore Interbank Offered Rates SIBOR Singapore Overnight Rate Average Standing Facility Deposit Rate Standing Facility Deposit Rate API send request return response JSON format Users access historical current data"
+    },
+    {
+        "progweb_cat": "Banking,Analytics",
+        "api_name": "MAS Domestic Interest Rates, Yearly",
+        "id": 2960,
+        "progweb_descr": " MAS Domestic Interest Rates Yearly API provide annual summary interbank deposit borrowing rate different financial instrument offer bank Singapore API use publish 3month US Singapore Interbank Offered Rates SIBOR Singapore Overnight Rate Average Standing Facility Deposit Rate Standing Facility Deposit Rate API send request return response JSON format Users access historical current data"
+    },
+    {
+        "progweb_cat": "Banking,Business",
+        "api_name": "TipsGO Business",
+        "id": 3267,
+        "progweb_descr": " TipsGo Business API use implement capability similar This API allow access global directory Money Changers exchange rate foreign currency conversion This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    },
+    {
+        "progweb_cat": "Banking,Business",
+        "api_name": "SEED",
+        "id": 5874,
+        "progweb_descr": " SEED REST API allow developer access integrate functionality SEED application create new application use JSON Some example API method include manage member user retrieve manage transfer wire retrieve individual SEED mobile bank provider business SEED offer ACH transfer wire transfer capability business"
+    },
+    {
+        "progweb_cat": "Banking,Law",
+        "api_name": "IBM Bluemix Customer Agreement",
+        "id": 3281,
+        "progweb_descr": " This BAIN REST API allow maintain structured legal customer agreement power IBMs API Management solution Bluemix customer agreement link many Sales Product Agreements need inforce product Code examples available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking,Rewards",
+        "api_name": "IBM Bluemix Reward Points Account",
+        "id": 3358,
+        "progweb_descr": " This BAIN REST API use administer reward point account consumer customer power IBMs API Management solution Bluemix Rewards point handle pseudo currency associate interest activity specific need handle expiry various conversion redemption requirement Code examples available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking,Application Development",
+        "api_name": "IBM Bluemix Transaction Authorization",
+        "id": 3370,
+        "progweb_descr": " This BAIN REST API provide risk base authorization service interactive customer transaction power IBMs API Management solution Bluemix It combine context transaction customer detail recent activity analysis Code sample available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking,Application Development",
+        "api_name": "IBM Bluemix Location Data Management",
+        "id": 3385,
+        "progweb_descr": " This BAIN REST API use maintain detail use state location interest power IBMs API Management solution Bluemix maintenance location detail use support dynamic sale service activity enable mobile device track Code example available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking,Application Development",
+        "api_name": "IBM Bluemix Transaction Engine",
+        "id": 3387,
+        "progweb_descr": " This BAIN REST API orchestrate schedule payment transaction reporting activity fulfillment certain long term instrument structure facility power IBMs API Management solution Bluemix Code examples available cURL Ruby Python PHP Java Node Go BAIN Is Banking Industry Architecture Network define SOA semantic definition IT service banking industry"
+    },
+    {
+        "progweb_cat": "Banking,API",
+        "api_name": "emSzmal Banking",
+        "id": 3448,
+        "progweb_descr": " English Unified banking API allow gather financial data directly online bank transaction history account balance Supports major Polish bank financial institution Polski Zunifikowane API bankowe pozwalająca pobierać dane finansowe bezpośrednio z serwisów bankowości internetowej historię operacji bankowych oraz informację saldach na rachunkach Usługa działa z większością polskich banków innymi instytucjami finansowymi"
+    },
+    {
+        "progweb_cat": "Banking,Addresses",
+        "api_name": "OCBC Bank Branch Locator",
+        "id": 4023,
+        "progweb_descr": " OCBC Bank Branch Locator API use longitudinal latitudinal data generate information exact geographic position specific operate unit OCBC ’ expansive branch network Singapore internationally It allow user spot physical address operate hour branch API return JSONformatted response call make use HTTP GET method"
+    },
+    {
+        "progweb_cat": "Banking,Addresses",
+        "api_name": "OCBC Bank ATM Locator",
+        "id": 4026,
+        "progweb_descr": " OCBC Bank ATM Locator map solution search location direction nearby ATMs particular address Developers use create ATM location marking map serve graphical reference user API ’ provider lead Singaporean bank international operation 17 country OCBC Bank ATM Locator API return JSONformatted response call make use HTTP GET method"
+    },
+    {
+        "progweb_cat": "Banking,Bitcoin",
+        "api_name": "Clever Banking",
+        "id": 4916,
+        "progweb_descr": " Clever Banking API banking platform send receive Euros Dollars Bitcoin CleverCoins API partner major payment channel include Visa Mastercard Sepa Ideal Bitcoin Clever Banking API offer fraud protection Bitcoin conversion multisignature transfer compliant European Regulations API documentation obtain contact CleverCoin"
+    }
+]

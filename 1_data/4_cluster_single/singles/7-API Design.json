@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "API Design,Agile",
+        "api_name": "Apigility ZF RPC",
+        "id": 1837,
+        "progweb_descr": " This API module implement RPC web service Zend Framework Some feature include define controller PHP callables create whitelist HTTP request method This Zend Framework module use Apigility provide object model capture documentation information provide configurable MVC endpoint return documentation Apigility provide JSON representation parse use mobile framework allow write web native application simultaneously"
+    },
+    {
+        "progweb_cat": "API Design,Agile",
+        "api_name": "Apigility",
+        "id": 3550,
+        "progweb_descr": " Apigility create APIs use agile methodology It available JSON architecture RESTful format use OAuth2 HTTP authenticate Agility download Linux PC Apple PHP relate compute system"
+    },
+    {
+        "progweb_cat": "API Design,API Management",
+        "api_name": "Postman Run Button",
+        "id": 3587,
+        "progweb_descr": " Postman Run Button API allow access API development feature Language JavaScript enable developer create replace delete programming environment cloud API Keys available access"
+    },
+    {
+        "progweb_cat": "API Design,API Management",
+        "api_name": "Sheetlabs",
+        "id": 6934,
+        "progweb_descr": " Sheetlabs API creation documentation host service allow creation easy implement APIs Using Sheetlabs user upload spreadsheet CSV XLS XLSX format input via Google spreadsheet create APIs accessible via JSON protocol With customizable return APIs easy implement integrate variety languages Their sample API ACME getDomain return list 100 old register web domain When make request Sheetlabs account username password use access token"
+    },
+    {
+        "progweb_cat": "API Design,API Management",
+        "api_name": "Apple Swift",
+        "id": 7162,
+        "progweb_descr": " Swift Apple program language Cocoa Cocoa Touch Swift code work sideby side ObjectiveC Swift express clean syntax mean APIs easy read maintain Modules provide namespaces eliminate header code less prone mistake memory manage automatically"
+    },
+    {
+        "progweb_cat": "API Design,Accounts",
+        "api_name": "Kimono",
+        "id": 6938,
+        "progweb_descr": " KimonoLabs offer tool allow user create API use web page directly within browser Kimono API RESTful interface accept simple HTTP request delivers JSON responses regard metadata user API creation"
+    },
+    {
+        "progweb_cat": "API Design,API Design",
+        "api_name": "ParseHub",
+        "id": 7088,
+        "progweb_descr": " ParseHub enable one extract data dynamic website turn APIs without write code ParseHub fully document RESTful API extract data web ParseHub API require API key usage API use retrieve current job assign user delete exist job run instance return job status edit run ParseHub also available form Firefox extension"
+    }
+]

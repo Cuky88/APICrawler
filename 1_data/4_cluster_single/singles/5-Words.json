@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Words,Analytics",
+        "api_name": "IBM Watson Message Resonance",
+        "id": 652,
+        "progweb_descr": " IBM Watson Message Resonance API help developer identify word choice resonate intend audience Users propose word API analyze million tweet give community API return resonance score give user idea effectiveness language intend audience"
+    },
+    {
+        "progweb_cat": "Words,Education",
+        "api_name": "Datamuse",
+        "id": 4177,
+        "progweb_descr": " Datamuse API use integrate wordfinding query engine It use apps programmatic access Datamuses websites include OneLook Rhymezone OneLook dictionary search application Rhymezone use find rhymes synonyms It feature autocomplete text input field search relevancy rank assistive writing application word game Use API apps query word match constraint like mean spell sound vocabulary This API return data JSON format"
+    },
+    {
+        "progweb_cat": "Words,Content",
+        "api_name": "WordAi",
+        "id": 5050,
+        "progweb_descr": " WordAi use JSON plaintext return show spintax article spin technique aim write various version text artificial intelligence WordAi automatically create human quality content machine understand word interaction article rewrite human writer readability"
+    },
+    {
+        "progweb_cat": "Words,Comparisons",
+        "api_name": "Bing Synonyms",
+        "id": 6644,
+        "progweb_descr": " Synonyms API Bing return alternate way people refer real world entity like product people location These know synonym"
+    },
+    {
+        "progweb_cat": "Words,Natural Language Processing",
+        "api_name": "HPE Haven OnDemand Expand Terms",
+        "id": 7104,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Expand Terms API accept term return relate word base select expansion criterion Developers set fuzzy return list similarly word term set stem return list word share root set wild utilize even broad expansion result"
+    }
+]

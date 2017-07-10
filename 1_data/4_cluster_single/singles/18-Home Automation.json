@@ -1,0 +1,110 @@
+[
+    {
+        "progweb_cat": "Home Automation,Internet of Things",
+        "api_name": "Dog Gateway",
+        "id": 633,
+        "progweb_descr": " With Dog REST API developer able integrate home building automation application It run multiple platform include mobile smartphones computer program API allow developer manage multiple connect device manage information rule scenario monitor homebuilding performance also manage Dog system performance"
+    },
+    {
+        "progweb_cat": "Home Automation,Internet of Things",
+        "api_name": "Loggamera Heatpump",
+        "id": 3465,
+        "progweb_descr": " Heatpump API offer realtime data connect heat pump type indoor temperature activity filter alarm Additionally fetch model specific information Developers need register order request API Key Loggamera Swedish home automation Internet Things provider"
+    },
+    {
+        "progweb_cat": "Home Automation,Internet of Things",
+        "api_name": "Pimatic REST",
+        "id": 4540,
+        "progweb_descr": " Pimatic API allow developer perform external script Pimatic create frontends home automation framework Pimatic design provide extensible platform home control automation It enable different home device sensor control uniform way common interface Pimatic currently beta"
+    },
+    {
+        "progweb_cat": "Home Automation,Internet of Things",
+        "api_name": "Lockitron",
+        "id": 4793,
+        "progweb_descr": " Lockitron REST API allow developer access integrate functionality Lockitron application device Some example API method include retrieve lock manage lock lock unlock lock manage key user Lockitron keyless lock home business Locks lock unlocked application sensor"
+    },
+    {
+        "progweb_cat": "Home Automation,Internet of Things",
+        "api_name": "Indigo Domotics",
+        "id": 4994,
+        "progweb_descr": " Indigo Domotics API allow developer integrate method monitor control smart home device thirdparty application Comprehensive schedule trigger feature allow user control smart home automate well Indigo Domotics offer support hundred popular smart device user customize graphical user interface like"
+    },
+    {
+        "progweb_cat": "Home Automation,Internet of Things",
+        "api_name": "Okidokeys",
+        "id": 6065,
+        "progweb_descr": " Okidokeys autolock provider home door lock Okidokeys allow user lock unlock home office door via application smartphone Public documentation available interested developer contact contactokidokeyscom access Okidokeys API documentation"
+    },
+    {
+        "progweb_cat": "Home Automation,Internet of Things",
+        "api_name": "Insteon",
+        "id": 6076,
+        "progweb_descr": " Insteon homeautomation system Insteon allow user automate various function home light power outlet wall switch Insteon API allow developer access integrate functionality Insteon application create new application Some example API method include manage account account information managing device set control device"
+    },
+    {
+        "progweb_cat": "Home Automation,Internet of Things",
+        "api_name": "Apple HomeKit",
+        "id": 7165,
+        "progweb_descr": " Apples HomeKit provide platform device apps service communicate Utilizing Siri iPhone user control supported device home Lights thermostat garage door etc could control voice"
+    },
+    {
+        "progweb_cat": "Home Automation,Internet of Things",
+        "api_name": "Wink App",
+        "id": 7334,
+        "progweb_descr": " Wink app syncs home automation device adjust light window shade climate key lock Wink sell Wink HUB hardware component accepts communication device follow protocol Bluetooth LE WiFi ZigBee ZWave Lutron ClearConnect Kidde RESTful Wink API host Apiary allows Wink device communicate user apps web general"
+    },
+    {
+        "progweb_cat": "Home Automation,Internet of Things",
+        "api_name": "Istabai",
+        "id": 9761,
+        "progweb_descr": " Istabai application allow user manage home heating system anywhere internet connection Users set service simply change radiator head plug Istabais internet cable Istabai mobile application web solution relay current temperature user allow regulate like system also access control programmatically via REST API Istabai website provide English Russian Latvian"
+    },
+    {
+        "progweb_cat": "Home Automation,Notifications",
+        "api_name": "Telldus",
+        "id": 3293,
+        "progweb_descr": " Telldus API allow developer programmatically interact TellStick connect gear order set Smart Home Simple ifthen statement use automatically trigger specified action condition meet Push notification currently available Pro member alert users event choice"
+    },
+    {
+        "progweb_cat": "Home Automation",
+        "api_name": "Pimatic Websocket",
+        "id": 3733,
+        "progweb_descr": " This API home automation control use socketio protocol Pimatic Websocket allow access hardware use support device plugins Control blind switch dimmer temperature"
+    },
+    {
+        "progweb_cat": "Home Automation,Gadgets",
+        "api_name": "QuickSet",
+        "id": 4372,
+        "progweb_descr": " QuickSet API aid automatic detection manipulation home device variety portal HDMI Infrared IP identities It allow app developer marketer profile detailed information data transmit smart gadget detect household QuickSet ’ flexibility facilitate easy integration type home device run either web API platform trademark QuickSet Cloud incorporate apps tailor specific platform API documentation available upon contact provider"
+    },
+    {
+        "progweb_cat": "Home Automation,Energy",
+        "api_name": "Domoticz",
+        "id": 4440,
+        "progweb_descr": " Domoticz API help create central sensorcontrolled portal synchronizing home utility device range electrical device electronic gadget water gas well weather monitor instrument It RESTful API generate JSON return HTTP request Domoticz API free resource come optional signup access"
+    },
+    {
+        "progweb_cat": "Home Automation,Environment",
+        "api_name": "Sensorist",
+        "id": 4476,
+        "progweb_descr": " Sensorist API allow developer access information environmental sensor system programmatically Sensorist build sell wireless sensor system measure environments temperature humidity CO2 level Users explore sensor measurement use Sensorists website app build custom integration API"
+    },
+    {
+        "progweb_cat": "Home Automation,Analytics",
+        "api_name": "MicroBees",
+        "id": 4851,
+        "progweb_descr": " MicroBees API Internet Things platform exchange information MicroBees product use create automate home system This do without need change electrical wiring This system feature power consumption measure thermostat function API REST architecture respond JSON format Each API call require bearer Token MicroBees base Italy develop home connectivity product"
+    },
+    {
+        "progweb_cat": "Home Automation,Cameras",
+        "api_name": "Myfox",
+        "id": 5553,
+        "progweb_descr": " Myfox API allow developer integrate apps device Myfoxs home surveillance security product API use basic HTTP POSTGET method responses JSON authenticate use OAuth2 After set developer account user access Myfox data begin build apps program language choice Use Myfox interface camera remotely control thermostat stream video among function"
+    },
+    {
+        "progweb_cat": "Home Automation,Automation",
+        "api_name": "Lelylan",
+        "id": 9081,
+        "progweb_descr": " Lelylan home device automation service Lelylan offer feature REST APIs user able integrate home system electronic device able control web Lelylan API allow developer access integrate functionality Lelylan device system application Public documentation available interested developer contact touchlelylancom API access"
+    }
+]

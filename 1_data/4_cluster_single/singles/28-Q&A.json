@@ -1,0 +1,170 @@
+[
+    {
+        "progweb_cat": "Q&A,Reference",
+        "api_name": "Yahoo Answers",
+        "id": 243,
+        "progweb_descr": " From site Tap collective knowledge million Yahoo user Yahoo Answers Web Services APIs Search expert advice topic within site Watch new question Answers category choice Keep track fresh content favorite Answers expert"
+    },
+    {
+        "progweb_cat": "Q&A,Reference",
+        "api_name": "Stack Exchange",
+        "id": 11083,
+        "progweb_descr": " Stack Exchange grow network 89 question answer sit diverse topic software program cook photography Stack Exchange build library highquality question answer focus important topic area expertise Stack Exchange API enable user retrieve answer comment badge event question revision suggest edits user information tag site Users also use API search site edit post API use REST call issue JSON JSONP"
+    },
+    {
+        "progweb_cat": "Q&A,Reference",
+        "api_name": "4GuysFromRolla.com",
+        "id": 11320,
+        "progweb_descr": " ASPFAQs publicly available reference service provide 4GuysFromRollacom assist developer work ASPNET FAQ page available website access programmatically use SOAP call Function exist retrieve FAQs retrieve FAQ category retrieve FAQs category"
+    },
+    {
+        "progweb_cat": "Q&A,Classification",
+        "api_name": "Quora",
+        "id": 1320,
+        "progweb_descr": " Quora individualfocused question answer site emphasis tag You follow user question topic Quora API alpha release make specifically help developer create browser extension"
+    },
+    {
+        "progweb_cat": "Q&A,Monitoring",
+        "api_name": "Bosun",
+        "id": 3705,
+        "progweb_descr": " Bosun API integrate monitor notification QA site Stack Exchange It available JSON architecture Api Key Bosun open source alert system API"
+    },
+    {
+        "progweb_cat": "Q&A,Healthcare",
+        "api_name": "IBM Watson Question and Answer",
+        "id": 5777,
+        "progweb_descr": " IBM Question Answer API provide response question base cognitive analysis body information call corpus Each corpus use set information document supply knowledge give domain By default API give user access two corpus cover healthcare travel"
+    },
+    {
+        "progweb_cat": "Q&A,Japanese",
+        "api_name": "DOCOMO Knowledge Q&A",
+        "id": 6355,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development With Knowledge QA API user ask question API return answer colloquial dialogue API suitable informal Japanese language input Trend Article Extraction API implement via REST accessible correspond Android Java SDKs DOCOMO also offer API console easily demo many APIs"
+    },
+    {
+        "progweb_cat": "Q&A,Platform-as-a-Service",
+        "api_name": "iSnare Answers",
+        "id": 7117,
+        "progweb_descr": " iSnare Answers question answer website cover general niche topic They also make platform available people want create QA websites Developers use iSnare Answers API access platform user registration login question submission search user profile data retrieval function"
+    },
+    {
+        "progweb_cat": "Q&A,Surveys",
+        "api_name": "Pollfish",
+        "id": 8401,
+        "progweb_descr": " Pollfish survey poll creation service Pollfish allow user create send track mobile survey poll customer user anyone want gather response Pollfish API SDK allow developer access integrate functionality Pollfish application Some example method include send survey integrate monetization retrieve survey result"
+    },
+    {
+        "progweb_cat": "Q&A,Surveys",
+        "api_name": "smart.coder",
+        "id": 10229,
+        "progweb_descr": " smartcoder API allow automatic cod freetext answer open end question survey It perform intelligent text analytics process freetext answer automatically generate accurate code table assigns appropriate code freetext answer It enable developer interact smartcoder programmatically via REST order add functionality exist software tool"
+    },
+    {
+        "progweb_cat": "Q&A,Surveys",
+        "api_name": "Examinare",
+        "id": 10468,
+        "progweb_descr": " Examinare online survey tool Examinare allow user create online survey gather feedback opinion customer audience Examinare API allow developer access integrate functionality Examinare applications Some example API method include manage recipient retrieve survey result manage send survey"
+    },
+    {
+        "progweb_cat": "Q&A,Surveys",
+        "api_name": "Clearvoice Surveys",
+        "id": 11253,
+        "progweb_descr": " service allow researcher commission survey user complete earn reward vary amount It email survey invitation register user link online questionnaire specify researcher Completion reward may pay user provider directly researcher API method support management user account create update delete function along demographic data profile information use match user survey Methods also allow list available survey generation user email questionnaire link API also provide specification payment completion reward"
+    },
+    {
+        "progweb_cat": "Q&A,Surveys",
+        "api_name": "Satisfeo",
+        "id": 11255,
+        "progweb_descr": " service provide online customer satisfaction survey collect response application user soon interact function It communicate recent customer SMS text message email voice call store tabulate response Survey owner access result via aggregated report immediate report allow swift intervention correct problem improve customer service API method support create customer satisfaction survey distribute SMS text message email voice phone call combination channel Methods allow specification option report response contact information receive report"
+    },
+    {
+        "progweb_cat": "Q&A,Surveys",
+        "api_name": "Qualtrics",
+        "id": 12545,
+        "progweb_descr": " service allow application integrate survey functionality specification question ask conditional display question depend answer prior question aggregation reporting responses It intend support academic research customer service preference poll internal communication employee feedback related function API method support creation survey question range response option designation survey recipients either individual panel questionnaire display logging response Methods also support retrieval response data analysis outside system"
+    },
+    {
+        "progweb_cat": "Q&A,Language",
+        "api_name": "WebKnox Question-Answering",
+        "id": 8589,
+        "progweb_descr": " Begun research project Royal Melbourne Institute Technology University Technology Dresden WebKnox ontologydriven fact extraction engine build provide direct fast complete answer question topic user think To answer question WebKnox use external service might previously provide answer compute answer use knowledge base If option fail WebKnox try find answer fly WebKnox host suite REST APIs deliver range web service WebKnox QuestionAnswering API allow application find answer natural language question API support one endpoint simple factual question another complex question"
+    },
+    {
+        "progweb_cat": "Q&A,Religion",
+        "api_name": "CatechizeMe",
+        "id": 8702,
+        "progweb_descr": " Catechisms learning tool Christians teach core religious tenet phrase form question answer CatechizeMe provide daily catechism along publicly available collection catechism CatechizeMe API allow developer integrate daily catechism anyall catechism available website site application"
+    },
+    {
+        "progweb_cat": "Q&A,Social",
+        "api_name": "Quag",
+        "id": 8731,
+        "progweb_descr": " Quag help connect people make similar search share interest This allow people look answer share information experience Quag API allow user tell potentially interested Quag member content get Quag thread relate give topic get application utility reputation score"
+    },
+    {
+        "progweb_cat": "Q&A,Social",
+        "api_name": "PollBob",
+        "id": 13741,
+        "progweb_descr": " PollBob service allow user create take short poll survey Users share poll share answer friends community PollBob PollBob API allow developer access data PollBob create application top data Public documentation available interested developer contact contactpollbobcom information access API"
+    },
+    {
+        "progweb_cat": "Q&A,Social",
+        "api_name": "Quetter",
+        "id": 14318,
+        "progweb_descr": " Quetter website user submit question answer answer question ask user within community Quetter provide API use integrate Quetter service another application Methods expose allow user get new question get answer question user get genre It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Q&A,Enterprise",
+        "api_name": "AnswerHub",
+        "id": 9786,
+        "progweb_descr": " AnswerHub enterpriselevel QA service help team collaborate eliminate need answer redundant question It design mobilefriendly highly customizable mesh seamlessly rest company website application AnswerHub come administrative tool control user access manage content perform analytics AnswerHubs function integrate software system use RESTful API"
+    },
+    {
+        "progweb_cat": "Q&A,Enterprise",
+        "api_name": "Mancx",
+        "id": 11456,
+        "progweb_descr": " Mancx online community business related question answer Users signup use LinkedIn Facebook Viadeo account build profile ask share question across network earn money answer question build network trust source Mancx offer P2P platform allow user trade answer document file code snippet platform cover aspect post request preview negotiation delivery payment guarantee sale tax invoicing income taxation With API developer build application use trade digital content Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Q&A,Search",
+        "api_name": "Evi",
+        "id": 9810,
+        "progweb_descr": " Evi internet answer engine provide internet mobile utilizing service app natural language base search engine developer portion service allow wish integrate apps Evi utilize query service pull information profile service generate traffic direct answer integrate information service API use REST call return XML An account required service"
+    },
+    {
+        "progweb_cat": "Q&A,Search",
+        "api_name": "Yahoo Kimo Knowledge Plus",
+        "id": 12259,
+        "progweb_descr": " Yahoo Kimo Knowledge API provide interface user access knowledge Q A knowledge content site This also include recorded information user knowledge quiz API provide functionality allow user get problem content relevant answer comment publish function keyword search get specific user information question answer post category name API use RESTful call response format XML JSON Documentation Chinese"
+    },
+    {
+        "progweb_cat": "Q&A,Customer Service",
+        "api_name": "Groove",
+        "id": 10752,
+        "progweb_descr": " Groove help desk service offer realtime customer support across multiple channel include email web mobile live chat Twitter software allow business organize customer ticket use multiple support channel available mobile platform allow business provide realtime chat support An API available integrate Groove existing application"
+    },
+    {
+        "progweb_cat": "Q&A,Customer Relationship Management",
+        "api_name": "Helpshift",
+        "id": 10910,
+        "progweb_descr": " Helpdesk embeddable support desk design specifically native apps Helpdesk offer developer feature searchable FAQ ability privately resolve user issue customizable UX match look app build CMS ability manage multiple apps API accessible via SDK let developer show Helpshift support screen get notification count review request"
+    },
+    {
+        "progweb_cat": "Q&A,Messaging",
+        "api_name": "OLI-it",
+        "id": 10935,
+        "progweb_descr": " OLIit allow user post message online make general specific request information good service Other loggedin user may reply post message All query publicly visible OLIit provide collection SOAPbased APIs enable user access websites function programmatically website offer primarily German though part include API documentation available English Spanish well Most query write German"
+    },
+    {
+        "progweb_cat": "Q&A,Mapping",
+        "api_name": "Loquest",
+        "id": 14113,
+        "progweb_descr": " Loquest search service allow user submit question keywords specify location get answer Users also answer question submit user Loquest API allow developer access data Gootip Some example API method include search question ask question answer question find question location"
+    },
+    {
+        "progweb_cat": "Q&A",
+        "api_name": "Qhub",
+        "id": 15056,
+        "progweb_descr": " Ask answer question QA site While QA websites good information share community Qhub want offer target community manage people interested particular subject area Use subdomain qhubcom hostname API support question list ask question answer question"
+    }
+]

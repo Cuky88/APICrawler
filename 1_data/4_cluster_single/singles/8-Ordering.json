@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "Ordering,Applications",
+        "api_name": "TM Forum Resource Ordering",
+        "id": 2324,
+        "progweb_descr": " TM Forum Resource Ordering API allow user manage different activity constitute resource order It support creation update recovery resource order Developers use API build standard portal deploying require order parameter process resource order RESTful API still beta release It send request URI QueryCRUD format return responses JSON format API currently beta release"
+    },
+    {
+        "progweb_cat": "Ordering,Enterprise",
+        "api_name": "TM Forum Service Ordering",
+        "id": 2630,
+        "progweb_descr": " TM Forum Service Ordering API mediate customertobusiness businesstobusiness service order transaction Its integration enable user manipulate different order parameter include create update recover service order addition managing associate notification RESTful API send request URI Query StringCRUD format return responses JSON format It currently beta release"
+    },
+    {
+        "progweb_cat": "Ordering",
+        "api_name": "TM Forum Service Qualification",
+        "id": 3558,
+        "progweb_descr": " TM Forum Service Qualification API allow developer provide service availability customer locations Its one PreOrdering Management APIs TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Ordering",
+        "api_name": "TM Forum Quote",
+        "id": 3563,
+        "progweb_descr": " TM Forum Quote API allow user place customer quote programmatically This one PreOrdering Management APIs TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Ordering,Products",
+        "api_name": "TM Forum Product Ordering",
+        "id": 3559,
+        "progweb_descr": " TM Forum Product Ordering API allow user place product order include necessary parameter TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Ordering,eCommerce",
+        "api_name": "Delivery.com Laundry and Dry Cleaning",
+        "id": 5286,
+        "progweb_descr": " Deliverycom offer laundry food alcohol grocery delivery 38 city United States abroad To idea user choose laundry cleaner wash fold tailoring dry cleaning option around convenient location Next select pick delivery time around convenient schedule API overview make request receive HTTP response code Private endpoint password protect Sign API key implement laundry delivery service mobile application"
+    },
+    {
+        "progweb_cat": "Ordering,Shipping",
+        "api_name": "Bringg",
+        "id": 5798,
+        "progweb_descr": " Bringg API allow developer access integrate functionality Bringg application create new application Some example API method include manage order share location manage driver manage dispatch Bringg Uberlike ondemand platform people use request various item service delivery people deliver ondemand"
+    },
+    {
+        "progweb_cat": "Ordering,Cloud",
+        "api_name": "eatabit.io",
+        "id": 5830,
+        "progweb_descr": " Eatabitio API facilitate online order inrestaurant printing restaurant delivery service API use JSON HTTPS request authenticate via HTTP Basic Auth Use API manage online order send order directly restaurant kitchen printing via Eatabits custom printer API also offer delivery pick time estimate"
+    }
+]

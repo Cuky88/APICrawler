@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Auctions,Auto",
+        "api_name": "GSA Auctions",
+        "id": 6441,
+        "progweb_descr": " GSA Auctions site auction Federal personal property asset equipment furniture vehicle heavy machinery helicopter airplanes vessel These online listing allow access potential buyer across country API use programmatically retrieve correspond data field list Developers create GET HTTP request RESTful API order receive response XML JSON format rate limit GSA Auction APi 5000 call per day 5 call per 5 second As GSA Auctions API government operate content software make open source default"
+    },
+    {
+        "progweb_cat": "Auctions,European",
+        "api_name": "Lauritz",
+        "id": 9145,
+        "progweb_descr": " Lauritz northern European auction site art antique home furnishing luxury item All site visitor free view item bid user register site bid item Lauritz API provide user access general information available item use readonly method"
+    },
+    {
+        "progweb_cat": "Auctions,Korean",
+        "api_name": "eBay Korea Auction Suggest",
+        "id": 10943,
+        "progweb_descr": " eBay Korea South Korean auction website It provide Auction Suggest API enable user retrieve suggest keywords use site product search Keywords retrieve book brand ticket category even general This service use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Auctions,eCommerce",
+        "api_name": "QXL Ricardo",
+        "id": 11005,
+        "progweb_descr": " QXL Danish online auction site It Danish brand Tradus company operate similar business eBay QXL Ricardo APIs give developer access ecommerce platform functionality This functionality include retrieve site configuration category list fee promotional fee state payment condition configuration value offer Users upload auction fix price article classifieds download manage article MySelling section API use SOAP call response format XML"
+    }
+]

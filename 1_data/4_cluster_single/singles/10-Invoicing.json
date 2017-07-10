@@ -1,0 +1,62 @@
+[
+    {
+        "progweb_cat": "Invoicing,Accounting",
+        "api_name": "Fakturoid",
+        "id": 636,
+        "progweb_descr": " Fakturoid online invoicing service design entrepreneur small business It simplify invoice process provide user option invoice appearance Fakturoid also provide statistic total relevant period time handle reverse charge procedure It compatible approach VAT website API documentation provide Czech"
+    },
+    {
+        "progweb_cat": "Invoicing,Accounting",
+        "api_name": "Elorus Developers",
+        "id": 2898,
+        "progweb_descr": " Elorus Developers API allow developer programmatically access Elorus invoice billing platform well update organization data This API use connect small business eshop website order automate invoice process synchronize data Elorus handle multiple user account multiple currency"
+    },
+    {
+        "progweb_cat": "Invoicing,Accounting",
+        "api_name": "Invoiced",
+        "id": 4765,
+        "progweb_descr": " Invoiced API offer bill invoice service integrate exist application It feature subscription bill billing portal customizable template account statement This RESTful API respond JSON format authorization model use HTTP Basic Auth Invoiced cloud base company develop account receivable tool organization size"
+    },
+    {
+        "progweb_cat": "Invoicing,Accounting",
+        "api_name": "BILLIVING Invoicing",
+        "id": 5372,
+        "progweb_descr": " BILLIVING Invoicing REST API allow developer access integrate functionality BILLIVING application Some example API method include manage account send invoice manage payment BILLIVING online paperless bill invoicing service"
+    },
+    {
+        "progweb_cat": "Invoicing,Open Source",
+        "api_name": "InvoiceNinja",
+        "id": 2639,
+        "progweb_descr": " InvoiceNinja API integrate invoice email web service provide clientID page serializer optional method JSON format available callback PHP SDK API facilitator"
+    },
+    {
+        "progweb_cat": "Invoicing,Billing",
+        "api_name": "Invoice Generator",
+        "id": 4733,
+        "progweb_descr": " Invoice Generator API offer PDF file conversion system integrate exist application Webhooks payment gateway use PDF generation This API return data JSON format Invoice data store online API rate limit Invoiced cloud base company develop account receivable tool organization size"
+    },
+    {
+        "progweb_cat": "Invoicing,Payments",
+        "api_name": "MarketInvoice",
+        "id": 5127,
+        "progweb_descr": " MarketInvoice REST API allow developer access integrate functionality MarketInvoice application Public documentation available API access come account service MarketInvoice online invoice provider"
+    },
+    {
+        "progweb_cat": "Invoicing,Accounts",
+        "api_name": "Paid",
+        "id": 5498,
+        "progweb_descr": " Paid API automate invoice system Paid RESTful use HTTP Basic Auth API Keys authentication All request must authenticate HTTPS HTTP allow Use Paid automatically collect payment send follow ups create track invoice access account analytics"
+    },
+    {
+        "progweb_cat": "Invoicing,Business",
+        "api_name": "FACTURAgem",
+        "id": 6047,
+        "progweb_descr": " FACTURAgem online invoice software provide ASP Gems FACTURAgem API let developer integrate service application enable customer access invoice go directly application With API client customer access make change invoice"
+    },
+    {
+        "progweb_cat": "Invoicing,Time Tracking",
+        "api_name": "InvoiceOcean",
+        "id": 7203,
+        "progweb_descr": " InvoiceOcean online invoicing service design simple intuitive interface It send invoice many language world currency user data securely store cloud access anywhere InvoiceOcean API allow user easily integrate service function store data application"
+    }
+]

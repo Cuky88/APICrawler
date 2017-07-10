@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Agents,Application Development",
+        "api_name": "Buildkite Agents",
+        "id": 3257,
+        "progweb_descr": " Buildkite Agents API integrate list paginate agent application useful test automate application development JSON architecture available make callback access API Key REST environment"
+    },
+    {
+        "progweb_cat": "Agents,Optimization",
+        "api_name": "Conductrics",
+        "id": 13653,
+        "progweb_descr": " Conductrics provide agentbased decision optimization solution It use machine learn optimize website application behavior meet define objective developer API lean application development optimization base intelligent agent methodology Tools include AB multivariate test adaptive control target learningoptimization decision attribution API use RESTful call response format XML JSON URL redirect Full documentation publicly available"
+    }
+]

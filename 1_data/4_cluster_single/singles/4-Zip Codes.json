@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Zip Codes,Countries",
+        "api_name": "Zipwise ZIP Code Web Services",
+        "id": 2084,
+        "progweb_descr": " Zipwise ZIP Code Web Services API allow developer submit standard web API request receive XML JSON responses back Look current ZIP code data city data perform radius search find distance two location Includes US Canada ZIP cod Service level range free unlimited"
+    },
+    {
+        "progweb_cat": "Zip Codes,Cities",
+        "api_name": "Zipcode",
+        "id": 3634,
+        "progweb_descr": " Zipcode API offer 50 request per hour cost Developers integrate zipcode distance location feature application interact JSON XML CSV format access Key Project part RedLine13 load test company"
+    },
+    {
+        "progweb_cat": "Zip Codes,Location",
+        "api_name": "Return ZIP Codes Inside Radius",
+        "id": 4143,
+        "progweb_descr": " Return ZIP Codes Inside Radius API allow developer integrate Pro Map Restful web service application enable user search specify location radius return USA ZIP cod find radius together distance centre location ZIP code Pro Map Tools offer map geospatial APIs"
+    },
+    {
+        "progweb_cat": "Zip Codes,Geography",
+        "api_name": "boundaries.io",
+        "id": 5714,
+        "progweb_descr": " US Zipcodes County City State Boundaries API A simple API allow integrate multiple GeoJson US boundary result apps system"
+    }
+]

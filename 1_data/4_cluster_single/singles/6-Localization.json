@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Localization,Geography",
+        "api_name": "Developer Garden IP Location",
+        "id": 603,
+        "progweb_descr": " IP Location API Developer Garden allow developer retrieve geographic information user come allow content website application adjust unique visitor concern Users automatically assign IP whenever sign one Deutsche Telekoms 73 access node IP Location API REST API HTTP"
+    },
+    {
+        "progweb_cat": "Localization,Tools",
+        "api_name": "Geobytes GeoPhrase and GeoFlag",
+        "id": 5600,
+        "progweb_descr": " Geobytes GeoPhrase GeoFlag API allow user dynamically insert custom greeting onto webpage Users choose many available template default greet “ Special welcome visitor ” This API offer free charge without signup registration requirement It add webpage simply copypasting bit JavaScript code"
+    },
+    {
+        "progweb_cat": "Localization,Applications",
+        "api_name": "Lingout",
+        "id": 6479,
+        "progweb_descr": " Lingout application localization service integrate seamlessly user development process Lingout collect manage file make easy update translation time however many language user want Users team translate content use builtin editor simply order professional translation Lingout API provide method access user project resource translation language"
+    },
+    {
+        "progweb_cat": "Localization,Applications",
+        "api_name": "AddLingo",
+        "id": 6977,
+        "progweb_descr": " Localize Direct software service company offer localization game developer organization launch AddLingo cloud base SaaS could help developer create application game efficiently AddLingo API localization apps game API support JSON format require key authentication As developer explore site find element page along 19 child page classification names required parameter description"
+    },
+    {
+        "progweb_cat": "Localization,Advertising",
+        "api_name": "Soleo Local Search",
+        "id": 9559,
+        "progweb_descr": " Soleo Local Search API provide access 15M local business high monetization search traffic company ’ proprietary platform utilizes locationcentric search algorithm best match user ’ request relevant business nearby – search take business category business location past ad performance account find right match user It also provide access large inventory sponsor advertisement By blend target ad local business listing application developer monetize apps advertising still provide user true set search result"
+    },
+    {
+        "progweb_cat": "Localization,Collaboration",
+        "api_name": "Crowdin",
+        "id": 15252,
+        "progweb_descr": " Crowdin bring seamless continuous localization apps websites game help desk Crowdin API provide secure programmatic access Crowdin service allow developer build tool service top plus Crowdin integrate development process reach continuous localization Crowdin provide RESTful API XML JSON HTTP use GET POST method"
+    }
+]

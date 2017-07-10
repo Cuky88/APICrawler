@@ -1,0 +1,950 @@
+[
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Basecamp",
+        "id": 199,
+        "progweb_descr": " From 37signals Basecamp unique project collaboration tool Projects dont fail lack chart graph report fail lack communication collaboration Basecamp make simple communicate collaborate project Basecamp API implement vanilla XML HTTP"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Worksnaps",
+        "id": 996,
+        "progweb_descr": " service provide task management timetracking function improve process management activity report It allow remote monitoring task completion via share screen image log action measurable time schedule objective system generate report monitor activity either undertaken within service perform application integrated log action service API method support list update predefined project definition task assignment specific user management user account include activity breakdown time In addition automate track method support manual time entry well generation report track data"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Assembla",
+        "id": 1141,
+        "progweb_descr": " From site Assembla offer Railsstyle REST API allow management ticket file time report space user account Assembla accelerate software development provide software knowledge tool talent agile team"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Harvest",
+        "id": 1143,
+        "progweb_descr": " From site Harvest provide two API interface serve two distinct role If need access manipulate daily timesheet Timetracking API fit bill Notable us widget provide PC Mac well third party timesheet software integration If need access edit project client user task Extended REST API choice You use mass import exist project setup add user generally integrate exist backoffice setup"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "ConceptShare",
+        "id": 1149,
+        "progweb_descr": " From site Use API leverage ConceptShare platform improve project You customize ConceptShare experience organization team client example create automate way get customer submit project via website API support automate workspace generation web form ConceptShare make online design collaboration easy interface allow quickly easily switch multiple concept review markup comment manage participant chat"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "RescueTime",
+        "id": 1155,
+        "progweb_descr": " From site RescueTime build idea shouldnt come RescueTimecom view data necessarily use data collector add data system RescueTime webbased timemanagement tool allows easily understand spend time One coolest thing RescueTime data entry You install doohicky computer magically track time usage NOTE No API docs publicly available"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "ProofHub",
+        "id": 7684,
+        "progweb_descr": " ProofHub allinone webbased project management software It allow team member plan organize project use calendar note chart list timesheets chat discussion Users import file Google Dropbox share teammates client Casper mode help user control information share client keep private ProofHub API allow user access information people project via REST call"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Dozuki",
+        "id": 11133,
+        "progweb_descr": " Dozuki make documentation software support organization size create documentation training product support project documentation Dozuki API provide programmatic access enable anyone write application utility top Dozuki database"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Swift-Kanban",
+        "id": 11463,
+        "progweb_descr": " Kanban way developer team organization visualize work identify eliminate problem achieve operational improvement term throughput quality SwiftKanban API allow developer access SwiftKanban web service These service cater IT Ops DevOps team project management team etc It aim improve process team project type Functionality include SOAP protocol XML response format"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "TeamworkPM",
+        "id": 14673,
+        "progweb_descr": " TeamworkPM Teamwork Project Manager online teamwork project management software application help manager staff client work together productively online TeamworkPM provide tool project task management time track file management communication user TeamworkPM API allow developer create application interact TeamworkPM data"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Clarizen",
+        "id": 15011,
+        "progweb_descr": " Clarizen provider collaborative online project management software allow business manage project resource single environment With SOAP API user create custom application additional benefit business data resides Clarizen repository create integration desktop author tool bring task management close employee desktop create integration internal data management system exchange relevant data"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "WBP Systems Torch",
+        "id": 15022,
+        "progweb_descr": " WBP Systems Torch project management service allow user bid collaborate track resource invoice Using API allow client interact Torch programmatically Torchs API XML base conversion program Every request send XML every response XML"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "PivotalTracker",
+        "id": 15028,
+        "progweb_descr": " Pivotal Tracker free agile project management tool enables real time collaboration around share prioritized backlog Tracker provide API use create retrieve update delete project story task resource API use RESTful interface response format XML"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Freckle",
+        "id": 15486,
+        "progweb_descr": " Freckle RESTful API allow user enter billable hour see project task take unpaid time fetch list project log time entry complete bulk entry import Responses XML JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Zen",
+        "id": 15544,
+        "progweb_descr": " Zen application draw idea lean manufacture provide visual way think project management With Zen API developer create custom solution use project data thir Zen application"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Innotas",
+        "id": 15641,
+        "progweb_descr": " From site With project resource core data element Project Portfolio Management PPM often necessary integrate PPM application fully automate manage business process As customer Innotas take advantage Innotas API create integration Web Services include following entity Program Project Resource User Account Contact Task Timesheet Request Issue"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Syncd",
+        "id": 15644,
+        "progweb_descr": " From site Syncd flexible online time track service REST API provide access practically Syncd functionality include ability manage client project task well make time entry generate time report This could useful instance want integrate Syncd account company project management accounting system"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Lighthouse",
+        "id": 15687,
+        "progweb_descr": " Lighthouse service collaborative project small team studio 50 Lighthouse help keep track project development ease Lighthouse API give developer tool integrate service sit application Use Lighthouse API integrate issue track ticket Google Calendar application Access ticket milestones project message"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Huddle",
+        "id": 15692,
+        "progweb_descr": " Huddle project management API enable developer access team workspace file share project track project collaboration also ability hook team add collaboration Programmatically thing normally Huddle site"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "88 Miles",
+        "id": 15693,
+        "progweb_descr": " 88 Miles let rrack time punch punch autogenerate timesheet data optionally generate invoice tag categorize staff track project receive overbudget notification Mobile functionality available Programmatically access account data"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "TickSpot",
+        "id": 15744,
+        "progweb_descr": " TickSpot API let retrieve list client view project view project associate user view current task specify project view client project task assign certain user view project task date range obtain recent task create quick link user select task use recently view user add time entry specify taskid On Tick main site quickly track time see progress budget"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Comindwork",
+        "id": 15810,
+        "progweb_descr": " Use Comindwork API create application use Comindwork data Comindwork offer online project management collaboration knowledge management software Comindwork API release help make Comindwork open platform Basic version available Workgroup plan price tier customer include data access modification It use LoadDataTable function list project"
+    },
+    {
+        "progweb_cat": "Project Management,Enterprise",
+        "api_name": "Co-op",
+        "id": 15817,
+        "progweb_descr": " Use Coop API access Coop data You view status review history day user show group user view group agenda view recent status user group invite member group update group Coop affiliate Harvest use ask question share knowledge track time update agenda"
+    },
+    {
+        "progweb_cat": "Project Management,Tasks",
+        "api_name": "Trello",
+        "id": 466,
+        "progweb_descr": " Trello online project management collaboration platform Users manage project Trello board display various aspect project do work Trello API allow developer access integrate data functionality Trello application create new application Some example API method include retrieve project information manage user information view list task"
+    },
+    {
+        "progweb_cat": "Project Management,Tasks",
+        "api_name": "Cohuman",
+        "id": 836,
+        "progweb_descr": " Cohuman taskcentric team productivity tool help user coordinate plan daily task effectively complete project time Cohuman API allow anyone develop application web mobile device desktop With API user make new task assign task person team people add content task start conversation thread attach file schedule due date API use RESTful protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Tasks",
+        "api_name": "Taskk",
+        "id": 8210,
+        "progweb_descr": " Taskk work management service help user prioritize task multiple area life Based user prioritization time estimate available work hour Taskk automatically build efficient work schedule Taskk API allow user integrate ability create retrieve edit delete otherwise manage task list planner application"
+    },
+    {
+        "progweb_cat": "Project Management,Tasks",
+        "api_name": "Planscope",
+        "id": 9175,
+        "progweb_descr": " Planscope project management software design help track objectives progress message task associate project Planscope also come budget estimation feature allow user add subtract item project see budget updated real time Clients view itemize budget project choose feature add remove get budget like This help prevent miscommunications misunderstanding service cost Additionally Planscope help keep client informed project progress email detailed daily update Planscope API allow user retrieve list project task project activity associate task This API use REST call issue JSON format"
+    },
+    {
+        "progweb_cat": "Project Management,Tasks",
+        "api_name": "Asana",
+        "id": 12294,
+        "progweb_descr": " Asana online platform teams manage share task Asana offer web mobile application team organize assign track task management item Asana API allow developer access integrate functionality Asana application create new application Some example API method include manage user create manage task access project workspace"
+    },
+    {
+        "progweb_cat": "Project Management,Tasks",
+        "api_name": "Comindware",
+        "id": 12371,
+        "progweb_descr": " Comindware provider web base work management software Users get two piece software Comindware Tracker Comindware Task Management help streamline project management software track task issue support collaboration show list viewer collaborator member owner JSON API allow integration third party application Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Project Management,Tasks",
+        "api_name": "Iron.io IronWorker",
+        "id": 13368,
+        "progweb_descr": " Ironios IronWorker task management system IronWorker let user manage task project queue assign task various people create automatic task need complete IronWorker API allow developer access integrate functionality IronWorker applications Some example API method include manage task create user access schedule retrieve task code"
+    },
+    {
+        "progweb_cat": "Project Management,Tasks",
+        "api_name": "Planbox",
+        "id": 14148,
+        "progweb_descr": " Planbox project management collaboration service Built SCRUM Planbox offer dashboard allow project product management track collaboration team member Planbox API allow developer access Planboxs functionality data Some example API method include search retrieve product information access task retrieve resource"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Intellinote",
+        "id": 657,
+        "progweb_descr": " Intellinote API allow developer create modify retrieve workspace note task tag file form user Intellinote platform Intellinote collaboration project management service business It use capture document work item well manage task assignment due date A sandbox environment provide develop test application use Intellinotes feature"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Open Project",
+        "id": 3765,
+        "progweb_descr": " Open Project API available manage project open source collaborative environment It available JSON format hyperlink resource Developers authenticate Api Key basic auth"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Kanbanize",
+        "id": 3847,
+        "progweb_descr": " Kanbanize visual management system business orient application use team collaboration project management This system feature process map email integration time track analytics Kanbanize RESTful API use implement platform feature This API exchange data JSON format require API Keys authentication"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Teamwork Projects",
+        "id": 4672,
+        "progweb_descr": " Teamwork Projects API allow developer integrate application Teamwork Projects service make XML JSON request HTTP API Rest base authenticate API key Teamwork collaborative project management service application builder"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Dooing",
+        "id": 6077,
+        "progweb_descr": " Dooing mobile management platform allow user manage people project across location Dooing API allow developer access integrate functionality Dooing application Some example API method include retrieve manage task manage user post task job"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Atlassian JIRA",
+        "id": 6174,
+        "progweb_descr": " Atlassian JIRA REST API interfacing JIRAs project issue track application JIRA support basic HTTP authentication well OAuth session authentication Use API access function like workflow creation management issue track project plan extensive documentation include detailed instruction tutorial implement JIRA API"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Atlassian Confluence",
+        "id": 6189,
+        "progweb_descr": " Atlassian JIRA REST API handle basic HTTP request response JSON Use Atlassian Confluence API access Confluences collaboration project management function like file share calendar unique workspace project discussion board Confluence also easily interface Atlassians project issue track application JIRA See Atlassians extensive documentation code examples information implement Confluence API reference material"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "TeamLeader",
+        "id": 7996,
+        "progweb_descr": " TeamLeader API allow user interact different aspect TeamLeader system include CRM opportunity invoice subscription product ticket time track task project note An account API key require service Users restrict 25 call per 5 second"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Aha!",
+        "id": 8175,
+        "progweb_descr": " Aha cloudbased collaboration service productbuilding team It allow team map product strategy keep everyone apprise upcoming release date work sprint Teams also gather refine feature user story together one place Aha allow team present product roadmaps Notebooks PDFs web page In fact nearly view Aha publish three format Users make project accessible application use Aha REST JavaScript APIs"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Appsecute",
+        "id": 9832,
+        "progweb_descr": " Appsecute collaborative application management platform developers IT professionals manager Appsecute allow user access application use daily Github project management application Appsecute API allow developer access integrate functionality Appsecute applications Some example API method include retrieve component manage event manage account"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "A-Dato Lynx",
+        "id": 10175,
+        "progweb_descr": " service provide hosted schedule collaboration tool manage project many type Functions include share document data related project ongoing production activity along synchronize twoway communication Planning project management tool include Gantt chart scheduling tool note dependency identify critical path sequence related activity API method support integration project management collaborationcommunication tool push event data service accept return full twoway synchronisation Methods also allow integration directly database level adapt functional component within application suite"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Celoxis",
+        "id": 10314,
+        "progweb_descr": " service provide schedule collaboration resource management function host SaaS platform instal software It integrate popular collaboration tool like Microsoft Outlook Salesforcecom well backoffce enterprise resource planning ERP bug track service define task assign personnel complete set deadline track completion relate function It comply widely use iCal standard integrate activity individual share calendar include Google Calendar API method support create update user account create task assign task user set deadline track task performance time Methods support email integration allow task status update via email send copied service address"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "TeamPlatform",
+        "id": 10807,
+        "progweb_descr": " TeamPlatform cloudbased collaboration management portal 3D CAD project It combine tool project management along data management capability single platform platform support 60 3D format visualize revise securely manage API allow developer integrate platform functionality third party system Areas functionality include profile workspace comment task property API use REStful call response format JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Kanban Tool",
+        "id": 11453,
+        "progweb_descr": " Kanban Tool project management system Kanban Tool offer project management tool realtime collaboration function Kanban Tool visualization feature report tool online document creation storage time track function Kanban Tool API allow developer access integrate functionality Kanban applications Some example API method include manage user access board retrieve todo list manage content"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Morale",
+        "id": 11992,
+        "progweb_descr": " Morale simple team project management platform It allow team developer share task bug single textbox Once ticket create remain active archive Ticket creator invite multiple worker team multiple project Morale API expose project ticket information accession functionality It RESTful API return JSONencoded data"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Wrike",
+        "id": 12472,
+        "progweb_descr": " Wrikecom offer social project management software allow business manage 50 project one workspace goal increase team collaboration productivity overall efficiency Wrike API platform allow client build custom application top exist Wrike software feature It offer seven callable API method endpoint Profile Contacts Folders Tasks Comments Attachments Time Logs"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "LiquidPlanner",
+        "id": 15264,
+        "progweb_descr": " LiquidPlanner API enable programmatic interaction LiquidPlanner workspace Most action perform within application automate use API example create task comment task track time mark do Liquid Planner project management software schedule time track collaboration Responses format JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Collaboration",
+        "api_name": "Goplan",
+        "id": 15876,
+        "progweb_descr": " From site Goplan online project management solution It allow teams individual collaborate task file management realtime chat online calendar many feature In order speed client application development Goplan API implement use SOAP4R All need soap library language choice"
+    },
+    {
+        "progweb_cat": "Project Management,Mobile",
+        "api_name": "TestFlight",
+        "id": 976,
+        "progweb_descr": " TestFlight mobile app test service It provide space test tool analyze trial use Developers first upload SDKs Then TestFlight distribute developersâ€™ tester analyzes usage performance report Their Upload API allow developer streamline development process incorporate SDK upload workflow It RESTful API provide response XML JSON PLIST"
+    },
+    {
+        "progweb_cat": "Project Management,Mobile",
+        "api_name": "Synchroteam",
+        "id": 10778,
+        "progweb_descr": " Synchroteam mobile workforce control service aim optimize cost dispatch schedule workforce It allow workflow customization base business need track worker location schedule dispatch team generates report Synchroteam API allow data retrieve pushed user Synchroteam account integrate CRMs invoice system business software prevent data duplication service use REST call return JSON XML"
+    },
+    {
+        "progweb_cat": "Project Management,Mobile",
+        "api_name": "Econz Timecard",
+        "id": 13766,
+        "progweb_descr": " Timecard mobile timesheet software solution enable employee log time attendance job information remotely via mobile device Econz Timecard API SOAP base service allow user integrate current system Timecard software service API provide method retrieve update delete data store Timecard server"
+    },
+    {
+        "progweb_cat": "Project Management,Automation",
+        "api_name": "ProProfs Project",
+        "id": 1843,
+        "progweb_descr": " ProProfs Project API allow developer access download data well develop application ProProfs Project online project management software project relate need From easy interface powerful feature use freelancer enterprise companiesThe tool pack project calendar time track report option much With smart integration option collaboration possibility ProProfs Project smart solution organize project delegate task track create report"
+    },
+    {
+        "progweb_cat": "Project Management,Automation",
+        "api_name": "Project Bubble",
+        "id": 6855,
+        "progweb_descr": " With Project Bubble manager could organize project less time manage team efficiently automate team function state site This project management API useful developer aim facilitate work Project Bubble RESTful API responses XML CSV JSON HTML To authenticate developer access API key account page Sample code PHP application available reference Before application development site recommend review API rule"
+    },
+    {
+        "progweb_cat": "Project Management",
+        "api_name": "Fieldwire",
+        "id": 1948,
+        "progweb_descr": " Fieldwire REST API allow developer access integrate functionality Fieldwire application Public documentation available API access come account service Fieldwire construction management application"
+    },
+    {
+        "progweb_cat": "Project Management",
+        "api_name": "TeamCity",
+        "id": 4662,
+        "progweb_descr": " TeamCity API allow developer make HTTP request TeamCity server get response API Rest base opensource plugin This API authenticate via basic HTTP authentication TeamCity Javabased continuous integration build management server JetBrains"
+    },
+    {
+        "progweb_cat": "Project Management",
+        "api_name": "LayerVault",
+        "id": 8310,
+        "progweb_descr": " LayerVault version control service designer Users store unlimited number version design project access whenever wish Design file sync across device LayerVaults sync service via Dropbox Designers also request exchange feedback design change team member When project complete designer put together clutterfree presentation brand share easily LayerVault API allow developer integrate information store LayerVault application via REST call"
+    },
+    {
+        "progweb_cat": "Project Management",
+        "api_name": "VisionProject",
+        "id": 9883,
+        "progweb_descr": " VisionProject webbased project management service compose several module Time Reporting Module keep track personnel spend time effort HelpDesk Module manage support ticket submit emails phone call webbased Support Portal Additionally Document Management System provide organize document make sure authorized personnel access sensitive information VisionProject come SOAP API use access function integrate application"
+    },
+    {
+        "progweb_cat": "Project Management",
+        "api_name": "UCAR People",
+        "id": 12032,
+        "progweb_descr": " University Corporation Atmospheric Research UCAR organization focus study Earths atmosphere UCAR promote collaboration numerous people organization share mission In order keep track associate well UCAR staff member UCAR People DB create UCAR People API provide programmatic access UCAR People DB allow user retrieve information person group organization work UCAR"
+    },
+    {
+        "progweb_cat": "Project Management",
+        "api_name": "Traffic Live",
+        "id": 13070,
+        "progweb_descr": " Traffic Live online platform manage creative studio project Traffic Live feature staff management resource management time track creative project Traffic Live API allow developer access integrate functionality Traffic Live application create new application Some example API method include retrieve employee information access department information manage job"
+    },
+    {
+        "progweb_cat": "Project Management",
+        "api_name": "AceProject",
+        "id": 13952,
+        "progweb_descr": " AceProject free entry level project management software It come feature pay account less usage capacity AceProject API private beta facilitates creation plugins addons among thing"
+    },
+    {
+        "progweb_cat": "Project Management",
+        "api_name": "AgileZen",
+        "id": 14467,
+        "progweb_descr": " AgileZen API provide developer access functionality AgileZen application AgileZen webbased project management application build idea lean manufacture API provide functionality get project project detail phase member role API use RESTful protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "Project Management",
+        "api_name": "flow.io",
+        "id": 14845,
+        "progweb_descr": " flowio service provide lean project management software service format flowio API provide similarly lean true REST API create edit delete member project task"
+    },
+    {
+        "progweb_cat": "Project Management",
+        "api_name": "5pm",
+        "id": 14921,
+        "progweb_descr": " 5pm project management time management tool 5pm SOAP API provide developer tool access 5pm information application API provide method Authentication access Group Project Task Activity User data 5pm project management API currently beta"
+    },
+    {
+        "progweb_cat": "Project Management,Chat",
+        "api_name": "Planio",
+        "id": 3703,
+        "progweb_descr": " Planio API allow user access project management resource programmatically Planio project management service base Redmine It provide task management time track workflow file management knowledge management wikis issue track version control communication repository host pro version also include team chat helpdesk feature"
+    },
+    {
+        "progweb_cat": "Project Management,Invoicing",
+        "api_name": "Avaza",
+        "id": 3860,
+        "progweb_descr": " Avaza API Allows programmable access contact project task invoice tax It available JSON REST protocol OAuth2 authentication Avaza provide project management invoicing service organize clientfocused business"
+    },
+    {
+        "progweb_cat": "Project Management,Invoicing",
+        "api_name": "TimeCamp",
+        "id": 7446,
+        "progweb_descr": " TimeCamp track time Team spend project company aim improve billing time measure productivity save strength money process analysis determine way time run prevent project stoppage It also facilitate plan time budget future project TimeCamp API allow user perform basic task make query deal user task time entry computer activity client invoice API use REST call return XML JSON CSV rawxml jsonp serialize php html An account require service SSL API Tokens use authentication"
+    },
+    {
+        "progweb_cat": "Project Management,Invoicing",
+        "api_name": "Byggeweb",
+        "id": 8974,
+        "progweb_descr": " Byggeweb know English Docia Danish company provide construction industry project facility management service Their solution cover stage build process include development design construction operation maintenance Some method retrieve information invoice upload file accessible online via SOAP API"
+    },
+    {
+        "progweb_cat": "Project Management,Invoicing",
+        "api_name": "Pancake",
+        "id": 10157,
+        "progweb_descr": " Pancake invoice app include online invoicing project management time track proposal file delivery client access area feature Pancake API allow user access functionality pancake app service HTML API use REST call require API key use"
+    },
+    {
+        "progweb_cat": "Project Management,Invoicing",
+        "api_name": "MinuteDock",
+        "id": 11074,
+        "progweb_descr": " MInuteDock time track service integrate exist account project management platform It create report import data create invoice access websites twitter mobile device browser MinuteDock API expose functionality MinuteDock service remote query Users request list account active account list user check entry manipulate time track Service user REST call return JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Invoicing",
+        "api_name": "Bunker App",
+        "id": 13495,
+        "progweb_descr": " Bunker App project management platform design specifically freelancer Freelancers manage various project create send invoice client organize information related project Bunker App API allow developer access functionality Bunker integration service applications Some example API method include search retrieve project project information access client information create invoice"
+    },
+    {
+        "progweb_cat": "Project Management,Optimization",
+        "api_name": "RunRun.it",
+        "id": 4479,
+        "progweb_descr": " RunRunit project management task management service RunRunit API offer access project management data aim optimize workload task Formats available JSON Api Key token require authenticate Some method include checklist client enterprise estimate holiday project templates See plan price httpssecurerunrunitenUSsoftwarepeoplemanagementpricing"
+    },
+    {
+        "progweb_cat": "Project Management,Optimization",
+        "api_name": "USERcycle",
+        "id": 9220,
+        "progweb_descr": " USERcycle service design help optimize product actionable learn It start benchmarking product performance identify constraint metric improve From developer make change measure whether change make product well bad Developers fee data USERcycle product app use either REST JavaScript API"
+    },
+    {
+        "progweb_cat": "Project Management,Software-as-a-Service",
+        "api_name": "ZebraPlan",
+        "id": 5037,
+        "progweb_descr": " ZebraPlan offer agile project management tool software development company ZebraPlan REST API allow developer access integrate functionality ZebraPlan application use HTTP method either XML JSON format Some example API method include retrieve work item detail retrieve manage project detail manage user account"
+    },
+    {
+        "progweb_cat": "Project Management,Lists",
+        "api_name": "Prioritize",
+        "id": 5186,
+        "progweb_descr": " Prioritizeio API aim improve productivity business prioritize task service identifies PrioritizationasaService useful improve practice work make decision API JSON format available API Key Mashape"
+    },
+    {
+        "progweb_cat": "Project Management,Lists",
+        "api_name": "Skybuffer Cloud Checklist",
+        "id": 9581,
+        "progweb_descr": " Cloud Checklist Skybuffer web application allow user manage list task synchronously via standard browserbased web client use application program interface APIs provide development Cloud Checklist API allow developer access integrate functionality Cloud Checklist application Some example API method include manage user manage viewer list information message"
+    },
+    {
+        "progweb_cat": "Project Management,Lists",
+        "api_name": "Gtdagenda",
+        "id": 12060,
+        "progweb_descr": " Gtdagenda mobile app help personal task management Users track task goal project schedule It sync Evernote Google Calendar API give user access functionality app Included ability view create edit delete list service API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Project Management,Tools",
+        "api_name": "Axosoft",
+        "id": 5228,
+        "progweb_descr": " Axosoft API allow developer integrate application Axosoft data service enable customer project manager produce software Axosoft company provide business tool manage track issue software development"
+    },
+    {
+        "progweb_cat": "Project Management,Tools",
+        "api_name": "SkillSense",
+        "id": 9570,
+        "progweb_descr": " SkillSense workforce management service provide software solution help business track job performance project cost employee utilization variety business need SkillSense API allow user use third party user interface SkillSense data embed workforce content exist framework help user avoid write business logic superfluously API use REST call return XML An account required service"
+    },
+    {
+        "progweb_cat": "Project Management,Tools",
+        "api_name": "LeanKit Kanban",
+        "id": 10927,
+        "progweb_descr": " LeanKit Kanban online tool allow user visualize organizationâ€™s process virtual whiteboards Users collaborate realtime optimize workflow create project Analytical report base history card use whiteboard also available LeanKit Kanban API give user ability retrieve data board card recent history well method move card add updating card delete card API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Tools",
+        "api_name": "RedHat OpenShift",
+        "id": 11247,
+        "progweb_descr": " Red Hat OpenShift API give developer platform cloud build test deploy run application API receive RESTful call send callback JSON XML Calls require basic HTTP Authentication form user name password generate upon sign Applications build use Ruby Python PHP"
+    },
+    {
+        "progweb_cat": "Project Management,Tools",
+        "api_name": "Kanbanery",
+        "id": 11252,
+        "progweb_descr": " Kanbanery platform design help developer manage resource project task task comment subtasks issue However main focus Kanbanery task project management Kanbanerys API implement RESTful API JSON response format To access API developer must API key well account Kanbanery"
+    },
+    {
+        "progweb_cat": "Project Management,Tools",
+        "api_name": "Akvo",
+        "id": 11682,
+        "progweb_descr": " Akvo create open source software build partner network change way development aid allocate report allow funders see money go Akvo Real Simple Reporting allow partner funders embed projectâ€™s detail sit Akvo RSR API readonly interface provide Akvo data partner interested partner"
+    },
+    {
+        "progweb_cat": "Project Management,Tools",
+        "api_name": "Bugly",
+        "id": 12311,
+        "progweb_descr": " Bugly issue track service emphasize user experience integration component Bugly provide SCM integration issue dependency project permission much Their RESTful API still Beta It inspire Stripe API respond JSON Its pricing base usersâ€™ team need unlimited 30day free trial"
+    },
+    {
+        "progweb_cat": "Project Management,Tools",
+        "api_name": "Project Insight",
+        "id": 12334,
+        "progweb_descr": " Project Insight provider midmarket project management software Features include portfolio project resource management collaboration API allow developer integrate Project Insight application Data expose API include company custom field invoice project reference time bill user API use SOAP protocol response format XML Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Project Management,Tools",
+        "api_name": "gTrax",
+        "id": 13357,
+        "progweb_descr": " gTrax time track system assist project resource management It integrate Google Apps allow user import calendar information assist create time track entry pull resource list Google contact export project user report Google spreadsheet API allow developer integrate functionality application web sit It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Business",
+        "api_name": "Zoho Remote",
+        "id": 6383,
+        "progweb_descr": " Zoho online company offer enterprise business application help manage projectsworkflow Zoho Remote API let developer integrate application Zoho application enable user remotely access application collaborate project directly"
+    },
+    {
+        "progweb_cat": "Project Management,Business",
+        "api_name": "FieldAware",
+        "id": 7362,
+        "progweb_descr": " FieldAware field project management service combine mobile apps invoicing business management schedule quote report single platform service FieldAware API design simplify process integrate FieldAware system exist accounting ERP CRM business systemsThe API use REST call pas data accounting ERP CRM system invoice process improvement payroll human resource management management report critical business function An account required service"
+    },
+    {
+        "progweb_cat": "Project Management,Business",
+        "api_name": "NetProspex",
+        "id": 12341,
+        "progweb_descr": " NetProspex provide user crowdsourced database verify business contact information clean proprietary CleneStep algorithms Their Data Cloud API integrate business contact information B2B sale workflows This allow user access whole demographic firmographic record critical point automate workflow API RESTful return JSON XML response"
+    },
+    {
+        "progweb_cat": "Project Management,Business",
+        "api_name": "Yast",
+        "id": 13496,
+        "progweb_descr": " Yast online time project track service Features Yast include track time project either individually share others make note time create timesheets report function Yast API allow developer access record store Yast Some example API method include integration application access report time retrieve project information API use RESTful call response XML"
+    },
+    {
+        "progweb_cat": "Project Management,Database",
+        "api_name": "DBMaestro",
+        "id": 6440,
+        "progweb_descr": " Using MaestroDB developer connect release management service automate release product DBMaestro Teamwork integrate IBM Microsoft CA others offer database build deploy automation Utilizing DBmaestro Open API Platform change management solution offer real time version control project development tool release automation solution Though API release public documentation available time"
+    },
+    {
+        "progweb_cat": "Project Management,Database",
+        "api_name": "DoneDone",
+        "id": 9025,
+        "progweb_descr": " DoneDone issue track service aim simplify streamline organize project service allow user prioritize issue assign due date share file communicate client perform task DoneDone API use REST call SSL authentication Using API user access list project get priority level get people project get issue many call An account required service"
+    },
+    {
+        "progweb_cat": "Project Management,Database",
+        "api_name": "Unfuddle",
+        "id": 15588,
+        "progweb_descr": " From site Provides developer simple medium create new Unfuddlebased application integrate Unfuddle exist development workflow It offer direct access practically feature Unfuddle account Unfuddle secure host software development environment project management solution small software development team"
+    },
+    {
+        "progweb_cat": "Project Management,Agile",
+        "api_name": "Taiga REST",
+        "id": 6499,
+        "progweb_descr": " Taiga Agile project management platform let users manage project cloud Some service include customize project task log interface Taiga API let developer integrate functionality application enable user utilize service Taiga Agile offer"
+    },
+    {
+        "progweb_cat": "Project Management,Agile",
+        "api_name": "Digite",
+        "id": 10735,
+        "progweb_descr": " Digite provider enterprise software encourage collaboration Agile Application Lifecycle Management Their software include range product include application project management requirement management process governance portfolio management Kanban Their API allow developer integrate application functionality exsiting system"
+    },
+    {
+        "progweb_cat": "Project Management,Agile",
+        "api_name": "ScrumWorks Pro",
+        "id": 14321,
+        "progweb_descr": " ScrumWorks Pro Agile project management software ScrumWorks Pro API SOAP interface allow developer access data ScrumWorks API use build custom report integration programmatic access ScrumWorks Pro data It use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Project Management,Agile",
+        "api_name": "ScrumDesk",
+        "id": 14343,
+        "progweb_descr": " ScrumDesk professional scrum project management tool help agile team selforganize product owner plan product API let users access data edit create customize report integration synchronization 3rd party tool API host installed userss environment well It use RESTful call support XML JSON ATOM response format"
+    },
+    {
+        "progweb_cat": "Project Management,Time",
+        "api_name": "RelateIQ",
+        "id": 7843,
+        "progweb_descr": " RelateIQ relationship management service focus data driven present optimal solution service utilizes email history business activity contact frequency facilitate schedule message relationship management activity free time business focus activity RelateIQ API use REST call return JSON It allow user get list search relationship add relationship set field value create comment event An account required service"
+    },
+    {
+        "progweb_cat": "Project Management,Financial",
+        "api_name": "MyIntervals",
+        "id": 7993,
+        "progweb_descr": " MyIntervals project management service offer time track project management billing project service MyIntervals API allow user sync Intervals task another application create task add time quickly create graph report base time entry within company create client overview show current activity work execute function An account required service API use REST call return XML"
+    },
+    {
+        "progweb_cat": "Project Management,File Sharing",
+        "api_name": "Blimp",
+        "id": 8215,
+        "progweb_descr": " Blimp intelligent project management system design track data base project team process Users split project goal goal task assign team member Communication specific project facilitate discussion feature access via website email Blimp keep track event project history include file revision Users share specific version file recent one Developers access data store Blimp programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Project Management,Charity",
+        "api_name": "Believe.in",
+        "id": 8269,
+        "progweb_descr": " Believein online platform charity raise fund manage online donation manage event fundraiser create manage online campaign Believein API allow developer access integrate functionality Believein applications Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Project Management,Media",
+        "api_name": "FotoNotes",
+        "id": 8509,
+        "progweb_descr": " FotoNotes mobile work management solution It use project management task management work order management issue report inspection Users access work information anywhere make exist process task form mobilefriendly everything do onthego FotoNotes capture store share information securely form data photo voice note GPS time stamp Users integrate FotoNotes use RESTful API API move data FotoNotes application extend exist system mobile device via FotoNotes platform"
+    },
+    {
+        "progweb_cat": "Project Management,Calendars",
+        "api_name": "HiTask",
+        "id": 8773,
+        "progweb_descr": " HiTask provide task project management service individual business It design intuitive interface user start create schedule assign task right away service us simple draganddrop interface assign modify task Tasks group date project team member HiTask also provide file share time management service user get progress report individual project task HiTask API provide remote access normal HiTask operation integrate system application API also use import export data HiTask allow user create custom report"
+    },
+    {
+        "progweb_cat": "Project Management,Calendars",
+        "api_name": "ONLYOFFICE",
+        "id": 12614,
+        "progweb_descr": " ONLYOFFICE opensource platform business collaboration project management platform include software manage project collaborate team member document management CRM ONLYOFFICE API expose functionality platform give developer programmatic access Users perform standard CRUD operation group file project forums people API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Testing",
+        "api_name": "PractiTest",
+        "id": 9110,
+        "progweb_descr": " PractiTest webbased QA test service manage software requirement test issue report test management tool collect information trace bug test run user report issue receive alert via email Its also possible customize lifecycles bug PractiTest come variety statistical function methodology report graph help provide overview test result PractiTest API enable developer integrate PractiTest application use REST call issue JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Testing",
+        "api_name": "Gurock TestRail",
+        "id": 9255,
+        "progweb_descr": " Gurock TestRail API allow user integrate automate test application along function submit test result automate various aspect TestRail TestRail test case management service design QA development team It allow team manage organize track test effort central location make test efficient Users execute test track result builtin realtime report metric Test Rail design integration bug tracker test system"
+    },
+    {
+        "progweb_cat": "Project Management,Reporting",
+        "api_name": "Substance Views",
+        "id": 9226,
+        "progweb_descr": " Views online project management impact report tool develop Substance social research cooperative work youth sport social development sector Views tool intend assist statutory voluntary organization deliver personal social development service improve impact demonstrate value Views make service available via RESTful API API include service contact evidence work admin service available XML JSON format"
+    },
+    {
+        "progweb_cat": "Project Management,Organization",
+        "api_name": "Breeze",
+        "id": 9305,
+        "progweb_descr": " Breeze project management tool provide visual board store task visualize workflow tool allow brainstorm idea problem others assign tasks track report team spend time sync task favorite calendar Breeze API REST style API allow application access Breeze resource project list todos task comment time entry It predictable resource URLs use HTTP response code error Requests response use JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Organization",
+        "api_name": "Ontimenow",
+        "id": 10428,
+        "progweb_descr": " OnTime Scrum project management tool developer manage backlog sprint bug track Ontimenow Scrum API use REST call open Ontime data 3rdparty developer API include call check attachment contact customer view defect correct check feature task incident project release user"
+    },
+    {
+        "progweb_cat": "Project Management,Organization",
+        "api_name": "ProjectBubble",
+        "id": 10950,
+        "progweb_descr": " ProjectBubble webbased project management tool design save business time streamline management process service allow user set budget project break project small task assign task employee invite join project group also track project time task complete use web interface ProjectBubble API use REST call return data several format allow user upload download segment data project documentation also available develop application around ProjectBubble platform"
+    },
+    {
+        "progweb_cat": "Project Management,Social",
+        "api_name": "Convo",
+        "id": 9555,
+        "progweb_descr": " Convo collaboration platform distribute work team Convo offer online platform feature team stay connect collaborate work project Convo API allow developer access integrate functionality Convo application main API method customize integrate conversation feed collaboration platform"
+    },
+    {
+        "progweb_cat": "Project Management,Social",
+        "api_name": "Project Kenai SunCloud",
+        "id": 11578,
+        "progweb_descr": " Project Kenai Sun Microsystems cloud hub developer host open source project code provide forum developer connect collaborate Project Kenai SunCloud API allow user create manage cloud resource include manage storage networking component compute function service use REST call return JSON JSONP"
+    },
+    {
+        "progweb_cat": "Project Management,Social",
+        "api_name": "Wipee List",
+        "id": 15548,
+        "progweb_descr": " Use Wipee List API extend Wipee List build new apps use Wipee List base You CRUD access task user list provide username password list Wipee List main site todo list manager help prioritize current task increase productivity get thing do faster ever"
+    },
+    {
+        "progweb_cat": "Project Management,Management",
+        "api_name": "Ctrack VMIgreenlight",
+        "id": 9568,
+        "progweb_descr": " Ctrack mobile assettracking management company facilitate customer Australia New Zealand track control operational assistance mobile workforce VMIGreenlight API allow user use REST call access data form VMIGreenlight service data integrate users legacy system use payroll billing planning project management purpose An account required service"
+    },
+    {
+        "progweb_cat": "Project Management,Office",
+        "api_name": "Do.com",
+        "id": 9584,
+        "progweb_descr": " Docom project management collaboration application help team individual accomplish task get project do Docom API allow developer access integrate functionality application create new application Some example API method include manage user manage task retrieve task information manage project"
+    },
+    {
+        "progweb_cat": "Project Management,Office",
+        "api_name": "Easy Projects",
+        "id": 12473,
+        "progweb_descr": " Easy Projects webbased project management platform business seek offer collaborative online environment team individual project It offer team management tool assign task report tool monitor business efficiency messaging board collaborate API use GET POST PUT DELETE call interact project activity timelogs message user portfolio"
+    },
+    {
+        "progweb_cat": "Project Management,Office",
+        "api_name": "Viewpath",
+        "id": 13881,
+        "progweb_descr": " Viewpath online project management tool Some feature include Viewpath include timelinesGANTT chart dashboard activity reporting function Viewpath API allow developer integrate functionality Viewpath application Public documentation available interested developer email supportviewpathcom"
+    },
+    {
+        "progweb_cat": "Project Management,Office",
+        "api_name": "WizeHive",
+        "id": 13998,
+        "progweb_descr": " WizeHive collaboration platform allow user group share collaborate information like conversation note task calendar file secure workspace Information enter Wizehive via email Twitter mobile device Wizehive use project management schedule evaluate request process require collaboration WizeHive API allow developer access functionality within WizeHive Example method available API include search task access user group information reply question add page edit workspace"
+    },
+    {
+        "progweb_cat": "Project Management,Office",
+        "api_name": "TeamWork Live",
+        "id": 14003,
+        "progweb_descr": " TeamWork Live webbased project management software online collaboration tool TeamWork Live let user run project efficiently increase collaboration among team member API let developer integrate TeamWork Live thirdparty application dashboard widget custom software API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Cloud",
+        "api_name": "SmartSheet",
+        "id": 9720,
+        "progweb_descr": " Smartsheet API provide RESTful interface interact Smartsheet feature data JSON format data support Smartsheet provide sandbox environment development test Smartsheet Software Service company offer cloud application support project management collaboration enterprise level"
+    },
+    {
+        "progweb_cat": "Project Management,Cloud",
+        "api_name": "Kagilum iceScrum Cloud",
+        "id": 10166,
+        "progweb_descr": " Kagilum primary sponsor iceScrum open source development platform build support agile practice Scrum development framework Kagilum iceScrum Cloud API RESTful service provide developer access iceScrum element JSON XML format support"
+    },
+    {
+        "progweb_cat": "Project Management,Cloud",
+        "api_name": "One App Cloud",
+        "id": 11296,
+        "progweb_descr": " One App Cloud business tool suite It offer business simple rich tool collaboration project management form creation One App Cloudâ€™s Actionable Inbox streamlines communication document share single transparent fee A visual form designer Rule Builder allow user define create report analyse form One App Cloud also provide API integrate suiteâ€™s feature social medium Google Apps"
+    },
+    {
+        "progweb_cat": "Project Management,Content Management",
+        "api_name": "Kirby",
+        "id": 9805,
+        "progweb_descr": " Kirby filebased cms service design user know use FTP client text editor Kirby doesnt require database designate file structure build website around Kirby API use Javascript return PHP An account required service"
+    },
+    {
+        "progweb_cat": "Project Management,Application Development",
+        "api_name": "Codebase",
+        "id": 9882,
+        "progweb_descr": " Codebase software project management tool include powerful secure UKbased storage user repositories It also provide feature help keep team intouch onschedule advance ticket management discussion project notebooks time track Codebase also activity feed syndicate RSS allow easy desktop access User account permission highly configurable let primary user control access certain functionality entire project Codebase offer RESTful API allow user work data store account Users manage repository ticket discussion project use XML JSON call"
+    },
+    {
+        "progweb_cat": "Project Management,Application Development",
+        "api_name": "Project Kenai",
+        "id": 11732,
+        "progweb_descr": " Project Kenai Sun Microsystems connect developer destination developer host open source project code well connect communicate collaborate likeminded developer Users may set profile start join project discuss project forums host code post downloadable project file Project Kenais function resource accessible programmatically use RESTful call JSON JSONP"
+    },
+    {
+        "progweb_cat": "Project Management,Application Development",
+        "api_name": "ScrumNinja",
+        "id": 11961,
+        "progweb_descr": " ScrumNinja program project management service design increase efficiency increase productivity create great transparency highly complex project ScrumNinja API allow access project data use RESTful call service use secure SSL connection available tiered pricing scale"
+    },
+    {
+        "progweb_cat": "Project Management,Application Development",
+        "api_name": "Rally",
+        "id": 12917,
+        "progweb_descr": " Rally provide platform service agile application development focus support developer Application Lifecycle Management Rally work facilitate agile development platform help team achieve visibility collaboration short delivery cycle Rally provide web service API enable developer integrate internal system Rally platform Their API available REST SOAP return data XML JSON HTML API available Rallys pay monthly subscription plan though community edition offer basic feature platform without API access"
+    },
+    {
+        "progweb_cat": "Project Management,Application Development",
+        "api_name": "OneDesk",
+        "id": 13260,
+        "progweb_descr": " OneDesks RESTful API provide programmatic access OneDesk application APIs support integrate 3rd party tool OneDesks help desk project management product management software application OneDesk cloud base platform offer tool assist product development management It mean help coordination team member include product manager engineer market customer support API let developer access functionality platform programatically Some functionality include access organization information work feedback post project API us RESTful call resposnes format XML JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Application Development",
+        "api_name": "Interstate Developers",
+        "id": 14391,
+        "progweb_descr": " Interstate provide business developer way plan share development progress use project roadmaps API offer ability thing create road post update view staff It use REST JavaScript protocol response format XML JSON JSONP PHP"
+    },
+    {
+        "progweb_cat": "Project Management,Application Development",
+        "api_name": "Scrumy",
+        "id": 14858,
+        "progweb_descr": " Scrumy project management tool loosely base agile development methodology Scrum With create new project add story project manage associate task Scrumy use true REST approach include GET POST PUT DELETE verb"
+    },
+    {
+        "progweb_cat": "Project Management,Application Development",
+        "api_name": "Agile Bench",
+        "id": 14893,
+        "progweb_descr": " Agile Bench call easy way manage agile project Agile Bench help manage teams product release It make estimate work control cost easy Agile Bench API provide readonly access agile resource like project iteration It also provide readwrite access story comment"
+    },
+    {
+        "progweb_cat": "Project Management,Application Development",
+        "api_name": "tinyPM",
+        "id": 15376,
+        "progweb_descr": " tinyPM light efficient tool allow team enhance software development process agile practice use user story requirement backlog management user story estimate point iteration planning easy user story assignment share task board across distribute team track agile project metric use wiki document team knowledge API allow developer build application communicate tinyPM use XML message HTTP"
+    },
+    {
+        "progweb_cat": "Project Management,Scheduling",
+        "api_name": "Shotgun",
+        "id": 9938,
+        "progweb_descr": " Shotgun service creative studio Shotgun provide pipeline tool studio creative process Features include schedule track review collaboration Shotgun API allow developer access integrate functionality Shotgun applications Some example API method include retrieve schedule manage task manage account information"
+    },
+    {
+        "progweb_cat": "Project Management,Scheduling",
+        "api_name": "TaskJunction",
+        "id": 11308,
+        "progweb_descr": " service provide online tool project management track activity It aim provide core function familiar commercial project management tool online toolbox manage task event data Tools include task creation start date end date duration dependencies assignment project team member Tools include report chart web mobile interface limit Android OS API method support create list updating project task within project Methods manage task include monitor update status set task priority assign task project team member"
+    },
+    {
+        "progweb_cat": "Project Management,Scheduling",
+        "api_name": "Gantto",
+        "id": 11517,
+        "progweb_descr": " service accepts schedule data project activity input generates Gantt chart show duration current progress individual task action Charts also show overlaps task schedule dependencies one task start another complete Scheduling data may customize illustrate specific task issue API method support specification task include name descriptive note priority plan start end date percentage complete relate detail Methods generate readonly chart image base uploaded data may include web page application"
+    },
+    {
+        "progweb_cat": "Project Management,Government",
+        "api_name": "CitizenSpace",
+        "id": 9982,
+        "progweb_descr": " CitizenSpace international consultation management service develop collaboration UK Government API allow user link consultation record sit management software embed medium site consultation record take RSS feed Citizen Space publish add thirdparty website provide uptodate list consultation An account required service"
+    },
+    {
+        "progweb_cat": "Project Management,Events",
+        "api_name": "Active RegOnline",
+        "id": 10012,
+        "progweb_descr": " Active RegOnline offer full eventplanning solution platform include event marketing promotion event management registration even survey report Active RegOnline API allow user manipulate pull data Active RegOnline Accounts Users call information event registration agenda item checkins transaction generate report service use Javascript return JSONP"
+    },
+    {
+        "progweb_cat": "Project Management,Events",
+        "api_name": "Pathable",
+        "id": 10463,
+        "progweb_descr": " Pathable allows connect conference event planner attendees comprehensive social medium suite schedule networking management year round community hubs Besides schedule Pathable also allow integrate online event registration design customizable web presence event Attendees connect multiple social network channel choose event wish attend Speakers upload handout slide deck easily research search functionality platform Pathable Developer API give user read write capability user creation user attribute mail functionality organization meeting attendee schedule REST base API utilizes GET POST DELETE PUT CREATE method return JSON XML Pricing start 3750year small event 25400year enterprise level solution Pathable also maintain XML Polling API XML feed attendee list"
+    },
+    {
+        "progweb_cat": "Project Management,Events",
+        "api_name": "Vitalist",
+        "id": 15551,
+        "progweb_descr": " Use Vitalist API get add edit delete action project contact contexts You also get information setting user account David Allens Getting Things Done GTD methodology build track list online GTD format extra work Vitalist also mobile capability management action todo item list"
+    },
+    {
+        "progweb_cat": "Project Management,Non-Profit",
+        "api_name": "Fanggle EventBreeze",
+        "id": 11210,
+        "progweb_descr": " Fanggle provide cloud application across various industry include retail CPG Non Profits Automotive Libraries Media Publishing EventBreeze API event plan tool help user promote organize sell ticket event Using REST call user query EventBreeze service create event get business info check invite attendee many feature Access API available join Licensing Partnership program"
+    },
+    {
+        "progweb_cat": "Project Management,Analytics",
+        "api_name": "Sprint.ly",
+        "id": 11632,
+        "progweb_descr": " Sprintly project management platform business It intend integrate workflow collaboration across department It transparently informatively Its dashboard provide space communication project progress analytics Sprintly also email user daily digest Sprintly API expose information update retrieval functionality It RESTful API return JSONencoded data"
+    },
+    {
+        "progweb_cat": "Project Management,Reference",
+        "api_name": "Flintbox",
+        "id": 11858,
+        "progweb_descr": " Flintbox API enable user flintboxcom collaborative research community import project online workspace API also allow update project status add additional text element include intellectual property element among feature Using secure HTTPS connection API access use FORM POST call HTTP GET call fail return JSON format"
+    },
+    {
+        "progweb_cat": "Project Management,Reference",
+        "api_name": "OmniComm TrialOne",
+        "id": 11947,
+        "progweb_descr": " service provide CDISC ODM compliant management information pharmaceutical clinical trial It part suite tool manage information drug research include subject recruitment screen data import track analysis export test data generation system report API method support interaction research data management uniform vocabulary descriptive term category Methods ensure compliance protocols pharmaceutical research reporting"
+    },
+    {
+        "progweb_cat": "Project Management,Documents",
+        "api_name": "ProjectPlace",
+        "id": 11876,
+        "progweb_descr": " ProjectPlace API allow access functionality ProjectPlace project management service REST API service use OAuth 10a authorization application identification require user account underlying website register Projectplace thirdparty developer ProjectPlace offer suite project management tool include project planning document management resource management online meeting capability meeting management well service"
+    },
+    {
+        "progweb_cat": "Project Management,Customer Service",
+        "api_name": "ShockeyMonkey",
+        "id": 11988,
+        "progweb_descr": " Shockey Monkey management customer relation service An account require use ShockeyMonkey API API allow user use contact management company management ticket management operation within preexist ShockeyMonkey account API use REST call Returns XML Full technical support available ShockeyMonkey University available company website"
+    },
+    {
+        "progweb_cat": "Project Management,Marketing",
+        "api_name": "Euro.message",
+        "id": 12185,
+        "progweb_descr": " Euromessage API give user Euromessagecom full functionality website remote system API allow user manage online marketing campaign single service API design easily adapt system available instance web service XML protocol"
+    },
+    {
+        "progweb_cat": "Project Management,Sales",
+        "api_name": "LeadSyncer",
+        "id": 12221,
+        "progweb_descr": " LeadSyncer allow user collect organize lead mobile device use either wireless cellular network This allow lead reliably save exhibition go doortodoor situation one might gather information outside office LeadSyncer allow user design data form export collect lead Excel Automatic synchronization available connect internet LeadSyncer still function internet available"
+    },
+    {
+        "progweb_cat": "Project Management,Sales",
+        "api_name": "AffinityLive",
+        "id": 12600,
+        "progweb_descr": " AffinityLive online project management client relationship management platform AffinityLive use manage sale track project keep track client relationship AffinityLive API allow developer access integrate functionality AffinityLive application create new application Some example API method include manage company information create manage customer data track managing issue"
+    },
+    {
+        "progweb_cat": "Project Management,Real Estate",
+        "api_name": "ActiveBuilding",
+        "id": 12272,
+        "progweb_descr": " ActiveBuilding platform property management resident communication Some feature include ActiveBuilding include maintenance request management track package track mass mail resident announcement ActiveBuilding API allow developer access integrate functionality ActiveBuilding application create new application Some example API method include retrieve community information manage package track information add editing content"
+    },
+    {
+        "progweb_cat": "Project Management,Time Tracking",
+        "api_name": "Crisply",
+        "id": 12331,
+        "progweb_descr": " Crisply timetracking service connects system use automatically track user time Some feature Crisply include timesheets project system bill system Crisply API allow developer access integrate functionality Crisply applications Some example API method include access timesheets retrieve time logged activity client manage user information account information"
+    },
+    {
+        "progweb_cat": "Project Management,Time Tracking",
+        "api_name": "Redmine",
+        "id": 14050,
+        "progweb_descr": " Redmine customizable flexible project management system Redmine use across platform database Features Redmine include numerous workspace issue track assign task wikis forum timetracking Redmine API allow developer access integrate data application Some example API method include create edit deleting resource Redmine issue project user time entry attachment"
+    },
+    {
+        "progweb_cat": "Project Management,Law",
+        "api_name": "Rocket Matter",
+        "id": 12634,
+        "progweb_descr": " Rocket Matter online legal software system offer variety feature legal professional attorney manage legal document track bill time manage client communicate within firm Rocket Matter API allow developer access integrate functionality Rocket Matter application create new application Some example API method include integration timetracking system retrieve contact retrieve document"
+    },
+    {
+        "progweb_cat": "Project Management,Performance",
+        "api_name": "Social Solutions ETO Software",
+        "id": 12659,
+        "progweb_descr": " Social Solutions create project management evaluation software human service organization mostly field health social service ETO1 API provide two kind application 1 Workflow dashboard client directory frontline staff 2 Performance evaluation report collect data secure data storage API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Monitoring",
+        "api_name": "TeleNav Track",
+        "id": 13763,
+        "progweb_descr": " TeleNav Track API SOAPbased interface pair mobile client service allow company persistently monitor gather information mobile workforce This API enable company dispatch job mobile device send receive wireless form track event location GPSenabled cell phone get locationbased alert gather custom report connect mobile device"
+    },
+    {
+        "progweb_cat": "Project Management,Language",
+        "api_name": "Cloudwords",
+        "id": 13959,
+        "progweb_descr": " Cloudwords offer web base translation management platform enable customer select interact translation vendor centrally manage translation project Cloudwords API let user connect system Cloudwords therefore option easily quickly launch manage translation project directly wherever content Functionality offer API include Create update Cloudwords translation project Upload download project source content reference material Request bid project Download translate content API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Project Management,Japanese",
+        "api_name": "Backlog",
+        "id": 13989,
+        "progweb_descr": " Backlog project management tool support collaboration communication amongst team member It provide feature gantt chart file share version control issue management wikis API provide access functionality give developer way integrate site application API use XMLRPC call response format XML site documentation Japanese"
+    },
+    {
+        "progweb_cat": "Project Management,European",
+        "api_name": "TimeLog",
+        "id": 14397,
+        "progweb_descr": " TimeLog develop sell webbased solution within time track especially projectoriented company Europe TimeLog API base standard web technology web service XML Users use API integrate data TimeLog Project intranet extranet application Users get data numerous thing time registration task project customer"
+    },
+    {
+        "progweb_cat": "Project Management,Hosting",
+        "api_name": "Origo",
+        "id": 14712,
+        "progweb_descr": " Origo open source software development collaboration platform use host open closedsource project Origo partially open API implement XMLRPC external This mean anyone write program interact Origo It expose variety method provide functionality user account project issue community wikis"
+    }
+]

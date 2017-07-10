@@ -1,0 +1,62 @@
+[
+    {
+        "progweb_cat": "Extraction,Email",
+        "api_name": "Scrape Website Email",
+        "id": 5575,
+        "progweb_descr": " Scrape Website Email API allow user extract emails website Upon make request user get list email website use"
+    },
+    {
+        "progweb_cat": "Extraction,Text",
+        "api_name": "HPE Haven OnDemand Concept Extraction",
+        "id": 5974,
+        "progweb_descr": " Concept Extraction API offer HP IDOL OnDemand let developer extract key concept text use statistical method Developers provider input text document API return best term phrase HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Extraction,Text",
+        "api_name": "HPE Haven OnDemand Text Extraction",
+        "id": 7315,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Text Extraction API accept 500 different document format Either upload file link use URL reference API return scrap content well associate meta data use APIs analysis"
+    },
+    {
+        "progweb_cat": "Extraction,Analytics",
+        "api_name": "Diffbot Analyze",
+        "id": 6631,
+        "progweb_descr": " Diffbot provide developer tool identify analyze extract main content section web page Diffbot Analyze API analyze web page visually take URL identify type page Diffbot ’ Analyze API decide Diffbot extraction API article discussion image product may appropriate automatic extraction return Diffbot Analyze API call"
+    },
+    {
+        "progweb_cat": "Extraction,Analytics",
+        "api_name": "Diffbot Image",
+        "id": 6632,
+        "progweb_descr": " Diffbot provide developer tool identify analyze extract main content section web page purpose Diffbot ’ Image API extract main image web page Image API analyze web page return full detail extract image"
+    },
+    {
+        "progweb_cat": "Extraction,Analytics",
+        "api_name": "Diffbot Discussion",
+        "id": 6633,
+        "progweb_descr": " Diffbot provide developer tool identify analyze extract main content section web page Diffbot Discussion API extract discussion post information web page It return information identify object submit page Discussion API return post data single object Diffbot Discussion API currently Beta"
+    },
+    {
+        "progweb_cat": "Extraction,Lists",
+        "api_name": "HPE Haven OnDemand Expand Container",
+        "id": 7310,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Expand Container API extract content parent container ZIP TAR PST file It store information accessible list format APIs interact"
+    },
+    {
+        "progweb_cat": "Extraction,Photos",
+        "api_name": "HPE Haven OnDemand OCR Document",
+        "id": 7311,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action OCR Document API extract text inputted image It also return metadata organization size text API behave accurately text superimpose high contrast background"
+    },
+    {
+        "progweb_cat": "Extraction,Classification",
+        "api_name": "HPE Haven OnDemand Entity Extraction",
+        "id": 7330,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Entity Extraction API scan inputted text file extract word match entity type criterion These could people name place company names phone number URL credit card number API return list content match entity type also specify find within document"
+    },
+    {
+        "progweb_cat": "Extraction,Data",
+        "api_name": "Diffbot Article",
+        "id": 14640,
+        "progweb_descr": " Diffbot Article API automatically extract clean article text article data author date image etc news article web page blog post Article API work language automatically concatenate multiplepage article extract comment available use functionality integrate Diffbot Discussion API also optionally performs sentiment analysis entityextractiontaggeneration extract text"
+    }
+]

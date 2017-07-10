@@ -1,0 +1,566 @@
+[
+    {
+        "progweb_cat": "Office,Enterprise",
+        "api_name": "SlideShare",
+        "id": 117,
+        "progweb_descr": " From site SlideShare worlds large community share presentation web current API base upon REST model allow perform follow action Uploading Presentations Retrieving EmbedCode Slideshows Retrieving Slideshows Users Retrieving Slideshows Tags Retrieving Slideshows Groups"
+    },
+    {
+        "progweb_cat": "Office,Enterprise",
+        "api_name": "Scribd iPaper",
+        "id": 421,
+        "progweb_descr": " From site iPaper Javascript API allow control document display embedded webpage Similar Google Maps API simple set Javascript command customize appearance iPaper Part Scribd Platform"
+    },
+    {
+        "progweb_cat": "Office,Enterprise",
+        "api_name": "Scribd Platform",
+        "id": 562,
+        "progweb_descr": " From site A RESTbased API method upload convert edit delete search document Using API use Scribd backend application need process document without need write document processing system Use Scribd API harness full power Scribds scalable conversion system storage system ad network search engine iPaper viewer website Scribd API powerful customizable way upload document Scribd convert document iPaper manage exist document website find content need"
+    },
+    {
+        "progweb_cat": "Office,Enterprise",
+        "api_name": "SlideShare Player",
+        "id": 14470,
+        "progweb_descr": " SlideShare platform anyone store present share presentation Users upload Powerpoint Keynote presentation file convert Flashbased SlideShare viewer With SlideShare Player API developer write JavaScript interact directly player example developer advance slide base interaction outside player time pause slide video play alongside SlideShare viewer"
+    },
+    {
+        "progweb_cat": "Office,Enterprise",
+        "api_name": "MindMeister",
+        "id": 15614,
+        "progweb_descr": " From site Want integrate MindMeister app Create map idea fly use simple REST call This API allow anyone write application interact MindMeister MindMeister support standard feature classic mind map tool online many simultaneous user like"
+    },
+    {
+        "progweb_cat": "Office,Spreadsheets",
+        "api_name": "Google Spreadsheets",
+        "id": 214,
+        "progweb_descr": " From site Google Spreadsheets data API allow client application view update Spreadsheets content form Google data API GData feed Your client application request list user spreadsheets edit delete content exist Spreadsheets worksheet query content exist Spreadsheets worksheet"
+    },
+    {
+        "progweb_cat": "Office,Spreadsheets",
+        "api_name": "EditGrid",
+        "id": 396,
+        "progweb_descr": " From site EditGrid online spreadsheet service realtimeupdate extensive collaboration feature EditGrid offer two APIs Web API use control manipulate data EditGrid It use SOAP RESTful protocols Grid API JavaScriptbased API allow instantiate RTU Grid JavaScript object add web application By wire code RTU Grid customize functionality connect application logic great flexibility"
+    },
+    {
+        "progweb_cat": "Office,Project Management",
+        "api_name": "Backpack",
+        "id": 484,
+        "progweb_descr": " Backpack webbased personal information manager small business application support usercreated page calendar Features usercreated page include todo list inline photo gallery note file attachment page share Features calendar include support iCalendar emailSMS reminder colorcoding calendar iCalendar share"
+    },
+    {
+        "progweb_cat": "Office,Project Management",
+        "api_name": "Timr",
+        "id": 11238,
+        "progweb_descr": " Timr online time track application Timr offer track work time project time mileage GPS position In addition application provide analysis reporting feature timr API allow developer integrate timrs functionality exist system API let user create task timr automatically new order create ERP assign task user user assign project project management system transfer time track record create timr back ERP systemTasks taskassignments set automatically Created time entry assume timr API use SOAP protocol response format XML Full documentation available customer"
+    },
+    {
+        "progweb_cat": "Office,Project Management",
+        "api_name": "Dovico",
+        "id": 13031,
+        "progweb_descr": " Dovico web base timesheet time track software Dovico offer two core product Timesheet use projectbased time expense track cost bill Planning Timesheet addition core functionality product use project plan forecast Dovico API allow developer expand build Dovico Hosted platform Developers use API integrate data third party web sit application API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Office,Documents",
+        "api_name": "ONLYOFFICE Document Server",
+        "id": 708,
+        "progweb_descr": " ONLYOFFICE Document Server API allow developer integrate ONLYOFFICEs document spreadsheet presentation editor websites set manage editor Integration examples provide Net C Java Nodejs PHP Ruby ONLYOFFICE featurerich office productivity suite include document management project management CRM calendar mail corporate network tool"
+    },
+    {
+        "progweb_cat": "Office,Documents",
+        "api_name": "Docstoc",
+        "id": 1211,
+        "progweb_descr": " Docstoc online community find share professional document Docstoc provide platform user business upload share document serve repository document variety category include legal business financial technology educational creative All document Docstoc easily search preview downloaded free Docstoc API include function register new member upload download update search document manipulate member folder structure set ad"
+    },
+    {
+        "progweb_cat": "Office,Documents",
+        "api_name": "Aspose",
+        "id": 9034,
+        "progweb_descr": " Aspose provide cloudbased service document generation conversion automation It work document create Microsoft Word Microsoft Excel Microsoft PowerPoint Adobe OpenDocument It also design handle barcodes optical character recognition OCR email format protocols Aspose REST APIs enable user integrate many document process management task application These task include limited document assembly file conversion text extraction barcode generation email track"
+    },
+    {
+        "progweb_cat": "Office,Documents",
+        "api_name": "iNetWord",
+        "id": 14116,
+        "progweb_descr": " iNetWord online fullyfunctional document webpage editor This service currently free user iNetWord collaborative functionality share edit folder document image iNetWord API use JavaScript control document within another website application"
+    },
+    {
+        "progweb_cat": "Office,Documents",
+        "api_name": "Mimeo",
+        "id": 14629,
+        "progweb_descr": " Mimeo provide online ondemand document print distribution serviceThe Mimeo API let developer integrate production commerce capability application site With API user Add Users Submit Files Manage Create Documents Place Orders Make Payment API use RESTful protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "Office,Documents",
+        "api_name": "Vuzit",
+        "id": 15296,
+        "progweb_descr": " Web Service API allow developer interact securely Vuzit account You easily upload remove retrieve attribute Vuzit document"
+    },
+    {
+        "progweb_cat": "Office,PDF",
+        "api_name": "Drawloop",
+        "id": 780,
+        "progweb_descr": " LOOP API allow merge convert combine document Web Automate creation sale proposal sale contract quote virtually document package require sell service product Convert fill merge number file type example fill Word Excel PowerPoint PDF andor XML file merge one PDF"
+    },
+    {
+        "progweb_cat": "Office,PDF",
+        "api_name": "PDF Generator",
+        "id": 786,
+        "progweb_descr": " PDF Generator API let convert data PDF document online free online PDF generator You convert type data PDF use tool include Microsoft Word document RTF document HTML photo image You need key use service To get key please visit httpwwwdanielproctercomcontacthtm"
+    },
+    {
+        "progweb_cat": "Office,PDF",
+        "api_name": "htm2pdf",
+        "id": 1242,
+        "progweb_descr": " A simple yet powerful API use programmer want seamlessly convert HTML PDF This allow program website pas HTML URL htm2pdfcouk return receive file save stream user There many conversion setting store default also override conversion API integrate programming language C Java PHP Python Perl etc line code"
+    },
+    {
+        "progweb_cat": "Office,PDF",
+        "api_name": "VeryPDF",
+        "id": 9275,
+        "progweb_descr": " VeryPDF provide suite cloudbased APIs allow developer work many different kind document Adobe PDFs Microsoft Word document barcodes email format protocols within application These service allow user create new document automate common process include document format conversion text image extraction PDF encryption metadata removal many others VeryPDF APIs access platform programming language use REST call"
+    },
+    {
+        "progweb_cat": "Office,PDF",
+        "api_name": "DocRaptor",
+        "id": 14636,
+        "progweb_descr": " DocRaptor RESTful API allow user generate PDF Excel document use simple HTML Users use style style HTML translate XLSPDF formatting API also ability run JavaScript HTML document convert API work program language even support Java"
+    },
+    {
+        "progweb_cat": "Office,PDF",
+        "api_name": "PDFmyURL",
+        "id": 15151,
+        "progweb_descr": " This API allow user convert webpage PDF docuuments PDFmyURL solution HTML PDF creation Site builder integrate function convert content PDFs core service free Features manage format layout output page title embed link page break post HTML etc API use RESTful call response HTML PNG file"
+    },
+    {
+        "progweb_cat": "Office,PDF",
+        "api_name": "Web2PDF",
+        "id": 15192,
+        "progweb_descr": " Web2PDF online API let easily create PDF URL application An API call make send HTTP request parameter pass POST GET data Web2PDF service API URI Service free"
+    },
+    {
+        "progweb_cat": "Office,Printing",
+        "api_name": "Google Cloud Print",
+        "id": 845,
+        "progweb_descr": " Google Cloud Print service enables app web desktop mobile device print printer anywhere world APIs allow apps collect necessary data show user interface custom print option use common print dialog Google Cloud Print provide There also APIs query print job status API use XMPP protocol response format XML JSON TXT Google Cloud Print currently available"
+    },
+    {
+        "progweb_cat": "Office,Printing",
+        "api_name": "Infraprint",
+        "id": 9040,
+        "progweb_descr": " Infraprint cloud print mail service allow user upload file print mail Applications include automate bill invoice send thank note welcome letter direct mail marketing ondemand print Infraprint accessible via REST API Third party application simply send Infraprint object address HTTP POST API support option specification print setting delivery option"
+    },
+    {
+        "progweb_cat": "Office,Printing",
+        "api_name": "Print Audit ICE",
+        "id": 10124,
+        "progweb_descr": " Print Audit company develop printingrelated software Information Collection Engine ICE webbased software collect information printer transmit data Print Audits secure servers user access It gather printer location serial number IP address MAC address page count toner level status alert eg paper paper jam No personal user data collect SOAPbased ICE API enable user interact ICE programmatically"
+    },
+    {
+        "progweb_cat": "Office,Printing",
+        "api_name": "PWG Print Services Interface",
+        "id": 13089,
+        "progweb_descr": " Printer Working Group PWG Print Services Interface provide set method enable client device interact print service Client device may include printer mobile device web portal web service Print Services Interface allow client device initiate job add document job specify attribute job process control get status update job"
+    },
+    {
+        "progweb_cat": "Office,Business",
+        "api_name": "Bitrix24",
+        "id": 994,
+        "progweb_descr": " Bitrix24 collaborative workspace company It host feature support businessesâ€™ CRM planning project management need workspace include public frontpage fee companywide dialogue well conversation module small group meeting Other module allow user keep track client data project progress building report Bitrix API allow developer upload client information expose CRM functionality It RESTful API return JSONformatted data"
+    },
+    {
+        "progweb_cat": "Office,Design",
+        "api_name": "Actual Reports",
+        "id": 1051,
+        "progweb_descr": " Actual Reports Designer web base design tool allow user create custom printout report bound data different source like Excel CSV JSON Google Drive Spreadsheet tool use create product packaging discount label invoice business card much API let developer integrate platform functionality exist system allow customize printout API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Office,Time Tracking",
+        "api_name": "mite",
+        "id": 1270,
+        "progweb_descr": " mite sleek online time track tool Built collaboration people rely designer developer architect attorney Freelancers well small team mite let track time structured way break customer project service Track time manually builtin stop watch Track browser Mac PC iPhone via Twitter Jabber Ubiquity"
+    },
+    {
+        "progweb_cat": "Office,Time Tracking",
+        "api_name": "ProWorkflow",
+        "id": 14438,
+        "progweb_descr": " ProWorkflow project management workflow time track solution small medium business ProWorkflow enable keep accurate timekeeping record organize plan delegate job task whilst use timeline overview company activity With ProWorkflow API create offline apps share ProWorkflows data Create offline report tntegrate application extranetsintranets well display ProWorkflows data elsewhere"
+    },
+    {
+        "progweb_cat": "Office,Activity Streams",
+        "api_name": "Office 365 Management Activity",
+        "id": 1790,
+        "progweb_descr": " Office 365 Management Activity API support retrieval data profile user system well event parameter activity log record Office 365 Azure AD RESTful API allow developer deploy language host platform compatible HTTPS X509 certificate build application Its deployment require Azure AD registration OAuth 2 authentication"
+    },
+    {
+        "progweb_cat": "Office,Management",
+        "api_name": "Office 365 Service Communications",
+        "id": 1791,
+        "progweb_descr": " Office 365 Service Communications API use HTTP method provide access service subscription realtime view current status historical status message relate Microsoft user account API provide data various Microsoft Office platforms include Dynamics CRM Dynamics Marketing Exchange Online Exchange Online Protection Identity Service Office 365 Partner Admin Center Social Engagement among others"
+    },
+    {
+        "progweb_cat": "Office,Management",
+        "api_name": "Pingboard",
+        "id": 8085,
+        "progweb_descr": " Pingboard office management software solution Pingboard offer office manager application manage employee office information project information Pingboard API allow developer access integrate functionality Pingboard applications Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Office,Management",
+        "api_name": "PaperCut",
+        "id": 11338,
+        "progweb_descr": " PaperCut print optimization service aim help organization reduce print cost environmental impact PaperCut API allow access functionality PaperCut system use SOAP REST XMLRPC protocols service track printing check environmental impact manage wireless printing set print limitation set quota group individual generate report API use IP level security Authentication Tokens SSL security"
+    },
+    {
+        "progweb_cat": "Office,Management",
+        "api_name": "Aladtec",
+        "id": 12602,
+        "progweb_descr": " Aladtec Online Employee Scheduling Workforce Management use thousand people support many industry throughout country Proudly serve variety industry include EMS Fire Rescue Law Enforcement CommunicationsDispatch Security Public Works Hospitality Long Term Care And Aladtec API allow developer integrate software service application API expose functionality software suite allow data pull third party application API use HTTP call response format XML"
+    },
+    {
+        "progweb_cat": "Office,Management",
+        "api_name": "Autotask",
+        "id": 12786,
+        "progweb_descr": " Autotask cloud base business management software platform let user organize automate optimize business It give user ability billing schedule employee track see client profitable Autotask API expose functionality platform allow integrate third party application"
+    },
+    {
+        "progweb_cat": "Office,Email",
+        "api_name": "Outlook Extended Properties",
+        "id": 1792,
+        "progweb_descr": " Outlook Extended Properties API allow developer introduce custom data storage capability apps API useful integrate backup interface access stored custom data Outlook MAPI Properties API ’ provider recommend deployment restrict circumstance require access custom data Outlook MAPI property yet include Outlook REST API metadata API ’ data account accessible Office 365 Microsoft ’ Hotmailcom Livecom MSNcom Outlookcom Passportcomaccount domain"
+    },
+    {
+        "progweb_cat": "Office,Email",
+        "api_name": "Outlook Streaming Notifications",
+        "id": 1793,
+        "progweb_descr": " Outlook Streaming Notifications API provide direct connection interface convey notification user ’ mailbox client appsIt design provide client apps update change occur mailbox data calendar email contactsThe data transmit API secure either Azure Active Directory Office 365 Microsoft ’ Hotmailcom Livecom MSNcom Outlookcom Passportcomaccount domains TheRESful API currently beta release"
+    },
+    {
+        "progweb_cat": "Office,Email",
+        "api_name": "Outlook Notifications REST",
+        "id": 3406,
+        "progweb_descr": " This REST API allow apps learn change user mail calendar contact data secure Azure Active Directory Office 365 Data include Hotmailcom Livecom MSNcom Outlookcom Passportcom"
+    },
+    {
+        "progweb_cat": "Office,Email",
+        "api_name": "Outlook People REST",
+        "id": 3408,
+        "progweb_descr": " This REST API gain access data secure Azure Active Directory Office 365 It allow get information people across mail contact social network This include access Microsoft account officecom hotmailcom livecom office365com"
+    },
+    {
+        "progweb_cat": "Office,Data",
+        "api_name": "Microsoft Excel REST",
+        "id": 3360,
+        "progweb_descr": " Microsoft Excel REST API Office 365 allow developer integrate Microsoft Excel application system API provide method interact worksheet table columns row chart range name item This could potentially use calculation service report service data service"
+    },
+    {
+        "progweb_cat": "Office,Data",
+        "api_name": "Office 365 Data Extensions REST",
+        "id": 3407,
+        "progweb_descr": " This REST API allow apps store custom data message event contact user account account Office 365 Microsoft include Hotmailcom Livecom MSNcom Outlookcom Passportcom"
+    },
+    {
+        "progweb_cat": "Office",
+        "api_name": "Microsoft Azure Active Directory Graph REST",
+        "id": 3405,
+        "progweb_descr": " This API provide programmatic access Azure Active Directory allow apps perform create read update delete CRUD operation directory data directory object This include user group organizational contact Azure Active Directory Azure AD Microsoft ’ multitenant cloud base directory identity management service"
+    },
+    {
+        "progweb_cat": "Office",
+        "api_name": "A.nnotate",
+        "id": 15712,
+        "progweb_descr": " Use Annotate Integration API allow user create private share note web page You create iFrame display PDF Word document user make annotation within iFrame You display brand Let user create note tags discussion PDF viewer window implement annotation service"
+    },
+    {
+        "progweb_cat": "Office",
+        "api_name": "HTML2PDF",
+        "id": 15822,
+        "progweb_descr": " From site With HTML2PDFBIZ convert html website high quality PDF file Commercial edition include library use PHP Java NET platform Using API anyone easily convert HTML file Web sit PDF application"
+    },
+    {
+        "progweb_cat": "Office,Education",
+        "api_name": "Office 365 Schools",
+        "id": 3426,
+        "progweb_descr": " This REST API provide access school entity Office 365 Education tenant It allow ability extract data Office 365 tenant sync cloud Microsoft School Data Sync This include information school section teacher student roster"
+    },
+    {
+        "progweb_cat": "Office,Tasks",
+        "api_name": "Outlook Task REST",
+        "id": 3427,
+        "progweb_descr": " This REST API allow create read synchronize update delete user task secure Azure Active Directory Office 365 user account Office 365 Microsoft account include Hotmailcom Livecom MSNcom Outlookcom Passportcom"
+    },
+    {
+        "progweb_cat": "Office,Accounting",
+        "api_name": "BitFactura",
+        "id": 5092,
+        "progweb_descr": " BitFactura API allow developer integrate BitFacturas online invoice function store data application Users data store cloud access anywhere BitFactura provide detailed business finance report include income record customer product tax etc BitFactura send invoice many language global currency"
+    },
+    {
+        "progweb_cat": "Office,Accounting",
+        "api_name": "Billy",
+        "id": 9993,
+        "progweb_descr": " Billys Billing create bookkeeping software small business startups Billy API provide RESTful interface developer automate manipulation bookkeeping resource Resources include invoice contact payment product schedule transaction account Requests response JSON format"
+    },
+    {
+        "progweb_cat": "Office,Human Resources",
+        "api_name": "Envoy",
+        "id": 5337,
+        "progweb_descr": " Envoy REST API allow developer access integrate functionality Envoy applications Some example API method include list employee retrieve employee detail register visitor manage employee visitor checkin Envoy visitor registration platform office"
+    },
+    {
+        "progweb_cat": "Office,Cloud",
+        "api_name": "Sqwiggle",
+        "id": 7731,
+        "progweb_descr": " Sqwiggle online workplace remote team Sqwiggle feature include online collaboration software alwayson video conferencing drag drop file upload group video chat Sqwiggle API provide RESTful interface developer interact platform Exposed resource include conversation message attachment user organization"
+    },
+    {
+        "progweb_cat": "Office,Cloud",
+        "api_name": "MailWriter",
+        "id": 9087,
+        "progweb_descr": " MailWriter cloud mail service allow user create send single letter complete mailing personalize postcard MailWriter API allow thirdparty application create send letter postcard manage account credit HTTP API return JSON format response"
+    },
+    {
+        "progweb_cat": "Office,Cloud",
+        "api_name": "Dirigible",
+        "id": 11727,
+        "progweb_descr": " Dirigible programmable cloudbased spreadsheet As well traditional spreadsheet formula user put Python code cell Thus cell hold object list even reference function If custom calculation require code editor embed page change way spreadsheet recalculate All Dirigible spreadsheet associate JSON URL allow integrate website"
+    },
+    {
+        "progweb_cat": "Office,Cloud",
+        "api_name": "Rollbase hosted service",
+        "id": 13848,
+        "progweb_descr": " Rollbase cloud platform creation software service SaaS business application use pointandclick draganddrop tool standard webbrowser Most application build business analyst web developer without require team advance developer"
+    },
+    {
+        "progweb_cat": "Office,Calendars",
+        "api_name": "Acuity Appointment Scheduling",
+        "id": 8355,
+        "progweb_descr": " Acuity Appointment Scheduling online appointment book service access via mobile device user client Clients book appointment class online even pay advance Acuity user accept appointment payment website free schedule page Acuity provide They may also create discount code gift certificate appointment Acuity Acuity Appointment Scheduling automatically account timezone difference record appointment Google notifies users new appointment send reminder emails client Acuity user easily export data client information appointment schedule service Client information collect used create custom form take less time fill Acuity also generate report appointment revenue staff location time range Developers interact appointment schedule programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Office,Collaboration",
+        "api_name": "Hall",
+        "id": 9210,
+        "progweb_descr": " Hall communication platform organization team business Hall offer variety communication collaboration feature group chat file share instant message multiple platform Hall API allow developer access integrate functionality Hall application Zapier Zendesk Github Get Satisfaction main API method link Hall account application"
+    },
+    {
+        "progweb_cat": "Office,Collaboration",
+        "api_name": "Join.me",
+        "id": 14025,
+        "progweb_descr": " Joinme online meeting remote screensharing service Joinme allow user share document websites presentation item show screen people web Joinme API allow developer integrate Joinmes functionality application API public beta limit documentation"
+    },
+    {
+        "progweb_cat": "Office,Notifications",
+        "api_name": "SnapComms Desktop Alert",
+        "id": 9211,
+        "progweb_descr": " SnapComms push notification solution employee communication desktop mobile device SnapComms API give organization ability integrate SnapComms push notification platforms example intranet contact center solution Notification format include popup alert scroll ticker popup quizzes survey interactive screensaver message Public documentation available API access come account service login"
+    },
+    {
+        "progweb_cat": "Office,Content",
+        "api_name": "Cabinet",
+        "id": 9599,
+        "progweb_descr": " Cabinet Paperless workflow document management content share service centralizes information enhance efficiency security accessibility Cabinet API allow user integrate document management functionality thirdparty application streamline automate management function function API build NET platform"
+    },
+    {
+        "progweb_cat": "Office,Video",
+        "api_name": "Indiligo Inside",
+        "id": 9927,
+        "progweb_descr": " service provide platform online interaction via realtime video chat document share It intended service remote meeting presentation well application emphasize rich customer colleague contact Custom call script allow application integrate online interaction function process like customer relationship management CRM sale management application API method support initiate host video call access via specify URL available specific user Methods support chat message uploading document collection host service share user access call Methods also support management contact list access credential access share call"
+    },
+    {
+        "progweb_cat": "Office,Video",
+        "api_name": "WhyGo",
+        "id": 11341,
+        "progweb_descr": " WhyGo video conferencing teleconferencing service allow customer book live video conferencing facility world WhyGo API allow developer access integrate functionality WhyGo applications Some example API method include retrieve list price booking video conference location add location data check availability book video conference facility Interested developer contact APIenquirieswhygonet information"
+    },
+    {
+        "progweb_cat": "Office,Customer Relationship Management",
+        "api_name": "YouTargets",
+        "id": 10410,
+        "progweb_descr": " YouTargets web base CRM system It offer customer traditional functionality CRM system management 30000 contact track deal set task group contact per project basis An API available allow developer integrate functionality YouTargets exist website application API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Office,Customer Relationship Management",
+        "api_name": "Podio",
+        "id": 14228,
+        "progweb_descr": " Podio online work platform It combine hundred specialized work apps message task report workflow contact management let user design customized online workplace Podio API let user integrate service build tool application top Podio Podio API RESTful data return JSON"
+    },
+    {
+        "progweb_cat": "Office,Invoicing",
+        "api_name": "Factura Directa",
+        "id": 10520,
+        "progweb_descr": " Factura Directa provide online bill pay solution help user create send manage monitor bill budget Factura Directa API allow user remotely access hisher account utilize full functionality API use REST call return XML SSL use authentication This site documentation spanish"
+    },
+    {
+        "progweb_cat": "Office,Invoicing",
+        "api_name": "Seasoo",
+        "id": 13396,
+        "progweb_descr": " Seasoo Corporation online invoice company aim create sustainable business environment provide paperless invoice solution small enterprise freelancer Seasoo offer developer RESTful API integration Seasoo Online Invoicing system Documentation publicly available"
+    },
+    {
+        "progweb_cat": "Office,Invoicing",
+        "api_name": "WorkflowMax",
+        "id": 13940,
+        "progweb_descr": " WorkflowMax flexible webbased program business Job Invoice management WorkflowMax use Project Management also ability make Quotes Purchase Orders Reports WorkflowMax API RESTful API allow developer integrate WorkflowMax system use XML Data format"
+    },
+    {
+        "progweb_cat": "Office,Invoicing",
+        "api_name": "ClientBill",
+        "id": 13993,
+        "progweb_descr": " ClientBill online invoice payment processing service Users create send invoice client allow client pay online support payment processing service track payment ClientBill API allow developer access information ClientBill Some example API method include create view edit client information invoice information estimate payment"
+    },
+    {
+        "progweb_cat": "Office,Social",
+        "api_name": "Conversant",
+        "id": 11200,
+        "progweb_descr": " Conversant internet software design help group size work together enable share ideas question file information online It provide tool manage news page weblogs featurerich event calendar online discussion forum It also provide website publish email mailinglist integration many service Conversants feature access manipulate programmatically use XMLRPC call"
+    },
+    {
+        "progweb_cat": "Office,Social",
+        "api_name": "StormWeight",
+        "id": 11958,
+        "progweb_descr": " StormWeight collaboration brainstorm workspace allow idea rank categorized search comment StormWeight API operate use HTTP GET call accessible XML API CSV API API return ranking group rank idea content user account"
+    },
+    {
+        "progweb_cat": "Office,Social",
+        "api_name": "Zoho Projects",
+        "id": 15438,
+        "progweb_descr": " Zoho Projects provide REST style Web APIs return XML JSON document HTTP With API usersdevelopers extend web application push pull data Zoho Projects application mashups As API purely HTTP base application could program language like Java Python ASP etc use Zoho Projects offer plan reporting capability make process social bring everyone project team together help get project do"
+    },
+    {
+        "progweb_cat": "Office,Medical",
+        "api_name": "Practice Fusion",
+        "id": 11250,
+        "progweb_descr": " Practice Fusion provider webbased Electronic Health Record EHR application aim physician Practice Fusion currently use 150000 physician practice manager 50 state EHR use practice manager schedule appointment complete medical chart send prescription complete billing API allow developer integrate EHR functionality exist system application Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Office,Tools",
+        "api_name": "Officeshots",
+        "id": 11290,
+        "progweb_descr": " Officeshots online service professional compare outputs different office suit document A document may look nice screen manipulate native application exchange format implement correctly might look like sloppy mess person receive Officeshots help prevent compare output behavior wide variety application Officeshots API make function available programmatically use XMLRPC call"
+    },
+    {
+        "progweb_cat": "Office,Tools",
+        "api_name": "PDF24 Javascript PDF",
+        "id": 11384,
+        "progweb_descr": " PDF24org provide free online PDF document creation service This service access site web interface JavaScript API Developers use API provide PDFmaking button endusers blog forums wiki system articlebased internet software"
+    },
+    {
+        "progweb_cat": "Office,Tools",
+        "api_name": "LiveDocx MailMerge",
+        "id": 12429,
+        "progweb_descr": " LiveDocx templatebased document creation service It allow developer create word processing document combine userdefined Microsoft Word templates data disparate source XML file databases It typically use create professional printready document DOCX DOC RTF PDF format LiveDocx API make function available programmatically via SOAP call"
+    },
+    {
+        "progweb_cat": "Office,Support",
+        "api_name": "SupportBee",
+        "id": 12370,
+        "progweb_descr": " SupportBee customer service support system SupportBee offer email ticket reply customer service support SupportBee API allow developer access integrate functionality SupportBee application create new application Some example API method include manage help ticket manage user information reply comment ticket manage help queue"
+    },
+    {
+        "progweb_cat": "Office,Fax",
+        "api_name": "HelloFax",
+        "id": 12452,
+        "progweb_descr": " HelloFax fax electronic signature service It allow multiple device office send document designate fax machine developer also recently roll electronic signature functionality HelloFax API wrapper expose GitHub It RESTful API return JSON response convert Ruby method expose document uploading status monitoring"
+    },
+    {
+        "progweb_cat": "Office,Law",
+        "api_name": "MyCase",
+        "id": 12661,
+        "progweb_descr": " MyCase social practice management platform legal professional It allow lawyer access document email client contact information billing data core application Open API enable developer create technology MyCase technology platform Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Office,Law",
+        "api_name": "Clio",
+        "id": 12662,
+        "progweb_descr": " Clio legal practice management system suitable small midsized law firm It offer suite tool help user manage practice include document management time track bill schedule Clio API allow user access functionality system data store within Functionality include operation activity bill contact matter task user API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Office,Law",
+        "api_name": "Elite",
+        "id": 12666,
+        "progweb_descr": " Elite offer legal practice management software software automate account operation give access critical financial operational data In addition practice management software also provide performance monitoring tool Elite XML API allow third party system integrate software allow share data two system Public documentation available API"
+    },
+    {
+        "progweb_cat": "Office,Billing",
+        "api_name": "BeeBole",
+        "id": 13408,
+        "progweb_descr": " BeeBole online time track bill application BeeBole offer timetracking reporting feature well budget assignment billing time work BeeBole API allow developer access data functionality BeeBole integration application customize application Some example API method include search return company list employee list attendance record manage time record"
+    },
+    {
+        "progweb_cat": "Office,Mobile",
+        "api_name": "Cogent Mobile",
+        "id": 13702,
+        "progweb_descr": " Cogent Mobile voice CRM application allow user manage CRM voice command well use CRM mobile device Cogent Mobile API allow developer access integrate Cogent Mobile functionality service application Public documentation available interested developer contact infocogentmobilecom information API access"
+    },
+    {
+        "progweb_cat": "Office,Contacts",
+        "api_name": "CloudSponge Address Book",
+        "id": 13813,
+        "progweb_descr": " CloudSponge online software let user import address book contact major application CloudSponge API let developer integrate service web sit application API import address book contact multiple source single integration point It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Office,Contacts",
+        "api_name": "Soocial",
+        "id": 14284,
+        "progweb_descr": " Soocial system connect user various address book Users sync address book store one place API let developer access contact information programmatically integrate third party application API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Office,Contacts",
+        "api_name": "Big Contacts",
+        "id": 15874,
+        "progweb_descr": " From site Big Contacts webbased tool help organize information activity people work live"
+    },
+    {
+        "progweb_cat": "Office,Forms",
+        "api_name": "WorldApp Extreme Form",
+        "id": 13936,
+        "progweb_descr": " Extreme Form enterpriseclass data collection technology provide flexible design advance feature use streamline business process use form collect data Extreme Form API allow developer integrate service application API use SOAP call response format XML Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Office,Forms",
+        "api_name": "PerfectForms",
+        "id": 14403,
+        "progweb_descr": " PerfectForms software application create deploy webbased solution manage workflow streamline collaborative process It use drag drop interface allow user build web form PerfectForms API allow third party application pass data PerfectForms extract data They query modify accountwide data programmatically invisibly common us API create new form instance populate field data update exist form field delete form instance reading data exist form instance PerfectForms three different API type Account API Query modify accountwide data Form API Query modify formspecific data Each publish form dedicate service read data write data PerfectForms form instance Portal API Query userspecific data list viewable form pending notification This enable developer create web portal user log view form report notification API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Office,Notes",
+        "api_name": "Springpad",
+        "id": 14027,
+        "progweb_descr": " Springpad free notebook application allow user make note folder save document link photos file create tasklisks Springpad work either computer via mobile apps allow user save thing surf web Springpad API allow developer access integrate Springpad functionality application Some example API method include search retrieve user information note within user notebook bookmark within notebook list within notebook documentation provide list many method API provide"
+    },
+    {
+        "progweb_cat": "Office,Notes",
+        "api_name": "Ketchup",
+        "id": 14139,
+        "progweb_descr": " Ketchup web application schedule plan take note meeting Ketchup API allow user integrate service application API expose functionality let user list show update delete meeting project agenda item note It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Office,File Sharing",
+        "api_name": "DokDok",
+        "id": 14792,
+        "progweb_descr": " Enables user easily find work share late version email attachment Users verify attachment recent version track change version share others This service replace email cant use send email provide document control share user email inbox"
+    },
+    {
+        "progweb_cat": "Office,Conversions",
+        "api_name": "Pdfcrowd",
+        "id": 15139,
+        "progweb_descr": " API let user create PDF web page raw HTML code Pdfcrowd let user convert web page upload HTML file directly web browser Users also edit HTML document use online WYSIWYG HTML editor export PDF Enhance application PDF generation capability create PDF report invoice etc Instead create PDF directly use familiar markup convert PDF via API API use RESTful protocol response format text"
+    },
+    {
+        "progweb_cat": "Office,Scheduling",
+        "api_name": "Connect2Field",
+        "id": 15171,
+        "progweb_descr": " Connect2Field field service software service business host cloud It allow schedule work staff dispatch work mobile phone API allow send receive client job data feature RESTful interface"
+    },
+    {
+        "progweb_cat": "Office,Presentations",
+        "api_name": "SlideSix",
+        "id": 15297,
+        "progweb_descr": " SlideSix multimedia enable presentation share service let user create unique import presentation material personalize message narrate slide video audio API provide direct access presentation"
+    },
+    {
+        "progweb_cat": "Office,Presentations",
+        "api_name": "authorSTREAM",
+        "id": 15449,
+        "progweb_descr": " authorSTREAM platform share PowerPoint presentation Internet authorSTREAM make easy share PowerPoint slideshows blog websites YouTube even via iPOD authorSTREAM API provide programmatic access authorSTREAM feature service Developers build custom application correspond service available main website authorSTREAM You interact authorSTREAM API use SOAP REST protocol"
+    }
+]

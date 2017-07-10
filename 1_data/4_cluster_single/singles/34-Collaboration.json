@@ -1,0 +1,206 @@
+[
+    {
+        "progweb_cat": "Collaboration,Contacts",
+        "api_name": "Resgrid",
+        "id": 627,
+        "progweb_descr": " Resgrid cloud management logistics platform build specifically first responder team They offer mobile apps track real time status phone responder well location unit field tool make specifically volunteer search rescue fire disaster response organization Resgrid expose core API user may integrate Resgrid service 3rd party application Developers make GET PUT POST HTTP request input receive JSONformatted information regard user station setting personnel general account management HTTP Authentication use individual token User System"
+    },
+    {
+        "progweb_cat": "Collaboration,API",
+        "api_name": "Redbooth",
+        "id": 1257,
+        "progweb_descr": " Redbooth collaboration communication platform publicly available API follow key feature 1 OAuth support 2 Flat structure input output 3 Supports pagination partial response enhance performance 4 Specific error report 5 Developer portal full documentation test console 6 Code snippet quickstart developer"
+    },
+    {
+        "progweb_cat": "Collaboration,Backend-as-a-Service",
+        "api_name": "Convergence",
+        "id": 1702,
+        "progweb_descr": " Convergence API provide developer programmatic access method building realtime multiuser application This include method handle share mutable data user presence collaboration awareness chat Developers create application user see else online theyre well share cursor pointer viewports Convergence Labs currently look developer interested join private alpha"
+    },
+    {
+        "progweb_cat": "Collaboration,Enterprise",
+        "api_name": "Symphony",
+        "id": 2124,
+        "progweb_descr": " Symphony REST API allow developer access integrate functionality Symphony application With API developer create application bot webhooks base various functionality Symphony Public documentation available interested developer sign httpssymphonycomdevelopers Symphony cloudbased secure communication platform company"
+    },
+    {
+        "progweb_cat": "Collaboration,Business",
+        "api_name": "Outwork",
+        "id": 2222,
+        "progweb_descr": " Outwork REST API allow developer access integrate functionality Outwork application websites Some example API method include allow people organization apply partnership company website register partner directly website Outwork partnership management service"
+    },
+    {
+        "progweb_cat": "Collaboration,Business",
+        "api_name": "Unified Communications Web",
+        "id": 6808,
+        "progweb_descr": " Microsofts Unified Communication Web API UCWA REST API allow developer modify Enterprise application use Lync Server 2013s Instant Messaging Presence capability API enable developer add function like anonymous web chat multiparty instant message schedule online meeting API also support crossplatform communication across browser device It use language platform Data transfer JSON XML Using API require user Lync premise"
+    },
+    {
+        "progweb_cat": "Collaboration,Application Development",
+        "api_name": "Qiita",
+        "id": 2776,
+        "progweb_descr": " Qiita offer integration collaboration share platform This platform feature share search article fee comment notification chat Qiita API use OAuth 2 authentication JSON data exchange Increments Japan base software development firm offer Qiita QiitaTeam Kobito"
+    },
+    {
+        "progweb_cat": "Collaboration,Application Development",
+        "api_name": "GenMyModel",
+        "id": 6534,
+        "progweb_descr": " GenMyModel use create Unified Language Modeling UML diagram flowchart use software architecture design team collaboration environment GenMyModel API allow programmatic access GenMyModel user function Accessible HTTP GET DELETE POST call make return user information return project detail execute project command return project command history return project tag data"
+    },
+    {
+        "progweb_cat": "Collaboration,Application Development",
+        "api_name": "Hookflash",
+        "id": 6800,
+        "progweb_descr": " Hookflash mobile communication platform allow user add realtime communication RTC function application service provide include text messaging realtime video video call SDKs provide building Android iOS apps Hookflash also provide free developer sandbox test develop apps"
+    },
+    {
+        "progweb_cat": "Collaboration,Application Development",
+        "api_name": "Gnome",
+        "id": 11131,
+        "progweb_descr": " Gnome free software development community software free download modify redistribute Gnome API provide accessibility framework toolkit API assistive technology service provider interface service provide extensive collection library interact manipulate data Gnome"
+    },
+    {
+        "progweb_cat": "Collaboration,Project Management",
+        "api_name": "Basecamp 3",
+        "id": 3368,
+        "progweb_descr": " Basecamp 3 API allow developer interact share online work space programmatically A Basecamp secure private online work space provide people work together hub task discussion deadline file etc A new separate Basecamp create project initiative keep work organize"
+    },
+    {
+        "progweb_cat": "Collaboration,Project Management",
+        "api_name": "Deskdoo",
+        "id": 5338,
+        "progweb_descr": " Deskdoo REST API allow developer access integrate functionality Deskdoo application Public documentation available API access come account service Deskdoo cloudbased employee collaboration platform team communicate collaborate"
+    },
+    {
+        "progweb_cat": "Collaboration,Data",
+        "api_name": "Wide Engine",
+        "id": 3376,
+        "progweb_descr": " Wide Engine API comprehensive set web service let add intelligent idea management feature enterprise grade exist new application JSON available request response format OAuth 2 authentication method Innovation create value idea"
+    },
+    {
+        "progweb_cat": "Collaboration,Cloud",
+        "api_name": "Apcera",
+        "id": 4317,
+        "progweb_descr": " Apcera API offer Infrastructureasaservice company name intend specialize microservices creation maintenance delivery across multiple cloud network REST API aim access aid cloud workload management policy enforcement"
+    },
+    {
+        "progweb_cat": "Collaboration,Cloud",
+        "api_name": "Circuit",
+        "id": 5049,
+        "progweb_descr": " Circuit API allow extensive business collaboration integration use system ERP CRM Circuit collaboration tool bring voice video screen share file share message single view Please register httpsdeveloperscircuitcom see extensive API documentation YouTube videos blog post"
+    },
+    {
+        "progweb_cat": "Collaboration,Browsers",
+        "api_name": "Guru",
+        "id": 5144,
+        "progweb_descr": " Guru REST API allow developer access integrate functionality Guru application Public documentation available API access come account sign Guru team collaboration solution tool come form Chrome browser extension connects web application already use"
+    },
+    {
+        "progweb_cat": "Collaboration,Email",
+        "api_name": "Knotable",
+        "id": 5268,
+        "progweb_descr": " Knotable REST API allow developer access integrate functionality Knotable application main API method create Knotable notepad Knotable application allow team work together collaborate without email meeting"
+    },
+    {
+        "progweb_cat": "Collaboration,Email",
+        "api_name": "Zimbra Email Template",
+        "id": 6412,
+        "progweb_descr": " Zimbra secure collaboration service design increase productivity It include feature secure file share email social network use Users access Zimbra location device Zimbra open platform high availability flexible deployment option Zimbras Email Template API allow user interact platform email template"
+    },
+    {
+        "progweb_cat": "Collaboration,Accounts",
+        "api_name": "Atlassian Confluence SPM",
+        "id": 5474,
+        "progweb_descr": " This API allow manage Confluence account apps remotely without need loggedin via browser Use API create new apps enable manage alert access metric report Use Confluence SPM require API Key account would like manage See API documentation detail information endpoint instruction get start Confluence SPM"
+    },
+    {
+        "progweb_cat": "Collaboration",
+        "api_name": "GitHub Repository Collaborators",
+        "id": 5745,
+        "progweb_descr": " GitHub Repository Collaborators API allow developer access manage list collaborator access repository With API developer also ability check user collaborator add user collaborator remove user collaborator GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Collaboration",
+        "api_name": "Sugarbox",
+        "id": 7125,
+        "progweb_descr": " Sugarbox provide button enable realtime collaboration anything web Users collaborate use web browser work complex web apps You coordinate travel plan get realtime programming help record anything Sugarbox API enable customization Sugarbox experience require server backend cod"
+    },
+    {
+        "progweb_cat": "Collaboration",
+        "api_name": "Calameo",
+        "id": 15503,
+        "progweb_descr": " Calamï¿½o program let user upload document many major format create interactive web publication API use either RESTful interface deprecate SOAP interface allow user integrate publishing advanced feature application To access API user must upgrade premium account"
+    },
+    {
+        "progweb_cat": "Collaboration,Addresses",
+        "api_name": "Zimbra REST",
+        "id": 6011,
+        "progweb_descr": " Zimbra REST API allow developer access function provide Zimbras collaboration platform programmatically via REST call Zimbra secure open source collaboration platform provide service handle email address book calendar filesharing task It access anywhere device offer high availability"
+    },
+    {
+        "progweb_cat": "Collaboration,Monitoring",
+        "api_name": "Bugify",
+        "id": 6122,
+        "progweb_descr": " Developed Frondiz Bugify simple issue track service integrates development team source control system make useful bugtracking tool Bugify offer additional feature email desktop notification label projectwide searchability quick software update history track issue link project milestone Bugify API also extend service external third party application Each API call perform peruser authentication method call GET POST method retrieve edit information regard issue milestone user project data"
+    },
+    {
+        "progweb_cat": "Collaboration,Video",
+        "api_name": "newrow Global Backend",
+        "id": 6268,
+        "progweb_descr": " New Row Global Backend REST API make call HTTP require API Key provide New Row authentication Currently SSL mechanism implement Use New Row API embed New Row Meeting Pro website andor automate configuration activation New Row Meeting Pro wwwwatchitoocom With Global Backend API developer conduct webinars create group user manage New Row service license collect various statistic regard meeting license See API home page extensive documentation code examples help get start"
+    },
+    {
+        "progweb_cat": "Collaboration,Blogging",
+        "api_name": "Zimbra In-Process",
+        "id": 6414,
+        "progweb_descr": " Zimbra secure collaboration service design increase productivity It include feature secure file share email social network use Users access Zimbra location device Zimbra open platform high availability flexible deployment option Zimbras InProcess API allow user interact variety platform feature relate blog content user group forum"
+    },
+    {
+        "progweb_cat": "Collaboration,Social",
+        "api_name": "Zimbra JavaScript",
+        "id": 6415,
+        "progweb_descr": " Zimbra secure collaboration service design increase productivity It include feature secure file share email social network use Users access Zimbra location device Zimbra open platform high availability flexible deployment option Zimbras JavaScript API allow user access platform client message composer plugins JavaScript API modules jQuery event jQuery plugins UI component"
+    },
+    {
+        "progweb_cat": "Collaboration,Audio",
+        "api_name": "Sococo",
+        "id": 6693,
+        "progweb_descr": " Sococo office collaboration network platform incorporate private chat digital conference room group message voice conferencing Sococo also enable screensharing filesharing This internal business productivity tool implement 3rd party application Sococo RESTful API Parameters send receive message generate API token connect real time Sococos server utilize API"
+    },
+    {
+        "progweb_cat": "Collaboration,Annotations",
+        "api_name": "Moxtra",
+        "id": 6948,
+        "progweb_descr": " Moxtra platform contextual communication collaboration It provide suite messaging service include chat voice communication screensharing custom notification Users pull multimedia content cloud people theyre converse see annotate Content conversation automatically store categorized topic binder Moxtra API enable user access content use HTTP call"
+    },
+    {
+        "progweb_cat": "Collaboration,B2B",
+        "api_name": "Communifire Social Intranet",
+        "id": 6968,
+        "progweb_descr": " Axero software company aim improve user collaboration feature Communifire API service offer social network social intranet customer community To start application creation developer enable REST support access API key Following access sample C diverse method user space article blog event forum With API collaboration user could create application increase employee user performance collaborative work environment To get familiar Communifire site display guide videos docs support Wiki index section"
+    },
+    {
+        "progweb_cat": "Collaboration,Goals",
+        "api_name": "daPulse",
+        "id": 7354,
+        "progweb_descr": " daPulse tool improve company transparency It help keep people level organization apprise immediate longterm plan work toward together A Pulse collaborative space people communicate share file develop knowledge base Users easily comment mark share document"
+    },
+    {
+        "progweb_cat": "Collaboration,Customer Relationship Management",
+        "api_name": "Comidor",
+        "id": 7595,
+        "progweb_descr": " Comidor cloud software suite business collaboration project management Comidor API allow developer access integrate functionality Comidor application Public documentation available"
+    },
+    {
+        "progweb_cat": "Collaboration,Customer Service",
+        "api_name": "Firefly",
+        "id": 8891,
+        "progweb_descr": " Firefly provide cobrowsing service allow customer representative connect customer browser show feature fill form Unlike screensharing Fireflys cobrowsing allow representative see whats customer open web page active tab application This make Firefly faster much secure screensharing Fireflys cobrowsing function integrate application via API"
+    },
+    {
+        "progweb_cat": "Collaboration,Documents",
+        "api_name": "crocodoc",
+        "id": 14905,
+        "progweb_descr": " Crocodoc API let developer integrate document viewer markup tool within web application Crocodoc take PDFs Word document PowerPoint presentation let user view mark online Documents share others collaboratively highlight strikeout text add note comment make revision All file store securely server password protect encrypted maximum security API use RESTful protocol response format JSON"
+    }
+]

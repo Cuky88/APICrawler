@@ -1,0 +1,206 @@
+[
+    {
+        "progweb_cat": "Sentiment,Customer Relationship Management",
+        "api_name": "GetSentiment",
+        "id": 694,
+        "progweb_descr": " GetSentiment REST API allow developer access integrate functionality GetSentiment applications Some example API method include retrieve customer feedback analysis manage customer relationship retrieve social medium analysis marketing research API perform keyword extraction topical categorization aspectbased sentiment analysis text API customize user via selfservice interface suit specific industry project use case GetSentiment text analysis tool provide brand company insight customer feedback"
+    },
+    {
+        "progweb_cat": "Sentiment,Semantics",
+        "api_name": "OpinionCrawl Sentiment Analysis",
+        "id": 811,
+        "progweb_descr": " OpinionCrawl Sentiment API allow client application assess sentiment Web page piece text blog comment API deploy compute cloud OpinionCrawlcom example site use API It allow visitor assess Web sentiment subject person event company product Users enter subject get sentiment assessment topic pie chart express current realtime sentiment list late news headline recent thumbnail image tag cloud key semantic concept public associate subject return Semantic Engines LLC develop product field information search retrieval text mining semantic analysis sentiment analysis contextual advertising Users contact developer inquire trial API Public documentation available API page"
+    },
+    {
+        "progweb_cat": "Sentiment,Financial",
+        "api_name": "Intrinio TipRanks News Sentiment",
+        "id": 1596,
+        "progweb_descr": " Intrinio TipRanks News Sentiment API allow developer get late news sentiment stock access historic data back test This data feed combine volume discussion regard stock number bullish bearish article regard stock provide investor useful insight This API return data either JSON CSV format"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "iFeed",
+        "id": 1731,
+        "progweb_descr": " Infotrie FinSentS proprietary platform provide algorithmic analytical content track solution include iFeed API Developers use iFeed API integrate sentiment track capability application API provide access news sentiment data broad scope content include 50000 listed unlisted stock forex market commodity trade trend topic people among others It allow user access select data daily time series index stretch 17 year API send request JSON format return responses JSON CSV XML FTP format"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Sentiment",
+        "id": 1938,
+        "progweb_descr": " SentiSum Sentiment REST API allow developer access integrate data normalization functionality SentiSum application Public documentation available API access come account service SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Feature Similarity",
+        "id": 1984,
+        "progweb_descr": " SentiSum Feature Similarity REST API allow developer access integrate data normalization functionality SentiSum application Public documentation available API access come account service SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum ZenDesk Pull",
+        "id": 1985,
+        "progweb_descr": " SentiSum ZenDesk Pull REST API allow developer access integrate data ingestion functionality SentiSum Public documentation available API access come account service main API method integrate ZenDesk SentiSum SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum DB Connector",
+        "id": 1986,
+        "progweb_descr": " SentiSum DB Connector REST API allow developer access integrate data ingestion functionality SentiSum application Public documentation available API access come account service main API method connect separate data source SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Feature Extraction",
+        "id": 1987,
+        "progweb_descr": " SentiSum Feature Extraction REST API allow developer access integrate data normalization functionality SentiSum application Public documentation available API access come account service API allow user answer question feature customer satisfaction SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Category Configuration",
+        "id": 1988,
+        "progweb_descr": " SentiSum Category Configuration REST API allow developer access integrate data normalization functionality SentiSum application Public documentation available API access come account service SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum DataStream",
+        "id": 1989,
+        "progweb_descr": " SentiSum Data Stream REST API allow developer access integrate data ingestion functionality SentiSum application Public documentation available API access come account service main API method pool data data source stream SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Classification",
+        "id": 1990,
+        "progweb_descr": " SentiSum Classification REST API allow developer access integrate data normalization functionality SentiSum application Public documentation available API access come account service SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Review Summary",
+        "id": 1991,
+        "progweb_descr": " SentiSum Review Summary REST API allow developer access integrate insight functionality SentiSum application Public documentation available API access come account service This API summarize data data summary various factor SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Top Emotion Comments",
+        "id": 1992,
+        "progweb_descr": " SentiSum Top Emotion Comments REST API allow developer access integrate insight functionality SentiSum application Public documentation available API access come account service This API allow user know top emotion comment SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Top Negative Comments",
+        "id": 1993,
+        "progweb_descr": " SentiSum Top Negative Comments REST API allow developer access integrate insight functionality SentiSum application Public documentation available API access come account service This API allow user know top negative comment SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Top Positive Comments",
+        "id": 1994,
+        "progweb_descr": " SentiSum Top Positive Comments REST API allow developer access integrate insight functionality SentiSum application Public documentation available API access come account service This API allow user know top positive comment SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Category Stats",
+        "id": 1995,
+        "progweb_descr": " SentiSum Category Stats REST API allow developer access integrate data aggregation functionality SentiSum application Public documentation available API access come account service This API allow user know category statistic SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Top Categories",
+        "id": 1996,
+        "progweb_descr": " SentiSum Top Categories REST API allow developer access integrate data aggregation functionality SentiSum application Public documentation available API access come account service This API allow user know top category SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Top Strengths",
+        "id": 1997,
+        "progweb_descr": " SentiSum Top Strengths REST API allow developer access integrate data aggregation functionality SentiSum application Public documentation available API access come account service This API allow user know top strength SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Top Features",
+        "id": 1998,
+        "progweb_descr": " SentiSum Top Features REST API allow developer access integrate data aggregation functionality SentiSum application Public documentation available API access come account service This API allow user know top feature SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Top Pain Points",
+        "id": 1999,
+        "progweb_descr": " SentiSum Top Pain Points REST API allow developer access integrate data aggregation functionality SentiSum application Public documentation available API access come account service This API allow user know top pain point SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SentiSum Emotion",
+        "id": 2000,
+        "progweb_descr": " SentiSum Emotion REST API allow developer access integrate data normalization functionality SentiSum application Public documentation available API access come account service SentiSum provide insight customer opinion sentiment analysis artificial intelligence big data analysis"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "Sentity Advanced Text Analytics",
+        "id": 5250,
+        "progweb_descr": " Sentity Advanced Analytics API aim analyze sentiment short message comment determine language part speech context individual word sentence API allow developer pull information contain unstructured text survey responses tweet comment blogFacebook post article"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "AlchemyAPI Sentiment Analysis",
+        "id": 5651,
+        "progweb_descr": " AlchemyAPI Sentiment Analysis API extract positive negative sentiment post webbased content This API extract text sentiment cleaning target web content remove ad navigation link unnecessary content Requests JSON response JSON RDF XML Authentication unique private API Key AlchemyAPI data mining platform It provide set semantic analysis capability natural language processing field Customers able perform social medium monitor target advertisement track sentiment medium automate content aggregation recommendation"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "SemantAPI.Robot",
+        "id": 6785,
+        "progweb_descr": " With SemantAPI user compare sentiment analysis APIs SemantAPI Robot allow compare sentiment multiple engine Specifically API use sentiment score use facilitate analysis precision sentiment polarity categorize positive negative neutral This API sentiment analysis principal value application aim save time evaluate sentiment APIs"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "Vivek Sentiment Tool",
+        "id": 6811,
+        "progweb_descr": " Vivek Narayanan propose fast accurate sentiment classification use enhanced Naive Bayes model along author Ishan Arora Arjun Bhatia paper retrieve online department computation language Cornell University Library Along article Vivek develop Vivek Sentiment Tool API could useful access sentiment classification This application sentiment analysis Developers work sentiment research could benefit work To use user need send POST request JSON array httpsentimentvivekncomapibatch"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "Senfluence Sentiment & Influence",
+        "id": 7039,
+        "progweb_descr": " Senfluence form 2 word sentiment influence goal API understand sentiment analyze popularity websites 13 language When user redirect get demo link first see benefit include obtain sentiment analysis base positive negative neutral feedback score document base keywords Other us API consist add score developer tool analyze non social medium web document This API support JSON format In site developer find API key API syntax JSONand API response"
+    },
+    {
+        "progweb_cat": "Sentiment,Analytics",
+        "api_name": "Sentigem Sentiment Analysis",
+        "id": 7107,
+        "progweb_descr": " Sentigem tool analyze Englishlanguage document plain text order determine sentiment It analyze texts ten thousand character long second Sentigem Sentiment Analysis API allow user access Sentigems function via REST call Sentigem currently public Beta"
+    },
+    {
+        "progweb_cat": "Sentiment",
+        "api_name": "IBM Watson Emotion Analysis",
+        "id": 4016,
+        "progweb_descr": " IBM Watson Emotion Analysis REST API allow developer access integrate functionality IBM Watson Emotion Analysis applications Some example API method include retrieve emotion analysis analyze emotion retrieve result IBM Watson Emotion Analysis tool use linguistic analytics measure emotion text"
+    },
+    {
+        "progweb_cat": "Sentiment,Languages",
+        "api_name": "Dandelion Sentiment Analysis",
+        "id": 5365,
+        "progweb_descr": " Sentiment Analysis API tell whether expressed opinion short text positive negative neutral Given short sentence currently English Italian support return label represent identified sentiment along numeric score range strongly positive 10 extremely negative 10 Its one available semantic text APIs publish dandelioneu call Dandelion API"
+    },
+    {
+        "progweb_cat": "Sentiment,Language",
+        "api_name": "Babelfly",
+        "id": 5559,
+        "progweb_descr": " Babelfly API HTTP Java provide developer access functionality Babelfly integration websites application main API method disambiguate text uploading text retrieve disambiguation result Babelfly multilingual text disambiguation service provide sentiment disambiguation text"
+    },
+    {
+        "progweb_cat": "Sentiment,Tweets",
+        "api_name": "Hedonometer",
+        "id": 6911,
+        "progweb_descr": " Hedonometer service measure happiness large population real time use social medium Its primary data source currently Twitter although could expand future Hedonometer API allow researcher developer programmatically retrieve data Hedonometer Data take Twitter updated daily basis"
+    },
+    {
+        "progweb_cat": "Sentiment,Natural Language Processing",
+        "api_name": "HPE Haven OnDemand Sentiment Analysis",
+        "id": 7332,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Sentiment Analysis API accepts scan text file return either positive neutral negative sentiment It compare content library specific word evoke negative emotion recognize phrase indicative emotional bias"
+    },
+    {
+        "progweb_cat": "Sentiment,Algorithms",
+        "api_name": "SentiRate",
+        "id": 13464,
+        "progweb_descr": " us practically unlimited"
+    }
+]

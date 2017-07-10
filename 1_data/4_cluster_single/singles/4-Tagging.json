@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Tagging,Analytics",
+        "api_name": "Thomson Reuters Open Calais",
+        "id": 212,
+        "progweb_descr": " Thomson Reuters Open Calais API Intelligent Tagging API provide developer way take unstructured text eg News document Research report etc extract aboutness machinereadable XMLRDF format Metadata disambiguate resolvedlinked Thomson Reuters professional financial data ecosystem"
+    },
+    {
+        "progweb_cat": "Tagging,Machine Learning",
+        "api_name": "Open PermID Open Calais Tagging",
+        "id": 5069,
+        "progweb_descr": " Open Calais Thomson Reuters attach intelligent metadata unstructured content enable text analytics Calais natural language processing engine automatically analyze tag input file way consume application easily pinpoint relevant data effectively leverage invaluable intelligence insight contain within text Thomson Reuters Open Calais offer content creator way tag people place company facts event increase conent value accessibility interoperability"
+    },
+    {
+        "progweb_cat": "Tagging,Marketing",
+        "api_name": "Tealium",
+        "id": 5786,
+        "progweb_descr": " Tealium API allow developer access integrate functionality Tealium applications Some example API method include manage tag manage user account track event Tealium tag digital content management platform social marketing eCommerce"
+    },
+    {
+        "progweb_cat": "Tagging,Advertising",
+        "api_name": "Google Tag Manager",
+        "id": 6707,
+        "progweb_descr": " Using Google Tag Manager developer conveniently manage tag website Using track JavaScript tags increase market optimization Using Google Tag Manager rather edit site code AdWords Google Analytics Floodlight nonGoogle tag add updated easy user interface This process free web developer dependence webmaster reduces error allow one quickly deploy tag site"
+    }
+]

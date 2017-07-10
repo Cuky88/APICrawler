@@ -1,0 +1,140 @@
+[
+    {
+        "progweb_cat": "Identity,Business",
+        "api_name": "Pipl",
+        "id": 954,
+        "progweb_descr": " Pipl people data company make easy anyone get contact social demographic professional information people Pipls People Data API allow use information person name address age email phone username get complete structure profile base everything Pipl find web cache At Pipl ’ core proprietary identity resolution engine combine 10 billion record million online offline source create dynamic searchable index people profile information find use datapoints like social handle email address mobile phone number Pipl ’ data People Data API use everything contact enrichment marketing compliance identity verification"
+    },
+    {
+        "progweb_cat": "Identity,Business",
+        "api_name": "Intelinyze",
+        "id": 3186,
+        "progweb_descr": " Intelinyze API provide business individual customer identification tool This API determine validity risk person business behind phone number Additionally service ass Email address determine risk involve IP Intelinyze API use API Keys authentication respond JSON format"
+    },
+    {
+        "progweb_cat": "Identity,Authentication",
+        "api_name": "Yoti",
+        "id": 1401,
+        "progweb_descr": " Yoti identity system reduce fraud improve customer experience online platform face face interaction Yoti system use verify customer login information without password integrate identity check person age check API exchange information JSON format Token decryption handle directly API"
+    },
+    {
+        "progweb_cat": "Identity,Authentication",
+        "api_name": "Persistent Oracle Identity Governance",
+        "id": 2274,
+        "progweb_descr": " Persistent Oracle Identity Governance API integrate identity authentication application use REST endpoint JSON format available implement identity audit roles user password management"
+    },
+    {
+        "progweb_cat": "Identity,Authentication",
+        "api_name": "Acuant Web Services",
+        "id": 3072,
+        "progweb_descr": " Web Services API offer document processing autopopulate information application Acuant Los Angeles base identity solution provider Automotive eCommerce healthcare type application may take advantage identity verification integrate Acuant"
+    },
+    {
+        "progweb_cat": "Identity,Authentication",
+        "api_name": "Amazon Cognito Identity",
+        "id": 3123,
+        "progweb_descr": " Amazon Cognito Identity API integrate temporary identity authentication third party provider Facebook Google It aim helpful login Amazon Available HTTP JSON responses token auth Actions permit create identity obtain credential merge developer identity"
+    },
+    {
+        "progweb_cat": "Identity,Authentication",
+        "api_name": "Orange Identity",
+        "id": 5681,
+        "progweb_descr": " Orange Identity API let developer authenticate customer enable manage secure identity user This API REST base Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Identity,Authentication",
+        "api_name": "Google Identity Toolkit",
+        "id": 5935,
+        "progweb_descr": " Google Identity Toolkit API allow developer create apps website support user authentication via Google Facebook Yahoo Microsoft Paypal AOL toolkit include UI element handle basic login flow account link email change password change result login flow unify user object represent authenticate user allow begin signedin session"
+    },
+    {
+        "progweb_cat": "Identity,Authentication",
+        "api_name": "IDology",
+        "id": 6293,
+        "progweb_descr": " IDology identity age verification tool IDology provide service offer Web Portal direct Mobile Access API enable identity verification solution integrate exist 3rd party application Batch functionality also exist programmatically running verification check large amount uploaded file IDology offer roundtheclock customer support product"
+    },
+    {
+        "progweb_cat": "Identity,Application Development",
+        "api_name": "OneLogin SAML",
+        "id": 1686,
+        "progweb_descr": " This API Security Assertion Markup Language SAML standard log user application base session another context This single signon SSO login standard advantage log use usernamepassword OneLogin Identity Access Management IAM provider enterprise cloud legacy hybrid IT environment"
+    },
+    {
+        "progweb_cat": "Identity,Accessibility",
+        "api_name": "Centrify",
+        "id": 2273,
+        "progweb_descr": " Centrify API integrate identity verification feature user application It available JSON format job flow radius SaaS management API reference Products aim prevent cyberthreats find cloud mobile onpremises"
+    },
+    {
+        "progweb_cat": "Identity,Accessibility",
+        "api_name": "NetIQ",
+        "id": 3086,
+        "progweb_descr": " NetIQ API integrate identity verification user authentication application It available REST architecture JSON protocols NetIQ provide security identity asset management software enterprises organization"
+    },
+    {
+        "progweb_cat": "Identity,Accessibility",
+        "api_name": "Fingerbank",
+        "id": 6597,
+        "progweb_descr": " Fingerbank service determines type device connect network It expose device MAC unique identifier address analyze order DHCP command determine device operate system This type information utilized Network Access Control administrator want target content specialize device ignore feature certain device use data web visitor analytics Visitors site may either query fingerprint database download database SQL database implement Fingerbank API make call directly application Users may register API access Fingerbank GitHub account"
+    },
+    {
+        "progweb_cat": "Identity,Customization",
+        "api_name": "IdentityServer",
+        "id": 2286,
+        "progweb_descr": " IdentityServer API integrate authentication service provide cryptography API Keys HTTPS access web data Presented framework independent developer IdentityServer help developer integrate federation gateway authorization customization"
+    },
+    {
+        "progweb_cat": "Identity,Analytics",
+        "api_name": "Inversoft Passport",
+        "id": 3329,
+        "progweb_descr": " Passport API offer user database provide feature easy login registration single signon authentication security This API offer full roll base authorization well full localization COPPA compliance activity report password management API Keys need authentication JSON use data exchange Inversoft provide solution moderate online community user generate content"
+    },
+    {
+        "progweb_cat": "Identity,Electronic Signature",
+        "api_name": "IDnow",
+        "id": 3552,
+        "progweb_descr": " IDnow authentication platform dedicate bank financial service offer proprietary VideoIdentification technology eSign This platform offer client conversion optimization automatic image improvement global support VideoIdentification function accordance GwG Federal Financial Supervisory Authority Germany IDnow API use JSON XML responses offer webhook support"
+    },
+    {
+        "progweb_cat": "Identity,Community",
+        "api_name": "Identity.com",
+        "id": 3624,
+        "progweb_descr": " Identitycom API verifies identities user sign marketplace online community Developers integrate client side JavaScript SDK server side HTTP GET request use OAuth 2 authenticate"
+    },
+    {
+        "progweb_cat": "Identity,Authorization",
+        "api_name": "Family Watchdog Sex Offender",
+        "id": 3836,
+        "progweb_descr": " Family Watchdog API allow integrate name location search sex offender via JSON XML format Family Watchdog cover 50 state United States include Guam Puerto Rico Virgin Islands API accessible Key"
+    },
+    {
+        "progweb_cat": "Identity,API",
+        "api_name": "10Duke Identity Provider",
+        "id": 4380,
+        "progweb_descr": " 10Duke Identity Provider API enable user web service variety web service access cloud corporate application use single identity This provide business organization ability offer internal external user single point access able access variety online service use credential This Single Sign On SSO facility extend variety actor include public customer business partner application middleware component enable SSO consumer well organization 10Duke Identity Provider API deploy lead technology consumer brand worldwide You test 10Duke Identity Provider access demo httpsdeveloper10dukecomidentitytryItjsp"
+    },
+    {
+        "progweb_cat": "Identity,Accounts",
+        "api_name": "Cirrus Identity",
+        "id": 4897,
+        "progweb_descr": " Cirrus Identity REST API allow developer access integrate functionality Cirrus Identity application Public documentation available API access come account service Cirrus Identity provide online account link service log multiple account one identity"
+    },
+    {
+        "progweb_cat": "Identity,Dating",
+        "api_name": "IAmReal Social Validation",
+        "id": 5280,
+        "progweb_descr": " IAmReal Social Validation API allow developer integrate application Social Validation service provide I Am Real enable authenticate user use Facebook profile I Am Real enables websites application content provider verify user online profile"
+    },
+    {
+        "progweb_cat": "Identity,API Design",
+        "api_name": "Auth0",
+        "id": 5375,
+        "progweb_descr": " Auth0 identity developer It aim simplify API authentication authorization work account dashboard With Key user interact documentation format JSON API reference include client connection device credential rule user blacklist email job stats ticket Support available Auth0 community email chat"
+    },
+    {
+        "progweb_cat": "Identity,Bitcoin",
+        "api_name": "Onename",
+        "id": 5390,
+        "progweb_descr": " Onename offer identity passcards browse web receive bitcoin Bitcoin send user whove display passcard Twitter embed blog link email signature Users share contact info privately use stealth address private payment Search register user API Onename invite user obtain personal page goal share private contact information either private chat private payment Sign API account start integration It require App ID Shared Secret authenticate"
+    }
+]

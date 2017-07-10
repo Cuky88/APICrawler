@@ -1,0 +1,170 @@
+[
+    {
+        "progweb_cat": "Library,Catalogs",
+        "api_name": "Biblio Commons",
+        "id": 599,
+        "progweb_descr": " Biblio Commons social virtual library help user integrate Biblio Commons data website mobile application core Biblio Commons promote discovery search borrowing integrated manner This API particularly useful developer work library interested replace traditional functionality library set interactive experience user might find convenient API integration data collection social interactive place Some feature API include record synchronization easy configuration uniform integration Biblio Commons API support REST feature Right developer send HTTPS request receive JSON object Developers find complete list URL structure authentication resource"
+    },
+    {
+        "progweb_cat": "Library,Catalogs",
+        "api_name": "OCLC WorldCat Discovery",
+        "id": 6674,
+        "progweb_descr": " WorldCat Discovery API allow developer link collection data WorldCat database By integrate API library able expose collection others web locally Currently API available select library"
+    },
+    {
+        "progweb_cat": "Library,Books",
+        "api_name": "Open Library Read",
+        "id": 2490,
+        "progweb_descr": " This API allow turn book identifier information ISBN LCCN etc direct link Open Librarys onlinereadable borrowable book Open Library lending program Returned item may include readable match different edition work information Data API include Open Library data book It use request information one book use library identifier ISBNs OCLC Numbers LCCNs OLIDs Open Library Identifiers Requests make format single multiple Open Library develop suite APIs help developer get run provide reference data They lend ebooks worldwide two million free ebooks available 250000 lending library web page every book"
+    },
+    {
+        "progweb_cat": "Library,Books",
+        "api_name": "Open Library Subjects",
+        "id": 2944,
+        "progweb_descr": " This API return Open Library data detail subject When query parameter detailstrue pass related subject prominent publisher prolific author publish history also include response Open Library develop suite APIs help developer get run provide reference data They lend ebooks worldwide two million free ebooks available 250000 lending library web page every book"
+    },
+    {
+        "progweb_cat": "Library,Books",
+        "api_name": "Open Library Search",
+        "id": 2945,
+        "progweb_descr": " This API provide Open Library allow search library data Open Library develop suite APIs help developer get run provide reference data They lend ebooks worldwide two million free ebooks available 250000 lending library web page every book"
+    },
+    {
+        "progweb_cat": "Library,Books",
+        "api_name": "Open Library Lists",
+        "id": 2950,
+        "progweb_descr": " This beta Open Library list API still development It return user list create list read list update list Open Library develop suite APIs help developer get run provide reference data They lend ebooks worldwide two million free ebooks available 250000 lending library web page every book"
+    },
+    {
+        "progweb_cat": "Library,Books",
+        "api_name": "Open Library History",
+        "id": 2952,
+        "progweb_descr": " This Rest API allow change history Open Library object access pass mhistory query parameter resource url Open Library develop suite APIs help developer get run provide reference data They lend ebooks worldwide two million free ebooks available 250000 lending library web page every book"
+    },
+    {
+        "progweb_cat": "Library,Books",
+        "api_name": "Open Library Query",
+        "id": 2953,
+        "progweb_descr": " This Rest API allow query Open Library system match object Open Library develop suite APIs help developer get run provide reference data They lend ebooks worldwide two million free ebooks available 250000 lending library web page every book"
+    },
+    {
+        "progweb_cat": "Library,Books",
+        "api_name": "Open Library Content",
+        "id": 2954,
+        "progweb_descr": " This Rest API provide way access resource multiple format Open Library To request content request format specify use Accept header part URL currently available format JSON RDF Open Library develop suite APIs help developer get run provide reference data They lend ebooks worldwide two million free ebooks available 250000 lending library web page every book"
+    },
+    {
+        "progweb_cat": "Library,Books",
+        "api_name": "Open Collections",
+        "id": 3834,
+        "progweb_descr": " University British Columbia Open Collections library contain 200000 item digital photo book newspaper map videos thesis Open Collections API UBC allow run query perform advanced analysis build custom view apps widget full access metadata transcript Protocols available JSON JSONLD RDF XML Access API Key"
+    },
+    {
+        "progweb_cat": "Library,Books",
+        "api_name": "ExLibris Primo",
+        "id": 6247,
+        "progweb_descr": " ExLibris Primo API allow developer access integrate functionality information ExLibris Primo application main API method make call retrieve information Primo ExLibris Primo access information retrieval system libraries Libraries use ExLibris Primo provide user access library collection"
+    },
+    {
+        "progweb_cat": "Library",
+        "api_name": "Ex Libris Alma",
+        "id": 3783,
+        "progweb_descr": " This Ex Libris Group API XML JSON base It library management service allow consolidate optimize extend range library service It support service operation print electronic digital resource Alma also offer access share global data"
+    },
+    {
+        "progweb_cat": "Library",
+        "api_name": "Ex Libris Voyager",
+        "id": 3786,
+        "progweb_descr": " Build suite interface library patron REST API Voyager allow implement single interface handle fulfillment action exportable resource enable client discovery tool"
+    },
+    {
+        "progweb_cat": "Library",
+        "api_name": "Ex Libris Aleph",
+        "id": 3787,
+        "progweb_descr": " Build suite interface library patron REST API Aleph manage fulfillment action exportable resource enable client discovery tool"
+    },
+    {
+        "progweb_cat": "Library",
+        "api_name": "Skills Library",
+        "id": 3793,
+        "progweb_descr": " This Jquery API use create skill profile This plugin allow retrieve skill data Its Your Skills It catalog 44000 skill include IT Medicine Engineering"
+    },
+    {
+        "progweb_cat": "Library,Framework",
+        "api_name": "Libraries.io",
+        "id": 4090,
+        "progweb_descr": " Librariesio API integrate access open source program library It available JSON format Api Key Along libraries tool frameworks generator templates found language license keyword All resource aim useful software application project"
+    },
+    {
+        "progweb_cat": "Library,German",
+        "api_name": "Patrons Account Information",
+        "id": 4842,
+        "progweb_descr": " Patrons Account Information API PAIA provide GBV provide method look loan reserve item request cancel loan reservation look fee general patron information This service intend facilitate patron access integrate library system All PAIAs source update found public git repository GBV Catalogue give access title 250 library German state Bremen Hamburg MecklenburgVorpommern Niedersachsen SachsenAnhalt SchleswigHolstein Thüringen Foundation Prussian Cultural Heritage"
+    },
+    {
+        "progweb_cat": "Library,Browsers",
+        "api_name": "jQuery",
+        "id": 4986,
+        "progweb_descr": " jQuery JavaScript library aim simplify web design offer API use multiple browser Add manage element event callback API Developers work JSON protocol access API Key Along main API alternative APIs available include jQuery UI jQuery Mobile jQuery Unit"
+    },
+    {
+        "progweb_cat": "Library,Application Development",
+        "api_name": "Boopsie",
+        "id": 5408,
+        "progweb_descr": " Boopsie REST API allow developer access integrate functionality Boopsie application create new application main API method connect application integrate library system ILS retrieve information library material Public documentation available API access come account service Boopsie provide library system integration feature help library create mobile application"
+    },
+    {
+        "progweb_cat": "Library,Aggregation",
+        "api_name": "Serials Solutions Summon Cover Image",
+        "id": 5612,
+        "progweb_descr": " Serials Solutions Summon Cover Image API resolver take URL format return cover image base client preference subscription This API produce image instead aggregate image several different image provider Serials Solutions ProQuest provide solution application product tools library researcher content holder"
+    },
+    {
+        "progweb_cat": "Library,Search",
+        "api_name": "Serials Solutions Summon Search",
+        "id": 5613,
+        "progweb_descr": " Serials Solutions Summon Search API provide developer service expose search capability Summon API HTTPbased service support request via HTTP GET POST method Access API available via authentication key Serials Solutions ProQuest provide solution application product tools library researcher content holder"
+    },
+    {
+        "progweb_cat": "Library,Search",
+        "api_name": "Libscore",
+        "id": 6502,
+        "progweb_descr": " Libscore search tool developer use scan top million site web collect statistic JavaScript library usage Libscore API available use free constraint bulk API call due project little funding non profit As API relatively simple Libscore expect much maintenance require When update occur Libscore plan release version 2 API accepts GET HTTP request return JSON response regard library sit script"
+    },
+    {
+        "progweb_cat": "Library,Availability",
+        "api_name": "Serials Solutions Summon Availability",
+        "id": 5614,
+        "progweb_descr": " Serials Solutions Summon Availability API allow developer request retrieve catalog item availability statuses service also allow batch request This API authenticate service Serials Solutions ProQuest provide solution application product tools library researcher content holder"
+    },
+    {
+        "progweb_cat": "Library,Availability",
+        "api_name": "OverDrive Library Availability",
+        "id": 6519,
+        "progweb_descr": " OverDrive online company provide users way access eBooks electronic material computer mobile device OverDrive Library Availability API allow developer request availability information product title specific library collection API use Oauth authentication data return API access hypermedia link Search API result"
+    },
+    {
+        "progweb_cat": "Library,eBooks",
+        "api_name": "OverDrive Holds",
+        "id": 6511,
+        "progweb_descr": " OverDrive online company provide users way access eBooks electronic material computer mobile device OverDrive Holds API let developer manage place hold specific patron integrating service application API use OAuth authentication"
+    },
+    {
+        "progweb_cat": "Library,eBooks",
+        "api_name": "OverDrive Checkouts",
+        "id": 6512,
+        "progweb_descr": " OverDrive online company provide users way access eBooks electronic material computer mobile device OverDrive Checkouts API provide developer path borrow return check status title integrate service application API use OAuth authentication"
+    },
+    {
+        "progweb_cat": "Library,Extraction",
+        "api_name": "OverDrive Download",
+        "id": 6513,
+        "progweb_descr": " OverDrive online company provide users way access eBooks electronic material computer mobile device OverDrive Download API let developer request ‘ contentLink ’ return different type data depend material download By integrate service application developers way download various information eg available book patron information hold API use OAuth authentication"
+    },
+    {
+        "progweb_cat": "Library,Accessibility",
+        "api_name": "OverDrive Patron Information",
+        "id": 6520,
+        "progweb_descr": " OverDrive online company provide users way access eBooks electronic material computer mobile device OverDrive Patron Information API allow developer request patronspecific information integrate service application API use Token authentication"
+    }
+]

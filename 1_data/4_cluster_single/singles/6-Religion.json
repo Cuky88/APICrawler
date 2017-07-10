@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Religion,Community",
+        "api_name": "Church Community Builder",
+        "id": 3079,
+        "progweb_descr": " This PHP API allow access Church Community Builder free church partner CCBChurch provide church coach web base church management software provide community people vary technical skill level interest come learn share help one another leader around world This include discussion forum additional API documentation tutorial sample code sample project custom solution contribute member community"
+    },
+    {
+        "progweb_cat": "Religion,Content",
+        "api_name": "Digital Bible Platform",
+        "id": 3595,
+        "progweb_descr": " Digital Bible Platform API free service let users access Bible text audio video programmatically Digital Bible Platform large repository Biblical rich content Users access Bible 800 language get premium Bible audio get Bible video design deaf viewer"
+    },
+    {
+        "progweb_cat": "Religion,Non-Profit",
+        "api_name": "Prayer Times",
+        "id": 4313,
+        "progweb_descr": " Prayer Times application build Muslims live nonIslamic country hear adhan azan call prayer 5 time day Prayer Times API JSON format allow user stream prayer announcement Adhan five time day Endpoints support prayer time calendar geolocation information current timestamp"
+    },
+    {
+        "progweb_cat": "Religion,Books",
+        "api_name": "Sefaria Torah Texts",
+        "id": 4451,
+        "progweb_descr": " Sefaria Torah Texts API allow developer access Sefarias structure database Jewish text interconnection order make apps Those interested run database encourage download data GitHub rather use API Sefaria cover Torah broad sense Hebrew translation create edit annotated open community"
+    },
+    {
+        "progweb_cat": "Religion,Directories",
+        "api_name": "LDS",
+        "id": 5534,
+        "progweb_descr": " LDS API allow developer retrieve LDSorgs membership call directory API serve stake call directory stake photo directory ward member call directory ward photo directory well member detail This information return wrap normalized sanitize use 3rdparty apps service LDSorg home page Church Jesus Christ LatterDay Saints Mormon church"
+    },
+    {
+        "progweb_cat": "Religion,Mapping",
+        "api_name": "Territory Helper",
+        "id": 6424,
+        "progweb_descr": " Territory Helper free service help Jehovahs Witnesses design congregation territories Users design create manage graph explore territory application Territory Helper include multilingual support still Beta A live demo available Territory Helper API enable user assign return print view territory application"
+    }
+]

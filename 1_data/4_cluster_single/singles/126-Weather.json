@@ -1,0 +1,758 @@
+[
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "OpenWeatherMap",
+        "id": 138,
+        "progweb_descr": " Open Weather Map provide interactive map current historic weather condition Open Weather Map API allow user retrieve current weather city weather station historical measurement weather station list city andor weather station give rectangle limited geographic coordinate API use RESTful call issue JSON format"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "OpenWeatherMap Air Pollution",
+        "id": 712,
+        "progweb_descr": " Gain access OpenWeatherMaps Carbon Monoxide index location Earth This include location latitude pressure OpenWeatherMap provide open weather data satellite imagery IoT environmental data developer"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "OpenWeatherMap Weather Alerts",
+        "id": 1706,
+        "progweb_descr": " Gain access OpenWeatherMaps simple syntax Weather Alerts method create trigger fire occurrence select weather condition This include temperature humidity pressure OpenWeatherMap provide open weather data satellite imagery IoT environmental data developer"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "OpenWeatherMap Weather Map Layers",
+        "id": 1708,
+        "progweb_descr": " Gain access OpenWeatherMaps many kind weather map use Weather Map Layers API This include Customized weather layer Precipitation Sea level pressure Wind speed OpenWeatherMap provide open weather data satellite imagery IoT environmental data developer"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "OpenWeatherMap Weather Stations",
+        "id": 1709,
+        "progweb_descr": " OpenWeatherMap Weather Stations API allow add set meteorological station use method station management measurement transmissions Some feature include manage personal weather station creation station measurement transfer receive aggregated measurement station OpenWeatherMap provide open weather data satellite imagery IoT environmental data developer"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "OpenWeatherMap Historical",
+        "id": 1710,
+        "progweb_descr": " Gain access hourly historical weather data city historical data weather station use OpenWeatherMap Historical API This allow Call data History Bulk Hourly historical data city OpenWeatherMap provide open weather data satellite imagery IoT environmental data developer"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "OpenWeatherMap Current Weather Data",
+        "id": 1711,
+        "progweb_descr": " Gain access current weather data location Earth include 200000 city use OpenWeatherMap Current Data API This allow Call current weather data several city Weather parameter OpenWeatherMap provide open weather data satellite imagery IoT environmental data developer"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "SkyWise Tiles",
+        "id": 3485,
+        "progweb_descr": " SkyWise Tiles API allow developer embed detailed weather visualization map environment application Embeddable content include radar data satellite data NWS watch warning tropical plot Developers pick choose layer display even combine layer source"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "Iowa Environmental Mesonet RadMap",
+        "id": 8228,
+        "progweb_descr": " Iowa Environmental Mesonet IEM collect make available environmental data network independent member IEM produce several product display data include RadMap API RadMap dynamically generate PNG image base give set HTTP parameter"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "NOAA Historical Observing Metadata Repository",
+        "id": 10238,
+        "progweb_descr": " service provide metadata describe station maintain US National Oceanic Atmospheric Administration NOAA monitor weather condition It provide measurement weather log station rather give station location describe surround environment Location specify twoletter code US state Canadian province latitudelongitude pair Additional condition note include elevation nearby river lakes etc API method support retrieval descriptive metadata weather station either NOAA ID value name date condition assess Methods also retrieve station within specify state country descriptive data record particular date range"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "RadMap",
+        "id": 10887,
+        "progweb_descr": " service provide mapped image US weather condition detect NEXRAD weather radar station Also available GOES imagery create geostationary weather satellite inclusion GIS output local storm report warning watch issue county authority API method support submission query URL parameter specify location desire image size technical specification radar data select Returned data provide link PNG image show recently record radar result illustrate storm cell cloud cover relate weather phenomena Methods allow specification location name place accord list 2010 US Census"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "MyHurricane",
+        "id": 11959,
+        "progweb_descr": " MyHurricane allow user track current past hurricane typhoon MyHurricane API enable user add map track data website mobile application API Javascript free use MyHurricanenet require logo remain widget instal"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "Stormpulse Maps",
+        "id": 12112,
+        "progweb_descr": " Stormpulse Maps provide stormtracking map information subscriber It draw upon information 10000 web address provide detailed uptodate map forecast tropical storm track disturbance model weather phenomenon Stormpulse API allow user embed map show late weather watch warning issue National Weather Service select region city zip code In 2013 Stormpulse launch Riskpulse response customer request deep risk management solution Because Stormpulse history integrate disparate data source track rapidlyshifting factor weather itâ€™s uniquely position develop broad risk information system Learn Riskpulse offering httpriskpulsecomofferings"
+    },
+    {
+        "progweb_cat": "Weather,Mapping",
+        "api_name": "WeatherBug GEO",
+        "id": 15199,
+        "progweb_descr": " Place radar satellite temperature image Google Bing Maps WeatherBug GEO API return image tile format use overlay exist map tile"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Weather Underground (Wunderground)",
+        "id": 145,
+        "progweb_descr": " Weather Underground provide realtime weather information via Internet Weather Underground provide weather report city across world well local weather report newspaper Web sit Weather Underground API allow developer user access data Weather Underground integrate data functionality application They offer variety plan price though use free Some example API method include access weather information city region retrieve forecast information access satellite image current condition location A unique feature API Developer Dashboard Developers great insight usage error real time Over 80 language support API Finally folks Weather Underground come cleaver way allow rate limit overages via tool call Raindrops This give developer cushion avoid denial service error due spike API request"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Yahoo Weather",
+        "id": 146,
+        "progweb_descr": " Yahoo Weather RSS feed enables get uptodate weather information location This data use RSS fee fee reader integrate third party application Weather RSS feed dynamicallygenerated feed base zip code Location ID"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Weather Channel",
+        "id": 225,
+        "progweb_descr": " From site Since 1982 Weather Channel bring timely weather information world Now include weather Weather Channel application sign access XML data feed Well enable search location integrate current condition forecast today tomorrow application free"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "WeatherBug",
+        "id": 226,
+        "progweb_descr": " WeatherBug full source weather provider feature exclusive data network 8000 weather observation station USA API give access live weather condition forecast severe weather warning US zip code"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "NOAA Climate Data Online",
+        "id": 334,
+        "progweb_descr": " service give access accumulate data climate location worldwide emphasis continental United States Data sum condition record annually month day even hourly Available data include recorded temperature normal temperature range heat cool degree day precipitation drought condition API method support retrieval data specify time range annual monthly daily hourly Requests specify dataset location location type report station particular data element return"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Weather Central",
+        "id": 832,
+        "progweb_descr": " Weather Central DataCloud API let programmatically access Weather Centralâ€™s realtime update weather datasets This allow give user mission critical weather information directly web page application via REST API API return value add data imagetile xml format"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "AccuWeather",
+        "id": 1259,
+        "progweb_descr": " AccuWeather provide developer API access weather data Documentation publicly available developer contact Michael Sylvie Business Development Manager developeraccuweathercom"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Earth Networks Sferic",
+        "id": 1779,
+        "progweb_descr": " Earth Networks Sferic API delivers realtime weather information hourly forecast utilizing high accuracy forecast model topnotch weather data This data analytical model delivery API provide By partner Earth Networks youll flexibility use data application analytical model Data request make REST API enable quick easy integration choose wide range option base volume specific need A free 30day trail available"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Amdoren Weather",
+        "id": 2909,
+        "progweb_descr": " Amdoren Weather API allow developer integrate 5day weather forecast websites application Forecasts present simple manner without extra information weather condition determine glance This API provide free charge"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "SkyWise Current & Forecast",
+        "id": 3486,
+        "progweb_descr": " SkyWise Current Forecast API allow developer retrieve current forecast weather information Weather observation update hourly US every three hour globally 10day weather forecast update every 12 hour Forecasts derive combination weather prediction model National Center Environmental Prediction internal model Weather Decision Technologies"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Met.no Weather",
+        "id": 6095,
+        "progweb_descr": " Metno Norwegian Meteorological Institute provide public meteorological service civil military puposes Metno Weather API let developer integrate institute weather information service application enable direct access user application API REST base use HTTP Basic Authentication"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "WeatherTrigger",
+        "id": 7619,
+        "progweb_descr": " WeatherTrigger API allow user retrieve weather information last 7 day current weather 7day forecast Users query data location around world geographic coordinate zip code Up three query include single API call"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "WeerAPI",
+        "id": 7772,
+        "progweb_descr": " WeerAPI unofficial API scrape basic weather data Royal Netherlands Meteorological Institute KNMI WeerAPI delivers data 36 monitoring station Datatypes include temperature humidity wind speed visibility air pressure"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Venstar",
+        "id": 8153,
+        "progweb_descr": " Venstar Inc designer producer light refrigeration HVAC system focus increased technology product include focus Energy Management Internet Control Wireless Products Phone Control Voice Recognition Light Activation IR Remote Control Venstar API utilizes Remote Control Protocol enable WiFi equip thermostat control REST call An account required service"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "IMN",
+        "id": 9738,
+        "progweb_descr": " IMN Instituto MeteorolÃ³gico Nacional scientific body responsible coordination meteorological activity Costa Rica It systematically monitor weather order promote safety air navigation prevent hydrometeorological disaster IMN API provide user programmatic mean get current weather well near longterm forecast city region within Costa Rica website API documentation give Spanish"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Lost Springs Weather",
+        "id": 9964,
+        "progweb_descr": " Lost Springs Ranch locate Texas Hill Country west Austin They provide safe habitat local wildlife propagate native plant especially endemic Central Texas Lost Springs website primarily contain photos information native plant however also provide local weather information service This view directly site user may employ SOAPbased API retrieve weather information either text image"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Radarmatic",
+        "id": 10837,
+        "progweb_descr": " Radarmatic provide JSON data feed represent measure precipitation 200 weather radar station within outside continental United States Radar data come US National Oceanic Atmospheric Administration NOAA aggregate provide data either real time short delay service cache NOAA feed generate JSON output API method support request specify radar reporting station retrieve data represent recent report precipitation Only one station may specify time currently JSON output allow creation image browser recreate condition detect report station Requests also retrieve data radar reading previous current one"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Previmeteo Weather",
+        "id": 11411,
+        "progweb_descr": " Previmeteo weather forecast service site offer local regional forecast weather map satellite image weather dashboard widget XML data weather alert SMS fax email API give user alternative since deprecate Google Weather API It offer functionality Google Weather API connect Previmeteo weather forecasting service It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "RestFul Web Services Weather Forecast",
+        "id": 11524,
+        "progweb_descr": " RestFul Web Services Weather Forecast API provide weather forecast give location specify name This service access use either REST SOAP call XML format Both type call aim WSDL endpoint"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "CRONOS",
+        "id": 11715,
+        "progweb_descr": " service provide access data North Carolinas Climate Retrieval Observation Network Southeast CRONOS record collect maintained state weather observation data surround region It intend eliminate concern database structure query syntax need interact database directly Instead provide URLbased access particular chunk data API method support retrieval weather observation data plain text specify collection station date range Methods also allow specification observation interval desire minutebyminute hourly daily application quality control check"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "CDYNE Weather",
+        "id": 12121,
+        "progweb_descr": " CDYNE Weather API allow user retrieve weather information US city Users may either retrieve current weather seven day forecast update hourly information gather National Oceanic Atmospheric Administrationâ€™s NOAA National Weather Service"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "Terrapin Hurricane Tracking",
+        "id": 12332,
+        "progweb_descr": " service provide access data use provider hurricaneinformation site base weather satellite input US National Weather Service It report status location current active hurricane tropical storm tropical depression Atlantic Pacific Oceans It intend supply timecritical information storm threaten damage US mainland begin NWS start issue warning API method support list current storm either hurricane tropical storm retrieve location status individual storm Methods also support retrieval forecast change location status"
+    },
+    {
+        "progweb_cat": "Weather",
+        "api_name": "George Vustrey Weather",
+        "id": 13414,
+        "progweb_descr": " This API provide user forecast next five day It one method user get forecast give location API use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Weather,Localization",
+        "api_name": "World Weather Online",
+        "id": 147,
+        "progweb_descr": " World Weather Online provide weather forecast weather api content worldwide city town Developer Weather API allow developer programmer access free 5 day weather feed XML JSON CSV format location UK Postcode Canada Postal code US Zipcode City Town name country stateregion filter use Latitude Longitude"
+    },
+    {
+        "progweb_cat": "Weather,Localization",
+        "api_name": "AerisWeather",
+        "id": 332,
+        "progweb_descr": " AerisWeather site provide traditional weather content local weather weather map AerisWeathers core product API provide necessary weather data power service host weather site weather application development API give developer access data weather advisory forecast geographic location storm report It use RESTful call response format JSON JSONP"
+    },
+    {
+        "progweb_cat": "Weather,Government",
+        "api_name": "NOAA National Weather Service (NWS)",
+        "id": 190,
+        "progweb_descr": " NOAAs National Weather Service provide weather forecast watch warning advisory storm prediction National Digital Forecast Database NDFD Extensible Markup Language XML service provide public government agency commercial enterprise data National Weather Services NWS digital forecast database API use SOAP protocol return responses XML language call Digital Weather Markup Language DWML"
+    },
+    {
+        "progweb_cat": "Weather,Government",
+        "api_name": "National Weather Service NDFD",
+        "id": 940,
+        "progweb_descr": " National Oceanic Atmospheric Administration NOAA provide public government agency commercial enterprise XML data National Weather Services NWS digital forecast database This API available SOAP REST protocols provide array parameter allow user create customizable query digital forecast database Users search database specific latitudelongitude time unit measurement weather parameter This service provide free charge US government Users interest REST implementation API find documentation httpgraphicalweathergovxmlrestphp"
+    },
+    {
+        "progweb_cat": "Weather,Government",
+        "api_name": "AirNow",
+        "id": 8009,
+        "progweb_descr": " AirNOW US EPA program provide forecast realtime air quality information across North America AirNOW collect data 2000 monitoring station forecast 300 city AirNOW API allow developer programmatically access air quality forecast realtime data API able deliver data specific zip code set geographic coordinate well historical air quality observation"
+    },
+    {
+        "progweb_cat": "Weather,Government",
+        "api_name": "Meteogalica MeteoSIX",
+        "id": 8653,
+        "progweb_descr": " MeteoGalicia regional meteorological agency Galicia Spain MeteoGalicia provide operative weather forecast numerical weather forecast meteorological visualization climatology MetoGalicias MeteoSIX API free web service access meteorological oceanographic information Use API retrieve tide forecast estimate sunrise sunset hour result different numeric forecast model API RESTful API key require"
+    },
+    {
+        "progweb_cat": "Weather,Government",
+        "api_name": "City of Tempe Local Weather",
+        "id": 9608,
+        "progweb_descr": " City Tempe locate Arizona provide site visitor Local Weather service station gather data locate west end Tempe Town Lake weather data update every ten minute This information view directly website retrieve programmatically use Local Weather SOAP API"
+    },
+    {
+        "progweb_cat": "Weather,Government",
+        "api_name": "CliFlo",
+        "id": 11178,
+        "progweb_descr": " service provide access database maintain New Zealand national government climate information Data come weather condition reading time log approximately 6500 climate station operate various time since 1850 Over 600 station currently contribute data API method supply raw data statistical summary station specific time period Raw data provide reading key climatic measure several frequency 10 minute hourly daily Summary statistic aggregate reading month year calculate estimate normal level six reading 30year span"
+    },
+    {
+        "progweb_cat": "Weather,Government",
+        "api_name": "NCEP North American Mesoscale",
+        "id": 13217,
+        "progweb_descr": " National Centers Environmental Prediction NCEP North American Mesoscale NAM Model retrieve analyzes data take across continental US make prediction future weather condition Data use model come Advanced Weather Interactive Processing System AWIPS SOAP API access NCEP NAM functionality provide CUAHSI Hydrologic Information System HIS"
+    },
+    {
+        "progweb_cat": "Weather,Government",
+        "api_name": "Met Office WOW",
+        "id": 13826,
+        "progweb_descr": " Met Office formerly Meteorological Office national weather service United Kingdom Met Office provide ship weather flood air quality seasonal forecast advisory well Weather Observations Website WOW WOW interactive viewing measurement temperature wind speeddirection snowfall photo Registered user upload data WOW provide detailed sitespecific observation API available automatic bulk uploads API use specific meteorology software use directly"
+    },
+    {
+        "progweb_cat": "Weather,Nordic",
+        "api_name": "Norway Weather",
+        "id": 429,
+        "progweb_descr": " metno joint online weather service Norwegian Meteorological Institute metno Norwegian Broadcasting Corporation NRK metno offer weather forecast English 700000 place Norway 63 one million place worldwide"
+    },
+    {
+        "progweb_cat": "Weather,Nordic",
+        "api_name": "Norwegian Meteorological Institute",
+        "id": 12603,
+        "progweb_descr": " service provide applicationlevel access weather data Norwegian Meteorological Institute relate civil military activity It exclude access data provide organization institute note productspecific documentation service provide forecast report observe condition either Norwegian English weather map image relate information report volcanic activity sunsetsunrise time API method support retrieval text audio forecast area within Norway observation station report support imagery map satellite radar image Methods also provide report wind tide volcanic activity UV index ancillary information"
+    },
+    {
+        "progweb_cat": "Weather,Nordic",
+        "api_name": "eKlima",
+        "id": 13171,
+        "progweb_descr": " service provide access Norwegian Meteorological Institutes database weather climate data Norway region Applications retrieve report data current past weather station institution provide report allow distribution data Services range basic data listing sophisticated analysis tool report format API method support data retrieval two level detail standard complete plus graph data frequency distribution monthly summary trend indicator report station Data include temperature pressure humidity reading specific time period time series reporting station"
+    },
+    {
+        "progweb_cat": "Weather,Images",
+        "api_name": "MetGIS Weather",
+        "id": 1439,
+        "progweb_descr": " MetGIS Weather API provide access precise weather data especially use mountainous andor remote area MetGIS forecast retrieve point API via http deliver JSON JSONP format include weather data resolution 30 meter meteorology geographical information system make accurate weather forecast weather data combine detailed terrain data MetGIS ultraprecise data analysis forecast help make good business decision work efficiently provide ultrahigh resolution weather data image around globe"
+    },
+    {
+        "progweb_cat": "Weather,Images",
+        "api_name": "AerisWeather Maps Platform",
+        "id": 1562,
+        "progweb_descr": " AerisWeather Maps Platform provide weather information graphical form include set weather layer past current future option customization option allow create map Aeris Maps use static map add web page visual display fully interactive map web mobile user integration option AerisWeather provide custom weather solution allow create weather data Weather API ’ developer toolkits"
+    },
+    {
+        "progweb_cat": "Weather,Location",
+        "api_name": "Navlost WXT Weather Tesseract",
+        "id": 1465,
+        "progweb_descr": " WXT Weather Service provide atmospheric weather information REST architecture HTTP request JSON format It integrate METARTAF information sun moon calculation target aviation energy application"
+    },
+    {
+        "progweb_cat": "Weather,Data",
+        "api_name": "OpenWeatherMap Bulk Downloading",
+        "id": 1707,
+        "progweb_descr": " OpenWeatherMap Bulk Downloading API allow get bulk file current weather forecast OpenWeatherMap provide open weather data satellite imagery IoT environmental data developer"
+    },
+    {
+        "progweb_cat": "Weather,Data",
+        "api_name": "Synoptic Data",
+        "id": 3781,
+        "progweb_descr": " Synoptic Data integrate weather information application It available JSON architecture SSL GET request Tutorials available httpsapisynopticiotutorials"
+    },
+    {
+        "progweb_cat": "Weather,Data",
+        "api_name": "Baron Velocity Weather",
+        "id": 4388,
+        "progweb_descr": " Velocity Weather API allow developer incorporate Baron Weather service application Data product API fall two category – Text Graphical product Text product return either JSON JSONP text format display map integrate user interface Graphical product image provide PNG format overlay onto map Data provide include shore wave condition tornado track roadway condition Baron provide actionable intelligent weather service help business across several industry mitigate dangerous weather"
+    },
+    {
+        "progweb_cat": "Weather,Data",
+        "api_name": "Weather2020",
+        "id": 6058,
+        "progweb_descr": " accurate long range forecast API available Using LRC methodology create actual meteorologist Weather2020 API offer 12weeks write forecast well video forecast education"
+    },
+    {
+        "progweb_cat": "Weather,Tools",
+        "api_name": "Cheap Weather",
+        "id": 1846,
+        "progweb_descr": " Cheap Weather API standard weather API available free pay version cheap option It limit scope continental United States provide map API It provide 3day 3hour forecast forecast zip code version pay version one add geolocation forecast extend 7day forecast"
+    },
+    {
+        "progweb_cat": "Weather,Tools",
+        "api_name": "TideSpy",
+        "id": 11774,
+        "progweb_descr": " TideSpy API supply user tide height timezone info wind moonsun data user HTTP request data return JSON format full documentation available registration small monthly fee charge API"
+    },
+    {
+        "progweb_cat": "Weather,Analytics",
+        "api_name": "Weatherbit",
+        "id": 2080,
+        "progweb_descr": " Weatherbit API allow developer get 5 year backfilled historical data 16 day daily forecast 5 day 3 hour interval 48 hour hourly forecast current weather observation programmatically Weather data supply 40000 weather station 370000 city locate around world This service gear toward highvolume user available free pay version"
+    },
+    {
+        "progweb_cat": "Weather,Cities",
+        "api_name": "Airvisual",
+        "id": 2431,
+        "progweb_descr": " Airvisual API integrate air quality index air pollution coverage 60 country include 11000 government station AirVisual data return standard concentration AQI US China Several package option available base number API call perform JSON format require Key authenticate"
+    },
+    {
+        "progweb_cat": "Weather,Real Time",
+        "api_name": "Weathers.co",
+        "id": 2556,
+        "progweb_descr": " Weathersco offer simple integration display basic weather information within thirdparty application This API support GET request city parameter return temperature sky condition humidity wind speed date day temperature measure JSON use data exchange"
+    },
+    {
+        "progweb_cat": "Weather,Real Time",
+        "api_name": "WeatherBug Pulse",
+        "id": 4253,
+        "progweb_descr": " WeatherBug Pulse API allow developer retrieve live weather condition forecast lightning information severe weather warning US zip code WeatherBug full source weather provider offer exclusive data network 8000 weather observation station WeatherBug available free variety platform include Android iOS Windows desktop"
+    },
+    {
+        "progweb_cat": "Weather,Real Time",
+        "api_name": "Minutely",
+        "id": 8741,
+        "progweb_descr": " Minutely Ourcast weather application Minutely aim provide weather information realtime minute minute Users customize Minutely app location type weather Minutely API allow developer access integrate functionality Minutely applications Public documentation available interested developer contact infoourcastcom API access"
+    },
+    {
+        "progweb_cat": "Weather,Crowdsourcing",
+        "api_name": "BloomSky",
+        "id": 3124,
+        "progweb_descr": " BloomSky API allow developer link personal weather station variety different output It export give station late weather data picture timelapse video This API provide BloomSky hyperlocal network weather camera provide real time visual weather information around world"
+    },
+    {
+        "progweb_cat": "Weather,Agriculture",
+        "api_name": "SkyWise Insight",
+        "id": 3466,
+        "progweb_descr": " SkyWise Insight API allow developer access historical current forecast data geographic area interest Weather information update hourly resolution 1km throughout North America API include endpoint standard weather variable well industryspecific metric HeatingCooling Degree Days Growing Degree Days Evapotranspiration"
+    },
+    {
+        "progweb_cat": "Weather,Agriculture",
+        "api_name": "Iteris ClearAg Map Overlay",
+        "id": 5852,
+        "progweb_descr": " Map Overlay API use ClearAgs meteorological data weather model sensor data generate map overlay specific local Requests require unique API key request responses HTTP Map Overlay API provide overlay observe forecast data include radar imagery temperature humidity wind speed Iteris ClearAg provide highresolution data service derive data assimilation model technology agricultural application ClearAg offer multiple APIs agribusiness offer API integration application framework white label capability"
+    },
+    {
+        "progweb_cat": "Weather,Agriculture",
+        "api_name": "Iteris ClearAg Field Weather",
+        "id": 5853,
+        "progweb_descr": " Field Weather API use ClearAgs meteorological data weather model sensor data provide user field specific weather data Requests require unique API key request responses HTTP HTTPS Field Weather API method include historical current forecast temperature hail rain data Iteris ClearAg provide highresolution data service derive data assimilation model technology agricultural application ClearAg offer multiple APIs agribusiness offer API integration application framework white label capability"
+    },
+    {
+        "progweb_cat": "Weather,Agriculture",
+        "api_name": "Iteris ClearAg Soil Condition",
+        "id": 5907,
+        "progweb_descr": " Soil Conditions API use detail several inhouse computer model provide user historically estimate depth specific soil moisture temperature condition Requests require unique API key request responses HTTP Iteris ClearAg provide highresolution data service derive data assimilation model technology agricultural application ClearAg offer multiple APIs agribusiness offer API integration application framework white label capability"
+    },
+    {
+        "progweb_cat": "Weather,Animation",
+        "api_name": "Windyty",
+        "id": 3923,
+        "progweb_descr": " Windyty API free public API developer use add interactive animate weather forecast map application websites Windyty animate map display information forecast wind clouds wave temperature API require Leaflet JavaScript library"
+    },
+    {
+        "progweb_cat": "Weather,Climate",
+        "api_name": "Meteotest Data Exchange",
+        "id": 3949,
+        "progweb_descr": " Meteotest Data Exchange API provide data weather forecast Available German language Meteotest offer measurement past forecast future addition information temperature sunshine rain shower snow wind fog thunder lightning calculate Meteonorm software Protocols include JSON JSONP XML YAML CSV Text Accessible Key"
+    },
+    {
+        "progweb_cat": "Weather,Climate",
+        "api_name": "meteoblue",
+        "id": 4309,
+        "progweb_descr": " meteoblue API interface weather data design receive forecast direct HTTP request meteoblue server request execute instantaneously always provide late uptodate data meteoblue API provide updated local weather information system weather information location Earth ocean coordinate latitudelongitude altitude asl flexible request adapt user demand preprogrammed daily downloads opportunity minimize infrastructure host weather data"
+    },
+    {
+        "progweb_cat": "Weather,Climate",
+        "api_name": "Planet OS",
+        "id": 4329,
+        "progweb_descr": " Planet OS API provide access grow catalog Earth data world respect provider Developers researcher climate specialist integrate environmental data application analysis datadriven solution RESTful API require API key make request accessible free basic account Planet OS focus collect earth environment weather climate data IoT sensor"
+    },
+    {
+        "progweb_cat": "Weather,Climate",
+        "api_name": "PressureNet.io",
+        "id": 6459,
+        "progweb_descr": " PressureNetio company provide atmosphere data software intelligence improve weather climate forecasting Theyve build open source platform collect live atmosphere data Android smartphones locate around world This network take 5 million measurement per day Atmosphere researcher access feed data PressureNet API"
+    },
+    {
+        "progweb_cat": "Weather,Marine",
+        "api_name": "World Weather Online Marine, Sailing, Surfing Weather",
+        "id": 3968,
+        "progweb_descr": " World Weather Online Marine Sailing Surfing Weather API integrate forecast data web service mobile application XML JSON REST available protocol make callback"
+    },
+    {
+        "progweb_cat": "Weather,Marine",
+        "api_name": "Marine/Surfing Weather",
+        "id": 15182,
+        "progweb_descr": " Free Marine Weather REST API method allow developer programmer access today live marine sail weather forecast You use program language choice get marine weather use REST base weather API method"
+    },
+    {
+        "progweb_cat": "Weather,Predictions",
+        "api_name": "Weather Online Local City and Town Weather",
+        "id": 3969,
+        "progweb_descr": " Weather Online Local City Town Weather integrate forecast prediction accord location It available CSV JSON JSONP XML format"
+    },
+    {
+        "progweb_cat": "Weather,Predictions",
+        "api_name": "World Weather Online Historical or Past Weather",
+        "id": 3973,
+        "progweb_descr": " World Weather Online Historical Past Weather API integrate previous forecast record application It available CSV JSON XML format"
+    },
+    {
+        "progweb_cat": "Weather,Predictions",
+        "api_name": "World Weather Online Ski Weather",
+        "id": 4033,
+        "progweb_descr": " World Weather Online Ski Weather API integrate forecast chance snow freeze level temperature precipitation expect snow fall Available XML JSON format Api Key"
+    },
+    {
+        "progweb_cat": "Weather,Predictions",
+        "api_name": "World Weather Online Local City Weather",
+        "id": 4034,
+        "progweb_descr": " World Weather Online Local City Weather API integrate forecast prediction accord local venue Formats include CSV JSON XML"
+    },
+    {
+        "progweb_cat": "Weather,Predictions",
+        "api_name": "5 Day Weather",
+        "id": 7064,
+        "progweb_descr": " 5 Day Weather API accept city single parameter return 5 day forecast Specifically API accept HTTP request city name identifier return JSON object include request city name temperature sky condition project humidity wind speed MPH day names associate calendar date Users make specific call switch Celsius Fahrenheit Kmh mph accord local standard API free use without restriction Developers interested test functionality API visit 5DayWeatherorg web app accessible device site also host widget website addon integration"
+    },
+    {
+        "progweb_cat": "Weather,Brazilian",
+        "api_name": "Vitortec Weather Forecast",
+        "id": 4071,
+        "progweb_descr": " Tempo API use obtain weather forecast information Centro de Previsão de Tempo e Estudos Climáticos CPTECINPE This API return information JSON format Vitortec software development firm base Brazil provide application Android Facebook Chrome Windows Linux Also offer web development service CMS WordPress Bootstrap"
+    },
+    {
+        "progweb_cat": "Weather,Content",
+        "api_name": "FeedSyndicate Weather",
+        "id": 4489,
+        "progweb_descr": " FeedSyndicate Weather API allow developer access uptodate weather information web mobile application fee dynamically generate base user zip code Location ID geocode provide 7day forecast This API provide weather data thousand location US internationally FeedSyndicate provide full news entertainment content feed websites application"
+    },
+    {
+        "progweb_cat": "Weather,Application Development",
+        "api_name": "Apixu",
+        "id": 5368,
+        "progweb_descr": " Apixu API provide weather data develop weather apps RESTful API use JSON HTTP requestsreturns require API Key authentication Apixu offer data realtime weather 10 day weather forecast astronomy time zone location A available method include maximum minimum temperature wind speed sun moon riseset feel like temperature See API documentation full method description information get start develop Apixu"
+    },
+    {
+        "progweb_cat": "Weather,Education",
+        "api_name": "WeatherSTEM",
+        "id": 6061,
+        "progweb_descr": " WeatherSTEM service design help educator create STEM lesson activity incorporate realworld weather Users add WeatherSTEMs current historical data website application via API Code examples provide ActionScript 3 Curl C Java Ruby common language"
+    },
+    {
+        "progweb_cat": "Weather,Reference",
+        "api_name": "DOCOMO Environment Sensor",
+        "id": 6356,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development Developers make call Environment Sensor API order retrieve temperature precipitation rate UV radiation detection 47 Japanese prefecture These weather statistic update hourly basis Environment Sensor API implement via REST accessible correspond Android Java SDKs DOCOMO also offer API console easily demo many APIs"
+    },
+    {
+        "progweb_cat": "Weather,Non-Profit",
+        "api_name": "Open Meteo Forecast",
+        "id": 7936,
+        "progweb_descr": " Open Meteo Foundation OMetFn nonprofit organization dedicate promote open meteorological data technology science One project OMetFn Open Meteo Forecast seek provide open weather forecast locations around world Open Meteo Forecast API give developer programmatic access small portion group data This API still experimental feedback welcome"
+    },
+    {
+        "progweb_cat": "Weather,USA",
+        "api_name": "NOAA Severe Weather Data Inventory",
+        "id": 7976,
+        "progweb_descr": " National Climatic Data Center NCDC service NOAA National Oceanic Atmospheric Administration NCDC responsible preserve monitoring assess provide public access climate historical weather data Severe Weather Data Inventory SWDI dataset severe weather record US database integrate record variety NCDC source SWDI API provide programmatic access database API able specify dataset date range filter result use variety parameter"
+    },
+    {
+        "progweb_cat": "Weather,England",
+        "api_name": "Trogsoft UK Weather",
+        "id": 8017,
+        "progweb_descr": " Trogsoft UK Weather API provide variety weather information United Kingdom Some API method include retreiving five day forecast current observation every hour lookup forecast observation latitude longitude lookup forecast observation large town city name access historical observation"
+    },
+    {
+        "progweb_cat": "Weather,England",
+        "api_name": "Met Office Datapoint",
+        "id": 12568,
+        "progweb_descr": " service provide access weather climate datasets include 3hour daily forecast 5000 UK location actual record observation weather event previous 24 hour service provide data individual site site observation forecast make Additional function provide listing site report capability API method support request either 3hour daily forecast site site specify time period Methods also accept request weather observation similar site time parameter"
+    },
+    {
+        "progweb_cat": "Weather,Sports",
+        "api_name": "World Weather Online Ski and Mountain",
+        "id": 8660,
+        "progweb_descr": " World Weather Online provide global weather content forecast business travel industry websites World Weather Online Ski Mountain API method allow developer programmer access accurate reliable weather forecast Top Middle Bottom Elevations API use REST call return weather data XML JSON format contain weather element like Chance Snow Total Snowfall amount temperature precipitation rainfall weather description weather icon wind speed It could use personal well commercial purpose"
+    },
+    {
+        "progweb_cat": "Weather,Sports",
+        "api_name": "OpenSnow",
+        "id": 10551,
+        "progweb_descr": " OpenSnowcom provide meteorologistcrafted snow report forecast ski resort across America OpenSnow API provide developer access ski area forecast Responses may return XML JSON CSV format"
+    },
+    {
+        "progweb_cat": "Weather,Sports",
+        "api_name": "Weather2",
+        "id": 13438,
+        "progweb_descr": " Free API delivery XML JSON weather feed global location specify latitudelongitude Postcode Zipcode Options include current weather condition 2day forecast information multiple global location 7day forecast information single global location snow report data available plus 6day forecast information single ski resort mountain location"
+    },
+    {
+        "progweb_cat": "Weather,Database",
+        "api_name": "Weather Source",
+        "id": 9664,
+        "progweb_descr": " Weather Source service provide weather data Weather Source provide weather data client multiple industry multiple purpose Weather Source provide historical weather data report weather forecast data astronomical report Weather Source API allow developer access integrate functionality Weather Source application create new application Some example API method include manage account information retrieve weather history data retrieve astronomical data"
+    },
+    {
+        "progweb_cat": "Weather,Social",
+        "api_name": "Metwit Weather and Forecast",
+        "id": 10368,
+        "progweb_descr": " Metwit realtime crowdsourced social weather application Users share information weather tag application user search weather location Metwit API allow developer access integrate functionality Metwit application create new application Some example API method include send receive weather information retrieve weather information location access metatags associate weather report"
+    },
+    {
+        "progweb_cat": "Weather,Social",
+        "api_name": "Meteostone Weather",
+        "id": 12497,
+        "progweb_descr": " Meteostone crowdsourced network local weather data weather medium information around world All content provide user Meteostone API allow user create weather application service use Meteostone weather data"
+    },
+    {
+        "progweb_cat": "Weather,History",
+        "api_name": "weather-api.net",
+        "id": 10380,
+        "progweb_descr": " WeatherAPInet provide weather information focus historical weather track Information currently available 53 year ago access 19 million datapoints A hourly historical weather forecast available well All information come government vet source information closely scrutinize accuracy Serverbased API also Javascript available allows place GET call multiple location base latitude longitude city name country name US zip code date various type weather condition precipitation XML format available JSON default"
+    },
+    {
+        "progweb_cat": "Weather,Australian",
+        "api_name": "Swellcast",
+        "id": 10445,
+        "progweb_descr": " Swellcast provide surf weather information many location Australia Swellcast offer forecast information beach surf Australia Swellcast API allow developer access integrate data Swellcast application create new application API method return information surf forecast state specific state location"
+    },
+    {
+        "progweb_cat": "Weather,Australian",
+        "api_name": "Australian Bureau of Meteorology",
+        "id": 13172,
+        "progweb_descr": " service Australias Bureau Meteorology provide realtime weather forecast observation report Data provide national summary local report temperature precipitation wind barometric pressure significant weather event across Australia service also provide text forecast warning Victoria Tasmania New South Wales Australian Capital Territory UV index agricultural report available well"
+    },
+    {
+        "progweb_cat": "Weather,Korean",
+        "api_name": "KMA Websky",
+        "id": 10538,
+        "progweb_descr": " service Korean Meteorological Administration KMA provide shared database weather observation measurement forecast It report special warning weather condition area along report lightning activity radar satellite imagery weather chart related resource Data service provide partner agency business general public API method support retrieval forecast data warning extraordinary condition reading surface observation station satellite radar data"
+    },
+    {
+        "progweb_cat": "Weather,Science",
+        "api_name": "NWCC Air and Water Database",
+        "id": 10731,
+        "progweb_descr": " service provide US National Water Climate Center NWCC division US Department Agriculture It give access AWDB air water database document measurement soil water climatic condition Datasets compile automated system measure snowpack station Soil Climate Analysis Network SCAN Other measurement snow accumulation available water supply also include streamflow reservoir level API method support query AWDB datasets Specific method give access resource like SNOTEL SNOw TELemetry climate service general index climate condition National Weather Service COOP station 30year normal level measure etc"
+    },
+    {
+        "progweb_cat": "Weather,Science",
+        "api_name": "METViewer",
+        "id": 10930,
+        "progweb_descr": " service provide function visualize data effectiveness meteorological model help evaluate predictive success A webbased tool plot measure model accuracy use function R statistical package web service generates XML serialization specify data plot along support resource enable visual display API method support list available meteorological database forecast variable store value variable select database Methods allow iteration range select database variable data value generate specification data plot generate visualization service"
+    },
+    {
+        "progweb_cat": "Weather,Science",
+        "api_name": "LTER CLIMDB/HYDRODB",
+        "id": 11364,
+        "progweb_descr": " service provide repository meteorological hydrological data include record weather condition streamflow measurement number widely distribute research sit It intend meet need researcher track longterm trend precipitation weather condition surface water supply region API method support access either raw data aggregate data extend time period Raw data available include data specific site particular day along date data last record Aggregated data available include monthly yearly overall data record recording station"
+    },
+    {
+        "progweb_cat": "Weather,Science",
+        "api_name": "CORDC COAMPS Winds Model",
+        "id": 11494,
+        "progweb_descr": " service US Coastal Observing Research Development Center CORDC provide current estimate wind condition location along near US coastline specify location report current forecast value wind speed direction along related weather condition barometric pressure temperature sea level pressure etc API method support retrieval wind data location specify either latitude longitude geographic boundary Methods also provide general meteorological data ocean condition atmospheric pressure ambient temperature relate value"
+    },
+    {
+        "progweb_cat": "Weather,Science",
+        "api_name": "CORDC HFRADAR Maps",
+        "id": 11495,
+        "progweb_descr": " service provide access data highfrequency radar HFRADAR vector incorporate map application base Google Maps API Data come buoy sensor maintain US National Oceanic Atmospheric Administration NOAA service provide access input network format display Google Maps API method support specification location time frame along many variable relevant display data map image Specifications provide control image zoom opacity color scale example Resulting image show condition detect weather radar wide range resolution coastal location monitor NOAA"
+    },
+    {
+        "progweb_cat": "Weather,Science",
+        "api_name": "NOAA GOES SEM",
+        "id": 11507,
+        "progweb_descr": " service provide download access data Space Environment Monitory SEM service National Geophysical Data Center NGDC US National Atmospheric Oceanic Administration NOAA Available data include list location monitor service metadata location actual satellite monitoring data Applications import SEM data analysis processing API method support retrieval description data structure provide SEM include field name description data format minimum maximum value etc Methods also support retrieval monitoring data give specific satellite timestamped sensor reading API give access specification location monitor well"
+    },
+    {
+        "progweb_cat": "Weather,Science",
+        "api_name": "3TIER",
+        "id": 15345,
+        "progweb_descr": " 3TIERs API enables integrate scientifically derive global wind solar resource data internal application customer experience You use API build revenuegenerating application mashups include » Webbased lead generation program » Internal customerfacing sale tool » Product selection tool » Project design financial modeling tool API access 3TIERs global data use simple REST call It open standard base XML program interface To make integration simple quick 3TIER provide detailed developer documentation program example sample code information please visit httpwww3tiercomenpackagedetailprospectingwindapi www3tiercom"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "Environmental Life Cycle Impact Assessment",
+        "id": 10791,
+        "progweb_descr": " service Center Energy Processes CEP France provide estimate environmental impact photovoltaic PV technology complete life cycle It assess impact PV solar electricity technology installation base number establish computation method Calculations cost benefit life installation help guide decisionmaking justify investment API method support estimate photovoltaic technology performance geographic point map within defined area interest AOI Life cycle cost benefit estimate Ecoinvent database Mapping data comply Open Geospatial Consortium OGC protocol"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "HelioClim",
+        "id": 10792,
+        "progweb_descr": " service provide estimate solar energy potential site Africa region surround Mediterranean Sea central part Atlantic Ocean It refer database solar radiation estimate base image take 20year period Meteosat satellite In addition estimate solar energy production data may provide useful input climate study API method support submission location coordinate retrieve estimate value solar irradiance Each request specify either single geographic point multiple point Separate service available period 19852005 20042005"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "Shadow",
+        "id": 10793,
+        "progweb_descr": " service provide estimate reduction efficiency solar energy installation due shadow cast terrain object location Estimates base data collect Shuttle Radar Topography Mission SRTM create highly detailed image surface topography specify location service project interference solar irradiance naturally occur construct terrain feature API method support submission location coordinate receive estimate relief shadow effect solar resource Shadow effect state percentage day solar irradiance block Methods also provide esimates global horizontal irradiance direct normal irradiance clearsky condition"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "Hydro1K",
+        "id": 10794,
+        "progweb_descr": " service provide digital model terrain elevation slope base database terrain feature compile EUfunded MESoR project Elevation slope affect efficiency solar energy collection electricity generation via photovoltaic PV power plant In addition data service mapping function allow interactive consideration sit solar power plant API method support designation area interest map bound box specific location Returned data provide map data represent elevation slope topological feature"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "SRTM",
+        "id": 10795,
+        "progweb_descr": " service provide Digital Elevation Model DEM build data represent terrain feature detect Shuttle Radar Tomography Mission SRTM Elevation affect efficiency solar energy collection include photovoltaic PV electricity production By model terrain feature elevation service help improve accuracy estimate solar energy production location API method support specification area interest AOI either bound box define mapped coordinate single location Methods return highaccuracy elevation data use solar energy production estimate"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "NCEP Forecast",
+        "id": 10796,
+        "progweb_descr": " service provide aggregated 3day weather forecast several surface measurement meteorological condition include wind speed direction barometric pressure temperature relative humidity precipitation It also provide forecast solar irradiance Estimates update every 3 hour data come National Centers Environmental Prediction part US National Oceanic Atmospheric Administration NOAA API method support designation location latitude longitude elevation along type weather observation desire API return aggregate forecast specific meterological measure request location"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "EMP Climate",
+        "id": 10797,
+        "progweb_descr": " service provide measure solar energy available specified location earth surface Data give monthly mean value solar irradiance measure location around globe Data reflect satellite observation meteorological observation analyse US government agency National Center Environmental Predictions NCEP National Center Atmospheric Research NCAR Separate observation rationalize data fusion technique API method support submission global location latitude longitude elevation API return solar energy measure downwelling shortwave irradiance along low high average reading air temperature relative humidity"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "Clean Power Estimator",
+        "id": 10801,
+        "progweb_descr": " service provide tool estimate cost saving environmental benefit renewable energy system installation It available via customizable web interface SOAP API It accept inputs location propose system likely performance parameter technology employ specific model number equipment use similar project specification API method support analysis project characteristic generate estimate economic benefit environmental improvement Specifications input include equipment quantity cost well relevant estimate natural gas price electric service rate weather data source financing detail API generate summary system cost financial performance expect utility bill system cash flow power load along reduction emission conventional electricity generation"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "SOLEMI",
+        "id": 10810,
+        "progweb_descr": " Solar Energy Mining SOLEMI service provide measure solar energy available location across Europe Africa along select part Asia Australia South America Measures solar irradiance data derive image take Meteosat satellite period 19912005 location Europe Africa 19992006 Asian location Measures available hourly increment spatial resolution 25 km API method support submission location date range irradiance measure desire API return measure global horizontal irradiance GHI direct normal incidence DNI"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "DegreeDays",
+        "id": 12993,
+        "progweb_descr": " service provide weather report thousand weather station draw Weather Underground emphasize likely effect energy consumption Data obtain station location range time period daily weekly monthly annual average time Concurrent processing allow rapid access comprehensive data API method support retrieval weather data report station location specify postal code latitudelongitude Complex calculation allow API return accurate degree day estimate base sometimesincomplete raw input data"
+    },
+    {
+        "progweb_cat": "Weather,Energy",
+        "api_name": "United Nations SWERA",
+        "id": 13170,
+        "progweb_descr": " SWERA service United Nations provide data renewable energy resource worldwide It provide geographic information system GIS timeseries data compile international expert incountry partner service help promote application solar wind energy technology support decisionmaking available resource likely energy production location API method allow specification location latitude longitude along desire data include solar irradiance angle wind speed related information record number national repository Methods also available retrieve climate data temperature heat cool degree day humidity barometric pressure"
+    },
+    {
+        "progweb_cat": "Weather,Solar",
+        "api_name": "Clean Power SolarAnywhere",
+        "id": 10799,
+        "progweb_descr": " service provide accumulate data solar energy potential weather relevant solar energy production specify location It help estimate effectiveness solar power installation include photovoltaic PV technologies A PVSimulator function provide analysis aggregate data project likely behavior PV system instal specify location Data provide hourly reading record weather satellite API method support submission location specify latitude longitude retrieve measure solar irradiance measure direct normal irradiance DNI global horizontal irradiance GHI diffuse horizontal irradiance DIF Related data provide measure weather condition cloud cover precipitation temperature also affect solar power production"
+    },
+    {
+        "progweb_cat": "Weather,Measurements",
+        "api_name": "Meteomedia Weather Development Kit",
+        "id": 11644,
+        "progweb_descr": " Mminternational weather measurement network MeteoGroup German weather service company Meteomedia division mminternational provide weather product service medium public meteomedia Weather Development Kit API provide programmatic access data mminternational database Accessible service include worldwide weather data measurement forecast"
+    },
+    {
+        "progweb_cat": "Weather,Emergency",
+        "api_name": "Sigimera",
+        "id": 11654,
+        "progweb_descr": " Sigimera crises information platform combine report official source ontheground information order support people around natural disaster Sigimera use host multimedia data image videos scene natural disaster status useful location eg whether hospital airport intact overcrowd Sigimera also provide list miss person current status missingfounddead Sigimera API allow user integrate information Sigimera application RESTful call use retrieve crisis image miss person location variety data format"
+    },
+    {
+        "progweb_cat": "Weather,International",
+        "api_name": "Dark Sky",
+        "id": 12579,
+        "progweb_descr": " Dark Sky API integrate weather prediction application via JSON REST protocol API method available Current condition Minutebyminute forecast 1 hour Hourbyhour forecast 48 hour Daybyday forecast 7 day Dark Sky API allow look current historical weather anywhere globe forecast available multiple language First 1000 API call available cost follow fee 00001 call"
+    },
+    {
+        "progweb_cat": "Weather,Japanese",
+        "api_name": "Tenki Weather",
+        "id": 13012,
+        "progweb_descr": " Tenki website Japan Weather Association Tenki API provide user weather information forecast UV pollen information umbrella index This data integrate user web site application API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Weather,Feeds",
+        "api_name": "Weather Decision Technologies",
+        "id": 13090,
+        "progweb_descr": " Weather Decision Technologies provider weather content include science weather detection nowcasting forecast WDTs client include United States lead weather service interactive medium outlet well governmental industrial military weather customer world WDTs iMap weather map lead web mobile solution local medium WDT supply many raw meteorological data product customer World These feed transmit use variety method include proprietary satellite uplink Internet Documentation publicly available"
+    },
+    {
+        "progweb_cat": "Weather,Feeds",
+        "api_name": "Foreca",
+        "id": 15238,
+        "progweb_descr": " Foreca API give user access three type raw weather data feed Foreca provider digital weather data business use three feed include NaviFeed latlon coordinate base online query forecast current condition map NameFeed name base online query forecast current condition map BatchXML batch file contain forecast optional current condition fix location list feed use RESTful protocol response format XML delimit ASCII"
+    },
+    {
+        "progweb_cat": "Weather,European",
+        "api_name": "Navlost NWX Weather",
+        "id": 13622,
+        "progweb_descr": " service consolidates global weather information multiple source standardize access via single XML interface Applications retrieve current weather forecast information location world via adaptation Global Forecast System numeric weather model Created meet need flight planning service also support forecasting need land transportation agriculture application API method return current temperature wind aloft general weather information specify location along forecast weather condition chart Methods also provide description terrain altitude well archive past weather condition give time location"
+    }
+]

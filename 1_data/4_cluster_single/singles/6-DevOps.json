@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "DevOps,Application Development",
+        "api_name": "Rancher",
+        "id": 2992,
+        "progweb_descr": " Rancher API allow developer access platform deploy manage container production Rancher provide infrastructure service include networking storage service host management load balance Rancher come commerciallysupported distribution Mesos Docker Swarm Kubernetes order make easy run application infrastructure"
+    },
+    {
+        "progweb_cat": "DevOps,Application Development",
+        "api_name": "Arukas",
+        "id": 3038,
+        "progweb_descr": " With Arukas API developer control create edit application manage container Arukas Cloud dockerbased Containerasaservice Herokuinspired workflow allow ease deployment management apps scale Fully support release ability application Ubuntu Nodejs Ruby Python Redis PHP"
+    },
+    {
+        "progweb_cat": "DevOps,Application Development",
+        "api_name": "Shipyard",
+        "id": 4334,
+        "progweb_descr": " Shipyard tool perform orchestration cluster management Docker container Use manage container cluster image private registry authentication It available via HTTP Api Key Docker open application development platform share apps repository automate development workflow"
+    },
+    {
+        "progweb_cat": "DevOps",
+        "api_name": "OpenShift Origin",
+        "id": 3791,
+        "progweb_descr": " OpenShift Json base API expose operation manage Kubernetes cluster include security user management application deployment HTTPs rout"
+    },
+    {
+        "progweb_cat": "DevOps,Monitoring",
+        "api_name": "Blue Refraction Site Audit",
+        "id": 4213,
+        "progweb_descr": " Blue Refraction Site Audit API let developer perform audit target page look design link W3C compliance security etc produce rating report issue Blue Refraction provide website test monitoring service"
+    },
+    {
+        "progweb_cat": "DevOps,Hosting",
+        "api_name": "Jelastic Cloud",
+        "id": 9903,
+        "progweb_descr": " Jelastic cloud platform allow host server service cloud Jelastic API allow developer access integrate functionality Jelastic application Some example API method include manage account information view server log access manage archive"
+    }
+]

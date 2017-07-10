@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Holidays,Countries",
+        "api_name": "Tuxx Holidays",
+        "id": 2463,
+        "progweb_descr": " Tuxx Holidays API find day celebration school holiday 20 country provide date names holiday Developers access interface API Key make call HTTP receive JSON response return"
+    },
+    {
+        "progweb_cat": "Holidays,Calendars",
+        "api_name": "Office Holidays",
+        "id": 4480,
+        "progweb_descr": " Office Holidays API allow access holiday data bank opening schedule 118 country useful integrate human resource calendar application Protocols available REST XML authentication Api Key Methods include holiday particular place give specific date time"
+    },
+    {
+        "progweb_cat": "Holidays,Time",
+        "api_name": "Time and Date Holidays",
+        "id": 6981,
+        "progweb_descr": " Time Date Holiday Service API display list observance 70 country With API developer retrieve holiday name date type holiday short description holiday They also access holiday information state country observe holiday This API could useful goal integrate observation event organization cultural purpose travel plan In site partner find total 89 country 2979 holiday They also access sample data JSON XML additional information Time Date feature link late news configuration Holiday Services license package"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "progweb_cat": "TV,Actors",
+        "api_name": "TVmaze",
+        "id": 631,
+        "progweb_descr": " TVmazecom show information TV listing If user visit website choose show see category episode cast crew character review gallery They also share info Reddit Facebook Twitter Tumblr This service offer TV API use website app data include show actor tonight schedule episode list"
+    },
+    {
+        "progweb_cat": "TV,Streaming",
+        "api_name": "Odd Networks Oddworks",
+        "id": 1678,
+        "progweb_descr": " Odd Networks Oddworks API provide platform delivers video content web application mobile TVconnected device API support follow method HTTP call Configuration Videos Collections Views Viewers Promotions Odd Networks officially support Vimeo JWPlatform Brightcove Ooyala Livestream Monetization method also support"
+    },
+    {
+        "progweb_cat": "TV,Guides",
+        "api_name": "TV Guide",
+        "id": 2628,
+        "progweb_descr": " TV Guide RESTful API provide access television listing data program information category channel icon Documentation present HTTP request JSON response OAuth Key authentication method"
+    },
+    {
+        "progweb_cat": "TV,Guides",
+        "api_name": "Honeybee.it TV Guide",
+        "id": 3297,
+        "progweb_descr": " Honeybeeit Guide TV API allow developer access integrate functionality Honeybeeit application main API method include access retrieve TV information actor genres movie data TV well access stream movie TV Honeybeeit provide showtimes information TV well stream"
+    },
+    {
+        "progweb_cat": "TV,Entertainment",
+        "api_name": "Fan TV Platform",
+        "id": 2644,
+        "progweb_descr": " This Metadata API fantv provide tool discover watch share 1 million movie show across prefer service screen Use TiVo ’ comprehensive structure normalized video metadata create foundation advance entertainment discovery experience"
+    },
+    {
+        "progweb_cat": "TV,Entertainment",
+        "api_name": "Fan TV ID Mapping Service",
+        "id": 2645,
+        "progweb_descr": " ID Map API work fantv platform API provide way map id example Shell Go Java Javascript Node ObjC PHP Python Ruby Swift C C Use TiVo ’ comprehensive structure normalized video metadata create foundation advance entertainment discovery experience Fantv allow discover watch share 1 million movie show across favorite service screen"
+    },
+    {
+        "progweb_cat": "TV,Entertainment",
+        "api_name": "TV Listings",
+        "id": 2658,
+        "progweb_descr": " EPG Data API Canadian TV RESTful web service return XML Json CSV Html include SOAP 11 12 support Search date range brand show title show title episode title synopsis HD descriptive video caption TvListings effort aggregate television schedule information many source make available common API"
+    },
+    {
+        "progweb_cat": "TV,Entertainment",
+        "api_name": "Recap Guide",
+        "id": 4524,
+        "progweb_descr": " Recap Guide API help track TV show episodes Its recap episode channel 50x frame APIs provider channel recap TV show episodes flexible format us thumbnail exhibit order episode Requests Recap Guide API send via HTTP authentication require API key Its access require 30 monthly hosting fee"
+    },
+    {
+        "progweb_cat": "TV,Entertainment",
+        "api_name": "epguides",
+        "id": 5494,
+        "progweb_descr": " epguides REST API allow developer access integrate information TV episodes many TV show Some example API method include retrieve episode TV show retrieve last episode TV show retrieve first episode TV show epguides build provided Fredrik Carlsen"
+    },
+    {
+        "progweb_cat": "TV,Entertainment",
+        "api_name": "Series.ly",
+        "id": 6398,
+        "progweb_descr": " Seriesly video stream website provide customer access various title genre TV show movie Seriesly API let developer integrate service application enable user view information offer Seriesly directly mobile device"
+    },
+    {
+        "progweb_cat": "TV,Entertainment",
+        "api_name": "Tank Top TV",
+        "id": 7114,
+        "progweb_descr": " Tank Top TV help user discover whats available UKs ondemand video service Users see whats available moment ask notify program want become available Tank Top TV APIs allow user retrieve list movie TV show metadata movie TV show personalize recommendation"
+    },
+    {
+        "progweb_cat": "TV,Browsers",
+        "api_name": "W3C TV Control Specification",
+        "id": 3578,
+        "progweb_descr": " TV Control Specification API integrate television control via internet browser It provide navigator TVManager TVTuner TVSource TVChannel TVMediaStream TVBroadcastedEvent method"
+    },
+    {
+        "progweb_cat": "TV,Satellites",
+        "api_name": "mChan",
+        "id": 4299,
+        "progweb_descr": " mChan API access satellite TV radio channel data DVBS2 frequency transponder logo Channel ID Channel name Available JSON format via HTTPS support"
+    },
+    {
+        "progweb_cat": "TV,Celebrities",
+        "api_name": "Ron Swanson Quotes",
+        "id": 6146,
+        "progweb_descr": " Ron Swanson fictional character portray actor Nick Offerman Ron Swanson Quotes API develop James Wright independent web developer This API let developer integrate database application enable user access Ron Swanson quote directly"
+    }
+]

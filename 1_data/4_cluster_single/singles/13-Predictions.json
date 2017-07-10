@@ -1,0 +1,80 @@
+[
+    {
+        "progweb_cat": "Predictions,Machine Learning",
+        "api_name": "Google Prediction",
+        "id": 806,
+        "progweb_descr": " Google Prediction API bring power machine learn anyone Upload data build model train system show right answer know item When system train make prediction All stage access via API"
+    },
+    {
+        "progweb_cat": "Predictions,Addresses",
+        "api_name": "New Zealand Post Suggest Addresses Service",
+        "id": 2284,
+        "progweb_descr": " New Zealand Post Suggest Addresses Service API feature prediction functionality auto complete address search API equip keyword detection mechanism generate various suggestion postal physical address API conveys request JSON JSONP URI Query StringCRUD format return responses JSON XML HTML format"
+    },
+    {
+        "progweb_cat": "Predictions,Addresses",
+        "api_name": "SmartyStreets US Autocomplete",
+        "id": 2285,
+        "progweb_descr": " SmartyStreets US Autocomplete API feature predictive functionality search address location API equip keyword detection mechanism generate various suggestion location address API conveys request HTTP URI Query StringCRUD format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Predictions,Addresses",
+        "api_name": "Esri arcGIS World Geocoding Service",
+        "id": 2305,
+        "progweb_descr": " Esri arcGIS World Geocoding Service API feature autocomplete suggestion functionality predict address location search API generate various suggestion location address character type user It design detect character key user return list suggestion target location address This allow user find location minimum character possible World Geocoding Service API return maximum 15 suggestion per search API return response JSON JSONP format"
+    },
+    {
+        "progweb_cat": "Predictions,Intelligence",
+        "api_name": "Predikt",
+        "id": 4652,
+        "progweb_descr": " Predikt API available partner interested integrate prediction feature application API help user screen job candidate search job Formats include JSON REST XML Users try free demo demonstrate identify job candidate Predikt help user discover talent screen candidate hire talent acquisition"
+    },
+    {
+        "progweb_cat": "Predictions,Analytics",
+        "api_name": "AMS Prediction",
+        "id": 5391,
+        "progweb_descr": " Apply Magic Sauce AMS service predict user psychodemographic trait base digital footprint This service useful informative business research personal inquiry Traits predict include religious affiliation relationship status political view life satisfaction intelligence At present service accepts Facebook Like IDs input data format More work also do publish model base language"
+    },
+    {
+        "progweb_cat": "Predictions,Analytics",
+        "api_name": "Forecast.it",
+        "id": 6128,
+        "progweb_descr": " Forecastit predictive Project Portfolio Management PPM platform Forecastit API complete programmable interface Forecastit functionality allow project management estimation forecast objective integrate third party system API RESTful use JSON serialization HTTP Basic Authentication access"
+    },
+    {
+        "progweb_cat": "Predictions,Analytics",
+        "api_name": "FirstRain",
+        "id": 7060,
+        "progweb_descr": " Firstrain offer enterprise tool predictive analysis Using enterprise level API developer incorporate smart business insight increase effectiveness marketing campaign CRM management system Using API developer integrate near realtime analytics business application mobile web tablet use Customers also use API retrieve data FirstRains big data aggregation well understand large social trend Currently API documentation available customer eye Businesses interested integrating FirstRain API may visit website contact FirstRain support information"
+    },
+    {
+        "progweb_cat": "Predictions,Algorithms",
+        "api_name": "Seldon REST",
+        "id": 5484,
+        "progweb_descr": " Seldon REST API allow developer programmatically interact platform item user action order generate recommendation Seldon predictive platform use structured historical data generate recommendation different kind item eg music movie article It produce recommendation use variety algorithms create report contain assortment statistic"
+    },
+    {
+        "progweb_cat": "Predictions,Algorithms",
+        "api_name": "Seldon JavaScript",
+        "id": 5485,
+        "progweb_descr": " Seldon JavaScript API allow developer integrate recommendation webbased service Seldons predictive platform us structure historical data generate recommendation different kind item eg music movie article It produce recommendation use variety algorithms create report contain assortment statistic"
+    },
+    {
+        "progweb_cat": "Predictions,Algorithms",
+        "api_name": "HPE Haven OnDemand Train Prediction",
+        "id": 5948,
+        "progweb_descr": " Train Prediction API offer HP IDOL OnDemand let developer create prediction model accord train data set provide API Data set run several algorithms Decision Tree Logistic Regression Naive Bayes SVM HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Predictions",
+        "api_name": "HPE Haven OnDemand Predict",
+        "id": 5955,
+        "progweb_descr": " Predict API offer HP IDOL OnDemand let developer classify data use classification service create Train Prediction API HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Predictions,Demographics",
+        "api_name": "EmoVu",
+        "id": 7214,
+        "progweb_descr": " EmoVu specialize create emotionally intelligent tool perceive emotion people analyze micro expression use webcam Supporting standard video image well image sequence format emotive predictive analysis help determine users opinion content view real time This allow developer smartly tailor content highly niched demographic use data acquire age gender mood affect content either content debut ideally help boost ROI lean campaign This API use GPU capability increase process power return nearly 20 unique metric per user"
+    }
+]

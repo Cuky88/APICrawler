@@ -1,0 +1,524 @@
+[
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "DomainTools",
+        "id": 734,
+        "progweb_descr": " You access powerful research tool use every day brand manager legal professional site owner domain investor Nearly every piece data youll find u use DomainTools site available use include Whois Lookup Whois History Reverse Whois Domain Suggestions Discover relationships among web site domain owner IP address Name Server Reports Reverse IP lookups Reverse Whois Reports Find domains register buy Domain Suggestions Domain Search APIs Monitor hundred thousand new domain registration day keywords ownership profile Trademark Alert Registrant Alert APIs"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "Domain",
+        "id": 900,
+        "progweb_descr": " A collection web service EuroDNS SA aggregate function domain lookup data report transaction across domain name industry Gives access data collect whois provider domain registry domain availability check service along major aftermarket data provider service available include availability whois lookup domain name IP along registry information domain profile information value appraisal secondary market offering Whois information available include registration history domain"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "WhoAPI",
+        "id": 907,
+        "progweb_descr": " WhoAPI service mass domain lookup provide detail domain user Details include domain availability check domain owner detail server uptime status blacklist listing check screenshot DNS zone GEO rank API use RESTful call response format XML JSON TXT"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "Domain Availability Checker",
+        "id": 4289,
+        "progweb_descr": " Domain Availability Checker APIs intend offer developer ability check whether domain available registration"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "PointDNS",
+        "id": 8836,
+        "progweb_descr": " Point DNS host service host 220000 domain thousand user around world It provide single interface user manage domain let user share domain access team customer PointDNS include tool set permanent HTTP redirects email forward allow user add replicate unlimited number record domains PointDNS API allow user integrate management DNS application system"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "WhoisXML Reverse Whois",
+        "id": 9990,
+        "progweb_descr": " service provide list web domain register specified person A search target partial name multiple name identify desire set domain Both current registration historical information available API method support submission domain search query specify least one registrant name part name possibly include wildcard character control accuracy match search result Methods support search current historical registration API also support registration currently available domain discover search result"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "whois.net.pk",
+        "id": 10592,
+        "progweb_descr": " service base Pakistan provide whois search domain name register pk extension Lookup function allow check domain name status either register available registered domain registrant information available include business technical contact nameservers etc API method support submission string match exist domain registry record check availability status Methods also support retrieval whois record exist domain pk extension"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "EnClout Whois",
+        "id": 11401,
+        "progweb_descr": " EnClout interested bring data together multiple source solve data silo business EnClout provide suite domain related APIs Whois API take URL domain input provide parsed whois record JSON XML HTML format"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "http.net DNS",
+        "id": 12056,
+        "progweb_descr": " httpnet ICANNaccredited domain name registrar provide domain service housing DNS SSL certificate resellers since 1999 httpnet DNS API supply resellers interface automate realtime DNS object management service make different SOAP version RESTful API multiple endpoint available"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "SimpleName",
+        "id": 13099,
+        "progweb_descr": " service check submit New Zealand nz domain name registry database return register unregistered status registration expiration Information provide free charge limited request API key provide feebased access high volume priority access API method accept string New Zealand domain names 25 per request return registration status"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "TelPages",
+        "id": 13310,
+        "progweb_descr": " service provide registry service tel toplevel domain It provide search service domain currently register tel along ability register new domain Additional service include traffic analysis brand assistance API method support submission simple query match submit domain name string well complex query specify personal organizational name location business type Results return include information tel domains match submit query"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "ViewDNS.info",
+        "id": 14036,
+        "progweb_descr": " ViewDNS online source DNS related tool tool provide ViewDNSinfo allow user gather large amount data give website IP address ViewDNSinfo API allow webmaster integrate tool provide ViewDNSinfo site Response format include XML JSON Access ViewDNSinfo API free limit time developer contact provider gain access API associate documentation"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "DNS Made Easy",
+        "id": 14424,
+        "progweb_descr": " DNS Made Easy currently offer DNS service approximately 500000 domain Internet DNS Made Easyï¿½s API available perform core function DNS Made Easy web interface programmatically DNS Made Easyï¿½s API alternative DNS management conventional web interface This API allow client integrate DNS Made Easy domain record modification part normal host maintenance server provision Features like Global Traffic Director HTTP Redirection Peregrine Instant DNS Update system available API API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Domains,Domains",
+        "api_name": "iWantMyName Domain and DNS",
+        "id": 15062,
+        "progweb_descr": " iWantMyName domain registration management service international domain name Their API currently private beta"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "GoDaddy",
+        "id": 830,
+        "progweb_descr": " This API let user sell trafficdriving highdemand domain name registration private registration unique software service within Web site It part API Reseller Solution Go Daddy let user Merchandize sell domain name private registration site traffic tool Add profitability user site picking product set price maintains control Maintain unique brand Full documentation API available purchase"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": ".tel",
+        "id": 1268,
+        "progweb_descr": " tel domain use DNS store contact information To push data DNS TelHosting Software expose public web service use SOAP HTTP Client application use SOAP interface write read data tel domain With API apps Conﬁgure type contact data phone mobile email VoIP chat fax location web link etc Publish update contact data real time Create proﬁles display different record depend user preference Control distribution private data speciﬁc group people Specify keywords want find"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "DNSimple",
+        "id": 1296,
+        "progweb_descr": " Register update domain via DNSimple API Other command allow transfer domain another registrar DNSimple create record domain create apply template group common record together apply domain Plans start 3 per month manage 10 domain Domains cost 16"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "Metaname",
+        "id": 6340,
+        "progweb_descr": " Metaname professionalgrade New Zealandbased domain name management service It cost nothing transfer domain name Metaname user perform domain name transfer update bulk Monthbymonth renewal available nz domain name Metaname provide full support IPv6 DNSSEC Metaname API allow user register transfer update renew domain names programmatically Additional API method allow user perform whois lookup manage DNS zone"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "EPAG SSL",
+        "id": 7638,
+        "progweb_descr": " EPAG company provide variety domain management service This include furnish user SSL certificate prove customer data transmit securely EPAG SSL API allow user automate order SSL certificate APIs function cover step order process provide access SSL certificate EPAGs product portfolio"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "TwoDNS",
+        "id": 7910,
+        "progweb_descr": " TwoDNS provide Domain Name System service TwoDNS offer customer 5 free host ability connect host mailserver unlimited number subdomains give host TwoDNS API provide developer access serviceâ€™s functionality allow customer application websites manage user account domains host"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "VERISIGN DomainScore",
+        "id": 10826,
+        "progweb_descr": " DomainScore free tool Verisign Inc design complement domain preregistration evaluation Verisign DomainScore API provide HTTP interface DomainScore data Results return JSON XML format"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "Verisign DomainCountdown",
+        "id": 10832,
+        "progweb_descr": " DomainCountdown web application Verisign Inc design help customer evaluate domain name soon release registry available registration Verisign DomainCountdown API provide HTTP interface user review traffic statistic various type previous domain metadata"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "EnClout DNS",
+        "id": 11400,
+        "progweb_descr": " EnClout interested bring data together multiple source solve data silo business EnClout provide suite domain related APIs DNS API take URL domain input return parse DNS record JSON XML HTML format"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "RimuHosting DNS",
+        "id": 13552,
+        "progweb_descr": " RimuHosting specializes Linux Virtual Private Server host plan provide subscribe user choice Linux distribution SSH root access dedicate Linus sysadmin support RimuHosting API especially useful user domain name point change IP address DNS API allow user change domains IP address automate setup change mail server text record delete record An account service API key require use service"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "eNom",
+        "id": 14548,
+        "progweb_descr": " eNom make possible resellers buy sell Internet domain service With 300 command eNoms API allow devlopers integrate eNom product service business site application Online service include 70 domain email linux window host SSL certificate web site creator email marketing content Full documention available upon registration"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "Sedo",
+        "id": 14586,
+        "progweb_descr": " Sedo domain marketplace let individual company acquire domain name need online presence Sedos domain marketplace offer large selection premium domains 18 million available sale Sedo API enable user access Sedo database thier application example user download domain park statistic import separate analysis programtool A user also manage Sedo domain portfolio search Sedo database domains sale Sedos API available customer large domain portfolio create Partner Programme account API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "Point",
+        "id": 14791,
+        "progweb_descr": " UKbased free DNS hosting service email HTTP web forward API easy DNS management API allow user interact point account similar way web interface List edit create delete DNS zone zone record"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "Joker.com",
+        "id": 14940,
+        "progweb_descr": " This API give user access Reseller control panel lightweight Webbased solution design fit need resellers domain Jokercom domain name registration service API Jokercom domain registration system offer Web service It use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "Domainr",
+        "id": 15494,
+        "progweb_descr": " Domainr tool use search available domain name Domainr two external APIs HTML form API website integration JSONbased API web service clientside implementation write JavaScript"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "Nomaine",
+        "id": 15533,
+        "progweb_descr": " Nomaine theme domain name generator availability checking After analysis word part list rearrange create random pronounceable name RESTful API allow user functionality responses format either XML JSON"
+    },
+    {
+        "progweb_cat": "Domains",
+        "api_name": "Who Is Hosting This",
+        "id": 15701,
+        "progweb_descr": " Who Is Hosting This API tool let find host web site API return similar data use external site To use API four line code Send email address provide get information API start use"
+    },
+    {
+        "progweb_cat": "Domains,Search",
+        "api_name": "Domainr Developer",
+        "id": 2288,
+        "progweb_descr": " Domainr Developer API let programmatically interact Domainr instant domain autocomplete search engine provide Instant domain autocomplete availability via HTTP JSON API three method — search status register — respond GET request API server respond identically port 80 http port 443 http Usage Domainr API free Mashape highvolume commercial usage"
+    },
+    {
+        "progweb_cat": "Domains,Search",
+        "api_name": "KWMASTER Serp Tracker",
+        "id": 4882,
+        "progweb_descr": " KWMASTER Serp Tracker REST API allow developer access integrate functionality KWMASTER Serp Tracker application main API method track search engine position various domain specify KWMASTER Serp Tracker provide search engine track service domain"
+    },
+    {
+        "progweb_cat": "Domains,Search",
+        "api_name": "whatisonip.com",
+        "id": 11194,
+        "progweb_descr": " whatisonipcom reverse IP address lookup service large database 159M domain updated weekly API functionality offer 3 method extract data site information relate site host single IP address information relate site host C Class IP address information site share reverse DNS This allow user find blacklisted IP address IP address location information site run certain IP address IP address class API envelop basic HTTP call XML response"
+    },
+    {
+        "progweb_cat": "Domains,Search",
+        "api_name": "DomainsBot",
+        "id": 11940,
+        "progweb_descr": " DomainsBot lead provider domain name suggestion service include domain name search API allow developer integrate functionality website domain return checked local zone file copy refresh daily API use RESTful call response format XML JSON CSV"
+    },
+    {
+        "progweb_cat": "Domains,Search",
+        "api_name": "eCoComa Domain",
+        "id": 12461,
+        "progweb_descr": " eCoComa Domain API allow user retrieve information specific host Internet Domain Name System DNS find site host specific IP address Another function provide access whois service check domain name availability find own particular domain name"
+    },
+    {
+        "progweb_cat": "Domains,Web Site Management",
+        "api_name": "Domain Connect Wix",
+        "id": 2491,
+        "progweb_descr": " Domain Connect Wixcom API provide protocol connect service provider Wixcom domain name service API allow developer configure Wixcom feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Web Site Management",
+        "api_name": "Domain Connect Squarespace",
+        "id": 2492,
+        "progweb_descr": " Domain Connect Squarespace API provide protocol connect service provider Squarespace domain name service API allow developer configure Squarespace feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Web Site Management",
+        "api_name": "Domain Connect GoDaddy",
+        "id": 2495,
+        "progweb_descr": " Domain Connect GoDaddy API provide protocol connect domain name service GoDaddy service provider API allow developer configure mail service feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Web Site Management",
+        "api_name": "Domain Connect Microsoft",
+        "id": 2613,
+        "progweb_descr": " Domain Connect Microsoft API provide protocol connect service provider Microsoft domain name service API allow developer configure Microsoft feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Web Site Management",
+        "api_name": "Domain Connect eNom",
+        "id": 2614,
+        "progweb_descr": " Domain Connect eNom API provide protocol connect domain name service eNom service provider API allow developer configure mail service feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Web Site Management",
+        "api_name": "Domain Connect Namecom",
+        "id": 2999,
+        "progweb_descr": " Domain Connect Namecom API provide protocol connect domain name service Namecom service provider API allow developer configure mail service feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Web Site Management",
+        "api_name": "Domain Connect United Domains",
+        "id": 3000,
+        "progweb_descr": " Domain Connect United Domains API provide protocol connect domain name service United Domains service provider API allow developer configure mail service feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Web Site Management",
+        "api_name": "APITruck",
+        "id": 6772,
+        "progweb_descr": " Use APITruck Beta API access domain name WHOIS information API output JSON XML several endpoint access information like current specific WHOIS WHOIS history complete domain history without duplicate APITruck API support HTTP HTTPS"
+    },
+    {
+        "progweb_cat": "Domains,Photos",
+        "api_name": "Domain Connect SmugMug",
+        "id": 2493,
+        "progweb_descr": " Domain Connect SmugMug API provide protocol connect service provider SmugMug domain name service API allow developer configure SmugMug feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,eCommerce",
+        "api_name": "Domain Connect Shopmatic",
+        "id": 2494,
+        "progweb_descr": " Domain Connect Shopmatic API provide protocol connect service provider Shopmatic domain name service API allow developer configure Shopmatic feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,eCommerce",
+        "api_name": "Domain Connect Shopify",
+        "id": 2998,
+        "progweb_descr": " Domain Connect Shopify API provide protocol connect service provider Shopify domain name service API allow developer configure Shopify feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Payments",
+        "api_name": "Domain Connect PayTM",
+        "id": 2996,
+        "progweb_descr": " Domain Connect PayTM API provide protocol connect service provider PayTM domain name service API allow developer configure PayTM feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Accounting",
+        "api_name": "Domain Connect FreshBooks",
+        "id": 2997,
+        "progweb_descr": " Domain Connect FreshBooks API provide protocol connect service provider FreshBooks domain name service API allow developer configure FreshBooks feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Email",
+        "api_name": "Domain Connect WiseStamp",
+        "id": 3001,
+        "progweb_descr": " Domain Connect WiseStamp API provide protocol connect service provider WiseStamp domain name service API allow developer configure WiseStamp feature domain name service Domain Connect protocol develop GoDaddy serve open standard protocol help developer user bridge feature service provider domain name provider"
+    },
+    {
+        "progweb_cat": "Domains,Addresses",
+        "api_name": "Verisign Domainscope",
+        "id": 3110,
+        "progweb_descr": " Verisign Domainscope API integrate suggestion domain name generator Services include traffic domain recently expire domains domain name list It available REST architecture HTTP request XML JSON responses Authentication require Key"
+    },
+    {
+        "progweb_cat": "Domains,Addresses",
+        "api_name": "Domain Whois",
+        "id": 3856,
+        "progweb_descr": " Domain Whois verifies domain availability API JSON text format accessible Key allow analyze server parse response avoid request limit It support 500 top level domains 300 second level domain"
+    },
+    {
+        "progweb_cat": "Domains,Addresses",
+        "api_name": "DomainTally",
+        "id": 4252,
+        "progweb_descr": " DomainTally API allow developer access WHOIS record website data domain metric website DomainTally cloudbased domain name intelligence analytics platform allow user find information page Alexa Ranking PageRank MozRank SEM Score social engagement traffic report search engine report page speed domain valuation"
+    },
+    {
+        "progweb_cat": "Domains,Screenshots",
+        "api_name": "URL Sensei",
+        "id": 3966,
+        "progweb_descr": " URL Sensei allow developer integrate Whois lookup screenshot capability exist application Viewport delay javascriptimage load option customize use screenshot endpoint URL Sensei offer 3 paid plan one free trial limit 500 combined request per month URL Sensei API use JSON data format data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Domains,Data",
+        "api_name": "MetricsBot",
+        "id": 4692,
+        "progweb_descr": " MetricsBot API provide userfriendly tools fetch website metric domain data This help developer track website protect brand invest good domain act faster various domain related issue well build new idea content View machinereadable information domain Alexa rank information estimate traffic API"
+    },
+    {
+        "progweb_cat": "Domains,DevOps",
+        "api_name": "Wind Serve DNS Check",
+        "id": 4898,
+        "progweb_descr": " Wind Serve DNS Check API DNS record check platform integrate exist application It feature DNS monitoring record update DNS troubleshoot This REST API respond JSON format require API key DNS Check API use extend monitoring system Also support common DNS record type include MX record Wind Serve provide Linux consult web development service"
+    },
+    {
+        "progweb_cat": "Domains,Privacy",
+        "api_name": "Burning Soul WhoIs",
+        "id": 5421,
+        "progweb_descr": " WhoIs API part independent project Burning Soul It offer fetch data relate domain status owner name email DNS server information This API present content provide server meaning error could display privacy"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "LeaseWeb CDN",
+        "id": 6040,
+        "progweb_descr": " LeaseWeb host company global InfrastructureasaService IaaS provider offer cloud baremetal server well domain host LeaseWeb CDN Content Delivery Network API offer user programmatic control specific LeaseWeb domain service API access HTTP GET POST PUT request order retrieve JSONserialized data web visitor statistic gauge average site traffic push zone specific customer IDs retrieve total number API call make Calls API adjust reflect subgroup base country tag bill region granularity frequency daily weekly monthly additional factor"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Crazy Domains",
+        "id": 8098,
+        "progweb_descr": " Crazy Domains international domain name registrar also provide web host online marketing service Crazy Domains API provide developer access companyâ€™s reseller service Developers submit customer transaction Crazy Domains server authenticate resellerâ€™s credential process transaction return XML response"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Subreg",
+        "id": 8744,
+        "progweb_descr": " Subreg Czech Republic base domain registration service provider Subreg expose service SOAP API allow developer automate management domain profile contact much"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Mythic Beasts",
+        "id": 8745,
+        "progweb_descr": " Mythic Beasts DNS host service base United Kingdom Mythic Beasts offer DNS API allow developer modify DNS entry specify domain allow DNS change script Possible us include implement DNSbased failovers site dynamic DNS system use DNS redirect site maintenance"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "TPP Wholesale",
+        "id": 9427,
+        "progweb_descr": " TPP Wholesale Australian domain host wholesaler offer resellers service domain name cloud cPanel web host email host SSL certificate TPP Wholesale API allow developer automate aspect manage domain name cloud reseller host user account API accept HTTP GETPOST call"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "RRPproxy",
+        "id": 9460,
+        "progweb_descr": " RRPproxy domain reseller network KeySystems German internet solution provider RRPproxy API provide developer interface reseller program accessible various protocol include SOAP XMLRPC HTTP call Supported method include domain application transaction nameserver administration contact management"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Cnobin",
+        "id": 9461,
+        "progweb_descr": " Cnobin domain registration service provider reseller platform reseller platform build around API provide developer access aspect resell functionality Supported method include domain transaction management registrant management billing API accessible HTTP POST call"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "NameAction",
+        "id": 9494,
+        "progweb_descr": " NameAction Chilean domain name service company specialize South Central America Caribbean NameAction implement Extensible Provisioning Protocol NameAction API provide developer access aspect domain management include registration renewal transfer availability status query credit consultation API accept call HTTPS return XML format reponses"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Wild West Domains Reseller",
+        "id": 12012,
+        "progweb_descr": " Wild West Domains WWD Godaddys reseller company They sell domain name directly instead enable domain resellers sell rebranded Godaddy service These service include Godaddy tech support offer low price purchase directly Godaddy API give resellers way integrate WWD service Web site application allow use style branding Services offer API include domain name registration domain name transfer web base email sale park page API use SOAP call response XML"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Name.com",
+        "id": 12129,
+        "progweb_descr": " Namecom provide internet domain name registration web host service They offer reseller API allow user incorporate domain registration option ancillary service exist site API provide method categorize domain order DNS nameserver authentication API use RESTful call responsese format JSON"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Domainbox",
+        "id": 12765,
+        "progweb_descr": " Domainbox offer comprehensive scalable reseller package provide functionality flexibility reseller Domainbox also provide customisable storefront SOAP base API Domainbox API offer integration websites exist system Domainbox API enable control functionality resell domain name"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Netcetera",
+        "id": 13548,
+        "progweb_descr": " Netcetera lead Web Hosting service provider Europe customer 60 country worldwide Netcetera Domain Name API check whether domain name available register API use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Name Toolkit",
+        "id": 13603,
+        "progweb_descr": " Name Toolkits search engine help user find available domain name take keywords find free available API retrieves detail public whois information domain It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "iDigitalNet",
+        "id": 13920,
+        "progweb_descr": " IDigitalNet provide window linux host email hosting domain registration domain transfer service API expose full functionality site allow user resellers develop website control panel integrate system Development kit provide PHP Perl ASP Java API use REST SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Zerigo Managed DNS",
+        "id": 14861,
+        "progweb_descr": " Zerigo provide DNS host service Zerigo Managed DNS API provide tools integrate DNS change application By use service automate laborintensive process update DNS record Access host zone create template easy application new domain Zerigo us true REST API support GET POST PUT DELETE"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "4PSA DNS Manager",
+        "id": 14973,
+        "progweb_descr": " This API allow thirdï¿½party product interact 4PSA DNS Manager system DNS Manager multitenant software automation tool design deliver DNS host service provider business web service allow execution basic management operation client account dns zone belong 4PSA DNS Manager system API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Domains,Hosting",
+        "api_name": "Directi",
+        "id": 15787,
+        "progweb_descr": " Directicom service allow register administer resell domain name host service Account require API technical detail"
+    },
+    {
+        "progweb_cat": "Domains,Availability",
+        "api_name": "Whois Domain Availability",
+        "id": 6408,
+        "progweb_descr": " Whois APIs return wellparsed whois field XML JSON format Whois APIs use track domain registration check domain name availability detect credit card fraud locate user geographically Whois Domain Availability API return information regard availability specific domains Whois offer 100 free lookup test API service account required Sample code exist demonstrate access Domain Availability API PHP Java code"
+    },
+    {
+        "progweb_cat": "Domains,URLs",
+        "api_name": "ZipWhois",
+        "id": 6565,
+        "progweb_descr": " ZipWhois provide service enables user retrieve WHOIS data domain name IP address HTTP accessible API take messy WHOIS data return unify JSON format consumer easily determine user assignee behind internet resource ZipWhois API also use check domain availability support top level domain names As ZipWhois API currently beta request API free ZipWhois likely incorporate pay subscription plan v10 release"
+    },
+    {
+        "progweb_cat": "Domains,Ordering",
+        "api_name": "Backorder",
+        "id": 6715,
+        "progweb_descr": " Dropcatchcoms Backorder API RESTful API allow function support backordering domain cancel open backorders This feature make use NameBrightcom API account"
+    },
+    {
+        "progweb_cat": "Domains,Monetization",
+        "api_name": "Above.com",
+        "id": 7045,
+        "progweb_descr": " Abovecom Trellian company allow user monetize transaction either sell buying web domains main value API possibility integrate platform domain investment purpose This API support XML format require API Key In website developer see resource API query authentication secure connection error cod usage limit code example"
+    },
+    {
+        "progweb_cat": "Domains,Reference",
+        "api_name": "Whomsy",
+        "id": 8232,
+        "progweb_descr": " Whomsy free whois lookup service This mean user search own give domain register etc It also tell user domain unregistered register Developers access Whomsys function programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Domains,Auctions",
+        "api_name": "DomCop",
+        "id": 8351,
+        "progweb_descr": " DomCop help people find expired domain auction provide information help make informed purchasing decision These use domain often builtin traffic SEO accomplish buyer beware scam domain ban domain DomCop help user sort domains auction use data SEOMoz Domain Authority Majestic Seo SEMRush Alexa along social statistic number Facebook like Facebook share tweet Reditt share domain Developers use DomCop API search domains meet variety criterion use REST call"
+    },
+    {
+        "progweb_cat": "Domains,Registration",
+        "api_name": "Freenom",
+        "id": 8436,
+        "progweb_descr": " Freenom provide domain registration service include reseller program Freenom expose functionality reseller program RESTful API API able manage domains nameserver glue record domain contact domain transfer"
+    },
+    {
+        "progweb_cat": "Domains,Registration",
+        "api_name": "InterNetworX",
+        "id": 9699,
+        "progweb_descr": " InterNetworX domain registrar provide realtime domain registration registrar transfer update Users complete control domains register update domain name realtime use InterNetworXs Domain Robot All function InterNetworX frontend accessible via XMLRPC API Programming examples API provide PHP Java Ruby Python"
+    },
+    {
+        "progweb_cat": "Domains,Cloud",
+        "api_name": "HP Cloud DNS",
+        "id": 8488,
+        "progweb_descr": " HP Public Cloud enterprisequality public cloud offer variety public service include Domain Name Service DNS HP Cloud DNS allow user manage DNS zone record efficient secure manner service use Anycast rout improve reliability speed uptime HP Cloud DNS come set APIs allow user display create modify delete DNS record programmatically via REST call"
+    },
+    {
+        "progweb_cat": "Domains,Networking",
+        "api_name": "konvert.me",
+        "id": 9180,
+        "progweb_descr": " Konvertme provide network tool well value image converter konvertme API provide free developer access follow network tool forward reverse DNS lookup IP city lookup IP country lookup"
+    },
+    {
+        "progweb_cat": "Domains,Enterprise",
+        "api_name": "Comodo DNS",
+        "id": 9851,
+        "progweb_descr": " A Domain Name System DNS system associate information domain name assign entity connect Internet network Comodos DNS service power infrastructure thousand domain name registrar web host solution provider worldwide It enterpriselevel service advertises unique simplify management interface This DNS provide fullyfeatured open API managing service allow integrated custom application control panel"
+    },
+    {
+        "progweb_cat": "Domains,Registry",
+        "api_name": "ARIN Reg-RWS",
+        "id": 10729,
+        "progweb_descr": " service provide registry rout information internet traffic resolve web URL request particular server It allow application retrieve modify registry record service allow application interact variety record repositories individual organization maintain provider change resource allocation assignment update relate record API method support retrieval update POC record individual people ORG record company organization NET record network traffic handler Methods allow access Autonomous System Numbers ASNs delegation record link IP address register domain name"
+    },
+    {
+        "progweb_cat": "Domains,Business",
+        "api_name": "DynDNS",
+        "id": 14611,
+        "progweb_descr": " DynDNScom allinone manage DNS host solution top level domain ie wwwyourwebsitecom Their DNS Update API also know Members NIC Update API use update IP address dynamic DNS hostnames DynDNS design create specification prior 2001 become standard update mechanism DNS provider API work HTTPS HTTP"
+    }
+]

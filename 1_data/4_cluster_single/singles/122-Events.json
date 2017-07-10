@@ -1,0 +1,734 @@
+[
+    {
+        "progweb_cat": "Events,Marketing",
+        "api_name": "Eventbrite",
+        "id": 72,
+        "progweb_descr": " Eventbrites API web service allow developer create user event well pull associate event application Using API developer may access Eventbrite data create update get event API use retrieve list attendee transaction venue much Developers sign referral program earn revenue share httpwwweventbritecomreferralprogram"
+    },
+    {
+        "progweb_cat": "Events,Marketing",
+        "api_name": "Planspot",
+        "id": 9676,
+        "progweb_descr": " Planspot event management organize application Planspot offer multiple feature event plan management promotion ticket sale marketing tool campaign report Planspot API allow developer access integrate functionality Planspot applications Some example API method include manage account information retrieve ticket information retrieve contact information"
+    },
+    {
+        "progweb_cat": "Events,Marketing",
+        "api_name": "HubSpot Events",
+        "id": 13610,
+        "progweb_descr": " HubSpot internet company provide highquality internet marketing small internetbased business HubSpot transforms relatively static smallbusiness website modern marketing machine produce right lead help convert high percentage business qualify opportunity This API let developer specify HubSpot account access marketing event account It also let developer create new marketing event API use RESTful call response format JSON It currently alpha stage"
+    },
+    {
+        "progweb_cat": "Events,Localization",
+        "api_name": "Zvents",
+        "id": 175,
+        "progweb_descr": " From site Zvents Developer API provide programmatic access object store Zvents These object include event venue group user tag API currently support REST interface mean interaction API perform HTTP protocol All API call support number output format include XML RSS JSON"
+    },
+    {
+        "progweb_cat": "Events,Localization",
+        "api_name": "Happenstand",
+        "id": 14286,
+        "progweb_descr": " Happenstand website feature Bay Area arts event API allow developer retrieve list event venue person data site list sort start date end date proximity detail Users also perform keyword search data API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Events,Localization",
+        "api_name": "MyUpcoming",
+        "id": 15702,
+        "progweb_descr": " Happenr API allow integration locationbased event calendar information application Tap large database event thousand source frequently update Each event come XY coordinate get late hyperlocalized event integrate apps Find whats go Europes top tourist city You submit city county province country longlatitude coordinate event type prefer date get specific information want"
+    },
+    {
+        "progweb_cat": "Events,Localization",
+        "api_name": "Boomloop",
+        "id": 15806,
+        "progweb_descr": " Use BoomLoop API add event coordinate social activity friend You use API create manage share calendar entries event people Boomloop German social site user share cool event cool venue city photos videos link"
+    },
+    {
+        "progweb_cat": "Events,Calendars",
+        "api_name": "Eventful",
+        "id": 269,
+        "progweb_descr": " Eventful world large collection event take place local market throughout world concert sport single event political rally Eventfulcom build upon unique open platform enable partner web application leverage Eventfuls data feature functionality via Eventful API Eventful API provide access entire site database enable developer integrate functionality Eventful platform web application Common API task include event venue search API use RESTful call response format either XML JSON YAML"
+    },
+    {
+        "progweb_cat": "Events,Calendars",
+        "api_name": "Eventfinda",
+        "id": 1071,
+        "progweb_descr": " Eventfinda online calendar cultural event New Zealand Users join free customize weekly newsletter feature information type event location theyre interested Users also create manage list favorite event post event submit review notify others event theyre attend whether theyre look people go Eventfinda REST API version 2 allow user access event database programmatically use HTTP call issue XML JSON JSONP"
+    },
+    {
+        "progweb_cat": "Events,Calendars",
+        "api_name": "New York Times Event Listings",
+        "id": 6304,
+        "progweb_descr": " New York Times Event Listings API let developer search New York Times listing cultural event happen New York City place With API developer request information use different search query API use REST approach HTTP method GET POST"
+    },
+    {
+        "progweb_cat": "Events,Calendars",
+        "api_name": "Listora",
+        "id": 6438,
+        "progweb_descr": " Using Listora API developer add automatically generate event listing event discovery site application Listora whats section offer custom brand fit company theme content overlook team 40 editor publish 16000 UKbased event per week Listora HTTPbased JSON API allow call make retrieve specific event information Developers edit user information query event listing return event contributor retrieve occurrence location data All date form ISO 8601standardized timestamps Pagination API return support 100 result per page"
+    },
+    {
+        "progweb_cat": "Events,Calendars",
+        "api_name": "EvieSays",
+        "id": 6710,
+        "progweb_descr": " EvieSayscom Nashville TN base event list information service Given location EvieSays suggest nearby restaurant venue performance Users may search event location artist name general keywords query database well create new event Similarly EvieSays readonly API accept keywords unique identifier accept HTTP GET command return JSON format response"
+    },
+    {
+        "progweb_cat": "Events,Calendars",
+        "api_name": "TimeShout",
+        "id": 8801,
+        "progweb_descr": " TimeShout event database design promote local event share capability visitor participation community input service include calendar public submission event share well event book registration TimeShout API allow user use REST call get event event list get occurrence get venue information get profile get calendar An API key require service API currently limit beta functionality open public"
+    },
+    {
+        "progweb_cat": "Events,Calendars",
+        "api_name": "Idescat International Days",
+        "id": 9371,
+        "progweb_descr": " Statistical Institute Catalonia Idescat organization produce official Catalan economy demography society statistic Idescat expose data via collection REST APIs In support UNESCOâ€™s International Daysâ€ ” designate date mark important aspect human life historyâ€ ” recognition 2013 International Year Statistics Idescat create International Days API International Days API provide simple HTTP call return data next upcoming International Day Responses may JSON serialized PHP format"
+    },
+    {
+        "progweb_cat": "Events,Calendars",
+        "api_name": "Socializr",
+        "id": 14334,
+        "progweb_descr": " Socializr social networking site aim event plan online invitation service It integrate online social network Friendster MySpace Flickr Facebook make possible use photo video sit Events Socializr also share site Individuals organization create profile promote event use Socializr API use retrieve publicly available event listing user organization information API use RESTful protocol response format JSON RSS"
+    },
+    {
+        "progweb_cat": "Events,Calendars",
+        "api_name": "SCHED*",
+        "id": 14677,
+        "progweb_descr": " SCHED service event schedule plan social network integration tool attendees build agenda along service conference organizer SCHED provide RESTful API remotely sync SCHED database exist event database"
+    },
+    {
+        "progweb_cat": "Events,Sports",
+        "api_name": "Active",
+        "id": 514,
+        "progweb_descr": " Activecom API provide readonly access data produce system within Active Network This include thing like run event tennis tournament triathlons highschool sport data Several company include livestrongcom ESPN active consumer API Monetize API Sign referral program earn revenue share httpwwwactivenetworkcomaffiliateshtm"
+    },
+    {
+        "progweb_cat": "Events,Sports",
+        "api_name": "FanSnap",
+        "id": 1219,
+        "progweb_descr": " FanSnap live event ticket search engine fan Its mission provide comprehensive accurate fast easytouse resource fan find tickets desire sport concert theater event FanSnap allow user website search ticket web one place choose seat select ticket purchase directly ticket site Add similar service site Monetization opportunities available FanSnap Affiliate Program"
+    },
+    {
+        "progweb_cat": "Events,New York City",
+        "api_name": "ArtBeat",
+        "id": 762,
+        "progweb_descr": " Use ArtBeat API get art design event information different area NYC Tokyo Get event longitude latitude area medium popularity"
+    },
+    {
+        "progweb_cat": "Events,Entertainment",
+        "api_name": "BeThereNYC",
+        "id": 962,
+        "progweb_descr": " BeThereNYC host list event occur New York City It focus event take place museum exhibition stargaze It also provide map show location list event information BeThereNYC access programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Events,Entertainment",
+        "api_name": "Stockholm Film Festival",
+        "id": 7727,
+        "progweb_descr": " Stockholm Film Festival 12day event include screening 170 film 40 country screening accompany film quiz party seminar activity Stockholm Film Festivals API allow developer access information aspect festival integrate information application"
+    },
+    {
+        "progweb_cat": "Events,Entertainment",
+        "api_name": "Ikdoe",
+        "id": 7888,
+        "progweb_descr": " Ikdoe combine internet resource create one source event activity happen Netherlands Ikdoe gather list website like Bbetribes uitinenschede paradiso hardloopkalender allow user discover type event music lecture dance reading workshops etc go specific neighborhood time"
+    },
+    {
+        "progweb_cat": "Events,Entertainment",
+        "api_name": "evvnt",
+        "id": 9227,
+        "progweb_descr": " evvnt online event marketing service broadcast publish event multiple event listing site include Facebook TimeOut Eventbrite evvnt allows save time reach thousand unique event consumer locally regionally nationally evvnt offer 2 RESTful APIs read API allow pull event evvnt publication site write API use conjunction read API submit event evvnt Both use JSON HTTPS require API key"
+    },
+    {
+        "progweb_cat": "Events,Database",
+        "api_name": "Mbar",
+        "id": 1012,
+        "progweb_descr": " Mbar bar terrace cafÃ© heart Helsinki Finland club offer free read REST API access program data include event artist club series information No API key require data format support XML YAML JSON"
+    },
+    {
+        "progweb_cat": "Events,Purchasing",
+        "api_name": "StubHub",
+        "id": 1076,
+        "progweb_descr": " StubHub online platform people buy sell ticket Users list sell concert ticket sport event ticket event ticket others purchase use StubHub API allow developer access integrate functionality StubHub application create new application Some example API method include manage account information retrieve event listing search ticket inventory"
+    },
+    {
+        "progweb_cat": "Events,Music",
+        "api_name": "Ticketfly",
+        "id": 1130,
+        "progweb_descr": " Ticketfly fastestgrowing independent ticket social marketing platform Ticketflyï¿½s API available commercial noncommercial use approve site It offer event promoter venues ticket powerful website social marketing tool"
+    },
+    {
+        "progweb_cat": "Events,Music",
+        "api_name": "GigaTools",
+        "id": 9252,
+        "progweb_descr": " GigaTools allow artist band label agent manage promote future gig online Musicians integrate performance schedule site like Facebook Twitter Soundcloud Mixcloud well blogs websites Labels agent use GigaTools manage artist schedule one place keep information uptodate across personal site social network GigaTools API allow user retrieve data upcoming gig GigaTools website Users search gigs location venue date range artists Soundcloud Twitter ID"
+    },
+    {
+        "progweb_cat": "Events,Music",
+        "api_name": "LairOut",
+        "id": 10018,
+        "progweb_descr": " LairOut web base event directory It simple require two search criterion â€ “ location date use homepage map instantly allow user view event interest area LairOut API allow user call LairOut event information service use REST call return XML JSON JSONP An account required service"
+    },
+    {
+        "progweb_cat": "Events,Music",
+        "api_name": "Evently",
+        "id": 11865,
+        "progweb_descr": " Evently API allow user include Evently event information outside websites Evently collect event information 1000 unique event listing service organize data searchable venue genre location Using REST API return either JSON XML user access information provide website An API Key require use"
+    },
+    {
+        "progweb_cat": "Events,Music",
+        "api_name": "MalmÃ¶festivalen",
+        "id": 13378,
+        "progweb_descr": " MalmÃ¶ Festival art music culture festival occur downtown MalmÃ¶ Swedens thirdlargest city An API available grab information festival include festival schedule event location list act news article festival API RESTful return response XML JSON JSONP site documentation Swedish"
+    },
+    {
+        "progweb_cat": "Events,Music",
+        "api_name": "DoStuffMedia",
+        "id": 14225,
+        "progweb_descr": " DoStuff Media company help local medium company music festival monetize web site provide technology aggregate organize display critical information festival incorporate social networking share interactive feature DoStuffMedia API design allow access schedule festival music event Their API give user access data specific festival year Users cross reference data band event API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Events,Social",
+        "api_name": "Venteria",
+        "id": 1197,
+        "progweb_descr": " Venteria service allow create schedule monitor indicate attendance local social event API give access find event base location date time"
+    },
+    {
+        "progweb_cat": "Events,Social",
+        "api_name": "Tweetvite",
+        "id": 1377,
+        "progweb_descr": " Tweetvite allow user create find tweetups user area Tweetvites feature include customizable invite track tweet retweets tweetup list event others find Tweetvite API currently readonly API allow user search retrieve event information guestlists comment user profile Tweetvite plan launch API user write future"
+    },
+    {
+        "progweb_cat": "Events,Social",
+        "api_name": "Glatsee Local Events",
+        "id": 1417,
+        "progweb_descr": " It api local event find event various place around world 20 category work hard bring clean useful data could use validate business idea even create next big thing Glatsee personal travel planner available Facebook chat Developers get data return event follow category DININGEVENT THEATERDANCE COMEDY SPORTSEVENT FESTIVALEVENT PARTIESNIGHTLIFE NEIGHBORHOOD MISICEVENTS MUSIC Data return include Name Details Photos location interested count attend count decline count category ticketurl status time zone What get You get 250 api call per month free"
+    },
+    {
+        "progweb_cat": "Events,Social",
+        "api_name": "Events.com",
+        "id": 7254,
+        "progweb_descr": " Eventscom API beta developer might find beneficial create activity local community This API aim provide intuitive approach consumer tend choose event target preference From administrator perspective API serve organizer spread word event track attendees manage activity receive feedback improvement Developers public relation industry manage big event benefit API since accord site interface keep concert marathon show digitally organize begin end Eventscom API offer feature user search event stream avatar notification Even though site publishes worldwide event technical support available developer submit ticket personalize mashup creation"
+    },
+    {
+        "progweb_cat": "Events,Social",
+        "api_name": "Doorkeeper",
+        "id": 9277,
+        "progweb_descr": " Doorkeeper event promotion service help promoter build network participant call community Invites future event send instantly everyone community upcoming event automatically appear community member calendar Should promoter decide switch service easily export community member information take When event create Doorkeeper share information event list site Instead get count people say theyre come promoter choose charge advance event check participant use ticket scan app They also send reminder people sign event advance make sure turn Doorkeeper API allow user retrieve event list Doorkeeper event give community Doorkeeper website API documentation offer English Japanese"
+    },
+    {
+        "progweb_cat": "Events,Social",
+        "api_name": "Eventlister.com",
+        "id": 10474,
+        "progweb_descr": " Eventlistercom provide large event directory craft festival concert art expo show If youre new even experienced crafter Eventlistercom provide tool need exhibit sell craft connect local event even exhibitor look vendor area You also search indexed listing various craftart function specify time location REST base Eventlistercom API allow third party sit developer utilize event listing message capability site building application tool Methods include EventCategories EventSearch EventImage EventWebsiteForwarder MessageSend MessageCheckStatus Respones format XML"
+    },
+    {
+        "progweb_cat": "Events,Social",
+        "api_name": "EventPoint",
+        "id": 10753,
+        "progweb_descr": " EventPoint platform provide resource help event planner manage promote event EventPoints core service include robust reporting mobile version everything business intelligence data fee personal website All EventPoints service access use either RESTful SOAPbased APIs This mean programmatic method use retrieve edit information event attendees well access event evaluation sit message service"
+    },
+    {
+        "progweb_cat": "Events,Social",
+        "api_name": "crowd.fm",
+        "id": 10960,
+        "progweb_descr": " crowdfm application platform user create edit share publish event information crowdfm offer event creation edit feature allow user publish updated information across various application platform crowdfm API allow developer access integrate event data crowdfm application available API method retrieve publish forthcoming event event information"
+    },
+    {
+        "progweb_cat": "Events,Social",
+        "api_name": "Eventification",
+        "id": 14594,
+        "progweb_descr": " Eventification website user submit browse subscribeRSVP event publish user Eventification API still production devvelopers still use currently available method search event publish Eventification receive result JSON XML RSS iCal format"
+    },
+    {
+        "progweb_cat": "Events,Social",
+        "api_name": "Community Megaphone",
+        "id": 15346,
+        "progweb_descr": " Community Megaphone intend provide way add event without need sign register provide personal information easily share information upcoming event via web RSS customizable gadget add website Community Megaphone also provide integration Outlook via iCal support well map event location via Virtual Earth Community Megaphone API allow developer add update search event"
+    },
+    {
+        "progweb_cat": "Events,Search",
+        "api_name": "SeatGeek",
+        "id": 1343,
+        "progweb_descr": " SeatGeek ticket search site aggregate sport concert theater ticket listing Stubhub ebay TicketsNow many site display information addition interactive seating chart allow easy assessment ticket quality companyâ€™s Deal Score technology use identify ticket event best bargain It use proprietary algorithm forecast ticket price move time enable user buy price low SeatGeek API provide developer access companyâ€™s dataset live event RESTful API return request JSON JSONP XML provide detailed information venue latlon average ticket price seat location SeatGeek community portal keep record support conversation useful tool look get question answer With addition SeatGeek Partner Program site earn money every time user site buys ticket Each time partner send referral SeatGeek purchase ticket SeatGeek pay partner 50 revenue earn transaction Currently users average 11 per sale generate"
+    },
+    {
+        "progweb_cat": "Events,Search",
+        "api_name": "Ticketmaster Discovery",
+        "id": 3983,
+        "progweb_descr": " Ticketmaster Discovery API allow developer programmatically search look find specific event attraction venue classification By default API user make 5000 callsday Rate increase provide casebycase basis Ticketmaster online ticket retail platform offer ticket concert sport event play fair"
+    },
+    {
+        "progweb_cat": "Events,Search",
+        "api_name": "Ticketmaster International Discovery",
+        "id": 3985,
+        "progweb_descr": " Ticketmaster International Discovery API allow developer integrate ability search information event attraction venue include ticket information application By default API user make 5000 callsday Rate increase provide casebycase basis Ticketmaster online ticket retail platform offer ticket concert sport event play fair"
+    },
+    {
+        "progweb_cat": "Events,Search",
+        "api_name": "Glimt",
+        "id": 12250,
+        "progweb_descr": " Glimtcom event discovery platform Glimtcom aggregate event data multiple source add geotag event Norway Glimtcom display event via list map Events type include Glimtcom API allow developer access integrate functionality Glimtcom application create new application Some example API method include retrieve event retrieve event detail search event keyword location type"
+    },
+    {
+        "progweb_cat": "Events,Search",
+        "api_name": "New York Times Events",
+        "id": 13605,
+        "progweb_descr": " New York Times offer variety APIs available developer New York Times Events API allow developer access integrate cultural event listing New York Times application sit Example API method include search event location search event full text search search event base characteristic"
+    },
+    {
+        "progweb_cat": "Events,England",
+        "api_name": "Gatekrash",
+        "id": 1351,
+        "progweb_descr": " Gatekrash aggregate event listing UK search website Gatekrash collect list provide filter sort option Events group geographically venue similarity Gatekrash API provide RESTful interface Gatekrash event database API currently free use rate limit authentication require though consider perpetual beta"
+    },
+    {
+        "progweb_cat": "Events,England",
+        "api_name": "Festivalslab",
+        "id": 14381,
+        "progweb_descr": " Festivalslab part Festivals Edinburgh umbrella organization work behalf 12 Edinburgh festival represent share strategic interest Festivalslab program work identifies develop way improve world festival city Edinburgh audience artists partner festival organization Festivalslab API offer pilot initiative 2011 Edinburgh Festivals listing data developer produce new web mobile base application Data access return include venue name price information geographic information fulltext search"
+    },
+    {
+        "progweb_cat": "Events,England",
+        "api_name": "Skiddle",
+        "id": 14612,
+        "progweb_descr": " Skiddlecom whats guide website offer ticket search booking service event restaurant hotel UK Events API let users access event data integrate application Users search event venue API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "Brown Paper Tickets",
+        "id": 1383,
+        "progweb_descr": " Brown Paper Tickets fairtrade ticket company provide ticket large small event In addition website Brown Paper Tickets provide RESTful API developer use integrate use data Brown Paper Tickets API give developer access full feature suite event ticket management tool Brown Paper Tickets API also work affiliate program allow apps generate revenue developer"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "Eventgrid Customer",
+        "id": 1830,
+        "progweb_descr": " Eventgrid Customer API allow developer create order flow purchase ticket seat create registration session Eventgrid event registration ticket platform allow user create custom brand online event registration page manage event attendee access ticket one portal Tools receive payment promote event also provide"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "Glownet",
+        "id": 2978,
+        "progweb_descr": " This API design Glownet partner directly integrate system automate enhance event experience avoid manual data transfer suboptimal wait experience customer It orient Ticketing Accreditation partner allow partner submit new ticket purchase new accreditation do system Glownet real­time Examples available HTTP · cURL · Java OK HTTP · Java Unirest · JavaScript · jQuery · PHP · Python Ruby Glownet help create event bring together promoter artist festival goer caterer sponsor"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "Ticketbud",
+        "id": 7966,
+        "progweb_descr": " Ticketbud free online ticket platform support user create manage event Using Ticketbud user create event add customizable ticket publish promote event manage entry Ticketbud API allow developer view event ticket data API currently readonly Ticketbud intend add ability create event purchase ticket"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "Explara",
+        "id": 7969,
+        "progweb_descr": " Explara online event registration ticket service Explara help event organizer post manage track ticket various type event Explara APIs allow developer access integrate functionality Explara applications Some example API method include manage event list ticket manage event booking Find httpdevelopersexplaracom"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "Seats.io",
+        "id": 8184,
+        "progweb_descr": " Seatsio interactive tool online ticket seller Ticket vendor use Seatsio chart draw tool create seating chart website Ticket buyer use interactive chat select seat want Seatsio offer REST API book release seat Use API instantly push new seat situation currently connect client avoid double book All request do SSL API Key require"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "Tick.ee",
+        "id": 8787,
+        "progweb_descr": " Tickee free online ticket sale platform Sign account tickee sell ticket tickee minisite straight website Tickee offer feature scan apps easy set Tickee offer REST API access account ticket user information Sample API method include account event location order payment service provider ticket types ticket user Authentication provide via OAuth 2"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "Tito",
+        "id": 9748,
+        "progweb_descr": " Tito event ticket sale management application Event planner manager use Tito manage ticket sale event Tito API allow developer access integrate functionality Tito application Public documentation available interested developer contact supporttitoio information"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "ticcats",
+        "id": 9796,
+        "progweb_descr": " ticcats Germanlanguage website find event ticket Europe focus Germany Austria Switzerland France UK It one big event database Europe make accessible via API allow developer use application Those exist event database use ticcats supplement additional ticket price comparison data ticcats API accessible via REST call issue JSON format"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "Koliseo",
+        "id": 10756,
+        "progweb_descr": " Koliseo free ticketselling platform event size Koliseo provide RESTful API retrieve information event user website API documentation ongoing project stable feature make public function available thus far enable programmer retrieve show information performance within show retrieve give user show venue ticket purchase"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "TicketCity",
+        "id": 12631,
+        "progweb_descr": " TicketCity service buy sell ticket event include sport theater concert It offer ticket 75000 event 28 country include marketplace ticket broker individual seller TicketCity API allow affiliate partner integrate event ticket inventory website application API method allow user retrieve data pertain city statesprovinces country venue performer upcoming event ticket available sale web service also provide ability add ticket shop cart API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Events,Tickets",
+        "api_name": "TicketLeap",
+        "id": 13892,
+        "progweb_descr": " TicketLeap portal sell ticket promote event TicketLeaps service ticket seller include brand social marketing technological integration data analysis live support TicketLeap API allow programmatic access TicketLeaps publicly accessible information Users able retrieve information event organization performance list TicketLeap This REST base API return data JSON doesnt support HTTPS accessible free API key"
+    },
+    {
+        "progweb_cat": "Events",
+        "api_name": "Spraci",
+        "id": 1625,
+        "progweb_descr": " Nightlife club gigs festival art public event list many city worldwide"
+    },
+    {
+        "progweb_cat": "Events",
+        "api_name": "EMS Master Calendar",
+        "id": 11275,
+        "progweb_descr": " service provide online access share centralized event calendar allow individual group coordinate activity Each list give date time location along detail describe event direction service configure provide additional information desire API method support list event booking detail venue room need amenity room setup option availability facility Methods also support reserve specific venue payment processing"
+    },
+    {
+        "progweb_cat": "Events",
+        "api_name": "LearningSource",
+        "id": 14098,
+        "progweb_descr": " LearningSource online training event management platform It automate communication schedule registration processing provide collaborative learn platform Using API developer integrate content LearningSource CMS publish web site API provide access upcoming eventcourse information venue event category It use RESTful call response format XML Full documentation available"
+    },
+    {
+        "progweb_cat": "Events",
+        "api_name": "Plakatt",
+        "id": 14453,
+        "progweb_descr": " Plakatt website build around event Users view event add tags comment picture video create new event Events browse city tag Plakatt API allow developer integrate Plakatt event database site"
+    },
+    {
+        "progweb_cat": "Events",
+        "api_name": "Live Matrix",
+        "id": 14605,
+        "progweb_descr": " Live Matrix guide ’ happen Web It list thousand live online event every day include live video streams event live celebrity chat onetime sale game event live audio stream Users save event get reminder start Live Matrix API currently beta documentation publicly available"
+    },
+    {
+        "progweb_cat": "Events",
+        "api_name": "Burning Man",
+        "id": 15392,
+        "progweb_descr": " Burning Man art event temporary community base radical self expression selfreliance take place summer Black Rock City Nevada It API give user sort data pertain Features include access data concern maps event theme"
+    },
+    {
+        "progweb_cat": "Events",
+        "api_name": "Seattle 2.0",
+        "id": 15734,
+        "progweb_descr": " Use Seattle 20 API get upcoming event Seattle Seattle 20 found 2007 help tech entrepreneur build great company It different write doer Seattle 20 consist entrepreneur investor advisor consultant member Seattle startup community"
+    },
+    {
+        "progweb_cat": "Events",
+        "api_name": "Eventfinder",
+        "id": 15878,
+        "progweb_descr": " NOTE No API documentation available site From site Eventfinder event calendar focus whats around New Zealand"
+    },
+    {
+        "progweb_cat": "Events,Business",
+        "api_name": "EventUpon",
+        "id": 2221,
+        "progweb_descr": " EventUpon API return event information thousand organization include EventBrite Meetup others All type event include business network technology entrepreneurship nonprofit civic art culture music entertainment run Events return list organization location radius Use API require EventUpon account API Key configure select organization Free EventUpon account return two organization"
+    },
+    {
+        "progweb_cat": "Events,Business",
+        "api_name": "TM Forum Party Management",
+        "id": 4076,
+        "progweb_descr": " TM Forum Party Management API allow developer manage party programmatically A party may individual organization relationship enterprise TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Events,Business",
+        "api_name": "Scottish Enterprise Events",
+        "id": 11850,
+        "progweb_descr": " Scottish Enterprise offer business advice support Scotlands business order stimulate economic growth improve business environment They also offer grant loan equity investment business look grow develop export Scottish Enterprise host frequent talk workshops businessrelated topic Scottish Enterprise Events API use retrieve create update event information"
+    },
+    {
+        "progweb_cat": "Events,Funding",
+        "api_name": "f6s Profile",
+        "id": 2862,
+        "progweb_descr": " This API let request data F6S profile like people startups event program call return JSON base URL parameter send standard HTTPS request F6s Global Founder Community Startup Programs Founder Deals Jobs Events"
+    },
+    {
+        "progweb_cat": "Events,Air Travel",
+        "api_name": "PredictHQ",
+        "id": 3041,
+        "progweb_descr": " PredictHQ API gateway broad range schedule realtime event category From public holiday school holiday observance concert festival perform art community sport conference expos daylight saving airport delay severe weather even natural disaster API allow user filter event integrate target product application operate single source data event All event numeric rank developer ability filter major minor event"
+    },
+    {
+        "progweb_cat": "Events,Publishing",
+        "api_name": "Ticketmaster Publish",
+        "id": 3980,
+        "progweb_descr": " Ticketmaster Publish API allow developer publish event venue attraction available retrieval use Discovery API By default API user make 5000 callsday Rate increase provide casebycase basis Ticketmaster online ticket retail platform offer ticket concert sport event play fair"
+    },
+    {
+        "progweb_cat": "Events,API",
+        "api_name": "Ents24",
+        "id": 4560,
+        "progweb_descr": " Ents24 API give developer access UK ’ comprehensive live entertainment database API REST base CORS enable Ents24 allow user browse buy ticket music event UK Users follow performer gig alert"
+    },
+    {
+        "progweb_cat": "Events,API",
+        "api_name": "Arlo",
+        "id": 5746,
+        "progweb_descr": " Arlo API REST API provide developer access event contact organization registration CRM data store Arlo platform API also support public API design browserbased web JavaScript widgets mashups well Authenticated API serverbased integration website CRM software"
+    },
+    {
+        "progweb_cat": "Events,Planning",
+        "api_name": "EventDay",
+        "id": 4759,
+        "progweb_descr": " EventDay API provide developer tool manage manipulate event data stream EventDay platform provider EventDay create proprietary platform use integratation event management application API ’ event service portal offer access portfolio event management tool return detail eventspecific information Its access request limit permission authorize API key EventDay API welldocumented fullysupported release"
+    },
+    {
+        "progweb_cat": "Events,Planning",
+        "api_name": "Attendify",
+        "id": 5285,
+        "progweb_descr": " Attendify event API allow build custom apps event conference API accept XML JSON data format support HTTP Basic Auth authentication Use Attendify add event schedule speaker bios map news event app To get started sign free Attendify account access Developers Dashboard See API docs detailed information method schema description"
+    },
+    {
+        "progweb_cat": "Events,Payments",
+        "api_name": "Picatic",
+        "id": 4831,
+        "progweb_descr": " Picatic API give user tool sell ticket online directly app website Picatic API also provide ability quickly create new event list event website create link purchase ticket online retrieve store data event automatically add registrant CRM send trigger email base action view attendee order survey information With API user get realtime access report data create personalize report Picatic ticket platform unique approach let promoter create event page generate fund event book"
+    },
+    {
+        "progweb_cat": "Events,Booking",
+        "api_name": "Priava",
+        "id": 4845,
+        "progweb_descr": " Priava offer venue event management service cloud Priava API allow developer access platform integrate thirdparty application API method include query venue event type create get contact opportunity event source"
+    },
+    {
+        "progweb_cat": "Events,Booking",
+        "api_name": "Tripleseat",
+        "id": 10771,
+        "progweb_descr": " Tripleseat webbased event plan book service venue customer Tripleseat API provide RESTful interface developer create update delete data Tripleseat account Results return either JSON XML format"
+    },
+    {
+        "progweb_cat": "Events,Application Development",
+        "api_name": "GitHub Activity Events",
+        "id": 5744,
+        "progweb_descr": " GitHub Activity Events API allow developer integrate Github Events call service application give developer access list event public repository issue This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Events,Application Development",
+        "api_name": "GitHub Issue Events",
+        "id": 5891,
+        "progweb_descr": " GitHub Issue Events API allow developer integrate GitHub issue event service application gain access record various event occur around Issue Pull Request This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Events,Mobile",
+        "api_name": "Eventjoy",
+        "id": 5831,
+        "progweb_descr": " Eventjoy REST API allow developer access integrate functionality Eventjoy application use JSON Public documentation available interested developer contact Eventjoy API access Eventjoy event ticket platform free optimize mobile device"
+    },
+    {
+        "progweb_cat": "Events,Mobile",
+        "api_name": "MobiCheckin",
+        "id": 8024,
+        "progweb_descr": " MobiCheckin guest registration checkin application professional event organizer Users check guest monitor arrival use mobile iOS device They also manage guest list badge invite online MobiCheckin API provide user programmatic method work event guest checkins signature exhibitor"
+    },
+    {
+        "progweb_cat": "Events,Mobile",
+        "api_name": "Zerista",
+        "id": 11892,
+        "progweb_descr": " Zerista datamanagement service event planner It provide suite tool organizer exhibitor organize plan maximize value information stag Its feature include directory profile eventâ€™s participant social private communication channel schedule social medium integration Zerista API expose functionality category It RESTful API return JSON XML data"
+    },
+    {
+        "progweb_cat": "Events,Organization",
+        "api_name": "Eventsforce",
+        "id": 6278,
+        "progweb_descr": " Eventsforce event management API employ standard HTTP GET request authenticate API Key standard HTTP Authentication API Keys generate within Eventsforce account holder administration interface Use Eventsforce API manage every aspect event like create website handle registration communicate attendee create event badge APIs documentation host Apiary include extensive documentation example data user query"
+    },
+    {
+        "progweb_cat": "Events,Organization",
+        "api_name": "Eventility",
+        "id": 12308,
+        "progweb_descr": " Eventility event organization promotion platform It contain database venue event club group community API give user access public event content use application web site FUnctionality include access update information store Eventility This information group venue event club group community CGCs facility miscellaneous API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Events,Accounts",
+        "api_name": "Preact",
+        "id": 6656,
+        "progweb_descr": " Preact API enable developer log event information application API work give person account individually objective API able predict customer behavior would enable company well business approach"
+    },
+    {
+        "progweb_cat": "Events,Collaboration",
+        "api_name": "Action Network",
+        "id": 6739,
+        "progweb_descr": " ActionNetworkorg online organize resource group use promote campaign petition progressive cause Users create petition collect signature create form collect information schedule event create group assemble fundraiser Action Network API allow community organizer access core API order send GET POST PUT request return list supporter petitionsigners add people email list post new fundraising page unsubscribe people list"
+    },
+    {
+        "progweb_cat": "Events,Education",
+        "api_name": "BYU Event Hub",
+        "id": 7550,
+        "progweb_descr": " Event Hub API Brigham Young University BYU enable application interaction BYU business event API allow application raise business event interest application subscribe event raise application retrieve event subscribe say application Event Hub API also allow developer push event application instal Push Client web server establish End Point Event Hub evoke"
+    },
+    {
+        "progweb_cat": "Events,Education",
+        "api_name": "CS50 HarvardEvents",
+        "id": 14088,
+        "progweb_descr": " HarvardEvents calendar app detail event happen around Harvard campus data also available programaticaly RESTful HarvardEvents API CSV iCalendar JSON JSONP PHP RSS XML format This data use integrate HarvardEvents developer application HarvardEvents available NonComercial use via Creative Commons AttributionNoncommerical 30 Unported license commercial use contact author"
+    },
+    {
+        "progweb_cat": "Events,French",
+        "api_name": "Devoxx France",
+        "id": 7590,
+        "progweb_descr": " Devoxx France French developer conference hold Paris Devoxx France API allow user view conference event detail event speaker speaker detail talk detail list available schedule specific schedule Devoxx France website provide French API documentation offer English API return result either English French"
+    },
+    {
+        "progweb_cat": "Events,Scheduling",
+        "api_name": "Dreamhack Crew Corner",
+        "id": 7746,
+        "progweb_descr": " DreamHack possibly worlds large computer festival Happening twice year Swedish festival include digital art game competition concert event DreamHack Crew Corner API expose festival data include schedule photographs API include public endpoint well endpoint available festival volunteer crew"
+    },
+    {
+        "progweb_cat": "Events,Scheduling",
+        "api_name": "Appointment.com",
+        "id": 10693,
+        "progweb_descr": " service provide scheduling appointment set calendar build It especially useful service provider business rely heavily time client interaction API method support define service availability date time book time slot specific customer client Methods also support create update client account search identify available appointment time service provider assignment service category time slot requirement"
+    },
+    {
+        "progweb_cat": "Events,Scheduling",
+        "api_name": "Sapo Agenda",
+        "id": 12316,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide Agenda APIs provide data various agendas schedule different type event activity happen around Portugal event include dance performance music concert festival theater premiere APIs use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Events,Forms",
+        "api_name": "Attendease",
+        "id": 7749,
+        "progweb_descr": " Attendease event platform allow user publish event website schedule registration form one place distribution It also provide draganddrop Form Builder let user build many different form registration flow like Attendease also check guest arrive event Users create mobilefriendly online survey get instant feedback event attendee"
+    },
+    {
+        "progweb_cat": "Events,Belgian",
+        "api_name": "Belgium Hacker Agenda",
+        "id": 7786,
+        "progweb_descr": " Belgium Hacker Agenda calendar event Belgium may interest Hackerspaces web resource Events parse Belgium Hacker Agenda API provide developer access JSON format event data Data include event title date location well relevant URLs"
+    },
+    {
+        "progweb_cat": "Events,Lists",
+        "api_name": "Planvine",
+        "id": 7939,
+        "progweb_descr": " Planvine event listing application Planvine provide event listing lineups user search access multiple event feature Planvine API allow developer access integrate functionality Planvine applications Some example API method include retrieve event information retrieve event venue retrieve venue information"
+    },
+    {
+        "progweb_cat": "Events,Art",
+        "api_name": "Burning Man PlayaEvents",
+        "id": 8634,
+        "progweb_descr": " Burning Man interactive art event temporary experimental community gather yearly Nevadaâ€™s Black Rock Desert Burningmancomâ€™s PlayaEvents API provide programmatic access information describe event Exposed data include information describe event theme camp art installation street API access free publicly available"
+    },
+    {
+        "progweb_cat": "Events,Australian",
+        "api_name": "GoDo",
+        "id": 8641,
+        "progweb_descr": " GoDo activity book service Australia New Zealand Site visitor choose 2000 activity cook class tour sky dive kayaking Activities sort category subcategory price region make easy user browse search preferred activity Developers retrieve information GoDos offer programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Events,Tourism",
+        "api_name": "Miami Beach Visitor and Convention Authority",
+        "id": 9264,
+        "progweb_descr": " MiamiBeachAPIcom service Miami Beach Visitor Convention Authority VCA deliver information Miami Beach business event site power RESTful API VCA expose information free API require signup support browse search event business category Responses JSON format"
+    },
+    {
+        "progweb_cat": "Events,Tourism",
+        "api_name": "City of Helsinki Listed Events",
+        "id": 9483,
+        "progweb_descr": " Listed Events service provide information event place interest Helsinki capital region This service take data Visithelsinkifi city Helsinkiâ€™s official website tourism travel information Listed Events API provide programmatic access category event place contain service via REST call Listed Events service available Finnish English Swedish"
+    },
+    {
+        "progweb_cat": "Events,Agriculture",
+        "api_name": "Arizona National Livestock Show",
+        "id": 9332,
+        "progweb_descr": " Arizona National Livestock Show ANLS website provide information show event general public ANLS seek preserve western heritage promote livestock agricultural practice Users retrieve information ANLS event history sponsor programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Events,eCommerce",
+        "api_name": "Bypass",
+        "id": 9732,
+        "progweb_descr": " Bypass commerce service solution sport event venue Bypass offer commerce solution concessionaries merchant work sport event venue Bypass API allow developer access integrate functionality Bypass application Public documentation available interested developer email infobypassmobilecom information"
+    },
+    {
+        "progweb_cat": "Events,eCommerce",
+        "api_name": "Ticket Evolution",
+        "id": 14196,
+        "progweb_descr": " Ticket Evolution provide flexible robust API create unique ticket experience site allow maintain brand We aggregate inventory 700 professional ticket seller create ultimate customer experience customer"
+    },
+    {
+        "progweb_cat": "Events,Food",
+        "api_name": "Open New York Farmers Markets in New York State",
+        "id": 9733,
+        "progweb_descr": " Open New York collect expose local state federal data site host catalogue datasets organize location subject area Open New York Farmers Markets New York State API expose information community farmer market Data type include time location market manager name phone number API access HTTPS Responses may JSON XML CSV format"
+    },
+    {
+        "progweb_cat": "Events,Charity",
+        "api_name": "ServiceU",
+        "id": 9888,
+        "progweb_descr": " ServiceU webbased software design help church school nonprofit organization manage online process related event donation It offer online event registration ticket service also accept donation make website mobile device ServiceU provide REST APIs allow user access data use calendar web page mobile apps ServiceU also provide SOAP API customize EventU Public Calendar"
+    },
+    {
+        "progweb_cat": "Events,Holidays",
+        "api_name": "24 Pull Requests",
+        "id": 10092,
+        "progweb_descr": " 24 Pull Requests annual initiative encourages developer around world send pull request open source project every day December Christmas Participants log GitHub account 24 Pull Requests track highlight participant pull request suggest project work site JSON API allow user retrieve information suggest project pull request issue site user"
+    },
+    {
+        "progweb_cat": "Events,Discounts",
+        "api_name": "WithFloats",
+        "id": 10180,
+        "progweb_descr": " WithFloats local discovery service allow user search event business movie party offer city WithFloats API allow developer access integrate functionality WithFloats application Public documentation available Interested developer sign httpdevelopwithfloatscom API access"
+    },
+    {
+        "progweb_cat": "Events,Scottish",
+        "api_name": "Edinburgh Festival",
+        "id": 10596,
+        "progweb_descr": " Edinburgh capital Scotland host twelve major festival per year Edinburgh Festival API provide Edinburgh Festivals Innovation Lab use retrieve filterable list event festival This API access use REST call issue either XML JSON format"
+    },
+    {
+        "progweb_cat": "Events,Tools",
+        "api_name": "Ticketscript",
+        "id": 11667,
+        "progweb_descr": " Ticketscript free event ticket software tool Developers use Ticketscript integrate website Facebook page Ticketscripts platform From platform developer mange ticket selling aspect event utilize sale information demographic information information record Ticketscript software"
+    },
+    {
+        "progweb_cat": "Events,Surveys",
+        "api_name": "cvent",
+        "id": 11952,
+        "progweb_descr": " service provide tools communication around event survey ability email notification request provide input via online questionnaires Other possible application include customer feedback market research qualify sale lead timesensitive customer communication Venue directory RFQ function also available API method support blast email communication address book integration synchronize mail list information backoffice system Methods also allow post data collection online survey email invite response export submit data"
+    },
+    {
+        "progweb_cat": "Events,Movies",
+        "api_name": "West World Media",
+        "id": 12090,
+        "progweb_descr": " West World Media lead provider movie showtimes entertainment listing venue market They collect compile provide shotimes movie data newspaper worldwide company also provide movie guide trailer online ticket video service box office gross review entertainment news local event listing music listing sport coverage West World Media make data available partner via API Documentation publicly avaiable"
+    },
+    {
+        "progweb_cat": "Events,Notifications",
+        "api_name": "Sapo Alerts",
+        "id": 12375,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide Sapo Alerts service allow user subscribe event receive notification happen various format include email SMS IMXMPP Functionality include add activate subscription retrieve destination list event detail remove user API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Events,Management",
+        "api_name": "Certain",
+        "id": 12793,
+        "progweb_descr": " Certain demand event management service Its cloud base platform allow user plan promote manage track event Certain API allow developer integrate data Certain platform application This data include meeting registration Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Events,Polls",
+        "api_name": "SpeakerRate",
+        "id": 13929,
+        "progweb_descr": " SpeakerRate online service event organizer attendees speaker It allow event organizer search event speaker attendees get information provide feedback event speaker speaker receive feedback attendee organizer SpeakerRate API allow developer access SpeakerRate data Data retrieve SpeakerRates speaker event talk series API intend noncommercial purpose look use commercial purpose contact SpeakerRate"
+    },
+    {
+        "progweb_cat": "Events,Reference",
+        "api_name": "Activism Network Community",
+        "id": 14014,
+        "progweb_descr": " Activism Network Community online interactive community activists social movement network include database activist social movement contact certain movement cause resource activists event calendar email list regard certain topic Activism Network Community API allow developer retrieve upcoming event networks event calendar well filter geographic location issue site say API expand time"
+    },
+    {
+        "progweb_cat": "Events,Korean",
+        "api_name": "Daum Events",
+        "id": 14373,
+        "progweb_descr": " Daum web portal South Korea offer many Internet service web user include popular free webbased email message service forum shop news Daum Content API delivers information film festivals developer information integrate third party application website API use RESTful call response format XML JSON RSS site documentation Korean"
+    },
+    {
+        "progweb_cat": "Events,Mapping",
+        "api_name": "Fizber Events",
+        "id": 15656,
+        "progweb_descr": " Fizber Events API search event city name service return latitude longitude event easy embed map response also include category identifier link information event web"
+    },
+    {
+        "progweb_cat": "Events,European",
+        "api_name": "Amiando",
+        "id": 15793,
+        "progweb_descr": " Amiando lead ondemand tool Europe online event organization It use thousand event host worldwide Three APIs available Community Ticketing API let user sell ticket get cut every ticket sell eventSense API user event browse amiando XMLRPC API access data event participant"
+    }
+]

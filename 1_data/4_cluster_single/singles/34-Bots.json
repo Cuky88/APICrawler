@@ -1,0 +1,206 @@
+[
+    {
+        "progweb_cat": "Bots,Cloud",
+        "api_name": "Telegram Bot",
+        "id": 384,
+        "progweb_descr": " Telegram cloudbased service offer message service share text photo video offer Telegram Bot API This service allow integrate bot AI application mind What Telegram mean AI include teach broadcast connect feature software component API create HTTP interface authorize token See httpscoretelegramorgbotsapi"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "GroupMe Bot",
+        "id": 700,
+        "progweb_descr": " GroupMe Bot REST API allow developer create manage bot GroupMe application main API method create manage bot GroupMe GroupMe message chat platform"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Meya",
+        "id": 1550,
+        "progweb_descr": " Meya REST API allow developer access integrate functionality Meya applications Some example API method include manage user deploy bot manage object event send retrieve message Meyaai bot platform help user build train deploy bot"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Microsoft Bot Framework Bot Connector",
+        "id": 2112,
+        "progweb_descr": " Microsoft Bot Framework Bot Connector REST API allow developer access integrate bot framework capability application Bot Framework Bot Connector API allow bot send receive message configure Bot Framework Microsoft Bot Framework offer developer tool platform build bot various conversational transaction purpose application website"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Microsoft Bot Framework Bot State",
+        "id": 2113,
+        "progweb_descr": " Microsoft Bot Framework Bot State REST API allow developer access integrate bot framework capability application Bot Framework Bot State API allow bot store retrieve state associate Bot Connector API Microsoft Bot Framework offer developer tool platform build bot various conversational transaction purpose application website"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Microsoft Bot Framework Bot Direct Line",
+        "id": 2114,
+        "progweb_descr": " Microsoft Bot Framework Bot Direct Line REST API allow developer access integrate bot framework capability application Bot Framework Bot Direct Line API allow user connect single bot authenticate send receive message bot Microsoft Bot Framework offer developer tool platform build bot various conversational transaction purpose application website"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Wire",
+        "id": 2119,
+        "progweb_descr": " Wire REST API allow developer access integrate functionality Wire applications Some example API method include retrieve bot send message retrieve message Wire provide chat chatbot communication tool enable company chat communication bot via video message voice text"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Chatfuel",
+        "id": 2703,
+        "progweb_descr": " Chatfuel REST API allow developer access integrate functionality Chatfuel application server main API method send message send image Chatfuel allow user create bot chat message without cod"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Recast.AI",
+        "id": 3159,
+        "progweb_descr": " RecastAI collaborative bot platform provider base France integrates application speech conversation understand RecastAI application business travel productivity This platform free developer unlimited public bot limit API call 15000 per month enterprise plan also available"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Slack Bot RTM",
+        "id": 3707,
+        "progweb_descr": " Independent Slack Bot RTM API use build Slack application team base message Normal Real Time Messaging bot implement modular API"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Kik Bot",
+        "id": 3999,
+        "progweb_descr": " Kik Bot REST API allow developer build bot Kik message platform main API method build bot send bot reply Kik platform Kik crossplatform mobile message application smartphones"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Gupshup Twitter Bot",
+        "id": 4000,
+        "progweb_descr": " Gupshup Twitter Bot REST API allow developer create deploy message bot Twitter Some API method include access account create bot deploy bot message Gupshup provide developer tool build deploy bot many platform across channel"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Gupshup Slack Bot",
+        "id": 4001,
+        "progweb_descr": " Gupshup Slack Bot REST API allow developer create deploy message bot Slack Some API method include access account create bot deploy bot message Gupshup provide developer tool build deploy bot many platform across channel"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Gupshup SMS Bot",
+        "id": 4002,
+        "progweb_descr": " Gupshup SMS Bot REST API allow developer create deploy message bot SMS text message Some API method include access account create bot deploy bot message Gupshup provide developer tool build deploy bot many platform across channel"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Gupshup HipChat Bot",
+        "id": 4022,
+        "progweb_descr": " Gupshup Hipchat Bot REST API allow developer create deploy message bot Hipchat Some API method include access account create bot deploy bot message Gupshup provide developer tool build deploy bot many platform across channel"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Gupshup WeChat Bot",
+        "id": 4031,
+        "progweb_descr": " Gupshup WeChat Bot REST API allow developer create deploy message bot WeChat Some API method include access account create bot deploy bot message Gupshup provide developer tool build deploy bot many platform across channel"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Gupshup Teamchat Bot",
+        "id": 4032,
+        "progweb_descr": " Gupshup Teamchat Bot REST API allow developer create deploy message bot Teamchat Some API method include access account create bot deploy bot message Gupshup provide developer tool build deploy bot many platform across channel"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Teamchat Bots",
+        "id": 4041,
+        "progweb_descr": " Teamchat Bot REST API allow developer create bot work Teamchat main API method create customize message bot use Teamchat Teamchat mobile web message platform team business size"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Line Bot",
+        "id": 4048,
+        "progweb_descr": " Line Bot REST API allow developer build manage deploy bot Line platform main API method create bot manage bot send bot message Line voice video call message chat application"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Slack Bot",
+        "id": 4051,
+        "progweb_descr": " Slack Bot REST API allow developer build bot bot user Slack main API method create customize bot bot user Slack Slack tool manage team communication Slack bring together teams message file post Twitter Dropbox Trello Google Docs GitHub service one place"
+    },
+    {
+        "progweb_cat": "Bots,Chat",
+        "api_name": "Skype Bot",
+        "id": 4089,
+        "progweb_descr": " Skype Bot REST API allow developer create deploy message bot Skype Some API method include access account create bot deploy bot message Skype mobile web base application make call video call message"
+    },
+    {
+        "progweb_cat": "Bots,Artificial Intelligence",
+        "api_name": "SnatchBot",
+        "id": 1473,
+        "progweb_descr": " SnatchBot API enable bot creation mobile device web apps chat service Facebook Messenger SnatchApp Skype use Slack Twilio integration send receive message It available REST architecture API Key App ID authentication method JSON callback format With SnatchBot API developer implement sentiment extract URL include statement add multiple choice await response extract email collect number"
+    },
+    {
+        "progweb_cat": "Bots,Artificial Intelligence",
+        "api_name": "Existor Cleverbot",
+        "id": 2419,
+        "progweb_descr": " official Cleverbot API access chat feature various language offer free package Available make request URI Query StringCRUD JSON JSONP response format"
+    },
+    {
+        "progweb_cat": "Bots,Games",
+        "api_name": "generalsIO Bot",
+        "id": 1735,
+        "progweb_descr": " generalsIO Bot API create bot automatically play game available site server use socketio library addition official tool Javascript Java Swift C languages Discover build bot httpdevgeneralsioapitutorial Generalsio free online MMOSG Massive Multiplayer Online Strategy Game player command army capture enemy general defeat"
+    },
+    {
+        "progweb_cat": "Bots,Messaging",
+        "api_name": "Kore Real-Time Messaging",
+        "id": 2349,
+        "progweb_descr": " Kore RealTime Messaging API use create application interact user real time This API use websockets receive message receive event Kore Messaging Platform API OAuth 2 use authentication Events push notification JSON format Kore offer streamline botbased enterprise message platform security complies regulatory mandate"
+    },
+    {
+        "progweb_cat": "Bots,Messaging",
+        "api_name": "Kore Messaging Platform",
+        "id": 2350,
+        "progweb_descr": " Kore Messaging Platform API use management system allow developer create modify manage application integrate Kore Bots Custom application create virtually web service Kore offer streamline botbased enterprise message platform security complies regulatory mandate OAuth 2 use authentication"
+    },
+    {
+        "progweb_cat": "Bots,Messaging",
+        "api_name": "Gupshup InApp Bot",
+        "id": 3821,
+        "progweb_descr": " Gupshup InApp Bot REST API allow developer create deploy message bot within application Some API method include access account create bot deploy bot message Gupshup provide developer tool build deploy bot many platform across channel"
+    },
+    {
+        "progweb_cat": "Bots,Messaging",
+        "api_name": "Facebook Messenger Bot",
+        "id": 3990,
+        "progweb_descr": " Facebook Messenger Bot REST API allow developer access integrate functionality Messenger build bot main API method building messenger bot send bot reply Facebook Messenger message application Facebook"
+    },
+    {
+        "progweb_cat": "Bots,Bitcoin",
+        "api_name": "Tokenly Swapbot",
+        "id": 2732,
+        "progweb_descr": " This API fetch information bot return list bot event return list bot swap event Tokenly give acces Tokens digital representation exchange trading card song movie game loyalty point membership"
+    },
+    {
+        "progweb_cat": "Bots,Automation",
+        "api_name": "Motion",
+        "id": 2900,
+        "progweb_descr": " Motion API integrate chat bots web service provide medium integrate webchat SMS messenger email protocol information contact Motion httpswwwmotionaicontact"
+    },
+    {
+        "progweb_cat": "Bots,Captcha",
+        "api_name": "ShieldSquare Bot Prevention",
+        "id": 3301,
+        "progweb_descr": " ShieldSquare API intend developer wish block bad bot website mobile app main API method integration websites application ShieldSquare provide block security technology websites application"
+    },
+    {
+        "progweb_cat": "Bots,Polls",
+        "api_name": "Polly",
+        "id": 4045,
+        "progweb_descr": " Polly REST API allow developer access integrate functionality Polly applications Public documentation available API access come account service Polly bot provider allow user create execute poll bot integrate Slack"
+    },
+    {
+        "progweb_cat": "Bots,3D",
+        "api_name": "Cleverscript",
+        "id": 7340,
+        "progweb_descr": " Cleverscript virtual AI mechanism create Javascript To show example user talk bot Evie Existor main page API help developer create unique animation interact human demonstrator virtual assistant game avatar API page feature Javascript library API Key According site bot must publish use Cleverscript reference information developer contact Cleverscript use form interact creator support forum"
+    },
+    {
+        "progweb_cat": "Bots,3D",
+        "api_name": "Cleverbot",
+        "id": 7342,
+        "progweb_descr": " This unaffiliated API Cleverbot virtual AI application communicate user screen message To show example developer go directly Cleverbot website main value unofficial API could interaction machine human multiple enterprising purpose via mobile device Developers artificial intelligence field benefit unofficial API create Ruby language A second alternative also available application creation user prefer work Java Python PHP"
+    }
+]

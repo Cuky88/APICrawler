@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Augmented Reality,Intelligence",
+        "api_name": "Facebook Thoughts",
+        "id": 1517,
+        "progweb_descr": " Facebook Thoughts API provide programmatic access thoughttotext service Facebook Thoughts detect thought people send speech center brain allow user choose share keep private Facebook currently accept application beta developer program This also know Brain API"
+    },
+    {
+        "progweb_cat": "Augmented Reality,3D",
+        "api_name": "NGRAIN",
+        "id": 4387,
+        "progweb_descr": " NGRAIN augment reality interactive 3D platform industrial application Use monitor equipment manufacturing field improve efficiency API available download provide link It include documentation build application NET language associate live data simulation visual environment"
+    },
+    {
+        "progweb_cat": "Augmented Reality,3D",
+        "api_name": "Mozilla WebVR",
+        "id": 5293,
+        "progweb_descr": " Mozilla WebVR API allow developer access integrate functionality Mozilla WebVR application device Some example API method include integrate virtual reality device WebVR functionality manage movement track device set parameter VR experience Mozilla WebVR build project platform intend bring high performance virtual reality experience online"
+    },
+    {
+        "progweb_cat": "Augmented Reality,3D",
+        "api_name": "Artoolkit",
+        "id": 5435,
+        "progweb_descr": " ARToolKit aim world widely use track library augment reality It offer API aim integrate camera image video detector feature application"
+    },
+    {
+        "progweb_cat": "Augmented Reality,Advertising",
+        "api_name": "LogoGrab",
+        "id": 4729,
+        "progweb_descr": " LogoGrab identifies brand provide mobile access digital brand content take photo logo product LogoGrab API work augment reality component identify brand API target marketer advertiser Developers implement activate API Key add logos test image Available endpoint request response"
+    },
+    {
+        "progweb_cat": "Augmented Reality,Internet of Things",
+        "api_name": "Thalmic Myo",
+        "id": 7173,
+        "progweb_descr": " Thalmic Labs develop Myo gesture control arm band interpret electronic impulse muscle action wirelessly control device Thalmic plan release open source APIs garner community developer support interest Currently API use private number group"
+    }
+]

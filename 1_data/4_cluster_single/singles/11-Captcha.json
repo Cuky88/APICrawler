@@ -1,0 +1,68 @@
+[
+    {
+        "progweb_cat": "Captcha,Authentication",
+        "api_name": "Anti Captcha",
+        "id": 3852,
+        "progweb_descr": " Anti Captcha human power Captcha solve service Anti Captcha API integrate authentication solution application via HTTP POST API Key Resources allow upload captcha receive ID request receive captcha response"
+    },
+    {
+        "progweb_cat": "Captcha,Authentication",
+        "api_name": "Bypass Captcha Service",
+        "id": 6111,
+        "progweb_descr": " Bypass Capatcha Service API allow user submit image send back capatcha text By use HTTP request user receive image id correspond capacha text implement application API work major software platform"
+    },
+    {
+        "progweb_cat": "Captcha,OCR",
+        "api_name": "Captcha Solutions",
+        "id": 4908,
+        "progweb_descr": " This RESTful Captcha Solutions API design solve large variety captcha challenge broad spectrum application Captcha Solutions captcha decode web service offer solution base flat rate per captcha solve"
+    },
+    {
+        "progweb_cat": "Captcha,OCR",
+        "api_name": "Submitia Captcha Solver",
+        "id": 5490,
+        "progweb_descr": " Submitia Captcha Solver API provide developer access integrate Submitia decaptcha functionality Some example API method include decode captchas website uploading image retrieve decode token information Submitia decaptcha SEO company"
+    },
+    {
+        "progweb_cat": "Captcha,Authorization",
+        "api_name": "Captchatronix",
+        "id": 4944,
+        "progweb_descr": " Captchatronix aim solve ReCAPTCHA 2000 Captchas accuracy API documentation available software application developer plan integrate Capctha feature service Implementation complete via HTTP POST Web Form cURL PHP Python Perl VBNET C C iMacros"
+    },
+    {
+        "progweb_cat": "Captcha,Authorization",
+        "api_name": "Captcha Bot Detect",
+        "id": 5456,
+        "progweb_descr": " Captcha Bot Detect offer integration service user work PHP ASPNET Java Bot Detect allow various parameter customize Captcha design Examples include Captcha bubble neon paint mess radar chess image To learn website authorization service project see crash course developer available httpcaptchacomdemosfeaturescaptchademoaspx"
+    },
+    {
+        "progweb_cat": "Captcha,Images",
+        "api_name": "Key Captcha",
+        "id": 5438,
+        "progweb_descr": " uniqueness Key Captcha consist website authorization solve simple puzzle An example would assemble puzzle piece apple image miss piece Key Captcha could benefit developer prefer integrate visuals instead Captcha word Common CAPTCHA API work private API Key JavaScript code"
+    },
+    {
+        "progweb_cat": "Captcha,Images",
+        "api_name": "2Captcha",
+        "id": 5440,
+        "progweb_descr": " 2Captcha work humanpowered image recognition authorize online user Starting API Key developer apply available algorithm include send image server get ID picture start cycle check CAPTCHA solve confirm answer correct This API feature REST format provide statistic present average accuracy rate successfully solve Captchas"
+    },
+    {
+        "progweb_cat": "Captcha,Spam",
+        "api_name": "Versatility Werks",
+        "id": 7230,
+        "progweb_descr": " VersCaptcha convenient tool prevents online spam use original captcha icon It ’ also service prevents bots visit web page With feature noticeable difference spam reduction No unwanted junk email Web designers webmaster web developer benefit VersCaptcha API offer captcha image icon question To get API key developer need sign system Once log see particular API spam prevention mobile application They able download file PHP main feature VersCaptcha API security integration custom icon custom question custom CSS site update periodically social medium name Versatility Werks"
+    },
+    {
+        "progweb_cat": "Captcha,Data-as-a-Service",
+        "api_name": "HiCaptcha",
+        "id": 7617,
+        "progweb_descr": " HiCaptcha English language Captchasolving service Developers integrate API submit Captchas solve HiCaptcha return text within 30 second They also offer profit share program software developer integrate service"
+    },
+    {
+        "progweb_cat": "Captcha,Security",
+        "api_name": "ImageDecoders",
+        "id": 10143,
+        "progweb_descr": " Image Decoders offer CAPTCHA bypass service service operate ImageDecoders API Users pas CAPTCHAs API solve human solve CAPTCHA pass back use"
+    }
+]

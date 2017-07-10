@@ -1,0 +1,296 @@
+[
+    {
+        "progweb_cat": "Web Site Management,Aggregation",
+        "api_name": "Mist.io",
+        "id": 629,
+        "progweb_descr": " Mistio aggregate user cloud server help monitor status activity single unified interface Mistio display real time analytics visualization system metric offer ability create manage edit exist server account quality security measure service compatible Amazon Web Services Rackspace DigitalOcean Google Cloud Platform additional major server provider Aside mobile web interface developer may also extend site functionality 3rd party application via Mistio RESTful API"
+    },
+    {
+        "progweb_cat": "Web Site Management,Aggregation",
+        "api_name": "Searx Administration",
+        "id": 3458,
+        "progweb_descr": " Searx Administration API metasearch engine solution consolidate search functionality websites It offer user secure browse online anonymity option Searx solution eliminate track user want subject automated profile search engine Google Searx Administration API send request HTTP format return result variety multimedia type include video image torrent map API nonproprietary product independent developer"
+    },
+    {
+        "progweb_cat": "Web Site Management,Monitoring",
+        "api_name": "Google Page Speed Online",
+        "id": 844,
+        "progweb_descr": " Page Speed opensource project help developer optimize web page analyze page generate tailored suggestion make page fast Developers use Page Speed Online API programatically generate Page Speed score suggestion API use RESTful call response format JSON JSONP"
+    },
+    {
+        "progweb_cat": "Web Site Management,Monitoring",
+        "api_name": "CO2Stats",
+        "id": 12037,
+        "progweb_descr": " CO2Stats service aim make website carbon neutral energyefficient CO2Stats offer suite software monitor sit energy usage offer tip make site energyefficient purchase appropriate amount audit renewable energy wind solar farm It also provide certification user take step make site environmentally friendly API allow user create delete CO2Stats account customer"
+    },
+    {
+        "progweb_cat": "Web Site Management,Monitoring",
+        "api_name": "Monitro",
+        "id": 14159,
+        "progweb_descr": " Monitro website monitoring service Users monitor three site free subscribe monitor sit Monitro let user know site monitor go Monitros API beta stage ask developer let know would like access API Interested developer email supportmonitronet access Some example API method include add delete edit URLs monitor turn monitoring service access account information"
+    },
+    {
+        "progweb_cat": "Web Site Management,Monitoring",
+        "api_name": "SiteUptime",
+        "id": 14485,
+        "progweb_descr": " SiteUptime website monitoring service Through RESTful SiteUptime API developer create application access SiteUptime functionality Users use application administer website monitor view dailymonthlyannual site statistic"
+    },
+    {
+        "progweb_cat": "Web Site Management,Search",
+        "api_name": "YaCy",
+        "id": 1407,
+        "progweb_descr": " YaCy API aim offer embed web page use YaCy search API API intend offer integration YaCy program environment like PHP Perl well YaCy peertopeer internet search engine"
+    },
+    {
+        "progweb_cat": "Web Site Management,Search",
+        "api_name": "Similar Site Check",
+        "id": 8173,
+        "progweb_descr": " Similarsitecheck free open search engine find similar relate website Our specially develop similarity algorithm Similarsitecheck help find alternative webpage We provide API developer whoever would like use data Its free get start use API There rate limit 5000 query per day If expect exceed please get touch u Input domain receive output 20 similar website title description domainpower website language similarity score"
+    },
+    {
+        "progweb_cat": "Web Site Management,Backup",
+        "api_name": "WebserverDown",
+        "id": 2403,
+        "progweb_descr": " WebserverDown API take cache copy Internet Archive order provide emergency website backup API downloads last working copy website DNS setting change WebserverDowns server 2 pay plan available free option available well Responses format JSON"
+    },
+    {
+        "progweb_cat": "Web Site Management,Automation",
+        "api_name": "Plesk XML",
+        "id": 2405,
+        "progweb_descr": " Plesk XML API offer remote interaction Plesks server automation platform order receive status detail Plesk feature intuitive control panel webserver site management development environment DNS management Plesk web site management host service provider office USA Canada Switzerland Spain Russia Japan"
+    },
+    {
+        "progweb_cat": "Web Site Management,Data",
+        "api_name": "BuiltWith Trends",
+        "id": 2712,
+        "progweb_descr": " BuiltWith Trends API integrate data trend website via JSON XML format Meta information include name description link coverage technology trend Use API create analyze websites trend"
+    },
+    {
+        "progweb_cat": "Web Site Management,Data",
+        "api_name": "NSONE",
+        "id": 7555,
+        "progweb_descr": " NSONE DNS platform It enable customization traffic management algorithm inform data infrastructure realtime You customize filter chain leverage realtime data feed NSONE API allow control automation DNS You manage many facet NSONE account include data source feed zone record account settings user This developerfriendly REST API JSON response"
+    },
+    {
+        "progweb_cat": "Web Site Management,Keywords",
+        "api_name": "BuiltWith Relationships",
+        "id": 2713,
+        "progweb_descr": " BuiltWith Relationships API integrate connection website tag IP address It available JSON XML format perform callback developer access via API Key"
+    },
+    {
+        "progweb_cat": "Web Site Management,Developers",
+        "api_name": "Amazon Web Services Health",
+        "id": 2725,
+        "progweb_descr": " Amazon Web Services Health REST API allow developer access integrate functionality Amazon Health application It also power Amazon Web Services Personal Health Dashboard Some example API method include retrieve event manage notification affected entity list affected entity Amazon Web Services Health alert developer enterprise event may affect web hosted entity affect service"
+    },
+    {
+        "progweb_cat": "Web Site Management,Analytics",
+        "api_name": "AWR Cloud Developer",
+        "id": 2815,
+        "progweb_descr": " AWR Cloud Developer API support integration AWR Cloud feature track website performance metric API particularly useful daily weekly biweekly monthly demand track website ranking Users apply metric management SEO project analysis traffic statistic measurement social medium exposure retrieval customizable report API send request return response JSON format Users buy monthly plan subscribe monthly account package hourly limit API call account set 2000 user require high hourly output send request provider AWR stand Advanced Web Ranking"
+    },
+    {
+        "progweb_cat": "Web Site Management,Analytics",
+        "api_name": "DeepCrawl",
+        "id": 3316,
+        "progweb_descr": " DeepCrawl API carry advance website intelligence gathering tool Its crawling capability design monitor website generate analytical summary crucial information visitor trend transaction event competitor activity RESTful API welldocumented full release conveys request response HTTP JSON format respectively A developer must use API key authenticate API call"
+    },
+    {
+        "progweb_cat": "Web Site Management,Analytics",
+        "api_name": "Rigor Optimization",
+        "id": 3614,
+        "progweb_descr": " Rigor Optimization API serve gateway suite analytical tool measure track web performance metric RESTful API send request HTTP format return either JSON XML responses API proprietary platform access require preapproved license provider"
+    },
+    {
+        "progweb_cat": "Web Site Management,Analytics",
+        "api_name": "Website Worth",
+        "id": 5170,
+        "progweb_descr": " Use Website Worth API check website domain worth find information like page rank estimate visitor count search engine visibility Website Worth use HTTP method responses XML API require API Key send register"
+    },
+    {
+        "progweb_cat": "Web Site Management,Analytics",
+        "api_name": "Monitis",
+        "id": 6186,
+        "progweb_descr": " Use Monitis REST API access data manage setting Monitis website monitoring management account without log dashboard Use API access monitoring feature website network server cloud application API request return JSON require API Key"
+    },
+    {
+        "progweb_cat": "Web Site Management,Analytics",
+        "api_name": "Site Information",
+        "id": 7273,
+        "progweb_descr": " All information website available Site Information With API developer could offer website fact target predetermine niche To mention example user type website main search bar site information result display estimate worth advertising revenue daily page view traffic graphic analytics IP server type Values perceive API easy access website information research website analytics Site information API easiness retrieve website data target developer work various web information field site invite developer share information relate domain project use API At time site information team claim fast responder also offer sample PHP information return JSON unlimited tool webmaster available cost As disclaimer site advise data 100 accurate"
+    },
+    {
+        "progweb_cat": "Web Site Management,Analytics",
+        "api_name": "Performancing pMetrics",
+        "id": 12838,
+        "progweb_descr": " Performancing online resource blogger offer tutorial analysis tip metric plugins theme job monetization tool community base share idea build relationship Performancing Metrics pMetrics offer blogger analytics live historical track blogâ€™s traffic usage Bloggers get detail every visitor web site pMetrics Analytics API let user extract web site traffic data several format analyze store integrated application API use HTTP call response format XML JSON CSV PHP"
+    },
+    {
+        "progweb_cat": "Web Site Management,Analytics",
+        "api_name": "StatCounter",
+        "id": 13360,
+        "progweb_descr": " StatCounter service let user monitor actual human activity web sit realtime This data use perform analysis visitor habit StatCounter API offer developer access manage StatCounter account retrieve stats report With API developer set edit StatCounter project also manipulate stats data They also use data build widget apps top API use HTTP call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Web Site Management,Safety",
+        "api_name": "Watchful Swagger",
+        "id": 3020,
+        "progweb_descr": " Watchful Swagger API allow developer access integrate functionality Watchful application websites Example API method enable developer backup upgrade monitor Joomla websites remote location This REST API secure website management support XML JSON JSONP serialize protocol In site programmer find resource API Keys authentication instruction format error handle example PHP Watchfulli allow user keep Joomla websites safe regular update maintenance backup"
+    },
+    {
+        "progweb_cat": "Web Site Management,Content Management",
+        "api_name": "The Grid",
+        "id": 3205,
+        "progweb_descr": " This Javascript API enable build application top Grid It nextgeneration web publish platform provide service makingediting content across multiple device Including webpage autodesign layout content import analysis image processing website serve Grid allow developer access website creation power artificial intelligence"
+    },
+    {
+        "progweb_cat": "Web Site Management,Content Management",
+        "api_name": "Pagelime",
+        "id": 8716,
+        "progweb_descr": " Pagelime CMS Content Management System allow user manage site content use web application FTP API This service design use web designer web agency web developer Pagelime function regardless user site host script platform employ It require change make site underlying architecture Users mark web page use CSS class let Pagelime know part meant editable When user make edits Pagelime web application edits publish CSSmarked area via FTP Pagelimes FTPXML API allow developer separate site content HTML code mirror HTML content XML rather use CSS markup result XML file access via FTP"
+    },
+    {
+        "progweb_cat": "Web Site Management,Database",
+        "api_name": "Breinify DigitalDNA",
+        "id": 3494,
+        "progweb_descr": " Breinify DigitalDNA API create user profile basis data generate online trend behavior aggregate data allows website personalize user experience visitor accord unique preference fully release API send return response JSON format Its detailed documentation host NPMJS Github website"
+    },
+    {
+        "progweb_cat": "Web Site Management,Application Development",
+        "api_name": "1uCoz",
+        "id": 4265,
+        "progweb_descr": " uCoz website builder content management system provide HTTP JSON REST method along OAuth1 authentication 1uCoz API available Russian language API method allow developer create new page add text include photo form blog news website API support management site user account permission access content well content display template"
+    },
+    {
+        "progweb_cat": "Web Site Management,API Management",
+        "api_name": "Whois Lookup",
+        "id": 4979,
+        "progweb_descr": " Whoxy WHOIS search engine Whoxy API host web service query WHOIS registry WHOIS registrars par return data wellstructured XML JSON Whoxy also offer reverse lookup history lookup API balance check endpoint API available free pay subscription service plan API doc provide full endpoint description code sample"
+    },
+    {
+        "progweb_cat": "Web Site Management,Framework",
+        "api_name": "qx. Website",
+        "id": 5463,
+        "progweb_descr": " qx Website API provide developer way build integrate low level component web site browserlike environment Qooxdoo universal JavaScript framework own manage 11 web host company"
+    },
+    {
+        "progweb_cat": "Web Site Management,REST",
+        "api_name": "Watchful REST",
+        "id": 6580,
+        "progweb_descr": " Watchfulli allow user keep Joomla websites safe regular update maintenance backup With aim save time Watchfully API help backup upgrade monitor Joomla websites remote location This REST API secure website management support XML JSON JSONP serialize protocol In site programmer find resource API Keys authentication instruction format error handle example PHP"
+    },
+    {
+        "progweb_cat": "Web Site Management,Chat",
+        "api_name": "Enjin",
+        "id": 6605,
+        "progweb_descr": " Enjin service help user build website Minecraft server guild clan game community service come CMS blog publish platform visual page editor member module activity wall message system chat notifications forum system Enjin offer multigaming feature character game integration full recruitment system game All website build Enjin mobileready"
+    },
+    {
+        "progweb_cat": "Web Site Management,eCommerce",
+        "api_name": "Mozello Reseller",
+        "id": 6944,
+        "progweb_descr": " Mozello website builder allow nondevelopers create professionallooking website cross device compatibility SEO feature Registered Mozello resellers may forward user Mozello via simple URLs may implement Mozello Reseller API platforms application control system API accept HTTP request return JSON object API token require authorization"
+    },
+    {
+        "progweb_cat": "Web Site Management,Collaboration",
+        "api_name": "Vagrant Cloud",
+        "id": 7352,
+        "progweb_descr": " Vagrant offer solution development team create new environment manage versioning share development progress across multiple account With Vagrant team distribute development environment update workflow continuously implement readymade box Vagrant host Vagrant Cloud JSON compatible API connect team cloud service"
+    },
+    {
+        "progweb_cat": "Web Site Management,Tools",
+        "api_name": "Populr",
+        "id": 7713,
+        "progweb_descr": " Populr platform allow user create website anything quickly Users create web page anything share link track link Populr API allow developer access integrate functionality Populr applications Some example API method include retrieve template post content retrieve analytics link"
+    },
+    {
+        "progweb_cat": "Web Site Management,Tools",
+        "api_name": "Pagevamp",
+        "id": 9535,
+        "progweb_descr": " Pagevamp service allow user automatically update maintain website Facebook page Pagevamp essentially make possible update Facebook page website time Facebook Pagevamp API allow developer access integrate functionality Pagevamp application Public documentation available interested developer sign httpwwwpagevampcomdevelopers"
+    },
+    {
+        "progweb_cat": "Web Site Management,Forms",
+        "api_name": "BitBalloon",
+        "id": 8529,
+        "progweb_descr": " BitBalloon free hosting service optimize static site In addition performing asset compression image optimization CDN Integration perfect cache BitBalloon provide REST API capable deploy site manage form submission inject javascript snippet intelligently update HTML document"
+    },
+    {
+        "progweb_cat": "Web Site Management,Design",
+        "api_name": "MyWebzz",
+        "id": 8946,
+        "progweb_descr": " MyWebzz drag drop website creator offer everything need build unique website include domain hosting advance design feature Graphic designer web developer build website part full website sell MyWebzz platform integration MyWebzz service available via API member MyWebzz white label partnership program API access documentation available request"
+    },
+    {
+        "progweb_cat": "Web Site Management,Blogging",
+        "api_name": "WP Remote",
+        "id": 9320,
+        "progweb_descr": " WP Remote service manage unlimited number WordPresspowered sit one location It allow user keep site WordPress version uptodate along installed plugins theme It also create download full copy site zip format WP Remote use alter site content setting etc WP Remote API allow developer add retrieve delete site system programmatically"
+    },
+    {
+        "progweb_cat": "Web Site Management",
+        "api_name": "Loopia",
+        "id": 9812,
+        "progweb_descr": " Loopia one Swedens large web host company manage 800000 domain name Loopia Website Builder allow user create website use professional customizable template use build manage website within browser Loopia serve range customer extend individual small group multinational corporation Loopia API allow user check whether domain name available register new domain name add remove subdomains edit zone record pay domain invoice Specific method also provide resellers let list add new customer"
+    },
+    {
+        "progweb_cat": "Web Site Management",
+        "api_name": "BaseKit",
+        "id": 10877,
+        "progweb_descr": " BaseKit website creation service provide user domain ability customize site without need cod Users start template customize drag drop text image videos wish use CSS HTML5 support well BaseKit include cloud host website host need take care All BaseKits functionality accessible programmatically use SOAP call"
+    },
+    {
+        "progweb_cat": "Web Site Management",
+        "api_name": "Memento",
+        "id": 12058,
+        "progweb_descr": " service provide API access Wayback Machine Internet archive 150 billion web page save start 1996 Memento protocol allow datalevel access archive allow retrieval website content base datetime specification API method include TimeGate provide access site point time specify page header Memento API provide access date specify request TimeMap API provide download archive content"
+    },
+    {
+        "progweb_cat": "Web Site Management",
+        "api_name": "Opentracker Developer Analytics",
+        "id": 13577,
+        "progweb_descr": " Opentracker provide subscriber ability track visitor sit It collect information visitor geographically OS theyre use get subscriber site link follow navigate site long spent site Profiles create visitor subscriber look individual behavior well overall pattern Opentracker API allow subscriber access collect data statistic automate report generation create customize data table display visitor information sit combine Opentracker data APIs mashups"
+    },
+    {
+        "progweb_cat": "Web Site Management,Testing",
+        "api_name": "Optimizely",
+        "id": 10498,
+        "progweb_descr": " Optimizely provide AB test service compare effectiveness two version web page Optimizely enable developer divide site visitor two group show group different version page Developers monitor compare metric conversion rate group Optimizely API design give user extra control experiment well let retrieve information state Optimizely To use API developer need place one line JavaScript code every page want test This code snippet never need change updated"
+    },
+    {
+        "progweb_cat": "Web Site Management,Screenshots",
+        "api_name": "Webyshots",
+        "id": 10908,
+        "progweb_descr": " Webyshots online website screenshot service Webyshots provide screenshots websitesURLs report host screenshots information cloud Webyshots API allow developer access integrate functionality Webyshots applications Some example API method include take screenshots retrieve screenshots return information screenshots"
+    },
+    {
+        "progweb_cat": "Web Site Management,API",
+        "api_name": "Cloud Assault",
+        "id": 13111,
+        "progweb_descr": " Cloud Assualt platform API website technology infrastructure test us cloud resource Cloud Assault provide information response time request error data transfer speed Cloud Assault API allow developer access functionality Cloud Assault integration application create application Some example API method include search retrieve test job manage user information get cost estimate test job"
+    },
+    {
+        "progweb_cat": "Web Site Management,API",
+        "api_name": "SmartBear AlertSite",
+        "id": 13153,
+        "progweb_descr": " SmartBears AlertSite suite website monitoring service record performance metric APIs email FTP server well internal external mobile website AlertSite also feature customizable report allow tailor performance monitoring report need AlertSite API expose feature manage device check device status generate report This RESTbased API return data XML require account service access"
+    },
+    {
+        "progweb_cat": "Web Site Management,Domains",
+        "api_name": "NearlyFreeSpeech.NET",
+        "id": 13127,
+        "progweb_descr": " NearlyFreeSpeechNET provide web host static dynamic site DNS service domain registration database host variety privacy service NFSNET offer affordable pricing strong dedication privacy user NFSNETs API work progress provide way programmatically access manage service hold NFSNET This RESTful API return data JSON require account service API key access"
+    },
+    {
+        "progweb_cat": "Web Site Management,Semantics",
+        "api_name": "30 Digits Web Extractor",
+        "id": 14776,
+        "progweb_descr": " This web harvest tool API allow one start stop monitor spider job another web application API use RESTful protocol response format either XML CSV Excel 30Digits provide suite enterprise intranet search solution"
+    },
+    {
+        "progweb_cat": "Web Site Management,Recommendations",
+        "api_name": "Similar Site Search",
+        "id": 15217,
+        "progweb_descr": " Similar Site Search API return twenty similar website give URL JSON format If URL exist database bot automatically find similar site"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Standards,Hardware",
+        "api_name": "DMTF Redfish",
+        "id": 2600,
+        "progweb_descr": " DMTF Distributed Management Task Force Redfish API offer open industry standard specification schema use manage secure scalable platform hardware Developers reproduce DMTF specification document implement Redfish API JSON OData prefer format data exchange HTTP Basic Auth authentication"
+    },
+    {
+        "progweb_cat": "Standards,International",
+        "api_name": "ECMAScript 2015 Internationalization",
+        "id": 2778,
+        "progweb_descr": " ECMAScript 2015 Internationalization API offer localization language tag define ECMA This API return information currency time zone respective different locale Additionally Internationalization API offer languagesensitive data include string comparison collation number format date time format case conversion ECMA offer service relate standardization information communication system"
+    },
+    {
+        "progweb_cat": "Standards,Browsers",
+        "api_name": "W3C Screen Orientation",
+        "id": 3367,
+        "progweb_descr": " W3C screen orientation API integrate change read state device landscape portrait Users inform screen orientation change lock orientation specific position Examples reference available resource standard API provide browser architecture"
+    },
+    {
+        "progweb_cat": "Standards,Browsers",
+        "api_name": "W3C Reporting",
+        "id": 3623,
+        "progweb_descr": " Reporting API use prioritize delivery report send endpoint location group This REST API exchange data JSON format World Wide Web Consortium W3C international community constantly develop Web standard"
+    },
+    {
+        "progweb_cat": "Standards,Semantics",
+        "api_name": "Ping the Semantic Web",
+        "id": 15731,
+        "progweb_descr": " Ping Semantic Web repository RDF document API allow notify createdupdated RDF document web site You also import list recently createdupdated RDF document"
+    }
+]

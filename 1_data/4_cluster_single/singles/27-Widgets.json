@@ -1,0 +1,164 @@
+[
+    {
+        "progweb_cat": "Widgets",
+        "api_name": "Netvibes",
+        "id": 208,
+        "progweb_descr": " From site UWA Universal Widget API next generation Netvibes wigdet API successor Netvibes Mini Module API With new release API become powerful framework Web widgets development Netvibes widget also many environment among Appleï¿½s Dashboard Google Homepage With UWA need one API build widget host environment"
+    },
+    {
+        "progweb_cat": "Widgets",
+        "api_name": "Google Homepage",
+        "id": 292,
+        "progweb_descr": " From site Google Gadgets API provide way put thirdparty content onto Google homepage main use Google Gadgets API create gadget miniapplications user add Google personalize homepage Google property example could create photo album gadget gadget display interactive game API design simple enough anyone turn web page application gadget"
+    },
+    {
+        "progweb_cat": "Widgets",
+        "api_name": "Windows Sidebar Gadgets",
+        "id": 404,
+        "progweb_descr": " Windows Vista sidebar"
+    },
+    {
+        "progweb_cat": "Widgets",
+        "api_name": "Windows Live Gadgets",
+        "id": 489,
+        "progweb_descr": " NO DESCRIPTION"
+    },
+    {
+        "progweb_cat": "Widgets",
+        "api_name": "Automattic Wordpress Widgets",
+        "id": 592,
+        "progweb_descr": " Wordpress developer could find Automattic API useful since application offer widget documentation main value API could wide variety widget developer create This API provide theme function help make theme function It also provide widget registration function use make previous function invalid improve user experience As developer visit Automattic API access support forum contact form Also get familiar corporate culture facilitate creation multiple web application"
+    },
+    {
+        "progweb_cat": "Widgets",
+        "api_name": "Cooliris",
+        "id": 12076,
+        "progweb_descr": " Cooliris API allow user embed Cooliris Wall website use JavaScript Cooliris Wall tool showcasing large amount medium content visually please way Wall highly customizable require additional plugins use view"
+    },
+    {
+        "progweb_cat": "Widgets",
+        "api_name": "Desktopify",
+        "id": 15128,
+        "progweb_descr": " Desktopify API allows make desktop widget Windows XP Vista 7 Mac OS web content"
+    },
+    {
+        "progweb_cat": "Widgets",
+        "api_name": "Publitweet",
+        "id": 15196,
+        "progweb_descr": " Publitweet offer smarter way publish Twitter website enrich Twitter feed make readable With Publitweet widget visitor share tweet preview link without leave website also enjoy automatic translation Twitter jargon plain English Publitweet help engage audience curated realtime content You also monitor view share Twitter feed Google Analytics account"
+    },
+    {
+        "progweb_cat": "Widgets,Gadgets",
+        "api_name": "Widgetbox",
+        "id": 559,
+        "progweb_descr": " Our mission help people make get widget apps social network profile blog start page Through AppAccelerator developer easily convert web widget standalone Facebook Bebo application"
+    },
+    {
+        "progweb_cat": "Widgets,Gadgets",
+        "api_name": "Serence Klip",
+        "id": 15839,
+        "progweb_descr": " KlipFolio desktop dashboard Microsoft Windows program use different Klips display information user choose front time There four thousand different Klips display information like weather condition email news comic strip business information"
+    },
+    {
+        "progweb_cat": "Widgets,Tools",
+        "api_name": "Croar.net Calculator",
+        "id": 7972,
+        "progweb_descr": " Croarnet provide simple JavaScript API allow user insert calculator webpage use couple line JavaScript code A demo page provide show calculator look like function This API free public use"
+    },
+    {
+        "progweb_cat": "Widgets,Tools",
+        "api_name": "Croar.net RGB Picker",
+        "id": 8004,
+        "progweb_descr": " Croarnet provide simple RGB color picker widget user add webpage insert line JavaScript code A demo widget available documentation Croarnet RGB Picker API free public use"
+    },
+    {
+        "progweb_cat": "Widgets,Financial",
+        "api_name": "CoinMill",
+        "id": 8145,
+        "progweb_descr": " CoinMill currency exchange rate calculator allow user select among dozen currency receive slightly delay currency conversion rate site also allow user get exchange rate type entry request conversion CoinMill API use JavaScript allow user select currency embed convertor thirdparty site"
+    },
+    {
+        "progweb_cat": "Widgets,Financial",
+        "api_name": "MlCalc.com Mortgage Loan Calculator",
+        "id": 10076,
+        "progweb_descr": " Mlcalccom provide mortgage loan calculator assist user determine expense loan mortgage obligation site include mortgage rate finder website promotion tool mortgage widget mortgage loan calculator API allow user embed payment calculator user websites application User must specify desired loan parameter appropriate calculator form click generate code"
+    },
+    {
+        "progweb_cat": "Widgets,Mapping",
+        "api_name": "Flags.es Flag Counter",
+        "id": 8616,
+        "progweb_descr": " Flages provide visitor count widget show recent visitor flags country name city determine IP address This widget embed user website copy paste JavaScript code This code edit alter counter general appearance information display number second must pass old visitor count Flages Flag Counter use GeoLite data provide MaxMind"
+    },
+    {
+        "progweb_cat": "Widgets,Mapping",
+        "api_name": "Besucherzaehler",
+        "id": 9560,
+        "progweb_descr": " Besucherzaehler trans Visitor Counter German website visitor counter also collect information recent site visitor refer website country city counter show flag country name city recent visitor access site Visitor Counter add website copying paste bit JavaScript code onto target site"
+    },
+    {
+        "progweb_cat": "Widgets,Content",
+        "api_name": "AddThis Trending Content Box",
+        "id": 9507,
+        "progweb_descr": " Trending Content Box widget feature top content user site box display header well link popular page number specify user text display link title destination page Links chosen use analytics involve AddThis Content Feeds API"
+    },
+    {
+        "progweb_cat": "Widgets,Social",
+        "api_name": "Markerly",
+        "id": 9900,
+        "progweb_descr": " Markerly copy paste widget websites service website allow see reader engage site content Markerly show reader search share copy paste Markerly API allow developer integrate functionality Markely application websites main API method embed widget website retrieve data reader behavior"
+    },
+    {
+        "progweb_cat": "Widgets,Social",
+        "api_name": "Backplane JavaScript",
+        "id": 11694,
+        "progweb_descr": " Backplane JavaScript Library run end userâ€™s browser mediates communication Backplaneenabled Widgets page Backplane Server Backplane JavaScript Library provide API developer assure first library load page make possible script use subscription functionality"
+    },
+    {
+        "progweb_cat": "Widgets,Photos",
+        "api_name": "CU3ER",
+        "id": 12000,
+        "progweb_descr": " CU3ER 3D image slider insert integrated user webpage use JavaScript API This API provide extended bidirectional communication CU3ER give user way sync CU3ER rest page elements A library simple function available control 3D image slider play pause next onTransition"
+    },
+    {
+        "progweb_cat": "Widgets,Mobile",
+        "api_name": "Webwag",
+        "id": 14017,
+        "progweb_descr": " WebWag service add alert web mobile application Alerts generate programmatically automatically RSS feed Twitter source add WebWag API allow user create alert well widgets add information notification capability exist website documentation French"
+    },
+    {
+        "progweb_cat": "Widgets,Mobile",
+        "api_name": "Vodafone Accelerometer",
+        "id": 14519,
+        "progweb_descr": " Accelerometer API Vodafone part suite JavaScriptbased widget APIs provide mobile web application access underlie hardware Accelerometer API provide access device accelerometer determines position movement device"
+    },
+    {
+        "progweb_cat": "Widgets,Mobile",
+        "api_name": "WidSets",
+        "id": 15576,
+        "progweb_descr": " From site You get traffic alert news blog gossip restaurant review weather report load stuff would normally get web service And cant find web service interested provide tool use create service access directly cell phone"
+    },
+    {
+        "progweb_cat": "Widgets,Visualizations",
+        "api_name": "Spicynodes",
+        "id": 14844,
+        "progweb_descr": " Spicynodes let embed interactive widget website Designed look like mind map bubble arrow encourage user explore product service content Then use JavaScript provide integration website Spicynodes platform"
+    },
+    {
+        "progweb_cat": "Widgets,Feeds",
+        "api_name": "PORDL",
+        "id": 15251,
+        "progweb_descr": " PORDL use JavaScript widget allow developer embed public Webaccessible RSSXML Atom fee site blog Use preset XSLT stylesheets edit customize look fee output"
+    },
+    {
+        "progweb_cat": "Widgets,Monitoring",
+        "api_name": "ioBridge JavaScript Widget Control",
+        "id": 15259,
+        "progweb_descr": " This API allow user interact widget via RESTful call vs dynamic script This enable direct open access widget support thirdparty desktop mobile application Internet Things project possible use mash ups open APIs external APIs Yahoo Financials Google Charts Google Latitude Twitter WeatherBug Twilio ioBridges Internet thing platform endtoend solution connect user environmental data collect sensor control device via Internet building project product service API simple enough mobile phone control monitor widget robust enough support LabVIEW application Responses format XML JSON plain text HTML WAPWML voiceXML TwiML TWiML SMS"
+    },
+    {
+        "progweb_cat": "Widgets,Sports",
+        "api_name": "Skicow",
+        "id": 15553,
+        "progweb_descr": " From site This API design web master wish embed ski search facility web site Skicow API use Javascript dynamically present search form search result AJAX use retrieve data skicowcom without need entire page change Implement iFrame Javascript Different region languages available"
+    }
+]

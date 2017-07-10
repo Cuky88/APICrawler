@@ -1,0 +1,62 @@
+[
+    {
+        "progweb_cat": "Movies,Database",
+        "api_name": "Cinemalytics Bollywood Movie Database",
+        "id": 680,
+        "progweb_descr": " Cinemalytics Bollywood Movie Database API allow developer access Cinemalytics database get information ie Movies Actors Directors Crew Shooting Location much This API RESTful developer access register developer page"
+    },
+    {
+        "progweb_cat": "Movies,Database",
+        "api_name": "International Showtimes",
+        "id": 2308,
+        "progweb_descr": " International Showtimes Ticketing API provide cinema information listing ticket link movie metadata 25 market worldwide A REST architecture offer HTTP basic authentication JSON callbacks format It include Key authentication sample code Go JavaScript Java NodeJS PHP Python Ruby Swift language"
+    },
+    {
+        "progweb_cat": "Movies,Database",
+        "api_name": "Box Office Buz",
+        "id": 3845,
+        "progweb_descr": " Box Office Buz entertainment website specialize provide movie game news information comic gadget company behind Box Office Buz Canada base Geek Suite Box Office Buz API use obtain images information TV show game movie This API exchange data JSON format require API Keys"
+    },
+    {
+        "progweb_cat": "Movies,Actors",
+        "api_name": "EtMDB",
+        "id": 1789,
+        "progweb_descr": " EtMDB API return Ethiopian movie metadata include biography rating release date runtimes genre director writer Additionally developers obtain short plot description image list cinema Developers need register access documentation Information exchange JSON format API Key prefer authentication method"
+    },
+    {
+        "progweb_cat": "Movies,Torrents",
+        "api_name": "YTS.AG",
+        "id": 3659,
+        "progweb_descr": " YTSAG API integrate movie search feature application It available JSON XML format username Key Endpoints enable movie user comment detail YTSag movie torrent provider"
+    },
+    {
+        "progweb_cat": "Movies,Data",
+        "api_name": "Simapi",
+        "id": 3878,
+        "progweb_descr": " Simapi Simple Movies API system allow developer integrate movie information retrieval application Information movie title movie year actor IMDb movie ID obtain JSON format"
+    },
+    {
+        "progweb_cat": "Movies,Data",
+        "api_name": "Star Wars",
+        "id": 6431,
+        "progweb_descr": " Star Wars API currently prerelease phase independently support Paul Hallett Python Go API developer avid GitHub contributor API purport provide programmatic access trove databased Star Wars film information include Planets Spaceships Vehicles People Films Species source six Star Wars film example simple GET HTTP request API able return data associate specific vehicle return Luke Skywalker inputted ID associate T65 Xwing Interested party currently sign early access visit home site"
+    },
+    {
+        "progweb_cat": "Movies,Extraction",
+        "api_name": "Vidsource",
+        "id": 3954,
+        "progweb_descr": " Vidsource API allow access IMDb database movie TV show stream link API method include retrieve movie TV show stream IMDb ID retrieve episode stream retrieve multiple stream API available JSON format require API key service also contain iframe code"
+    },
+    {
+        "progweb_cat": "Movies,Auctions",
+        "api_name": "Dealflicks",
+        "id": 6245,
+        "progweb_descr": " Dealflicks API allow developer access integrate functionality Dealflicks applications Some example API method include retrieve theater retrieve theater information retrieve movie list information Dealflicks platform offer deal movie ticket Users search location movie theater find deal movie ticket"
+    },
+    {
+        "progweb_cat": "Movies,Italian",
+        "api_name": "Movieplayer.it",
+        "id": 7179,
+        "progweb_descr": " Movieplayerit Italian website provide information movie TV show include one available view TV cinema Movieplayerit API allow developer use REST call retrieve information movie TV series website Movieplayerit website Italian API documentation provide English"
+    }
+]

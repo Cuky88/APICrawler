@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Rentals,Marketplace",
+        "api_name": "Rentivo",
+        "id": 2209,
+        "progweb_descr": " Rentivo API provide rental website building business Customization account management property owner main feature provide Rentivo offer interface HTTPS request OAuth2 authentication"
+    },
+    {
+        "progweb_cat": "Rentals,Credit Cards",
+        "api_name": "EZ RentOut",
+        "id": 2686,
+        "progweb_descr": " EZRentOut API integrate equipment rental It target construction company cycle club recreation shop medium production assistive technology university With token authentication developer rent asset sell inventory order"
+    },
+    {
+        "progweb_cat": "Rentals,Lists",
+        "api_name": "RentalSource",
+        "id": 2698,
+        "progweb_descr": " RentalSource API integrate home apartment vacation rental It available XML format demonstrate vendor listing information advertising rental vacancy receive qualify lead visit httpwwwrentalsourcecomcontact"
+    },
+    {
+        "progweb_cat": "Rentals,Booking",
+        "api_name": "HomeAway",
+        "id": 3647,
+        "progweb_descr": " HomeAway API allow developer get information vacation home rental listing access account post review HomeAway service help user choose book vacation rental pay securely online Users search rental desire location anticipate arrivaldeparture date among million listing"
+    },
+    {
+        "progweb_cat": "Rentals,Cities",
+        "api_name": "RentsWatch",
+        "id": 3972,
+        "progweb_descr": " RentsWatch API return average rent price specific area European market use OpenStreetMap OSM method Also support statistic city statistic location rank city different indicator This API use JSON data exchange API Keys authentication firm develop RentsWatch Journalism provide analysis data visualization service"
+    },
+    {
+        "progweb_cat": "Rentals,Background",
+        "api_name": "Honest Renter",
+        "id": 4472,
+        "progweb_descr": " Honest Renter API access data associate rental background check tenant housing It target property management staff resident screen company Principles include authentication secret key browser session error object filter field version Available assessmentrelated object objectrelated object Honest Renter provide personality test screen potential property renter"
+    },
+    {
+        "progweb_cat": "Rentals,Business",
+        "api_name": "EZRentOut",
+        "id": 5073,
+        "progweb_descr": " EZRentOut API service help management equipment rental invoice asset track customer API allow custom integration user pay client API service EZRentOut strive change role rental order equipment use technology solve common problem fresh perspective"
+    },
+    {
+        "progweb_cat": "Rentals,Real Estate",
+        "api_name": "Happy Inspector",
+        "id": 5759,
+        "progweb_descr": " Happy Inspector API allow developer access integrate functionality Happy Inspector application Public documentation available API access come account service Happy Inspector platform property rental manager management company"
+    },
+    {
+        "progweb_cat": "Rentals,Insurance",
+        "api_name": "Landlord Secure",
+        "id": 6586,
+        "progweb_descr": " Landlord Secure UK base servicing landlord offer reference insurance eviction service tenant trace Developers may add programmatic tenant track web system access Landlord Secure REST API HTTP GET call API return JSON array API broken 4 category Referencing API take keyword name query database search related document personnel profile Account API retrieve information account use API allow general management well Property API retrieve store information specific property Document API accept unique ID retrieve specific document Landlord Secure also offer webhooks notify landlord change reference document"
+    }
+]

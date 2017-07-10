@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Aggregation,Accounts",
+        "api_name": "eWise Open Banking",
+        "id": 1729,
+        "progweb_descr": " eWise Open Banking Open Banking API support automatic aggregation user ’ personal account single location It allow developer create user interface manage permission set privacy preference personal data This make easy user select account grant consent share account service provider It also equip data broker feature facilitate developer ’ service provider ’ access share personal data user"
+    },
+    {
+        "progweb_cat": "Aggregation,News Services",
+        "api_name": "Crowdynews Control",
+        "id": 4050,
+        "progweb_descr": " Crowdynews Control REST API allow developer access integrate functionality Crowdynews Control application API let publisher control management social medium content curation application Public documentation available interested developer contact Crowdynews API access httpswwwcrowdynewscomcontact Crowdynews social medium content curator aggregator"
+    },
+    {
+        "progweb_cat": "Aggregation,News Services",
+        "api_name": "Crowdynews Content",
+        "id": 4052,
+        "progweb_descr": " Crowdynews Content REST API allow developer access integrate functionality Crowdynews Content application API let publisher control social medium content publish application Public documentation available interested developer contact Crowdynews API access httpswwwcrowdynewscomcontact Crowdynews social medium content curator aggregator"
+    },
+    {
+        "progweb_cat": "Aggregation,Collaboration",
+        "api_name": "Pandexio Core",
+        "id": 4668,
+        "progweb_descr": " Pandexio Core API offer contentcapture platform integrate exist application This let employee create knowledge base within organization Core REST API respond JSON format All request require do SSL Pandexio develop Smartsnip help create organize social mobilefriendly object user consume content"
+    },
+    {
+        "progweb_cat": "Aggregation,Calendars",
+        "api_name": "Microsoft Graph",
+        "id": 5352,
+        "progweb_descr": " Microsoft Graph allow Microsoft cloud service expose multiple APIs one REST API endpoint API use single authentication system across consumer education commercial customer provide unified metadata payload format error handle SDKs expose productivity entity relationships All APIs use JSON OAuth 20 protocol authorization"
+    },
+    {
+        "progweb_cat": "Aggregation",
+        "api_name": "uberblic Doppelganger",
+        "id": 13921,
+        "progweb_descr": " Uberblic web serice goal make 3rdparty APIs data source interoperable one another exist database uberblic Doppelganger service connects data many different thirdparty APIs mapping entity doppelganger IDs entity APIs Uberblic think dictionary entity IDs across web store rich set contextual data available developer Uberblic ’ APIs serve switchboard broker data source"
+    }
+]

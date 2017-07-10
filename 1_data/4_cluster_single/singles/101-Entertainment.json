@@ -1,0 +1,608 @@
+[
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "The Movie Database (TMDb)",
+        "id": 133,
+        "progweb_descr": " TMDb API resource developer want integrate movie TV show cast data along poster movie fan art themoviedborg free community edit database"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "IMDBAPI.org",
+        "id": 1025,
+        "progweb_descr": " Not affiliate IMDb IMDB API service provide access IMDBâ€™s data popular authoritative source information movie TV celebrity Currently IMDBs dataset download API available retrieve information This API allow developer access data use RESTful call provide response XML JSON"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "Redbox",
+        "id": 1100,
+        "progweb_descr": " Redbox provide automated movie video game rental kiosk throughout US They 35000 location individual kiosk may provide many 200 title 630 disc Redbox API allow developer programmatically access information available product kiosk location inventory specific kiosk"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "Netflix Roulette",
+        "id": 7553,
+        "progweb_descr": " Netflix Roulette service return random Netflix title base user input Input option include desired title genre rating whether movie TV show Developers access Netflix Roulette Database contain information title Netflixs database programmatically via API"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "iWatchOnline",
+        "id": 7601,
+        "progweb_descr": " iWatchOnline online platform watch TV show movie iWatchOnline API allow developer access integrate functionality iWatchOnline application websites main API integrate movie TV show application"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "Bollywood",
+        "id": 8048,
+        "progweb_descr": " Bollywood API API allow user search retreive Bollywoodrelated data Bollywood API allow developer access integrate data functionality Bollywood API Some example API method include retrieve movie title search retrieve cast member year release songs singer"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "Cineworld",
+        "id": 9803,
+        "progweb_descr": " Cineworld Cinemas major UK movie theater chain Cineworld API provide developer access Cineworld theater movie schedule data basic HTTP call return list cinema program performance Results filter add film date cinema parameter API return JSON format response support JSONP callback parameter"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "Tribune Media Services OnConnect",
+        "id": 10208,
+        "progweb_descr": " OnConnect APIs suite provide access wide range data movie celebrity TV use mobile apps service combine powerful set data delivery APIs world class image hosting Also include suite online video data APIs integrate online overthetop OTT video content capablities video product offering TMS Image Cloud provide ondemand webscale delivery entertainment image TMS customer"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "Semetric",
+        "id": 10334,
+        "progweb_descr": " Semetric entertainment analytics platform Semetric track consumer trend data behavior entertainment music movie game TV show Semetric API allow developer access integrate functionality data Semetric application Some example API method include search data retrieve data access data chart entertainment trend Public documentation available interested developer contact apisemetriccom API access"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "Unofficial AlloCine",
+        "id": 12636,
+        "progweb_descr": " AlloCine lead European provider cinema information ecommerce service Originally base France site also know Screenrush UK This unofficial API expose data store AlloCine site This data include movie information listing showtimes movie review API use RESTful call response format JSON XML"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "MoviePosterDB",
+        "id": 12638,
+        "progweb_descr": " MoviePosterDB online database movie poster 400000 poster 75000 movie TV show Users download 300 pixel wide jpeg file free ask upload poster return API allow developer use poster site web site application An API key require user must contact provider detail plan use API"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "My Movies Collection",
+        "id": 13607,
+        "progweb_descr": " My Movies Collection online application allow user keep track organize movie TV collection Users input keep track digital movie TV show hard copy movie TV show list movie TV show dont want My Movies Collection API allow developer access integrate functionality data My Movies Collection application available API method list movie TV collection check unchecking status movie TV show mark item see"
+    },
+    {
+        "progweb_cat": "Entertainment,Movies",
+        "api_name": "Ignyte Movies and Showtimes",
+        "id": 14724,
+        "progweb_descr": " This web service let user submit zip code radius return list theater along movie play current date service allow user call without register key however return complete information one theater API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Entertainment,Advertising",
+        "api_name": "Rovi Cloud Services",
+        "id": 151,
+        "progweb_descr": " Rovi digital entertainment technology company provide guidance technology entertainment data content protection content network technology digital entertainment device service Rovi Cloud Services include APIs access advertising metadata recommendation medium recognition search managementanalytics module"
+    },
+    {
+        "progweb_cat": "Entertainment,Advertising",
+        "api_name": "Rovi Recommendations",
+        "id": 2642,
+        "progweb_descr": " This API recommendation engine thats design around way user relate medium provide recommendation toptier medium analyst rate review profile content across Rovis collection metadata music movie television This include similar ReleaseInfo NameDiscography NameMusicCredits SongAppearances Use entertainment resource data image may need website application consumer electronics device Rovi Cloud Services host redundant data center multiple location around world support million device application"
+    },
+    {
+        "progweb_cat": "Entertainment,Advertising",
+        "api_name": "Rovi Search",
+        "id": 2643,
+        "progweb_descr": " Rovi Search API locate song albums movie people TV show user look make available extensive amount data result It provide Autocomplete SingleStageSearch FilterBrowse Sort Use entertainment resource data image may need website application consumer electronics device Rovi Cloud Services host redundant data center multiple location around world support million device application"
+    },
+    {
+        "progweb_cat": "Entertainment,Advertising",
+        "api_name": "Filmon",
+        "id": 8305,
+        "progweb_descr": " FilmOn internet base television provider offer free pay subscription package access 500 live stream TV channel video demand channel Filmon also offer stream internet TV service mobile device FilmOn offer REST API allow developer take advantage ad network content offering API method include group channel tvguide subscription login logout register accountupdate dvrlist"
+    },
+    {
+        "progweb_cat": "Entertainment,Advertising",
+        "api_name": "wywy",
+        "id": 8385,
+        "progweb_descr": " This publicly available API wywy service connects television online platform realtime TV data wywy offer solution platform mobile tablet secondscreen monetization viewer engagement wywy API allow developer access integrate functionality wywy application Public documentation available interested developer contact wywy API information infowywycom"
+    },
+    {
+        "progweb_cat": "Entertainment,Catalogs",
+        "api_name": "FavQs",
+        "id": 593,
+        "progweb_descr": " FavQs allow collect discover share favorite quote"
+    },
+    {
+        "progweb_cat": "Entertainment,French",
+        "api_name": "AllocinÃ© Movie",
+        "id": 915,
+        "progweb_descr": " Frenchlanguage movie information service provide show time review current release along theater information background actor director industry name Information also available TV show video release API method support search return information particular movie television programvideo release include showtime listing Users also retrieve review press public well biographies filmographies actor others active industry"
+    },
+    {
+        "progweb_cat": "Entertainment,News Services",
+        "api_name": "Gopress",
+        "id": 961,
+        "progweb_descr": " Gopress first online Belgian newsstand It give user full access popular newspaper magazine computer soon tablet smartphones well Publications offer multiple language include English Flemish French German Gopress function access programmatically via SOAP API website API documentation available French Dutch English"
+    },
+    {
+        "progweb_cat": "Entertainment,Publishing",
+        "api_name": "Culture24",
+        "id": 1029,
+        "progweb_descr": " Culture24 nonprofit cultural publishing organization collect share cultural data publishes website lead campaign research project Culture24 SOAP API provide developer interface automate access Culture24 Direct Data Entry database backbone everything organization"
+    },
+    {
+        "progweb_cat": "Entertainment,Animation",
+        "api_name": "AniDB",
+        "id": 1074,
+        "progweb_descr": " AniDB Anime DataBase extensive database information Japanese animation include show movie episodes character This database freely available public AniDB user able add edit information Users also create maintain MyList keep track anime havent see AniDB API allow user retrieve information database programmatically use REST TCP UDP protocol"
+    },
+    {
+        "progweb_cat": "Entertainment,Games",
+        "api_name": "HearthstoneJSON",
+        "id": 2197,
+        "progweb_descr": " HearthstoneJSON API Blizzard Entertainment ’ official API building game application Hearthstone card Its cardsjson file host card object list card game API program recognize every single item play stack card API conveys request responses JSON format"
+    },
+    {
+        "progweb_cat": "Entertainment,Monetization",
+        "api_name": "KIDOZ",
+        "id": 2404,
+        "progweb_descr": " KIDOZ offer family friendly content discovery monetization platform KIDOZ feature customize unit well application experience COPPA compliant content recommendation KIDOZ recommendation platform use machine learn target location personal interest age KIDOZ headquarter Israel"
+    },
+    {
+        "progweb_cat": "Entertainment,Library",
+        "api_name": "Channel PEAR",
+        "id": 3388,
+        "progweb_descr": " Channel RESTful API available interact PEAR library It support JSON response HTTP authentication As service PEAR provide collaborative cloud base live stream platform"
+    },
+    {
+        "progweb_cat": "Entertainment,Humor",
+        "api_name": "xkcd Swagger",
+        "id": 3541,
+        "progweb_descr": " xkcd provide Swagger RESTful API use JSON call retrieve file contain comic title URLs post date transcripts metadata This metadata provide easilyparsed plaintext format xkcd webcomic consist nonsequential strip math language program nature reality general"
+    },
+    {
+        "progweb_cat": "Entertainment,Humor",
+        "api_name": "Cat Facts",
+        "id": 7698,
+        "progweb_descr": " Cat Facts API web service able deliver random cat fact source variety open web page Developers simply place HTTP call specify number cat fact API delivers JSON format response"
+    },
+    {
+        "progweb_cat": "Entertainment,Humor",
+        "api_name": "xkcd",
+        "id": 9848,
+        "progweb_descr": " xkcd webcomic consist nonsequential strip math language program nature reality general site provide RESTful API use JSON call retrieve file contain comic title URLs post date transcripts metadata This metadata provide easilyparsed plaintext format"
+    },
+    {
+        "progweb_cat": "Entertainment,Humor",
+        "api_name": "Swanand Mokashi Quote Of The Day",
+        "id": 9963,
+        "progweb_descr": " Swanand Mokashi founder CEO Malaika Consultants LLC software consult company also offer web design web host service On website Swanand provide Quote Of Day API return random funny quote author This service integrate website application use SOAP call issue XML format Code sample API provide VB C Perl 4D"
+    },
+    {
+        "progweb_cat": "Entertainment,Humor",
+        "api_name": "Advice Slip",
+        "id": 10094,
+        "progweb_descr": " Advice Slip web service make Tom Kiss It interface similar ATM rather dispense paper receipt status user bank account dispenses virtual receipt randomly select piece advice advice dispense service also retrieve programmatically use Advice Slips REST API"
+    },
+    {
+        "progweb_cat": "Entertainment,Humor",
+        "api_name": "SellsBrothers Excuse",
+        "id": 10663,
+        "progweb_descr": " SellsBrothers internet home Chris Sells Developer Tools Telerik SellsBrothers provide number service include Excuse API enable user retrieve random excuse via API It create transcribe Excuse Ball onto spreadsheet make accessible via SOAP API"
+    },
+    {
+        "progweb_cat": "Entertainment,Humor",
+        "api_name": "ERMAHGERD Translator",
+        "id": 10862,
+        "progweb_descr": " ERMAHGERD Translator API change regular English phrase word sentence memespeak Ermahgerd meme REST base service JSON return host Mashape require account service Up 10 daily translation free purchase basic account 500month provide 1000 daily translation"
+    },
+    {
+        "progweb_cat": "Entertainment,Humor",
+        "api_name": "RankMyTyping",
+        "id": 11057,
+        "progweb_descr": " service provide access statistic compile online game measure user type keyboarding speed Users state age gender occupation take test data available include variable Statistics break correct incorrect keyboarding word within sample passage present test Statistics also report average type speed overall demographic occupational category API method support search statistic keyboarding skill compile course game use Returned data provide count word individual letter type correctly incorrectly along summary demographic category occupation zodiac sign"
+    },
+    {
+        "progweb_cat": "Entertainment,Video",
+        "api_name": "IVA's Pinpoint",
+        "id": 3797,
+        "progweb_descr": " This API use Internet Video Archive IVA Odata 20 API It way get programing video asset information relate third party data provider Pinpoint mapping table link IVA ’ video asset IVAs service allow access library video asset movie trailer TV series music videos game trailer image"
+    },
+    {
+        "progweb_cat": "Entertainment,Video",
+        "api_name": "Grabyo",
+        "id": 9534,
+        "progweb_descr": " Grabyo TV clip share application Grabyo allow user save TV clip share social medium site email text Grabyo API allow developer access integrate functionality Grabyo application websites enable TV clip Grabyo integrate platform Public documentation available interested developer email hellograbyocom information"
+    },
+    {
+        "progweb_cat": "Entertainment,Video",
+        "api_name": "Gracenote EyeQ",
+        "id": 9536,
+        "progweb_descr": " Gracenote provide music video auto application Gracenote also provide application connect device interactive program Gracenote EyeQ provide interactive program guide entertainment content TV show Gracenote EyeQ API allow developer access integrate functionality Gracenote EyeQ application It allow TV provider channel program lookup well textbased lookup movie television series"
+    },
+    {
+        "progweb_cat": "Entertainment,Video",
+        "api_name": "WorldStream TV",
+        "id": 11375,
+        "progweb_descr": " service provide aggregated access video audio multimedia content across wide range culture languages ethnicity worldwide Video option include subscription access TV program video record videoondemand Audio option include Internet radio divide genre language API method support retrieval program listing schedule information detail information individual program Methods also provide update currently play video audio well access record medium feed"
+    },
+    {
+        "progweb_cat": "Entertainment,Actors",
+        "api_name": "Chuck Norris Facts",
+        "id": 3917,
+        "progweb_descr": " Chuck Norris Facts API allow access trove tidbit widely acclaim supernormal faculty Chuck Norris It deploy JSON format process request return randomize response phenomenal fact actor A Slack integration lend user great flexibility view available category joke search categoryspecific joke personalize search preference"
+    },
+    {
+        "progweb_cat": "Entertainment,Design",
+        "api_name": "Rebrickable",
+        "id": 4297,
+        "progweb_descr": " Rebrickable API aim offer developer database display LEGO brick creation build idea well pull information user specific account API aim pull database LEGO set IDs MOCs custom LEGO creation You use Rebrickable API pull information user specific account well GET set directory"
+    },
+    {
+        "progweb_cat": "Entertainment,Art",
+        "api_name": "London Theatre Direct",
+        "id": 4510,
+        "progweb_descr": " London Theatre Direct API allow developer access book system include availability information pricing information full booking major venue place London New York London Theatre Direct one UK ’ lead ticket agent distributor well official ticket agent London ’ major theatre"
+    },
+    {
+        "progweb_cat": "Entertainment,Art",
+        "api_name": "Unofficial Marvel Stream",
+        "id": 5420,
+        "progweb_descr": " project Unofficial Marvel Stream work access API data form paginate display Developers integrate information relate character comic application This work create Matt DesLauriers available GitHub user find installation example usage event run test"
+    },
+    {
+        "progweb_cat": "Entertainment,Art",
+        "api_name": "Manga Eden",
+        "id": 8746,
+        "progweb_descr": " Manga Eden website user read manga Japanese graphic novel translate English Italian free Users register site use myManga feature allow user keep track favorite manga list see new chapter become available Manga Eden REST API allow user retrieve manga information full chapter myManga list update"
+    },
+    {
+        "progweb_cat": "Entertainment,Art",
+        "api_name": "OhNoRobot",
+        "id": 9537,
+        "progweb_descr": " OhNoRobot personalize comic search transcription service house database 137000 comic site offer random comic browsing advance search capability collaborative transcription service OhNoRobot API allow user import comic data system documentation information contact OhNoRobot"
+    },
+    {
+        "progweb_cat": "Entertainment,Art",
+        "api_name": "MyFlame.at",
+        "id": 12648,
+        "progweb_descr": " service allow creator fractal flame share work It work flames create Apophysis fractal flame editor compatible application Data distribute service include parameter display render share fractal API method support submit fractal flame data service database well lookup retrieval parse data package Methods also support apply descriptive data browsing submit fractal flame owner descriptive tag criterion"
+    },
+    {
+        "progweb_cat": "Entertainment,Art",
+        "api_name": "fanart.tv TV",
+        "id": 13497,
+        "progweb_descr": " fanarttv online repository art image create TV show movie fan Users upload image search image TV movie title fanarttv API allow developer access functionality image fanarttv integration application API method available search image type names retrieve information image"
+    },
+    {
+        "progweb_cat": "Entertainment,Media",
+        "api_name": "Tviso",
+        "id": 4973,
+        "progweb_descr": " Tviso REST API allow developer access integrate functionality Tviso applications Some example API method include retrieve manage comment generate recommendation show user retrieve list medium available Tviso provide database entertainment video content relate metadata user activity stream checkins rating recommendation review actor movie TV show documentary access video demand offer live TV stream"
+    },
+    {
+        "progweb_cat": "Entertainment,Media",
+        "api_name": "Andertoons",
+        "id": 7691,
+        "progweb_descr": " Andertoons site cartoon Mark Anderson site allow user browse comic create category tag alphabetically many criterion Andertoons API allow user display Andertoon comic thirdparty websites agreement Mark Anderson integration arrangement contact Mark Anderson site"
+    },
+    {
+        "progweb_cat": "Entertainment,Media",
+        "api_name": "DR NU",
+        "id": 8607,
+        "progweb_descr": " DR Danish Broadcasting Corporation Danish medium company provide television radio online medium service Its website provide access program information stream episode DR also provide DR NU API nu Danish word This make public REST method available retrieve program program information video list video API also provide search function DR website provide primarily Danish API documentation give English"
+    },
+    {
+        "progweb_cat": "Entertainment,Media",
+        "api_name": "Myxer",
+        "id": 12162,
+        "progweb_descr": " Myxer service entertainment discovery Users browse Myxerâ€™s catalog medium free music apps movie game They may also upload creation catalog Myxer wellintegrated Facebook Twitter allow user share favorite find Myxer API RESTful expose access usersâ€™ profile websiteâ€™s medium catalog It provide XMLformatted response"
+    },
+    {
+        "progweb_cat": "Entertainment,Media",
+        "api_name": "eCoComa Video",
+        "id": 12459,
+        "progweb_descr": " eCoComa Video API allow user search videos variety online source Given keyword search API retrieve list video associate specified keyword Calls exist retrieve list MSN AOL Google Yahoo This API operate via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "Entertainment,Home Automation",
+        "api_name": "Google Chromecast",
+        "id": 5695,
+        "progweb_descr": " Google Chromecast Google device display mobile entertainment TV screen API offer documentation interact sender medium content work receiver display screen Sender API reference cover parameter configuration request related medium volume display TV show Receiver API consist parameter cast receiver medium playback possible property connect inactivity standby Available index class function More info support Cast API support Google include sample apps developer resource"
+    },
+    {
+        "progweb_cat": "Entertainment,Mobile",
+        "api_name": "Google Chromecast Android",
+        "id": 5705,
+        "progweb_descr": " API Google Chromecast Java support Android device aim display mobile entertainment TV screen Documentation include class interact Google cast device instruction access Google APIs tool facilitate support sample section allow import code GitHub download example Android studio"
+    },
+    {
+        "progweb_cat": "Entertainment,Mobile",
+        "api_name": "Google Chromecast iOS",
+        "id": 5706,
+        "progweb_descr": " API Google Chromecast iOS support Apple mobile device display entertainment TV screen Within Google developer site user access guide design send receive medium Available reference section API overview Chrome API iOS API"
+    },
+    {
+        "progweb_cat": "Entertainment,Conversions",
+        "api_name": "Fun Translations",
+        "id": 6434,
+        "progweb_descr": " Fun Translations API accept body text translate fun theme response simple JSON API access programmatically convert text use Yoda speak generator Pirate talk generator Pig Latin Converter Jive talk many Each API functionality offer description grammatical process create output restructure key word automatically create Yoda structure sentence Fun Translations offer web interface user test service bulk request increase API usage Fun Translations offer monthly payment plan"
+    },
+    {
+        "progweb_cat": "Entertainment,Attractions",
+        "api_name": "Amusement Markup Language",
+        "id": 7597,
+        "progweb_descr": " Amusement Markup Language API gather information attraction event point interest around world Its goal allow search GPS location keyword zip code find different point interest attraction within amusement park"
+    },
+    {
+        "progweb_cat": "Entertainment,Books",
+        "api_name": "Marvel Comics",
+        "id": 7678,
+        "progweb_descr": " Marvel Comics API provide developer access metadata describe Marvels 70 year comic RESTful API delivers JSON format information creator character series storyline individual issue crossover event"
+    },
+    {
+        "progweb_cat": "Entertainment,Books",
+        "api_name": "iDreamBooks",
+        "id": 9898,
+        "progweb_descr": " iDreamBooks service aggregate book critic review Users search book title author ISBN genre retrieve book information review information iDreamBooks API allow developer access integrate functionality iDreamBooks application Some example API method include search book retrieve book information retrieve review rating"
+    },
+    {
+        "progweb_cat": "Entertainment,Books",
+        "api_name": "Bookleteer",
+        "id": 12905,
+        "progweb_descr": " service allow user create downloadable PDF file print locally assemble handmade book A feature enable design StoryCubes generate printout cut folded threedimensional cube present story portfolio exhibition component innovative way Commercial printondemand service available API method support retrieval edit file create service include file management PDF HTML ebook format Methods also support management image use publication create service"
+    },
+    {
+        "progweb_cat": "Entertainment,Social",
+        "api_name": "HollyStock Celebrity",
+        "id": 7862,
+        "progweb_descr": " HollyStock celebrity stock exchange user acquire portoflio celebrity gain use loses base number time celebrity mention news day HollyStock Celebrity API use REST call allow user retrieve celebrity price online celebrity stock market game HollyStock API return data XML JSON format An account required service"
+    },
+    {
+        "progweb_cat": "Entertainment,Social",
+        "api_name": "Viggle",
+        "id": 10413,
+        "progweb_descr": " Viggle social TV platform reward user check show watch Users earn loyalty reward watch TV show Viggle API allow developer access integrate functionality Viggle application create new application Some example API method include retrieve like reminder manage account information retrieve show information"
+    },
+    {
+        "progweb_cat": "Entertainment,Gambling",
+        "api_name": "CoinRoll",
+        "id": 8114,
+        "progweb_descr": " Coinroll bitcoin gamble service user use bitcoins wager variety game hop increase holding Coinroll API allow user make call create account place bet request outstanding balance withdraw fund check deposit status query bet query bet ID get game information API use REST call return JSON SSL use authentication account require service"
+    },
+    {
+        "progweb_cat": "Entertainment,Gambling",
+        "api_name": "Coinworld Lotto",
+        "id": 9114,
+        "progweb_descr": " Coinworld Lotto offer 14 digital currency user enter drawing win user purchase lottery ticket specify currency hop win jackpot Users ask select currency reserve deposit address deposit currency monitor deposit ten wait win Coinworld Lotto API allow user make variety call user integrate lottery banner thirdparty sit add banner thirdparty site query jackpot draw price ticket reservation service use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Entertainment,Gambling",
+        "api_name": "California Lottery",
+        "id": 12068,
+        "progweb_descr": " service provide information stream current lottery game run state California It serve information need partner provide updated report game play winner name amount related update game API method support retrieval current game information include recent number draw jackpot amount"
+    },
+    {
+        "progweb_cat": "Entertainment,Time",
+        "api_name": "PonyCountdown",
+        "id": 8268,
+        "progweb_descr": " PonyCountdown provide user time date My Little Pony Friendship Magic MLPFIM episodes include countdown upcoming episode PonyCountdown API allow developer retrieve MLPFIM episodes episode give season information give episode information next episode air amount time next episode air This API use REST call issue JSON JSONP"
+    },
+    {
+        "progweb_cat": "Entertainment,Widgets",
+        "api_name": "Redbox Widgets",
+        "id": 8630,
+        "progweb_descr": " Redbox provide automated movie video game rental kiosk throughout US Redbox widget allow developer feature information website regard available movie game well location nearby Redbox kiosk different type widget display top hit movie rental top movie rental give genre top video game rental console Redbox kiosk location zip code Widget information automatically update weekly basis As write user customize appearance widget feature development"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "Beenius Beesmart",
+        "id": 8656,
+        "progweb_descr": " Beenius progressive interactive TV middleware provider service operator Beenius Beesmart service delivery platform comprehensive application layer provide interactive TV service platform converge TV phone internet service Beenius offer open API enables development interactive TV feature client device API service RESTbased Security provide via OAuth SSL authentication Access full API documentation come account service"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "Boxfish",
+        "id": 9453,
+        "progweb_descr": " Boxfish search application every spoken word television Boxfish allow user search term feature television program realtime Boxfish API allow developer access integrate functionality Boxfish application create new application Public documentation available interested developer email teamboxfishcom API access"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "TitanTV",
+        "id": 9960,
+        "progweb_descr": " TitanTV free online TV Guide service use geolocation technology provide accurate overtheair cable satellite channel lineups user region TitanTV member customize TV listing maintain list favorite show manage appearance channel listing TitanTV also use remotely schedule recording program computer equip PVR Personal Video Recorder system TitanTV provide API allow user retrieve information TV program lineups Another API retrieve record schedule entry Both service rely SOAPbased call issue XML format"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "Follw.it",
+        "id": 10470,
+        "progweb_descr": " Follwit online social community follow discus rate recommend TV show movie Follwit allow user connect fan TV show movie make recommendation see friend watch discover new content Follwit API allow developer access integrate functionality Follwit application create new application Some example API method include retrieve movie TV show information view user profile collection list TV show movie"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "SubtitleSource",
+        "id": 11219,
+        "progweb_descr": " service provide subtitle range language specify movie television show Movie TV show specify name name plus release number specific release IMDb identification number Desired language specify request URL API method support retrieve subtitle data movie TV program specific release one exist title Methods also support list language subtitle available movie show medium subtitle available specified language"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "syncrhonize.tv",
+        "id": 11310,
+        "progweb_descr": " service provide capability share information video program play display device system management resource It aim allow coordination among device indicate exactly program playing much elapse begin specific TV video display Applications coordinate offset display device Another service provide keyword content analysis television programming play device API method support submit UUID universally unique identifier set top box STB connect TV retrieve program identifier offset second begin show play device Methods content analysis API include retrieval word contain within television program playing specific display"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "Subtitleseeker",
+        "id": 11721,
+        "progweb_descr": " service provide subtitles movie television program log provider database Applications specify movie title IMDb identifier number release desire output language Applications specify TV series episode release ID along language desire subtitle API method support search movie TV series title determine whether listed database Methods support retrieval subtitle desire language specify movie release television program episode"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "SubsMax Movie Subtitles",
+        "id": 11743,
+        "progweb_descr": " Submaxcom allow user find download subtitle movie television series This simple API connects SubsMaxcoms database return relevant result base parameter user set Parameters include number response title language year API call use RESTful protocol"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "Watch",
+        "id": 12524,
+        "progweb_descr": " Watch service let fan search place watch favorite sport team book table locale Restaurants bar register service participate Listed game primarily La Liga Spain Euroleague NBA Listed bar primarily Europe major US city API offer user functionality web interface output JSON format"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "PBS TV Schedules",
+        "id": 12619,
+        "progweb_descr": " PBS offer TV Schedules API allow developer direct access TV schedule metadata method expose API make variety type data available include air date program info station info future schedule This free service operate via REST return data JSON require API key access"
+    },
+    {
+        "progweb_cat": "Entertainment,TV",
+        "api_name": "Numote Live",
+        "id": 14129,
+        "progweb_descr": " Numote Live platform allow user watch TV show videos interactive feature Companies use platform build community reward viewer manage content track usage view analytics Numote API allow developer access integrate Numotes functionality data Public documentation available without sign first Interested developer company contact supportnumnotecom information"
+    },
+    {
+        "progweb_cat": "Entertainment,Random",
+        "api_name": "Notable and Quotable Random Quote",
+        "id": 9013,
+        "progweb_descr": " Notable Quotable free searchable database 30000 quotation 6500 person database contains say famous people Jimi Hendrix Mark Twain William Shakespeare Notable Quotable provide Random Quote API allow user retrieve random quote sit database via SOAP call"
+    },
+    {
+        "progweb_cat": "Entertainment,Random",
+        "api_name": "Tarya Technologies RandomQuotes",
+        "id": 9189,
+        "progweb_descr": " Tarya Technologies UKbased web development program company On website provide handful simple SOAP APIs write free use One RandomQuotes API allow developer retrieve random quote author subject matter quote unspecified"
+    },
+    {
+        "progweb_cat": "Entertainment,Tickets",
+        "api_name": "Goldstar",
+        "id": 9132,
+        "progweb_descr": " Goldstar online discount ticket retailer entertainment event Goldstar offer halfprice ticket activity event theater dance concert film screening sport event Their site also offer member review customize suggestion service member Using Goldstar API developer build functionality top Goldstar Supported function include deal day list feed oAuth willcalls image territory category API aim Dealwire Partners affiliatesas well supplier venues A developer key require"
+    },
+    {
+        "progweb_cat": "Entertainment,Lists",
+        "api_name": "TV Media TV Listings",
+        "id": 9216,
+        "progweb_descr": " TV Media offer TV Listings API developer use integrate program listing information Canada US application API provide access show lineups daily sport listing movie listing station logo It also let user retrieve program detail series information cast member episode description TV Listings API use REST call issue JSON JSONP"
+    },
+    {
+        "progweb_cat": "Entertainment,Italian",
+        "api_name": "ItaScan",
+        "id": 9418,
+        "progweb_descr": " ItaScan website let user read manga scan translate aka scanlations free They provide large archive Italianlanguage manga scan view without register site Developers retrieve information manga chapter download image ZIP format use ItaScan API This service use REST call return information JSON format ItaScan website API documentation provide solely Italian"
+    },
+    {
+        "progweb_cat": "Entertainment,Voice",
+        "api_name": "ZOWi",
+        "id": 9495,
+        "progweb_descr": " ZOWi voice experience platform enable user engage pure voice interaction ZOWi API enable developer interact ZOWi mobile app via JSON object deliver pure voice interaction API also enable user request data voice interaction thus enable analysis reporting interaction"
+    },
+    {
+        "progweb_cat": "Entertainment,Content",
+        "api_name": "Umano",
+        "id": 9588,
+        "progweb_descr": " Umano publishing service take content web turn story read aloud professional voice actor Publishers turn content podcasts audio book Umano Umano API allow developer access integrate functionality Umano applications Some example API method include embed Umano player playback recording list story"
+    },
+    {
+        "progweb_cat": "Entertainment,Religion",
+        "api_name": "They Said So",
+        "id": 9825,
+        "progweb_descr": " They Said So website provide daily quote random quote large quotation database Developers use RESTful They Said So API include quote application API retrieve quote day random quote quote meet certain length restriction category quote quote certain author It also retrieve Bible verse day random verse"
+    },
+    {
+        "progweb_cat": "Entertainment,England",
+        "api_name": "Everyman Theatre Autocomplete",
+        "id": 10132,
+        "progweb_descr": " Gloucestershires theatre Everyman service since 1891 Everyman host ballet opera drama dance comedy music pantomime performance They also offer multitude community project education workshop youth theatre production Visitors Everyman website look information upcoming performance book ticket Event Search box top page feature autocomplete service suggest event title site visitor type This autocomplete feature programmatically accessible SOAPbased Everyman Theatre Autocomplete API"
+    },
+    {
+        "progweb_cat": "Entertainment,Ratings",
+        "api_name": "MenuMania",
+        "id": 10232,
+        "progweb_descr": " service provide access provider database restaurant listing city location New Zealand It deliver information restaurant specific location serve particular cuisine combination Available information include address cuisine offer hour operate detail rating diner API method support search restaurant locate New Zealand within define radius specify map point Search also provide address city without particular keywords descriptive information Methods allow filter result define list cuisine attribute price level API also give access community review log service help discover highly rat restaurant"
+    },
+    {
+        "progweb_cat": "Entertainment,Webhooks",
+        "api_name": "OpenMedia.io",
+        "id": 10237,
+        "progweb_descr": " OpenMedia entertainment content service provide movie content TV show content Podcast content via webhooks OpenMedia API allow developer access integrate functionality content OpenMedia application create new application Public documentation available interested developer sign httpopenmediaio"
+    },
+    {
+        "progweb_cat": "Entertainment,Clothing",
+        "api_name": "Dress Code Finder",
+        "id": 10554,
+        "progweb_descr": " Dress Code Finder online directory restaurant bar club dress cod 70000 establishment US Dress Code Finder return information casual fancy dress code Dress Code Finder API allow developer access integrate functionality Dress Code Finder application Some example API method include search dress code keywords search dress code location return dress code detail"
+    },
+    {
+        "progweb_cat": "Entertainment,Music",
+        "api_name": "Pollstar",
+        "id": 10825,
+        "progweb_descr": " Pollstar trade publication cover concert industry worldwide Pollstar offer weekly print magazine subscription site professional free site live music fan Pollstarâ€™s public API allow developer display Pollstar data website within application API support SOAP HTTP call"
+    },
+    {
+        "progweb_cat": "Entertainment,Calendars",
+        "api_name": "DayDetails",
+        "id": 11058,
+        "progweb_descr": " service provide historical trivia information pertinent specify calendar date It calculate equivalent enter data accord Islamic Iranian calendar time comparison various location Calculations also include duration specify date current date week day hour second"
+    },
+    {
+        "progweb_cat": "Entertainment,Messaging",
+        "api_name": "take.io",
+        "id": 11179,
+        "progweb_descr": " service provide platform interact mobile device provide videos entertainment content SMS text message enterprise messaging service It aim provide middleware facilitate contact device range service meet many different need API method support single signon SSO core device interaction service bill SMS message administrative report service user Methods identify specific resource require particular communication interaction smooth connection content user"
+    },
+    {
+        "progweb_cat": "Entertainment,Database",
+        "api_name": "Muvi",
+        "id": 11208,
+        "progweb_descr": " Muvi social movie platform user search access information movie Hollywood Bollywood well celebrities world Muvi API allow developer access integrate functionality Muvi application create new application Public documentation available interested developer contact baasmuvicom API access"
+    },
+    {
+        "progweb_cat": "Entertainment,Database",
+        "api_name": "Plings",
+        "id": 14090,
+        "progweb_descr": " Plings UK base activity destination website young people work local organization promote positive activity teens Plings Input API aim provide easy programmatic way submit large number activity Plings either SOAP API XML via HTTP POST API Plings Input API require API Key Plings Output API return feed XML CSV require API Key return data iCal KML RSS format without need API Key There two type feed Plings Output API activity feed venue feed integrate website"
+    },
+    {
+        "progweb_cat": "Entertainment,Images",
+        "api_name": "4chan",
+        "id": 11368,
+        "progweb_descr": " 4Chan forum image post discussion Users post image different thread separate categorically theme like videogames anime music Users reply images comment image comment pasteboard format simple require account login 4chan API expose information pasteboardâ€™s thread Developers use retrieve content 4chan It RESTful API return JSONencoded data"
+    },
+    {
+        "progweb_cat": "Entertainment,Translation",
+        "api_name": "Talk Like A Pirate Translation",
+        "id": 11417,
+        "progweb_descr": " Talk Like A Pirate Translation API allow user submit text get translation pirate speak return default return format txt JSON XML also option Pirate translation pull Tom Crouchers YQL table yahoo developer blog section"
+    },
+    {
+        "progweb_cat": "Entertainment,Translation",
+        "api_name": "Yodaspeak",
+        "id": 12082,
+        "progweb_descr": " As though spoken character Yoda Star Wars movie service accepts usersubmitted text return translation Based paper unknown author post web link service site translation rule Output text rephrase joke email text song lyric etc Of text string passage return translate version API method support submission Herh herh herh"
+    },
+    {
+        "progweb_cat": "Entertainment,Reference",
+        "api_name": "Quotes Daddy",
+        "id": 11657,
+        "progweb_descr": " Quotes Daddy online quote library It house great saying past present character site offer search bar allow user search tag quote author Users also subscribe receive daily update quote particular genre Inspirational Love Friendship Quotes Daddy API expose search functionality It RESTful API return XMLencoded data"
+    },
+    {
+        "progweb_cat": "Entertainment,Reference",
+        "api_name": "Stochastic IMDb",
+        "id": 13332,
+        "progweb_descr": " Stochastic IMDb API unofficial service let users access IMDb programatically service updated daily webbased script par IMDB datafiles expose API retrieve information With user query database find television show It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Entertainment,Spanish",
+        "api_name": "Univision",
+        "id": 13560,
+        "progweb_descr": " Univisioncom mostvisited Spanishlanguage web destination among US online Hispanics Univision API give user access content available Univision online property include article slideshows recipe event Developers use API integrate content application API use RESTful call response format XML JSON RSS ATOM JSONP"
+    },
+    {
+        "progweb_cat": "Entertainment,Subtitles",
+        "api_name": "Sublight",
+        "id": 13570,
+        "progweb_descr": " Sublight allow user search download subtitle movie TV show collection databases Subtitles available dozen languages include English Spanish French German Chinese Japanese Swedish API provide way integrate automatic subtitle download site application"
+    }
+]

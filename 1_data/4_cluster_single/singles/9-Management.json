@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Management,Energy",
+        "api_name": "Mozilla Idle",
+        "id": 2158,
+        "progweb_descr": " Mozilla Idle API provide power save module program convey signal app whenever device mobile phone use app turn instructs devise retreat idle mode save power consumption"
+    },
+    {
+        "progweb_cat": "Management,Energy",
+        "api_name": "Mozilla Power Management",
+        "id": 2186,
+        "progweb_descr": " Mozilla Power Management API allow user control energy consumption rate mobile phone device device It allow developer deploy power save module screen CPUs device Users manipulate turnon turnoff device functionality moderate power consumption"
+    },
+    {
+        "progweb_cat": "Management,Hardware",
+        "api_name": "Mozilla Settings",
+        "id": 2184,
+        "progweb_descr": " Mozilla Settings API support selection management preferred setting mobile device smartphones It allow developer provide access change option well setting parameter monitor device API accessible certified application due sensitive nature system information"
+    },
+    {
+        "progweb_cat": "Management,Internet of Things",
+        "api_name": "InstaUnite",
+        "id": 3874,
+        "progweb_descr": " InstaUnite API allow customer integrate remote fleet asset equipment management function system API include method query metadata provision deprovisioning asset upgrading asset usage value provide evidence report base usage InstaUnite remote asset management solution enable OnDemand Access Smart Assets"
+    },
+    {
+        "progweb_cat": "Management,Application Development",
+        "api_name": "Commando.io",
+        "id": 6495,
+        "progweb_descr": " Commandoio offer service manage instance droplets server online Developers tag organize server trigger run execution use container code specific server group server Servers import Rackspace Amazon Web Services DigitalOcean Commandoio API available user pay plan Commandoio API use HTTP basic authentication automate similar functionality appear Commandoio interface"
+    },
+    {
+        "progweb_cat": "Management,Tools",
+        "api_name": "Temnos",
+        "id": 8987,
+        "progweb_descr": " Temnos content intelligence platform Temnos allow company make use content analyze content tag organize content target repackaging content engagement Temnos API allow developer access integrate functionality Temnos application Public documentation available interested developer contact infotemnoscom information"
+    },
+    {
+        "progweb_cat": "Management,Tools",
+        "api_name": "Forte Group",
+        "id": 11367,
+        "progweb_descr": " Forte Group provide solution IT management Their service include software development hire help software development provide custom product enterprise mobile quality test deployment Their hiring help feature include help business craft strong sense need approach recruitment Their API expose automated management platform Developers use retrieve feed analytics thirdparty backend software API base RESTful protocol"
+    },
+    {
+        "progweb_cat": "Management,Domains",
+        "api_name": "DiscountDomains",
+        "id": 11037,
+        "progweb_descr": " DiscountDomains domain registration management website base New Zealand DiscountDomains API SOAP base service allow user automate management domain portfolio service allow user integrate search registration ongoing management functionality third party website current API allow user manage nz domain name future release extend include nonnz domain name"
+    },
+    {
+        "progweb_cat": "Management,Content",
+        "api_name": "GatherContent",
+        "id": 11198,
+        "progweb_descr": " GatherContent online content management platform GatherContent let user curate website content collaborate website content edit website content plan website content post GatherContent API allow developer access integrate functionality GatherContent applications Some example API method include retrieve user user information company information retrieve file page content"
+    }
+]

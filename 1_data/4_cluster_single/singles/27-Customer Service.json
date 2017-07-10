@@ -1,0 +1,164 @@
+[
+    {
+        "progweb_cat": "Customer Service,API Management",
+        "api_name": "ServiceNow",
+        "id": 941,
+        "progweb_descr": " service provide host online storage general platform IT service management API allow application integrate general platform management function automate business process API method implement direct listing control database table via SOAP request Methods also support interaction Import Sets Strict security measure implement WSSecurity 11 use WSS X509 Token Profile WSS Username Token Profile"
+    },
+    {
+        "progweb_cat": "Customer Service,Chat",
+        "api_name": "REVE Chat",
+        "id": 1529,
+        "progweb_descr": " REVE Chat API allow developer add realtime chat function web mobile application order provide live customer service This API support JSON call require public secret key authentication REVE Chat provide live chat voice chat video chat Facebook message Viber message live customer assistance"
+    },
+    {
+        "progweb_cat": "Customer Service,Chat",
+        "api_name": "LiveZilla",
+        "id": 2501,
+        "progweb_descr": " LiveZilla customer support platform feature mask IP address privacy integrate FTP client automate file upload onthefly message translation LiveZilla API offer access several method include Chat TicketMessage KnowledgeBaseEntry This REST API solely base POST JSON support GET PUT DELETE custom header"
+    },
+    {
+        "progweb_cat": "Customer Service,Chat",
+        "api_name": "Subiz",
+        "id": 3554,
+        "progweb_descr": " Subiz API allow developer integrate live chat platforms ecommerce website It support realtime communication website visitor enhance customer engagement metric API ’ crossorigin resource share functionality facilitate secure deployment clientside web application RESTful API full release welldocumented version sends request return response HTTP JSON format respectively"
+    },
+    {
+        "progweb_cat": "Customer Service,Management",
+        "api_name": "Topdesk SSP Look and Feel",
+        "id": 1752,
+        "progweb_descr": " Topdesk SSP Look Feel API integrate alphabetic list service name ID customer application Available JSON format REST architecture TOPdesk provide customer service SaaS solution"
+    },
+    {
+        "progweb_cat": "Customer Service,Management",
+        "api_name": "Topdesk Reservations",
+        "id": 1753,
+        "progweb_descr": " Topdesk Reservations API integrate reservation location facility occupancy cancellation reason It available REST architecture JSON format TOPdesk provide customer service SaaS solution"
+    },
+    {
+        "progweb_cat": "Customer Service,Management",
+        "api_name": "Topdesk Change Management",
+        "id": 1754,
+        "progweb_descr": " Topdesk Change Management API integrate manager authorizable action activity rejection reason customer service application It available JSON format REST architecture TOPdesk provide customer service SaaS solution"
+    },
+    {
+        "progweb_cat": "Customer Service,Management",
+        "api_name": "Topdesk",
+        "id": 1755,
+        "progweb_descr": " TOPdesk API integrate service management application It available REST architecture JSON format With API developer improve customer communication manage workflows keep track asset TOPdesk provide customer service SaaS solution"
+    },
+    {
+        "progweb_cat": "Customer Service,Management",
+        "api_name": "Front Desk HQ Reporting",
+        "id": 3264,
+        "progweb_descr": " This API allow apps retrieve aggregate business data business franchise level Aggregating revenue quarter retrieve merchandise sell certain staff member find client contribute high revenue business example whats possible Front Desk API Front Desk mobile client management schedule software ’ intuitive platform personal service provider"
+    },
+    {
+        "progweb_cat": "Customer Service,Management",
+        "api_name": "Front Desk HQ Core",
+        "id": 6411,
+        "progweb_descr": " Front Desk REST API allow business management function information retrieval call It use GET request supply JSON responses An API token require authentication oAuth 2 Call limit specify documentation include free level pricing Front Desk client management solution small medium sized business require schedule attendance staff billing management Example business Front Desk pair well include yogafitness center music dance studio martial art kid activity organization involve personal service"
+    },
+    {
+        "progweb_cat": "Customer Service,Marketing",
+        "api_name": "HelpSocial Open",
+        "id": 1780,
+        "progweb_descr": " HelpSocial Open API offer menu possibility capabilities social medium message feature every application use help customer This API allow decide social message live application get access Every feature platform available pick choose capability care embed everywhere team help customer With HelpSocial Open API"
+    },
+    {
+        "progweb_cat": "Customer Service,Artificial Intelligence",
+        "api_name": "Heat Intelligence",
+        "id": 2091,
+        "progweb_descr": " Heat Intelligence REST API allow developer access integrate functionality Heat Intelligence application Some example API method include make request question retrieve answer base parameter embed video make phone call Heat Intelligence customer service platform help company help customer artificial intelligence response"
+    },
+    {
+        "progweb_cat": "Customer Service,Automation",
+        "api_name": "TM Forum Service Inventory",
+        "id": 2322,
+        "progweb_descr": " TM Forum Service Inventory API support implementation consistent mechanism query process service instance customer either selfservice portal operatorcontrolled call center API capable generate service instance query behalf customer RESTful API return JSON response URI QueryCRUD JSON request API currently beta release"
+    },
+    {
+        "progweb_cat": "Customer Service,Automation",
+        "api_name": "IBM Watson Conversation",
+        "id": 3331,
+        "progweb_descr": " IBM Watson Conversation API simplify virtualization automation customercentric communication channel API equip machine learning tool artificial intelligence capability natural language understand allow developer construct appbased bot remote agent automate customer engagement platform Developers use API equip website interactive feature chatbots automate response inquiry integrative social medium channel instant message IBM Watson Conversation API send HTTP request return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Customer Service",
+        "api_name": "Zammad",
+        "id": 2598,
+        "progweb_descr": " Zammad API provide programmatic access Zammads webbased opensource customer support ticket management service It include feature manage communication customer across multiple channel include telephone SMS social medium chat email Zammad brandable auditable include support nine language"
+    },
+    {
+        "progweb_cat": "Customer Service,Sales",
+        "api_name": "virtualQ",
+        "id": 3598,
+        "progweb_descr": " This API wait service voice call Integrable system virutalQ reduces wait hold time Callers receive notice call agent available via text web call back Other option leave feedback every call It also available place request via mobile app"
+    },
+    {
+        "progweb_cat": "Customer Service,Business",
+        "api_name": "Dial Once",
+        "id": 3695,
+        "progweb_descr": " Dial Once French customer care provider specialize company large volume inbound call Dial Once platform display rapid visual interface transforms call digital interaction qualifies call transfer customer care specialist Additionally Dial Once provide call center initial information faster resolution time increase self service user smartphone"
+    },
+    {
+        "progweb_cat": "Customer Service,Applications",
+        "api_name": "RevTwo",
+        "id": 3925,
+        "progweb_descr": " RevTwo API aim provide test platform enable support tool facilitate end user test capability along library RevTwo platform provide community support mobile user platform feature diagnostic tool like screen share log database inspector file browser"
+    },
+    {
+        "progweb_cat": "Customer Service,Support",
+        "api_name": "Enchant",
+        "id": 4487,
+        "progweb_descr": " Enchant API allow developer integrate email twitterbased customer support system application Enchant provide user embeddable customizable app customer use search knowledge base start chat send email Enchant include method sort manage help ticket well perform bulk action ticket Customers see support email never see ticket number"
+    },
+    {
+        "progweb_cat": "Customer Service,Support",
+        "api_name": "Aircall",
+        "id": 5224,
+        "progweb_descr": " Aircall REST API allow developer access integrate functionality Aircall application Public documentation available API access come account service Aircall phone support platform provider"
+    },
+    {
+        "progweb_cat": "Customer Service,Support",
+        "api_name": "Vision Helpdesk",
+        "id": 14732,
+        "progweb_descr": " Vision Helpdesk API give user open access several function Vision Helpdesk Using Vision Helpdesk API let script interact Vision Helpdesk function Vision Helpdesk offer three customer support tool 1 Help Desk Software 2 Satellite Help Desk Software 3 Service Desk Software Vision Helpdesk API allow script communicate Vision Helpdesk code integrate Vision helpdesk feature seamlessly user script"
+    },
+    {
+        "progweb_cat": "Customer Service,Accessibility",
+        "api_name": "Sugester",
+        "id": 5089,
+        "progweb_descr": " Sugester API allow user integrate Sugesters help desk function thirdparty application Sugester collect email help request assign employee monitor response time It also provide builtin forum knowledge base help customer solve problem independently Sugester provide full integration email phone call online chat social medium correspondence Sugester website provide Polish"
+    },
+    {
+        "progweb_cat": "Customer Service,Telephony",
+        "api_name": "Talkdesk",
+        "id": 5265,
+        "progweb_descr": " Talkdesk REST API allow developer access integrate functionality Talkdesk applications Some example API method include manage call manage call workflows manage user account Talkdesk platform software call center provide customer service phone"
+    },
+    {
+        "progweb_cat": "Customer Service,Analytics",
+        "api_name": "Nanorep Event Widget",
+        "id": 6105,
+        "progweb_descr": " Nanorep customer service support platform Businesses use Nanorep customer engagement customer service support function Nanorep Event Widget API allow developer access integrate event log functionality Nanorep applications Some example API method include retrieve event information answer query manage user"
+    },
+    {
+        "progweb_cat": "Customer Service,Languages",
+        "api_name": "Nanorep Knowledge Base",
+        "id": 6106,
+        "progweb_descr": " Nanorep customer service support platform Businesses use Nanorep customer engagement customer service support function Nanorep Knowledge Base API allow developer access integrate knowledge base functionality Nanorep applications Some example API method include retrieve knowledge base content add knowledge base content export entire knowledge base"
+    },
+    {
+        "progweb_cat": "Customer Service,Customer Relationship Management",
+        "api_name": "Jitbit Helpdesk",
+        "id": 6731,
+        "progweb_descr": " Jitbit offer host help desk help desk system live chat service In particular Jitbit Helpdesk great widelyused support ticket system Developers use cloud OR install server endpoint URL host one change subdomain account subdomain API allow get ticket app close reply ticket attach file"
+    },
+    {
+        "progweb_cat": "Customer Service,Invoicing",
+        "api_name": "SherpaDesk",
+        "id": 6926,
+        "progweb_descr": " SherpaDesk customer service software enable user track support request log time send invoice customer Support issue manage centrally rout correct technician via email company portal Technicians log time specific project support issue SherpaDesks mobile application SherpaDesk Tote allow user create ticket track time send invoice send closeout request smart phone Developers integrate SherpaDesks function websites application use API"
+    }
+]

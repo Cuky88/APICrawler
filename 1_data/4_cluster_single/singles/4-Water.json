@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Water,Data",
+        "api_name": "USGS GWIS",
+        "id": 2041,
+        "progweb_descr": " This JavaScript API create timeseries plot data measure USGS data collection sit web page A plot create html div use code specifies site data labeling option US Department Interior Cabinetlevel agency manage Americas vast natural cultural resource Secretary Interior head department employ 70000 people include scientist resourcemanagement professional nine technical bureau various office"
+    },
+    {
+        "progweb_cat": "Water,Data",
+        "api_name": "USGS Search",
+        "id": 2042,
+        "progweb_descr": " This JavaScript API create location search widget web page It connect dedicated database create API quickly find suggest location user type text US Department Interior Cabinetlevel agency manage Americas vast natural cultural resource Secretary Interior head department employ 70000 people include scientist resourcemanagement professional nine technical bureau various office"
+    },
+    {
+        "progweb_cat": "Water,Cities",
+        "api_name": "Texas State Water Plan",
+        "id": 2391,
+        "progweb_descr": " This API power interactive state water plan application All method available via standard HTML request CORSenabled crossbrowser request make All water volume give unit acrefeetyear Unless otherwise specify method return JSON responses This include follow method retrieve raw summary water plan information Entities Data Places Texas Water Development Board provide data sustainable affordable water Texas"
+    },
+    {
+        "progweb_cat": "Water,Environment",
+        "api_name": "ETwater Unity",
+        "id": 2928,
+        "progweb_descr": " This API scalable open platform water management environmental service It set data many different source use transform analyze information use set REST APIs directly gain access platform ’ service insight easy integration Some feature include profile detail soil type characteristic plant type growth factor specifically related UV watering need Smart Sprinkler Service allow water precisely lawn garden yard need"
+    }
+]

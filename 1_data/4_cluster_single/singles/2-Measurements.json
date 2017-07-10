@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Measurements,Email",
+        "api_name": "Klaviyo Metrics",
+        "id": 2872,
+        "progweb_descr": " Klaviyo Metrics API integrate measurement historical data event Available REST architecture developer send HTTP request receive JSON responses previously authenticate API Key Use API analyze historical metric consequence email marketing campaign"
+    },
+    {
+        "progweb_cat": "Measurements,Standards",
+        "api_name": "W3C Time Framing",
+        "id": 5514,
+        "progweb_descr": " W3C Time Framing API allow specification define interface assist web developer measure performance application give access frame performance data facilitate ie Frames per Second Time Frame measurement"
+    }
+]

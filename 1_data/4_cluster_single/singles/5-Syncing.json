@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Syncing,Messaging",
+        "api_name": "Cisco Spark",
+        "id": 2964,
+        "progweb_descr": " Cisco Spark API integrate sync communication employee video call message whiteboard session Available REST architecture JSON format OAuth authentication Use API create virtual room invite people search company user post message get notification previous conversation"
+    },
+    {
+        "progweb_cat": "Syncing,File Sharing",
+        "api_name": "Resilio Sync",
+        "id": 3694,
+        "progweb_descr": " Resilio Sync API available purchase integrate sync application Developers interact JSON architecture authenticate license API Key Resilio provide fast scalable file synchronization enterprises individual"
+    },
+    {
+        "progweb_cat": "Syncing,Streaming",
+        "api_name": "VideoSync",
+        "id": 6984,
+        "progweb_descr": " VideoSync API enable synchronize playback embed YouTube video across multiple window browser device When user start pause performs another action Youtube video state video synchronize connect device real time"
+    },
+    {
+        "progweb_cat": "Syncing,Backup",
+        "api_name": "BitTorrent Sync",
+        "id": 8720,
+        "progweb_descr": " Sync API provide tool need create robust scalable sync solution Apply free evaluation key contact sale price information Sync Integration Build fast secure apps use powerful Sync engine This distributed architecture add speed user control flexibility application Manage Workflows Manage share large file multiple site Reduce web server deployment time hour minute Build Custom Reporting Manage workstation server synchronization create custom report base Sync event Automate Sync Functions Automate Sync task create share folder distribute folder link"
+    },
+    {
+        "progweb_cat": "Syncing",
+        "api_name": "SimpleText",
+        "id": 14466,
+        "progweb_descr": " SimpleTextws public API application sync user data SimpleTextws store user write note todo list online keep sync work home device like iPhone SimpleTextws merge change data never lose Using API user pull data store SimpleTextws store server API use RESTful protocol response format JSON"
+    }
+]

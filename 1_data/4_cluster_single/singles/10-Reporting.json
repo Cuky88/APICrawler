@@ -1,0 +1,62 @@
+[
+    {
+        "progweb_cat": "Reporting,Analytics",
+        "api_name": "Giosg Real-Time Reporting",
+        "id": 2374,
+        "progweb_descr": " This API return paginate collection realtime statistic room access return paginate collection realtime statistic operator giosgcom allows use realtime analytics platform sell serve customer context build workflow reach customer across web"
+    },
+    {
+        "progweb_cat": "Reporting,Analytics",
+        "api_name": "Google Multi-Channel Funnels Reporting",
+        "id": 5223,
+        "progweb_descr": " Google Analytics MultiChannel Funnels API generate Analytics report data API use single HTTPS GET method JSON return Generate report specific Analytics View profile table ID View request Customize report specify combination dimension metric set option parameter date range See API documentation dimension metric description information standard query parameter code sample"
+    },
+    {
+        "progweb_cat": "Reporting,Analytics",
+        "api_name": "Sinch Reporting",
+        "id": 5903,
+        "progweb_descr": " Sinch Reporting API allow developer integrate Sinch call report service application enable get aggregate call data specific user duration 30 day This API protect resource request sign Sinch one provider communication support use voice message SMS"
+    },
+    {
+        "progweb_cat": "Reporting,Analytics",
+        "api_name": "Google Analytics Core Reporting",
+        "id": 6809,
+        "progweb_descr": " Google Analytics Core Reporting API build customized dashboard show Google Analytics Data automate reporting assignment integrate Google Analytics information A reference guide show step facilitate development Elements include request query parameter response format sample result Google Helpouts available assist question Camera mic speaker function efficiently interact expert"
+    },
+    {
+        "progweb_cat": "Reporting,Measurements",
+        "api_name": "CachetHQ",
+        "id": 2990,
+        "progweb_descr": " CachetHQ API integrate status page list service support database It available token authentication method JSON format send request receive response Developers use Cachet report status web page CachetHQ open source status page system"
+    },
+    {
+        "progweb_cat": "Reporting,Charts",
+        "api_name": "Unofficial Google Trends Python",
+        "id": 3058,
+        "progweb_descr": " Unofficial Google Trends Python API integrate solution analytical report keyword suggestion hot trend Parameters return JSON response"
+    },
+    {
+        "progweb_cat": "Reporting,Email",
+        "api_name": "Act-On Reporting",
+        "id": 4940,
+        "progweb_descr": " ActOn Reporting API allow developer integrate application API service enable user manage message report API method include get page report form report image report spam complaint report much ActOn marketing automation software provider"
+    },
+    {
+        "progweb_cat": "Reporting,Cloud",
+        "api_name": "Flashreport",
+        "id": 5788,
+        "progweb_descr": " Use Flashreportio API generate report data device API use standard HTTP basic authentication receive data JSON XML Calls API authenticate API Key receive account creation Send data Flashreportio create cloud base archive PDF document report data receive connected device report base big data app automatically analyze format information service subscription scale base number report file retention length"
+    },
+    {
+        "progweb_cat": "Reporting,Advertising",
+        "api_name": "Google DCM/DFA Reporting and Trafficking",
+        "id": 6265,
+        "progweb_descr": " Google DCMDFA Reporting Trafficking API enable developer programmatically access information DoubleClick Campaign Manager DCM account DoubleClick Digital Marketing DDM Reporting APIs method also let developer manage create campaign report It use build application manage large complex traffic reporting workflow"
+    },
+    {
+        "progweb_cat": "Reporting,SEO",
+        "api_name": "LinkTiger",
+        "id": 11075,
+        "progweb_descr": " LinkTiger link test analysis service check select website broken link notifies user service also create chart report detail broken link time period monitor statistic LinkTiger API enable user integrate link check analysis third party customer portal CRMS CMS web service full documentation contact LinkTiger"
+    }
+]

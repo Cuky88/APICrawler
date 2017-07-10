@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Viewer,Browsers",
+        "api_name": "Chrome Intersection Observers",
+        "id": 3616,
+        "progweb_descr": " Chrome Intersection Observers API allow developer determine element DOM visible end user If element partially visible API determine proportion visible This could use delay load image theyre need determine whether end user actually see ad banner"
+    },
+    {
+        "progweb_cat": "Viewer,Cloud",
+        "api_name": "Accusoft Cloud Services",
+        "id": 5555,
+        "progweb_descr": " Accusoft Cloud Services SaaS version Prizm Content Connect Document viewer Accusoft Cloud Services API allow extensive document viewer customization Accusoft Cloud Services ACS APIs integrate viewer within web application ACS API use RESTful cloud service incorporate Accusoft SDKs service user software websites API allow autoredaction watermark place document ACS API HTTPS requirement use API key authentication"
+    }
+]

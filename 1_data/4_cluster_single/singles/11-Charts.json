@@ -1,0 +1,68 @@
+[
+    {
+        "progweb_cat": "Charts,Data",
+        "api_name": "Periscope Data CSV",
+        "id": 3643,
+        "progweb_descr": " Periscope Data CSV API activate unique URL available documentation site Users integrate chart R Python Google Sheets help Periscope Data unifies data multiple source help business visualize data performance"
+    },
+    {
+        "progweb_cat": "Charts,Data",
+        "api_name": "iCharts",
+        "id": 12788,
+        "progweb_descr": " iCharts offer cloudbased solution data publish sharing iCharts offer data visualization tool share option variety data iCharts API allow developer access integrate functionality data application create new application Some example API method include create chart display chart manage chart information"
+    },
+    {
+        "progweb_cat": "Charts,Analytics",
+        "api_name": "AnyChart",
+        "id": 4237,
+        "progweb_descr": " AnyChart API flexible crossplatform crossbrowser HTML5JavaScript chart library AnyChart chart easily make interactive built realtime clientside data update multilevel drilldowns specific parameter update powerful theme engine enables unique presentation experience across entire set chart PDF image export enable produce printable document book quality AnyChart offer 4 main product AnyChart JS Charts interactive HTML5 basic JS chart include line area gauge bubble box plot error bar waterfall polar many chart type AnyStock Financial Stock JS Charts interactive HTML5 realtime stock chart technical indicator MACD ROC SMA RSI use datetime base graph AnyMap JS Maps interactive HTML5 map display sale region election result population density georelated data AnyGantt JS Gantt Charts interactive Project task base Schedule resource base HTML5 Gantt chart configurable timeline data grid"
+    },
+    {
+        "progweb_cat": "Charts,Analytics",
+        "api_name": "CanvasJS",
+        "id": 5108,
+        "progweb_descr": " CanvasJS API provide performance orient chart interface integrate exist application This API respond JSON format Each documentation section contain editable sample code help developer familiarize API API include 24 type chart diverse interactive feature CanvasJS HTML5 Charts Library build JavaScript HTML5 Canvas Element build Fenopix develop HTML5 JavaScript application base Bangalore"
+    },
+    {
+        "progweb_cat": "Charts,Analytics",
+        "api_name": "getChart",
+        "id": 6995,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getChart API use request custom chart image variable chart type size period technical indicator base symbol All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Charts,Analytics",
+        "api_name": "getTechnical",
+        "id": 6996,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getTechnicals API provide technical data statistic equity index future forex fund base symbol Fields include move average percent change different time period stochastics All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Charts,Analytics",
+        "api_name": "getScreener",
+        "id": 6997,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getScreener API provide ability screen stock index mutual fund ETF future instrument meet custom set criterion All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Charts,Analytics",
+        "api_name": "getMomentum",
+        "id": 7000,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getMomentum API provide daily summary number advance decline unchanged stock well percentage stock move average different length All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Charts,Analytics",
+        "api_name": "getWeather",
+        "id": 7009,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getWeather API provide current condition forecast base zip code As well weather map base type region All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Charts,Agriculture",
+        "api_name": "getSignal",
+        "id": 6998,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getSignal API provide Barchart Technical Opinion Signal buy sell hold base variety short medium longterm technical indicator base symbol All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Charts",
+        "api_name": "IdeaTree",
+        "id": 15173,
+        "progweb_descr": " Programmatically create mind map concept map use JavaScript embed website Example use clickable social graph bookmark relevance flow dynamic network graph site map IdeaTree work HTML5 Canvas compliant browser iPad iPhone Safari Firefox Chrome Opera"
+    }
+]

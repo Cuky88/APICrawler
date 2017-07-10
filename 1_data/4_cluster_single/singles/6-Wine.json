@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Wine,eCommerce",
+        "api_name": "Direct Wines",
+        "id": 5021,
+        "progweb_descr": " Laithwaites Wine mail order wine merchant Their Direct Wines API available Mashape API provide JSON format developer access data API Key Requests cart user wine recommendation available well examples add wine eCart create shop order recommend wine Laithwaites guarantee If dont enjoy wine get full refund"
+    },
+    {
+        "progweb_cat": "Wine,Data",
+        "api_name": "Quini",
+        "id": 5374,
+        "progweb_descr": " Quini provide suite APIs enable display rich detail visual consumer wine review information Quini APIs connect wine ecommerce site kiosks wine ecommerce solution provider wine club industry relate website offer wine listing wine rating wine review search Quini ’ expand collection crowdsourced consumer wine review wine database Quini API suite design easily allow wine industry relate website integrate engage visual wine review content sit Visit Quini API home page additional information APIs within suite"
+    },
+    {
+        "progweb_cat": "Wine,Accounts",
+        "api_name": "VinTank Account API",
+        "id": 7106,
+        "progweb_descr": " VinTank invite developer replicate social medium dashboard Account API This move might valuable developer wine industry want keep track social activity brand campaign customer OAuth2 require access account without use email password Account API account access winery website Some general feature embrace sample response account account winery account winery detail social medium campaign detail Developers connect via social medium read wine news VinTank blog additional support user either send email fill contact form"
+    },
+    {
+        "progweb_cat": "Wine,Search",
+        "api_name": "VinTank Wine Search API",
+        "id": 7306,
+        "progweb_descr": " Wine Search APIs objective keep track large number wine category search purpose primary value API array resource develop API developer site include documentation wine account social search Particularly Wine Search developer find 6 searchable entity type cover variety region winery winery brand winery location wine API wine search Some feature useful developer wine industry comprise sample code authentication OAuth 2 JSON protocol Available email support contact form FAQ section"
+    },
+    {
+        "progweb_cat": "Wine,Rewards",
+        "api_name": "VinTank VinPass API",
+        "id": 7307,
+        "progweb_descr": " To integrate wine interaction social game developer use VinPass API With API user play activity pass scoreboard jumbotrons gallery Specific requirement include page home page navigation button In addition developer need pass scoreboard page function VinPass offer pass API scoreboard API feature site Also website sample implementation mobile along OAuth2 HTTP response code"
+    },
+    {
+        "progweb_cat": "Wine,Social",
+        "api_name": "VinTank Social Search API",
+        "id": 7308,
+        "progweb_descr": " VinTank Social Search premium API developer want keep track activity stream million winery conversation Social Search API offer common response examples simplify application development In response section user find process search identification match In example category user find Javascript server option Social Search API aim provide pattern analyze activity stream wine communications A key value could monitor conversation pattern improve web experience To receive support developer connect VinTank directly via email"
+    }
+]

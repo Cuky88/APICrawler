@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Pets,Animals",
+        "api_name": "Petdiscount",
+        "id": 2092,
+        "progweb_descr": " Petdiscount API integrate pet discount product order prepayment application It available JSON format PHP SDK Plugins include Magento WooCommerce CCV Shop LightSpeed Prestashop"
+    },
+    {
+        "progweb_cat": "Pets,Food",
+        "api_name": "Purina",
+        "id": 3346,
+        "progweb_descr": " Purina REST API integrate manage profile application provide nutritional data pet cat owner It available HTTP request send JSON response SSL security certificate"
+    },
+    {
+        "progweb_cat": "Pets,Activity Streams",
+        "api_name": "FitBark",
+        "id": 5441,
+        "progweb_descr": " FitBarks work like activity measurement device register dog health dog behavior dog progress FitBark device dog wear collar application monitor pet activity FitBark API help pet care business dog parent monitor canine performance API feature JSON protocol require OAuth2 authentication Collar available preorder API open developer fill application individual access"
+    }
+]

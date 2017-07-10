@@ -1,0 +1,572 @@
+[
+    {
+        "progweb_cat": "News Services,eCommerce",
+        "api_name": "New York Times Best Sellers",
+        "id": 74,
+        "progweb_descr": " New York Times Best Sellers API let get data New York Times bestseller list include rank history specific best seller Four request type available get bestseller list search bestseller list get history best seller get name Times bestseller list"
+    },
+    {
+        "progweb_cat": "News Services,Reference",
+        "api_name": "New York Times Newswire",
+        "id": 75,
+        "progweb_descr": " With Times Newswire API get link metadata Times article soon publish NYTimescom Times Newswire API provide uptotheminute stream publish item"
+    },
+    {
+        "progweb_cat": "News Services,Reference",
+        "api_name": "New York Times Article Search",
+        "id": 195,
+        "progweb_descr": " New York Times Article Search API let search New York Times article 1981 today retrieve headline abstract lead paragraphs link associate multimedia Along standard keyword search API also offer faceted search available facet include Timesspecific field section taxonomic classifier control vocabulary term"
+    },
+    {
+        "progweb_cat": "News Services,Reference",
+        "api_name": "New York Times Most Popular",
+        "id": 15201,
+        "progweb_descr": " New York Times Most Popular API provide links information frequently email share view blog post article New York Times website Developers look popularity base view email share In case last method developer also look share specific social network include Twitter Facebook Digg"
+    },
+    {
+        "progweb_cat": "News Services,Media",
+        "api_name": "Daylife",
+        "id": 129,
+        "progweb_descr": " DayPI give access platform Daylife power httpwwwdaylifecom Daylifecom DayPI let ask question news around world build application top answer use whatever web application technology like"
+    },
+    {
+        "progweb_cat": "News Services,Media",
+        "api_name": "Guardian",
+        "id": 144,
+        "progweb_descr": " Guardian Open Platform suite web service make possible partner build application Guardian Weve open platform everyone benefit journalism brand technology power guardiancouk Open Platform currently include two product Content API Data Store mechanism get Guardian content You query content database article get back format gear toward integration internet application Data Store collection important high quality data set curated Guardian journalist You find useful data download integrate internet application"
+    },
+    {
+        "progweb_cat": "News Services,Media",
+        "api_name": "Hearst",
+        "id": 7942,
+        "progweb_descr": " Hearst Corporation among Americaâ€™s large medium information company Hearst API provide developer access Hearst content API able search article image Hearst magazine websites keyword list much"
+    },
+    {
+        "progweb_cat": "News Services,Media",
+        "api_name": "Civicboom",
+        "id": 13784,
+        "progweb_descr": " Civicboom news crowdsourcing platform enables organization access news rich medium community audience Users upload news medium others access Civicboom API allow developer access data information Civicboom Some example API method include access account member information invite register new member group access content"
+    },
+    {
+        "progweb_cat": "News Services,Social",
+        "api_name": "Reddit",
+        "id": 210,
+        "progweb_descr": " Reddit API allow access user submit rat story redditcom It also provide advanced functionality include user account information subreddit moderation"
+    },
+    {
+        "progweb_cat": "News Services,Social",
+        "api_name": "New York Times TimesPeople",
+        "id": 770,
+        "progweb_descr": " TimesPeople API New York Times provide access social community NYTimes newspaper API let retrieve TimesPeople data particular user include user profile activity news feed network"
+    },
+    {
+        "progweb_cat": "News Services,Social",
+        "api_name": "New York Times Community",
+        "id": 1134,
+        "progweb_descr": " New York Times Community API let retrieve usergenerated NYTimescom content current release include article comment reader review movie Other type usergenerated content available late version"
+    },
+    {
+        "progweb_cat": "News Services,Social",
+        "api_name": "Trendrr",
+        "id": 1146,
+        "progweb_descr": " From site Track compare share data Identify trend across social graph network realize potential p2p track engagement metric look really happen real time"
+    },
+    {
+        "progweb_cat": "News Services,Social",
+        "api_name": "LayerVault Designer News",
+        "id": 7775,
+        "progweb_descr": " LayerVault site creative professional provide host cloud service Designer News feature site provide feed top design related story news Designer News API provide tool interact Designer News allow application access user information API use REST call return JSON authentication API use oAuth 20 SSL An account required service usage limit default 300 call per hour"
+    },
+    {
+        "progweb_cat": "News Services,Social",
+        "api_name": "Octopus-News",
+        "id": 8387,
+        "progweb_descr": " OctopusNewsroom producer newsroom computer system facilitate presentation delivery news OctopusNews API allow user integrate thirdparty application variety data retrieve Octopus7 via API include story script rundown also wire user assignment information An account required service API use REST call return JSON"
+    },
+    {
+        "progweb_cat": "News Services,Social",
+        "api_name": "Globedia",
+        "id": 15095,
+        "progweb_descr": " Globedia API enable user access news generate user include late news topic interest web project All news available XML format easily integrate news adapt need And API news give possibility choose news want display filter various feature news category news user etc API use RESTful interface response format either XML JSON"
+    },
+    {
+        "progweb_cat": "News Services,Music",
+        "api_name": "NPR",
+        "id": 564,
+        "progweb_descr": " NPR API provide open extensive way user share mashup radio station content NPR showcase widget application build API special widget section web site Station Finder API use identify local NPR member station base zip code citystate unique ID call letter longitudelatitude This data power Station Finder This tool return NPR member station station carry NPR programming"
+    },
+    {
+        "progweb_cat": "News Services,Location",
+        "api_name": "Paperboy",
+        "id": 608,
+        "progweb_descr": " Paperboy provide database online newspaper contain 12000 listing Paperboy API help user find information newspaper base within give geographic area Users look newspaper WOEID Where On Earth Identifier proximity give pair LatitudeLongitude coordinate"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "Reuters Spotlight",
+        "id": 751,
+        "progweb_descr": " From site Provides noncommercial community platform allow user innovate develop idea harness content Reuters publishes include news video picture multimedia article Reuters Spotlight service provide access Reuters content standard base XML APIs feed provide community around showcase share collaborate around idea"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "Ex Libris bX",
+        "id": 3788,
+        "progweb_descr": " This API Webservice base XML call Hot Article Topics Ex Libirs bX allow view popular article library around world Topics include Agriculture business Engineering Law Medicine"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "Bulawayo24 News",
+        "id": 9196,
+        "progweb_descr": " Bulawayo24 online news service cover Bulawayo rest Zimbabwe Bulawayo24 API allow developer integrate news website application API capable deliver selection late story specify article"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "Public Insight Network",
+        "id": 9526,
+        "progweb_descr": " Public Insight Network help connect newsroom public source It give editor reporter producer access thousand people help find knowledge relevant story hand Members public invite become public source assurance nothing share publish without explicit permission Public Insight Network provide RESTful API allow user push pull data Network programmatically"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "CompuServe Newsgroups Public",
+        "id": 11060,
+        "progweb_descr": " CompuServe subsidiary AOL provide internet access product CompuServe homepage host article content Time Warner source CNN People Fortune Entertainment Weekly CompuServe Newsgroups Public API enable user retrieve article CompuServe post article select newsgroup These function accessible use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "XML ME Get Custom News",
+        "id": 12475,
+        "progweb_descr": " XML ME Get Custom News API allow user retrieve news article topic choose user input desire news topic API return list article Moreovers news service This API available via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "NewsCred Platform",
+        "id": 14204,
+        "progweb_descr": " NewsCred global content distribution platform help content producer generate new outlet revenue allow syndicate content via API API give user programmatic access million news article image videos 5000 news source ready integrated device NewsCred Platform API expose identifier topic article source uniquely identifiable object API use RESTful call response format XML JSON RSS"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "n0tice",
+        "id": 14248,
+        "progweb_descr": " n0ticecom public notice board It offer APIs pull add data news report event offer APIs use RESTful call response format XML JSON RSS KML"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "El Nuevo Dia APEX",
+        "id": 14544,
+        "progweb_descr": " El Nuevo Día New Day Puerto Rican newspaper El Nuevo Dia expose content functionality via API build support APEX Technologies Inc API provide method let user work section comment news gallery It use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "Digest Report",
+        "id": 14942,
+        "progweb_descr": " Digest Report independent journalism website help aspire well experienced writer site enable writer expose work wide audience interact reader Digest Report API currently provide access retrieve story identifier category popularity service currently beta additional retrieval function well writable method plan"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "MyNewsdesk",
+        "id": 15002,
+        "progweb_descr": " MyNewsdeskcom API Platform offer structured press information 10000 Nordic UKcompanies Current information type press release news blog picture videos document contact person event"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "USA Today",
+        "id": 15204,
+        "progweb_descr": " nationwide newspaper USA Today provide access news article go back 2004 Search base keyword reporter date factor Results send XML JSON require API key"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "Wellynews",
+        "id": 15384,
+        "progweb_descr": " Wellynews API provide RSS JSON interfaces collection local news item aggregate community group Wellington New Zealand"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "Golem.de",
+        "id": 15514,
+        "progweb_descr": " Golemde web site German appear database article late IT news API use RESTful interface allow user search retrieve article video variety way access article video metadata Responses format either XML JSON"
+    },
+    {
+        "progweb_cat": "News Services",
+        "api_name": "Macromedia News Aggregator",
+        "id": 15850,
+        "progweb_descr": " From site Macromedia XML News Aggregator MXNA provide new web service API allow developer interact MXNA 20 extract data aggregator Just everything web interface do web service API"
+    },
+    {
+        "progweb_cat": "News Services,Government",
+        "api_name": "Huffington Post Pollster",
+        "id": 991,
+        "progweb_descr": " Huffington Post news website blog feature content cover many area include politics Pollster API Huffington Post give user access result opinion poll go back 2004 well current opinion range top candidate Data access user categorize chart single chart poll API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "News Services,Mobile",
+        "api_name": "Hacker News Mobile",
+        "id": 1057,
+        "progweb_descr": " This API develop Gleb Popov Hacker News Droid app also use iOS Android MobileWeb apps API build Python make use Hacker News Search API well data scrap Hacker News Droid App API use retrieve homepage news Ask HN content newest best post It also retrieve submission user comment data Post ID"
+    },
+    {
+        "progweb_cat": "News Services,Mobile",
+        "api_name": "Clipped",
+        "id": 10212,
+        "progweb_descr": " Clipped web mobile application summarize article document content simplify bullet point main point Clipped API allow developer access integrate functionality Clipped application main API method return part specify URL title summary"
+    },
+    {
+        "progweb_cat": "News Services,Auto",
+        "api_name": "High Gear Media",
+        "id": 1323,
+        "progweb_descr": " High Gear Media API developer want build CarAutomotive apps High Gear Media vertical publishing company publish premium automotive content website target key buyer vehicle segment API let user load feed many automotive site High Gear Media API use RESTful protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "News Services,Content",
+        "api_name": "Start Magazine",
+        "id": 1434,
+        "progweb_descr": " Start Magazine Magazine Service solution allow get licensed premium content application Start Magazine API flexible handson way create customize magazine precisely app include content ad user management Developers gain access API documentation sign API key solution create new revenue stream content available many language return News Finance Sports Celebs Lifestyle Celltick lead global mobile marketing company create solution engage user mobile device"
+    },
+    {
+        "progweb_cat": "News Services,Content",
+        "api_name": "BBC Content Store",
+        "id": 4221,
+        "progweb_descr": " BBC Content Store API allow developer interact BBC News content This API also call CANDY short CPS Dynamic It allow user retrieve news content category world region This API production platform use internally BBC"
+    },
+    {
+        "progweb_cat": "News Services,Content",
+        "api_name": "FeedSyndicate News",
+        "id": 4490,
+        "progweb_descr": " FeedSyndicate News API allow developer access large database national international news article order retrieve full text article image Types news cover include major headline business entertainment sport technology Users filter content retrieve region topic This database update daily FeedSyndicate provide full news entertainment content feed websites application"
+    },
+    {
+        "progweb_cat": "News Services,Financial",
+        "api_name": "Intrinio NASDAQ Global Press Releases",
+        "id": 1595,
+        "progweb_descr": " Intrinio NASDAQ Global Press Releases API provide developer access press release publish Nasdaq GlobeNewsire Marketwired These include earnings release corporate event lawsuit Developers search press release retrieve full body release plus metadata Lists press release update every 15 minute"
+    },
+    {
+        "progweb_cat": "News Services,Aggregation",
+        "api_name": "HIGH.FI News aggregator",
+        "id": 1788,
+        "progweb_descr": " HIGHFI platform combine news thousand global source organizes category News aggregator API give headline score provide chronological data JSON format API return headline metadata publisher popularity date time category language Token chosen authentication method"
+    },
+    {
+        "progweb_cat": "News Services,Aggregation",
+        "api_name": "Knewin News",
+        "id": 3060,
+        "progweb_descr": " Knewin News API allow developer access structure news content aggregate blog website print medium around world Knewin provide million news article may query use simple advanced method Knewin currently cover 200000 news source thousand added every day"
+    },
+    {
+        "progweb_cat": "News Services,Aggregation",
+        "api_name": "EveryBlock Event",
+        "id": 4855,
+        "progweb_descr": " EveryBlock aggregate public data 5 metro area across United States data available varies city make available via EveryBlock APIs provide schemas metro area company also provide widget light weight integration Event API use publish scheduled event Everyblocks aggregation platform Endpoints vary per city This REST base API response JSON format Everyblock combine different type data localizes make available developer APIs"
+    },
+    {
+        "progweb_cat": "News Services,Aggregation",
+        "api_name": "DOJ News",
+        "id": 6460,
+        "progweb_descr": " US Department Justice DOJ News API aggregate 14000 press release speech blog entry announcement source Office Public Affairs These document available digital distribution create transparency Departments activity GET HTTP request send API option filter date topic unique identifier query database Results return either JSON XML format"
+    },
+    {
+        "progweb_cat": "News Services,Aggregation",
+        "api_name": "Destakes",
+        "id": 10107,
+        "progweb_descr": " Destakes Portuguese news aggregator site accompany API allow user look much information site Users search news story give term search term relate news list source use story API use RESTful call response format RSS"
+    },
+    {
+        "progweb_cat": "News Services,Aggregation",
+        "api_name": "EveryBlock Content",
+        "id": 15268,
+        "progweb_descr": " EveryBlock aggregate public data 5 metro area across United States data available varies city make available via EveryBlock APIs provide schemas metro area company also provide widget light weight integration Content API use publish content Everyblocks aggregation platform This REST base API response JSON format Everyblock combine different type data localizes make available developer APIs"
+    },
+    {
+        "progweb_cat": "News Services,Feeds",
+        "api_name": "Associated Press Breaking News",
+        "id": 2311,
+        "progweb_descr": " This API allow retrieve list available Breaking News category request content specific category AP Breaking News API selection international national news story gather 240 AP bureau around world Associated Press independent nonforprofit news cooperative headquarter New York City operation 100 country AP provide content service company type broadcaster brand include story break news investigative reporting"
+    },
+    {
+        "progweb_cat": "News Services,Feeds",
+        "api_name": "Kabonky News",
+        "id": 5041,
+        "progweb_descr": " Kabonky News API allow developer integrate news service Kabonky application enable user directly access Kabonky News application Kabonky news provider cover news story around globe"
+    },
+    {
+        "progweb_cat": "News Services,Feeds",
+        "api_name": "PushRoom",
+        "id": 6790,
+        "progweb_descr": " PushRoom newsroom service allow user display timeline use PushRooms website widget API Newsrooms showcase content multiple source include RSS various social stream Users also keep visitor updated mailing show recentlyadded site content PushRoom provide multilingual support allow user translate content language"
+    },
+    {
+        "progweb_cat": "News Services,Feeds",
+        "api_name": "Newsinapp",
+        "id": 10929,
+        "progweb_descr": " Newsinapp application pull newsfeeds variety source various topic application blog site Newsinapp API allow developer access integrate functionality Newsinapp application create new application Some example API method include search topic create manage topic list topic retrieve late news topic"
+    },
+    {
+        "progweb_cat": "News Services,History",
+        "api_name": "New York Times Archive",
+        "id": 2697,
+        "progweb_descr": " New York Times Archive API allow developer retrieve past New York Times article month go back 1851 Users get article give month JSON object pass desire year month require parameter"
+    },
+    {
+        "progweb_cat": "News Services,History",
+        "api_name": "Chronicling America",
+        "id": 15410,
+        "progweb_descr": " Chronicling America US Library Congress provide access information historic newspaper select digitize newspaper page site allow search view newspaper page 18801922 find information American newspaper publish 1690present To encourage wide range potential us design several different view data provide publicly visible You need API key use"
+    },
+    {
+        "progweb_cat": "News Services,Nordic",
+        "api_name": "Overview News",
+        "id": 3254,
+        "progweb_descr": " This API provide way integrate news data system process It allow search among news article continuously index base keywords language date Overview News provide full text article index news Sweden Denmark"
+    },
+    {
+        "progweb_cat": "News Services,Blogging",
+        "api_name": "News",
+        "id": 3696,
+        "progweb_descr": " News API provide live headline image article metadata range popular news source blog include TechCrunch Reuters NYT WSJ BBC News Available JSON architecture API Key"
+    },
+    {
+        "progweb_cat": "News Services,Blogging",
+        "api_name": "DOCOMO Trend Article Extraction",
+        "id": 6354,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development Trend Article Extraction API source aggregation news service blog throughout internet return trend analysis high profile topic well API functionality advise retrieve docomoID obtain useful feature set Trend Article Extraction API implement via REST correspond Android iOS Java SDKs DOCOMO also offer API console easily demo many APIs"
+    },
+    {
+        "progweb_cat": "News Services,Blogging",
+        "api_name": "API Evangelist",
+        "id": 9656,
+        "progweb_descr": " API Evangelist online resource blog APIs API industry API trend everything else APIs API Evangelist API allow developer access integrate content API Evangelist application Some example API method include retrieve APIs API provider search add event retrieve blog post websites blog"
+    },
+    {
+        "progweb_cat": "News Services,Intelligence",
+        "api_name": "MarketSpace Alert",
+        "id": 4192,
+        "progweb_descr": " Market Space Alert API allow access portfolio product update reviews rating Its customized curated service aim deliver directly Slack API documentation available developer contact provider provide first 10 company cost"
+    },
+    {
+        "progweb_cat": "News Services,Developers",
+        "api_name": "TheDailyWTF",
+        "id": 4260,
+        "progweb_descr": " TheDailyWTF API allow developer retrieve article TheDailyWTF These article disaster development project mismanagement poor cod API allow developer retrieve article base id month author series recently submit It also retrieve article random"
+    },
+    {
+        "progweb_cat": "News Services,Big Data",
+        "api_name": "BrightPlanet",
+        "id": 5479,
+        "progweb_descr": " BrightPlanet API allow developer programmatically gather analyze data global news data fee include 10000 news source multiple language fee currently offer 11 million article 50000 add day Customers use feed get structure web data use analytics tool"
+    },
+    {
+        "progweb_cat": "News Services,Activity Streams",
+        "api_name": "Hacker News",
+        "id": 6595,
+        "progweb_descr": " Hacker News make data available programmatic access near real time iOS Android webenabled device implement Firebase Using server API call make retrieve news update comment job poll use unique identifier HTTP call return JSONformatted response include actual text article title well associate metadata URL link Though Hacker News plan unveil OAuth API future access user data currently API free public consumption"
+    },
+    {
+        "progweb_cat": "News Services,Activity Streams",
+        "api_name": "NewsWhip",
+        "id": 7090,
+        "progweb_descr": " News Whip host large database news article update daily Developers access data via POST GET HTTP header request News Whip API return source information associate metadata publicly share news trend API retrieve news article content source 200000 piece new content various publisher track daily API parameter filter content region publisher topic time data use create internal dashboard microsites link content side bar widget news marketing agency analyze trend API require API key usage"
+    },
+    {
+        "progweb_cat": "News Services,Metadata",
+        "api_name": "getNewsSource",
+        "id": 7003,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getNewsSources API provide access public news source authorization status per source All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "News Services,Metadata",
+        "api_name": "getNewsCatagories",
+        "id": 7004,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getNewsCategories API provide access news source category subcategory data All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "News Services,Metadata",
+        "api_name": "Associated Press Metadata",
+        "id": 12036,
+        "progweb_descr": " Associated Press worlds old large newsgathering organization AP Metadata service set APIs give developer access metadata associate organization news content metadata include AP news taxonomy AP metadata tag Data return XML JSON HTML TTL"
+    },
+    {
+        "progweb_cat": "News Services,Data",
+        "api_name": "getSECFilings",
+        "id": 7005,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getSECFilings API provide access quarterly annual require regulatorySEC filing US publically trade company base symbol All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "News Services,Emergency",
+        "api_name": "ReliefWeb",
+        "id": 7357,
+        "progweb_descr": " ReliefWeb specialize digital service United Nations Office Humanitarian Affairs OCHA source timely information global crises disaster enable humanitarian make informed decision plan effective assistance ReliefWeb API provide developerfriendly access content ReliefWeb site ReliefWeb launch 1996 post Reports continuously since Also available UN report major disaster 1980s Data update realtime"
+    },
+    {
+        "progweb_cat": "News Services,International",
+        "api_name": "Pirate Times",
+        "id": 7900,
+        "progweb_descr": " Pirate Times international news service Pirate Parties International PPI nonprofit group dedicate promote consumer right author right copyright reform information privacy information access relate cause They work exist political structure rather outside Pirate Times API allow user retrieve information Pirate Parties political group share PPIs goal around world via REST call"
+    },
+    {
+        "progweb_cat": "News Services,Search",
+        "api_name": "Newslookup.com",
+        "id": 8088,
+        "progweb_descr": " Newslookupcom news search engine news aggregator news provider Newslookupcom crawl web news story compile one place various feed Newslookupcom API allow developer access integrate functionality Newslookupcom application main API method retrieve news via multiple feed Newslookupcom"
+    },
+    {
+        "progweb_cat": "News Services,Search",
+        "api_name": "ZEIT ONLINE",
+        "id": 10456,
+        "progweb_descr": " ZEIT one big German newspaper They recently launch ZEIT ONLINE Content API API give developer access hundred thousand ZEIT article correspond metadata range back 1946 Information access API include author search article newspaper department keywords product series API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "News Services,Search",
+        "api_name": "Silo Breaker",
+        "id": 14401,
+        "progweb_descr": " Silobreaker news service offer information variety subject include current affair technology business world Silobreakerï¿½s product intend help user numerous industry news search purpose analysis Silobreakers API let users partner site owner extend service Silobreakers content While API available everyone free charge use subject acceptance Silobreakers term API currently development beta additional functionality develop future"
+    },
+    {
+        "progweb_cat": "News Services,Search",
+        "api_name": "NewsIsFree",
+        "id": 15843,
+        "progweb_descr": " News search source map support normal site use RSS news feed"
+    },
+    {
+        "progweb_cat": "News Services,Customization",
+        "api_name": "Washington Post Trove",
+        "id": 9194,
+        "progweb_descr": " Trove personalization content engine Washington Post Labs WaPo Trove API provide basic text analysis service URL lookup news article continuously update channel news around specify topic API support HTTP GET call allow retrieval resource channel item Responses deliver JSON format Call back support via JSONP A developer key require"
+    },
+    {
+        "progweb_cat": "News Services,Crime",
+        "api_name": "Hampton Roads Crime",
+        "id": 10142,
+        "progweb_descr": " Hampton Roads Crime API provide developer access crime data Virginia Beach area compile HamptonRoadscom PilotOnlinecom API provide series GET call allow access location date crime type Results may JSON CSV format"
+    },
+    {
+        "progweb_cat": "News Services,Belgian",
+        "api_name": "Pressbanking",
+        "id": 10396,
+        "progweb_descr": " Pressbanking provide online access Belgian newspaper periodical Most publish French Dutch couple available German English Users search Pressbanking programmatically use SOAP call issue XML format website available French Dutch English Pressbanking member Press Database Licensing Network PDLN"
+    },
+    {
+        "progweb_cat": "News Services,German",
+        "api_name": "dotnetpro.de News",
+        "id": 11135,
+        "progweb_descr": " This web service provide access news archive dotnetprode website Developers retrieve late news integration web windows application use dotnetprode News API This service accessible use SOAP call issue XML format website API documentation available German service still beta state Bug report suggestion comment welcome"
+    },
+    {
+        "progweb_cat": "News Services,Transportation",
+        "api_name": "PTT Info",
+        "id": 11169,
+        "progweb_descr": " Petroleum Authority Thailand PTT engage natural gas enterprise include exploration production transportation via pipeline system gas separation marketing PTT Info API provide user programmatic mean retrieve information PTT website This information include oil price news relate petroleum industry PTT website provide Thai English"
+    },
+    {
+        "progweb_cat": "News Services,Monitoring",
+        "api_name": "Twitscoop",
+        "id": 11741,
+        "progweb_descr": " Twitscoop realtime Twittertrend visualization tool power algorithm par tweet tag rank frequency use versus normal usage Twitscoop API allow select number partner integrate Twitscoopâ€™s data integrate application"
+    },
+    {
+        "progweb_cat": "News Services,Community",
+        "api_name": "The Web Blend",
+        "id": 12310,
+        "progweb_descr": " Web Blend online community platform designer developer technology enthusiast Web Blend community allow user member share relevant news Web Blend also post relevant story fee Web Blend API allow developer access integrate functionality Web Blend application create new application Some example API method include return late 10 post retrieve detail post return top user information user"
+    },
+    {
+        "progweb_cat": "News Services,Prices",
+        "api_name": "OPIS",
+        "id": 12671,
+        "progweb_descr": " Oil Price Information Service OPIS worldâ€™s comprehensive source petroleum pricing news information They maintain database US wholesale petroleum price receive 70000 rack price day OPIS API let user connect web service query site database Database update realtime data integrate user web site Documentation publicly available"
+    },
+    {
+        "progweb_cat": "News Services,Semantics",
+        "api_name": "Topics.io",
+        "id": 13108,
+        "progweb_descr": " Newsinappio online tool allow user developer access variety online content numerous source different topic This content aggregate one place use various application Newsinappio API allow developer access integrate data functionality Newsinappio application create new application Some example API method include search content topic subscribe content topic create topic"
+    },
+    {
+        "progweb_cat": "News Services,Semantics",
+        "api_name": "SemanticWire",
+        "id": 14277,
+        "progweb_descr": " Semantic Wire news reader aggregator extract semantic metadata article It mean provide access machine readable news content service monitor thousand news source industry publication corporate press release metadata extract include entity facts event category near real time This data make available API integrate news analytics monitoring application decision make predictive model dashboard API use RESTful call response format XML JSON RSS"
+    },
+    {
+        "progweb_cat": "News Services,Business",
+        "api_name": "NewsKnowledge",
+        "id": 13369,
+        "progweb_descr": " web service feed content news database search engine business consumer information service service either provide feed accepts user query return match article information optionally specify stylesheet submit application Lucene query engine accommodate simple keywords phrase Boolean string Methods allow retrieval feed list specific feed well submission query single term complex group Boolean string Return set headline access URLs language short description provider name provider rating"
+    },
+    {
+        "progweb_cat": "News Services,Announcements",
+        "api_name": "Foxcentral News Service",
+        "id": 13544,
+        "progweb_descr": " Foxcentral News Service provide articles resource Visual FoxPro community Any company provide news product service useful FoxPro developer community become FoxCentral news provider Foxcentral News Service API allow authorize contributor post article website"
+    },
+    {
+        "progweb_cat": "News Services,Hacking",
+        "api_name": "HNSearch",
+        "id": 14310,
+        "progweb_descr": " HNSearch search engine Hacker News HNSearch provide search functionality Hacker News community site HNSearch API enable developer access HN data programatically via simple HTTP request All response format JSON"
+    },
+    {
+        "progweb_cat": "News Services,Sports",
+        "api_name": "Press Association Sport",
+        "id": 14332,
+        "progweb_descr": " Press Association Sport sport branch national news agency UK Ireland Developers use API integrate football data use power website livescore ticker smartphone tablet apps Press Association Sport API let user get access high quality football data Users access historical ingame data major English Scottish league cup competition Public documentation available"
+    },
+    {
+        "progweb_cat": "News Services,Cloud",
+        "api_name": "DocumentCloud",
+        "id": 14452,
+        "progweb_descr": " DocumentCloud help journalist track document It repository well tool documentbased investigative reporting company compare repository card catalog DocumentCloud build accelerate work reporter need make sense large set document DocumentCloud API allow developer create application around DocumentCloud service Authentication HTTP Basic Auth require search document require everything else"
+    },
+    {
+        "progweb_cat": "News Services,Analytics",
+        "api_name": "Recorded Future News Analytics",
+        "id": 14626,
+        "progweb_descr": " Recorded Future medium analysis company Recorded Future News Analytics API let developer perform analysis event happen realtime Developers build analytic application perform query receive result Recorded Future Temporal Analytics Engine across many event entity time point span far past future"
+    },
+    {
+        "progweb_cat": "News Services,Books",
+        "api_name": "USA Today Book Reviews",
+        "id": 14661,
+        "progweb_descr": " nationwide newspaper USA Today provide access book review go back 2004 Find recent review search base author title There also option filter result audio book well toggle determine whether include article review multiple book Results send JSON require API key"
+    },
+    {
+        "progweb_cat": "News Services,Movies",
+        "api_name": "USA Today Movie Reviews",
+        "id": 14662,
+        "progweb_descr": " Nationwide newspaper USA Today provide access movie review publishes Using API developer find recent review search base actor director Response data include list main actor director review rating MPAA rating Results send JSON require API key"
+    },
+    {
+        "progweb_cat": "News Services,Statistics",
+        "api_name": "USA Today Snapshots",
+        "id": 14663,
+        "progweb_descr": " USA Today Snapshots API provide developer access nationwide newspaper archive statistical graph publishes every weekday Retrieve snapshots one time multiple Query recent keywords newspaper section life news sport etc Responses include headline textual introduction four different link graphic many piece metadata Each snapshot also include quick question use poll user respond snapshot"
+    },
+    {
+        "progweb_cat": "News Services,Hotels",
+        "api_name": "Nevistas News",
+        "id": 14665,
+        "progweb_descr": " Nevistas API allow integrate database news content software website API provide method basic news display channel retrieve data specific news item These service free use available anyone"
+    },
+    {
+        "progweb_cat": "News Services,Chinese",
+        "api_name": "ODP Search",
+        "id": 15042,
+        "progweb_descr": " ODP Chinese site provide search aggregation top journal article variety subject search API allow user display site search result site application mixed data develop unique application RESTful API return result XML format site documentation Chinese"
+    },
+    {
+        "progweb_cat": "News Services,Images",
+        "api_name": "Associated Press",
+        "id": 15126,
+        "progweb_descr": " Associated Press worlds old large newsgathering organization API enable developer build application incorporate data Associated Presss expansive database content platform include tool allow developer target exact content user want API allow user search download AP Images"
+    },
+    {
+        "progweb_cat": "News Services,Classification",
+        "api_name": "New York Times TimesTags",
+        "id": 15209,
+        "progweb_descr": " New York Times set control metadata us categorize story TimesTags API provide access metadata Use API kickstart classification system look tag use find story use newspaper Article Search API"
+    },
+    {
+        "progweb_cat": "News Services,Bookmarks",
+        "api_name": "Unofficial Hacker News",
+        "id": 15212,
+        "progweb_descr": " Provides programmatic access Hacker News story comment vote API unofficial blessing Hacker News"
+    }
+]

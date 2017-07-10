@@ -1,0 +1,314 @@
+[
+    {
+        "progweb_cat": "URL Shortener,URLs",
+        "api_name": "Bit.ly",
+        "id": 1,
+        "progweb_descr": " bitly allow user shorten share track link URLs Reducing URL length make share easier bitly access website bookmarklets open API bitly also integrated several popular thirdparty tool Tweetdeck use extensively service like Twitter Unique userlevel aggregate link create let user view complete realtime traffic referrer data well location metadata"
+    },
+    {
+        "progweb_cat": "URL Shortener,URLs",
+        "api_name": "Shortify",
+        "id": 1705,
+        "progweb_descr": " Shortify API easy implement REST API provide URL shorten service It integrate within minute single line code"
+    },
+    {
+        "progweb_cat": "URL Shortener,URLs",
+        "api_name": "Ticurl",
+        "id": 5004,
+        "progweb_descr": " Ticurl offer API shorten URLs Functions include example parameter API Key URL PHP language request JSON format API user get information URL create unique ID favicon link total visit whether URL need password access Ticurl offer service create trackable short URLs web email"
+    },
+    {
+        "progweb_cat": "URL Shortener,URLs",
+        "api_name": "Hec.su URL Shortener",
+        "id": 6054,
+        "progweb_descr": " Hecsu offer URL shorten service allow user create short URLs use social medium share environment Hecsus home page display stream popular URLs number hit To date Hecsu process nearly 3 million hit roughly 50000 unique shorten URLs Hecsu developer API access retrieve specific URL information response method available XML JSON serialize array API usage limit 1000 request per day"
+    },
+    {
+        "progweb_cat": "URL Shortener,URLs",
+        "api_name": "bn.gy short urls",
+        "id": 6312,
+        "progweb_descr": " bngy API provide developer tool short URL creation look URLs use SOAP HTTP GET request response"
+    },
+    {
+        "progweb_cat": "URL Shortener,URLs",
+        "api_name": "glurl.co",
+        "id": 8471,
+        "progweb_descr": " Glurlco URL shorten service allows shorten address point web page image email file quickly securely conveniently Glurlco also place store organize track share link image email address glurlco REST API allow webbased application use glurlcos shortening service storage analysis redirection link image An API key require"
+    },
+    {
+        "progweb_cat": "URL Shortener,URLs",
+        "api_name": "Bit.ly Social Data",
+        "id": 10209,
+        "progweb_descr": " Bitly allow user shorten share track link URLs Bitly Social Data API allow developer access integrate data social sharing referral social medium use social data shorten link application Some example API method include return high volume category realtime share clicking"
+    },
+    {
+        "progweb_cat": "URL Shortener,URLs",
+        "api_name": "Ow.ly",
+        "id": 13329,
+        "progweb_descr": " Owly link shorten expand application allow user either shrink expand URLs web page upload photo uploaded document Owly API allow developer access integrate functionality Owly application create new application Some example API method include shorten URLs expand URLs retrieve information URLs access statistic click"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Google URL Shortener",
+        "id": 14,
+        "progweb_descr": " Google URL Shortener take long URLs create short link googl domain name RESTbased API require authentication API Key Auth Token OAuth"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Short and tweet",
+        "id": 1250,
+        "progweb_descr": " This API allow user create short tiny urlslinks remotely tweet It use SOAP interface require API key"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "FIFO URL",
+        "id": 6038,
+        "progweb_descr": " FIFO URL URL shorten service FIFO API communicate JSON format require API key use Developers allow access service order programmatically shorten URLs receive event statistic receive list previously shorten URLs Possible error code could due miss invalid API key database error miss URL type format platform currently development free use"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Wrapulous",
+        "id": 6049,
+        "progweb_descr": " Wrapulous simple link shorten click track API API require API key us HTTP basic authentication use Using Wrapulous API developer make GET POST HTTP request order shorten link return link event statistic create new account return specific link inputted tag return shorten link create account specification available return limit sort option API well document return JSON serialize data Wrapulous maintain Nicholas Rempel open source GitHub"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Apu.sh",
+        "id": 6425,
+        "progweb_descr": " Apush URL shortener service offer user ability shorten customize URLs Apush API let developer integrate service application allow customer option shorten URLs directly applications API use HTTP Basic Authentication"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Leggy",
+        "id": 6879,
+        "progweb_descr": " Leggy API allow developer programmatically shorten expand size URL use simple HTTP request tool applicable social network setting post require small number character Leggy service free use without authentication require"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "EXLX",
+        "id": 7680,
+        "progweb_descr": " EXLXtk simple URL shortener site expose functionality API Applications simply append URL shorten HTTP call EXLX respond shorten URL"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Bitl.in",
+        "id": 13721,
+        "progweb_descr": " Bitlin link URL shorten service allow user shorten URLs well add note describe URL Bitlin API allow user access Bitlin functionality two API method shorten link preview shorten URLs"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Unshort.me",
+        "id": 13932,
+        "progweb_descr": " Unshortme link unshortening service Unshortme allow user unshorten link shorten URL shorten service Bitly TinyURL Owly Unshortme API allow developer integrate Unshortme functionality application allow link unshortened Documentation information API limit"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "B54.in",
+        "id": 14083,
+        "progweb_descr": " B54ins URL Shortening API allow user submit URLs via HTTP GET POST call shorten option customization service also allow user access track stats short link time simply add end B54in address"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Bitlan",
+        "id": 14254,
+        "progweb_descr": " Bitlan provide url shorten tool site Dutch Documentation available"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Linkee",
+        "id": 14599,
+        "progweb_descr": " Linkee URL shorten webservice Users either create free short link link associate account If link associate user user go back change link destination view link statistic Linkee also provide API method shorten expand link Authentication require use Linkee API however method call authenticate apikey parameter user key developer key link associate particular user th user"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Untiny",
+        "id": 14653,
+        "progweb_descr": " Untiny web service extract original long URLs give tiny URL one many different tiny URL service Untiny API use developer extract original website short URLs support two function Extract Services Extract method find original URL Services method return tiny URL service Untiny extract"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Shorty",
+        "id": 14752,
+        "progweb_descr": " Shorty tool create short human readable link long URLs Shorty API URL shortener twist Instead generate junk character use English word make URLs memorable repeatable addition short API provide programmatic access URL shortener ability specify word available Additionally link create Shorty link remain work available long domain work API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Metamark",
+        "id": 14821,
+        "progweb_descr": " Metamark simple URL shorten service maintain Perl developer Ask Bjï¿½rn Hansen Short URLs return use xrlus domain name REST API provide basic interface create short URLs programmatically A Perl package naturally provide"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "X.nu",
+        "id": 14932,
+        "progweb_descr": " XNU allow developer interact website via Application Programming Interface API If planning use XNU create short customize URLs free simple HTTP GET request XNU API authenticate API Key information return JSON format"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Shr.Im",
+        "id": 14933,
+        "progweb_descr": " ShrIm website let user sign Twitter account create short URLs share user ShrIm API allow developer embed ShrIm tool application"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "UCLA.in",
+        "id": 14961,
+        "progweb_descr": " Based Bitlys API UCLAin allow user shorten URLs allow UCLA domain UCLAin free use anyone use authentication require"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "LinksPreadeR",
+        "id": 14976,
+        "progweb_descr": " LinksPreadR URLshortening service Developers use LinksPreadR API gain programmatic access LinksPreadR website LinksPreadR API RESTful API return data JSON format There two method shorten URL expand URL"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Long \"R\" Us",
+        "id": 14988,
+        "progweb_descr": " Long R Us service create longbut human readableURLs shorter URLs Whereas URL lengthen service gimmick Long R Us retrieve title link use along URLs domain name create long URL Long R Us API let developer create lengthen URLs well get original URL base long URL Though URLs long guarantee fit 140 character"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "JumboTweet",
+        "id": 15076,
+        "progweb_descr": " JumboTweet offer URL shorten service Users programatically obtain shortened URL make HTTP GET pass URL service"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Crum.bs",
+        "id": 15161,
+        "progweb_descr": " Crumbs API offer URL Shortener two style Simpleshorten Advanced Shorten Simpleshorten respond simple url request whereas Advanced Shorten service return data via JSON url format take information"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "BudURL.Pro",
+        "id": 15240,
+        "progweb_descr": " BudURLPro feebased custom URL shortener allow use domain name shorten link It also advance feature like analytics much link click user come API allows shrink expand BudURLs well access detail click statistic"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "BudURL",
+        "id": 15241,
+        "progweb_descr": " BudURL feebased URL shortener advance feature It allow analytics much link click user come API allows shrink expand BudURLs"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Dot TK TweaK",
+        "id": 15478,
+        "progweb_descr": " Dot TKs TweaK API service let developer design computer program online application interact directly Dot TK registration system free domain name registration service Dot TK allow developer register short URLs free domain name TK extension background application RESTful TweaK API offer two function shorten – shorten random URL lengthen – resolve short name"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "Snipr",
+        "id": 15512,
+        "progweb_descr": " Snipr URL shorten service API use RESTful interface return result XML An API key user login require use API"
+    },
+    {
+        "progweb_cat": "URL Shortener",
+        "api_name": "O-Maniac!",
+        "id": 15805,
+        "progweb_descr": " OManiac URL shorten service provide shortened URLs API allow create shorten URLs expand shorten URL"
+    },
+    {
+        "progweb_cat": "URL Shortener,Domains",
+        "api_name": "Short.cm",
+        "id": 1442,
+        "progweb_descr": " Shortcm API shorten domain link It available REST architecture API Keys offer production language cURL Java JavaScript NodeJS Perl Python PHP Ruby Go C Visual Basic Groovy ObjectiveC Switch With API developer shorten link use developer domain"
+    },
+    {
+        "progweb_cat": "URL Shortener,Tools",
+        "api_name": "Shout Link",
+        "id": 1486,
+        "progweb_descr": " Shout Link REST API help generate URLs main API method include generate short link retrieve URLs Shout Link allow share URLs people nonelectronic way You shout friend across room plus leave less room typo"
+    },
+    {
+        "progweb_cat": "URL Shortener,Tools",
+        "api_name": "szort.us",
+        "id": 7100,
+        "progweb_descr": " Szortus API use shorten link There limit number link create link keep indefinitely API free use require registration Developers use JSON XML plain text input output access API Developers may also create library program help explore Szortus"
+    },
+    {
+        "progweb_cat": "URL Shortener,Tools",
+        "api_name": "try.li",
+        "id": 8449,
+        "progweb_descr": " Tryli URL shorten service allows share link internet get pay visitor access URL Use service earn money web traffic simply use compress large link something small tryli API enable developer integrate tryli service API method include Shrink use order create short link Links use grab previously shrunk link API RESTful support XML JSON SerializedPHP CSV data format"
+    },
+    {
+        "progweb_cat": "URL Shortener,Tools",
+        "api_name": "CM23",
+        "id": 9342,
+        "progweb_descr": " CM23tk service offer Clark Moody service allow user shorten URLs submit service API take REST call return shorten URLs JSON API currently rate limit follow similar term service Twitter API Contact site admin comment bug concern question"
+    },
+    {
+        "progweb_cat": "URL Shortener,Customization",
+        "api_name": "Rebrandly",
+        "id": 3451,
+        "progweb_descr": " Custom URL shortener With Rebrandly API build cool new apps feature exist apps allow customer create track share brand short link"
+    },
+    {
+        "progweb_cat": "URL Shortener,Management",
+        "api_name": "lknSuite",
+        "id": 3838,
+        "progweb_descr": " lknSuite offer online productivity tool sale professional It include tools social medium management engagement list social monitoring brand platform lknli API allow user shorten track URLs social medium management purpose Available JSON format Key token Additional productivity tool include engagement todo list monitor platform"
+    },
+    {
+        "progweb_cat": "URL Shortener,Developers",
+        "api_name": "Scryba Web",
+        "id": 5806,
+        "progweb_descr": " Scryba Web API secure URL shortener See Developer API page API endpoints either custom random URL Powered Scryba Systems"
+    },
+    {
+        "progweb_cat": "URL Shortener,Social",
+        "api_name": "UP 6 URL Shortener",
+        "id": 6393,
+        "progweb_descr": " UP 6 URL shorten service Users visit site shorten URLs use social medium post purpose UP 6 unique pay rate 200 every 1000 click link host UP 6 accessed unique IP address Using UP 6 API user programmatically activate manage shorten URLs API delivers responses JSON format accepts API access key user authentication"
+    },
+    {
+        "progweb_cat": "URL Shortener,Social",
+        "api_name": "vyu.me",
+        "id": 12860,
+        "progweb_descr": " vyume link URL shorten share service Users vyume shorten link share discuss link content vyume API allow developer access integrate functionality vyume application create new application Public documentation available interested developer sign API key httpvyumeapiSignUpphp"
+    },
+    {
+        "progweb_cat": "URL Shortener,Conversions",
+        "api_name": "ZeroLink",
+        "id": 6521,
+        "progweb_descr": " ZeroLink URL shortener website convert long URLs shorter version ZeroLink API let developer interact service programmatically enable integrate application let user directly use ZeroLink"
+    },
+    {
+        "progweb_cat": "URL Shortener,Bitcoin",
+        "api_name": "GoURL.io",
+        "id": 6913,
+        "progweb_descr": " GoURLio service allow user shorten monetize URLs Users input raw URL GoURLio create shorten URL Speedcoin captcha box Speedcoin cryptocurrency similar Bitcoin Visitors must make Speedcoin captcha validation order follow URL GoURLio URL Shortener API enable developer create inspect manage shorten monetized URLs within website application"
+    },
+    {
+        "progweb_cat": "URL Shortener,Analytics",
+        "api_name": "X URLS Url Shortener",
+        "id": 7293,
+        "progweb_descr": " XURLS API provide short url functionality exist website Other feature include view analytics create automatic expire link password protection Users unlimited amount link"
+    },
+    {
+        "progweb_cat": "URL Shortener,Monitoring",
+        "api_name": "su2.be",
+        "id": 9121,
+        "progweb_descr": " su2be simple URLshortening service allows make long URLs shorter easy share service also allow collect review access statistic link youve shorten su2be offer simple API Use API shorten new URLs generate shorten URLs list retrieve access statistic URLs Authentication provide via API key"
+    },
+    {
+        "progweb_cat": "URL Shortener,Referrals",
+        "api_name": "ReLink",
+        "id": 11984,
+        "progweb_descr": " Relink allow user collect manage publish content web service include URL shortener access Web Containers API contain tool encrypt check status uploads container link bank check merge relinks service service use REST call"
+    },
+    {
+        "progweb_cat": "URL Shortener,Advertising",
+        "api_name": "Linkbee.com",
+        "id": 14598,
+        "progweb_descr": " Linkbeecom service allow user create simple short link cash link cash link either advertisement person click link take target page target page display banner advertisement Users also get statistic link Linkbeecom also provide simple API user functionality Linbeecom website method create short link cash link view link statistic Authentication require create cash link view hit link Authentication require create simple short link"
+    },
+    {
+        "progweb_cat": "URL Shortener,Photos",
+        "api_name": "Ity.im",
+        "id": 14987,
+        "progweb_descr": " Ityim URL shortener claim powerful one use Ityim make money display interstitial frame ad short URL use Ityim API provide access shorten expand function within application"
+    }
+]

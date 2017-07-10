@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Agile,Developers",
+        "api_name": "Scrumwise",
+        "id": 2147,
+        "progweb_descr": " Scrumwise API allow programmatically access modify data Scrumwise It ’ collection method invoke use straightforward HTTP POST request Scrum iterative incremental agile software development framework manage product development Scrumwise provide simple Scrum tool allow Predict youll deliver Create manage backlog Plan release sprint"
+    },
+    {
+        "progweb_cat": "Agile,Events",
+        "api_name": "Agile Tix",
+        "id": 4229,
+        "progweb_descr": " Agile Tix API integrate ticket purchase web service mobile application Developers work JSON SOAP XML protocols An API Key require authenticate Agile Ticketing Solutions provide complete ticket solution small large event"
+    },
+    {
+        "progweb_cat": "Agile,Project Management",
+        "api_name": "easyBacklog",
+        "id": 4230,
+        "progweb_descr": " easyBacklog API integrate agile practice project management application Available HTTP JSON REST protocols API aim organize logs quicker Excel It allow revise print export quotation Developers authenticate token HTTP Basic Auth easyBacklog backlog management tool Agile practitioner"
+    },
+    {
+        "progweb_cat": "Agile,Budget",
+        "api_name": "Tempo for JIRA API",
+        "id": 4300,
+        "progweb_descr": " Tempo time plan schedule software design enhance efficiency JIRA Atlassians project track product Tempo JIRA API allow integrate agile practice application use REST protocol Services developer could implement include planner time sheet account team"
+    }
+]

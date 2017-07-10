@@ -1,0 +1,68 @@
+[
+    {
+        "progweb_cat": "Verification,Authentication",
+        "api_name": "Google Verified Access",
+        "id": 3206,
+        "progweb_descr": " Google Verified Access API authenticate legitimacy user network service facilitate monitor adherence policy guideline Google Admin console host Verified Access feature conveys communication API clientside chrome device As mandatory run Chrome extension intermediate device communicates Google enterprise management platform Prior obtain approval deploy Google Verified Access API developer must fill form link provide documentation homepage A developer also must enroll Chrome device enterprise management ensure devise enterprise share domains configure policy appropriately able activate Verified Access feature provide project ID API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Verification,Authentication",
+        "api_name": "Cognalys",
+        "id": 4957,
+        "progweb_descr": " Cognalys multiplatform mobile number verification service API available JSON JSONP XML format help developer integrate two factor authentication instead traditional SMS OTP technology Cognalys aim offer less expensive authentication method user 195 country"
+    },
+    {
+        "progweb_cat": "Verification,Authentication",
+        "api_name": "Sinch Verification",
+        "id": 5902,
+        "progweb_descr": " Sinch Verification API allow developer integrate Sinch phone number verification service application Developers also option check progress ongoing verification request order understand status API call Sinch Verification API support Flash Call Android SMS PIN verification iOS Android JavaScript"
+    },
+    {
+        "progweb_cat": "Verification,Email",
+        "api_name": "Kickbox",
+        "id": 5194,
+        "progweb_descr": " Kickbox API email verification service With service developer integrate email address verification application"
+    },
+    {
+        "progweb_cat": "Verification,Telephony",
+        "api_name": "Nexmo Verify",
+        "id": 5822,
+        "progweb_descr": " Nexmo Verification API allow developer integrate application Nexmo Verification service enable user verify phone number directly application Nexmo one company provide customer way communicate one another domestically internationally"
+    },
+    {
+        "progweb_cat": "Verification,Addresses",
+        "api_name": "Destar Lookup",
+        "id": 5870,
+        "progweb_descr": " Destar Lookup REST API allow developer access integrate functionality Destar applications Some example API method include validate mobile landline phone number verify email address retrieve postcode information Destar Lookup verification service personal information phone number email address"
+    },
+    {
+        "progweb_cat": "Verification,Accessibility",
+        "api_name": "AT&T Verify Connect",
+        "id": 6110,
+        "progweb_descr": " ATT Verify Connect service assist identify customer access mobile webbased service assign customer unique digital ID With API developer able integrate service application enable customer utilize service directly app"
+    },
+    {
+        "progweb_cat": "Verification,Discounts",
+        "api_name": "ID Services Military Verification",
+        "id": 6531,
+        "progweb_descr": " ID Services formerly GruntRoll provide authentication service US Military Veterans A JSSDK REST API available httpsidservices"
+    },
+    {
+        "progweb_cat": "Verification,Security",
+        "api_name": "Mozilla Persona Remote Verification",
+        "id": 7309,
+        "progweb_descr": " Persona Mozilla project aim facilitate consumer verification via publickey cryptography This mean password access website email address Users might find 2 click system beneficial use email easily forget contrary password As state website developer value direct communication user since store preferred customer email address site API remote verification Resources consist HTTP method assertion parameter return value example Javascript PHP Java"
+    },
+    {
+        "progweb_cat": "Verification,Education",
+        "api_name": "ID.me",
+        "id": 8031,
+        "progweb_descr": " IDme digital verification service allow user validate group affiliation memberships online get access exclusive benefit IDme API allow developer access integrate functionality IDme application create new application Example API method include verify manage military profile verify create student profile verfying manage first responder profile"
+    },
+    {
+        "progweb_cat": "Verification,Accounts",
+        "api_name": "TeleSign Messaging",
+        "id": 13593,
+        "progweb_descr": " TeleSigns Messaging service REST API allow send SMS message alert reminder notification send verification message contain onetime passcodes OTP TeleSign provide way build communication account security web mobile apps It cloud communication platform empowers Web mobile app developer build powerful secure communication product use dynamic platform large global network TeleSign support numerous use case SMS voice message twofactor authentication 2FA onetime password OTPs data intelligence fraud score TeleSign ‘ easytointegrate APIs SDKs deliver speed reliability proven success maintains high quality directtocarrier rout ensure reliable global reach TeleSign handle billion communication transaction year across 200 country 87 language Four 5 large company world trust TeleSign deliver mission critical communication account security high availability"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Podcasts,Audio",
+        "api_name": "Simplecast",
+        "id": 1536,
+        "progweb_descr": " Simplecast provide platform publishing podcast audio content Simplecast API make easy developer integrate podcast publishing platform web application API provide RESTful interface use HTTP request method interact endpoint It currently beta release"
+    },
+    {
+        "progweb_cat": "Podcasts,Audio",
+        "api_name": "Audiosearch Swagger",
+        "id": 3033,
+        "progweb_descr": " Audiosearch Swagger API allow developer access integrate functionality Audiosearch applications Some example API method include retrieve audio recommendation base network show category topic Audiosearch fulltext search recommendation API podcast radio"
+    },
+    {
+        "progweb_cat": "Podcasts,Audio",
+        "api_name": "Audiosear.ch",
+        "id": 5665,
+        "progweb_descr": " Audiosearch fulltext search recommendation API podcast radio goal audio intelligence API provide smart audio recommendation base network show category topic To authorize access developer need OAuth A visible link available test API Audiosearch site"
+    },
+    {
+        "progweb_cat": "Podcasts,Accessibility",
+        "api_name": "Art19 Content",
+        "id": 2079,
+        "progweb_descr": " With Art19 Content API user access point Art19 resource This include networks series episode image It Art19 content hub developer Art19 company dedicate business podcast providing tool need future podcasting"
+    },
+    {
+        "progweb_cat": "Podcasts",
+        "api_name": "Podlove Podcast Publisher",
+        "id": 3461,
+        "progweb_descr": " This PHP API Podlove Publisher Wordpress collect podcast data people stats usage registration They provide analytics automate maintenance custom templates feature include self host use module open source dev"
+    }
+]

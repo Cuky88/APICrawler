@@ -1,0 +1,278 @@
+[
+    {
+        "progweb_cat": "Natural Language Processing,Language",
+        "api_name": "Bitext",
+        "id": 1021,
+        "progweb_descr": " Text analysis API build linguistic basis Log free API Key httpsapibitextcom API provide 4 text analysis service Sentiment analysis End point httpssvc02apibitextcomsentiment Entity extraction End point httpssvc02apibitextcomentities Concept extraction End point httpssvc02apibitextcomconcepts Text categorization End point httpssvc02apibitextcomcategories"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Language",
+        "api_name": "IBM Watson Tone Analyzer",
+        "id": 4714,
+        "progweb_descr": " IBM Watson Tone Analyzer API help user discover understand revise tone textbased language It use linguistic analysis detect interpret emotional social writing cue find selection text offer suggestion improve intend tone message It use analyze customer communication send examine reader might perceive blog post understand potential impact word choice textbased communication"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Language",
+        "api_name": "Sentiment Analysis Spanish",
+        "id": 5381,
+        "progweb_descr": " Sentiment Analysis Spanish part Molino de Ideas company base Spain dedicated language tool learn resource automate software Integrate natural language processing feature application API available APIcultur overview provide documentation test list operation raw version code In APIcultur eStore user find API price Euros 10000 call To discover use API visit httpswwwyoutubecomwatchv0qzFTuQI48Q"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Machine Learning",
+        "api_name": "Text",
+        "id": 1467,
+        "progweb_descr": " TextAPI system allow text analysis extraction manipulation feature integrate exist application system offer automatic description metatags image text extraction sentiment analysis review This API respond call JSON format use API Keys authentication"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Machine Learning",
+        "api_name": "HPE Haven on Demand Speech Recognition",
+        "id": 1878,
+        "progweb_descr": " Haven Demand Speech Recognition API integrate transcript text audio video file It available HTTP request JSON response API Key authentication method"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Machine Learning",
+        "api_name": "API.AI",
+        "id": 7061,
+        "progweb_descr": " APIAI enable programmer add speech interface apps device allow understand perform verbal request It create map language data structure allow programmer create natural user interface welldefined When mapping define query make text voice sound file return structure data action parameter This RESTful API make HTTP request exchange data use JSON"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Machine Learning",
+        "api_name": "Wit.AI",
+        "id": 9155,
+        "progweb_descr": " Wit natural language interface application capable turn sentence structure data Wit API allow HTTP GET call return extract mean give sentence base example API authenticate OAuth2 return JSON format response"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Agents",
+        "api_name": "AI Bots",
+        "id": 1538,
+        "progweb_descr": " AI Bots API provide JSON REST natural language processing Entertain Educate Translate Endangered Languages Secret Commands iOT VR iOS Android Web More Request new bot feature help specific software project use case Android project template available others schedule add week iOS node ror others Free Developer Access Mashape Key Developers also request free request need personal project additional information contact developer monigarrmonigarrcom"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Data",
+        "api_name": "FriendlyData",
+        "id": 1612,
+        "progweb_descr": " FriendlyData REST API allow developer access integrate functionality FriendlyData application Some example API method include parse message retrieve parsed message SQL filter aggregation FriendlyData provide natural language interface parse service database"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Chinese",
+        "api_name": "Anacode's Web&Text",
+        "id": 1672,
+        "progweb_descr": " Anacodes WebText REST API allow developer access integrate functionality Anacode application API offer web data collection natural language processing text analysis functionality tailor Chinese allow Chinafacing business extract insight Chinese customer market feedback API suit user dont speak Chinese want quick handson start native data Anacode offer natural language processing text analytics solution"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Analytics",
+        "api_name": "IBM Watson Natural Language Understanding",
+        "id": 1848,
+        "progweb_descr": " Natural Language Understanding API use natural language processing analyze semantic feature text It provide plain text HTML public URL Natural Language Understanding return result feature specify service clean HTML analysis default remove advertisement unwanted content Analyze various feature text content scale service clean HTML content analysis default result ignore advertisement unwanted content IBM Watson understand form data interact naturally people learn reason scale"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Analytics",
+        "api_name": "Valossa",
+        "id": 4316,
+        "progweb_descr": " Valossa power Valai aim offer video analytics specifically video search film discovery service Valossa allow voice enable search natural language processing API intend provide video film analysis order detect thousand associate concept theme keywords"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Analytics",
+        "api_name": "SentiLecto",
+        "id": 4712,
+        "progweb_descr": " SentiLecto API provide NLU natural language understanding service Spanish Portuguese text include method sentiment analysis deep structure analysis entity extraction fact mine sentiment analysis feature relatively unique handle polarity shift sentence within embed clause even word"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Analytics",
+        "api_name": "Buzzlogix Text Analysis",
+        "id": 4805,
+        "progweb_descr": " Buzzlogix Text Analysis API allow developer integrate service application enable user understand customer predict consumer behavior This Semantic Text Analysis API Uses Natural Language Processing Machine Learning Features include sentiment analysis Twitter sentiment analysis subjectivity analysis keyword extraction entity extraction classification"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Analytics",
+        "api_name": "Proxem Ontology-Based Topic Detection",
+        "id": 5263,
+        "progweb_descr": " Proxem OntologyBased Topic Detection API allow developer get data text extract relevant Wikipedia ’ category patent NLP technology Proxem provider user way find text service currently available follow language en fr e pt ja tr de ar id"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Analytics",
+        "api_name": "AlchemyAPI Concept Tagging",
+        "id": 5652,
+        "progweb_descr": " AlchemyAPIConcept Tagging concept tag HTML text webbased content This API able simulate human conceptual tagging API extract concept tag clean target content remove ad navigation link necessary content Responses RDF JSON XML microformatsRequests JSON response JSON RDF XML Authentication unique private API Key AlchemyAPI data mining platform It provide set semantic analysis capability natural language processing field Customers able perform social medium monitor target advertisement track sentiment medium automate content aggregation recommendation"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Analytics",
+        "api_name": "AlchemyAPI  Combined Call",
+        "id": 5970,
+        "progweb_descr": " Alchemy Combined Call API available pro enterprise package use analyze posted document call process analysis use various feature call normalizes clean post HTML document remove ad navigation link unnecessary content Requests JSON response JSON RDF XML Authentication unique private API Key AlchemyAPI data mining platform It provide set semantic analysis capability natural language processing field Customers able perform social medium monitor target advertisement track sentiment medium automate content aggregation recommendation"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Analytics",
+        "api_name": "GlobalNLP",
+        "id": 6629,
+        "progweb_descr": ""
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Monitoring",
+        "api_name": "Perspective",
+        "id": 2063,
+        "progweb_descr": " Perspective API use machine learn algorithms determine whether statement may toxic discussion help screen troll It design help prevent online harassment assist comment moderation This API open beta usage submission accept"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Artificial Intelligence",
+        "api_name": "Word Associations Network",
+        "id": 2457,
+        "progweb_descr": " Word Associations Network API allow developer embed ability find association word phrase mobile apps web service Words group semantics mean psychological perception Word Associations Network API currently support English French Spanish German Italian Portuguese Russian vocabulary"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Extraction",
+        "api_name": "hyScore",
+        "id": 2581,
+        "progweb_descr": " hyScoreio want provide lean performant scalable API service extract valuable keywords easy developer friendly way hyScore team several use case mind provide “ add value ” segment online publish profile advertising Our sophisticated algorithm extract score weight valuable keywords provide simple JSON response format Our vision offer service least 40 language Right start support 12 language auto detect service list ’ find hyScoreio website Yeah still work u"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Extraction",
+        "api_name": "SYSTRAN Natural Language Processing",
+        "id": 4527,
+        "progweb_descr": " SYSTRAN Natural Language Processing API provide developer modular approach cover language process need include language identification segmentation tokenization namedentity extraction transcription SYSTRAN Platform collection REST APIs Client Libraries sample Text extraction Translation Multilingual dictionaries search Natural Language Processing Language Identification Segmentation Morphological analysis Speech text OCR"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Extraction",
+        "api_name": "Idyl Cloud",
+        "id": 6102,
+        "progweb_descr": " Idyl Cloud Mountain Fog webservice provide entity extraction tweet natural language text language detection Idyl Cloud let user integrate entity extraction application system RESTful API HTTP HTTPS endpoints response JSON"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Extraction",
+        "api_name": "Neofonie TXT Werk API",
+        "id": 6314,
+        "progweb_descr": " TXT Werk lightweight text analytic API specialize analyze German text Using TXT Werk user easily get information unstructured text data quickly digest information size This API provide follow feature Entity Recognition Linking Freebase URI Concept Tagging Freebase URI Keyword Extraction Category Classification Date Recognition"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Algorithms",
+        "api_name": "Dango",
+        "id": 3087,
+        "progweb_descr": " Dango API allow developer create emoji prediction application algorithmic technique natural language processing tool share neural network API capable transform natural text input custom emoji prediction Developers integrate Dango API variety interpersonal group communication apps include social marketing customer care application"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Algorithms",
+        "api_name": "Receptiviti",
+        "id": 4826,
+        "progweb_descr": " Receptivitiai Enabling AI platforms emotional intelligence Receptiviti enable AI platform emotional intelligence analyze natural language tweet email IM chat voice reveal people ’ psychology personality decisionmaking style emotion realtime"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Algorithms",
+        "api_name": "NaturalText",
+        "id": 5162,
+        "progweb_descr": " NaturalText allow developer extract entity keywords base grammatical convention use natural language processing Entity link Entity relationship NLP task would available soon"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Algorithms",
+        "api_name": "cortical.io Retina",
+        "id": 10805,
+        "progweb_descr": " corticalios Retina produce semantic fingerprint piece text encode 16000 semantic feature represent inner meaning Fingerprints easily compare numerically used expression Fingerprint anything could describe word like product social network profile message email office document name Then precisely compare Amazon product description LinkedIn profile tweet Facebook timeline job description CVs"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Content",
+        "api_name": "Wordsmith",
+        "id": 3169,
+        "progweb_descr": " Wordsmith API instant publishing solution variety bulk content article blog report RESTful API function natural language generation tool use powerful template convert huge volume data text without compromise uniqueness piece content This API primarily support HTTPformatted request return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Content",
+        "api_name": "AYLIEN News",
+        "id": 3853,
+        "progweb_descr": " AYLIEN News API powerful tool source search syndicate analyze enriched news content Using API user search source news content web realtime Using power Machine Learning NLP understand content scale extract data need key component AYLIEN News API"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Big Data",
+        "api_name": "Ambiverse Natural Language Understanding",
+        "id": 3345,
+        "progweb_descr": " Ambiverse Natural Language Understanding API allow user extract usable information unstructured text Information extract form entity may identify people location organization product These link Wikipediaderived YAGO knowledge graph user query obtain information"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Intelligence",
+        "api_name": "SpaCy.io",
+        "id": 3626,
+        "progweb_descr": " SpaCyio available API SaaS In integrates natural language processing application provide compatibility 64bit CPython 2633 run UnixLinux OS X Windows Token require authentication"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Q&A",
+        "api_name": "Kueri.me",
+        "id": 3807,
+        "progweb_descr": " Kuerime API product provide remote procedure call JSON format It available integration download main site JavaScript library resource implement searchbox complete display result table Kueri service platform allow user search natural language question SQL"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Audio",
+        "api_name": "DeepGram",
+        "id": 4285,
+        "progweb_descr": " DeepGram API allow use Artificial Intelligence cue spot keywords get insights audio API intend facilitate analysis audio respond exact location keywords throughout video target specific word film documentatires presentation others goal send HTTP POST request JSON body intention JSON response"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Audio",
+        "api_name": "Yactraq Speech2Topics",
+        "id": 7234,
+        "progweb_descr": " Yactraq Canadianbased company analyze audio video extrapolate big data use natural language processing speech recognition Developers integrate API begin extract information audio CRM system company phone call teleconference etc well mobile video newer ergonomic experience Yactraq API create searchable indexed metadata supposedly help target ad improve employee performance positively influence executive decision"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,API",
+        "api_name": "Intellexer",
+        "id": 4371,
+        "progweb_descr": " Intellexer API enable developer embed text mining product consumer enterprise application webservices use JSON Intellexer API include natural language processing solution sentiment analysis namedentity recognition summarization multidocument summarization plain text extraction different file format pdf doc rtf html ppt chm etc document comparison language detection spellchecking You use Intellexer API software component issue HTTP request"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Classification",
+        "api_name": "IBM Watson AlchemyLanguage",
+        "id": 4691,
+        "progweb_descr": " IBM Watson AlchemyLanguage API provide 12 text analysis function add highlevel semantic information text use natural language processing These function include entity extraction sentiment analysis keyword extraction concept tag relation extraction taxonomy classification author extraction language detection text extraction microformats parse feed detection link data support"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Classification",
+        "api_name": "IBM Watson Natural Language Classifier",
+        "id": 5429,
+        "progweb_descr": " IBM Watson Natural Language Classifier API allow interpret language Developers without background machine learn statistical algorithms implement NLP service application What service receive question return either request answer base classification Access Api Key work JSON CSV format start integration"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Classification",
+        "api_name": "Leiki SmartProfiles",
+        "id": 7618,
+        "progweb_descr": " Leiki SmartProfiles provide text analysis service identify mean context piece text even short one This analysis base ontology include 100000 concept Advertisers publisher marketer use SmartProfiles define content ad target content recommendation content discovery purpose Leiki SmartProfiles API allow user submit content full text URL"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Keywords",
+        "api_name": "textCavate",
+        "id": 5010,
+        "progweb_descr": " textCavate API provide metadata extraction document exist application This API use SOAP protocol It extract keywords English Afrikaans Deutsch document It distinguish proper common name TextCavate offer different plan different limit depend developer need"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Data Mining",
+        "api_name": "AlchemyAPI  Language Detection",
+        "id": 5656,
+        "progweb_descr": " AlchemyAPI Language Detection API create platform classify web HTML textbased content language This API automatically normalize clean internet page remove ad navigation link irrelevant content identify primary language contain text This API use processing host webpage blog publiclyaccessible Internet content Requests JSON responses JSON RDF XML Authentication unique private API Key AlchemyAPI data mining platform It provide set semantic analysis capability natural language processing field Customers able perform social medium monitor target advertisement track sentiment medium automate content aggregation recommendation"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Data Mining",
+        "api_name": "AlchemyAPI Authors Extraction",
+        "id": 5660,
+        "progweb_descr": " AlchemyAPI HTML Authors Extraction API extract author information embed within web news article blog post This API allow upload web content directly AlchemyAPI analysis Requests JSON responses JSON RDF XML Authentication unique private API Key AlchemyAPI data mining platform It provide set semantic analysis capability natural language processing field Customers able perform social medium monitor target advertisement track sentiment medium automate content aggregation recommendation"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Semantics",
+        "api_name": "IBM Watson Relationship Extraction",
+        "id": 6288,
+        "progweb_descr": " IBM Relationship Extraction API enable user extract useful information people place organization event relationship text This beta release API may support new beta release service exit beta As result service suggest production use"
+    },
+    {
+        "progweb_cat": "Natural Language Processing",
+        "api_name": "Text-Processing",
+        "id": 7231,
+        "progweb_descr": " This natural language processing API use textual analysis sentiment extraction Use analyze body text sentiment lemmatization stem phrase extraction part speech tag grouping name entity identification public free API able make 1000 call per day large commercial us developer use Mashape host API"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,News Services",
+        "api_name": "NLP Tools",
+        "id": 7233,
+        "progweb_descr": " NLPTools simple web service design JSON HTTP RESTful API It decode online news source sentiment analysis textual classification In order analyze sentiment classify line text developer may use API receive return category label conditionality piece range positive neutral negative sentiment"
+    },
+    {
+        "progweb_cat": "Natural Language Processing,Voice",
+        "api_name": "Ask Ziggy",
+        "id": 9595,
+        "progweb_descr": " Ask Ziggy service allow developer integrate natural language voice command application Ask Ziggy include voicetotext functionality voiceactivated command use across multiple platform Ask Ziggy API allow developer access integrate functionality Ask Ziggy application create new application Some example API method include add application create event manage action"
+    }
+]

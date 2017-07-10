@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Graphics,Animation",
+        "api_name": "Mozilla Canvas",
+        "id": 5297,
+        "progweb_descr": " Mozilla Canvas API allow edit graphic create animation process video real time Resources include canvas handbook along specification 11 library type topic find library explain work canvas SVG parse interactivity game engine data visualization creative coding game development"
+    },
+    {
+        "progweb_cat": "Graphics,Charts",
+        "api_name": "Infogr.am",
+        "id": 5533,
+        "progweb_descr": " Infogram REST API provide developer access infographic creation update download This API identify application user use OAuthlike protocol response available JSON format Developers get credential API follow instruction API home page Infogram platform create publish share infographics"
+    },
+    {
+        "progweb_cat": "Graphics,HTML5",
+        "api_name": "ZingChart",
+        "id": 12326,
+        "progweb_descr": " service allow creation chart graph Flash HTML5 format use programmatic control Applications supply data chart specification graphical appearance generate service render imagery reflect input data accord specify output format API method support upload datasets along output format image format quality level width height encoding standard file location etc service render chart specify output variable request Tutorials demonstrate creation static image downloadable PDF overall use API method"
+    },
+    {
+        "progweb_cat": "Graphics,Images",
+        "api_name": "Mugshot",
+        "id": 12368,
+        "progweb_descr": " experimental service process image uploaded file URLs performs simple face detection It display coordinate face present image along browserviewable version image face highlight API method support either upload file specify URL along request service Returned data include coordinate face within image URLs viewable image face highlight"
+    },
+    {
+        "progweb_cat": "Graphics",
+        "api_name": "Get Favicon",
+        "id": 15485,
+        "progweb_descr": " Retrieves relevant favicon URL return default icon able find It find favicons specify HTML page element"
+    }
+]

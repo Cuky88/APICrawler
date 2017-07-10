@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Cameras,Content",
+        "api_name": "TomTom Camera Media Server",
+        "id": 2844,
+        "progweb_descr": " TomTom Camera Media Server API RESTful platform access medium server functionality TomTom Bandit Action Cam API equip innovative camera feature remote control lowlatency viewfinder functionality support performance different task Its feature use tag download extract sensor data preview video photo content Developers must turn TomTom Bandit WiFi able deploy API Its request response transmit HTTP JSON format respectively"
+    },
+    {
+        "progweb_cat": "Cameras,Cameras",
+        "api_name": "Unofficial GoPro",
+        "id": 3429,
+        "progweb_descr": " Unofficial GoPro API allow developer obtain camera parameter photo resolution battery status Additionally use control livestream obtain data GoPro WiFi enable camera This REST base API support JSON data exchange"
+    },
+    {
+        "progweb_cat": "Cameras,Internet of Things",
+        "api_name": "Google Open Spherical Camera",
+        "id": 5649,
+        "progweb_descr": " Google Open Spherical Camera API propose set command control spherical camera builtin WiFi This allow app develop platform API control connect spherical camera also implement API This documentation compose Open Spherical Camera Manufacturer Guide provide API implementation guidance manufacturer spherical camera Open Spherical Camera API Specification describes propose set command say camera"
+    },
+    {
+        "progweb_cat": "Cameras,Feeds",
+        "api_name": "Teleport",
+        "id": 6094,
+        "progweb_descr": " Teleport Canada base company provide customer ability record view edit timelapse video share Teleport feed Teleport API let developer integrate service application enable customer create manage view publish Teleport feed This API REST base return JSON XML data type"
+    },
+    {
+        "progweb_cat": "Cameras,Applications",
+        "api_name": "Apple Camera",
+        "id": 7163,
+        "progweb_descr": " With Apples Camera API thirdparty camera apps control exposure focus white balance This addition control create"
+    }
+]

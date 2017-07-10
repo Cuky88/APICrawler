@@ -1,0 +1,92 @@
+[
+    {
+        "progweb_cat": "Screenshots,Images",
+        "api_name": "Page2Images",
+        "id": 94,
+        "progweb_descr": " Page2Images website thumbnail creater optimize mobile device Page2Images expose service REST API API allow website application generate thumbnail give URL API able specify image size device screen size"
+    },
+    {
+        "progweb_cat": "Screenshots,Images",
+        "api_name": "Thumbs",
+        "id": 1506,
+        "progweb_descr": " Thumbs API allow developer produce scalable highresolution thumbnails A variety size image option available global cache always get late version website Users select custom image display thumbnail accessible All thumbnail host cloud network speed load time This API use unlimited number website compatible SSL nonSSL site"
+    },
+    {
+        "progweb_cat": "Screenshots,Images",
+        "api_name": "Let's Validate!",
+        "id": 1564,
+        "progweb_descr": " Lets Validate API uncovers technology use generates thumbnails screenshots websites API utilizes Wappalyzer analyze technology use websites All generate thumbnail host CloudFlare CDN serve http without watermark Screenshots capture use headless Chrome current API rate limit 1001 callsminute per client IP address"
+    },
+    {
+        "progweb_cat": "Screenshots,Images",
+        "api_name": "PageLr Screenshot Service",
+        "id": 3018,
+        "progweb_descr": " PageLr REST API allow developer access integrate functionality PageLr application websites main API method retrieve website screenshots PNG JPG image desire parameter set PageLr provide functionality take website screenshots PNG JPG image"
+    },
+    {
+        "progweb_cat": "Screenshots,Images",
+        "api_name": "SiteSnapr",
+        "id": 4097,
+        "progweb_descr": " SiteSnapr API provide realtime webpage screenshot service SiteSnapr grab screenshots store serf make sure stay date Simply give target SiteSnapr return image"
+    },
+    {
+        "progweb_cat": "Screenshots,Images",
+        "api_name": "SiteCapt",
+        "id": 4798,
+        "progweb_descr": " SiteCapt API provide developer userfriendly tool take screenshots websites Some parameter support size width height screenshot wait time SiteCapt work bring reliable fast website screenshots service"
+    },
+    {
+        "progweb_cat": "Screenshots,Images",
+        "api_name": "savethis.as",
+        "id": 6350,
+        "progweb_descr": " savethisas service quickly take screenshot website convert view png jpg file savethisas API provide ability make request bulk return large amount website screenshots Developers utilize view customization option select desire outputted image format edit size viewport crop resize screenshot automatically All request require user ID secret key authentication service utilizes JWT JSON webtoken"
+    },
+    {
+        "progweb_cat": "Screenshots,Images",
+        "api_name": "URL Screenshot Generator",
+        "id": 6872,
+        "progweb_descr": " URL Screenshot Generator API accept URL address take screenshot correspond site It return picture png jpg file format default image size 800 pixel height 1024 pixel width take roughly 5 total second process URL Screenshot Generator API host Mashape require sign key access"
+    },
+    {
+        "progweb_cat": "Screenshots,Images",
+        "api_name": "Gyazo",
+        "id": 7347,
+        "progweb_descr": " With Gyazo user capture share screen image social medium main value API besides picture Gyazo also support GIF video format capture record screen hold 7 second Developers use application upload new image API REST JSON parameter In site Gyazo display requirement parameter response along instruction facilitate API creation They also recommend developer register order get authentication clientid OAuth2"
+    },
+    {
+        "progweb_cat": "Screenshots,Images",
+        "api_name": "WebToPicture",
+        "id": 12070,
+        "progweb_descr": " service generates thumbnail image screen display URL submit user application submits valid web URL service capture display find four size It log image capture allow browse access category API method allow submission URL desire thumbnail size small medium large extralarge Methods search match URL find deliver exist image link If current image exist service queue request image capture return placeholder image link"
+    },
+    {
+        "progweb_cat": "Screenshots,Web Site Management",
+        "api_name": "Browsershots",
+        "id": 1387,
+        "progweb_descr": " Broswershots free opensource application let web developer test site browser compatibility one place Developers submit web address number distribute computer open web site browser They take screenshot site upload Browsershots server developer review API provide much functionality site include ability list active browser test authentication list request status It use XMLRPC call response format XML"
+    },
+    {
+        "progweb_cat": "Screenshots,URLs",
+        "api_name": "Urlbox",
+        "id": 2418,
+        "progweb_descr": " Urlbox API take URL return high quality PNG JPG screenshot associate site It capture web page use late browser allow handle kind HTML Urlbox take full page website screenshots well responsive screenshots full viewport control"
+    },
+    {
+        "progweb_cat": "Screenshots,Software-as-a-Service",
+        "api_name": "Web Shrinker Thumbnail",
+        "id": 4123,
+        "progweb_descr": " Web Shrinker Thumbnail API allow developer capture website URL look inside real web browser You get PNG image different size get information via JSON also decide request brand new image API also allow include image web page process preferred programming language This service also integrate Website Category API retrieve category site belongs"
+    },
+    {
+        "progweb_cat": "Screenshots",
+        "api_name": "Screenshotlayer",
+        "id": 5276,
+        "progweb_descr": " Screenshotlayer free REST API build deliver high quality URL PNG JPEG GIF website screenshots thumbnail simple API interface Its architecture focus ease use integration make high level compatibility application framework programming language"
+    },
+    {
+        "progweb_cat": "Screenshots,HTML5",
+        "api_name": "thumbnail.ws",
+        "id": 6574,
+        "progweb_descr": " Thumbnailws allow create thumbnail screenshots video websites API offer service free charge option require payment additional capacity A particularity API user test screenshot generator register site After sign choose plan accord number screenshots require development plan"
+    }
+]

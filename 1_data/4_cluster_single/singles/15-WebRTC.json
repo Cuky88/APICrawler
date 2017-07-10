@@ -1,0 +1,92 @@
+[
+    {
+        "progweb_cat": "WebRTC,Monitoring",
+        "api_name": "callstats.io",
+        "id": 665,
+        "progweb_descr": " callstatsio API monitor real time video call web application Documentation include JSON object parameter API authentication integration guide Specifically JavaScript library permit monitor WebRTC endpoint browserbased communication long browser occur HTTPS affords cross origin resource sharing support WebSockets"
+    },
+    {
+        "progweb_cat": "WebRTC,Audio",
+        "api_name": "Temasys Web",
+        "id": 1510,
+        "progweb_descr": " Temasys Web API offer access platformasaservice provide realtime voice video data capability API use build application support contextual communication customer user engagement mobile web live assistant remote collaboration Responses offer JSON format Temasys offer 3 paid option free trial solution"
+    },
+    {
+        "progweb_cat": "WebRTC,Audio",
+        "api_name": "24sessions",
+        "id": 3440,
+        "progweb_descr": " 24sessions API enable add power 24sessions online advice technology web mobile application With 24sessions API trigger online videochat real time communication meet browser screensharing textchat filesharing Meetings schedule book meeting schedule functionality Finally session result review recording session"
+    },
+    {
+        "progweb_cat": "WebRTC,Meetings",
+        "api_name": "Liveh2h Meet",
+        "id": 1832,
+        "progweb_descr": " This API allow customize LiveH2H meeting room layout API offer realtime video conferencing solution create virtual meeting room experience within application across platform LiveH2H allow integration voice video chat translations mobile web application live support LiveH2H video conferencing platform dedicate facilitating communication engagement collaboration education across globe"
+    },
+    {
+        "progweb_cat": "WebRTC,Standards",
+        "api_name": "W3C Identifiers for WebRTC's Statistics",
+        "id": 3166,
+        "progweb_descr": " W3C Identifiers WebRTCs Statistics API defines set JavaScript APIs allow developer access statistical information PeerConnection Audio video data packet transmit PeerConection sometimes delay lose application implement WebRTC generally monitor underlie network medium pipeline This document yet complete enough implementation experimentation encourage"
+    },
+    {
+        "progweb_cat": "WebRTC,Standards",
+        "api_name": "Object RTC",
+        "id": 5495,
+        "progweb_descr": " Object RTC API provide developer instruction access WebRTC API provide call send retrieve medium various browser device use realtime protocol Object RTC API provide WC3"
+    },
+    {
+        "progweb_cat": "WebRTC,Browsers",
+        "api_name": "Apizee Server",
+        "id": 3589,
+        "progweb_descr": " Apizee platform integrate WebRTC technology add realtime text audio video capability third party application This platform feature visual collaboration pluginfree web base communication presencebased text messaging Server API use obtain delete record video stream exchange information JSON format Apizee French SaaS firm offer videoconferencing enterprise collaboration telemedicine deployment streamline"
+    },
+    {
+        "progweb_cat": "WebRTC,Browsers",
+        "api_name": "Apizee ApiRTC",
+        "id": 3590,
+        "progweb_descr": " Apizee ApiRTC API platform integrate WebRTC technology add realtime text audio video capability third party application This platform feature visual colaboration pluginfree web base communication presencebased text messaging ApiRTC exchange information JSON format Apizee French SaaS firm offer videoconferencing enterprise collaboration telemedicine deployment streamline"
+    },
+    {
+        "progweb_cat": "WebRTC,Chat",
+        "api_name": "Share.to",
+        "id": 3711,
+        "progweb_descr": " Shareto API allow developer integrate communication visual collaboration feature application Shareto provide secure cloudbased communication service extend team across multiple channel This include WebRTC video audio communication well screen share persistent workspace group chat share document Shareto support many popular apps include Dropbox LinkedIn Google Drive Facebook"
+    },
+    {
+        "progweb_cat": "WebRTC,Chat",
+        "api_name": "Bistri Conference",
+        "id": 8852,
+        "progweb_descr": " Bistri Conference API allow developer build simple video chat application step service compatible WebRTC enable browser easily integrated custom application Developers take advantage quality API documentation tutorial page make work service incredibly simple"
+    },
+    {
+        "progweb_cat": "WebRTC,Video",
+        "api_name": "Agora Video",
+        "id": 4326,
+        "progweb_descr": " Agoraio Communications Service platform provide WebRTC technology Agora Video API allow real time mobiletomobile communication virtual Agora Global Network Agora PaaS provider Developers integrate API use SDKs provide Agora"
+    },
+    {
+        "progweb_cat": "WebRTC,Applications",
+        "api_name": "SkyWay JavaScript",
+        "id": 5173,
+        "progweb_descr": " SkyWay API available English Japanese language allow develop real time application WebRTC feature JavaScript version work desktop device iOS Android component compatible mobile device JSON REST protocols accessible Api Key"
+    },
+    {
+        "progweb_cat": "WebRTC",
+        "api_name": "Erizo",
+        "id": 6273,
+        "progweb_descr": " Erizo API enable developer integrate Lynckias Licode WebRTC platform allow end user communicate web browser without download install anything Erizo WebRTC Multipoint Control Unit MCU compatible WebRTC standard protocol Licode open WebRTC communication platform compatible late version Google Chrome"
+    },
+    {
+        "progweb_cat": "WebRTC,Real Time",
+        "api_name": "Respoke",
+        "id": 6377,
+        "progweb_descr": " Respoke cloud platform API enable integration live voice video realtime data feature web mobile application service implement way engage team collaboration power contact center enhance game development act scalable IoT communication platform REST API divide 3 different authentication tier Full Admin Partial Admin basic App Token API access Respoke offer JavaScript Nodejs libraries wrap REST API"
+    },
+    {
+        "progweb_cat": "WebRTC,Application Development",
+        "api_name": "WebRTC",
+        "id": 7278,
+        "progweb_descr": " WebRTC open source project allow real time communication Google Mozilla Opera browser use Javascript main goal WebRTC API create high quality application develop browser mainly video chat without plugins This venture help developer interested create apps interact different browser example demo site WebRTC display conversation Chrome Firefox user API app creation compatible different browser To create application developer install software available get start reference website Besides software installation multiple resource offer sample open code demo note collaborative forum Some feature include local medium stream medium stream track RTC data channel RTC peer connection RTC session description"
+    }
+]

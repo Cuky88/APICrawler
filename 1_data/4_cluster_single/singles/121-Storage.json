@@ -1,0 +1,728 @@
+[
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Google Drive",
+        "id": 203,
+        "progweb_descr": " Google Drive cloud base storage platform let users access data include file format device application connects internet Google Drive SDK include HTTP API let developer integrate file store user Drvie third party application This give user ability use multiple cloud apps interact file store single location cloud"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Apple iCloud",
+        "id": 852,
+        "progweb_descr": " iCloud store user content wirelessly make available device iCloud Storage APIs allow application developer store apps document key value data iCloud API also give developer ability access sync backup service iCloud wirelessly push document user device automatically update document change device Currently full access documentation available register developer"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Rackspace Cloud Files",
+        "id": 854,
+        "progweb_descr": " Rackspace Cloud Files online file medium storage service Cloud Files provide private public file container medium file serve via integration Akamai Content Delivery Network Cloud Files API allow developer upload file programmatically enable Cloud Files CDN integration container public distribution create Containers programmatically retrieve list container file API use RESTful protocol return responses XML JSON"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "MEGA",
+        "id": 858,
+        "progweb_descr": " MEGA New Zealand base cloud storage service help user protect privacy With MEGA user control encryption user hold keys user decide grant deny access file without require software installs API give developer programmatic access functionality service It use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "OpenStack",
+        "id": 878,
+        "progweb_descr": " OpenStack open source cloud compute platform public private cloud Keystone Identity Service allow client obtain token used access OpenStack cloud service API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "DigitalOcean",
+        "id": 1010,
+        "progweb_descr": " DigitalOcean provide simple cloud base virtual server droplet service With 13000 cloud server currently operation DigitalOcean wellestablished provider online storage solution fast realtime control With streamlined interface user able create start utilize virtual server minute API provide service web control panel allow full control Droplet virtual server Using simple REST interface make call shut power cycle virtual server show active droplet take snapshot rebuild droplet API support major droplet function allow effectively run server API"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "123Cloud ECP",
+        "id": 1047,
+        "progweb_descr": " 123Cloud provide secure platform application store access remotely 123Cloud ECP API use basic HTTP authorization order establish connection client Clients grant access virtual machine access file application small data usage fee Developers utilize API host application remotely take advantage cloud compute instead host server API RESTful support Java PHP Python response format JSON"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "TappIn",
+        "id": 1308,
+        "progweb_descr": " TappIn service give user ability access share personal content anywhere today accessible within home API let user list folder share friend download upload move copy file directory listing API use RESTful protocol Developers must request full documentation provider"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "QingCloud",
+        "id": 1680,
+        "progweb_descr": " QingCloud API offer access cloudbased host service base Beijing China QingCloud support SDNNFV 10 20 networking high performance high capacity volume storage database cache service big data platform service integration enhance security measure QingCloud offer several billing plan charge second “ Billing Seconds ”"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Kloudless Universal File Storage On-Premises",
+        "id": 3433,
+        "progweb_descr": " Kloudless Universal File Storage OnPremises REST API enterprise version Kloudless Universal CRM REST API Kloudless client choose enterprise service Kloudless able access integrate API API allow developer access integrate file storage functionality Kloudless application create new application Some example API method include create retrieve manage file create manage permission manage file folder list Kloudless provide customizable toolkit integrate cloud storage CRM file share feature application web mobile"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Kloudless Universal File Storage Cloud",
+        "id": 3434,
+        "progweb_descr": " Kloudless Universal File Storage REST API allow developer access integrate file storage functionality Kloudless application create new application Some example API method include create retrieve manage file create manage permission manage file folder list Kloudless provide customizable toolkit integrate cloud storage CRM file share feature application web mobile"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Filestack",
+        "id": 4332,
+        "progweb_descr": " Filestack file handle platform enable user upload store transform deliver image videos document cloud Developers use Filestack API HTTP JSON REST format integrate 20 cloud service cloud drive include Google Drive Dropbox Facebook Files dynamically transform via simple URL transformation include crop resize align Api Key OAuth2 require authenticate"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Kloudless Management",
+        "id": 4485,
+        "progweb_descr": " Kloudless California base digital storage company Kloudless platform connect several cloud service support advance feature collaboration event notification Management API use access Kloudless developer account This REST API require API key per application support webhooks return data JSON format"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Caringo Swarm",
+        "id": 5336,
+        "progweb_descr": " Caringo Swarm API let developer manage storage system enable user work data various size Caringo provide customer way store work data Users get information API registering Caringo Connect Partner account"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Hedvig",
+        "id": 5556,
+        "progweb_descr": " Hedvig REST API allow developer access functionality Hedvig Distributed Storage Platform integration application service API compatible Swift Amazon S3 API documentation available request Hedvig softwaredefined storage service cloud provider business"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Yandex.Disk",
+        "id": 6443,
+        "progweb_descr": " YandexDisk service store share file YandexDisk API enable programmatic access retrieval file device connect internet Applications use YandexDisk API request access user file well store file Yandex server API offer RESET well WebDAV interface mobile SDKs enable user work file store file store application setting sync cloud storage simplify data synchronization smartphones tablet laptops desktop computer"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "HiDrive",
+        "id": 7043,
+        "progweb_descr": " HiDrive cloud storage service Their developer API offer RESTful method interfacing platform Using API developer able upload file storage read write file perform file compression create picture thumbnails well function API free incorporate 3rd party application webapps use OAuth 2 authentication"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Kloudless",
+        "id": 7451,
+        "progweb_descr": " Kloudless API allow developer code integrate many cloud storage service apps Developers connect application multiple cloud storage service like Dropbox Box etc Kloudless provide customizable UI toolkit integrate cloud storage feature application web mobile"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Younity",
+        "id": 8795,
+        "progweb_descr": " Younity cloudbased application store automatically sync uploaded file content across multiple device Users upload store document videos music Younity access connect device Younity API allow developer access integrate functionality Younity applications Public documentation available interested developer contact Younity information"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Oxygen Cloud",
+        "id": 8846,
+        "progweb_descr": " Oxygen Cloud cloudbased desktop work exactly like regular desktop allow user keep file secure sync across multiple device Users edit file offline Oxygen automatically sync updated file device online Oxygen Cloud support selective file sync along multiple simultaneous uploads downloads As enterprise service Oxygen Cloud give company way let employee work go without compromise security company information It come extensive option control regard file access share data ownership Oxygen Clouds function content integrated system application via REST call"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Bluebox Blocks",
+        "id": 9473,
+        "progweb_descr": " Blue Box cloud host manage service company Blocks demand virtual compute resource This cloud compute solution allow build infrastructure combine high performance dedicate equipment ondemand compute resource Blocks API RESTful API support XML JSON YAML response type API call allow interface actual block object view create Block template view list available Block product view available location"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "DreamHost DreamObjects",
+        "id": 9842,
+        "progweb_descr": " DreamObjects DreamHost cloud storage service web application developer Developers store data application cloud DreamObjects API allow developer access integrate functionality DreamObjects application API compatible Swift Amazon S3 Example API method include retrieve service list manage account information execute operation"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "OVH Cloud",
+        "id": 9844,
+        "progweb_descr": " service provide host provision online storage application host environment It allow control host resource bring online configuration installation ongoing monitoring adjustment take offline API method support define configure storage space set change permission resource start application instance end function control host application Methods also support user account management performance monitoring routine ad hoc reporting"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Nlyte Ngauge",
+        "id": 10362,
+        "progweb_descr": " service provide web application host environment capability integrate function configuration performance management reporting application web service expose function use provider Data Center Infrastructure Management DCIM interface Developers access code library functional element incorporate integration project API method support performance monitoring data center resource overall host environment function update configuration setting variable improve performance Reporting function support predefined dashboard monitor ad hoc analysis system data"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Ninefold Online Storage",
+        "id": 10501,
+        "progweb_descr": " service describe Australian alternative Amazon AWS It provide platform application host online data storage cloud capability virtual server installation share file repository Cloud Compute functionality include establish configure virtual machine instal manage software use resource Cloud Storage functionality include create storage structure set access permission upload replace delete file API method support create configure virtual machine manage application run platform Methods also support establish storage location access criterion full createretrieveupdatedelete CRUD control API give complete control descriptive metadata assign maintained resource platform"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Rackspace Cloud Block Storage",
+        "id": 10766,
+        "progweb_descr": " Rackspace Cloud Block Storage delivers storage performance IOintensive application storage offer two capacity one standard volumes one SSD volume Cloud Block Storage CBS allow user extend storage capacity Next Generation Server without need increase Server power Users interact CBS programmatically via API API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Nifty Cloud",
+        "id": 10863,
+        "progweb_descr": " Nifty Cloud public cloud compute IaaS service feature server resource available ondemand An hourly fee charge use resource user pay go Nifty Cloud run online control panel use SOAPbased API API enable user programmatically run program operation startup shutdown check status server disk theyve create Nifty Cloud available Japanese"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Strongspace",
+        "id": 10972,
+        "progweb_descr": " Strongspace online storage service allow customer gather store backup share file Strongspace API provide RESTful interface customer automate Strongspace function include file upload download manage SSH key"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Fhoster Livebase",
+        "id": 11117,
+        "progweb_descr": " FHOSTER allow develop cloudbased server cloudlets interact Livebase product Livebase affords ability serve data customer visually appeal manner make data management user friendly Their Livebase product allow produce UMLbased conceptual schema client information web browser interface Livebase allow quickly build frontend database From simple table complicate relational database Livebase delivers expressive enterprise level data solution client Livebase REST API allow constrain maintain database cloudlets external system Including cardinality predicatebased integrity navigability rulebased access control OPTIONS GET method support resource others available depend type resource"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Nimbus.io",
+        "id": 11889,
+        "progweb_descr": " Nimbusio provider cloud base long term data storage cluster Nimbusio attempt differentiate competitor Amazonâ€™s S3 OpenStackâ€™s Swift Riak use parity instead replication achieve highly redundant storage less overhead Nimbus API give developer access resource include customer account collection own customer key within collection data metadata key"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "CX",
+        "id": 12302,
+        "progweb_descr": " CX cloud storage provider offer feature secure storage realtime sync public private share interactive group collaboration intelligent discovery CX API break three main area functionality File API Browse manipulate user group file tree Transport API Uploading download file CX User API Interact user account data like view profile API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Memopal",
+        "id": 12448,
+        "progweb_descr": " Memopal offer cloud base online storage try make storage efficient technology behind Memopal look similarity across data user upload store part save change make data simple API allow user download file account API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "HP Cloud Block Storage",
+        "id": 12800,
+        "progweb_descr": " This API let user store data HP Cloud Compute instance long need HP Cloud Block Storage ideal application require frequent readwrite access web application Users access durable highperformance storage volume persist deleted give user control long keep data"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "HP Cloud CDN",
+        "id": 12801,
+        "progweb_descr": " HP Cloud Services CDN API let user deliver static data HP Cloud Object Storage user around world data cache distribute across HP Akamai global network low latency fast transfer WIth API user add CDN service exist Object Storage container"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "SavvisStation",
+        "id": 13019,
+        "progweb_descr": " service provide online storage application host platform control either proprietary account portal via API method It support upload update retrieve delete online resource user account A dashboard offer managing resource host service API method support list map customer portal functionality available application include customer reporting control dashboard Methods also support initiate list track portal event relate user account along open track action ticket service customer support function"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Pervasive Data Integrator",
+        "id": 13236,
+        "progweb_descr": " service provide platform data integration across multipurpose application It facilitate cloud data storage exchange information data repository use host application Its goal enable reuse software diverse application scenario require datasets API method support definition storage destination configuration application product use data along provision connect two Methods also support CRUD create read update delete control product manage service"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "EdgeCast CDN",
+        "id": 13309,
+        "progweb_descr": " service provide content delivery network CDN store stream deliver rich medium asset data high performance large capacity It design enable ecommerce optimize web application performance broad access license medium content Applications support include medium entertainment game live event API method support authentication right access management cache management rapid performance"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "StorageRoom",
+        "id": 14290,
+        "progweb_descr": " StorageRoom cloudbased CMS data user Mobile Applications It provide platform manage content online integrate content one multiple mobile desktop apps API let user integrate StorageRoom service application API provide almost StorageRooms functionality include Create new Collection contain Entries Add new Entries Collections validation rule obey Update delete Entry Search Entries get data require It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Apstrata",
+        "id": 14291,
+        "progweb_descr": " Apstrata provide suite ondemand Rich Cloud service aim simplify development operation Webconnected application Apstrata RESTful web service provide interface manage persistent data store back end It use documentstyle database feature persistent Storage roll user APIs user management server side script Responses format XML JSON"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "AT&T Synaptic Storage",
+        "id": 14363,
+        "progweb_descr": " ATT Synaptic Storage Service web servicesbased storage solution scale size allow user pay storage use It provide capacity demand allow access store data virtually anywhere time service access use EMC Atmos API This API allow user directly integrate service custom application offtheshelf package software API use REST SOAP call response format XML Documentation find httpswwwsynapticattcomclouduserstaticstorageSynapticStorageGettingStartedpdf"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Scality",
+        "id": 14876,
+        "progweb_descr": " Scality accessors software APIs communicate application enable storage virtualization Scality support multiple accessors RESTful APIs allow development purposebuilt accessors Scality developer RING software platform enable cloud storage easily scale exabyte use commodity server hardware direct attach storage Scality typically use private cloud especially backup video file share medium archive healthcare genomics geophysics public cloud StaaS SaaS application webmail Web 20 service Public documentation API available"
+    },
+    {
+        "progweb_cat": "Storage,Cloud",
+        "api_name": "Put.io",
+        "id": 15160,
+        "progweb_descr": " Putio API offer storage service fetch medium file let stream immediately It feature library Python via JSON protocol"
+    },
+    {
+        "progweb_cat": "Storage,Social",
+        "api_name": "Dropbox",
+        "id": 230,
+        "progweb_descr": " Dropbox storage service sync file online across computer via installed software API allow readwrite access file piggyback Dropboxs file synchronization storage"
+    },
+    {
+        "progweb_cat": "Storage,Social",
+        "api_name": "InkFilePicker",
+        "id": 7912,
+        "progweb_descr": " Ink file storage service aim power connectivity different user device InkFilePicker API allow user make Javascript REST call REST API return JSON allow user retrieve file write back file store file perform image conversion An account required service"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "Amazon S3",
+        "id": 290,
+        "progweb_descr": " Since 2006 Amazon Web Services offering web service commonly know cloud compute AWS Provides reliable low cost infrastructure platform power hundred thousand business Amazon S3 API Simple Storage Service provide simple web service interface use store object use Amazon online storage infrastructure Users download data use data AWS service Amazon Elastic Cloud Computer EC2 Using web service developer build application make use Internet storage API use Buckets Objects Keys Operations An object four part value key metadata access control policy Objects store bucket API available REST SOAP protocol Responses format XML"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "DigitalBucket",
+        "id": 741,
+        "progweb_descr": " From site DigitalBucketnet provide web interface use store retrieve data time anywhere web"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "Pure Storage FlashArray",
+        "id": 4839,
+        "progweb_descr": " Pure Storage FlashArray API allow developer interact FlashArray data storage device programmatically Pure Storage company provide flash storage OpenStack cloud form FlashArraym device These use 80 less power diskbased storage offer 120TB usable 3U"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "HPE Haven OnDemand Store Object",
+        "id": 7314,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Store Object API take file URL reference store file reference APIs receive use Referencing helpful workaround replace send entire document multiple time"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "Fluxiom",
+        "id": 14595,
+        "progweb_descr": " Fluxiom online file storage management system allow multiple user access document promote collaborative environment With Fluxiom API user integrate Fluxiom exist application create new application around Fluxiom service Users access data use API"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "WebServius Short-Term Storage",
+        "id": 14644,
+        "progweb_descr": " shortterm storage API allow user easily store file publiclyaccessible yet secret URL Web short period time Amazon S3 use underlying storage engine API use HTTP Post protocol response URL format"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "iFile.it",
+        "id": 14817,
+        "progweb_descr": " iFileit service simple online storage solution site provide several upload option respond new uploads short link secret deletion link iFileit API provide access major functionality iFileit service Applications use iFileit API upload file edit description get information file folder user account"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "Razuna",
+        "id": 14908,
+        "progweb_descr": " Razuna API let developer integrate Razuna custom solution Razuna open source digital asset management system API use REST SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "Mezeo Cloud Storage Platform",
+        "id": 15135,
+        "progweb_descr": " Mezeoï¿½s Cloud Storage Platform expose storage RESTful API allow developer store organize share publish content well support rich metadata Mezeo Cloud Storage Platform software platform deployment cloud storage platform include Web service APIs storage agnostic API use RESTful architecture response format XML JSON"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "Baconfile",
+        "id": 15363,
+        "progweb_descr": " Baconfile simple web interface Amazon S3 service With Baconfile user upload file organize folder add description share link add comment"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "Mezeo",
+        "id": 15388,
+        "progweb_descr": " Mezeo provide software platform deployment white label cloud storage service let service provider quickly enter cloud storage market Cloud Storage Platform API provide programmatic access cloud storage service host Mezeo partner"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "Estate++",
+        "id": 15395,
+        "progweb_descr": " Estate subscriptionbased virtual safe deposit box service provide reliable access information planning emergency purpose Whether via natural disaster theft even death incapacity userss data always available free public API allow developer upload file directly subscriber ’ account SDK include C Java example"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "TinyLoad",
+        "id": 15584,
+        "progweb_descr": " Tinyload API allow developer utilize file distribution platform Developers queue concurrent uploads sit like MegaUpload MediaFire DivShare RapidShare Amazon S3 Service implement remote application"
+    },
+    {
+        "progweb_cat": "Storage",
+        "api_name": "SimpleDB",
+        "id": 15739,
+        "progweb_descr": " Use Simple DB AppEngine API store data mashup example Javascript application You send GET POST request store read data Your data store least three month No sign need get API key part GET POST request"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "SugarSync",
+        "id": 578,
+        "progweb_descr": " SugarSync API let developer integrate SugarSync desktop Web apps build apps extend SugarSync functionality simply leverage SugarSync cloud SugarSync ondemand web service securely back computer online synchronizes automatically It allow access late version user file anywhere web different computer even mobile phone SugarSync Platform API RESTful web service allow user create application create read modify file store thier SugarSync account Using HTTP request application choose file sync userï¿½s PC retrieve fileï¿½s content make change store result back SugarSync modify file automatically sync back userï¿½s system Responses format XML"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "CloudApp",
+        "id": 1294,
+        "progweb_descr": " CloudApp simple cloudbased filesharing utility It allow share image link music video file straight desktop Mac Once file upload desktop client copy short URL share file friends follower straight clipboard"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "OpenStack Freezer",
+        "id": 3244,
+        "progweb_descr": " OpenStack Freezer API operate system backup solution RESTful API use restore system apply disaster recovery procedure OpenStack API ’ provider manages bulk volume storage networking resource"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "ProfitBricks SOAP",
+        "id": 5572,
+        "progweb_descr": " ProfitBricks SOAP API create duplicate option available provider visual Data Center Designer DCD tool This API support create define configuration virtual data center control activity server establish ProfitBricks SOAP API also support manage data storage space load balance function firewall restriction domain name mapping Requests must conform XML schema response SOAP Authentication TLS use basic authentication service provide hosting storage resource via ththe infrastructure service IaaS model It allow user create configure virtual data center include visual designer tool simplify automate process Functions include data storage backup well cloudbased application hosting"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "Orange Cloud France",
+        "id": 5956,
+        "progweb_descr": " Orange Cloud France API allow developer application service access personal cloud Orange customer France Open ID Connect provide secure identification authorization Orange Cloud France provide 100GB storage access computer TV smartphone tablet available million user France Orange country come soon"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "ElephantDrive",
+        "id": 9544,
+        "progweb_descr": " ElephantDrive cloudbased file backup share service Users retrieve file browser PC mobile device without need download ElephantDrive software Individual file share use custom link Entire folder make accessible use secure permission ElephantDrive XMLbased SOAP API allow integrate system"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "ProfitBricks REST",
+        "id": 10932,
+        "progweb_descr": " ProfitBricks REST API create duplicate option available provider visual Data Center Designer DCD tool This API support create define configuration virtual data center control activity server establish ProfitBricks REST API also support manage data storage space load balance function firewall restriction domain name mapping service provide hosting storage resource via infrastructure service IaaS model It allow user create configure virtual data center include visual designer tool simplify automate process Functions include data storage backup well cloudbased application hosting"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "Hive",
+        "id": 11501,
+        "progweb_descr": " service provide distribute file storage use HTTP request upload download file store network Applications store retrieve file delete previously store one online storage service function external backup filesharing platform exchange different system API method support PUT request upload file storage GET request download previously store file DELETE request remove application collection Methods also generate listing currently store file update change filename permission setting make file available public access"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "Carbonite Blog Importer",
+        "id": 12785,
+        "progweb_descr": " Carbonite online backup service allow user make secure automatic backup hard drive Users restore lost file access backups computer internet enable device Carbonite Blog Importer allow user import blog perform basic management Methods include add post comment retrieve file handle file image It use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "SpiderOak DIY",
+        "id": 13583,
+        "progweb_descr": " service provide generalpurpose online file storage retrieval intend primarily longterm archival purpose It handle routine backup file sync function emphasis reliable transfer large file environment tolerant latency completion request It adapt ReedSolomon algorithm minimize overhead store data across server process time require may slow system response API method support upload download data along file management function like list delete file store Methods also handle metadata management monitoring system performance"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "Duracloud",
+        "id": 13789,
+        "progweb_descr": " Hosted service cloud storage digital asset content duplicate among storage location security support view stream ongoing asset management content transformartion Integrated DSpace Fedora platform provide asset preservation digital repository API expose functionality service allow developer integrate application Functionality include managing storage service create run report store API us RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "DataLock Online Backup",
+        "id": 14035,
+        "progweb_descr": " DataLock Online Backup API allow user create edit delete backup account real time It also allow creation modification backup set full statistical call This API along automate service DataLock allow largescale deployment backup solution multiple machine To date service use deploy backup 700 machine completely configure work less 1 minute Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Storage,Backup",
+        "api_name": "CrashPlan PRO",
+        "id": 14959,
+        "progweb_descr": " CrashPlan PRO way business easily backup store data site offer software instal computer back developer API business integrate application CrashPlan API RESTful API data format XML JSON default"
+    },
+    {
+        "progweb_cat": "Storage,Platform-as-a-Service",
+        "api_name": "Google Storage",
+        "id": 799,
+        "progweb_descr": " Google Storage Developers RESTful web service API store access data Googles infrastructure service combine performance scalability Googles cloud advance security share capability With API data replicate multiple US data center offer readyourwrites data consistency allow object hundred gigabyte size per request rangeget support"
+    },
+    {
+        "progweb_cat": "Storage,Security",
+        "api_name": "EVS iDrive",
+        "id": 862,
+        "progweb_descr": " IDrive Encrypted Versioned file System EVS service primarily use individual user small business provide secure encrypt versioned cloud base backup IDrive API allow user customize develop store access data storage Methods expose functionality download version file configure validate account search retrieve property file folder API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Storage,Security",
+        "api_name": "W3C Quota Management",
+        "id": 5589,
+        "progweb_descr": " W3C Quota Management allow management usage availability local storage resource defines mean user agent UA may grant Web application permission use local space temporarily persistently via various different storage APIs"
+    },
+    {
+        "progweb_cat": "Storage,Security",
+        "api_name": "SolidFire",
+        "id": 9694,
+        "progweb_descr": " SolidFire cloud storage architecture design deliver guarantee quality service allow service provider host performancesensitive application safely cloud It integrate new primary storage seamlessly current cloud management orchestration layer create efficiency improve scale SolidFires RESTbased API enables cloud provider automate every aspect storage management include deployment troubleshoot security report billing performance management"
+    },
+    {
+        "progweb_cat": "Storage,Security",
+        "api_name": "OpenKeyval",
+        "id": 12772,
+        "progweb_descr": " service provide open storehouse keyvalue data intend maintain persistent data use web application Storage accommodates casesensitive 5128 character key make alphanumeric character dash underscore API method support creation record store key value link submit string Methods also support retrieval key use application upon submission arbitrary string key value update service local application submission associate persist string retrieve new value"
+    },
+    {
+        "progweb_cat": "Storage,Upload",
+        "api_name": "FilePicker",
+        "id": 998,
+        "progweb_descr": " Filepickerio tool allow user access upload content cloud local machine well online Developers use API integrate access cloud servcies within application Javascript API give developer ability customize user experience choose save file Pick file functionality allow user make upload form handle local uploads well uploads service Dropbox Facebook device webcams Save file functionality allow user save content directly Dropbox Google drive Evernote even email attachment rather download local device API use JavaScript protocol A RESTful interface available work Filepickerio URLs"
+    },
+    {
+        "progweb_cat": "Storage,Upload",
+        "api_name": "UploadHero",
+        "id": 8799,
+        "progweb_descr": " UploadHero online file manager storage service UploadHero expose file management capability API API allow 3rd party application upload delete rename file access file account detail API accept HTTP GETPOST call support method guest register user"
+    },
+    {
+        "progweb_cat": "Storage,Upload",
+        "api_name": "Plupload",
+        "id": 10452,
+        "progweb_descr": " Plupload online service allow user upload file batch file use Flash HTML5 Silverlight technology Plupload API allow developer access integrate functionality Plupload applications Some example API method include uploading file manage file create managing batch"
+    },
+    {
+        "progweb_cat": "Storage,Hosting",
+        "api_name": "Nephoscale",
+        "id": 1015,
+        "progweb_descr": " service provide remote cloudbased application host data storage Windows Linux server It include full control provision remove function within customer host infrastructure well manage currently active function Examples include define storage structure within purchase storage space installation application utility configuration security access restriction API method support use product service offer platform include server definition configuration container object within storage space proprietary CloudScript language manage infrastructure service IAAS resource"
+    },
+    {
+        "progweb_cat": "Storage,Hosting",
+        "api_name": "Fast2Host",
+        "id": 10315,
+        "progweb_descr": " service locate UK provide host website support resource customer worldwide Web resource host dedicated server data center internetbased access remote location Users service control resource provide account via online control panel function either service interface via API API method support management user account manage host space assign account upgradingdowngrading service package User account method allow creation new user update exist account data assign permission host resource inactivate user Methods manage host space upgradingdowngrading work service package define service"
+    },
+    {
+        "progweb_cat": "Storage,Hosting",
+        "api_name": "Shanje Control Service",
+        "id": 10534,
+        "progweb_descr": " service provide web host storage site owner resellers host service implement via provider hardware platform It give access control panel configuration function use SOAP protocol implement feature like customer signup form establish user account provision resource platform Other function include create configure resource support new website establish file storage structure provide content API method support create new customer account establish reseller account include new email address login credential Methods also support list selection host plan configuration accord plan provision establish storage access permission customer selfmanagement contract hosting resource"
+    },
+    {
+        "progweb_cat": "Storage,Hosting",
+        "api_name": "GreenQloud",
+        "id": 10839,
+        "progweb_descr": " service provide cloud storage host capability ease scale configuration maximize environmentally friendly operation Security protection include SSH key encryption hardwarelevel separation network resource Performance dashboard provide indicator operation inform configuration decision scale energy use parameter API method support management system resource way compatible Amazon Web Service AWS protocols familiar control interoperation thirdparty solution Performance report method support agile configuration accord current operating condition"
+    },
+    {
+        "progweb_cat": "Storage,Hosting",
+        "api_name": "Cloudcommons Insight",
+        "id": 11254,
+        "progweb_descr": " service provide information resource support selection among adoption cloud storage application host platform It maintain list vendor service offering group weight accord system category service rating SMI score Information provide aid comparison among provider product package API method support access listing service vendor offer Methods also support access category taxonomy include weighting apply individual listing along calculated natural weight SMI score rating service listing"
+    },
+    {
+        "progweb_cat": "Storage,Hosting",
+        "api_name": "PowerFolder",
+        "id": 11451,
+        "progweb_descr": " service provide online storage management via either installed software host software service SaaS platform Both instal cloud offering provide traditional file data storage function folder management user account permission management document placement versioning backup deletion API method provide basic createreadupdatedelete CRUD control data object folder document file store system Methods also support manage user account permission level store data object add user access list folder remove Companion APIs allow distribute author via WebDAV content licensing"
+    },
+    {
+        "progweb_cat": "Storage,Hosting",
+        "api_name": "FileStorm",
+        "id": 11960,
+        "progweb_descr": " Filestormcom offer free premium file host service Using FileStorm API require user API key This obtain create account API allow user retrieve file information upload file To access information site basic API info account must create"
+    },
+    {
+        "progweb_cat": "Storage,Media",
+        "api_name": "FilesAnywhere",
+        "id": 1194,
+        "progweb_descr": " Use FilesAnywhere SOAP API FAWAPI get access FilesAnywhere account You follow account login basic file uploads download stream uploads AppendChunk method view folder content create new folder rename delete filesfolders copy move filesfolders view advanced folder property create new share manage exist one request page image support file type"
+    },
+    {
+        "progweb_cat": "Storage,Media",
+        "api_name": "Nirvanix",
+        "id": 15572,
+        "progweb_descr": " From site Nirvanix premier Cloud Storage platform provider Nirvanix privately hold company headquarter San Diego CA back worldclass investor include Intel Capital Nirvanix build global cluster storage node collectively refer Storage Delivery Network SDN power Nirvanix Internet Media File System IMFS SDN intelligently store delivers process storage request best network location"
+    },
+    {
+        "progweb_cat": "Storage,Data-as-a-Service",
+        "api_name": "jsonbin",
+        "id": 1782,
+        "progweb_descr": " jsonbin API storeasaservice solution JSONformatted data Users must API key requisite authentication credential access JSONstored data It also provide flexibility create public permission share access user ’ store API still beta release"
+    },
+    {
+        "progweb_cat": "Storage,Open Source",
+        "api_name": "Kinetic",
+        "id": 1956,
+        "progweb_descr": " Kinetic API allow developer access administrative interface order set Kinetic drive It also provide access client application interface allow direct communication Kinetic service synchronous asynchronous operation client interface provide access get put delete storage method well less traditional objectbased storage method"
+    },
+    {
+        "progweb_cat": "Storage,Data",
+        "api_name": "W3C Web Storage",
+        "id": 2803,
+        "progweb_descr": " W3C Web Storage API specification defines API handle persistent storage keyvalue pair data web client It introduce two mechanism store clientside namevalue pair These mechanism similar HTTP session cooky This stable document may reference cite without fear sudden change revision"
+    },
+    {
+        "progweb_cat": "Storage,Data",
+        "api_name": "AtoM",
+        "id": 4255,
+        "progweb_descr": " AtoM API allow developer access part AtoM dataset AtoM Access Memory webbased open source tool archival description access It design work multilingual multirepository environment AtoM offer template conform wide variety national international standard"
+    },
+    {
+        "progweb_cat": "Storage,Data",
+        "api_name": "Kvstore",
+        "id": 5398,
+        "progweb_descr": " KVStore API Kvstoreio simple keyvalue API base storage service Once sign user assign storage space write read KeyValue pair key value string user decodeencode right format eg json A set keysvalues Collection user manage multiple collection"
+    },
+    {
+        "progweb_cat": "Storage,Data",
+        "api_name": "Spectra Logic DS3",
+        "id": 5547,
+        "progweb_descr": " Spectra Logics DS3 API leverage Amazon S3 operation along additional operation facilitate transport data object tape archival storage REST API accept standard HTTP POSTGET request program language use Amazon S3 Signature Version 2 header pass authentication information HTTPbased interface allows software client manage read write operation bulk data deep storage See detailed API documentation information"
+    },
+    {
+        "progweb_cat": "Storage,Data",
+        "api_name": "GitHub Repository Commits",
+        "id": 5878,
+        "progweb_descr": " GitHub Repository Commits API allow developer list view compare commits repository GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Storage,Data",
+        "api_name": "DOCOMO Data Storage",
+        "id": 6359,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development Data Storage BOX API use obtain file folder store user DOCOMO Data Storage Box API also use upload content location obtain file name delete manage file filter search content download file Data Storage BOX API implement via REST protocol APIs correspond Android iOS SDKs DOCOMO also offer API console easily demo many APIs"
+    },
+    {
+        "progweb_cat": "Storage,Data",
+        "api_name": "Amazon Glacier",
+        "id": 11218,
+        "progweb_descr": " Amazon Glacier cloud base storage service optimize data archive backup service mean data infrequently access retrieval time several hour suitable Amazon Glacier functionality available via API With API user create vault organize archive upload Glacier upload retrieve archive monitor status Amazon Glacier job configure vault send notification via Amazon Simple Notification Service Amazon SNS job complete API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Storage,Auto",
+        "api_name": "TomTom NDS Map Updates",
+        "id": 2845,
+        "progweb_descr": " Navigation Data Standard NDS global map standard provide physical storage format create navigation map This standard widely apply automotive navigation system TomTom NDS Map Updates API allow developer incorporate NDS navigation map apps Its deployment require NDS baseline map Developers must contact API provider able access download link documentation NDS map update package"
+    },
+    {
+        "progweb_cat": "Storage,Advertising",
+        "api_name": "Verizon Personal Cloud Storage",
+        "id": 3142,
+        "progweb_descr": " Verizon Cloud allow user access manage content device even onthego If developer use Verizon Personal Cloud Storage APIs create apps let user access content store Verizon Cloud account app Tens million Verizon subscriber back Verizon Cloud use 3rd party application access store share content"
+    },
+    {
+        "progweb_cat": "Storage,Hardware",
+        "api_name": "WICG WebUSB",
+        "id": 3763,
+        "progweb_descr": " Expose USB device service via web This API interfaces specification hardware It allow permit integration securely provide access USB device web page"
+    },
+    {
+        "progweb_cat": "Storage,Enterprise",
+        "api_name": "CloudByte ElastiStor REST",
+        "id": 5058,
+        "progweb_descr": " CloudByte ElastiStor REST API allow developer integrate administrative control CloudByte ElastiStors application storage service thirdparty application CloudByte ElastiStor virtualizes resource storage system eliminate need stack physical storage box application manage silo Users move storage performance around application need"
+    },
+    {
+        "progweb_cat": "Storage,Enterprise",
+        "api_name": "Treasure Data",
+        "id": 10422,
+        "progweb_descr": " Treasure Data provide datadriven company cloud data warehouse service enable get big data analytics run matter day without specialist IT resource Data import directly exist infrastructure regardless cod language SSL encryption ensure security data transfer cloud Treasure Data provide RESTful API enable user POST data GET data company cloud data warehouse"
+    },
+    {
+        "progweb_cat": "Storage,Search",
+        "api_name": "Yandex Disk",
+        "id": 5659,
+        "progweb_descr": " Yandex Disk API allow developer store file remote Yandex server integrate application API This API REST base use HTTP request manage data YandexDisk Yandex internet company Europe"
+    },
+    {
+        "progweb_cat": "Storage,Audio",
+        "api_name": "ShepHertz App42 Cloud File Storage",
+        "id": 5690,
+        "progweb_descr": " ShepHertz App42 Cloud File Storage API allow developer upload file App42 Cloud single API call file upload support format include AudioVideoText No infrastructure server setup require ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Storage,File Sharing",
+        "api_name": "ExaVault",
+        "id": 6572,
+        "progweb_descr": " ExaVault secure business file transfer service This API allow integrate ExaVaults service directly application It provide access quickly store transfer file automate file operation manage user"
+    },
+    {
+        "progweb_cat": "Storage,File Sharing",
+        "api_name": "PirateUpload",
+        "id": 11418,
+        "progweb_descr": " PirateUpload file host service allow user upload download file PirateUpload community PirateUpload API enable user get file information upload file An API key require use API"
+    },
+    {
+        "progweb_cat": "Storage,File Sharing",
+        "api_name": "RestBackup",
+        "id": 13581,
+        "progweb_descr": " service enable automatic backup restore function within application system It manage storage Amazon WS cloud allow user upload data safe backup retrieve restore lose data Users implement service handle file build automatic backup service resell backup management via site API method support create manage customer backup account upload download back data file management function like list remove file"
+    },
+    {
+        "progweb_cat": "Storage,Accounts",
+        "api_name": "OpenDrive WebDAV",
+        "id": 7044,
+        "progweb_descr": " OpenDrive platform offer file storage syncing backup team collaboration service Developers connect cloud storage service OpenDrives web server access file perform account management permission user login site OpenDrive WebDAV APIs basic tier allow access mange single account whereas manager partner tier grant new account creation privilege along additional functionality API us basic HTTP login authentication use create update user set permission receive user data delete user receive file information create move copy rename individual file"
+    },
+    {
+        "progweb_cat": "Storage,API",
+        "api_name": "Bitcasa CloudFS",
+        "id": 7128,
+        "progweb_descr": " CloudFS cloud storage service provide Bitcasa It come file system service clientside encryption medium transcoding service well plugandplay APIs design simplify app development These APIs enable developer create manage user create file system user enable user manage data"
+    },
+    {
+        "progweb_cat": "Storage,Backend",
+        "api_name": "Myjson",
+        "id": 7607,
+        "progweb_descr": " Myjson provide place user store JSON data use web mobile application Users copypaste data input window website receive URI use access data Myjson API allow user create update retrieve JSON data Myjson URIs support CORS help user avoid crossdomain issue access data"
+    },
+    {
+        "progweb_cat": "Storage,Documents",
+        "api_name": "SurDoc",
+        "id": 8681,
+        "progweb_descr": " SurDoc provide cloudbased storage service allow user view edit send share even sign file anywhere internet connection kind device A SurDoc account also use continuously automatically back unlimited number computer SurDoc work maintain confidentiality user data store document encrypt form one SurDoc anywhere else access user private document Developers integrate SurDocs function access store file via REST call"
+    },
+    {
+        "progweb_cat": "Storage,Documents",
+        "api_name": "DocLanding",
+        "id": 11859,
+        "progweb_descr": " Doclanding API allow user integrate program Doclanding service Using SOAP API user store retrieve file Doclanding organize file cabinet create update data search file A developer key require use API"
+    },
+    {
+        "progweb_cat": "Storage,Reference",
+        "api_name": "Read The Docs",
+        "id": 10064,
+        "progweb_descr": " Read Docs host documentation make searchable easy access Read Docs API allow user get data site This data include bookmarks build core item project resource API write TastyPie return JSON"
+    },
+    {
+        "progweb_cat": "Storage,Database",
+        "api_name": "Iron.io IronCache",
+        "id": 10216,
+        "progweb_descr": " IronCache elastic cache keyvalue data storage system It design share state pass data coordinate activity process device IronCache provide persistent back longterm storage along flexible TTL TimetoLive meaning item set expire specific time persist permanently cache IronCache offer HTTP REST interface user connect IronCache endpoint store retrieve data item This interface use secure authentication protocol provide simple method include IronCaches function within web app IronCache work seamlessly IronWorker IronMQ use authentication protocol dashboard backplane"
+    },
+    {
+        "progweb_cat": "Storage,Video",
+        "api_name": "Infradox",
+        "id": 10273,
+        "progweb_descr": " Infradox high volume photo video archive service provide secure storage delivery end user Infradox offer Partner API Backoffice API Partner API allow user parters set live connection store medium user file Backoffice API allow user retrieve data user live database Users also retrieve data user order supplier gallery live content delete content information"
+    },
+    {
+        "progweb_cat": "Storage,Streaming",
+        "api_name": "Furk.net",
+        "id": 10570,
+        "progweb_descr": " Furknet cloud file storage service fetch medium file allow user stream immediately Furknet API provide developer access file download feed label profile"
+    },
+    {
+        "progweb_cat": "Storage,Marketing",
+        "api_name": "DocuVantage",
+        "id": 10963,
+        "progweb_descr": " DocuVantage document management service They provide OnDemand platform assist business engage web marketing organization distribution content tool include platform range cloud storage space workflow management document digitization This allow user access manage share file centralize online location regulate preset workflow principle DocuVantage API expose integration functionality allow developer attach OnDemand platform middleware 3rd party type software"
+    },
+    {
+        "progweb_cat": "Storage,Business",
+        "api_name": "Storm On Demand",
+        "id": 11936,
+        "progweb_descr": " Storm Demand allow user ability store information online company solid state server host cloud manageable server emphasis scalability speed API allow access everything controllable within cloud host interface Creating clone resize server modify cloud attach firewall rule option restore server backup well create private network API currently support JSON YAML XML experimentally parameter encoding"
+    },
+    {
+        "progweb_cat": "Storage,Customer Service",
+        "api_name": "RightNow Connect",
+        "id": 13450,
+        "progweb_descr": " Service Oriented Architecture integrate RightNow CX customer service cloud storage platform system attempt unify disparate recordkeeping system allow share information exchange across channel interaction API support access function customer service agent desktop report dashboard service also provide customer account analytics report track service provide customer portal function"
+    },
+    {
+        "progweb_cat": "Storage,Photos",
+        "api_name": "Minus",
+        "id": 14963,
+        "progweb_descr": " Minus API allow user create gallery upload image programmatically Minus draganddrop share platform Users drag picture document music video file onto homepage start share Using API developer read edit create delete user folder file It use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Storage,Payments",
+        "api_name": "PayLoadz",
+        "id": 15640,
+        "progweb_descr": " From site API allow developer create downloadable good upload file system create download transaction present end user download link API also provide support call function like transaction status product purchase button HTML generation PayLoadz offer secure Digital Goods eCommerce service anyone sell downloadable good online We provide service sell downloadable item software eBooks music movie digital art manual article certificate form file anything else download Our automated service delivers product customer instantly payment Our system operate use PayPals online payment system Google Checkout"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Meetings,Data",
+        "api_name": "Zoho Meeting",
+        "id": 2160,
+        "progweb_descr": " Zoho Meeting API developer solution private meeting public meeting solution private meeting portal require access permission public meeting domain readily accessible user API allow developer use HTTP method integrate different functionality create delete manage meeting provide well access meet detail participant status"
+    },
+    {
+        "progweb_cat": "Meetings,Booking",
+        "api_name": "Robin",
+        "id": 2682,
+        "progweb_descr": " Robin API integrate meet book feature It available HTTP request obtain JSON response use token authentication method Robin meeting conference room booking service"
+    },
+    {
+        "progweb_cat": "Meetings,WebRTC",
+        "api_name": "Drum ShareAnywhere",
+        "id": 4217,
+        "progweb_descr": " Drum ShareAnywhere API provide developer way embed web meeting solution directly application API utilize HTML5 CSS3 WebRTC Drums ShareAnywhere service WebRTC solution"
+    },
+    {
+        "progweb_cat": "Meetings,Cloud",
+        "api_name": "Banckle Meeting",
+        "id": 6072,
+        "progweb_descr": " Banckle cloud base software company offer business online customer support service Banckle Meeting one application available Banckle enabling business connect customer set meeting room cloud Banckle Meeting API let developer personalize customer ’ experience integrating application enable interact customer directly application API allow feature webinars audio video conference"
+    },
+    {
+        "progweb_cat": "Meetings,Audio",
+        "api_name": "Acano Solution",
+        "id": 6689,
+        "progweb_descr": " Acano software company provide user ability virtual meeting meeting space call coSpaces Acano Solution API allow developer integrate application These coSpaces deliver various form eg chatrooms voice chat access wide range electronic device eg iPad tablet computer"
+    },
+    {
+        "progweb_cat": "Meetings,Collaboration",
+        "api_name": "TeamViewer",
+        "id": 8427,
+        "progweb_descr": " TeamViewer desktop share online collaboration service TeamViewer provide various feature team share view desktop collaborate online remotely TeamViewer provide webbased API allow user access data control various aspect TeamViewer account Developers use API develop apps integrate TeamViewer functionality application environment create new application"
+    }
+]

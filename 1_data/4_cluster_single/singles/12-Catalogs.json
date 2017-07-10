@@ -1,0 +1,74 @@
+[
+    {
+        "progweb_cat": "Catalogs,Lists",
+        "api_name": "TM Forum Resource Catalog Management",
+        "id": 2326,
+        "progweb_descr": " TM Forum Resource Catalog Management API allow user organize different element catalogue API ’ applicability span entire lifecycle catalogue order product manage campaign sale well transactional organizational activity RESTful API still beta release It send request URI QueryCRUD format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Catalogs,Enterprise",
+        "api_name": "TM Forum Service Catalog",
+        "id": 2631,
+        "progweb_descr": " TM Forum Service Catalog API allow user manage whole lifecycle different element associate service catalog It support consultation catalog element order sale campaign management process RESTful API send request URI Query StringCRUD format return responses JSON format It currently beta release"
+    },
+    {
+        "progweb_cat": "Catalogs,Products",
+        "api_name": "TM Forum Product Catalog Management",
+        "id": 4065,
+        "progweb_descr": " TM Forum Product Catalog Management API allow developer quickly add partner product exist catalog TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Catalogs,Availability",
+        "api_name": "The Home Depot Catalog",
+        "id": 4952,
+        "progweb_descr": " Home Depot Catalog REST protocol access API Key token It offer information associate catalog item When user search specific article result display store location show product availability"
+    },
+    {
+        "progweb_cat": "Catalogs,Cloud",
+        "api_name": "ShepHertz App42 Cloud Catalogue",
+        "id": 5701,
+        "progweb_descr": " ShepHertz App42 Cloud Catalogue API allow developer create full fledge item inventory without backend setup manage catalogue item ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Catalogs,Data",
+        "api_name": "GitHub Issue Labels",
+        "id": 5881,
+        "progweb_descr": " GitHub Issue Labels API allow developer integrate GitHub label service application enable function ie list label repository creatingupdatingdeleting single label listingaddingremovingreplacing label issue This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Catalogs,Data",
+        "api_name": "World Bank Data Catalog",
+        "id": 6842,
+        "progweb_descr": " World Bank offer Data Catalog API help developer access specific list data related economy coverage topic periodicity main value developer could integration pertinent information web application Data Catalog API access list data In site developer access basic REST request support XML JSON format Some parameter include source metatype search Users find samples support"
+    },
+    {
+        "progweb_cat": "Catalogs,Collecting",
+        "api_name": "LibraryCloud",
+        "id": 8821,
+        "progweb_descr": " LibraryCloud metadata server pull metadata multiple library nationwide expose metadata APIs Linked Open Data LibraryCloud API provide RESTful interface plug power LibraryCloud explore data API currently provide access metadata describe catalog item Future support expect metadata describe event rating review collection"
+    },
+    {
+        "progweb_cat": "Catalogs,Organization",
+        "api_name": "eHive",
+        "id": 9070,
+        "progweb_descr": " eHive online collection management system use museum gallery collect organization manage collection service allow user create record search tag content publish record share online eHive API allow user share information websites application device API RESTful use OAuth 20 authentication return responses JSON object"
+    },
+    {
+        "progweb_cat": "Catalogs,Content",
+        "api_name": "Nymbol",
+        "id": 9231,
+        "progweb_descr": " Nymbol content management system mobile apps connects digital content physical object place Nymbol let add â€œobjectsâ€ collection add text upload photo videos include link embeddable resource site like YouTube Flickr Nymbol RESTful API provide programmatic access Nymbols service Access data handle usergenerated content like photo rating comment Responses format JSON XML API key require"
+    },
+    {
+        "progweb_cat": "Catalogs,eCommerce",
+        "api_name": "Essent CompassConnector",
+        "id": 10493,
+        "progweb_descr": " service provide host catalog functionality transaction process turnkey ecommerce site Integration possibility include interaction thirdparty system business intelligence analytics service content websites It allow creation management product record web display addtocart checkout function complete sale process fulfillment order perform accounting function related activity API method support interaction business object manage system Methods handle creation update deletion catalog entry relate function manage online storefront Methods also support transaction process well report sale interaction storefront business analytics intelligence review"
+    },
+    {
+        "progweb_cat": "Catalogs,Library",
+        "api_name": "Innovative Interfaces: Sierra",
+        "id": 11771,
+        "progweb_descr": " Sierra API v20 allow developer create system library patron manage update account hold request v10 API allow patron view account information Sierra integrate library system provide Innovative Interfaces combine comprehensive library system functionality scale power modern software architecture product build companys commitment open development plan allow developer take advantage realtime statistical data query create custom view underlie data"
+    }
+]

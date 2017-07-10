@@ -1,0 +1,1310 @@
+[
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "Tinysong",
+        "id": 77,
+        "progweb_descr": " Tinysong music share service allow user type name song receive listing song find stream internet URLs leading song store shortened format precede tinysongcom Tinysong API allow developer access search metadata feature service Tinysong simple RESTful API make available search Tinysong URL generation Tinysong way get link song world Share link friend via Twitter Facebook Tumblr email StumbleUpon three method include return single Tinysong link return additional metainformation Tinysong link generate multiple result return format two method Responses url JSON"
+    },
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "7digital",
+        "id": 81,
+        "progweb_descr": " Open platform provide access extensive music catalogue ten million track fully license major label indie 7digital API enable partner create standalone consumer offering compliment exist business music download radio ondemand stream even experiment brand new type music service"
+    },
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "Playme",
+        "id": 584,
+        "progweb_descr": " Playme API help developer plug nearly 6 million song catalog create new innovative web mobile desktop widget application allow music fan even music love album artists playlists radio stream download different integration level non commercial affiliate program partnership Depending territory"
+    },
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "humm",
+        "id": 3613,
+        "progweb_descr": " humm London base music video stream platform focus personalization This service access ten million track advertisementfree dedicate LATAM market humm API include access resource song videos playlist artist albums This REST API use JSON data exchange OAuth 2 authentication"
+    },
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "Tunein Air",
+        "id": 6575,
+        "progweb_descr": " TuneIn AIR TuneIn ’ broadcaster API It offer several method allow broadcaster publisher send radio directory content TuneIn real time When AIR API implement listener able Discover station search artist browse station playlist history TuneIn mobile TuneIncom"
+    },
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "iJukebox",
+        "id": 8494,
+        "progweb_descr": " iJukebox interactive music stream service iJukebox allow venue customer legally stream music customer allow customer interact music application iJukebox API allow developer access integrate functionality iJukebox application Public documentation available interested developer email infomyiJukeboxcom information"
+    },
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "Feed.fm",
+        "id": 8980,
+        "progweb_descr": " Feedfm musicasaservice provider Feedfm offer solution license music stream play application Feedfm radio Feedfm API allow developer access integrate functionality Feedfm application create new application Some example API method include retrieve song play pause skip stopping song"
+    },
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "inLight Radio",
+        "id": 9317,
+        "progweb_descr": " inLight Radio free online radio player stream music 22000 internet radio station add continuously user When available inLight Radio player display current song lyric album art Users rightclick album art purchase track album Amazon record one track listen Developers access inLight Radios station use internet radio apps contact inLight Radio API detail"
+    },
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "Dubset MixSCAN",
+        "id": 12404,
+        "progweb_descr": " MixSCAN music fingerprint service provide Thefuturefm It allow DJs stream live mix legally identify song attribute correct authorship right API RESTful jobbased mean provide small packet metadata scan mix stay open ping mix play It provide response JSON"
+    },
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "Ubuntu One Music",
+        "id": 12780,
+        "progweb_descr": " Ubuntu One Music API allow user stream music platform capable playing music Users able search music collection use variety parameter well create edit delete play playlist Ubuntu One Music API operate REST call XML format"
+    },
+    {
+        "progweb_cat": "Music,Streaming",
+        "api_name": "Magnatune",
+        "id": 13501,
+        "progweb_descr": " Magnatune online music subscription stream service Users pay 15 month unlimited MP3 downloads unlimited stream Musicians also work directly Magnatune get music include Magnatune API allow developer access integrate functionality data Magnatune application sit Some example API method include list album song detail update new release play song"
+    },
+    {
+        "progweb_cat": "Music,Events",
+        "api_name": "Songkick",
+        "id": 78,
+        "progweb_descr": " From site At Songkick weve spent lot time collect data live music want see Were currently put together API allow access much data available website This much work progress make available preview participant Music Hack Day take place weekend July 11th 12th 2009"
+    },
+    {
+        "progweb_cat": "Music,Events",
+        "api_name": "JamBase",
+        "id": 1136,
+        "progweb_descr": " From site Established 1998 JamBase premiere location live music concert information web JamBasecom contain comprehensive tour date search engine ten thousand performance 50000 venue 50000 artist 70000 performance"
+    },
+    {
+        "progweb_cat": "Music,Events",
+        "api_name": "Blitzr",
+        "id": 4148,
+        "progweb_descr": " Blitzr API allow developer access music recommendation information external source programmatically Blitzr music discovery platform help user find new music information music place listen music include ticket platform physical item merchandise platform Blitzrs database contain artist label albums track release"
+    },
+    {
+        "progweb_cat": "Music,Events",
+        "api_name": "Fusicology",
+        "id": 14016,
+        "progweb_descr": " Fusicology website dedicate promotion documentation Soul music movement well hub progressive event site provide information music event fashion nightlife Fusicology API private beta public documentation available"
+    },
+    {
+        "progweb_cat": "Music,Events",
+        "api_name": "Lollapalooza",
+        "id": 14220,
+        "progweb_descr": " Lollapalooza annual music festival popular act perform several day DoStuffMedia work Lollapalooza provide much technology event use help attendee create custom schedule provide tool artist discovery Now DoStuffMedia also provide Lollapalooza API developers access much festival data programmatically Through Lollapalooza API developer access venue band individual event show well festival update Developers could create mobile application API help attendees get information need need"
+    },
+    {
+        "progweb_cat": "Music,Events",
+        "api_name": "Gigulate",
+        "id": 15332,
+        "progweb_descr": " Gigulate provide information music news blog upcoming gig Gigulate also chart artist popularity across web Using API Gigulates listing available build next app"
+    },
+    {
+        "progweb_cat": "Music,Events",
+        "api_name": "SonicLiving Concerts",
+        "id": 15782,
+        "progweb_descr": " SonicLiving Beta API return date upcoming performance artist SonicLivng API require API key available commercial noncommercial use SonicLiving API return event one many artist single query"
+    },
+    {
+        "progweb_cat": "Music,eCommerce",
+        "api_name": "Bandsintown",
+        "id": 79,
+        "progweb_descr": " Bandsintown allow user view local concert give live music recommendation Bandsintown concert API allow website mobile application display information Bandsintown offer Developers earn commission display sell concert ticket artist venue world"
+    },
+    {
+        "progweb_cat": "Music,eCommerce",
+        "api_name": "Medianet Open MP3",
+        "id": 1220,
+        "progweb_descr": " Medianets MN Open API anyone look add MP3 sale exist site app Access catalog 5 million MP3s major independent label like iTunes Amazon Use credit card processor transact via MN Open API Use MN Open API content discovery metadata purchase user management fulfillment"
+    },
+    {
+        "progweb_cat": "Music,eCommerce",
+        "api_name": "Dizzyjam",
+        "id": 2925,
+        "progweb_descr": " This API provide access online shop sell merchandise fan It return Manage call Catalogue call Order call Dizzyjam people make music want merchandise demand"
+    },
+    {
+        "progweb_cat": "Music,eCommerce",
+        "api_name": "Reverb",
+        "id": 5266,
+        "progweb_descr": " Reverb REST API allow developer access integrate functionality Reverb applications Some example API method include create product listing manage product listing retrieve product information listing Reverb online marketplace user buy sell used vintage rare music equipment instrument"
+    },
+    {
+        "progweb_cat": "Music,Lyrics",
+        "api_name": "ChartLyrics Lyric",
+        "id": 107,
+        "progweb_descr": " ChartLyrics lyric database sort artist song Lyric API use either SOAP REST interface allow user developer access database API provide 2 function SearchLyric search available lyric GetLyric retrieve lyric"
+    },
+    {
+        "progweb_cat": "Music,Lyrics",
+        "api_name": "Lyricsfly",
+        "id": 238,
+        "progweb_descr": " From site This API available anyone wish use database music project website program If currently use web search lyric use code trick access lyric websites display relevant lyric text content reliable source without hassle"
+    },
+    {
+        "progweb_cat": "Music,Lyrics",
+        "api_name": "LyricWiki",
+        "id": 241,
+        "progweb_descr": " Wikia collaborative publishing platform enable people around world discover create share content topic Wikia also provide LyricWiki API service provide user lyric many popular song variety artists This free API use via SOAP REST though SOAP functionality currently robust Lyrics return XML JSON HTML plain text Authentication optional use API via SOAP available use REST use want associate webservice change make useraccount Please note due licensing restriction API directly return small portion lyric directly useful determine correct match All response also contain URL correspond page full lyric"
+    },
+    {
+        "progweb_cat": "Music,Lyrics",
+        "api_name": "LyricFind",
+        "id": 467,
+        "progweb_descr": " LyricFind provide legal music lyric service LyricFind licensing 2000 music publisher include four major â€ “ EMI Music Publishing Universal Music Publishing Group WarnerChappell Music Publishing SonyATV Music Publishing â€ “ well database lyric available license LyricFind Web Service v20 five APIs available basic premium version premium version incorporates Roviâ€™s All Music Guide data access provide search display capability Functionality offer API include lyric search lyric display access track level metadata chart data across LyricFind lyric submission Data format XML JSON Full documentation publicly available interested developer contact saleslyricfindcom information"
+    },
+    {
+        "progweb_cat": "Music,Lyrics",
+        "api_name": "Bandcamp",
+        "id": 524,
+        "progweb_descr": " From website With version 1 API query artists discography get information need write custom embed audio player metadata track credit lyric API simple straightforward work similar fashion web APIs Twitters Googles might already familiar API feature RESTful interface return data JSON format"
+    },
+    {
+        "progweb_cat": "Music,Lyrics",
+        "api_name": "MusixMatch",
+        "id": 580,
+        "progweb_descr": " musiXmatch LyriX API 100 legal pay license fee Search song artist title lyric Receive lyric return MusiXmatchï¿½s LyriX API also let surround lyric text detail metadata artist perform genre influence related artist"
+    },
+    {
+        "progweb_cat": "Music,Lyrics",
+        "api_name": "Metal Maker",
+        "id": 9959,
+        "progweb_descr": " Metal Maker service metal band trouble come quality lyric song title album title By use stateoftheart heuristic algorithm Metal Maker provide endless supply modern metal lyric This service free public use however content generate Metal Maker use album small Metal Maker logo print back album cover Metal Makers function available integration application use SOAPbased API"
+    },
+    {
+        "progweb_cat": "Music,Lyrics",
+        "api_name": "SongMeanings",
+        "id": 10356,
+        "progweb_descr": " SongMeanings song lyric meaning platform allow user follow music artist search song lyric song meaning SongMeanings API Echonest allow developer access integrate functionality SongMeanings application main API method retrieving song meaning song ID number"
+    },
+    {
+        "progweb_cat": "Music,Lyrics",
+        "api_name": "Lololyrics",
+        "id": 10437,
+        "progweb_descr": " Lololyrics online lyric database specialize lyric Electronic music include genre Dance House Trance Dubstep Hardstyle Hardcore All lyric review listen full moderator appear site Lololyrics API enable user programmatically retrieve song lyric website use RESTful call"
+    },
+    {
+        "progweb_cat": "Music,Lyrics",
+        "api_name": "Unsigned Band Web Music",
+        "id": 13498,
+        "progweb_descr": " Unsigned Band Web online platform musician release share song music Users listen new music search music genre access various radio station associate music site Unsigned Band Web also offer variety feature musician Unsigned Band Web Music API allow developer access database music musicians Some example API method include search retrieve song genre access song musician list channel feed base genre"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Discogs",
+        "id": 142,
+        "progweb_descr": " From site Discogs userbuilt database contain information artist label recording Discogs constantly grow user submit release database"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Rhapsody",
+        "id": 206,
+        "progweb_descr": " Rhapsody Web Services RWS expose Rhapsody ’ playlist creation user listen history web page markup RSS feed REST XML search API JavaScript playback API friendly URLs eg wwwrhapsodycombeck WSDL pending"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "A State of Trance",
+        "id": 276,
+        "progweb_descr": " A State Trance radio show host Armin van Buuren play trance progressive rock music A State Trance API allow developer access information radio show Unofficial A State Trance Android app This include episode track artist DJs set labels event Top 10 This API provide free though donation appreciate"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Last.fm",
+        "id": 299,
+        "progweb_descr": " Lastfm API give user ability build program use Lastfm data whether web desktop mobile device RESTful API allow read write access full slate lastfm music data resource albums artist playlist event user It allow user call method respond either XML JSON"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "exfm",
+        "id": 361,
+        "progweb_descr": " Exfm music discovery platform power thousand music sit around web This continuous music feed curated Tastemakers top music blogger enthusiast share knowledge selection exfm exfm user Exfms RESTful API design allow 3rd party site apps build exfm data exfm JavaScript API allow site communicate directly exfm tell song offer"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "SNOCAP",
+        "id": 491,
+        "progweb_descr": " From site Through SNOCAP proprietary Digital Registry artists label empower easily promote sell music digital retailer unique artist store In turn retailer grow inventory offering music music fan MyStore Search API allow web application search SNOCAP MyStores display web page API accept artist name andor track title pass URL parameter return result object javascript object notation JSON This interface useful application wish render MyStore storefront web page base contextual metadata match"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "MusicMobs",
+        "id": 725,
+        "progweb_descr": " NO DESCRIPTION"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Jamendo",
+        "id": 794,
+        "progweb_descr": " Jamendo API offer user developer access Jamendos database album artists track playlist review API use RESTful protocol data return format range XML JSON others Signup require devportaljamendocom"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Juno Download",
+        "id": 1056,
+        "progweb_descr": " Juno Download dance music download site create Juno Records online dance music store Juno Download API provide developer access Juno Records catalog 35 million music file Developers use API add music Juno buy link websites application access cover artwork preview clip metadata Responses XML format"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Cloudspeakers",
+        "id": 1232,
+        "progweb_descr": " Cloudspeaker music catalog review audio videos Cloudspeaker API give developer ability access Cloudspeaker database music information All link service match MusicBrainz database"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "ArtistData",
+        "id": 1243,
+        "progweb_descr": " ArtistData provide secure XML feed partner interested get information artist use ArtistData dashboard current information available secure XML feed show news blog ArtistData building solution automate updating artist websites social network profile concert database Twitter official news feed iCal local press fan newsletter even tour book When artist update site update site"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "OpenStrands",
+        "id": 1631,
+        "progweb_descr": " From site OpenStrands service allow programmatically perform many function available MyStrands website use browser platform currently include account catalog recommendation playlist tag community service Use OpenStrands free register MyStrands user"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Ukulele Chords",
+        "id": 4243,
+        "progweb_descr": " Ukulele Chords API allow developer query publish ukulele chord diagram andor additional info like interval difficulty etc website Ukulelechordscom chord library large selection Uke chord chart common tuning"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "MooMa.sh",
+        "id": 6249,
+        "progweb_descr": " MooMash music identification API use echoprint codegen audio fingerprint method identify unknown track APIs database know song include 5 million music track API access grant free still require API Key This key acquire sign MooMash developer newsletter"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Nokia MixRadio",
+        "id": 7914,
+        "progweb_descr": " Nokia MixRadio free music stream service allow listener create personalized radio station rating song positively negatively Over time service learn listener prefers adapt Users start create mix use favorite artist use mix already put together Nokia MixRadios music expert Nokia MixRadio APIs allow user integrate service music discovery music information retrieval service application"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "GuitarParty",
+        "id": 8010,
+        "progweb_descr": " GuitarParty provide guitar player access guitar tabs song want key choice All song tab proofread quality least one moderator publish Users create custom songbook mood upcoming event access PDF format print GuitarParty API allow user programmatically retrieve song lyric chord soon create download songbook printable PDFs"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Toma.hk",
+        "id": 9793,
+        "progweb_descr": " Tomahawk music player play music store many different place include music subscription service promotion platform network library online data locker It decouple name song source share eg friend playlist fulfills play request use available source This allow Tomahawk user create playlist use song computer Spotify YouTube Tomahk API use Tomahawks technology allow user embed player almost song website use JavaScript"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "OpenEMI Music",
+        "id": 10292,
+        "progweb_descr": " EMI Music music company manage represent produce music Music artists around world represent EMI Music label EMI Music API partnership Echo Nest allow developer access integrate music content EMI Music application create new application API organize different sandbox access variety music content music artists artwork videos photo genre songs various collection"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Entranced.FM",
+        "id": 10529,
+        "progweb_descr": " EntrancedFM independent internet radio station broadcast mix ambient lounge trance world music station receive medium player Winamp Windows Media Player VLC Media Player Registered EntrancedFM user request song chat user participate forum EntrancedFM provide SOAPbased API retrieve information song currently play information song queue play list song previously play"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Shuffler.fm",
+        "id": 11302,
+        "progweb_descr": " Shufflerfm online music magazine create curated music blogger web Shufflerfm allow user search discover music blog music sit hear new music see music trend web Shufflerfm API allow developer access integrate functionality Shufflerfm application create new application Some example API method include retrieve list track track retrieve blog search access artist information"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Unofficial Pandora",
+        "id": 11704,
+        "progweb_descr": " API method expose Wikia user provide program languageindependent access Pandoras proprietary APIs All list API call reverseengineered Wikia user make available Pandora These call provide access aspect Pandoras function include creation edit station retrieval song information creation user account log Pandora online music player use information gather Music Genome Project find songs artist similarity user like It play back streaming online station"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "VexFlow",
+        "id": 13499,
+        "progweb_descr": " VexFlow webbased music render service API work directly browser render musical score notation guitar tablature VexFlow API music notation rendering integrate application site"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Console.fm",
+        "id": 13500,
+        "progweb_descr": " Consolefm music stream service stream various genre electronica music Consolefm organize genre channel user select Consolefm also offer iPhone application Consolefm API allow developer access data functionality Consolefm integration application Some example API method include search retrieve genre list retrieve artist information access track information"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Metallizer",
+        "id": 13734,
+        "progweb_descr": " Metallizer heavy metal music generator With Metallizer user generate heavy metal album song name Users also save album generate edit Metallizer API allow developer access content functionality Metallizer two API method generate random album generate specific album"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Official.fm",
+        "id": 13968,
+        "progweb_descr": " Officialfm online service music professional Officialfm allow user upload manage music decide public private customize brand share music information promote sell ticket concert Officialfm offer three APIs simple API advance API player API simple API allow user get information user track playlist advance API allow user create read update delete data Officialfm player API allow user create control listen Flash HTML5 player"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Songbird",
+        "id": 13996,
+        "progweb_descr": " Songbird free open medium music stream service Songbird product available desktop mobile device In addition able search stream medium music Songbird also feature allow user stay inform favorite artist tour date Songbird API allow developer integrate Songbirds functionality websites integrate website Songbird Some example API method include show whats play view playlist create library access user information download medium"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Sourberry",
+        "id": 14216,
+        "progweb_descr": " Sourberry open internet radio service base Turkey service allow anyone broadcast live radio syndicate Sourberry network Sourberry offer RESTful API developer use retrieve status Sourberry service current program API return either JSON XML format documentation Turkish"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Zatune",
+        "id": 14316,
+        "progweb_descr": " This API retire"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Mixcloud",
+        "id": 14492,
+        "progweb_descr": " Mixcloud rethink radio join dot radio show Podcasts DJ mix Mixcloud API allow developer create application search Mixcloud database upload cloudcasts get code embed Mixcloud widget webpage"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "CCHits",
+        "id": 14637,
+        "progweb_descr": " CCHits promots Creative Commons license music highlighting artist make people play CCHits API provide access site collection podcasts support website data drive CCHits site Simple JSON request provide access various query option Developers search artists track There writable option add track particular podcast show well API also additional feature query information provide HTTP status code well set function mean call shell script"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "iRadeo",
+        "id": 14638,
+        "progweb_descr": " iRadeo allow anyone start online radio station iRadeo provide unlimited stream ability support unlimited listener – free Unique feature complete customization player type ad placement generate revenue create unlimited station great tool within platform Its allinone solution radio station podcasters musician music fan promoter music label Developers use iRadeo API access player information uploaddelete audio"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Guitar Chord",
+        "id": 15187,
+        "progweb_descr": " Guitar Chord API find guitar chord variation base give data chord You specify chord name chord modification orand stringfret combination"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Streampad",
+        "id": 15454,
+        "progweb_descr": " Streampad JavaScript API allow developer control Streampad player via JavaScript Developers play queue song play pause player receive event perform useful function"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "setlist.fm",
+        "id": 15530,
+        "progweb_descr": " setlistfm API let developer access setlist data use websites third party application setlistfm service collect share setlists"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "AllCDCovers",
+        "id": 15708,
+        "progweb_descr": " Find cover art CDs DVDs video game Search keyword category Provides URLs thumbnail large version every cover along metadata artist well image"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Songsterr",
+        "id": 15788,
+        "progweb_descr": " Songsterr API allow search get present song guitar tabs Songsterr database You search artist song"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Freedb / CDDB",
+        "id": 15832,
+        "progweb_descr": " As Oct 2006 Freedborg acquire MAGIX Status API unclear See httpwwwp2pblogcomitem159html"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "WebJay",
+        "id": 15835,
+        "progweb_descr": " NO DESCRIPTION"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "MP3Tunes",
+        "id": 15859,
+        "progweb_descr": " MP3tunes Music Service Provider MSP home MP3tunes Locker secure online music space feature unlimited listen With couple click Locker user sync music collection enjoy web browser grow number home entertainment mobile device"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "MusicDNS.org",
+        "id": 15860,
+        "progweb_descr": " MusicDNS provide simple easy use method acoustically identify digital music acquire correct metadata Leveraging patented acoustic recognition technology MusicDNS consistently identify digital music record regardless language audio file format"
+    },
+    {
+        "progweb_cat": "Music",
+        "api_name": "Winamp",
+        "id": 15862,
+        "progweb_descr": " From site Access Winamps functionality external application If want build opener run Winamp would need information provide API function code snippet available CC programming language"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "Grooveshark",
+        "id": 181,
+        "progweb_descr": " From website Grooveshark make available method access interact Grooveshark data This API experimental may change At present method require method signature mean need web service key secret access"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "Musicshake",
+        "id": 982,
+        "progweb_descr": " service provide access library 10000 music selection available use online without payment royalty library populate inhouse sample proprietary song organize genre tempo mood etc service give access incorporate music slideshows videos Flash component etc API method support retrieval selection category genre mood tempo Methods generate songlist application incorporate ID either MP3 file RTMP audio stream"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "sonicAPI.com",
+        "id": 1033,
+        "progweb_descr": " sonicAPIcom offer API audio effect music processing engine web application developers Some API method include access effect reverberation time stretch pitch shift analysis engine detection tempo loudness musical key They enable developer build service automatic audio database tag create mashups song different tempo key apply effect recording"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "Napster",
+        "id": 1252,
+        "progweb_descr": " Napster API provide developer secure connection Napster ondemand stream music content empower listener enjoy Napster membership across connect device application"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "Scales Chords",
+        "id": 2637,
+        "progweb_descr": " ScalesChordscom provider tool solution play compose music Scales Chords API allow developer integrate music chord chart sound web page use simple JavaScript external file API support JSONformatted request response"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "Niland",
+        "id": 3780,
+        "progweb_descr": " Niland API utilize artificial intelligence AI audio processing capability classify music title recognize related track API automatically generate search result classification data use audio signal detects music compositions Its AI technology equip capability profile music content make easy developer understand nature music track well Niland API deploy variety organizational analytical music application include metadata construction music catalogue content curation playlist generation It useful stakeholder across upstream downstream end music industry ’ value chain"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "Gracenote Rhythm",
+        "id": 4737,
+        "progweb_descr": " Gracenote Rhythm API allow developer integrate radio music recommendation feature web service Requests response available XML REST JSON format Authentication possible Key In endpoint developer replace 1234567 Client ID main characteristic API include adaptive radio playlist feedback rich content It support regulation provide Digital Millenium Copyright Act Gracenote formerly CDDB maintain license database audio CD information digital file identification song lyric"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "Spotify Echo Nest Remix",
+        "id": 5304,
+        "progweb_descr": " Spotify Echo Nest Remix API work internet synthetizer transform music video Python JavaScript code In specific API manipulate audio file connect Echo Next Analyze API This work aim create project music like Remix Pianist Cat DogStep transform song like White Stripes Seven Nation Army musical bark See additional music examples Tetris Attack Skrillex Bangarang Infinite Jukebox link httpechonestgithubioremixexampleshtml"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "hearthis",
+        "id": 5750,
+        "progweb_descr": " Use hearthisat JSON API access music application API offer full access application feature like single track playlist artist list track search genre list Documentation example code available API home page"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "Siilar",
+        "id": 6241,
+        "progweb_descr": " Siilar API allow music catalog owner implement fully host music search recommendation service It allow user perform automatic soundalike search perform smart text search search external seed track create manage tag collection get songtosong recommendation Siilars function design help music provider deliver music end user may also access web application"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "ickStream",
+        "id": 7102,
+        "progweb_descr": " ickStream API offer way ickStream device interface ickStream cloud platform service Developers use API discover device local network sync account ickStream cloud audio stream platform API use perform general account management maintenance favorites online library Currently private beta user register test ickStream website"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "SampleSumo MeloTranscript",
+        "id": 13502,
+        "progweb_descr": " SampleSumo MeloTranscript music transcription service transform monophonic melody musical note Users upload sound file vocal melody service return start time end time average pitch amplitude detect note sound file SampleSumo MeloTranscript API allow developer access integrate functionality service application Some example API method include uploading file check processing status return information result file"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "LicenseQuote",
+        "id": 13602,
+        "progweb_descr": " LicenseQuote music license ecommerce solution let user license music website keep sale revenue LicenseQuote API use control music licensing store catalog API also enable follow functionality Linking embed license store website Direct opening quotenegotiation page specific track opening license store select view genre tag search term filter preapplied Adding License Buy button web site catalog Sharing send link track use music player quotenegotiation page Full documentation available developer need account access"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "CD Universe",
+        "id": 13637,
+        "progweb_descr": " service give access sale partner site online retailer collection music CDs along movie game title Also available MP3 downloads audiobooks vinyl record accessory Affiliate site resell process transaction service fulfillment API method support range search service CD identifier UPC title artist category Users also retrieve top seller new release future release category artist"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "DAR.fm",
+        "id": 13688,
+        "progweb_descr": " DARfm audio record service allow user record audio show station radio Users listen recording whenever would like Users find content want record search browse category DARfm API allow developer access DARfm functionality record radio stream share file application sit API let developer create edit delete recording"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "Free Music Archive",
+        "id": 13877,
+        "progweb_descr": " Free Music Archive interactive library highquality legal audio downloads Every mp3 Free Music Archive precleared certain type us would otherwise prohibit copyright law design digital era Free Music Archive provide basic RESTful API access artist album track genre curator data XML JSON JSONP format"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "AudioMicro",
+        "id": 14133,
+        "progweb_descr": " AudioMicro stock music sound effect collection AudioMicro license stock music sound effect producer include medium AudioMicro API allow developer access content data AudioMicro create application Some example API method include search library category subcategories download track URLs retrieve recent track popular track"
+    },
+    {
+        "progweb_cat": "Music,Audio",
+        "api_name": "soundtoys",
+        "id": 15849,
+        "progweb_descr": " site intend provide meeting point grow community artists user addition exhibition audio visual project site contains area artist interview link resource texts contribute writer serious issue around interactive art audio visual syhthesis generative art history interactivity discuss"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "SeeqPod",
+        "id": 207,
+        "progweb_descr": " Submit song like SeeqPod Music Discovery API return list Playable Search result think youll like"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "Digital Podcast",
+        "id": 390,
+        "progweb_descr": " Digital Podcast Search Service allow access Digital Podcasts content service favorite programming languages This mean build Digital Podcast directly application"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "LyrDB",
+        "id": 802,
+        "progweb_descr": " LYRDB offer free access database make search retrieve lyric HTTP interface Users also submit new lyric API LYRDB lyric database contain 1000000 lyric Responses return text format"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "Deezer",
+        "id": 970,
+        "progweb_descr": " Deezer webbased music stream service operate France Users access music via web browser mobile apps offline Currently service offer library 15 million song service currently available United States API give user access sit data make available use third party web sit application This data include albums artist comment editorial folder playlist radio search track user API use HTTP call response format XML JSON PHP"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "InternetDJ Music",
+        "id": 10168,
+        "progweb_descr": " InternetDJ online mobile music discovery music listen application InternetDJ let user search music video artists keywords genre InternetDJ API allow developer access integrate functionality InternetDJ application build new application Some example API method include request music artist genre top list retrieve song artist retrieve data song"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "LYRICSnMUSIC",
+        "id": 10639,
+        "progweb_descr": " LYRICSnMUSIC lyric music search engine pull song lyric variety online source LYRICSnMUSIC API provide RESTful interface search display song lyric Users may display 150 character songâ€™s lyric link back JSON JSONP format response support"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "Alan Bush Music Trust Compositions",
+        "id": 11027,
+        "progweb_descr": " Alan Bush Music Trust charity establish promote public education appreciation music especially regard work British composer Alan Bush website serf archive Alan Bushs music relate information Music Trust provide Compositions API enable user search archves musical composition category programmatically This service use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "iHeartRadio",
+        "id": 13157,
+        "progweb_descr": " iHeartRadio platform search play live radio station show traditional radio station digital radio station Users search station show station song music artists iHeartRadio API allow developer access integrate data functionality iHeartRadio application create new application Full documentation available registration login"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "Spotify Apps",
+        "id": 13166,
+        "progweb_descr": " Spotify allow user share song playlist friends work together collaborative playlist Spotify Apps API allow partner developer integrate apps desktop client API use several protocol include JavaScript"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "Peachnote",
+        "id": 13779,
+        "progweb_descr": " Peachnote search engine analysis platform music score Music Ngram Viewer IMSLP search engine When user enter melody Music Ngram Viewer display graph show melody occur corpus score eg IMSLP year API offer way access ngram data instead download whole data set API provide access late complete music ngram data might available download otherwise It use RESTful call response format JSON PNG"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "Streamfinder",
+        "id": 13839,
+        "progweb_descr": " Streamfinder online directory user find streaming radio station world Users search directory keyword genre artist name Users also save favorite station profile Streamfinder API allow developer access integrate data functionality Streamfinder application service Some example API method include search radio station genre country keywords list top radio station genre retrieve radio station information"
+    },
+    {
+        "progweb_cat": "Music,Search",
+        "api_name": "Freesound",
+        "id": 14777,
+        "progweb_descr": " With Freesound API browse search retrieve information Freesound users pack sound course Currently API read Features upload sound may add future Freesound collaborative database creativecommons license sound musician sound lover API use RESTful protocol resposnes format XML JSON YAML"
+    },
+    {
+        "progweb_cat": "Music,Data",
+        "api_name": "Spotify Echo Nest",
+        "id": 233,
+        "progweb_descr": " Spotify Echo Nest API allow developer analyze track add rich artist song metadata application Echo Nest website provide tool service building advance music apps include create highquality personalize musically meaningful playlist interactive radio station leverage deep comprehension music cultural sonic characteristic listener musical taste"
+    },
+    {
+        "progweb_cat": "Music,Data",
+        "api_name": "Musikki Music",
+        "id": 656,
+        "progweb_descr": " Musikki Music API allow developer integrate Musikkis curated music content data application This data include uptodate information artist songs album Musikkis data index current music service source internet use offer new method discover music making recommendation"
+    },
+    {
+        "progweb_cat": "Music,Data",
+        "api_name": "Gracenote Open Developer Platform Timeline",
+        "id": 2293,
+        "progweb_descr": " This API take audio file extract musical information beat mood This include beat bpms mood segment Gracenote provide Music TV Movie Sports data tech power entertainment product"
+    },
+    {
+        "progweb_cat": "Music,Data",
+        "api_name": "Gracenote Live ID",
+        "id": 2295,
+        "progweb_descr": " This API identifies live version song particular artist algorithm search database song artist us fuzzy match match live input record song Gracenote provide Music TV Movie Sports data tech power entertainment product"
+    },
+    {
+        "progweb_cat": "Music,Data",
+        "api_name": "Soundiiz",
+        "id": 4375,
+        "progweb_descr": " Soundiiz API bring user accessible service streamline musical data playlist one platform It offer playlist converter assemble ten different platform YouTube Spotify SoundCloud It utilize listen music wherever platform reorganize collection rename delete modify playlist With API Soundiiz offer easy use button import playlist platform third party site"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "SoundCloud",
+        "id": 254,
+        "progweb_descr": " SoundCloud lead audio platform enable anyone upload record promote share sound across web SoundCloud API make SoundCloud feature SoundCloudcom available app developer With help SDKs easy integrate functionality like audio share record directly iOS Android web apps"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "openDada",
+        "id": 504,
+        "progweb_descr": " Dada Entertainment mobile content provider large pay customer base US Dada offer MP3 music download DRM Ringtones across major US carrier They also Music Social Network 10 million member openDada web service API let integrate Dadanet content catalog earn compensation effort As openDada affiliate pay accord amount subscriber refer"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Blip.fm",
+        "id": 565,
+        "progweb_descr": " Use Blipfm API access Blipfm user data Get Blip user ID multiple user IDs Get recent Blips user sequentially list recent Create customize music station Blipfm Be DJ share station friends friends program station Share musical interest million"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "This Is My Jam",
+        "id": 997,
+        "progweb_descr": " On music recommendation site user share single song currently obsess This Is My Jam allow share current jam Facebook Twitter follow user whos musical taste admire API expect allow access This Is My Jams function follow user set preview jam"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Song.ly",
+        "id": 1203,
+        "progweb_descr": " Songly allow user share discover music Twitter Your follower get short link page allow play song right browser without download first"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "8tracks",
+        "id": 1240,
+        "progweb_descr": " 8tracks simple way people create listen mix short playlist contain least 30 minute roughly 8 track music This API enable play back 8tracks mix website app 8tracks playback provide Playback API 8tracks player discovers content API API also available 3rd party integrate 8tracks service"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Next Big Sound",
+        "id": 1339,
+        "progweb_descr": " Next Big Sound website measure popularity band online track thing artist Facebook Twitter fan follower Next Big Sound API allow developer access data Next Big Sound gather social network website statistic derive data use application"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Allihoopa",
+        "id": 2328,
+        "progweb_descr": " Allihoopa Swedish firm offer music exchange platform help connect user similar idea Allihoopa use make music second collaborate remix share API support upload music piece Allihoopa social medium share API Keys use authentication"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Beats Music",
+        "id": 7874,
+        "progweb_descr": " Beats Music music curation service allow user input location mood company service stream music think fit situation It also help user develop personal music profile base dont like Beats Music API use REST call allow user make call search Beats Music Catalog play track create update display playlist API use SSL API key authentication An account required service"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "SocialPlay",
+        "id": 9462,
+        "progweb_descr": " SocialPlay local medium player use play song share Twitter Users get rank popularity base point award time song share get hearted retweeted NP SocialPlay REST API enable user post song playlist Twitter programmatically"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "ccmixter Sample Pool",
+        "id": 10017,
+        "progweb_descr": " ccmixter community music remixing site contains remixes sample license Creative Commons license Sample Pool API allow two medium host server keep track one use sample another service use REST call return XML return XML form feed RSS Atom enclosures download medium"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "ShareMyPlaylists",
+        "id": 10291,
+        "progweb_descr": " ShareMyPlaylists service Spotify user create share search music playlists Users submit playlists user discover follow ShareMyPlaylists API allow developer access integrate functionality ShareMyPlaylists application create new application Some example API method include search playlist create playlist retrieve playlist retrieve playlist information artist genre song"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Soundrop",
+        "id": 10293,
+        "progweb_descr": " Soundrop social music platform Soundrop allow user use application share music experience user Soundrop room share Spotify playlist see user listen Spotify Soundrop API allow developer access integrate functionality Soundrop application create new application Public documentation available interested developer sign information httpwwwformstackcomforms1340106cdj9ngO8so"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Punkrock.org",
+        "id": 10381,
+        "progweb_descr": " Punkrockorg online social hub information punk rock music community offer access variety medium videos picture community poll personal band blog current event listing forums avenue promote band site social aspect site allow like favorite band track well group business involve community Using POST GET call Punkrockorg API allow developer opportunity create apps community access site hold information user friend mail notification photos You need request API token access service Returns format JSON"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Unofficial Turntable.fm",
+        "id": 11848,
+        "progweb_descr": " Turntablefm social music site allow user share music service combine element musicstreaming chat realtime vote This unofficial API allow user create bot turntablefm room chat bot respond user say hello log room activity song play vote cast API use JavaScript"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Music Xray S2O Partner",
+        "id": 12455,
+        "progweb_descr": " vMusic Xray musicsharing platform intend connect musician music industry representative Musicians post track analyze acoustical property Music Xrayâ€™s Song Opportunity S2O technology Music Xray email user industry professional look music comparable S2Oâ€™s analysis S2O Partner API expose Music Xrayâ€™s song upload comparison functionality business partner Users register partnerâ€™s API account become affiliate generate commission partner API RESTful return XML responses A Ruby SDK also available"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Musescore",
+        "id": 13503,
+        "progweb_descr": " Musescore application allow user share sheet music people group collaboration Users upload share sheet music well comment people sheet music Musescore also mobile tablet application Musescore API allow developer access functionality data Musescore integration application Some example API method include uploading file search retrieve score score list generate URLs sheet music file"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Topspin",
+        "id": 14157,
+        "progweb_descr": " Topspin service provide tool allow musician musical artist interact fan social network site sell merchandise show ticket track result effort Topspin offer nine APIs allow developer integrate access Topspin data functionality APIs provide follow method email order status embed Flash widget create new store access store search artist log event embed player"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Subsonic",
+        "id": 14445,
+        "progweb_descr": " Subsonic free music streamer allow user access manage music anywhere Subsonic API allow developer build application use Subsonic These application build online platform desktop platform mobile device With API user search music access create music playlists stream music access cover art retrieve random song base various criterion"
+    },
+    {
+        "progweb_cat": "Music,Social",
+        "api_name": "Motime Chart",
+        "id": 15477,
+        "progweb_descr": " Motime Open Access platform affiliate program base APIs Motime service allow partnersaffiliates advertise Motime content web andor mobile site earn money referral give Motime chart API use REST protocol allow user list ringtones categorize variety chart music genre"
+    },
+    {
+        "progweb_cat": "Music,Semantics",
+        "api_name": "MusicBrainz",
+        "id": 262,
+        "progweb_descr": " MusicBrainz database contain huge amount music metadata maintain MusicBrainz community Find information artist albums track label Mash data web app medium player CD ripper tagger application require music metadata service architecture follow REST design principle Interaction web service do use HTTP content serve simple flexible XML format"
+    },
+    {
+        "progweb_cat": "Music,Reference",
+        "api_name": "Yes Broadcast DB",
+        "id": 309,
+        "progweb_descr": " YEScom realtime database US Radio station nowplaying music information include log chart artist song genre information This simple API open direct access data anyone"
+    },
+    {
+        "progweb_cat": "Music,Reference",
+        "api_name": "FreeCovers.net",
+        "id": 1352,
+        "progweb_descr": " Freecovers service maintain large fast easy use CDDVD cover archive Freecovers also provide RESTful API allow developer easily integrate Freecovers content site Freecovers API give developer full freedom use Freecovers content retrieve API great way add extra something site"
+    },
+    {
+        "progweb_cat": "Music,Reference",
+        "api_name": "Unofficial Encyclopaedia Metallum",
+        "id": 2564,
+        "progweb_descr": " Unofficial Encyclopaedia Metallum API free unofficial API retrieve data Encyclopaedia Metallum online database information heavy metal band Requests cache API side flush weekly make service faster may delay sync API response late update Encyclopaedia Metallum"
+    },
+    {
+        "progweb_cat": "Music,Reference",
+        "api_name": "OneMusic",
+        "id": 9902,
+        "progweb_descr": " OneMusicAPI collection music metadata multiple music source databases around web OneMusicAPI allow developer access integrate functionality OneMusicAPI application create new application Some example API method include search music retrieve music metadata display music metadata"
+    },
+    {
+        "progweb_cat": "Music,Reference",
+        "api_name": "WhoSampled",
+        "id": 10357,
+        "progweb_descr": " WhoSampled website community discover music sample music music remixes Users search music song artist WhoSampled API Echonest allow developer access integrate functionality WhoSampled application Some example API method include look song artists retrieve information searching song ID"
+    },
+    {
+        "progweb_cat": "Music,Reference",
+        "api_name": "SecondHandSongs",
+        "id": 11734,
+        "progweb_descr": " SecondHandSongs SHS reference database original artist cover artist song It design settle question perform original version particular song cover SHS try complete possible include performer song title also songwriters original release order data reusable maintainable way SecondHandSongs API offer programmatic method search database performance work well retrieve information artist performances release"
+    },
+    {
+        "progweb_cat": "Music,Data Mining",
+        "api_name": "Spotify Web",
+        "id": 378,
+        "progweb_descr": " Spotify Web API allow developer use application get data Spotify music catalog endpoint result JSON format provide information artist albums track directly Spotify catalog Depending user authorization API also provide developer access userrelated data ie playlist music save user library"
+    },
+    {
+        "progweb_cat": "Music,Widgets",
+        "api_name": "Gruvr",
+        "id": 501,
+        "progweb_descr": " Gruvr offer ton geocoded concert data 170K upcoming show 45K band currently list You ask upcoming concert location band result return geoRSS KML dynamic map link"
+    },
+    {
+        "progweb_cat": "Music,Widgets",
+        "api_name": "Rdio oEmbed",
+        "id": 8689,
+        "progweb_descr": " Rdio online music radio service provide access million song almost every genre Users play song whenever want many time want listen station combine current favorite similar unheard song Rdio oEmbed API allow developer retrieve embed code album track playlist use either resource full shorten URL"
+    },
+    {
+        "progweb_cat": "Music,Database",
+        "api_name": "Beatport",
+        "id": 868,
+        "progweb_descr": " Beatport leader electronic music downloads deliver content premiumencoded format Beatportcom allow user access world club music secure legal hispeed high quality downloads MP3 MP4 WAV format pay per download basis library world lead independent label Beatport API provide user access data Beatport catalog It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Music,Database",
+        "api_name": "Dance-Tunes",
+        "id": 870,
+        "progweb_descr": " DanceTunes site specialize mp3 downloads kind dance music Users search site database artists label tune mix album API serve interface database client frontend Data return API include artist label genre chart It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Music,Database",
+        "api_name": "Cantus",
+        "id": 5404,
+        "progweb_descr": " Cantus API provide developer tool use Cantus databaseaccess project It allow search read database create editing resource CANTUS database store asemblance index Latin ecclesiastical chant find early manuscript print source liturgical Office"
+    },
+    {
+        "progweb_cat": "Music,Database",
+        "api_name": "Radio Reddit",
+        "id": 6880,
+        "progweb_descr": " Radio Reddit API allow access Reddit Radio stream via simple interface Calls API return data currently active radio channel include associated artist song name track currently stream Access Radio Reddits archive view library song artist also grant Currently API free use without developer authentication method require"
+    },
+    {
+        "progweb_cat": "Music,Database",
+        "api_name": "MusicGraph",
+        "id": 8126,
+        "progweb_descr": " MusicGraph music information service million music fact use search new artist incorporate application MusicGraph API use REST call return JSON allow user make query get list suggest artist albums track playlist category An account required service"
+    },
+    {
+        "progweb_cat": "Music,Database",
+        "api_name": "Phish.Net",
+        "id": 13846,
+        "progweb_descr": " PhishNet fancreated run website fan musical group Phish site serf compile preserve protect encyclopedic information Phish music A public API available well protect API require API key"
+    },
+    {
+        "progweb_cat": "Music,Images",
+        "api_name": "fanart.tv Music",
+        "id": 901,
+        "progweb_descr": " fanarttv Music online repository art image create musician music fan Users upload image search repository image musician name fanarttv Music API allow developer access image fanarttv Music repository integration application API method available search image retrieve image information associate"
+    },
+    {
+        "progweb_cat": "Music,Internet of Things",
+        "api_name": "Sonos Music",
+        "id": 902,
+        "progweb_descr": " Sonos consumer electronics company offering multiroom audio system let user listen music store computer cloud Sonos Music API webservices API provide consistent way content deliver webbased service consume consumer playback device It design support range content provider include ondemand music service well internet radio stream Technical documentation publicly available developer obtain access register Sonos Music Partner"
+    },
+    {
+        "progweb_cat": "Music,Organization",
+        "api_name": "Musicplayr",
+        "id": 964,
+        "progweb_descr": " Musicplayr bookmarking app usersâ€™ favorite music around Internet app allow user compile playlist link website like SoundCloud YouTube Vimeo Users either copy paste link playlists add via bookmarklet browse web They also follow usersâ€™ playlist activity API expose data store within service This data include user profile track list timeline It use RESTful call response format XML JSON PHP"
+    },
+    {
+        "progweb_cat": "Music,Recommendations",
+        "api_name": "Musicovery",
+        "id": 1116,
+        "progweb_descr": " Musicovery API generate music recommendation playlists personalized real time Playlists type base mood activity artist genre title location time day Recommendations song artists genre provide specifically listener API easy fast integrate therefore best create prototype work POCs"
+    },
+    {
+        "progweb_cat": "Music,Recommendations",
+        "api_name": "Tastebuds.fm",
+        "id": 12790,
+        "progweb_descr": " Tastebudsfm date service base usersâ€™ taste music Users list favorite band import musical taste Facebook Lastfm profile Users must also input gender orientation With information Tastebudsfm compare usersâ€™ interest others recommend profile similar taste Public documentation available Interested developer contact provider"
+    },
+    {
+        "progweb_cat": "Music,Recommendations",
+        "api_name": "Stereomood",
+        "id": 14015,
+        "progweb_descr": " Stereomood free internet radio service recommend song base user emotional mood activity Stereomood also allow user create playlist certain occasion emotion Stereomood API allow developer access Stereomoods music content functionality Some example API method include search song libraries user listen song playlist delete create playlist"
+    },
+    {
+        "progweb_cat": "Music,Recommendations",
+        "api_name": "People's Music Store",
+        "id": 15360,
+        "progweb_descr": " Peoples Music Store independent company set give music fan power champion promote music love In industry dominate corporate music download service offer alternative put musiclovers forefront Peoples Music Store API expose functionality developer include application web service API support search preview music"
+    },
+    {
+        "progweb_cat": "Music,Recommendations",
+        "api_name": "MeeMix",
+        "id": 15433,
+        "progweb_descr": " MeeMix Web Service enable partner synchronize medium library MeeMix database subsequently suggest musical recommendation playlist unregistered registered user MeeMix API make core technology accessible virtually every webintegrated device It support SOAP REST web service protocols MeeMix service enable business personalize music medium portal store application goal optimize conversion customer retention significantly boost longtail sale"
+    },
+    {
+        "progweb_cat": "Music,Entertainment",
+        "api_name": "TouchTunes Jukebox",
+        "id": 1123,
+        "progweb_descr": " TouchTunes interactive music entertainment platform network support portfolio locationbased digital solution feature 60000 bar restaurant North America TouchTunes Jukebox API provide access TouchTunes outofhome digital music network allow developer use music data apps service This could use find local TouchTunes Jukebox view recent activity browse catalog"
+    },
+    {
+        "progweb_cat": "Music,Entertainment",
+        "api_name": "White Label",
+        "id": 1683,
+        "progweb_descr": " White Label API serve collection mixtapes track simple API interface API access come account service 32517 still close Beta version 09"
+    },
+    {
+        "progweb_cat": "Music,Entertainment",
+        "api_name": "R&R Music",
+        "id": 5489,
+        "progweb_descr": " RR Music REST API provide access information million songs multiple data point API allow search RR music catalog metadata sound parameter like BPM mood genre cloud API also provide music recommendation base song upload retrieve RR Music provide API developer create application music music data catalog"
+    },
+    {
+        "progweb_cat": "Music,Entertainment",
+        "api_name": "MetroLyrics",
+        "id": 8012,
+        "progweb_descr": " MetroLyrics music lyric website In addition database 1 million license song lyric MetroLyrics offer value add service lyric videos artist profile MetroLyrics API provide developer access lyric database API support diverse set GETPOST call Example us include retrieve give songâ€™s lyric metadata attach song post lyric Facebook Twitter account access historical top 100 chart give country retrieve music industry news story"
+    },
+    {
+        "progweb_cat": "Music,Entertainment",
+        "api_name": "Nokia Music",
+        "id": 9860,
+        "progweb_descr": " Nokias Music APIs collection web service Windows Phone APIs allow developer offer element Nokias Music service within application Some example API method include search music retrieve music manage account retrieve music product detail search various music metadata"
+    },
+    {
+        "progweb_cat": "Music,Media",
+        "api_name": "idiomag",
+        "id": 1210,
+        "progweb_descr": " Idiomag API let access article photos video image play list Idiomag archive You also access Idiomag music recommendation engine"
+    },
+    {
+        "progweb_cat": "Music,Media",
+        "api_name": "Microsoft Groove Service",
+        "id": 3037,
+        "progweb_descr": " This API allow connect app website world Microsoft Groove Music Get detail album artist track search album artist track get top new album artist get deep link redirects nicely Groove application Web Windows Phone Windows platform get album cover artist image"
+    },
+    {
+        "progweb_cat": "Music,Media",
+        "api_name": "Audials",
+        "id": 5834,
+        "progweb_descr": " Audials API provide access database digital medium podcast radio music TV It expose browse searchable list international radiostations well comprehensive podcast catalogue Additional information station provide could use searchterms well example artist song currently frequently play station Usermanagement synchronization functionality userdata like favorite playlist etc various device support Contact u information get start use API"
+    },
+    {
+        "progweb_cat": "Music,Media",
+        "api_name": "Jamcast",
+        "id": 12369,
+        "progweb_descr": " Jamcast music stream service Jamcast stream digital medium DLNA compatible device application iTunes Spotify Jamcast API allow developer access integrate functionality Jamcast application create new application Some example API method include manage playlist upload music manage user information"
+    },
+    {
+        "progweb_cat": "Music,Advertising",
+        "api_name": "Linkfire",
+        "id": 1559,
+        "progweb_descr": " Linkfire help create intelligent link route fan music love apps love Best – automatic linkfire API let Create Linkfire campaign link via music service URLs UPC ISRC code Generate campaign marketing asset Manage campaign link property Automatically scan product across music service store Generate raw insight data report Fetch aggregate metric campaign realtime"
+    },
+    {
+        "progweb_cat": "Music,Artificial Intelligence",
+        "api_name": "Amper Music",
+        "id": 1751,
+        "progweb_descr": " Amper Music API allow developer programmatically create download audio project Amper Music system Amper AI composer performer producer allow user create customize original music content Users select desire mood style length piece customize use edit functionality"
+    },
+    {
+        "progweb_cat": "Music,Applications",
+        "api_name": "RAMC",
+        "id": 1807,
+        "progweb_descr": " RAMC REST API Music Collections use access music collection standard unified way Servers implement RAMC various client web page smartphone apps desktop program talk RAMC server"
+    },
+    {
+        "progweb_cat": "Music,Applications",
+        "api_name": "Xbox Music Developer",
+        "id": 7482,
+        "progweb_descr": " Xbox Music Service make easy connect app website world Xbox Music Xbox Music API provide access RESTful web service offer many feature generate useful data"
+    },
+    {
+        "progweb_cat": "Music,Art",
+        "api_name": "Flat",
+        "id": 1863,
+        "progweb_descr": " Flat API support integration Flat online music notation platform application API allow developer integrate functionality support variety task include use MusicXML MIDI file create import mew music score deployment different file format browse update copy export score user It also simplify deployment Flat Education platform management educational material assignment schedule user account RESTful API send request HTTP format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Music,Art",
+        "api_name": "Beets",
+        "id": 2354,
+        "progweb_descr": " This API provide way fetch calculate metadata album art lyric genre tempos This include metadata MusicBrainz Discogs Beatport It also allow guess metadata use song filenames acoustic fingerprint transcode audio format check library duplicate track albums album miss track clean tag leave behind tools analyze music file metadata command line embedextract album art file metadata Browse music library graphically Web browser play browser support HTML5 Audio Listen library music player speak MPD protocol work stagger variety interface Beets medium library management system obsessivecompulsive music geek"
+    },
+    {
+        "progweb_cat": "Music,Art",
+        "api_name": "Rhymba",
+        "id": 2838,
+        "progweb_descr": " VL Groups Rhymba platform series RESTlike APIs endpoint design make integrate music downloads stream preview artwork site service ODatabased URL structure return JSON XML format available allow search content regardless give serverside programming language"
+    },
+    {
+        "progweb_cat": "Music,Art",
+        "api_name": "OpenAura",
+        "id": 7480,
+        "progweb_descr": " OpenAura platform artist control digital identity curating photo artwork information etc OpenAura API use create visual music experience visual content aggregate used build music apps experience This API currently Beta"
+    },
+    {
+        "progweb_cat": "Music,Art",
+        "api_name": "Music Story Pro",
+        "id": 9517,
+        "progweb_descr": " Music Story music metadata supplier know quality editorial production deep metadata database Music Story API provide developer access metadata database API expose 15 category metadata include basic data editorial data track data ISRC ISWC IPI API authenticate OAuth 10 return XML JSON format response"
+    },
+    {
+        "progweb_cat": "Music,Art",
+        "api_name": "Incubate",
+        "id": 13079,
+        "progweb_descr": " service provide online information annual independent culture culture festival Tilburg Netherlands Festival activity include eclectic mix music dance film visual art provide 200 artist international audience Information festival website also available via API API method support retrieval listing act event festival program either individually whole Listings also group genre venue"
+    },
+    {
+        "progweb_cat": "Music,Art",
+        "api_name": "National Student Radio Chart",
+        "id": 13475,
+        "progweb_descr": " National Student Radio Chart Show weekly live broadcast UK produce Student Radio Association program offer web service music metadata performer bio history track list image video content relate information Another service offer popularity chart specific studentrun radio station Music APIs Artist method return data performer range source Chart API return week popular track play member association Member list also available via API"
+    },
+    {
+        "progweb_cat": "Music,Business",
+        "api_name": "Soundtrack Your Brand",
+        "id": 2059,
+        "progweb_descr": " Soundtrack Your Brand REST API allow developer access integrate functionality Soundtrack Your Brand application create new application Some example API method include manage user run search retrieve result list soundtrack Soundtrack Your Brand provide music business build brand provide background music fit organization"
+    },
+    {
+        "progweb_cat": "Music,Catalogs",
+        "api_name": "SheetMusicDirect.com Digital Retailer",
+        "id": 2219,
+        "progweb_descr": " Digital Retailer API allow Sheet Music Direct partner offer entire SheetMusicDirectcom digital sheet music catalogue sale via websites This include score Music Sales Hal Leonard feature license music international music publisher include Universal Sony BMG EMI Chrysalis Disney Corporation SheetMusicDirect provide service allows download print thousand fully license sheet music title"
+    },
+    {
+        "progweb_cat": "Music,Open Source",
+        "api_name": "Ampache Web",
+        "id": 2301,
+        "progweb_descr": " This XML API allow 3rd party application integrate music metadata album art hold Ampache primary use API expose Ampache server mobile device maintain native fully functional client without rely web browser Ampache webbased audio video stream medium management application"
+    },
+    {
+        "progweb_cat": "Music,Content",
+        "api_name": "MusicFlow Web",
+        "id": 2472,
+        "progweb_descr": " MusicFlow Web service API allow application video editor content creation tool incorporate functionality MusicFlows music content customize fit visual emotional need MusicFlow online music production service enhances experience deliver medium content like videos slideshows photos game It provide high quality music adapt mood feel every moment medium content"
+    },
+    {
+        "progweb_cat": "Music,Content",
+        "api_name": "Rockbot",
+        "id": 6283,
+        "progweb_descr": " Rockbot API allow developer access integrate functionality Rockbot application Public documentation available API access come account service Rockbot social jukebox application allow company brand choose music play customer"
+    },
+    {
+        "progweb_cat": "Music,Animation",
+        "api_name": "VocaDB",
+        "id": 3188,
+        "progweb_descr": " VocaDB offer international music database dedicate sing synthesizer Vocaloid UTAU database contain information related artist albums music video API REST base respond XML JSON format GET request require format either JSONP CORS CORS use POST request"
+    },
+    {
+        "progweb_cat": "Music,Drawing",
+        "api_name": "Manufaktura Controls",
+        "id": 3596,
+        "progweb_descr": " Manufaktura Controls API provide user method display musical note many Net platform include ASPNET MVC WinForms WPF Silverlight Universal Apps Manufaktura Controls company develop software component visualize process music Their software design specifically use library archive musical institution IT company"
+    },
+    {
+        "progweb_cat": "Music,Performance",
+        "api_name": "SOCAN Works Registration",
+        "id": 4081,
+        "progweb_descr": " Works Registration API allow interaction SOCAN order submit work information perform artist production title origin detail publisher information JSON use data exchange OAuth authentication SOCAN Canadian base music industry leader provider location Toronto Montreal Vancouver"
+    },
+    {
+        "progweb_cat": "Music,Notifications",
+        "api_name": "SOCAN Notification of Live Performance",
+        "id": 4082,
+        "progweb_descr": " Notification Live Performance API allow interaction SOCAN order upload performer creator information type performance venue type capacity promoter information JSON use data exchange OAuth authentication SOCAN Canadian base music industry leader provider location Toronto Montreal Vancouver"
+    },
+    {
+        "progweb_cat": "Music,Copyright",
+        "api_name": "Teosto",
+        "id": 4294,
+        "progweb_descr": " Teosto API open source Finlandbased site aim provide communication platform musician meet users music business professional facilitate networking aid composer copyright help API intend offer feature retrieve live event information artists general artist information Teosto Finnish Composers Copyright Society"
+    },
+    {
+        "progweb_cat": "Music,Feeds",
+        "api_name": "Kanye REST",
+        "id": 4343,
+        "progweb_descr": " Kanye REST RESTful integration thing relate Kanye West It use obtain information album information specific song include lyric count word use every song write Kanye West This API use JSON data format machine learn incorporate variety project"
+    },
+    {
+        "progweb_cat": "Music,Cloud",
+        "api_name": "Mopidy Core",
+        "id": 4699,
+        "progweb_descr": " Mopidy Core API allow implement music streaming feature application base cloud With response JSON developer manage tracklist playback music library mixer music history additional functionality Mopidy offer Frontend API Backend API Extension API Mopidly music server play local music well music Spotify SoundCloud Google Play Music"
+    },
+    {
+        "progweb_cat": "Music,Cloud",
+        "api_name": "Mopidy Data Model",
+        "id": 4700,
+        "progweb_descr": " Mopidy Data Model API transfer data implement music stream feature application Parameters access artist name composer performer track release date Available JSON responses Mopidly music server play local music well music Spotify SoundCloud Google Play Music"
+    },
+    {
+        "progweb_cat": "Music,Cloud",
+        "api_name": "AudioBox.fm",
+        "id": 15231,
+        "progweb_descr": " Like cloudbased iTunes AudioBox open platform store manage stream medium library cloud API provide method store retrieve organize music All call require SSL"
+    },
+    {
+        "progweb_cat": "Music,Sales",
+        "api_name": "Revelator",
+        "id": 4868,
+        "progweb_descr": " Revelator API allow developer access account order share sell music online Revelator platform design use artists label distributor Users upload music Revelator cloud get hear top digital store service sell Data tracking visualization also provide"
+    },
+    {
+        "progweb_cat": "Music,Blogging",
+        "api_name": "Hype Machine",
+        "id": 5360,
+        "progweb_descr": " Hype Machine aggregate content music blog around web Use Hype Machine listen music read article browse genre popular late music Hype Machine API use HTTP GET method API Tokens authentication Use API access data like blog track artist list user favorite feature content"
+    },
+    {
+        "progweb_cat": "Music,Community",
+        "api_name": "Joyzi.de",
+        "id": 6351,
+        "progweb_descr": " Joyzide new German music share service similar Soundcloud artists post music connect listener want discover new music Joyzide API allow developer make public HTTP GET request order return basic user data name location city profile image etc Another type call return list 20 recent track user listen along correspond pertrack detail song title description number like number listens"
+    },
+    {
+        "progweb_cat": "Music,Big Data",
+        "api_name": "Doreso",
+        "id": 6799,
+        "progweb_descr": " Doreso automatic content recognition ACR company specialize music video social TV program recognition Doreso API let developer integrate service application With API developer able let user explore retrieve information different medium item music andor video"
+    },
+    {
+        "progweb_cat": "Music,Calendars",
+        "api_name": "WMG Tour Dates",
+        "id": 6906,
+        "progweb_descr": " Warner Music Group WMG one worlds large service record publish global distribution music Their open RESTful Tour Dates API allow developer track performance date WMGs artist directory An XML JSON response API return detail artist name specific show ID tour name tour ID venue name schedule set time schedule door time API also return location data file address state country name zip code timezone applicable specific longitude latitude coordinate venue location Developers filter result base artist country name tour ID tour name browse page per page"
+    },
+    {
+        "progweb_cat": "Music,Humor",
+        "api_name": "Equestrian Beats",
+        "id": 7677,
+        "progweb_descr": " Equestrian Beats free My Little Pony theme music site mean â€œplace artist publish pony music rest u listenâ€ Equestrian Beats API provide readonly access user track data"
+    },
+    {
+        "progweb_cat": "Music,Video",
+        "api_name": "plug.dj",
+        "id": 8526,
+        "progweb_descr": " Plugdj online community allow people enjoy music video content together realtime socially interactive environment Use plugdj create party friends peer around globe Choose variety unique avatar dance move communicate international partygoer use realtime chat translation Plugdj offer Javascript API enable developer write extension API consist function return various data well event dispatch engine"
+    },
+    {
+        "progweb_cat": "Music,Video",
+        "api_name": "Gracenote",
+        "id": 10294,
+        "progweb_descr": " Gracenote music video metadata company Gracenote provide metadata music video player car mobile web player device Metadata include cover art photo recommendation genre offer voice recognition service Gracenote API allow developer access integrate data functionality Gracenote application create new application Some example API method include search music retrieving associate data metadata retrieve track"
+    },
+    {
+        "progweb_cat": "Music,Bitcoin",
+        "api_name": "Beatcoin",
+        "id": 8693,
+        "progweb_descr": " Beatcoin online jukebox run bitcoins form digital currency Users create Beatcoin jukebox download Beatcoin app mobile device use Beatcoin API A website automatically set handle jukebox bitcoin payment Visitors go venue jukebox send bitcoins select song place queue Users move song queue send extra bitcoins Beatcoin API allow developer use REST call manage device playlists archive discover song queue song history song play payment address"
+    },
+    {
+        "progweb_cat": "Music,Open Data",
+        "api_name": "Linked Jazz",
+        "id": 9104,
+        "progweb_descr": " Linked Jazz project design reveal relationship jazz musician use digital archive jazz history project use Linked Open Data LOD technology uncover meaningful connection archive data reveal social network compose jazz musician professional personal life Linked Jazz API use search specific people return relationship information get raw text digital archive transcript"
+    },
+    {
+        "progweb_cat": "Music,Licensing",
+        "api_name": "Africori",
+        "id": 9918,
+        "progweb_descr": " Africori online music platform musicians composer agent Musicians license distribute manage music Africori Africori API allow developer access integrate functionality Africori application create new application Public documentation available interested developer contact Africori information httpwwwafricoricomenquiries"
+    },
+    {
+        "progweb_cat": "Music,Licensing",
+        "api_name": "Rumblefish",
+        "id": 14000,
+        "progweb_descr": " Rumblefish music licensing service help user create soundtrack project Artists label get pay royalty music use Rumblefish API allow user search license download music use video slideshows game thing consider move picture API let user integrage license music web sit mobile application Dynamic music search tool allow user explore via attribute include genre mood tempo instrument duration API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Music,Licensing",
+        "api_name": "Audiosocket MaaS",
+        "id": 14443,
+        "progweb_descr": " Audiosocket boutique music licensing agency represent 1800 emerge band composer record label around world Audiosockets MaaS Music Service provide integration API allow user search stream license thousand track world best independent musician API use RESTful call response format JSON JSONP"
+    },
+    {
+        "progweb_cat": "Music,Mobile",
+        "api_name": "MobRocker",
+        "id": 10044,
+        "progweb_descr": " MobRocker mobile application creation platform help user create application iPhone Android application MobRocker API require Gold level subscription access service contract free content update simple dynamic simultaneous platform additional information contact MobRocker"
+    },
+    {
+        "progweb_cat": "Music,Mobile",
+        "api_name": "Mobile Roadie",
+        "id": 14134,
+        "progweb_descr": " Mobile Roadie service musician create manage mobile application engage fan Features include Mobile Roadie include sell ticket show sell music add music interacting fan Mobile Roadie API allow developer access integrate functionality data Mobile Roadie application MySpace Some example API method include create content add content edit content retrieve comment manage user information"
+    },
+    {
+        "progweb_cat": "Music,Mobile",
+        "api_name": "Sony Ericsson Track ID",
+        "id": 15090,
+        "progweb_descr": " TrackID web service API provide access locationenabled music chart part Sony Ericsson OpenAPI program This API allow application developer adapt combine service mobile experience"
+    },
+    {
+        "progweb_cat": "Music,Mobile",
+        "api_name": "PlayPhone",
+        "id": 15331,
+        "progweb_descr": " PlayPhone provide personalization entertainment content mobile consumer form ringtones mobile game PlayPhone API update weekly give access mobile download database Using API display mobile content PlayPhones content catalog website dynamic search RSS feed capability PlayPhone lead global medium company present 20 country throughout North America Europe Asia Latin America provide cut edge personalization entertainment content mobile consumer form ringtones mobile game much Headquartered San Jose Calif PlayPhone found directtoconsumer mobile medium distribution standard 2003 continue innovate new mean interact mobile user deliver wireless entertainment PlayPhone give consumer access unique often exclusive medium catalog span audio video game content lead music label artists game publisher medium company like Sony BMG EMI Disney SEGA Konami many others company currently operate lead mobile entertainment destination PlayPhonecom English Spanish well power subscriptionbased mobile destination worlds top entertainment retail brand include WalMart ABC Television Cartoon Network Adult Swim Real Networks iPlay many"
+    },
+    {
+        "progweb_cat": "Music,Mobile",
+        "api_name": "Thumbplay",
+        "id": 15578,
+        "progweb_descr": " Hundreds developer website owner make money Thumbplays OPEN network Thumbplay fastestgrowing large mobile entertainment company US offering ringtones video game graphic 200 mobile phone user across major carrier We offer free open access entire catalog mobile content via REST APIs XML feed dynamic landing page"
+    },
+    {
+        "progweb_cat": "Music,Modules",
+        "api_name": "The Mod Archive",
+        "id": 10083,
+        "progweb_descr": " Mod Archive collection music module family music file originate Commodore Amiga 1987 Mod Archive API provide developer access archiveâ€™s database Requests search browse file name title module ID genre artist Responses XML format"
+    },
+    {
+        "progweb_cat": "Music,Metadata",
+        "api_name": "Qobuz",
+        "id": 10555,
+        "progweb_descr": " Qobuz Paris France base online music service provide high quality lossless music store per trackalbum download stream music service subscription basis Qobuz lossless FLAC 16bit 441 kHz stream service also large high resolution 24bit 192 kHz music catalogue wich make best online music source world whole catalogue today available France Belgium Switzerland Luxembourg soon Europe major country worldwide"
+    },
+    {
+        "progweb_cat": "Music,Metadata",
+        "api_name": "Quantone",
+        "id": 14717,
+        "progweb_descr": " Music metadata do right Decibels motto Decibel provide music metadata database deep rich content database link semantically order provide user song artist well location songwriter soloist session information Data implement music discovery research analysis database contain 12 million track source 11 million album 300000 artist Now 3rd version data programmatically retrieve via cloudbased Decibel API compatible JSON SOAP XML format"
+    },
+    {
+        "progweb_cat": "Music,Engagement",
+        "api_name": "Bandpage",
+        "id": 10898,
+        "progweb_descr": " Bandpage online platform musician band fan music industry connect interact BandPage let musicians manage online presence update share info music video photo show online Bandpage API allow developer access integrate functionality Bandpage application create new application Some example API method include manage account band information create share music file retrieve information band"
+    },
+    {
+        "progweb_cat": "Music,Auto",
+        "api_name": "Livio Connect",
+        "id": 11445,
+        "progweb_descr": " Livio Connect platform connect Livio Radio application device Livio Radio music platform design work car various device online Livio Connect API allow developer access integrate functionality Livio application device create new application Public documentation available interested developer sign httpsdeveloperlivioradiocom"
+    },
+    {
+        "progweb_cat": "Music,Classification",
+        "api_name": "Barbershop Tags",
+        "id": 11674,
+        "progweb_descr": " Barbershop Tags online resource download upload ranking 1946 Barbershop tag A tag Barbershop music short arrangement towards end song similar coda classical music Freely available tag downloads music video also available site interactivity user community encourage contributor stats post main page simple HTTP base programmer API allow browse tag associate videos well retrieve informational detail rate tag creation third party apps multiple platform"
+    },
+    {
+        "progweb_cat": "Music,Directories",
+        "api_name": "RadioPing",
+        "id": 11854,
+        "progweb_descr": " RadioPing directory service internet radio station RadioPing API provide radio information user API integration provide continually updated radio station information arrange location genre well reliability popularity radio station RadioPing offer RESTful web service return XML An API Key obtain license contract complete free public key available developer demo"
+    },
+    {
+        "progweb_cat": "Music,Directories",
+        "api_name": "Dirble",
+        "id": 13091,
+        "progweb_descr": " Dirble open radio station directory It store internet radio station category country API let user get station specific category specific country API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Music,Library",
+        "api_name": "IMSLP",
+        "id": 12738,
+        "progweb_descr": " International Music Score Library Project IMSLP community build library public domain music score original scan PDF project contain 170000 score 10000 recording 50000 work 7200 composer IMSLP API allow developer query data store library This data include composer work file category record ID It use RESTful call response format JSON PHP WDDX"
+    },
+    {
+        "progweb_cat": "Music,Collaboration",
+        "api_name": "Noteflight",
+        "id": 13947,
+        "progweb_descr": " Noteflight online music write application Noteflight allow user create edit view share print music notation Noteflight use anywhere internetbased Users also embed music site Noteflight offer two APIs server API client API server API allow user search obtain information user music client API allow user embed Noteflight application control playback Noteflight functionality"
+    },
+    {
+        "progweb_cat": "Music,Tickets",
+        "api_name": "Thrillcall",
+        "id": 14097,
+        "progweb_descr": " Thrill call web site act hub fan find tour date ticket review best venue see live music artists Thrillcall help event concert promotion across social network Facebook Myspace Twitter instantly publish event ticket data Thrillcall database API expose functionality site include list search artist event venue It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Music,Analytics",
+        "api_name": "Musicmetric",
+        "id": 14276,
+        "progweb_descr": " Musicmetric track index data 600000 artist 10 million individual release real time API provide direct access much data collect site artist base data Musicmetric guarantee data coverage top 1000 artist service provide fan activity data time social network sentiment analysis musicrelated text demographic fan API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Music,News Services",
+        "api_name": "USA Today Music Reviews",
+        "id": 14660,
+        "progweb_descr": " USA Today nationwide newspaper provide access music review go back 2004 Find recent review search base artist albums Filter result minimum maximum rating restrict year Results send JSON require API key"
+    },
+    {
+        "progweb_cat": "Music,Storage",
+        "api_name": "tunesBag",
+        "id": 15745,
+        "progweb_descr": " Use tunesBag API manipulate tunesBag account add item playlist create playlist create recommendation get artist information send invitation tunesBag site service upload music collection stream track stream track friend Use main site create playlist integrate Facebook lastfm Twitter account listen music anywhere anytime Join Google group view doc"
+    }
+]

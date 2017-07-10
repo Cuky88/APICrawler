@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Languages,Directories",
+        "api_name": "ProZ.com",
+        "id": 1833,
+        "progweb_descr": " Bring power world large freelance translator network application Whether develop CAT tool translation marketplace languagerelated application integrate ProZcoms API help power enhance ProZcoms API also help translation agency look automate task currently manually ProZcom"
+    },
+    {
+        "progweb_cat": "Languages,Audio",
+        "api_name": "Lionbridge GeoFluent Communication",
+        "id": 3220,
+        "progweb_descr": " Lionbridge GeoFluent Communication realtime language translation tool interactive conversation telephone call chat email ticket forums community customer care helpdesk RESTful API capable translating audio text format majority languages speak around world API well suit use contact center functionally design integrate communication single platform help organization achieve cost effectiveness Developers require register API key build application developer sandbox prior launch translation feature production mode"
+    },
+    {
+        "progweb_cat": "Languages,Analytics",
+        "api_name": "Microsoft Cognitive Services Linguistic Analysis",
+        "id": 4049,
+        "progweb_descr": " Microsoft Cognitive Services Linguistic Analysis API process language order gain access partofspeech tag parse Applications tool include mine customer feedback interpret user command consume web text Currently free plan limit transaction 5000 month maximum 2 per second available Linguistic Analysis API use JSON data exchange API Keys authentication"
+    }
+]

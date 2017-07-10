@@ -1,0 +1,176 @@
+[
+    {
+        "progweb_cat": "Browsers,Content",
+        "api_name": "WebKit Content Blockers",
+        "id": 1736,
+        "progweb_descr": " WebKit Content Blockers API integrate security measure via browser block unwanted content Rules write JSON format support Safari App Store OS X iOS Linux application"
+    },
+    {
+        "progweb_cat": "Browsers,Chat",
+        "api_name": "Surfly Cobrowsing Javascript",
+        "id": 1800,
+        "progweb_descr": " Surfly Javascript API allow integrate Surfly application Integrate Surfly current website web application automate management client agent creation make website web application real time collaboration tool Add widget code website make small adaptation code order customize way session behave appear Some feature include website integration session customization customize session start cobrowsing technology enables share browser others provide way communicate via video text chat use draw tool provide Surfly transparent layer allow client representative communicate use Surfly backdrop"
+    },
+    {
+        "progweb_cat": "Browsers,Chat",
+        "api_name": "Surfly Cobrowsing",
+        "id": 1801,
+        "progweb_descr": " Surfly REST API allow integrate functionality Surfly dashboard use directly website This enable integrate Surfly current website web application automate management client agent creation make website web application realtime collaboration tool Some feature include website integration session customization customize session start Surfly transparent layer allow client representative communicate use Surfly backdrop"
+    },
+    {
+        "progweb_cat": "Browsers,Addresses",
+        "api_name": "Mozilla TCP Socket",
+        "id": 2183,
+        "progweb_descr": " Mozilla TCP Socket API dedicate tool open deploy TCP connection This provide developer great flexibility build TCPIPbased protocol implement TCPhosted protocol include HTTP IMAP IRC POP among others API ’ deployment restrict certified privileged application"
+    },
+    {
+        "progweb_cat": "Browsers,Performance",
+        "api_name": "Mozilla Web Workers",
+        "id": 2384,
+        "progweb_descr": " Mozilla Web Workers API browserbased API handle web worker mechanisms run script operation background thread web application This prevent operation block slow main thread processing requirement This API cover dedicate worker share worker service worker chrome worker audio worker"
+    },
+    {
+        "progweb_cat": "Browsers,Bookmarks",
+        "api_name": "Opera Add-ons",
+        "id": 2635,
+        "progweb_descr": " Opera Software lead provider fast secure userfriendly browser solution Opera Addons API support installation application extend browser functionality Opera mainly support Navigator Extension NEX file format browser extension"
+    },
+    {
+        "progweb_cat": "Browsers,Bookmarks",
+        "api_name": "Opera Sidebar Action",
+        "id": 2636,
+        "progweb_descr": " Opera Software lead provider fast secure userfriendly browser solution Opera Sidebar Action API support addition action sidebars browser This particular API require onwards Opera 30 Opera mainly support Navigator Extension NEX file format browser extension"
+    },
+    {
+        "progweb_cat": "Browsers,Bookmarks",
+        "api_name": "Opera Speed Dial",
+        "id": 7561,
+        "progweb_descr": " Opera software company provider Opera web browser run variety operate system range device Opera Speed Dial extension API extend browser functionality This extension bring dynamic content like news feed weather etc When new blank page open Opera browser replace page feature user save bookmark"
+    },
+    {
+        "progweb_cat": "Browsers,Bookmarks",
+        "api_name": "Opera Stash",
+        "id": 7562,
+        "progweb_descr": " Opera software company provider Opera web browser run variety operate system range device Opera Stash extension API extend browser functionality This enable user save web page later view"
+    },
+    {
+        "progweb_cat": "Browsers,Customer Service",
+        "api_name": "yourbrowser",
+        "id": 3314,
+        "progweb_descr": " yourbrowseris allow developer integrate browser detection service exist application Additionally service report information operate system screen resolution pixel ratio language time zone social medium login status connection speed This API customize accord developer need API Keys need authentication JSON use data exchange"
+    },
+    {
+        "progweb_cat": "Browsers,Design",
+        "api_name": "Mozilla Intersection Observer",
+        "id": 3420,
+        "progweb_descr": " Mozilla Intersection Observer API allow developer observe change target element intersects ancestor element viewport Developers configure callback call whenever target intersect either device viewport another specify element This specification still work therefore subject change"
+    },
+    {
+        "progweb_cat": "Browsers,Recognition",
+        "api_name": "Modernizr",
+        "id": 4731,
+        "progweb_descr": " Modernizr API allow developer recognize HTML CSS JavaScript website Written JavaScript JSON protocols Key access Modernizr detect patterns browser particularly useful customize future user experience"
+    },
+    {
+        "progweb_cat": "Browsers,Web Site Management",
+        "api_name": "Mozilla Page Visibility",
+        "id": 4732,
+        "progweb_descr": " With Mozilla Page Visibility API user know page focus consider tabbed browse aim API case send visibilitychange event improve user experience To illustrate web application play video page automatically stand user return tab"
+    },
+    {
+        "progweb_cat": "Browsers,Parsing",
+        "api_name": "WhatIsMyBrowser.com",
+        "id": 4985,
+        "progweb_descr": " WhatIsMyBrowsercom API function agent parser This API return JSON responses offer plan Standard Enterprise different limit WhatIsMyBrowsercom provide system detection service client staff"
+    },
+    {
+        "progweb_cat": "Browsers",
+        "api_name": "Yandex Browser",
+        "id": 5663,
+        "progweb_descr": " Yandex Browser API allow developer customize appearance website feature certain YandexBrowser element This API REST base Yandex internet company Europe"
+    },
+    {
+        "progweb_cat": "Browsers,Security",
+        "api_name": "Yandex Safe Browsing",
+        "id": 5678,
+        "progweb_descr": " Yandex Safe Browsing API allow developer check safety document URL warn user try follow dangerous link Yandex internet company Europe"
+    },
+    {
+        "progweb_cat": "Browsers,Advertising",
+        "api_name": "TE Browser",
+        "id": 6036,
+        "progweb_descr": " TE Browser traffic exchange program provide professional way gain traffic website TE Browser API enable developer make request retrieve information Referral IDs URLs Traffic Exchanges use set TE Browser account manager return data API XML format"
+    },
+    {
+        "progweb_cat": "Browsers,Energy",
+        "api_name": "W3C Battery Status",
+        "id": 6462,
+        "progweb_descr": " Battery Status API document W3C browserbased API enables web developer discover battery life host device This enable web application feature dynamically cater device battery status improve powerefficiency user experience API dependence include EcmaScript WebIDL version 2 Battery Status API historically package within W3C System Information API exclude promote additional efficiency easy implementation Documentation API form brief write W3C representative Intel Google include code sample additional reference material"
+    },
+    {
+        "progweb_cat": "Browsers,Motion",
+        "api_name": "W3C Vibration",
+        "id": 6463,
+        "progweb_descr": " Vibration API simple browserbased device API document W3C Device APIs Working Group Vibration API enable developer trigger vibration mechanism host device smartphone vibration length pattern vibration customize API offer simple tactile feedback finegrained control API confuse send alert notification Notifications API handle request Vibration API specify wether host device contains vibration mechanism"
+    },
+    {
+        "progweb_cat": "Browsers,Augmented Reality",
+        "api_name": "Wikitude Cloud Targets",
+        "id": 6765,
+        "progweb_descr": " Wikitude augment reality browser iOS Android Windows Phone BlackBerry API allow developer use personal CMS Wikitude SDK Wikitude SDK use HTML5 CSS Javascript work hand hand Wikitude Cloud Target API accessible HTTP POST request SDK allow generation target collection track two dimensional camera stream form wearable device Wikitude Cloud Target API accept png jpeg image convert target These preprocessed target feed Wikitude SDK enable function properly"
+    },
+    {
+        "progweb_cat": "Browsers,File Sharing",
+        "api_name": "chrome.copresence",
+        "id": 6786,
+        "progweb_descr": " Chrome Copresence API make empower developer part Chrome developer channel API implement communicate nearby device use Googles copresence service Specifically API may use execute copresence operation publish subscribe programmatically batch amount"
+    },
+    {
+        "progweb_cat": "Browsers,File Sharing",
+        "api_name": "Peer5 Downloader",
+        "id": 7443,
+        "progweb_descr": " Peer5 offer JavaScript file downloader use web server site visitor use Chrome Firefox browser make download file faster still secure reliable End user download file simultaneously transmit portion file data end user download file data share take place help decrease bandwidth cost increase download speed If end user available p2p share becomes interrupt download temporarily cache process reverts web server API user use Peer5 platform file video audio site acceleration"
+    },
+    {
+        "progweb_cat": "Browsers,Application Development",
+        "api_name": "HTML5 Please",
+        "id": 8780,
+        "progweb_descr": " HTML5 Please web resource developer build around collection recommendation describe browser support suggest usage modern browser feature HTML5 CSS3 HTML5 API pull data caniusecom match userâ€™s UA Depending match API either tell user browser miss critical feature require page simply allow page render normally"
+    },
+    {
+        "progweb_cat": "Browsers,Application Development",
+        "api_name": "Userscripts",
+        "id": 10088,
+        "progweb_descr": " Userscripts website host thousand free script enhance enjoyment usability popular site Visitors search Userscripts website helpful script create account contribute Userscripts offer REST API use call JSON retrieve script site"
+    },
+    {
+        "progweb_cat": "Browsers,Application Development",
+        "api_name": "Sauce Labs",
+        "id": 13871,
+        "progweb_descr": " Webbased design debug testing tool via cloudhosted browser Allows keyboard mouse control virtual browser automatic track include videos screenshots session Sauce REST allow user retrieve information Sauce Labs resource programmatically HTTP use JSON Users create subaccounts retrieve account information retrieve job information video replay test selenium log test start stop Sauce Connect tunnel endpoint"
+    },
+    {
+        "progweb_cat": "Browsers,Mobile",
+        "api_name": "Brow.si",
+        "id": 8900,
+        "progweb_descr": " Browsi mobile browse interface allow various browse feature websites application share monetization engagement push notification Browsi work platform browser Browsi API allow developer access integrate functionality application create new application Public documentation available interested developer sign httpsbrowsidevelopers"
+    },
+    {
+        "progweb_cat": "Browsers,Automation",
+        "api_name": "Systemizer",
+        "id": 9058,
+        "progweb_descr": " Systemizer total web automation platform allow automate online workflow chain webbased event action user interaction together Systemizer functionality available via REST API Example API method include Account access aspects account management Sessions create work session order issue command browser automation Browser control host Chromebased browser ability click element set field value extract content An API key require"
+    },
+    {
+        "progweb_cat": "Browsers,Testing",
+        "api_name": "TestingBot",
+        "id": 13457,
+        "progweb_descr": " TestingBot website test service test websites multiple browser identify browserspecific bug Users test website web application multiple browser see result screenshots TestingBot API allow developer access data functionality TestingBot Some example API method include manage account information retrieve test detail access browser test"
+    },
+    {
+        "progweb_cat": "Browsers,Screenshots",
+        "api_name": "Browshot",
+        "id": 13458,
+        "progweb_descr": " Browshot service allow user take screenshots size variety device tablet smart phone computer Browshot also allow user test websites various device multiple resolution Browshot API allow developer access functionality Browshot integration application Some example API method include create list manage instance list browser information detail create screenshots"
+    }
+]

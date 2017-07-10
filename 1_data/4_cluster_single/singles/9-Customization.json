@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Customization,Feeds",
+        "api_name": "Boxalino Personalization",
+        "id": 3848,
+        "progweb_descr": " Boxalino website personalization platform base Switzerland It use adapt specific website user information time weather data Personalization API provide customization recommendation individual client Boxalino platform feature personalize landing page product search capabilities newsletter product recommendation"
+    },
+    {
+        "progweb_cat": "Customization,Machine Learning",
+        "api_name": "Boxalino Data Intelligence",
+        "id": 3849,
+        "progweb_descr": " Boxalino website personalization platform base Switzerland It use adapt specific website user information time weather data Data Intelligence API function interface developer data Boxalinos selflearning engine Boxalino platform feature personalize landing page product search capabilities newsletter product recommendation"
+    },
+    {
+        "progweb_cat": "Customization,Analytics",
+        "api_name": "IBM Watson Personality Insights",
+        "id": 4690,
+        "progweb_descr": " IBM Watson Personality Insights API design help discover people personality characteristic need value order guide end user highly personalized interaction personality characteristic output service include Big 5 Values Needs Personality Insight use measure brand personality help market segmentation individualize marketing campaign help recruiter match candidate company university Personality Insights work little 3500 word text"
+    },
+    {
+        "progweb_cat": "Customization,Open Graph",
+        "api_name": "Yammer OG Custom Types",
+        "id": 5322,
+        "progweb_descr": " Yammer OG Custom Types API allow developer specify custom object type custom action create rich activity application currently support standard object type action available apps Yammer private social network company"
+    },
+    {
+        "progweb_cat": "Customization,Marketing",
+        "api_name": "Personalizer",
+        "id": 5436,
+        "progweb_descr": " LimeSpot personalization engine delivers customize content base user behavior demographic Personalizer API RESTful use JSON PUTPOST request responses An API Token use authentication By log user activity API generates behaviorbased recommendation top pick relate trend recent view popular Add user demographic interest data application content increase engine result See extensive API doc information get start develop LimeSpot"
+    },
+    {
+        "progweb_cat": "Customization",
+        "api_name": "GitHub Gitignore",
+        "id": 5892,
+        "progweb_descr": " GitHub Gitignore API allow developer specify gitignore template apply repository upon creation This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Customization",
+        "api_name": "Jiglu Insight",
+        "id": 14505,
+        "progweb_descr": " Jiglu Insight API allow developer integrate enterprise application Jiglu platform Jiglu Insight platform content personalization discovery analysis developer describe feature API follow Web service HTTP API access Atom Publishing Protocol Open publish Java API allow integration enterprise application Feeds tag tag content occurrence RSS 10 RSS 20 Atom 10 format Full documentation available"
+    },
+    {
+        "progweb_cat": "Customization,Images",
+        "api_name": "DirectSmile",
+        "id": 12759,
+        "progweb_descr": " service provide tool generate personalized image document It support datadriven production medium resource create personalized image email display print variable data set webtoprint function Marketing campaign one application service capability API method support specification parameter generate customized image define render document Methods also handle production delivery document render"
+    },
+    {
+        "progweb_cat": "Customization,Advertising",
+        "api_name": "visitor.js",
+        "id": 13645,
+        "progweb_descr": " visitorjs application allow website owner personalize customize website base visitor information Some example customization include greet customer language base location offer special deal base referral search term display different information return visitor visitorjs API allow developer integrate functionality visitorjs application websites Some example API method include retrieve visitor location language information current session browser visitor use"
+    }
+]

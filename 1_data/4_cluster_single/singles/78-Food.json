@@ -1,0 +1,470 @@
+[
+    {
+        "progweb_cat": "Food,Indian",
+        "api_name": "Zomato Foodie Index",
+        "id": 311,
+        "progweb_descr": " Zomato restaurant food lifestyle guide India It offer API let users access update content available Zomato real time directly within apps Users get information restaurant list location coordinate review discount photo menus API let user search 18000 restaurant cover 10 major city India base various criterion Calls make use REST response format XML JSON"
+    },
+    {
+        "progweb_cat": "Food,Database",
+        "api_name": "Food",
+        "id": 544,
+        "progweb_descr": " Food Recipe API spoonaculars Food Recipe Menu Restaurant Nutrition API allow user access 360000 recipe 80000 food product API food ontology make possible search recipe use natural language gluten free brownie without sugar Users visualize recipe nutrition ingredient list analyze recipe cost find recipes nutritional requirement favorite ingredient whats fridge classify recipe convert ingredient amount even compute entire meal plan spoonacular strives first food management system combine eat find organize restaurant product recipe fit diet help reach nutritional goal"
+    },
+    {
+        "progweb_cat": "Food,Database",
+        "api_name": "Food2Fork",
+        "id": 9775,
+        "progweb_descr": " Food2Fork online database socially rank recipe ingredient search functionality Food2Fork API provide programmer access ingredient search API support GET POST call HTTP Responses JSON format"
+    },
+    {
+        "progweb_cat": "Food,Database",
+        "api_name": "FoodEssentials Label",
+        "id": 10751,
+        "progweb_descr": " FoodEssentials service provide data food product FoodEssentials provide database food label information FoodEssentials Label API allow developer access integrate functionality data FoodEssentials application create new application Some example API method include access food product information search food ingredient retrieve allergy information"
+    },
+    {
+        "progweb_cat": "Food,Localization",
+        "api_name": "SinglePlatform",
+        "id": 924,
+        "progweb_descr": " SinglePlatform worldâ€™s lead provider menu free API enable publisher implement hundred thousand restaurant menu span 13000 city Forward think publisher integrate menu directly framework increase key digital metric silo user leave go competitor importantly enhance user experience SinglePlatforms publisher include many large medium company search engine social medium site mobile application travel guide local review sit Partners include everyone Foursquare New York Times YellowPagescom MetroMix Village Voice Media Foodspotting Hunch Visit wwwsingleplatformcom find email SP directly infosingleplatformcom"
+    },
+    {
+        "progweb_cat": "Food,Localization",
+        "api_name": "HomeCook",
+        "id": 13053,
+        "progweb_descr": " Homecookme site allow local food business promote gain large reach audience farmer market Businesses also gain follower business lead Twitter Facebook social plugins Yelp connector Google map API allow user search local business farmer market food item get detail farmer market local business API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Food,Spanish",
+        "api_name": "Food2u",
+        "id": 935,
+        "progweb_descr": " Food2u application allow user Spain order food restaurant near location Food2u locate restaurant user vicinity show result user choose want order place order delivery Food2u API allow developer access integrate functionality Food2u application create new application Some example API method include search retrieve restaurant retrieve menu item place order"
+    },
+    {
+        "progweb_cat": "Food,Mapping",
+        "api_name": "Beer Mapping",
+        "id": 1166,
+        "progweb_descr": " Beer Mapping API let get latitudelongitude phone number rating address brewery beerrelated venue Access wide variety data database"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "Open Dining Network Food Ordering",
+        "id": 1280,
+        "progweb_descr": " API provide functionality consumer restaurant access Open Dining Network view menu place take meal order Open Dining Network list menu restaurant customer search order via web mobile device REST API allow common consumer task search nearby restaurant menu item view restaurant menu item detail build order restaurant API allow common administrative task add new menu item update exist menu offering change business hour Additional information httpsupportopendiningnetcustomerportaltopics554435apireferencearticles"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "GrubHub",
+        "id": 6445,
+        "progweb_descr": " GrubHub web app allow user search food delivery option local restaurant Users search type food discover convenient local bite Their semiopen API use provider update restaurant information address hour cuisine type API also use retrieve menu information database 10000 restaurant Currently API offer public documentation interested party request app approval visit GrubHub developer page"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "Street Food App",
+        "id": 7404,
+        "progweb_descr": " This Vancouver BC base software app developer company create mobile apps locate food truck small grow number Canadian US city Street Food App API let developer add food truck schedule stop website application"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "Eat24",
+        "id": 7426,
+        "progweb_descr": " Eat24 online food delivery service They include 25000 restaurant 1000 city With Eat24 iOS SDK developer embed Eat24s online food order exist iOS application This allow user store purchase information well access order history enable easy reorder"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "Apricot",
+        "id": 8002,
+        "progweb_descr": " Apricot restaurant discovery API Apricot allow user lookup restaurant IDs Foodspotting Yelp Foursquare CitySearch Urbanspoon Google Maps Instagram Facebook Apricot API allow developer access integrate functionality Apricot applications Some example API method include look restaurant venue retrieve restaurant information"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "Restalo",
+        "id": 8785,
+        "progweb_descr": " Restalo online restaurant guide allow user make real time reservation restaurant major city across SpainItaly France UK Users find detailed information restaurant take advantage exclusive discount offer exclusively Restaloâ€™s user Restalo offer RESTful API affiliate partner search filter restaurant information restaurant offer availability book restalo coupon user management favorite restaurant An API key require"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "Hoppit",
+        "id": 9315,
+        "progweb_descr": " Dubbed Yelp meet Pandora Hoppit API answer ongoing question Where eat tonight give access restaurant data use awardwinning application see FOX CBS Mashable This include nation large repository highresolution restaurant photography Vibe data available 20 US city Filter restaurant bar coffee shop type Vibe eg Cozy Hipster Romantic scenario eg Date Colleague Children well price cuisine eg Italian meal eg Brunch Perfect developer travel lifestyle food social local application wish surface amaze content Hoppit user interact every second Available New York Brooklyn San Francisco Chicago Boston Washington DC Los Angeles San Diego Seattle Portland Houston Dallas Austin Atlanta Philadelphia Miami New Orleans Las Vegas Denver"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "Zuppler",
+        "id": 10386,
+        "progweb_descr": " Zuppler online menu system restaurant online presence wish make webbased order easier intuitive Using Zuppler restaurant employ descriptive menuswith full support Zupplerfrom allow online customer order online takeout delivery ahead time dinein Zuppler provide APIs Javascript RESTful JSON version Javascript API let manage Menu integration use Zuppler Online Ordering System website mangage restaurant profile logo discount cuisine picture display Zuppler restaurant review RESTful APIs manage create use POST restaurant menu special well fetch restaurant listing create new restaurant listing return information specific restaurant"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "MICROS myreservation",
+        "id": 11530,
+        "progweb_descr": " MICROS offer cloudbased reservation system enable customer look book reservation restaurant website real time When customer book reservation receive email confirmation booking post maintain within MICROS PointofSale system Developers may define number reservation offer time slot configure availability directly These function access programmatically use SOAPbased MICROS myreservation API"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "ChowNow",
+        "id": 12359,
+        "progweb_descr": " ChowNow mobile Facebook application restaurant manage food order Restaurants use ChowNow create application customer order food either mobile Facebook ChowNow API allow developer access integrate functionality ChowNow application create new application Public documentation available interested developer sign information httpwwwchownowcomapi"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "Subway SubCard",
+        "id": 13633,
+        "progweb_descr": " unofficial Subway SubCard available UK allow cardholder collect point Subway purchase redeem free sub card function use JSON API send data Once expose API use cardholder access data even integrate application This API make available individual affiliate Subway"
+    },
+    {
+        "progweb_cat": "Food,Restaurants",
+        "api_name": "OpenMenu",
+        "id": 13668,
+        "progweb_descr": " OpenMenu help restaurant store share menu Internet standardize menu structure format This information store single centralized database freely accessible searchable API developer public OpenMenu allow restaurant maintain update single menu access variety site Facebook Wordpress"
+    },
+    {
+        "progweb_cat": "Food,Beer",
+        "api_name": "Untappd",
+        "id": 1316,
+        "progweb_descr": " Untappd mobile web app allow user socially share friend beer theyre currently enjoy well theyre enjoy Untappd API give developer insight Untappd data visualize consumer Currently API readonly require approval Untappd team prior receive access API detail access without log site Users request information apiuntappdcom"
+    },
+    {
+        "progweb_cat": "Food,Beer",
+        "api_name": "Open Beer Database",
+        "id": 10550,
+        "progweb_descr": " Per provider Open Beer Database return see link Open Beer Database free public database beer brewery information Open Beer Database API provide developer access data RESTful interface GET POST call support Results return JSON JSONP format"
+    },
+    {
+        "progweb_cat": "Food,Beer",
+        "api_name": "RateBeer",
+        "id": 12491,
+        "progweb_descr": " Ratebeercom member drive beer rating database offer detail profile beer brewery around world JSON API allow user retrieve post information site along perk Users search bar beer store location get sample list beer offer location retrieve beer score info beer ratebeer database search UPC code brewer season style etc API also allow user check place tick beer consume future reference"
+    },
+    {
+        "progweb_cat": "Food,Agriculture",
+        "api_name": "tropicalfruitandveg",
+        "id": 2141,
+        "progweb_descr": " tropicalfruitandvegcom API provide simple way integrate information tropicalfruitandvegcom This REST API available XML JSON HTML return description health soil climate This include acces web IOS Android Windows Mobile Tropicalfruitandvegcom grow tropical fruit vegetable spice nut London UK"
+    },
+    {
+        "progweb_cat": "Food,Agriculture",
+        "api_name": "Agrolink",
+        "id": 9338,
+        "progweb_descr": " Agrolink Brazilian agricultural information website It host SOAP API allow user retrieve site content programmatically This include cropspecific information agricultural news farmingrelated statistic information use AGROSOL type CO2containing fertilizer Website content provide solely Portuguese Registration need access API documentation"
+    },
+    {
+        "progweb_cat": "Food,Dieting",
+        "api_name": "Meal Plantastic",
+        "id": 2225,
+        "progweb_descr": " Meal Plantastic SaaS build support platform need many different meal planning segment include Food Service Meal Kit Food Blog Catering Wellness Wed like help evaluate Meal Plantastic SaaS meal plan application Contact u today well happy answer question may"
+    },
+    {
+        "progweb_cat": "Food,Dieting",
+        "api_name": "INRFOOD REST",
+        "id": 3539,
+        "progweb_descr": " This REST API allow discus share others view diet advanced analytics use nutritional product database provide access build upon INRFOOD work team dietician nutritionist create place ingredient define"
+    },
+    {
+        "progweb_cat": "Food,Ordering",
+        "api_name": "EatStreet",
+        "id": 2416,
+        "progweb_descr": " EatStreet API allow developer get information menu data local restaurant well place track order takeout delivery EatStreets database include menu information 12000 restaurant API also use create manage user account include information credit card address"
+    },
+    {
+        "progweb_cat": "Food,Education",
+        "api_name": "Harvard University CS50 Food",
+        "id": 3529,
+        "progweb_descr": " This API provide RESTful interface allow retrieve Harvard University Dining menu JSON JSONP XML Each night CS50 screenscrapes nutritional fact menus recipe week ’ menu cache local database query CS50 program course offer Harvard University make available set APIs use class"
+    },
+    {
+        "progweb_cat": "Food,Education",
+        "api_name": "Pearson Kitchen Manager",
+        "id": 12784,
+        "progweb_descr": " Pearson Kitchen Manager API valuable resource food enthusiast chefs alike feature vast collection recipe bestselling Pearson textbooks top culinary school With 3000 recipe Pearson Kitchen Manager allow cook truly maximize value recipe content"
+    },
+    {
+        "progweb_cat": "Food,Comparisons",
+        "api_name": "Foodpairing",
+        "id": 3764,
+        "progweb_descr": " This JSON base API allow compare food experience include menu ingredient beverage description categorization nutrition origin season cuisine Foodpairing tool use discover new flavor combination"
+    },
+    {
+        "progweb_cat": "Food,Advertising",
+        "api_name": "CoffeeSender REST",
+        "id": 3782,
+        "progweb_descr": " This REST API egifting platform company instantly send coffee customer prospect partner within Salesforce Gmail SurveyMonkey softwareapps Some feature business software integration team management custom templates realtime analytics Code sample CoffeeSender include cURL Java JavaScript NodeJS Perl Python Php Ruby GO C Visual Basic Groovy ObjectiveC Swift CoffeeSender use sale market recruiter realtor"
+    },
+    {
+        "progweb_cat": "Food,Advertising",
+        "api_name": "Kitchen Monki",
+        "id": 11529,
+        "progweb_descr": " Kitchen Monki cook productivity tool allow user organize search share recipes well automate grocery list Kitchen Monkiâ€™s RESTful API provide customer access Kitchen Monki platform allow user perform variety task include retrieve manipulate recipe data object reuse content across platform application"
+    },
+    {
+        "progweb_cat": "Food,Data",
+        "api_name": "FoodFacts",
+        "id": 4322,
+        "progweb_descr": " FoodFacts API allow developer harness powerful food product data contain full information product nutrition information ingredient allergens associated warning report card innovative scoring mechanism create FoodFacts Developers utilize API add powerful food data well UPC scan capability new exist application web andor apps Android iOS Windows etc"
+    },
+    {
+        "progweb_cat": "Food,Data",
+        "api_name": "Edamam Diet Recommendations",
+        "id": 4856,
+        "progweb_descr": " Edamam recipe search platform nutrition data capability It filter recipes 25 attribute include recipe complexity nutrition information Diet Recommendations API use build custom diet plan This API return data JSON format require API key Edamam offer 4 plan different call limit base New York"
+    },
+    {
+        "progweb_cat": "Food,Data",
+        "api_name": "National Nutrient Database",
+        "id": 5583,
+        "progweb_descr": " Use National Nutrient Database API access USDA data food nutrient REST API return response JSON XML require API Key Calls API limit 1000 per hour data free open public use Use National Nutrient Database generate nutrient report get list product nutrient food group search specific food product"
+    },
+    {
+        "progweb_cat": "Food,Data",
+        "api_name": "Open Food Facts",
+        "id": 5595,
+        "progweb_descr": " Open Food Facts API provide access data information food product around world Access extensive data product ingredient nutrition fact allergens additive searchfilter product brand This free open API JSON base access HTTP use product barcode information Developers note API still experimental may change author ask join API mail list keep abreast change update Join mail list apisubscribeopenfoodfactsorg"
+    },
+    {
+        "progweb_cat": "Food,Backend-as-a-Service",
+        "api_name": "Grocery Checklist",
+        "id": 4837,
+        "progweb_descr": " Grocery Checklist API RESTful application program interface provide backend service mobile application help user grocery shop This API provide useful tool service create Checklist Items Product Search organize Categories"
+    },
+    {
+        "progweb_cat": "Food",
+        "api_name": "Coca Cola Enterprises",
+        "id": 7210,
+        "progweb_descr": " Coca Cola Enterprises intend connect community virtual sustainability map feature website At time CCE recommend use API developer able build collaborative environment online offline This API valuable company might benefit connection product public responsibility social commitment API support JSON XML format Developers find documentation product location customer supplier navigation Access information varies developer public partner CCE API site encourages explore document use API Key location method Discussion forum available developer support"
+    },
+    {
+        "progweb_cat": "Food",
+        "api_name": "Recipe Puppy",
+        "id": 15112,
+        "progweb_descr": " Recipe Puppy ingredient base recipe search engine Recipe Puppy API give developer access database million recipe search ingredient keyword Access gain via HTTP result return JSON XML"
+    },
+    {
+        "progweb_cat": "Food,Humor",
+        "api_name": "TacoFancy",
+        "id": 7381,
+        "progweb_descr": " TacoFancy communitydriven taco recipe repository It include multiple directory contain tortilla recipe salsas full taco description tacolike food etc People encourage fork submit recipe TacoFancy API allow user retrieve random taco recipe get information recipe contributor see make contribution"
+    },
+    {
+        "progweb_cat": "Food,Mobile",
+        "api_name": "Chicago Food Truck Finder",
+        "id": 7405,
+        "progweb_descr": " Chicago Food Truck Finder site feature map list vendor weekly schedule common food truck sit blog track mobile food scene Chicago Its REST API allow application developer use Chicago food truck location data well"
+    },
+    {
+        "progweb_cat": "Food,Social",
+        "api_name": "Forage City",
+        "id": 7427,
+        "progweb_descr": " Forage City create Youth Radio work food justice community online mobile app enable user find share backyard fruit neighbor nonprofit make healthy food accessible With Forage City API create Forage City application make city Forage City"
+    },
+    {
+        "progweb_cat": "Food,Social",
+        "api_name": "Nutribu",
+        "id": 8711,
+        "progweb_descr": " Nutribu aim transform nutrition social experience Nutribu API provide developer access food nutritional data Exposed resource include metadata describe user product ingredient group"
+    },
+    {
+        "progweb_cat": "Food,Social",
+        "api_name": "We Eatt",
+        "id": 10348,
+        "progweb_descr": " WeEatt recipe share site allow user store recipe add image video connect friend We Eatt API provide RESTful interface automate recipe search access recipe detail All call response JSON format"
+    },
+    {
+        "progweb_cat": "Food,Social",
+        "api_name": "Foodspotting",
+        "id": 14028,
+        "progweb_descr": " Foodspotting visual food review share site application Unlike food review sit Foodspotting let user review dish instead restaurant Along review user upload photo dish user see dish look like Within site application user search dish restaurant location Foodspotting API allow developer access integrate information image Foodspotting Some example API method include retrieve uploading image search retrieve user information dish place review add review information"
+    },
+    {
+        "progweb_cat": "Food,Nutrition",
+        "api_name": "ReciPal",
+        "id": 7739,
+        "progweb_descr": " Recipal provide cloudbased service food business include nutrition analysis nutrition fact labels ingredient list recipe cost recipe management Recipal API provide RESTful interface manage site ingredient recipe database"
+    },
+    {
+        "progweb_cat": "Food,Nutrition",
+        "api_name": "ESHA Nutrition Database",
+        "id": 13559,
+        "progweb_descr": " service allow lookup nutrient database document 13500 food Data return profile content 18 nutrient calorie count food item match submit query Information base frequently updated submission 200 supplier Methods support submission food name return profile match entry database Profiles reflect category food nutrient content relate data typical quantity serving Results reflect vary available form product fresh frozen package etc"
+    },
+    {
+        "progweb_cat": "Food,Chemistry",
+        "api_name": "E-additives",
+        "id": 8204,
+        "progweb_descr": " Eadditives API REST base service return JSONP API allow user make call get list food additive well designate sort order Users also search food additive get information single additive get list additive category get information single category An API key require use"
+    },
+    {
+        "progweb_cat": "Food,Canadian",
+        "api_name": "EatSafe Ottawa",
+        "id": 8320,
+        "progweb_descr": " EatSafe Ottawa API provide developer method retrieve information safety restaurant Ottawa Users retrieve information specific restaurant get list restaurant near give location search restaurant name This API use REST call issue JSON"
+    },
+    {
+        "progweb_cat": "Food,Search",
+        "api_name": "Recipeon.us",
+        "id": 8528,
+        "progweb_descr": " Recipeonus recipe search engine Users enter ingredient list Recipeonus return list relevant recipe Recipeonus API allow application perform recipe search API allow call specify particular meal eg breakfast capable suggest ingredient match partial misspell name"
+    },
+    {
+        "progweb_cat": "Food,Search",
+        "api_name": "Campbells Kitchen Brand",
+        "id": 8723,
+        "progweb_descr": " Campbellâ€™s recipe food provider own distribute food company Pace Swanson Pepperidge Farm Prego Campbells Kitchen developer site whereby user access Campbells Kitchen Brand API API use REST call return XML JSON Developers use API access ingredient need build apps contain recipe ingredient list API allow user make call search get recipe information"
+    },
+    {
+        "progweb_cat": "Food,Search",
+        "api_name": "RecipeBridge",
+        "id": 10429,
+        "progweb_descr": " RecipeBridge recipe search engine index recipes hundred website RecipeBridge API allow developer build application search recipe title ingredient retrieve detail recipe information include ingredient list quantity recipe source"
+    },
+    {
+        "progweb_cat": "Food,Search",
+        "api_name": "Kraft Recipe",
+        "id": 11920,
+        "progweb_descr": " service provide recipe highlight ingredient provider company application incorporate Recipes categorize meal apply classification kidfriendly budget healthconscious ethnic cuisine Recipe data break ingredient number serving preparation time specific API method support retrieval recipe match specified classification particular characteristic interest ingredient cook time Methods also support creation user personal collection ingredient shopping list user poll"
+    },
+    {
+        "progweb_cat": "Food,Metadata",
+        "api_name": "WebKnox Recipe",
+        "id": 8596,
+        "progweb_descr": " Begun research project Royal Melbourne Institute Technology University Technology Dresden WebKnox ontologydriven fact extraction engine build provide direct fast complete answer question topic user think To answer question WebKnox use external service might previously provide answer compute answer use knowledge base If option fail WebKnox try find answer fly WebKnox host suite REST APIs deliver range web service WebKnox Recipe API provide developer access 100000 recipe API capable search answer reciperelated question use natural language classify recipe find similar recipe much API also deliver widgets visualize ingredient price breakdown create recipe card"
+    },
+    {
+        "progweb_cat": "Food,Ratings",
+        "api_name": "Curd Collective",
+        "id": 9001,
+        "progweb_descr": " Curd Collective online community devote cheese Users explore browse search rate cheese Users also use Curd Collective checkin cheese tasting Curd Collective offer information cheese Curd Collective API allow developer access integrate functionality Curd Collective application Public documentation available interested developer email teamcurdcollectivecom information"
+    },
+    {
+        "progweb_cat": "Food,Products",
+        "api_name": "Kwikee",
+        "id": 9244,
+        "progweb_descr": " Kwikee resource consumer product image nutrition data Kwikee make data freely available retail trade entity help ensure product accurately represent consumer Kwikee API allow access weekly export entire publicly publish product database well daily incremental database update Future method allow user execute ondemand query specific manufacturer brand UPCsGTINs Data deliver XML format include product image URLs downloading"
+    },
+    {
+        "progweb_cat": "Food,Government",
+        "api_name": "USDA National Farmers Market Directory",
+        "id": 9321,
+        "progweb_descr": " USDA National Farmers Market Directory provide public selfreported information US farmer market This include location travel direction operate time product offering accept payment method list farmer market accuracy information guarantee listing recently update prospective marketgoers advise contact list market representative check market website available visit USDA National Farmers Market Directory maintain AMS Marketing Services directory content access programmatically use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Food,Health",
+        "api_name": "Edamam Recipe Search",
+        "id": 9799,
+        "progweb_descr": " Edamam Recipe Search Diet API let integrate recipe faceted recipe search website mobile application This API provide developer useful tool search recipe diet databases Using API numerous recipe search 15 million recipe web source organize databases New site recipes continuously add Search tool type hit include information nutrition recipe diet health label measurement ingredient There also capabilities able filter calorie diet allergen Edamam develop 20 diet health filter customer use Now developer create application virtually popular diet major health condition"
+    },
+    {
+        "progweb_cat": "Food,Health",
+        "api_name": "Pizza-Rat Restaurant Health",
+        "id": 15159,
+        "progweb_descr": " With PizzaRats Restaurant Health API user get access realtime restaurant health department inspection score result 20 city worldwide API offer RESTful interface return resultsscores via XML format"
+    },
+    {
+        "progweb_cat": "Food,Recommendations",
+        "api_name": "TheBeerSpot",
+        "id": 10507,
+        "progweb_descr": " TheBeerSpot provide viewer user information rating beer well place discus TheBeerSpot API allow user use site beer brewery data access site feature use thirdparty website application API use REST call return JSON An API account TheBeerSpot require service free use SSL authentication"
+    },
+    {
+        "progweb_cat": "Food,Recommendations",
+        "api_name": "VegGuide",
+        "id": 10958,
+        "progweb_descr": " VegGuideorg provide userrated directory vegan vegetarian veganfriendly restaurant store around world site searchable location business VegGuide API allow user add new restaurantstorescomments image part core data structure API also allow user search region get reviews entry service use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Food,Recommendations",
+        "api_name": "RatePubs",
+        "id": 15774,
+        "progweb_descr": " Use RatePubs API get twoway access bar information include reviews Visitors site get information review leave review"
+    },
+    {
+        "progweb_cat": "Food,Demographics",
+        "api_name": "California Restaurant Association Demographics",
+        "id": 10591,
+        "progweb_descr": " service provide management customer segmentation record member restaurant California organization serve state 90000 restaurant generate annual sale 58 billion employ 14 million people One service member ability track market composition demographic location API method support create demographic record manage within service update exist record"
+    },
+    {
+        "progweb_cat": "Food,German",
+        "api_name": "Menumix",
+        "id": 10917,
+        "progweb_descr": " MenÃ¼mix allow view information restaurant region Germany emphasis available menu item distance location deal offer cuisine type service provide way restaurant market online wide variety potential customer MenÃ¼mix API grant access menu service information restaurant profile current menu variety POST GET call Returns JSON XML API primarily cater restaurateur wish utilize MenÃ¼mixs information freely third party application developer want integrate MenÃ¼mixs regional information program"
+    },
+    {
+        "progweb_cat": "Food,African",
+        "api_name": "Ukulima.net",
+        "id": 11115,
+        "progweb_descr": " Ukulima mean farm Swahili award grant Rockefeller Foundation Pamoja Media begin develop social network platform Kenyan farmer communicate use web mobile internet After develop support Kenya Ukulimanet hop extend service part Africa Ukulimanet REST API allow developer communicate data server use POST GET method create cooperative third party application return JSON"
+    },
+    {
+        "progweb_cat": "Food,Alcohol",
+        "api_name": "Oregon Liquor Prices",
+        "id": 11151,
+        "progweb_descr": " Oregon Liquor Prices provide comprehensive liquor price data pull directly Oregon Liquor Control Commissionâ€™s database Oregon Liquor Prices API provide developer free RESTful interface access Oregon Liquor Control Commissionâ€™s liquor store metadata"
+    },
+    {
+        "progweb_cat": "Food,Alcohol",
+        "api_name": "Barnivore",
+        "id": 11352,
+        "progweb_descr": " Barnivore guide vegan beer wine liquor Barnivore Vegan Alcohol Directory list vegan status thousand alcohol product Barnivore make data freely available API allow user great latitude use Barnivore data variety purpose"
+    },
+    {
+        "progweb_cat": "Food,Wine",
+        "api_name": "Winestein",
+        "id": 11468,
+        "progweb_descr": " WineWineWinecom offer user access online wine cellar keep track wine user wine wish favorite list wine review personal wine advice Weinstein API offer WineWineWine enable user integrate wine pairing service hisher online store service available XML feed custom integration WineWineWine websites apps website Dutch"
+    },
+    {
+        "progweb_cat": "Food,Wine",
+        "api_name": "Wine-Searcher",
+        "id": 14328,
+        "progweb_descr": " WineSearcher search engine price list 24909 wine store around world WineSearcher Wine API let developer integrate wine search engine application Potential application API include Show average minmax price wine within website application Value win user private cellar Allow user see buy wine API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Food,Wine",
+        "api_name": "AVIN",
+        "id": 14359,
+        "progweb_descr": " AVIN unique 13 digit number act like ISBN book use track wine AVIN API service allow automatic access AVINs uptodate wine information Information expose API include producer wine country wine type API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Food,Japanese",
+        "api_name": "Tekisaku",
+        "id": 12128,
+        "progweb_descr": " Tekisaku website aim help Japanese farmer predict unit price shipping cost fieldgrown vegetable time harvest A service also provide estimate probability successfully raise specific type crop give region base historical weather data Currently Tekisaku work 20 variety vegetable include cabbage Chinese cabbage radishes onion spinach lettuce carrot potato Documentation provide exclusively Japanese"
+    },
+    {
+        "progweb_cat": "Food,Coupons",
+        "api_name": "BlockBeacon",
+        "id": 12254,
+        "progweb_descr": " BlockBeacon application collect displays realtime deal food din drinking Deals display keyword type map BlockBeacon API allow developer access integrate functionality data BlockBeacon application Public documentation available interested developer sign httpwwwblockbeaconcompartnersdevelopers"
+    },
+    {
+        "progweb_cat": "Food,Nordic",
+        "api_name": "OnlinePizza.se",
+        "id": 12667,
+        "progweb_descr": " OnlinePizzase provide RESTful API allow user order pizza 945 pizzeria 155 city town throughout Sweden Orders create sent programmatically yield JSON response order confirmation This service also use query database menu customer review restaurant information"
+    },
+    {
+        "progweb_cat": "Food,Barcodes",
+        "api_name": "Nutritionix",
+        "id": 12699,
+        "progweb_descr": " Nutritionix search engine database nutrition information Users browse search restaurant food find nutrition information Users also share nutrition data Nutritionix Nutritionix API allow developer access integrate functionality data Nutritionix application create new application Public documentation available interested developer sign httpwwwnutritionixcomapi"
+    },
+    {
+        "progweb_cat": "Food,Semantics",
+        "api_name": "SÃ¤songmat",
+        "id": 12972,
+        "progweb_descr": " service provide Swedishlanguage content seasonal availability food Sweden region When food naturally available supply least environmental impact also least expensive quality high service seek help consumer maximize us seasonally product give access database food source API method support retrieval content raw unprocessed food product specify name EAN13 bar code PLU code Methods also allow specification region food grow harvest produced Methods also allow application update database new information food product A plugin WordPress blogging platform available data retrieve semantic markup"
+    },
+    {
+        "progweb_cat": "Food,Grocery",
+        "api_name": "Supermarket",
+        "id": 13739,
+        "progweb_descr": " Supermarket API AisleFinder allow developer access integrate information supermarket application service Currently Supermarket API support information Whole Foods Trader Joes Safeway Costco WalMart US Example API method include search retrieve information state city return store name zip code city state search retrieve grocery item information time"
+    },
+    {
+        "progweb_cat": "Food,API",
+        "api_name": "BigOven Recipe",
+        "id": 15407,
+        "progweb_descr": " Get 350000 recipe hundred thousand photos Search title ingredient keyword nutritional information pay plan require much much Manage folder addremove recipe individual item grocery list cloud This API give developer data scientist work application foodtech health grocery delivery home automation field access recipes affordable price Theres Swaggerbased API let get start quickly generate interface library favorite language Nodejs Ruby CNET php Python"
+    }
+]

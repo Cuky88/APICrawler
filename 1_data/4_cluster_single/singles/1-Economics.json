@@ -1,0 +1,8 @@
+[
+    {
+        "progweb_cat": "Economics,Financial",
+        "api_name": "Intrinio US & Global Economic",
+        "id": 1547,
+        "progweb_descr": " Intrinio US Global Economic API allow developer access recent historical time series data 200000 economic index Federal Reserve United States These index include USD forex exchange rate effective fund rate nonfarm payroll GDP treasury rate unemployment rate Responses give JSON CSV include level index year year change percent change"
+    }
+]

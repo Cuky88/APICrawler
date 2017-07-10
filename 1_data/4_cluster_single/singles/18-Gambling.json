@@ -1,0 +1,110 @@
+[
+    {
+        "progweb_cat": "Gambling,Games",
+        "api_name": "Ladbrokes",
+        "id": 1398,
+        "progweb_descr": " LadBrokes API return data online bet It available REST architecture JSON XML request response format OAuth authentication method Supported APIs include Sportsbook Customer Betting Banking registration contact apidevsupportladbrokescouk"
+    },
+    {
+        "progweb_cat": "Gambling,Games",
+        "api_name": "Betable",
+        "id": 11886,
+        "progweb_descr": " Betable platform handle regulation online gamble industry Betable API let developer legally incorporate gamble real money game application There wide range game developer incorporate gamble use API API use REST data return JSON"
+    },
+    {
+        "progweb_cat": "Gambling,Bitcoin",
+        "api_name": "MoneyPot",
+        "id": 1468,
+        "progweb_descr": " MoneyPot API return gamble data bitcoin format It available access token JSON request responses With API developer create casino app place custom bet get deposit address"
+    },
+    {
+        "progweb_cat": "Gambling,Entertainment",
+        "api_name": "BIG6 Data",
+        "id": 1532,
+        "progweb_descr": " BIG6 Data API subscription base service provide information 6 major north american sport league API return data game schedule spread moneylines postgame score source 15 major bookmaker XML JSON preferred response format Documentation publicly available"
+    },
+    {
+        "progweb_cat": "Gambling,Data",
+        "api_name": "Betfair",
+        "id": 1627,
+        "progweb_descr": " Betfair Exchange API platform developer build customise betting tool interface use Betfair Sports Exchange Betfair customer Find market place bet check current bet detail bet history account statement"
+    },
+    {
+        "progweb_cat": "Gambling,Data",
+        "api_name": "Betfair Exchange Stream",
+        "id": 1831,
+        "progweb_descr": " Integration Betfair Exchange Stream API apps enhances accessibility Betfair Exchange market data Its streaming functionality make easy user track change occur data parameter price order API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Gambling,Data",
+        "api_name": "Betfair Exchange",
+        "id": 4786,
+        "progweb_descr": " Betfair Exchange API platform developer build customise betting tool interface use Betfair Sports Exchange Betfair customer Find market place bet check current bet detail bet history account statement"
+    },
+    {
+        "progweb_cat": "Gambling",
+        "api_name": "Betfair Heartbeat",
+        "id": 3444,
+        "progweb_descr": " This API allow customer automatically cancel unmatched bet lose connectivity Betfair API Betfair market allows make request place bet UK international market access Global Exchange"
+    },
+    {
+        "progweb_cat": "Gambling",
+        "api_name": "Betfair Race Status",
+        "id": 3449,
+        "progweb_descr": " This API allow customer establish status horse greyhound race market prior start race This information available UK Ireland race Betfair gamble site make request place bet UK international market access Global Exchange"
+    },
+    {
+        "progweb_cat": "Gambling",
+        "api_name": "Betfair Accounts RPC",
+        "id": 3450,
+        "progweb_descr": " This RPC API give access current Accounts Global Australian Exchange include account fund transfer detail Betfair market allows make request place bet UK international market access Global Exchange"
+    },
+    {
+        "progweb_cat": "Gambling",
+        "api_name": "magayo Lottery Data",
+        "id": 5692,
+        "progweb_descr": " Integrate lottery result website application magayos Lottery Data API API data available JSON XML request send HTTPS security Lottery result available either specific date late draw Sign free subscription plan receive API Key get start API API support 300 lottery game include Powerball Mega Millions Euro Millions Eurojackpot Chispazo"
+    },
+    {
+        "progweb_cat": "Gambling",
+        "api_name": "LotteryFeed",
+        "id": 6711,
+        "progweb_descr": " LotteryFeed online company provide information lottery result North America around world These data feed XML HTML JSON TEXT format With LotteryFeed API developer able integrate information application allow user access lottery information directly"
+    },
+    {
+        "progweb_cat": "Gambling,Accounts",
+        "api_name": "Betfair Accounts",
+        "id": 3445,
+        "progweb_descr": " This REST API give access current Accounts Global Australian Exchange include account fund transfer detail Betfair market allows make request place bet UK international market access Global Exchange"
+    },
+    {
+        "progweb_cat": "Gambling,Brazilian",
+        "api_name": "Vitortec Contest Mega-Sena Lottery Results",
+        "id": 4068,
+        "progweb_descr": " MegaSena CEF Caixa Econômica Federal API use obtain Brazilian lottery information free This API return information JSON format Vitortec software development firm base Brazil provide application Android Facebook Chrome Windows Linux Also offer web development service CMS WordPress Bootstrap"
+    },
+    {
+        "progweb_cat": "Gambling,B2B",
+        "api_name": "Lottorisq",
+        "id": 5671,
+        "progweb_descr": " Lottorisq offer integration international lottery game fix cost zero risk scalable API platform provide direct wholesale purchasing Arated insurance industryleading pricing Requests response format JSON Extensive documentation available upon registration"
+    },
+    {
+        "progweb_cat": "Gambling,Algorithms",
+        "api_name": "Betfair Timeform",
+        "id": 6367,
+        "progweb_descr": " Betfair online gamble operator UK allow customer bet odds set customer Betfair Timeform API REST API available Betfair customer use It allow developer programmatically retrieve data Timeform database With API customer able plug calculation algorithms set odds bet"
+    },
+    {
+        "progweb_cat": "Gambling,Sports",
+        "api_name": "eOddsMaker",
+        "id": 13663,
+        "progweb_descr": " eOddsmaker online software provide sport bet odds compilation analysis service use Oddsmaker engine eOddsmaker also provide user information enable stay date global market sport gamble industry By use API developer able integrate database application API use SOAP protocol response XML format"
+    },
+    {
+        "progweb_cat": "Gambling,Sports",
+        "api_name": "OddsMiner",
+        "id": 15580,
+        "progweb_descr": " OddsMiner online bet marketplace individual access information bet odds different sportsteams OddsMiner provide user XML feed live score result major sport ie soccer football tennis basketball Data find OddsMiner supply TXOdds XScores With OddsMiner API developer able integrate OddsMiner ’ database application"
+    }
+]

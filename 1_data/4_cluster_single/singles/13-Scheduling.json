@@ -1,0 +1,80 @@
+[
+    {
+        "progweb_cat": "Scheduling,Booking",
+        "api_name": "SuperSaas User Database",
+        "id": 1431,
+        "progweb_descr": " SuperSaas User Database API provide authentication sign integrate schedule book feature application With API developer read create update delete user SuperSaas online appointment scheduling service"
+    },
+    {
+        "progweb_cat": "Scheduling,Booking",
+        "api_name": "SuperSaas Availability",
+        "id": 1432,
+        "progweb_descr": " SuperSaas Availability API allow retrieve list free space XML format With API developer read create update delete appointment SuperSaas online appointment scheduling service"
+    },
+    {
+        "progweb_cat": "Scheduling,Booking",
+        "api_name": "SuperSaas Agenda",
+        "id": 1433,
+        "progweb_descr": " SuperSaas Agenda API integrate appointment user XML format It available HTTP basic authentication via clientside AJAX request With API developer implement appointment base agenda availability SuperSaas online appointment scheduling service"
+    },
+    {
+        "progweb_cat": "Scheduling,Booking",
+        "api_name": "MID.AS",
+        "id": 3131,
+        "progweb_descr": " MIDAS API offer integration MIDAS book resource solution provide realtime schedule staff management Additionally service support invoice send confirmation client API return JSON format data API Keys require authentication"
+    },
+    {
+        "progweb_cat": "Scheduling,Management",
+        "api_name": "PagerTree",
+        "id": 1958,
+        "progweb_descr": " PagerTree API integrate schedule oncall system allow developer alert proper team member system incident API require POST request return information user company team incident schedule PagerTree offer 3 paid plan free trial Additionally PagerTree offer analytics unlimited text message alert configurable escalation rule"
+    },
+    {
+        "progweb_cat": "Scheduling,Standards",
+        "api_name": "W3C Cooperative Scheduling of Background Tasks",
+        "id": 2752,
+        "progweb_descr": " W3C Cooperative Scheduling Background Tasks API document defines API schedule background task way delay high priority task share event loop user agent determine background task run without cause perceptible delay jank end user schedule task time This specification work progress may change without notice"
+    },
+    {
+        "progweb_cat": "Scheduling,Agents",
+        "api_name": "AgentPair",
+        "id": 3263,
+        "progweb_descr": " AgentPair API integrate home scheduling targeted real estate industry With JSON architecture developer send request receive return via secure HTTPS Authentication tokens expire use Bearer OAuth2 Among available method include user city state tour inquiry"
+    },
+    {
+        "progweb_cat": "Scheduling,Project Management",
+        "api_name": "Float",
+        "id": 5664,
+        "progweb_descr": " Float API allow developer integrate Floats team schedule function application APIs call allow user create share update Float data include people project task holiday milestone Float design help team manage multiple project shift deadline change skill set availabilities team member"
+    },
+    {
+        "progweb_cat": "Scheduling,Restaurants",
+        "api_name": "ShiftZen",
+        "id": 6116,
+        "progweb_descr": " ShiftZen use schedule shift employee work small large restaurant ShiftZen access online app accessible device Using ShiftZen user ability view weekly schedule look work Employees update availability request time make request swap shift others Using SOAP XML ShiftZen API call HTTP allow staff detail availability time pull application different system handle restaurant schedule Also use API company employee information programmatically create retrieve purpose schedule manage work hour"
+    },
+    {
+        "progweb_cat": "Scheduling,Restaurants",
+        "api_name": "7shifts Partner API",
+        "id": 7282,
+        "progweb_descr": " 7shifts restaurant schedule software Partner API API allow developer create read update delete location department role employee shift time punch API organize around REST design resourceoriented URLs use HTTP response code indicate API error"
+    },
+    {
+        "progweb_cat": "Scheduling,Education",
+        "api_name": "Gruber & Petters WebUnits",
+        "id": 6130,
+        "progweb_descr": " WebUnits API offer programmatic data synchronization WebUnits timetabling software use agenda track class registration system educational institution Using HTTP call JSON serialization developer implement WebUnits functionality internet interface construct Python Django web framework use PostgreSQL backend Typically resource take 5 second update data across platform API develop support Austrianbased Gruber Petters GmbH developers educational timetabling software"
+    },
+    {
+        "progweb_cat": "Scheduling,Calendars",
+        "api_name": "Cozi",
+        "id": 6713,
+        "progweb_descr": " Cozi app help family organize manage daytoday activity Using Cozi family access share calender shop list list family journal photo collage Cozi offer API integration cobranding crossplatform support wish partner"
+    },
+    {
+        "progweb_cat": "Scheduling,Calendars",
+        "api_name": "SuperSaaS",
+        "id": 14327,
+        "progweb_descr": " SuperSaas offer software allow user add online appointment schedule site SuperSaas API let user synchronize database SuperSaas database provide Single SignOn functionality API provide functionality create read update delete user It use RESTful call response format JSON XML"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "progweb_cat": "Documents,Conversions",
+        "api_name": "HPE Haven OnDemand View Document",
+        "id": 606,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action View Document API use HP KeyView extract content metadata 500 different file type It render content HTML browser friendly web view offer optional highlighting feature tag important content"
+    },
+    {
+        "progweb_cat": "Documents,Conversions",
+        "api_name": "MakePDF",
+        "id": 1681,
+        "progweb_descr": " MakePDF API free userfriendly API document manipulation This API offer developer tool process image enhancement make PDF searchable create thumbnail PDFs convert PDF text"
+    },
+    {
+        "progweb_cat": "Documents,Conversions",
+        "api_name": "Word Cleaner",
+        "id": 3892,
+        "progweb_descr": " Word Cleaner API allow developer integrate ability convert document HTML application Word Cleaner Word HTML conversion tool provide user ability create template use edit builtin templates perform bulk uploads downloads view edit convert file HTML convert copy file clipboard store file online reconversion"
+    },
+    {
+        "progweb_cat": "Documents,Conversions",
+        "api_name": "Document Alchemy",
+        "id": 4246,
+        "progweb_descr": " Document Alchemy provide API read write process transform variety document format include Microsoft Word Excel PowerPoint Apache OpenOffice Writer Calc Impress PDF HTML Markdown PNG JPEG GIF WebP image Developers use API covert file generate QR Codes Watermark PDFs Combine PDFs"
+    },
+    {
+        "progweb_cat": "Documents,Conversions",
+        "api_name": "SeamlessDocs",
+        "id": 4600,
+        "progweb_descr": " SeamlessDocs REST API allow developer access integrate functionality SeamlessDocs applications Some example API method include automate data collection create form turn PDFs webreadable document Public documentation available interested developer sign httpseamlessgovcomapi SeamlessDocs provide online form creation management document conversion service eSignature functionality"
+    },
+    {
+        "progweb_cat": "Documents,Conversions",
+        "api_name": "DocConversion",
+        "id": 4925,
+        "progweb_descr": " DocConversion API provide REST protocol convert Word Excel PowerPoint file image PDFs With service developer use PDF viewer test API without code manage account administration An API Key require access DocConversion Tweet convertapi get 500 credit cost"
+    },
+    {
+        "progweb_cat": "Documents,Conversions",
+        "api_name": "XPS2PDF Web",
+        "id": 7264,
+        "progweb_descr": " XPS2PDF webbased tool convert document XPS OXPS format PDF format XPS2PDF Web API allow user convert document directly asynchronously get list recent conversion job get status specific job retrieve quota limit current usage user account"
+    },
+    {
+        "progweb_cat": "Documents,Content Management",
+        "api_name": "DocuWare Platform",
+        "id": 1522,
+        "progweb_descr": " DocuWare Platform API offer document management capability business API REST base allow developer access several resource document file page annotation user file cabinet search result Operations use retrieve access dialog update index field update file place annotation XML JSON available response format"
+    },
+    {
+        "progweb_cat": "Documents,Design",
+        "api_name": "PrexView",
+        "id": 1828,
+        "progweb_descr": " PrexView API provide way convert data different format Data use document creation must xml json include format graphic loop PrexView allow design template transform data readable document PDF HTML PNG JPG check transaction log"
+    },
+    {
+        "progweb_cat": "Documents,API Description Languages",
+        "api_name": "APIMATIC Transformer",
+        "id": 1870,
+        "progweb_descr": " Transform API allow Convert Uploaded Files Convert Files Downloaded Description URL Convert Already Uploaded API Description format choice Outputs include API Blueprint RAML Google API Discovery IODocs WADL Swagger APIMATIC provide tool service way generate developer kit API"
+    },
+    {
+        "progweb_cat": "Documents,API Description Languages",
+        "api_name": "APIMATIC CodeGen",
+        "id": 1871,
+        "progweb_descr": " APIMATIC API automatic code generator RESTful APIs This API expose access underlie code generation engine currently support follow format API description API Blueprint RAML Google API Discovery IODocs WADL Swagger Although API description use API description write wellenough automatic code generation may fail code generation process purpose provide validation API use improve API description APIMATIC provide way generate developer kit API"
+    },
+    {
+        "progweb_cat": "Documents,Blockchain",
+        "api_name": "stampd Blockchain Time Stamping",
+        "id": 2100,
+        "progweb_descr": " stampd Blockchain Time Stamping API create notarized document cryptographic hash It available JSON object GET method Authentication accessible clientid secretkey Users obtain stamped document invest EUR 009 9 cent via PayPal To stamp document visit httpsstampdio"
+    },
+    {
+        "progweb_cat": "Documents,Content",
+        "api_name": "Zoho Office",
+        "id": 2161,
+        "progweb_descr": " Zoho Office API design use development document storage application Its integration business enterprise document system allow user open create view save document addition deploy Zoho webbased editor Developers require submit HTTPS POST request able deploy API access document Zoho service editor APIs documentation provide three URL destination – Zoho Writer Zoho Sheet Zoho Show – send request Whereas Zoho Writer online word processing application Zoho Sheet Zoho Show spreadsheet online presentation application respectively"
+    },
+    {
+        "progweb_cat": "Documents,Data",
+        "api_name": "Zoho Data",
+        "id": 2162,
+        "progweb_descr": " Zoho Data API allow developer exploit document storage edit functionality build application API use scale functionality exist document system build custom document edit storage application use integrated platform provide Zoho Services Its deployment require token authentication generate use either API mode browser mode"
+    },
+    {
+        "progweb_cat": "Documents,Data",
+        "api_name": "Tableau Document",
+        "id": 3107,
+        "progweb_descr": " Tableau Document API provide developer tool programmatically make update Tableau workbooks data source file It allow modification without hack XML Some feature include Getting connection information update connection information get field information data source workbooks Tableau work help people see understand data strives make product tool change way people use data"
+    },
+    {
+        "progweb_cat": "Documents,Data",
+        "api_name": "WebMerge",
+        "id": 3622,
+        "progweb_descr": " WebMerge API allow upload send share document It available REST format HTTP Key authentication PHP Ruby sample library demonstrate API interaction WebMerge online document management service"
+    },
+    {
+        "progweb_cat": "Documents,Cloud",
+        "api_name": "Gnostice StarDocs",
+        "id": 2462,
+        "progweb_descr": " Gnostice StarDocs API allow developer view process document across multiple platform Users merge split encrypt redact convert OCR document multiple format service accept document PDF DOC DOCX BMP GIF JPEG PNG TIFF MTIFF format It output document PDF BMP GIF JPEG PNG TIFF MTIFF format"
+    },
+    {
+        "progweb_cat": "Documents,Cloud",
+        "api_name": "Text Control ReportingCloud",
+        "id": 3372,
+        "progweb_descr": " Text Control ReportingCloud API provide developer tool manage template create document Some various feature available delete template store account exist template store uploaded template create return thumbnail image templates convert document format"
+    },
+    {
+        "progweb_cat": "Documents,Cloud",
+        "api_name": "Cloud Elements Cloud Storage Hub",
+        "id": 3489,
+        "progweb_descr": " Cloud Elements Cloud Storage Hub API provide integrated access lead cloud storage service include Box Dropbox Dropbox Business Google Drive DocuSign Adobe eSign OneDrive OneDrive Business OneNote SharePoint Amazon S3 Evernote Salesforce Files Typeform This allow user manage document file store across multiple cloud service use uniform API call"
+    },
+    {
+        "progweb_cat": "Documents,Cloud",
+        "api_name": "Aspose.Words",
+        "id": 6199,
+        "progweb_descr": " AsposeWords API program interface offer Apose let developer integrate service application enable customer create edit word document directly application API REST base use platform support REST Apose software company specialize file management cloud"
+    },
+    {
+        "progweb_cat": "Documents,Standards",
+        "api_name": "W3C CSSOM View Module",
+        "id": 2773,
+        "progweb_descr": " W3C CSSOM View Module API specification APIs provide method inspect manipulate view document These method get position element layout box find width viewport via script scroll element This document work progress may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Documents,Accounts",
+        "api_name": "CRO Open Services Document",
+        "id": 3149,
+        "progweb_descr": " This API use retrieve document byte stream work CRO Customer Account holder register use Open Services Two type document stream include submission document company printouts Examples would list company search result retrieve detail company listing document file CRO specify company Companies Registration Office Ireland repository public statutory information Irish business company names"
+    },
+    {
+        "progweb_cat": "Documents,Collaboration",
+        "api_name": "WorkShare",
+        "id": 3446,
+        "progweb_descr": " WorkShare RESTful API integrate document share web service Users send HTTP request receive JSON response authenticate Key Workshare document edit share collaboration platform"
+    },
+    {
+        "progweb_cat": "Documents,Automation",
+        "api_name": "PandaDoc Templates",
+        "id": 3641,
+        "progweb_descr": " PandaDoc Templates API allow send document template aim repeat process achieve automation It available JSON format Api Key Endpoint request responses available PandaDoc platform create deliver sale quote esignatures"
+    },
+    {
+        "progweb_cat": "Documents,Automation",
+        "api_name": "PandaDoc Documents",
+        "id": 3642,
+        "progweb_descr": " PandaDoc Documents API integrate document send sign track feature It available JSON format Key Developers work backend web embed PandaDoc platform create deliver sale quote esignatures"
+    },
+    {
+        "progweb_cat": "Documents,OCR",
+        "api_name": "Gini User Center",
+        "id": 3667,
+        "progweb_descr": " Gini User Center API integrate creation new user account It available JSON format Api Key Available client authentication request response Gini provide platform document extraction analysis"
+    },
+    {
+        "progweb_cat": "Documents,Business",
+        "api_name": "M-Files",
+        "id": 3898,
+        "progweb_descr": " MFiles API collection class operation interface Each class represent feature data item MFiles system With API access modify create document store MFiles vault You also perform search display document object access modify metadata associate document access modify document workflow much MFiles solution Enterprise Information Management EIM"
+    },
+    {
+        "progweb_cat": "Documents,Extraction",
+        "api_name": "Instaparser Document",
+        "id": 3994,
+        "progweb_descr": " Instaparser Document API allow developer upload HTML code directly order parse content behind paywall otherwise viewable public Instaparser service design cleanly pull content website view easily mobile device"
+    },
+    {
+        "progweb_cat": "Documents,B2B",
+        "api_name": "Xembedo",
+        "id": 4498,
+        "progweb_descr": " Xembedo document conversion platform embed capability It use deliver document presentation within application without need specialize program adaptation Xembedo offer 3 plan different limit limit free option well Xembedo API REST base return data JSON format This API use Tokens API Keys authentication"
+    },
+    {
+        "progweb_cat": "Documents,Books",
+        "api_name": "Bookalope",
+        "id": 4572,
+        "progweb_descr": " Bookalope API allow developer integrate manuscript analysis conversion application Bookalope structure clean convert manuscript ebooks Nook iPad Kindle PDF print book another file format continue edit design All ebooks produce Bookalope validate pas standard publishing industry test"
+    },
+    {
+        "progweb_cat": "Documents,Images",
+        "api_name": "CV Maker",
+        "id": 5012,
+        "progweb_descr": " CV Maker API allow developer integrate CV builder service application enable user create CVs directly This API give CV document docx pdf jpg output As input us set 30 field Tuxx provider APIs base Netherlands"
+    },
+    {
+        "progweb_cat": "Documents,Application Development",
+        "api_name": "GitHub Markdown",
+        "id": 5927,
+        "progweb_descr": " GitHub Markdown API allow developer integrate GitHub markdown service application enable render arbitrary Markdown document Note raw mode API JSONbased GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Documents,Contracts",
+        "api_name": "PandaDoc",
+        "id": 6720,
+        "progweb_descr": " PandaDoc one service allow track negotiate sign contract This flexible affordable API allow user build apps use document template With API user send document sign directly backend system embed document site ability request signatures client"
+    }
+]

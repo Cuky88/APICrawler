@@ -1,0 +1,848 @@
+[
+    {
+        "progweb_cat": "Bitcoin,Accounts",
+        "api_name": "Bittrex",
+        "id": 591,
+        "progweb_descr": " Bittrex provide live data cryptocurrency market act currency exchange platform Bittrex API simple RESTful API programmatically access user account interact management functionality API support virtually functionality accessible via Bittrex web interface make trade withdrawal deposit check account balance currency price limit HTTP request 500 open order 200000 order day A registered account custom API key require API usage"
+    },
+    {
+        "progweb_cat": "Bitcoin,Accounts",
+        "api_name": "37Coins Affiliate",
+        "id": 5817,
+        "progweb_descr": " 37Coins Affiliate API allow developer access integrate affiliate functionality 37Coins application via REST API JSON Some example API method include add referral invite track referral invite manage user account 37Coins SMSbased bitoin wallet"
+    },
+    {
+        "progweb_cat": "Bitcoin,Accounts",
+        "api_name": "Coinbase Multisig",
+        "id": 6681,
+        "progweb_descr": " Coinbase Multisig API allow developer create multi signature account use Coinbase platform Each multi signature account internally keep track multiple account multisig API developer able list manage account one umbrella hierarchical manner"
+    },
+    {
+        "progweb_cat": "Bitcoin,Accounts",
+        "api_name": "MyBitX",
+        "id": 7046,
+        "progweb_descr": " MyBitX global BitCoin cryptocurrency exchange service wallet host service With MyBitX user accept spend receive BitCoin use personal secure wallet Using MyBitX API without authentication developer may retrieve market data Using HTTP basic authentication developer may request recently place order create new trade order receive balance make withdrawal API call currently limit one request per minute per IP address"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "hitbtc",
+        "id": 595,
+        "progweb_descr": " hitbtc Bitcoin exchange service allow user trade Bitcoins US Dollars Euros Litecoins well retrieve market data Both currency exchange data retrieval service access website API Users access API use REST FIX websocket method"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Tokenly XWallet",
+        "id": 2215,
+        "progweb_descr": " XWallet Bitcoin Counterparty wallet notification API It allow create new unsigned send transaction add new address get token meta information get balance address Tokenly give acces Tokens digital representation exchange trading card song movie game loyalty point membership"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Kaiko Bitcoin Price Index (KXBT)",
+        "id": 4096,
+        "progweb_descr": " Kaiko offer suite Bitcoin Price API Global USD EUR CNY index Information base price major exchange weight volume liquidity Developers price Bitcoin accord index data API available via REST websocket widget price index consume free Mashape Marketplace"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Bitcoin Chain",
+        "id": 4291,
+        "progweb_descr": " Bitcoin Chain API provide automated access Bitcoin Chain websites database service With API user get interact Bitcoin Block Chain data well Market data Thee API use REST method STREAM interface Bitcoinchaincom free bitcoin platform realtime network state statistic mining pool comparison price chart Bitcoin cryptocurrency"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Bitrefill",
+        "id": 4513,
+        "progweb_descr": " Bitrefill API allow developer programmatically send money prepaid phone around world purchase additional minute Payments API make Bitcoins This API currently support 600 operator 143 different country Withdrawing fund instant topup usually occur within 10 minute"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Coinhills CSPA Index",
+        "id": 4517,
+        "progweb_descr": " Coinhills cryptocurrency stock market index platform It feature fully customizable dashboard portfolio manager cryptocurrency news reader Currency pair available well CSPA Coinhills Spot Price Average Index API provide price data base Coinhills register market This API return data JSON JSONP format"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "BitStamp Websocket",
+        "id": 4601,
+        "progweb_descr": " BitStamp Websocket REST API allow developer access integrate functionality Bitstamp applications Some example API method include retrieve realtime live streaming ticker book order BitStamp online exchange bitcoins"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Coinbase Exchange",
+        "id": 4603,
+        "progweb_descr": " Coinbase Exchange REST API allow developer access integrate functionality Coinbase Exchange application Some example API method include retrieve market information retrieve trading history monitoring open order Coinbase online marketplace buy sell trading bitcoins"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Coinbase Merchants",
+        "id": 4604,
+        "progweb_descr": " Coinbase Merchants REST API allow developer access integrate functionality Coinbase Merchants applications Some example API method include accept bitcoin payment create bitcoin payment button functionality send manage invoice bitcoin payment Coinbase online marketplace buy sell trading bitcoins"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Gemini Public",
+        "id": 4605,
+        "progweb_descr": " Gemini Public REST API allow developer access integrate functionality Gemini applications Some example API method include retrieve trading information retrieve order book information retrieve trading history Gemini online marketplace buy sell trading bitcoins"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Gemini Order Status",
+        "id": 4606,
+        "progweb_descr": " Gemini Order Status REST API allow developer access integrate functionality Gemini applications Some example API method include retrieve order status listing current order list past trade Gemini online marketplace buy sell trading bitcoins"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Gemini Order Placement",
+        "id": 4610,
+        "progweb_descr": " Gemini Order Placement REST API allow developer access integrate functionality Gemini applications Some example API method include retrieve order cancel order manage order place Gemini online marketplace buy sell trading bitcoins"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Gemini Session",
+        "id": 4612,
+        "progweb_descr": " Gemini Session REST API allow developer access integrate functionality Gemini application main API method prevent session timing cancel order Gemini online marketplace buy sell trading bitcoins"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Blockonomics",
+        "id": 4703,
+        "progweb_descr": " Blockonomics API allow user programmatically monitor transaction balance public bitcoin address These address label help identify transaction API also use add update address monitor Wallet Watcher Blockonomics user view graphs past activity address receive email notification transaction"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "Vaultoro Trading",
+        "id": 5233,
+        "progweb_descr": " Vaultoro Trading API allow developer build thirdparty application allow user view bitcoin gold account balance open buy sell order This API also allow app end user issue buyorder sellorder cancel buyorder sellorder Vaultoro bitcoin gold exchange company"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "BlockTrail Bitcoin Webhooks",
+        "id": 5358,
+        "progweb_descr": " BlockTrail Bitcoin Webhooks REST API allow developer access integrate functionality BlockTrail application Some example API method include retrieve webhooks set webhooks return webhooks BlockTrail company provide infrastructure bitcoin bitcoin transaction developer enterprise"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "BlockTrail Bitcoin Data",
+        "id": 6823,
+        "progweb_descr": " BlockTrail Bitcoin Data REST API allow developer access integrate functionality BlockTrail application Some example API method include retrieve data bitcoins retrieve data transaction manage data BlockTrail company provide infrastructure bitcoin bitcoin transaction developer enterprise"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cryptocurrency",
+        "api_name": "itBit Trading",
+        "id": 7181,
+        "progweb_descr": " itBit Bitcoin trading platform provide secure global currency exchange service itBit Trading API consist Trade API Market Data API Trade API allow user handle order create wallet transfer fund wallets request Bitcoin withdrawal deposit address Market Data API allow user retrieve market data three currency pair XBTUSD XBTSGD XBTEUR"
+    },
+    {
+        "progweb_cat": "Bitcoin,Canadian",
+        "api_name": "Canadian Bitcoin Index",
+        "id": 630,
+        "progweb_descr": " Canadian Bitcoin Index API resource Canadian Bitcoin price information main index endpoint return value price Bitcoin denominate Canadian dollar It calculate average actual trade data Canadian own exchange Canadian Bitcoin Indexs API allow access index data exchange information historical data news API access available without authentication indicate"
+    },
+    {
+        "progweb_cat": "Bitcoin,Canadian",
+        "api_name": "Canadian Virtual Exchange",
+        "id": 7074,
+        "progweb_descr": " Canadian Virtual Exchange CAVIRTEX BitCoin cryptocurrency exchange platform Their public API allow developer communicate CAVIRTEX order receive real time cryptocurrency price trade information Their private API require special API access allow user implement trading balancechecking programmatically This RESTful API use JSON format request response"
+    },
+    {
+        "progweb_cat": "Bitcoin,API",
+        "api_name": "CampBX",
+        "id": 1073,
+        "progweb_descr": " CampBX platform buy sell Bitcoins realtime CampBX user Your buy sell order match parametrized database order If perfect match find BitcointoUSD trade execute instantly If matching order price specify order remain open 31 day To maintain fairness trading take purelyplatform approach CampBX never counterparty trade Our platform design stability security top priority become first Bitcoin website obtain Payment Card Industry PCI certification McAfee Secure seal confidence June 28th 2011 When open account CampBX follow feature available ensure productive experience platform ­ ­ • Daily security scan certification McAfee Secure • Quick BuySell SpendX trade available new trader • Advanced trading option AONFOKIncremental Fills • Market Price Limit Price Orders • STOPLOSS ShortSelling available soon • Stoploss Custom Order Expiry DateTime • Trading API available • Wallet API available • SMS Text Message Notifications • TwoFactor Authentication • Professional thirdparty security audit • Frequent encrypt backup • A comprehensive disaster recovery plan • Based Atlanta USA"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "GDAX Fix",
+        "id": 1593,
+        "progweb_descr": " FIX API exist software use FIX order management Financial Information eXchange standard protocol use enter order submit cancel request receive fill GDAX API provide access continuous firstcome firstserve order book Orders execute pricetime priority receive matching engine include Funding Margin Transfer Position Deposits Withdrawals GDAX Global Digital Asset Exchange offer ability trade digital currency like Bitcoin Ethereum regulate US base exchange"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "GDAX Websocket",
+        "id": 1594,
+        "progweb_descr": " GDAX API provide access continuous firstcome firstserve order book Orders execute pricetime priority receive matching engine include Funding Margin Transfer Position Deposits Withdrawals Websocket feed allow access realtime market data provide realtime market data update order trade GDAX Global Digital Asset Exchange offer ability trade digital currency like Bitcoin Ethereum regulate US base exchange"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "Counterparty Counterblock",
+        "id": 1806,
+        "progweb_descr": " This API provide additional service require Counterwallet beyond offer API provide Counterpartyserver It feature fullfledged JSON RPCbased API extensible architecture support custom plugins Counterparty provide PeertoPeer Finance use custom token use wide range purpose act cryptocurrency still run Bitcoin blockchain"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "Counterparty Server",
+        "id": 1911,
+        "progweb_descr": " This Counterparty Library provide JSON RPC API base Bitcoin Core It primary mean application interact Counterparty network Counterparty provide PeertoPeer Finance use custom token use wide range purpose act cryptocurrency still run Bitcoin blockchain"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "Block Explorer REST",
+        "id": 3052,
+        "progweb_descr": " Block Explorer REST API offer Bitcoin blockchain information This allow developer view realtime information block address transaction Call type include obtain block hash height address property transaction block address transaction broadcasting"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "GDAX",
+        "id": 3100,
+        "progweb_descr": " GDAX API integrate bitcoin application addition financial service deposit fund transfer payment method It available REST architecture HTTP request JSON response Api Key authentication GDAX stand global digital asset exchange"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "Kaiko Bitcoin Blockchain",
+        "id": 4306,
+        "progweb_descr": " Kaikos Blockchain explorer provide data blockchain transaction block address It also provide balance per address unspent monitoring contextual data HTTP JSON REST format Developers access API via token"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "Coinbase Blockchain",
+        "id": 4602,
+        "progweb_descr": " Coinbase Blockchain REST API also know Toshi allow developer access integrate functionality Coinbase Blockchain application Some example API method include retrieve block recency retrieve transaction information subscribe blockchain data Coinbase online marketplace buy sell trading bitcoins"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "Coinprism Colored Coins",
+        "id": 6992,
+        "progweb_descr": " Coinprism service allow tokenization cryptocurrency Using Coinprisms Colored Coins user able trade share bond commodity without regulation color BitCoin Using Coinprism Colored Coins API developer use GET POST HTTP request issue color coin access wallet make transaction return balance"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "BlisterPool P2Pool Donation",
+        "id": 7284,
+        "progweb_descr": " BlisterPool nonprofit Bitcoin mining pool focus decentralize mining order prevent individual gain enough control manipulate blockchain It reward miner Devcoins design support work do open source developer writer P2Pool Donation API allow user submit donation request retrieve general specific donation information"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "Chainz Developer",
+        "id": 7287,
+        "progweb_descr": " Chainz provide developer tool retrieve data blockchains several different cryptocurrencies Chainz Developer API provide function retrieve current block height difficulty hashrate outstanding number coin real time API user also get balance give address This API provide free heavy use"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "Coinorama",
+        "id": 7574,
+        "progweb_descr": " Coinorama independent service monitor Bitcoin network exchange blockchains It come three APIs provide user programmatic access Coinoramas public ticker data Markets Ticker API return exchange information include price late trade trading volume direction currencytoUSD conversion rate Bitcoin Network Info API return information Bitcoins include last block ID last block timestamp current period difficulty current period length previous period difficulty previous period length Bitcoin Blockchain API return detailed information block public address transaction"
+    },
+    {
+        "progweb_cat": "Bitcoin,Blockchain",
+        "api_name": "BlockCypher",
+        "id": 7600,
+        "progweb_descr": " BlockCypher cloudoptimized block chain platform power crypto currency application reliably atscale platform expose simple web APIs callbacks developer build Bitcoin block chain apps reliably Built groundup scale optimize high availability Up time 9999 high throughput linear scale lowlatency single point failure Web APIs WebHooks WebSockets Includes block chain explorer create transaction address APIs others Using APIs create web wallet easily monitor address get notified transaction etc"
+    },
+    {
+        "progweb_cat": "Bitcoin,Automation",
+        "api_name": "Tokenly Token Delivery Service",
+        "id": 2214,
+        "progweb_descr": " This API Token Delivery Service provide automate semiautomated movement token source address destination Bitcoin address This include request new source address get list source address update exist delivery fulfill Single Delivery Tokenly give acces Tokens digital representation exchange trading card song movie game loyalty point membership"
+    },
+    {
+        "progweb_cat": "Bitcoin,Analytics",
+        "api_name": "BlockCypher Analytics",
+        "id": 2584,
+        "progweb_descr": " BlockCypher Analytics API allow developer extract data pattern blockchains programmatically This API preBeta currently support Bitcoin Mainnet This API expose user data support native blockchain object BlockCypher service use enterprisegrade architecture provide infrastructure blockchain application"
+    },
+    {
+        "progweb_cat": "Bitcoin,Analytics",
+        "api_name": "EtherScan Accounts",
+        "id": 3661,
+        "progweb_descr": " EtherScan Accounts API allow developer retrieve account balance transaction block mine EtherScan Bitcoin block explorer analytics platform provide APIs without warranty community service An API Key require user want make 5 request per second"
+    },
+    {
+        "progweb_cat": "Bitcoin,Analytics",
+        "api_name": "Coinalytics Blockstem",
+        "id": 5832,
+        "progweb_descr": " Coinalytics Blockstem REST API allow developer access integrate functionality Coinalytics use JSON Some example API method include retrieve blockchain address information manage user information return transaction data information Coinalytics provide tool offer information analytics Bitcoin blockchain Possible us include compliance business intelligence finance Bitcoin industry"
+    },
+    {
+        "progweb_cat": "Bitcoin,Analytics",
+        "api_name": "Coinalyze",
+        "id": 6683,
+        "progweb_descr": " Coinalyze cryptocurrency platform let users access analyze track balance With Coinalyze API developer able integrate coinalyze service application API allow developer check balance add address get balance specific coin like Bitcoin Infinitecoin Additionally API let developer get coin rate type value coin date"
+    },
+    {
+        "progweb_cat": "Bitcoin,Analytics",
+        "api_name": "Indacoin",
+        "id": 7020,
+        "progweb_descr": " Indacoin cryptocurrency platform allow user purchase Bitcoin LiteCoin credit card Indacoin public API allow developer send HTTP request Indacoin receive information recent order trade current market price With API key developer schedule order view balance view transaction history perform basic order maintenance"
+    },
+    {
+        "progweb_cat": "Bitcoin,Analytics",
+        "api_name": "CryptoCzar",
+        "id": 7021,
+        "progweb_descr": " CryptoCzar BitCoin cryptocurrency exchange service CryptoCzar offer method request data subscribe new data stream via API Using public CryptoCzar API trade order view Developers account API key may access private parameter retrieve information account balance open order trade fund Orders may place cancelled private API well CryptoCzar currently recommend run Nodejs Ws interface CryptoCzar API use JSON call plan HTTP request available near future"
+    },
+    {
+        "progweb_cat": "Bitcoin,Analytics",
+        "api_name": "WinkDex",
+        "id": 7343,
+        "progweb_descr": " WinkDex index Bitcoin market offer real time conversion rate US Dollars BitCoin Their RESTful API allow developer query price index time return amount timestamps track change After agree term service identify application share user agent name authentication currently require use WinkDex API"
+    },
+    {
+        "progweb_cat": "Bitcoin,Real Time",
+        "api_name": "Block Explorer Web Socket",
+        "id": 3053,
+        "progweb_descr": " Block Explorer Web Socket API offer realtime Bitcoin transaction status block information API provide object transaction Bitcoin block chain Status event publish sync room return current block sync information This API serve use socketio"
+    },
+    {
+        "progweb_cat": "Bitcoin,Real Time",
+        "api_name": "EtherScan Websockets",
+        "id": 3662,
+        "progweb_descr": " EtherScan Websockets API allow developer get notification new transaction real time This API still Beta EtherScan Bitcoin block explorer analytics platform provide APIs without warranty community service An API Key require user want make 5 request per second"
+    },
+    {
+        "progweb_cat": "Bitcoin,Captcha",
+        "api_name": "Captcha Coin",
+        "id": 3068,
+        "progweb_descr": " Captcha Coin API allow developer integrate Bitcoin wallet Bitcoin pay captcha service websites application A pay captcha alternative form captcha accept payment used secure content service pay access Both wallet captcha service provide free"
+    },
+    {
+        "progweb_cat": "Bitcoin",
+        "api_name": "EtherScan Geth Proxy",
+        "id": 3663,
+        "progweb_descr": " EtherScan Geth Proxy API allow developer get Bitcoin block transaction information EtherScan Bitcoin block explorer analytics platform provide APIs without warranty community service An API Key require user want make 5 request per second"
+    },
+    {
+        "progweb_cat": "Bitcoin",
+        "api_name": "EtherScan Event Logs",
+        "id": 3665,
+        "progweb_descr": " EtherScan Event Logs provide alternative native ethgetLogs This API still Beta EtherScan Bitcoin block explorer analytics platform provide APIs without warranty community service An API Key require user want make 5 request per second"
+    },
+    {
+        "progweb_cat": "Bitcoin",
+        "api_name": "EtherScan Token Info",
+        "id": 3666,
+        "progweb_descr": " Etherscan Token Info API allow user get total available supply give token name get account token balance EtherScan Bitcoin block explorer analytics platform provide APIs without warranty community service An API Key require user want make 5 request per second"
+    },
+    {
+        "progweb_cat": "Bitcoin",
+        "api_name": "Coingaia Trade",
+        "id": 6791,
+        "progweb_descr": " Coingaia online Bitcoin exchange Coingaia APIs public function allow user get exchange detail ticker information book order transaction APIs private function allow user check account balance get complete order display open order place buy sell order remove order see withdrawal request see BTC address withdraw Bitcoins list unconfirmed transaction"
+    },
+    {
+        "progweb_cat": "Bitcoin",
+        "api_name": "Betarigs",
+        "id": 7175,
+        "progweb_descr": " Betarigs allow user rent lease Bitcoin BTC mining rig Renters choose rig duration rent pool want mine pay rent owner BTC address Rig owner lease Bitcoin mining rig Betarigs Betarigs API allow developer programmatically manage retrieve information rig mining"
+    },
+    {
+        "progweb_cat": "Bitcoin,Statistics",
+        "api_name": "EtherScan General Stats",
+        "id": 3664,
+        "progweb_descr": " EtherScan General Stats API allow developer get total supply Ether get ETHER LastPrice price EtherScan Bitcoin block explorer analytics platform provide APIs without warranty community service An API Key require user want make 5 request per second"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "Coinsecure Livenet",
+        "id": 4259,
+        "progweb_descr": " CoinSecure API aim provide developer secure way facilitate transaction Bitcoin API intend offer feature security trade free exchange platform support"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "Gemini Account Status",
+        "id": 4613,
+        "progweb_descr": " Gemini Accunt Status REST API allow developer access integrate functionality Gemini application main API method retrieve available balance bitcoin Gemini online marketplace buy sell trading bitcoins"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "Twenty15Coin",
+        "id": 6129,
+        "progweb_descr": " Twenty15Coin API T15EX BitCoin exchange API Divided public private API version API use retrieve daily BitCoin transaction statistic current trading price trade volume With API key developer return account balance open new order retrieve deposit information withdraw fund process order Twenty15 secure interface enable user purchase trade BitCoins low fee"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "Worldwide Bitcoin Exchange",
+        "id": 6299,
+        "progweb_descr": " Worldwide Bitcoin Exchange WBE Bitcoin Litecoin exchange service GET HTTP call make WBE public API order return Bitcoin LItecoin data include average price high low trade within last 24 hour high bid high ask Calls orderbook additionally make access directory recent bid asks In order access private API developer require API key user name signature WBE user generate API key account private API function include post order edit exist order use POST HTTP method"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "BitPay Rates",
+        "id": 6439,
+        "progweb_descr": " BitPay host RESTbased interface developer interact user BitPay account online Bitcoin payment service Users submit order 30 currency display payment instruction receive payment notification receive payouts bank 9 country BitPay Rate API return exchange rate compare price Bitcoin hundreds currency across world API access HTTPS return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "Yacuna Trading",
+        "id": 6600,
+        "progweb_descr": " Yacuna Exchange provide API conduct automated trading follow market currently available come XBTEUR LTCEUR DOGEEUR XBTLTC XBTDOGE Cryptocurrencies exchange conventional currency transaction digital currency use Yacuna trading platform subject market mechanism stock exchange Developer API give full access Yacuna order integrate Bitcoin payment application setting arbitrage"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "igot",
+        "id": 6610,
+        "progweb_descr": " igot exchange platform allow user buy sell BitCoin Users purchase locally use bank credential igot also host two ticker APIs supply data open public consumption Using igot Stats API BUY developer make HTTP GET request receive late BitCoin purchase price major world currency include daily average price deviation percentages daily low price Similarly call igot Stats API SELL return high sell day average daily sell open price major currency In addition APIs igot also offer embeddable ticker widget web use"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "Bitcoin.de",
+        "id": 6612,
+        "progweb_descr": " Bitcoindde Germanybased BitCoin exchange service Bitcoinde API allow user API key obtain summary recently complete BitCoin trade API use access current bid offer well current average BitCoin ask price All request make JSON format request HTTP endpoint API return rate query user ID call access order book include bid asks"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "Bitso",
+        "id": 6613,
+        "progweb_descr": " Bitso Latin American BitCoin exchange service Bitso API allow developer interface Bitso platform 3rd party application websites publicly accessible Bitso trading API call return data average BitCoin price daily low high trade volume additional data use Peso referent Calls expose Bitso orderbook include list recent BitCoin transaction An API key encrypt signature require access private API function include account balance user info place trade edit order"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "LuxStack",
+        "id": 6708,
+        "progweb_descr": " LuxStack Japanesebased BitCoin trading wallet host service Using LuxStack API developer programmatically send BitCoins user private account key API also use return check balance transaction information current BitCoin mining difficulty level current BitCoin market price specify currency API also use set email notification trigger certain block hash detection All request use POST method return JSON format response To development ability LuxStack SDKs also available Android iOS Javascript Nodejs PHP Ruby"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "Mintpal",
+        "id": 6970,
+        "progweb_descr": " Mintpal cryptocurrency exchange platform Mintpal API currently V1 allow developer access Mintpal API retrieve information support cryptocurrency price index market statistic personal trade order data V2 currently beta allow developer post trade call order use Mintpal wallet platform well All call make via HTTP data return JSON format arrays request limit 10 request per second"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "WhatMine",
+        "id": 6973,
+        "progweb_descr": " WhatMine resource comprehensive information various cryptocurrency price exchange rate WhatMine API access via simple HTTP GET request return JSON object Developers implement API order retrieve information single coin Maximum amount API call range 20 5000 depend pricing plan"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "CoinAccel",
+        "id": 7025,
+        "progweb_descr": " CoinAccel cryptocurrency exchange purchase trading major cryptocurrencies without require identity confirmation Devlopers integrate CoinAccel API 3rd party application make HTTP request receive JSONformatted response API return information regard current market trend cryptocurrency price account balance active order"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "Atomic Trade",
+        "id": 7057,
+        "progweb_descr": " Atomic Trade New Jerseybased BitCoin cryptocurrency exchange They allow user buy sell trade major cryptocurrencies Atomic Trade API free use open data API accept HTTP request Individual call return marketplace data array current cryptocurrency pricing list active market along coin volume pricing recent order issue Atomic Trade detail trade since certain timestamp trade pair comparison include price volume data implement 3rd party application require cryptocurrency market information"
+    },
+    {
+        "progweb_cat": "Bitcoin,Financial",
+        "api_name": "AllCoin",
+        "id": 7059,
+        "progweb_descr": " AllCoin BitCoin cryptocurrency exchange platform AllCoin API split public open API private API require special user access permission public API may use return market summary list exchangewide recent order live cryptocurrency price Using private API user may access Wallet Trade APIs request personal account balance order trade Public Private APIs cap 3000 1000 call per hour per IP address respectively Users interested access private API currently beta may email AllCoin request API key"
+    },
+    {
+        "progweb_cat": "Bitcoin,Banking",
+        "api_name": "Bitbond BitcoinPPI",
+        "id": 4899,
+        "progweb_descr": " Bitbond BitcoinPPI API measure value Bitcoin purchase power Big Mac hamburger It support conversion local currency global average purchase power This API respond JSON format data update every 15 minute Bitbond provide Bitcoin loan global market"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Vaultoro Basic",
+        "id": 5231,
+        "progweb_descr": " Vaultoro Basic JSON base API allow user pull price feed graph platform well develop web widget late bitcoin price gold Vaultoro Bitcoin Gold Exchange company"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Cointrader.net",
+        "id": 5593,
+        "progweb_descr": " Cointradernet REST API offer access Cointradernets bitcoin exchange service Make public call API HTTP GET authenticate call POST All request return JSON authentication do via privatepublic key combination utilizes HMACSHA256 Use Cointradernet buysell bitcoin Canadian US dollar return information trade market data manage account depositwithdraw bitcoin order See API documentation information get start API sandbox environment"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "CoinMate.io",
+        "id": 5666,
+        "progweb_descr": " CoinMateio REST API allow developer access integrate functionality CoinMateio applications Some example API method include retrieve current Bitcoin market condition information retrieve transaction detail withdraw Bitcoins CoinMateio Bitcoin cryptocurrency online trading portal"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Buttercoin",
+        "id": 6079,
+        "progweb_descr": " Buttercoin bitcoin cryptocurrency buy sell trading platform Buttercoin API allow developer connect application Buttercoin Marketplace deposit withdraw fund account execute trade without go web interface"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "BitGo",
+        "id": 6165,
+        "progweb_descr": " BitGo API allow developer access integrate functionality BitGo applications Some example API method include manage user retrieve wallet information manage Bitcoins wallet BitGo security platform Bitcoin Bitcoin product application"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Kraken Funds",
+        "id": 6372,
+        "progweb_descr": " Kraken bitcoin trading platform let customer trade Bitcoin mathbased currency Kraken Funds API let developer integrate Kraken private user funding feature application"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Coinfloor",
+        "id": 6418,
+        "progweb_descr": " Coinfloor secure Bitcoin trading venue base London It allow user securely trade Bitcoins Pounds Sterling Euros Polish Zlotys US Dollars Coinfloor offer twofactor authentication 100 cold storage Developers integrate Coinfloors trading platform order control account place order use Coinfloor API"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "SpectroCoin Merchant",
+        "id": 6423,
+        "progweb_descr": " SpectroCoin provide user secure Bitcoin ewallet exchange merchant service SpectroCoin website offer SSL security user account protect via twofactor authentication SpectroCoin allow merchant accept Bitcoins without worry current Bitcoin exchange rate SpectroCoin Merchant API let merchant integrate ability receive Bitcoin payment websites application"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Coinwallet.co",
+        "id": 6515,
+        "progweb_descr": " Coinwalletco online wallet use handle multiple cryptocurrencies Users register Coinwalletco start generate wallet address less minute Up 50 address may create currency wallet along unlimited outgoing payment address Coinwalletco API allow user get currency check balance get receive transaction get sent transaction send payment get new address"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "BTCXchange",
+        "id": 6522,
+        "progweb_descr": " BTCXchange Bitcoin platform let user buy sell exchange bitcoin via internet BTCXchange API provide developer way interact service enable integrate service application With use API user application able access BTCXchange service directly"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Netagio",
+        "id": 6570,
+        "progweb_descr": " Netagio allow investor automate trading Bitcoin British pound gold They also accept US dollar Euro After set verified account user access Netagios Authenticated Public APIs Authenticated API allow investor place trade view open order cancel trade Public API call unauthenticated channel report bid ask price variety trade"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Coinnext",
+        "id": 6669,
+        "progweb_descr": " Coinnext API allow developer retrieve information cryptocurrency exchange market Information market include market summary statistic trade order well market chart data With API developer able make call request information specifically application need"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Reddcoin",
+        "id": 6671,
+        "progweb_descr": " Reddcoin platform allow people transfer money social medium application anyone around world ReddAPI allow developer integrate reddcoin feature application With API developer able connect audienceconsumers together via digital currency transfer"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Europex",
+        "id": 6682,
+        "progweb_descr": " Europex European exchange platform alternative cryptocoins Europex API allow developer connect external program develop automatically make order monitor balance withdraw coin This API available Europex user free"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Bitcoin Payment",
+        "id": 6767,
+        "progweb_descr": " Bitcoin Payment API API Bitcoin digital internet Crypto Currency many feature alongside Instant Checkout help developer organize website utilize component sale payment moneyearning With direct integration feature accessible Bitcoin Payment Gateway PayPerProduct PayPerDownload PayPerMembership PayPerPost PayPerRegistration PayPerPage Access Bitcoin Payment API support variety language add upon request"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Litecoin Payment",
+        "id": 6768,
+        "progweb_descr": " Litecoin Payment API API Litecoin digital internet Crypto Currency many feature alongside Instant Checkout help developer organize website utilize component sale payment moneyearning With direct integration feature accessible Litecoin Payment Gateway PayPerProduct PayPerDownload PayPerMembership PayPerPost PayPerRegistration PayPerPage Access Litecoin Payment API support variety language add upon request"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Dogecoin Payment",
+        "id": 6769,
+        "progweb_descr": " Dogecoin Payment API API Dogecoin digital internet Crypto Currency many feature alongside Instant Checkout help developer organize website utilize component sale payment moneyearning With direct integration feature accessible Dogecoin Payment Gateway PayPerProduct PayPerDownload PayPerMembership PayPerPost PayPerRegistration PayPerPage Access Dogecoin Payment API support variety language add upon request"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Potcoin Payment",
+        "id": 6770,
+        "progweb_descr": " Potcoin Payment API API Potcoin digital internet Crypto Currency many feature alongside Instant Checkout help developer organize website utilize component sale payment moneyearning With direct integration feature accessible Potcoin Payment Gateway PayPerProduct PayPerDownload PayPerMembership PayPerPost PayPerRegistration PayPerPage Access Potcoin Payment API support variety language add upon request"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Darkcoin Payment",
+        "id": 6771,
+        "progweb_descr": " Darkcoin Payment API API Darkcoin digital internet Crypto Currency many feature alongside Instant Checkout help developer organize website utilize component sale payment moneyearning With direct integration feature accessible Darkcoin Payment Gateway PayPerProduct PayPerDownload PayPerMembership PayPerPost PayPerRegistration PayPerPage Access Darkcoin Payment API support variety language add upon request"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Reddcoin Payment",
+        "id": 6783,
+        "progweb_descr": " Reddcoin Payment API API Reddcoin digital internet Crypto Currency many feature alongside Instant Checkout help developer organize website utilize component sale payment moneyearning With direct integration feature accessible Reddcoin Payment Gateway PayPerProduct PayPerDownload PayPerMembership PayPerPost PayPerRegistration PayPerPage Access Reddcoin Payment API support variety language add upon request"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Vertcoin Payment",
+        "id": 6784,
+        "progweb_descr": " Vertcoin Payment API API Vertcoin digital internet Crypto Currency many feature alongside Instant Checkout help developer organize website utilize component sale payment moneyearning With direct integration feature accessible Vertcoin Payment Gateway PayPerProduct PayPerDownload PayPerMembership PayPerPost PayPerRegistration PayPerPage Access Vertcoin Payment API support variety language add upon request"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Speedcoin Payment",
+        "id": 6793,
+        "progweb_descr": " Speedcoin Payment API API Speedcoin digital internet Crypto Currency many feature alongside Instant Checkout help developer organize website utilize component sale payment moneyearning With direct integration feature accessible Speedcoin Payment Gateway PayPerProduct PayPerDownload PayPerMembership PayPerPost PayPerRegistration PayPerPage Access Speedcoin Payment API support variety language add upon request"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Feathercoin Payment",
+        "id": 6797,
+        "progweb_descr": " Feathercoin Payment API API Feathercoin digital internet Crypto Currency many feature alongside Instant Checkout help developer organize website utilize component sale payment moneyearning With direct integration feature accessible Feathercoin Payment Gateway PayPerProduct PayPerDownload PayPerMembership PayPerPost PayPerRegistration PayPerPage Access Feathercoin Payment API support variety language add upon request"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Vericoin Payment",
+        "id": 6798,
+        "progweb_descr": " Vericoin Payment API API Vericoin digital internet Crypto Currency many feature alongside Instant Checkout help developer organize website utilize component sale payment moneyearning With direct integration feature accessible Vericoin Payment Gateway PayPerProduct PayPerDownload PayPerMembership PayPerPost PayPerRegistration PayPerPage Access Vericoin Payment API support variety language add upon request"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "CoinATMRadar",
+        "id": 6861,
+        "progweb_descr": " CoinATMRadar API use public source represent know location BitCoin ATMs exist around globe JSON response list ATMs instal within last 30 day along geographical coordinate support cryptocurrency type Results edit apply different parameter display know ATMs instal specify date time frame window API free use condition developer make mention CoinATMRadar email specific deployment information"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "bitNZ",
+        "id": 6866,
+        "progweb_descr": " bitNZ Bitcoin exchange base New Zealand exchange allow user buy sell Bitcoins New Zealand Dollars NZD Any bid ask trade must match order place another user remain order book match cancel bitNZ API enable user retrieve private data well exchange public data"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Coin-Swap",
+        "id": 7014,
+        "progweb_descr": " CoinSwap crypto currency exchange platform provide user secure environment trade Dogecoin CoinSwap API provide member access use public method get market information ie general market summary trade graph data well use private method individualize information ie checking open order account balance create buyingselling order"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Palth",
+        "id": 7016,
+        "progweb_descr": " Palth Public API provide user access cryptocurrency trading platform use different get method retrieve information market summary trade order There standard fee 15 trade unless user come referral Individuals business register Palth Exchange"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Intlexc",
+        "id": 7017,
+        "progweb_descr": " Intlexc API provide user access cryptocurrency trading platform use public authenticate method Users option create private API key create public one account Depending need user Intlexc API provide different method depth discussion use service Intlexc open user individual business alike"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "CryptoAve",
+        "id": 7022,
+        "progweb_descr": " CryptoAvecom secure exchange service purchase sell Bitcoin cryptocurrencies CryptoAvecom host public API developer implement 3rd party application display information market statistic real time currency price API accept 3000 HTTP request per 24 hour period return JSON format response"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Bitcointy",
+        "id": 7109,
+        "progweb_descr": " Bitcointy unaffiliated API display value bitcoin majority world ’ currency As trend change developer might find practical create application value exchange upcoming form online transaction This API support JSON format Developers new finance industry benefit API documentation allow get currency average price visualize data"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "APICoin",
+        "id": 7142,
+        "progweb_descr": " APICoin secure API service Bitcoin exchange Bitcoin information APICoin API allow developer access integrate Bitcoin information application create new application Some example API method include generate QR code retrieve transaction return transaction fee"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "APICoin BlockExplorer",
+        "id": 7143,
+        "progweb_descr": " APICoin secure API service Bitcoin exchange Bitcoin information APICoin BlockExplorer API allow developer access integrate Bitcoin information application create new application Some example API method include retrieve Bitcoin data block retrieve block count return total Bitcoins"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "Block.io",
+        "id": 7346,
+        "progweb_descr": " Blockio API offer secure wallet payment service transact three common cryptocurrencies Bitcoin Doge LiteCoin Their service host without fee Their HTTP request API use key associate personal cryptocurrency account return balance conduct withdrawal account maintenance return user IDs address associate specific account"
+    },
+    {
+        "progweb_cat": "Bitcoin,Currency",
+        "api_name": "CoinMKT",
+        "id": 9024,
+        "progweb_descr": " Coin Market USbased exchange buying selling cryptocurrencies use US dollar Coin Market provide safe secure exchange full compliance AMLMSB regulation Besides Bitcoin CoinMkt API also support type currency ie Litecoin Dogecoin Peercoin With API Key assign CoinMkt customer able access account information order adjust setting get start trade different digital currency CoinMkt API support page provide indepth information operate manage account"
+    },
+    {
+        "progweb_cat": "Bitcoin,Backend",
+        "api_name": "Gem Bitcoin",
+        "id": 5516,
+        "progweb_descr": " Gem Bitcoin API allow developer integrate fully functional Bitcoin wallet applications This service highly scalable allow user create many wallet want API use multisignature authorization multifactor authentication realtime monitoring ensure security transaction"
+    },
+    {
+        "progweb_cat": "Bitcoin,eCommerce",
+        "api_name": "InPay - Bitcoin Payment Processor",
+        "id": 5535,
+        "progweb_descr": " InPays API allow business integrate Bitcoin payment websites application API use POST request HTTPS return JSON An API Key require available signing account InPay Use InPay create invoice process payment manage invoice status"
+    },
+    {
+        "progweb_cat": "Bitcoin,eCommerce",
+        "api_name": "Ziftr",
+        "id": 7083,
+        "progweb_descr": " RESTful Ziftr API allow online retailer accept cryoptocurrencies Litecoin BitCoin instead normal payment method It also allow programmatic access Ziftr eCommerce platform API sandbox Ziftr API let retailer view real time pricing statistic inventory update allow access new sale channel keep company brand identity consistent across presence Ziftr SDKs exist PHP Ruby Python Java In order gain access Ziftr API retailer tool retailer sign home page"
+    },
+    {
+        "progweb_cat": "Bitcoin,Payments",
+        "api_name": "BitPagos",
+        "id": 5539,
+        "progweb_descr": " BitPagos REST API allow developer access integrate functionality BitPagos applications Some example API method include integrate payment button create checkout page manage checkout process retrieve transaction BitPagos online payment platform allow business accept Bitcoin credit card payment BitPagos available English Spanish Portuguese"
+    },
+    {
+        "progweb_cat": "Bitcoin,Payments",
+        "api_name": "37Coins Merchant",
+        "id": 5793,
+        "progweb_descr": " 37Coins Merchant API allow developer access integrate merchant functionalities 37Coins application via REST API JSON two main API method retrieve charge token post charge token request 37Coins SMSbased bitoin wallet"
+    },
+    {
+        "progweb_cat": "Bitcoin,Payments",
+        "api_name": "37Coins Market",
+        "id": 5842,
+        "progweb_descr": " 37Coins Market API allow developer access integrate market functionalities 37Coins application via REST API JSON three main API method manage order IDs forward payment status expire exist order 37Coins SMSbased bitoin wallet"
+    },
+    {
+        "progweb_cat": "Bitcoin,Payments",
+        "api_name": "BitPay",
+        "id": 6563,
+        "progweb_descr": " Bitpay online payment service use bitcoins provide people platform make payment online BitPay API REST base enable developer integrate service application With API client create manage invoice issue refund manage bill Developers may call API directly HTTP"
+    },
+    {
+        "progweb_cat": "Bitcoin,Games",
+        "api_name": "LegendCoins",
+        "id": 6153,
+        "progweb_descr": " LegendCoins API program interface offer Curse provide developer way create bitcoin plugin application API REST base Curse online gaming network also act open space user video game enthusiast interact one another"
+    },
+    {
+        "progweb_cat": "Bitcoin,Games",
+        "api_name": "Coinding",
+        "id": 6250,
+        "progweb_descr": " Coinding API allow developer access integrate functionality Coinding bitcoin functionality application Some example API method include manage bitcoins retrieve post transaction manage account Coinding platform integrates bitcoins game game application"
+    },
+    {
+        "progweb_cat": "Bitcoin,Cloud",
+        "api_name": "Eobot",
+        "id": 6262,
+        "progweb_descr": " Eobot API provide access method cloud Bitcoin mining Specific method allow user retrieve balance get mine cloud speed get deposit wallet address retrieve user ID get set mining mode set automatic withdrawal perform manual withdrawal buy cloud resource cryptocurrency Eobot work numerous cryptocurrencies include Bitcoin Litecoin BlackCoin Namecoin Dogecoin Darkcoin Reddcoin BitSharesX CureCoin StorjcoinX Gems Counterparty Stellar Paycoin Peercoin NXT MaidSafeCoin"
+    },
+    {
+        "progweb_cat": "Bitcoin,Accounting",
+        "api_name": "MiningRigRentals",
+        "id": 6272,
+        "progweb_descr": " MiningRigRentals service allow client rent lease mining rig use Cryptocurrency A selection option information provide base individual need within market MiningRigRentals API allow rig owner lease client rent automate process platform MiningRigRentals API also allow list several subset data rig pricing performance also access user account information"
+    },
+    {
+        "progweb_cat": "Bitcoin,Application Development",
+        "api_name": "Blockstrap",
+        "id": 6410,
+        "progweb_descr": " Blockstrap develop Neurowareio complete Bitcoin development stack meant connect app HTML 5 blockchains Blockstrap API enable easy development Bitcoin Litecoin Dogecoin cryptocurrencyenabled application stack come equipped jQuery plugins front end HTML component RESTful API accept HTTP GET request provide consistent high performance return blockchain hash associate metadata Developers interest implement Blockstrap visit site view public API documentation request API key usage"
+    },
+    {
+        "progweb_cat": "Bitcoin,Application Development",
+        "api_name": "Bitcore",
+        "id": 6504,
+        "progweb_descr": " Maintained BitPay Bitcore open source Nodejs library create cross platform Bitcoinenabled application secure payment protocol private key management Bitcore API allow method Bitcoin integration use JavaScript API specifically enable app access private public key perform peertopeer cryptocurrency transaction manage network handle convert Bitcoin"
+    },
+    {
+        "progweb_cat": "Bitcoin,Application Development",
+        "api_name": "Toshi",
+        "id": 7065,
+        "progweb_descr": " Written Ruby back PostgreSQL Toshi free API Bitcoin app developer Bitcoin node fully compatible Bitcoin Core provide JSON API query raw blockchain data This enable developer read information block transaction broadcast new transaction get blockchain stats like height confirmation time"
+    },
+    {
+        "progweb_cat": "Bitcoin,Application Development",
+        "api_name": "Chain Block Chain",
+        "id": 7627,
+        "progweb_descr": " Chain enable developer build block chain application To achieve high level security Chain run program compare transaction database transaction bitcoin engineer alert data becomes sync Chain Block Chain API provide platform developer build bitcoin application feature"
+    },
+    {
+        "progweb_cat": "Bitcoin,Bitcoin",
+        "api_name": "CoinCorner",
+        "id": 6448,
+        "progweb_descr": " Based Isle Man CoinCorners Bitcoin exchange eCommerce payment gateway offer mobile apps API access platform CoinCorners API enable user manage account programmatically via integration 3rd party system call limit request 60 request per minute public version API specifically implement retrieve ticker orderbook transaction information private API use retrieve account balance withdraw Bitcoin edit exist order"
+    },
+    {
+        "progweb_cat": "Bitcoin,Asia",
+        "api_name": "Bitcoin.co.id",
+        "id": 6542,
+        "progweb_descr": " Bitcoincoid platform user check current BitCoin price purchase sell Bitcoin use Rupiah Indonesian currency Public Bitcoincoid API allow anyone make HTTP call receive ticker information trade summary Private Bitcoincoid trade API require API key authentication enable developer make POST request retrieve information user balance recent account withdrawal deposit trade history open order trade API also enable developer create manage new trade"
+    },
+    {
+        "progweb_cat": "Bitcoin,Asia",
+        "api_name": "OKCoin",
+        "id": 6607,
+        "progweb_descr": " OKCoin Singaporebased BitCoin future exchange platform Using OKCoin Trade API OKCoin user exercise programmatic access real time cryptocurrency market data account management check transaction history Price API call upon value cryptocurrency price comparison US dollar return late trade information Similarly Futures REST Price Trade APIs allow OKCoin user manage account perform similar function regard trading future OKCoin also host websocket APIs Trade Public APIs All HTTP request OKCoin API return JSONformatted responses Developers apply API access OKCoin account"
+    },
+    {
+        "progweb_cat": "Bitcoin,Asia",
+        "api_name": "bx.in.th",
+        "id": 6628,
+        "progweb_descr": " bxinth Thailandbased Bitcoin cryptocurrency exchange platform operate Bitcoin Exchange Thailand Bitcoin Co Ltd Their API accessibility divide Public Private bxinth Public API allow anyone view market data exchange include rate orderbook currency pair comparison high low trade average Bitcoin pricing Private API require API key use HTTP POST request make place order manage exist order Private account data may return balance order history transaction history withdrawal request All request make API return JSON encode data response"
+    },
+    {
+        "progweb_cat": "Bitcoin,Business",
+        "api_name": "AsMoney",
+        "id": 6599,
+        "progweb_descr": " AsMoney electronic payment system base Bitcoin Litecoin network Members make instant payment good service send receive money minimal fee AsMoney API allow developer access integrate functionality AsMoney application developer may use API get balance send money Bitcoin Litecoin address send AsMoney balance get account history get detail transaction"
+    },
+    {
+        "progweb_cat": "Bitcoin,Chinese",
+        "api_name": "Huobi",
+        "id": 6608,
+        "progweb_descr": " Huobi Chinese BitCoin cryptocurrency online exchange service Using Huobi Trade API user submit transaction request HTTP POST method order buy sell trade BitCoin Users may also use Trade API check modify exist order return account balance perform account maintenance Huobi Quotes API use receive market data cryptocurrency pricing information Huobi also offer websockets easy web implementation"
+    },
+    {
+        "progweb_cat": "Bitcoin,Chinese",
+        "api_name": "LakeBTC",
+        "id": 6614,
+        "progweb_descr": " LakeBTC Chinese base BitCoin exchange service Using REST API developer make request Market Data ticker receive information last price best bid best ask 24hour high 24hour low price New York United States Calls API may also make return information Orderbook Trade History parameter order showcase detail recent trade authentication user must submit API key valid timestamp use correct JSON formatting aim POST HTTP method Private functionality API allow user programmatically purchase sell trade edit exist order etc public Market Data API may also retrieve subscribe LakeBTC Websocket Client library exist enable developer access websocket API various language C Ruby Rails"
+    },
+    {
+        "progweb_cat": "Bitcoin,Chinese",
+        "api_name": "BTC China",
+        "id": 7031,
+        "progweb_descr": " BTC China cryptocurrency exchange service allow purchase sell wallet host Bitcoin digital currency BTC China API deliver real time market data push BTC Chinas websocket server developer subscriber ID Using API developer request data price fluctuation monitor Bitcoin market activity"
+    },
+    {
+        "progweb_cat": "Bitcoin,Activity Streams",
+        "api_name": "BTCXIndia",
+        "id": 6609,
+        "progweb_descr": " BTCXIndia Indiabased BitCoin exchange service allow user see real time price BitCoin market data compare Rupee Customers may buy sell trade BitCoin Rupees use online wallet service host digital currency Currently open beta BTCXIndia host simple ticker API respond important market information Calls API return BTC INR price high low average daily price volume trade last 24 hour last trade price high buy order low sell order ticker BTCXIndia may access via XML JSON format request make HTTP endpoint"
+    },
+    {
+        "progweb_cat": "Bitcoin,Activity Streams",
+        "api_name": "Swisscex",
+        "id": 6971,
+        "progweb_descr": " Based Switzerland Swisscex display cryptocurrency market valuation trend act currency exchange platform API call may make via Swisscex API order retrieve quote current value Calls make HTTP output JSON object use account user generate API key visit API documentation page"
+    },
+    {
+        "progweb_cat": "Bitcoin,Activity Streams",
+        "api_name": "Coinbroker.io",
+        "id": 7024,
+        "progweb_descr": " Coinbrokerio provide RESTful API access information cryptocurrency market data incorporation 3rd party application Coinbrokerio Market API return information JSON responses market statistic ticker recent minimum maximum selling point aggregate order price point Coinbrokerio limit API usage 10 request per second per IP API free public use authentication require"
+    },
+    {
+        "progweb_cat": "Bitcoin,Australian",
+        "api_name": "BTC Markets",
+        "id": 6611,
+        "progweb_descr": " BTC Markets Australian base BitCoin cryptocurrency exchange Using BTC Markets user buy trade sell digital currency bank account credential BTC Markets host API help developer create trading payment mobile app solution BTC Markets REST API accept JSON format GET request HTTP endpoint API return account balance use transfer fund use retrieve market data via ticker orderbook summary recent trade BTC Markets API accept API key valid time stamp authentication"
+    },
+    {
+        "progweb_cat": "Bitcoin,Australian",
+        "api_name": "CoinSpot",
+        "id": 7023,
+        "progweb_descr": " CoinSpot Australiabased cryptocurrency exchange wallet host platform Developers register free API key implement CoinSpot API 3rd party application Simple HTTP request return JSON format information late price open order order history Requests also make view active order purchase sell currency"
+    },
+    {
+        "progweb_cat": "Bitcoin,Credit Cards",
+        "api_name": "Coinzone",
+        "id": 6615,
+        "progweb_descr": " Based Amsterdam Coinzone enable European online retailer eCommerce provider accept digital currency Bitcoin instead traditional payment method Using Coinzone REST API secure call make authenticate initiate transaction retrieve transaction detail process refund Authentication require clientcode timestamp signature process API request Use API require 1 crosstheboard fee purchase"
+    },
+    {
+        "progweb_cat": "Bitcoin,Crowdsourcing",
+        "api_name": "Gitcoin",
+        "id": 6670,
+        "progweb_descr": " Gitcoin bitcoin tippingdonation platform allow people around web donate andor seek funding projectsapplications Gitcoin API allow developer integrate feature application Gitcoin currently build base Coinbase API therefore developer must first Coinbase accountwallet start use Gitcoin API"
+    },
+    {
+        "progweb_cat": "Bitcoin,Community",
+        "api_name": "Litecoinlocal",
+        "id": 6688,
+        "progweb_descr": " Litecoinlocalorg persontoperson trading site Litecoin act middle party help connect individual around web trade one another Litecoinlocal API allow developer integrate service application Some service available Litecoinlocal include place order cancel order get user order information"
+    },
+    {
+        "progweb_cat": "Bitcoin,Data",
+        "api_name": "Comkort",
+        "id": 6740,
+        "progweb_descr": " Comkort Bitcoin cryptocurrency exchange service base Tallin Estonia Using Comkort Public API developers request market list summary information regard last 24 hour exchange return recent trade specific market Using API key developer access Comkort Private API order retrieve account balance order trade history return recent transaction Private API may also implement place new order withdrawal"
+    },
+    {
+        "progweb_cat": "Bitcoin,Data",
+        "api_name": "BitKonan",
+        "id": 7047,
+        "progweb_descr": " BitKonan Croatianbased BitCoin cryptocurrency trading platform offer flat trading rate 029 per transaction BitKonan Public API allow access market data include recent BitCoin price high buy sell order order book recent transaction Using API key developer may access private API retrieve user balance view specific user transaction perform order maintenance Requests server make HTTP return JSON object"
+    },
+    {
+        "progweb_cat": "Bitcoin,Spanish",
+        "api_name": "Bitex.la Developer",
+        "id": 6780,
+        "progweb_descr": " Bitexla regional Bitcoin Litecoin market Their public market API allow user retrieve market volume price transaction history It also get aggregate data point trade give time period private trading API allow user build trade robot capable check user balance place bid ask check outstanding order get transaction history Bitexla keep user balance USD make deposit withdrawal local currency though one Bitexlas local partner Although API documentation English main website provide Spanish"
+    },
+    {
+        "progweb_cat": "Bitcoin,Comparisons",
+        "api_name": "ANXPRO Exchange",
+        "id": 7058,
+        "progweb_descr": " ANXPRO Exchange cryptocurrency exchange platform host ANX specialize trading AltCoin ANX allow user perform account management making withdrawal deposit check balance see account history perform trade API also return exchangewide trade history order book information live cryptocurrency pricing ability compare major international currency key cryptocurrencies determine valuation To use API ANX user may apply API Key profile ANX"
+    }
+]

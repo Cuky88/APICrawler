@@ -1,0 +1,1640 @@
+[
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Google Client Authentication",
+        "id": 7,
+        "progweb_descr": " From site Developers instal application option use programmatic login method access Google service protect user login An installed application instal device desktop computer cell phone oppose web application With programmatic login implement application user log Google account inside application application contact Google login data request access specify Google service Calendar Once access authorize user create read update delete data need use application interface Programmatic login authentication big step lowtech approach simply include user login name password every request Google With programmatic login Google supply application token reference request instead login data"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Google Single SignOn",
+        "id": 140,
+        "progweb_descr": " From site Security Assertion Markup Language SAML XML standard allow secure web domains exchange user authentication authorization data Using SAML online service provider contact separate online identity provider authenticate user try access secure content Google Apps offer SAMLbased Single SignOn SSO service provide partner company full control authorization authentication host user account access webbased application like Gmail Google Calendar Using SAML model Google act service provider provide service Gmail Partner Start Pages PSP Google partner act identity provider control usernames password information use identify authenticate authorize user web application Google host"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Yahoo BBauth",
+        "id": 400,
+        "progweb_descr": " From site You build great web application We million user store data Yahoo BrowserBased Authentication BBAuth make possible application use data permission BBAuth also offer Single SignOn SSO facility exist Yahoo user use service without complete yet another registration process first time user visit web site redirect specially construct Yahoo URL login grant application permission"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Windows Live ID Web Authentication",
+        "id": 416,
+        "progweb_descr": " From site Windows Live ID Web Authentication enable authenticate user Web site offer personalized access siteï¿½s content million register Windows Live ID user"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Google Web Authentication",
+        "id": 552,
+        "progweb_descr": " From site Google Accounts authentication webbased application allow application access Google service protect user Google account To maintain high level security Authentication Proxy interface AuthSub enable application get authentication token without ever handle user account login information Using proxy user web application log account Googlesupplied login page consent grant limit access web application"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Yahoo Create Consumer Key",
+        "id": 1263,
+        "progweb_descr": " Create Consumer Key CCK API allow developer provide Yahooissued Consumer Keys Consumer Secrets Application IDs user Often developer use Yahoo Web service APIs provide application allow user access Yahoo user data This require developer third party OAuth Consumer Key Secret ensure user fourth party also distinct OAuth credential CCK API offer developer follow benefit It streamline process use application require one call allow oneclick authorization API use POST method submit require information"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "OpenStack Identity",
+        "id": 2342,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service It provide standard APIs well suit multiple implementation OpenStack Identity API support validation user access credential API supply authentication tokens user must furnish prior gain access permission OpenStack APIs service API transmits HTTPformatted request response"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "MasterCard MDES Pre-Digitization",
+        "id": 2351,
+        "progweb_descr": " MasterCard Digital Enablement Service MDES data interchange platform generate manage secure digital payment token MasterCard MDES PreDigitization API support transmission MDESsupported web request responses card issuer cardholder Its integration allow MDES Issuers return JSONformatted response request submit half cardholder"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Okta OAuth",
+        "id": 2452,
+        "progweb_descr": " Okta fully standardscompliant OAuth 20 authorization server certify OpenID Provider OAuth 20 APIs provide API security via scoped access token OpenID Connect provide user authentication SSO layer lighter easy use SAML Okta provide secure connection people technology allow use cloud access apps device"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Tozny",
+        "id": 3882,
+        "progweb_descr": " Tozny authentication platform use crypto user phone unique identifiershis platform use strong cryptography layer web site app RESTlike Tozny API use integrate authentication capability return data JSON format use API Keys Tozny startup base Portland Oregon"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "SecureDB accounts",
+        "id": 5093,
+        "progweb_descr": " SecureDB API allow developer encrypt store user profile custom data file SecureDB service design provide encryption web mobile IoT application It provide twofactor authentication enterprisegrade key management secure backup high availability security analytics Both free paid version service available"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Vault",
+        "id": 5313,
+        "progweb_descr": " Vault API provide developer complete access Vaults multiple backends via HTTP call Vault service secure store control access secret data token password certificate API key It come access control policy provide strict control access secret Every action take Vault include authentication token creation secret access store detailed audit log"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "AT&T Mobile Identity",
+        "id": 5596,
+        "progweb_descr": " ATT Mobile Identity allow developer track mistake order fulfillment include fraudulent activity base optin service offer credit card company bank eCommerce site"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Tinfoil Security",
+        "id": 6567,
+        "progweb_descr": " Tinfoil Security API RESTful API design help developer programmatically thing also available utilize web application It ensure authentication developer use one see data Tinfoil Security API list site plan add update delete site start stop scan list scan site get report scan"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Gemalto",
+        "id": 6621,
+        "progweb_descr": " Gemalto offer digital security service company focus personal mobile service identity protection payment security authenticate online service cloud compute access modern transportation M2M communication eHealthcare eGovernment service A number API option exist select website These APIs relate secure Pin entry card read synchronicity GemCore chipset Particularly GemCore could useful integrate user authentication logical access control home banking ecommerce health care"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Keybase",
+        "id": 6696,
+        "progweb_descr": " Keybase open source dataencryptionthemed command line program host directory public social network key identify proof Developers implement Keybase API access directory programmatically HTTP GETPOST request send JSON encode structure receive give user username calculate password hash login hash csrftoken API embed client 3rd party application functionality also utilized Keybaseios website command line interface"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "InWebo",
+        "id": 7094,
+        "progweb_descr": " InWebo make easy set twofactor authentication allow end user authenticate computer cellphone smartphones tablet etc InWebo provide bankgrade security availability private infrastructure Administrators easily define monitor security policy authorize token channel manage public key view export detail report usage"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "briidge.net Connect",
+        "id": 7447,
+        "progweb_descr": " SecureKey briidgenet Connect API offer developer cloud base passwordfree softwareonly solution simplifies user login quickly easily add strong multifactor device user authentication mobile apps Compared current software market alternative like band SMS code hardware software tokens add complexity inconvenience user briidgenet Connect streamline simplifies usersâ€™ mobile experience within exist fully brand app briidgenet Connect replace cumbersome usernames password typical band code cryptographically authenticate device ID optional multidevice PIN call QuickCode easy login Similar chip pin credit card QuickCode never store device server â€¬â€­cryptographically verifiedâ€¬â€¬â€¬ Connect API purposebuilt allow developer quickly easily add strong authentication wide number workflow use case application"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Doluna",
+        "id": 7846,
+        "progweb_descr": " Doluna user verification service use mobile phone perform twofactor authentication Once user submit recipient phone number Doluna generate sends onetime PIN code via SMS At time Doluna give user transaction key check recipient PIN Doluna use validate end user verify phone number protect fraudulent activity Integration accomplish via API require simple REST call"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "How's My SSL?",
+        "id": 8039,
+        "progweb_descr": " Hows My SSL site user visit submit web address verify strength user SSL TSL Hows My SSL API use REST call return JSON allow user test client without browser experience API free use account require source information available Github"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "TrustedCoin",
+        "id": 8115,
+        "progweb_descr": " TrustedCoin bitcoin security service offer add additional level security authentication bitcoin storage transaction TrustedCoin API use REST call return JSON API allow user send alert prevent unauthorized transaction create custom wallet add additional layer security top bitcoin wallet service An account required service"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Okta",
+        "id": 8429,
+        "progweb_descr": " Okta enterpriselevel solution centrally store manage user profile identity data It enable single signon authentication across multiple application device even behind firewall cloud make easy IT personnel access essential employee information Okta also store user data different schema depend whether user employee manager customer contractor Developers programmatically access user profile data store Okta via REST API"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "BlockScore",
+        "id": 8679,
+        "progweb_descr": " BlockScore customer authentication verification service aim assist user handle regulatory compliance issue surround international payment transfer BlockScore API use REST call allow user submit data authentication offload data verify passport perform task An account API key require use SSL require call"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "mOTP",
+        "id": 8682,
+        "progweb_descr": " mOTP open source twofactor authentication service It use miss call rather SMS send user One Time Password OTP use twofactor authentication This allow user sidestep cost delays associate SMS use twofactor authentication service Developers integrate mOTP application webbased service use REST call"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Ringcaptcha",
+        "id": 9094,
+        "progweb_descr": " Ringcaptcha service brings phonebased verification website mobile application Ringcaptcha use authentication marketing verify ownership Ringcaptcha API allow developer access integrate functionality Ringcaptcha applications Some example API method include embed Ringcaptcha application end verification loop"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "LoginTC",
+        "id": 9389,
+        "progweb_descr": " LoginTC provide twofactor authentication system use network website mobile online application system use LoginTC credential smartphones combination traditional username password authentication This mean potential hacker would possess user password smartphone order breach account LoginTC REST API allow user perform common administrative task send check authentication session endusers"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Toopher",
+        "id": 9511,
+        "progweb_descr": " Toopher online authentication service provide automated twofactor authentication use location awareness smartphones add another layer security traditional password Toopher API allow developer authenticate action log transfer fund make purchase without annoy user token texts API RESTful protect OAuth Requests return JSON XML YAMl"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "MYDIGIPASS.COM",
+        "id": 9797,
+        "progweb_descr": " MYDIGIPASSCOM provide developer twofactor authentication technology require something user know like password something user like VASCO DIGIPASS successfully authenticate A MYDIGIPASSCOM account also use authentication online application website use MYDIGIPASSCOMs Secure Login API Further information API gain sign site"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Tokenizer",
+        "id": 9871,
+        "progweb_descr": " service provide highly secure authentication combine conventional password enter user signal app register user mobile device Similar service combine password entry possession USB device singlepurpose hardware service take advantage user smart phone tool confirm identity API method support create new authentication listing service application update exist one Methods also support create update client list mobile device corresponds service list Methods support access client list verify access authenticate resource"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "PassDefense",
+        "id": 10071,
+        "progweb_descr": " Pass Defense online security service enable application developer authenticate secure user data service handle user authenticationsecure storage user password monitor tool usage Pass Defense API allow user create user authenticate user send retrieve data user An account required service API Key require access API"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Mozillians",
+        "id": 10140,
+        "progweb_descr": " Mozillians directory resource help Mozilla volunteer learn involve advance Mozilla mission connect Mozillians API provide simple call authenticate give email address register Mozillian directory owner vouch Mozillian"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "DailyCred",
+        "id": 10708,
+        "progweb_descr": " DailyCred API let developer add social user account website apps User logins across various social account merge single user account identify user With DailyCred developer reset password monitor event delete create account access user analytics Responses format JSON"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "loginPrompt",
+        "id": 10911,
+        "progweb_descr": " loginPrompt service let developer quickly add secure user login websites Both emailpassword social logins support UI place client API directly webpage customized look like rest site Registration require"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Animetrics FIMS Cloud",
+        "id": 11203,
+        "progweb_descr": " Aimed law enforcement security military intelligence industry Animetrics FaceR Identity Management Solution FIMS allow organization bring mobile security video surveillance facialbiometrics application field use real time FIMS Cloud use centralize access user cloud base photographic store use facial recognition FIMS Cloud organize search centralizes access photographic store use 1many web service base verification engine Access service provide via RESTful API Public documentation available"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Confident Image-Based Authentication",
+        "id": 12130,
+        "progweb_descr": " Confident Technologies provide image base authentication solution mobile device application web sit This API give developer mean create imagebased authentication service It generate single use password ask user identify picture fit previously choose secret authentication category Developers customize integrate approach use API Client libraries available Classic ASP ASPNET PHP Java Python API use RESTful call response format XML Text"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Duo Verify",
+        "id": 12343,
+        "progweb_descr": " Duo Security enable protect login transactional function smartphones user It send user authorization verification webbased platform logins phone Their Verify API provide access verification function onetime PIN number well lookup method specific phone number IP address API RESTful respond JSON BSON XML"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Duo REST",
+        "id": 12346,
+        "progweb_descr": " Duo Security enable protect login transactional function smartphones user It send user authorization verification webbased platform phone addition login Their REST API provide integration twofactor authentication process It RESTful API return JSON defaut BSON XML response"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "HP Cloud Identity Service",
+        "id": 12799,
+        "progweb_descr": " HP Cloud Identity Service let users access HP Cloud Services seamless manner HP Cloud Identify Service provide single method manage user identity authenticate userâ€™s access resource across HP Cloud Services Users free manage different credential service authenticate access resource via unique endpoint Through HP Cloud Identity Service user consistent foundational set capability identity management authentication"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Yubikey",
+        "id": 13311,
+        "progweb_descr": " service provide twofactor authentication combine cloudbased onetime password OTP validation service USB plugin Yubikey send timevariant secure login code Requests process five frequently synchronize data center global coverage response dependent location API method support submission application previously register Yubikey code return onetime password use authenticate user"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Apigee OAuth",
+        "id": 13695,
+        "progweb_descr": " OAuth API design make easy deal OAuth let quickly easily authenticate across several APIs It work let delegate OAuth dance Apigee use keychain client library invoke multiple APIs consistent way less code OAuth API support Facebook Twitter Flickr Foursquare Salesforces REST Chatter APIs Java Javascript Objective C library"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "LiveEnsure",
+        "id": 14322,
+        "progweb_descr": " LiveEnsure SaaS authentication web cloud mobile apps It help developer strengthen exist site app login process Developers use service time authenticate user API call Users must register site obtain API documentation"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "MyPW Authentication",
+        "id": 15801,
+        "progweb_descr": " Use MyPW API quickly integrate hardwarebased authentication Internetconnected application MyPW service authenticate MyPW Tokens example use auth anywhere MyPW enable avoid problem password tokens use one location Thus MyPW could become password token need Also MyPW work Radius Authentication"
+    },
+    {
+        "progweb_cat": "Security,Authentication",
+        "api_name": "Windows Live ID Client SDK",
+        "id": 15869,
+        "progweb_descr": " From site Windows Live ID Client 10 SDK provide manage API Windows Live signin authentication Included release sample application source code build client application Windows Live ID service use functionality Messenger cache user name andor password use subsequent user sign ins Gain hundred million potential user application"
+    },
+    {
+        "progweb_cat": "Security,Tools",
+        "api_name": "Janrain Engage",
+        "id": 101,
+        "progweb_descr": " Janrain Engage formerly RPX service allow customer add social networking logins websites application use single login website Janrain Engage API allow developer access integrate Janrain Engage functionality sit application Some example API method include retrieve user data manage account information access analytic data"
+    },
+    {
+        "progweb_cat": "Security,Tools",
+        "api_name": "BioID Web Services",
+        "id": 355,
+        "progweb_descr": " BioID Web Services BWS webcam base biometrics service cloud web mobile application developer service enables application Biometric authentication face voice iris follow include liveness detection Identification check people blacklist criminal background check etc Ticketless checkin trade show event airline board ship Fraud prevention liveness detection verify presence live user detect multiple registration person Face voice similarity search celebrity match online date model cast agency Photo quality check ensure goodquality biometric ID photo mugshot Functionality expose API include verification onetoone identification onetomany face voice liveness detection photo quality check international standard find crop return highquality face image API use REST SOAP protocols response format XML"
+    },
+    {
+        "progweb_cat": "Security,Tools",
+        "api_name": "Secunia PSI",
+        "id": 9510,
+        "progweb_descr": " Secunia IT security company specialize vulnerability management Secunia offer free Personal Software Inspector individual identifies vulnerability nonMicrosoft thirdparty program might leave PC vulnerable attack Secunia API allow developer reuse Secunia Personal Software Inspector data new apps service Data access send HTTP GET request API"
+    },
+    {
+        "progweb_cat": "Security,Tools",
+        "api_name": "Seth Cardoza Random Password Generator",
+        "id": 10161,
+        "progweb_descr": " Random Password Generator tool create programmer Seth Cardoza capable generate random password meet specified criterion Users select several password length complexity option Random Password Generator API provide RESTful access allow user automate password generation specify length complexity response format include JSON XML plain text"
+    },
+    {
+        "progweb_cat": "Security,Tools",
+        "api_name": "Authy",
+        "id": 11579,
+        "progweb_descr": " Authy authentication service websites application Authy use twofactor authentication process secure websites application Authy API allow developer access integrate Authys functionality application create new application Some example API method include manage user add user verify user"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "Google OpenID",
+        "id": 165,
+        "progweb_descr": " Google OpenID API let thirdparty web site application let visitor sign use Google user account OpenID standard allow user set separate login account different web site conversely free web site developer task manage login information security measure OpenID achieves goal provide framework user establish account OpenID provider Google use account sign web site accept OpenIDs This page describe enable web site application accept Google user account federate login"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "BeenVerified",
+        "id": 1150,
+        "progweb_descr": " From site BeenVerifiedcom API follow OAuth protocol give developer ability provide trustworthy environment user even enhance user privacy security"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "ThisData Login Intelligence",
+        "id": 2801,
+        "progweb_descr": " Login Intelligence API offer unusual account access detection use pattern normal behavior specialize algorithm This give customer extra layer security notifies account accessed device dont normally use JSON use data exchange ThisData help company secure data provide encrypted backup advise fix potential security problem"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "E-HAWK",
+        "id": 8177,
+        "progweb_descr": " EHAWK provide indepth vet applicant include reputation analysis background check risk analysis Simply verify home email address wont catch applicant use fake name forge information Users integrate EHAWKs vetting service websites system via REST API allow information provide applicant send straight EHAWK vetting"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "University of Warwick Students' Union",
+        "id": 8229,
+        "progweb_descr": " Warwick Studentsâ€™ Union nonprofit selfrun student support organization student University Warwick Warwick Studentsâ€™ Union allow student organization secure websites validate user identity RESTful interface"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "Socure",
+        "id": 9466,
+        "progweb_descr": " Socure service detect attempt identity fraud user websites application It use advanced machine learn algorithms track user social behavior various social network order confirm identity When new user sign site use form preexist social account site send REST SOAP call Socure compute authenticity score new user send info site owner"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "Acu Identity",
+        "id": 9603,
+        "progweb_descr": " Acu Identity AI 10 service online retailer identifies risky order hold review It use identify attempt fraud ecommerce transaction affiliate referral survey account creation registration AI 10 reduces overall chargebacks reduces need manual review reduces fake registration increase detection fraudulent transaction AI 10 determines likelihood transaction fraudulent base many factor include whether online registration transaction originate highrisk IP address anonymizing proxy highrisk email It also identify prepaid gift card match give Bank Identification Number BIN country origin AI 10 function make accessible integration via REST SOAP APIs"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "OneID",
+        "id": 10303,
+        "progweb_descr": " OneID provide single digital identity doesnâ€™t require username password access claim safer service It provide user oneclick sign quick fill form instant checkout service OneID design protect user privacy personal information It share even track user online habit OneID JavaScript API include method create log OneID account access one information use fill form Other API method add button web page perform operation"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "Mozilla Persona",
+        "id": 11067,
+        "progweb_descr": " Mozilla Persona online identity service websites web application Users set would like login website application Publishers add Persona website application Mozilla Persona API allow developer access integrate functionality Persona application websites main API method include log website verify identity"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "SSN Validator",
+        "id": 12170,
+        "progweb_descr": " SSN Validator independent site use data Social Security Administration SSA record validate social security number In addition site check SSA State Issuance check SSN report belong deceased person check see SSN issue An API available provide access information Documentation available subscriber"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "Jumio Netverify",
+        "id": 13048,
+        "progweb_descr": " Jumio Netverify service allow business ask customer ID verification online realtime Jumio Netverify API allow developer access integrate functionality Jumio Netverify application create new application Some example API method include manage user information access verification information manage account information"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "miiCard",
+        "id": 13771,
+        "progweb_descr": " miiCard My Personal Internet Identity Card service allow user create secure internet identity miiCard allow user buy sell online apply financial product access professional advice securely miiCard API allow developer integrate miiCard functionality sit application Public documentation available interested developer register httpwwwmiicardcomdevelopers"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "Human Information Project Data",
+        "id": 14439,
+        "progweb_descr": " Human Information Project HIP provide secure way user keep online information Websites ad interact HIP add data user online profile store HIPs system accessible website user website Users view information add profile moderate website ad interact HIP Data API Javascript API websites install interact HIP user data"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "Verify.IM Trust",
+        "id": 14814,
+        "progweb_descr": " VerifyIM verification API let user integrate VerifyIM service web site via CURL call VerifyIM independent thirdparty verification service protect user online identity API return member approve public data include account type user name business name It use RESTful protocol response format either XML JSON"
+    },
+    {
+        "progweb_cat": "Security,Identity",
+        "api_name": "Liberty Data",
+        "id": 15106,
+        "progweb_descr": " XMLbased LIBERTYDatanet web service let developer integrate realtime data LIBERTYDatanet provider identity verification risk management tool bank professional investigator collector etc Developers use large risk management investigative data portal apps Documentation publicly available"
+    },
+    {
+        "progweb_cat": "Security,Spam",
+        "api_name": "PhishTank",
+        "id": 402,
+        "progweb_descr": " From site PhishTank free community site anyone submit verify track share phishing data"
+    },
+    {
+        "progweb_cat": "Security,Spam",
+        "api_name": "Google Safe Browsing",
+        "id": 411,
+        "progweb_descr": " Google Safe Browsing API allow developer access integrate functionality Google Safe Browsing application Google Safe Browsing version 3 API allows application download encrypt table local clientside lookup URLs Google Safe Browsing Lookup API allow application send URLs check status"
+    },
+    {
+        "progweb_cat": "Security,Spam",
+        "api_name": "RainCaptcha",
+        "id": 10439,
+        "progweb_descr": " RainCaptcha provide antispam protection form CAPTCHA test distort text test produce design easy people read hard machine decipher RainCaptcha require registration free personal commercial use It work web server easy implement thanks reliance APIs integration"
+    },
+    {
+        "progweb_cat": "Security,Spam",
+        "api_name": "TypePad AntiSpam",
+        "id": 10966,
+        "progweb_descr": " TypePad AntiSpam offer antispam plugins blog content management service WordPress Joomla Drupal TypePad AntiSpam compatible Akismets API TypePad AntiSpams API allow developer develop build antispam service"
+    },
+    {
+        "progweb_cat": "Security,Spam",
+        "api_name": "ProtecMail",
+        "id": 14498,
+        "progweb_descr": " ProtecMail antispam antivirus solution mail server filter dangerous email reduce spam mail load local mail server ProtecMail also offer SOAPbased API let developer create application view service statistic manage domain covered service set filter"
+    },
+    {
+        "progweb_cat": "Security,Spam",
+        "api_name": "Call me",
+        "id": 14866,
+        "progweb_descr": " C4llme API allow user integrate C4llme service external application C4llme service allow user hide personal information behind short URL It give user ability control lifetime contact detail Internet create short URL contact detail contact information readable human being internet self explanatory short URL unreadable search engine API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Security,Spam",
+        "api_name": "Mollom",
+        "id": 15550,
+        "progweb_descr": " Use Mollom API combat spam Mollom qualityassessment spamfiltering service usersubmitted website content include comment contact form message Currently support Drupal Joomla Wordpress platforms want plugins content management system"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Windows Live Data",
+        "id": 409,
+        "progweb_descr": " From site Windows Live Data provide mechanism developer ask Windows Live user permission access user Windows Live service data user behalf Currently Windows Live Data expose Windows Live Contacts central address book Windows Live service Access additional Windows Live service add upcoming Beta future release"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "proxycheck proxy detection",
+        "id": 1542,
+        "progweb_descr": " proxycheck proxy detection API allow developer submit IPv4 IPv6 address determine whether act proxy server VPN server All response give JSON Users require 100 query per day request API key allow get 1000 free query per day"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "TypeKey",
+        "id": 1619,
+        "progweb_descr": " TypeKey authentication service within TypePad allow distribute application handle logins simple secure way user need one login across many TypePadTypeKeyenabled site"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Wallarm",
+        "id": 2708,
+        "progweb_descr": " Wallarm REST API allow developer access integrate functionality Wallarm application websites Some example API method include set search manage user retrieve event event log Wallarm platform provide security functionality websites application hacker attack"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Proxicity",
+        "id": 3680,
+        "progweb_descr": " Proxicity API allow developer get new verify proxy every request Proxicity provide verified work proxy server use case They use custom proxy tester service test specific header support getpost support anonymity Verified proxy must also comply Proxicitys connection download speed requirement"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Deepviz",
+        "id": 4552,
+        "progweb_descr": " Deepviz API allow developer interact Deepviz sandbox submit malware sample retrieve analysis report Deepviz design help user analyze correlate understand key information malware This may include whether malware wellknown unique give environment communication infrastructure use malware behavior specific object"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Carbon Black",
+        "id": 4718,
+        "progweb_descr": " Carbon Black API three documentation package Carbon Black Client API Carbon Black Server API Carbon Black Feed API They contain collection documentation example script helper library help build validate Carbon Black feed Carbon Black API RESTful API Bit9 Carbon Black This mean API consume practically language Example client binding script include reference purpose Both binding example script implement python C Python client binding HTTP communication support via python request library Carbon Black endpoint threat detection response platform enable SOC incident response IR team prepare data breach"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "MetaCert Security",
+        "id": 5968,
+        "progweb_descr": " MetaCert Security API let developer develop secure mobile application integrate service apps MetaCert provide security solution protect consumer mobile malware phishing attack applayer Security API silently check reputation web link real time block malicious web page load inside apps WebView"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "TagCube",
+        "id": 6853,
+        "progweb_descr": " TagCube service secure web application identify SQL injection crosssite script vulnerability It detect 200 vulnerability configuration issue TagCube compatible web framework quick easy set TagCube API enable developer integrate service security analysis capability web application"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "CensorNet Cloud Web Filtering",
+        "id": 7542,
+        "progweb_descr": " CensorNet host RESTful friendly API allow developer implement web security feature URL filter policy base web access webbased application API allow development unique Graphic User Interfaces integration Hosted Web Security account User list export reporting purpose automate account provisioning implement CensorNet Cloud Web Filtering provide custom synchronization internal external URL list avoid overhead proxying maintain consistent web experience across device type use organization intranet"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Axantum Xecrets",
+        "id": 8147,
+        "progweb_descr": " Axantums Xecrets online password management service allow user securely store password code pin key etc access anywhere Xecrets available online standard web browser Android App still Beta Passwords store encrypted online archive Xecrets website Xecrets REST API allow developer write program application access Xecrets service"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Tarya Technologies RSAkeygen",
+        "id": 9190,
+        "progweb_descr": " Tarya Technologies UKbased web development program company On website provide handful simple SOAP APIs write free use One RSAkeygen API allow developer generate RSA key These key use type public key cryptography base difficulty factor large number"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "AirVPN",
+        "id": 9250,
+        "progweb_descr": " AirVPN virtual private network VPN make activist net neutrality privacy It allow user get around censorship block filter complies EU directives Data Protection ePrivacy Users also provide new IP address No action take use VPN log AirVPN API allow user access control account programmatically via REST call"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "VulnDB",
+        "id": 9318,
+        "progweb_descr": " VulnDB provide developer system manage security knowledge It allow define use consistent testing methodology well maintain library curated issue description reuse report save time VulnDB also provide public access library issue description Developers use VulnDB API access issue description page locate public private library programmatically API user full control private page access public page readonly"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Honeywell AlarmNet Direct",
+        "id": 9334,
+        "progweb_descr": " Honeywell security company provide security service device home business AlarmNet Direct webbased service design let user communicate Honeywells security device remotely It allow customer register program command check status device internet These function also access programmatically use AlarmNet Direct SOAP API"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "SOAPClient PKI",
+        "id": 9606,
+        "progweb_descr": " SOAPClient provide set web service work publickey infrastructure PKI ie infrastructure use create manage distribute use store revoke digital certificate SOAPClient PKI simplifies PKI operation management expose Certificate Authority CA functionality SOAP service This make useful software component developer host private CA enterprise environment"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Servertastic Reseller",
+        "id": 10773,
+        "progweb_descr": " Servertastic Limited reseller program SSL certificate program use point system credit make purchase point purchase front low price Yearly plan also available Servertastic try inconspicuous possible email contain branded material Resellers place order web interface API Servertastic API build developer resellers utilize GET request placement management oversight order Using API client place automate order customer Data default XML also return JSON"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "SSL.com Certificate Reseller",
+        "id": 11121,
+        "progweb_descr": " SSLcom provide SSL certificate organization size SSLcom Certificate Reseller API allow developer intergrate SSLcom certificate purchasing process website application API provide open standard interface form REST resturns JSON response"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "NetDNA",
+        "id": 11258,
+        "progweb_descr": " NetDNA provide highend SSL provide online security without sacrifice performance NetDNA API XMLRPC base program interface many request function find NetDNA Control Panel API include function create modify delete zone well prime purge cache file It also list update user create various report"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Xortify",
+        "id": 11729,
+        "progweb_descr": " Xortify develop response attack XOOPS platform rogue malicious bot well CAPTCHA spam sweat shops individual pay less 1 USD per day set account bot spam website type past CAPTCHA puzzle Xortify client stop close 99 spam CAPTCHA attack It maintain local ban list bad IP address Users must sign Xortify access service dont need use Xortifys software maintain add ban framework Xortifys function accessible programmatically via RESTful SOAPbased APIs"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Internet Storm Center DShield",
+        "id": 11744,
+        "progweb_descr": " Internet Storm Center provide free analysis warn service internet user organization Internet Storm Center gather intrusion detection log user affiliate organization track prevent spread malware Internet Storm Center DShield API allow user remotely interact Storm Center service Users return backscatter data return handler day return current infocon level check IP address info many call API use REST call return data XMLJSONTXT PHP"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "AVANTSSAR",
+        "id": 12430,
+        "progweb_descr": " Exposing service integration serviceoriented architecture entail variety trust security issue Its important validate service component composition secure service architectures AVANTSSAR Automated VAlidatioN Trust Security Serviceoriented ARchitectures API allow user validate service component well position serviceoriented architecture"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "BeEF",
+        "id": 12782,
+        "progweb_descr": " BeEF Browser Exploitation Framework professional security tool leverage browser vulnerability assess security posture target It provide penetration tester practical clientside attack vector BeEFs framework allow penetration tester select specific module target browser therefore context This project develop solely lawful research penetration test"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "One Time Secret",
+        "id": 13160,
+        "progweb_descr": " One Time Secret application let user copy paste sensitive information password system generate secret link share instead share secret information email One Time Secret API allow developer access integrate functionality One Time Secret application Some example API method include retrieve status system send secret link retrieve secret link retrieve metadata associate secret link"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "ONVIF",
+        "id": 13177,
+        "progweb_descr": " ONVIF nonprofit organization act open industry forum lead global standardization initiative IPbased physical security product ONVIF API suite SOAPXML schemas let developer automatically generate client server side stub Services group device management analytics display medium search"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "CensorNet Hosted Web Security",
+        "id": 13225,
+        "progweb_descr": " Hosted Web Security platform offer CensorNet SaaS security suite design secure network multiple location remote unsupervised roam user Their software intercept web web traffic network allow administrator control report user activity Furthermore Hosted Web Security include functionality user security authentication Hosted Web Security REST API provide developer flexibility integrate service application system provide means external control monitor Other us API include custom web filter automatic provision customer user account report importation external user Hosted Web Security account"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "Brightcloud",
+        "id": 13477,
+        "progweb_descr": " web service offer web filter database website profile aid classify sit A request specify web URI receive information site include category list almost 100 type maintain service site reputation index also provide Developers use data track web use enforce internetuse policy Methods allow retrieval current category list category assign particular URI realtime update URI database API also allow report URIs yet categorize suggestion category change"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "ARCS",
+        "id": 14081,
+        "progweb_descr": " ARCS service design control access application resource ARCS API allow user begin user session remotely base terminal use bind application user release application user finish service offer 3 different protocol Basic SOAP Form post"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "BotScout",
+        "id": 14490,
+        "progweb_descr": " BotScout service help fight automate web script also know bot It track name IPs email address bots use logs future comparison BotScout API use test form theyre submit site To call 20 query per day need sign free accountAPI key"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "MLState OPA",
+        "id": 14549,
+        "progweb_descr": " MLstate offer OPA secure integrate solution develop implement web application OPA platform design specifically let user develop SaaS application quickly safely easily OPA come SOAP API although documentation publicly available Documentation include type function data structure available OPA"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "GeoCerts Reseller",
+        "id": 14854,
+        "progweb_descr": " GeoTrust security company sell SSL certificate GeoCerts website company also reseller program affiliate provide GeoCerts customer receive commission sale GeoCerts Reseller API provide free access resellers develop SSL storefront Documentation REST API available upon request"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "CompletelyPrivateFiles",
+        "id": 14958,
+        "progweb_descr": " With JavaScript API user read write cooky secure 256bit AES encryption Encryption happen clientside use client secret password supplemental passphrase application generate value Completelyprivatefiles provide industrystrength encryption service allow user store data cloud"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "myOneLogin",
+        "id": 15479,
+        "progweb_descr": " myOneLogin API provide SOAP web service utilize myOneLogin service After authentication part singlesignon exist active session myOneLogin generate SAML assertion use application"
+    },
+    {
+        "progweb_cat": "Security",
+        "api_name": "FoolDNS",
+        "id": 15502,
+        "progweb_descr": " FoolDNS service provide protection malware phishing track cooky With API user integrate system FoolDNS It expose REST interface query via HTTP call Responses return XML JSON HTML YML format"
+    },
+    {
+        "progweb_cat": "Security,Search",
+        "api_name": "ThreatCrowd",
+        "id": 477,
+        "progweb_descr": " ThreatCrowd REST API allow developer access integrate functionality ThreatCrowd applications Some example API method include identify related infrastructure malware search domain IP address email address ThreatCrowd provide search engine result online malware security threat"
+    },
+    {
+        "progweb_cat": "Security,Enterprise",
+        "api_name": "OneLogin",
+        "id": 795,
+        "progweb_descr": " OneLogin API allow developer interact OneLogin service OneLogin provide easytouse single signon solution business embrace cloud compute OneLogin eliminates need employee remember strong password save time log application single click OneLogins API support five basic operation entity read list create update delete It use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Security,Enterprise",
+        "api_name": "Pritunl",
+        "id": 1712,
+        "progweb_descr": " Pritunl API integrate enterprise VPN service available Python source code API Token require authenticate HTTP JSON format allow perform callback REST interface Developers install MongoDB database interaction process install configure connect indirectly Use API access private network multihost server replicate server configure site advertise Amazon Web Services"
+    },
+    {
+        "progweb_cat": "Security,Enterprise",
+        "api_name": "Seculert",
+        "id": 9128,
+        "progweb_descr": " Seculert cloudbased security service provide target timely information relate company exposure cyber threat Seculert provide additional layer security top company onpremise security product collect external threat intelligence cybercrime server botnets provide comprehensive coverage malware Seculert API allow leverage Seculert data security solution SIEMs firewalls proxy Integrate API exist onpremis security product Seculert update newly detect advanced malware Requests send via HTTP XML CSV JSON format support An API key require"
+    },
+    {
+        "progweb_cat": "Security,Enterprise",
+        "api_name": "GlobalSign",
+        "id": 10500,
+        "progweb_descr": " GlobalSign trust service provider offer Digital Certificates people server mobile device Public Key Infrastructure PKI enable solution application GlobalSign develop number APIs Application Programming Interfaces design Partners automate order delivery customer SSL Certificates Using API help create robust scalable SSL business GlobalSign partner XML API connect system GlobalSign give real time CSR parse error checking allow full query order status Certificate delivery via HTTPS stream directly end customer Partner brand email"
+    },
+    {
+        "progweb_cat": "Security,Enterprise",
+        "api_name": "Incapsula",
+        "id": 11232,
+        "progweb_descr": " Incapsula offer enhance security performance feature websites size Incapsula API allow partner automate customer onboarding process support enterprise customer manage multiple site pull system event directly monitor SIEM system"
+    },
+    {
+        "progweb_cat": "Security,Reputation",
+        "api_name": "MyWot",
+        "id": 823,
+        "progweb_descr": " WOT Web Trust promote safe browse tool traffic lightlike method share know site trust ranking determine million user active WOT community MyWot API provide access reputation ranking four category trustworthiness vendor reliability privacy child safety In addition 0100 reputation MyWot provide confidence score reliable system believe score"
+    },
+    {
+        "progweb_cat": "Security,Merchants",
+        "api_name": "CaptchaCoin",
+        "id": 1114,
+        "progweb_descr": " CaptchaCoin captcha solve service allow user use service captchas solve user solve captchas receive payment service bitcoins CaptchaCoin API allow user submit captchas solve API use REST call account required service well API key"
+    },
+    {
+        "progweb_cat": "Security,Merchants",
+        "api_name": "BotDefender",
+        "id": 8698,
+        "progweb_descr": " Lokad BigData solution provider It utilize server cloud compute capability manager interpret large data set behalf user emphasis forecast optimization BotDefender service provide Lokad antiscreen scrap service prevents competition automatically collect price information use competitive model comparison BotDefender API use REST script place standard price replace scrapeable price unscrapeable one An account required service Protect online store automate retrieval price robot"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "reCAPTCHA",
+        "id": 1303,
+        "progweb_descr": " reCAPTCHA freely available CAPTCHA implementation It distinguish human computer reCAPTCHA CAPTCHA program use distinguish human computer use answer provide user help digitize scan old book newspaper"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "Pixodrom",
+        "id": 9756,
+        "progweb_descr": " Pixodrom realtime image captcha text decode service utilizes human worker around world Pixodrom API allow user upload imagesCAPTCHAs set parameter receive decode imageCAPTCHA value retrieve status imageCAPTCHA well several account related function query service average efficiency 90 use REST call site primarily Russian"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "VouchSafe",
+        "id": 10565,
+        "progweb_descr": " service provide alternative CAPTCHA validate form submission prevent abusive submission script bot Instead enter distorted character service present series image allow human user use mouse draw line connect related image circle unrelated item An adaptive AI modifies service behavior time base aggregate user action API method support generation image set along JavaScript add challenge handle user input Methods also return validation result report user success failure complete challenge"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "Solve Media",
+        "id": 10702,
+        "progweb_descr": " Solve Media company provide technology turn CAPTCHAs brand TYPEINâ„¢ ad Instead difficult read letter number Solve Media CAPTCHAs ask user type tagline Solve Media also offer option implement CAPTCHA security monetize space allow advertisement addition security A JavaScript API available allow user add brand message website"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "Photo Captcha",
+        "id": 11087,
+        "progweb_descr": " PhotoCaptcha image base captcha use prevent bot post website It present user image oppose letter often difficult read Users ask click series image present instead type letter PhotoCaptcha translate English Polish Italian PhotoCaptcha implement via JavaScript In order verify captcha solve correctly users script need contact API send PhotoCaptchaResponse client IP address API use RESTful call response format CSV"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "Sapo Captcha",
+        "id": 12321,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide Sapo Captcha API let developer generate customize captchas Customization option include font color sound image It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "Text Disguise",
+        "id": 13100,
+        "progweb_descr": " service allow site present distorted image captcha user must correctly interpret proceed Bots automate script fail give correct responses prevents submit form use website resource typically intent post spam message API method support retrieval captcha image word validate user response retrieve new image word response fails"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "textCAPTCHA",
+        "id": 13150,
+        "progweb_descr": " service implement captcha prevent bot automate script submit form use website resource typically purpose post spam message Unlike service use distorted image textCAPTCHA post random textbased question easy arithmetic problem logic puzzle user must correctly solve proceed Bots unable interpret meaning text prevent continue API method support request question MD5 hash permit answer"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "CaptChair",
+        "id": 13151,
+        "progweb_descr": " service delivers distort image text captcha incorporate form control website resource Users must correctly interpret captcha successfully submit form use otherwise interact site Bots automate script typically intend post spam message fail respond correctly prevent continue API method support retrieval display captcha image along verification user response correct incorrect"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "Seznam Captcha",
+        "id": 14086,
+        "progweb_descr": " Captcha API provide provide protection web form service allow visual audio confirmation an accessible HTTP GET request well XMLRPC protocol This site Czech"
+    },
+    {
+        "progweb_cat": "Security,Captcha",
+        "api_name": "I'm Human",
+        "id": 14895,
+        "progweb_descr": " Im Human API humanity win fight machine accord elxsycom provider service Im Human visual CAPTCHA service respond word grid 25 image grid number correspond correct answer Humans must select image match word application compare result correct answer Im Human API"
+    },
+    {
+        "progweb_cat": "Security,Language",
+        "api_name": "WebPurify Profanity Filter",
+        "id": 1391,
+        "progweb_descr": " WebPurify accurate efficient profanity filter web service easily integrated internet enable platform With WebPurify profanity list update automatically maximize accuracy In addition scan profanity WebPurify allow user add personal list word filter Currently WebPurify support English Spanish Arabic Italian French Chinese Portuguese Korean Turkish Thai beta We API Endpoints US Europe plan launch AsiaPacific Endpoint May 2012"
+    },
+    {
+        "progweb_cat": "Security,Language",
+        "api_name": "CDYNE Profanity Filter",
+        "id": 13230,
+        "progweb_descr": " CDYNEs Profanity Filter API find remove word consider profanity It design help maintain professionalism webbased application message board bulletin board chat room shoutboxes CDYNE Profanity Filter also give user ability create personalize profanity list filter level CDYNE longer maintain product Its free use risk"
+    },
+    {
+        "progweb_cat": "Security,Big Data",
+        "api_name": "RiskIQ PassiveTotal",
+        "id": 1472,
+        "progweb_descr": " RiskIQ PassiveTotal API connect exist application security management system aim block malicious infrastructure Developers create project status monitoring endpoint monitoring aid remediation process API follow REST practice data exchange JSON RiskIQ platform offer active change notification attack prevention threat analysis"
+    },
+    {
+        "progweb_cat": "Security,Email",
+        "api_name": "Sqreen",
+        "id": 1537,
+        "progweb_descr": " Sqreen provider inapp security data protection solution Sqreen API support detection hidden security risk data API screen email IP address determine validity example capable detecting email anonymous source IP address Tor exit point Its deployment require API Key response return JSON format"
+    },
+    {
+        "progweb_cat": "Security,Email",
+        "api_name": "Emailage",
+        "id": 5573,
+        "progweb_descr": " Emailage REST API allow developer access functionality Emailage integration application Public documentation available free API access come account service Emailage fraud detection service use validity email address IP address identify prevent fraud"
+    },
+    {
+        "progweb_cat": "Security,Email",
+        "api_name": "SureVerify",
+        "id": 9089,
+        "progweb_descr": " SureVerify use simple HTTP API provide realtime batch email verification Customers simply provide email address verify along API Key SureVerify respond code specify address valid invalid"
+    },
+    {
+        "progweb_cat": "Security,Email",
+        "api_name": "Lionhardt Lionytics",
+        "id": 9133,
+        "progweb_descr": " Lionytics Lionhardt Technologies deliver embeddable antispam barrier Lionytics API allow developer include functionality almost application API support HTTP GET call pass data must encode escaped Responses may JSON XML format"
+    },
+    {
+        "progweb_cat": "Security,Email",
+        "api_name": "TekGuard Product Info",
+        "id": 12744,
+        "progweb_descr": " TekGuard Online Guardian website Vinfos security product Vinfo Vector Information Systems Inc boutique technology consult firm specialty software provider Its security product design eliminate spam filter traffic email server TekGuard Product Info API use TekGuard website retrieve information Vinfos security product via SOAP call"
+    },
+    {
+        "progweb_cat": "Security,Email",
+        "api_name": "DEA Filter",
+        "id": 14252,
+        "progweb_descr": " DEAFilter free RESTful API implement exist site couple line code It use get rid Disposable Email Address service use infest site fake user spammer"
+    },
+    {
+        "progweb_cat": "Security,eCommerce",
+        "api_name": "buySAFE",
+        "id": 1634,
+        "progweb_descr": " From site buySAFE Seal instill confidence online shopper make likely purchase merchant display seal Every buySAFE Merchant pass rigorous thorough business inspection continually monitor buySAFE ensure committed customer ’ satisfaction If provide tool browser plugin toolbar online shopper buySAFE Trust API allow integrate buySAFE signal offer allow dramatically increase benefit provide customer Using buySAFE Trust API determine whether specific eretailer buySAFE Merchant andor whether specific item sell buySAFE Merchant When API call produce positive result display buySAFE signal next merchant item let shopper know feel safe confident buy One example Trust API usage would comparison shop engine integrate buySAFE signal provide great purchase information shopper great clickthroughs sale merchant advertiser"
+    },
+    {
+        "progweb_cat": "Security,eCommerce",
+        "api_name": "Sift Science Score",
+        "id": 5763,
+        "progweb_descr": " Sift Science Score API REST API provide risk score user ecommerce website Sift score user assess JSON request contain API key user id provide JSON response This API allow HTTP notification endpoint companys choice two hundred daily email notification Sift Science company focus monitoring website traffic event protect site user intent malicious activity fraud credit card chargebacks money laundering abuse referral program general spamming"
+    },
+    {
+        "progweb_cat": "Security,eCommerce",
+        "api_name": "MaxMind MinFraud",
+        "id": 11257,
+        "progweb_descr": " service provide evaluation pending ecommerce transaction fraud include use proxy access payment application rating risk level pose base purchaser IP address email detect characteristic In addition proxy detection service maintain reputation database indicating frequency report fraud use IP email proxy server Applications use risk assessment sequester questionable transaction review specific approval API method support post transaction detail include product purchase purchaser name email IP address credit card information Methods ass risk level provide information proxy access detect bank check purchaser information address phone number validity check relate detail"
+    },
+    {
+        "progweb_cat": "Security,eCommerce",
+        "api_name": "NorseCorp",
+        "id": 11345,
+        "progweb_descr": " NorseCorp provider Internet security intelligence solution eCommerce enterprise client These solution include nGate online payment gateway IPViking realtime set security intelligence IP address Both service expose data via RESTful APIs Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Security,eCommerce",
+        "api_name": "MasterCard Lost-Stolen Account List",
+        "id": 11430,
+        "progweb_descr": " MasterCard Developer Zone open MasterCards financial data service allow developer create application interact MasterCards global network LostStolen Account List API help user manage risk provide list loststolen account number This let ecommerce provider validate account know account report lost stolen API return account status along reason account list It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Security,eCommerce",
+        "api_name": "IPInfoDB E-Commerce Fraud Detection",
+        "id": 15365,
+        "progweb_descr": " IPInfoDB ECommerce Fraud Detection API compare shippingbilling information IP geolocation data country USA Canada API also confirm area code postalzip code information It flexible parameter weight set manually example specify whether IP Spamhaus blacklist weight importance factor remain 2 specify whether keep 1 importance email address provider free email service"
+    },
+    {
+        "progweb_cat": "Security,Networking",
+        "api_name": "wolfSSL_Init",
+        "id": 1844,
+        "progweb_descr": " wolfSSLInit API initialize wolfSSL library preparation establish secure TLS connection It small fast portable implementation TLSSSL embed device cloud"
+    },
+    {
+        "progweb_cat": "Security,Networking",
+        "api_name": "ProxyKey",
+        "id": 10068,
+        "progweb_descr": " ProxyKey project protect monitor customize Wikidot API key It create server act proxy Wikidot XMLRPC API ProxyKey deploy appspecific key remove reset easily without affect application create custom key custom permission setting monitor application use key lock suspicious application ProxyKeys function like Wikidot accessible via XMLRPC API"
+    },
+    {
+        "progweb_cat": "Security,Internet of Things",
+        "api_name": "wolfSSL_CTX",
+        "id": 1867,
+        "progweb_descr": " wolfSSLCTX API add several SSL capability embed device IoT device smart grid connect home automobile router application game API generate SSL object customize accord client specification wolfSSL support current industry standard TLS 12 DTLS 12 Additionally wolfSSL resource intensive scale well backend server"
+    },
+    {
+        "progweb_cat": "Security,Internet of Things",
+        "api_name": "Miracl",
+        "id": 2762,
+        "progweb_descr": " Miracl identity integrity solution provider base UK Miracl offer promotes innovation field elliptic curve pairingbased cryptography Individuals application mobile industry Internet Things platforms benefit highly secure numbertheoretic cryptography"
+    },
+    {
+        "progweb_cat": "Security,Internet of Things",
+        "api_name": "Nymi",
+        "id": 8325,
+        "progweb_descr": " Nymi technologyenabled wristband keep track unique heartbeat use heartbeat log user application device passwordprotected thing Nymi API SDK allow developer access integrate functionality Nymi application device Public documentation come soon interested developer follow httpdevelopersgetnymicom"
+    },
+    {
+        "progweb_cat": "Security,Internet of Things",
+        "api_name": "Codeproof MDM",
+        "id": 10601,
+        "progweb_descr": " Codeproof provider cloud host mobile security platform use secure personal corporate data mobile phone tablet Codeproof provide MDM APIâ€™s partner mobile developer Integration Codeproof APIs software mobile app allow developer control report management mobile device With Codeproof Webservice API administrator query device information trigger action restriction policy application information enrol mobile device API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Security,Cloud",
+        "api_name": "Tenable.io",
+        "id": 2077,
+        "progweb_descr": " Tenableio API allow developer programmatically access cloudbased virtual machine platform This platform design support visualize elastic IT asset containers web apps Tenable offer prebuilt integration allow developer build new integration quickly order improve vulnerability management program"
+    },
+    {
+        "progweb_cat": "Security,Cloud",
+        "api_name": "Walti",
+        "id": 6533,
+        "progweb_descr": " Waltiio continuous serverside security check service base Tokyo Japan Walti REST API allow 3rd party website application interact Walti service enable simple scan management screen ongoing security management With API key developer make HTTP call Waltiio programmatically retrieve data manage plugins target security scan"
+    },
+    {
+        "progweb_cat": "Security,Cloud",
+        "api_name": "Cloudessa",
+        "id": 8523,
+        "progweb_descr": " Cloudessa cloudhosted WiFi network access authentication service platform provide user authentication solution allow enterprise hotspot network provider secure control WiFi BYOD remote VPN captive portal access network Cloudessa offer REST API allow platform interact network access control infrastructure provide Cloudessa API allow create delete modify user group guest user virtual RADIUS server get list active session"
+    },
+    {
+        "progweb_cat": "Security,Cloud",
+        "api_name": "Dome9",
+        "id": 9492,
+        "progweb_descr": " Dome9 service centralize automate security cloud server kinds Server manager monitor user activity detail maintaining report even server retire Multiple user add single Dome9 account permission customize control access Access server hide default grant via secure access lease Onetime secure access lease available individual need temporary access server developer consultant To enhance server security Dome9 use multifactor authentication along customizable realtime alert regard security issue Dome9 available integration use API enable developer view Dome9 security entity create delete access lease Potential API use include selfgranting secure access batch job add secure access lease button application"
+    },
+    {
+        "progweb_cat": "Security,Cloud",
+        "api_name": "WebSense ThreatSeeker Cloud",
+        "id": 10478,
+        "progweb_descr": " service provide assessment threat present destination website base complete analysis categorization site content file structure data along traditional measure reputation security profile behavior It give estimate secure browser access data exchange email allow application choose whether access another service accept contact cloud service access threat assessment use provider instal hardware software product protect thirdparty application API method support submission web URL analysis trigger extensive categorization algorithm evaluate reputation behavior record also site content data expose file structure API return threat assessment highlight probability nature threat potentially pose site"
+    },
+    {
+        "progweb_cat": "Security,Cloud",
+        "api_name": "PwnedList",
+        "id": 11132,
+        "progweb_descr": " PwnedList maintains online database steal credential allow user secure vulnerable account become victim fraud PwnedList provide customer database access RESTful API allow developer automate interaction list dynamic update"
+    },
+    {
+        "progweb_cat": "Security,Cloud",
+        "api_name": "TrewIDM Cloud",
+        "id": 11770,
+        "progweb_descr": " TrewPort specialize identity management business process management service orient architecture TrewIDM Cloud design provide comprehensive identity management product support single federation sign functionality provide comprehensive view user event within enterprise API currently connect product 500 cloud enterprise application"
+    },
+    {
+        "progweb_cat": "Security,Cloud",
+        "api_name": "CloudPassage Halo",
+        "id": 12758,
+        "progweb_descr": " CloudPassage service allow user secure cloud server host Some feature CloudPassage include firewall automation authentication file integrity monitoring CloudPassage API allow developer access integrate functionality CloudPassage applications Some example API method include manage firewall setting manage account manage server information"
+    },
+    {
+        "progweb_cat": "Security,Cloud",
+        "api_name": "Stormpath",
+        "id": 12763,
+        "progweb_descr": " Stormpath cloud base service use manage user ease authentication access control within application API provide programmatic access functionality service This include basic CRUD operation account application directory group tenant It use RESTful call response format JSON Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Security,Scanning",
+        "api_name": "VirusTotal Private",
+        "id": 2098,
+        "progweb_descr": " VirusTotal Private REST API expose information generate scanner developer integration thirdparty access private API part account service limit term customize customer API RESTbased return JSONformatted data Some example API method include retrieve scan report upload file scan manage URLs scan VirusTotal malware detection service It run aggregate scanner antivirus engine provide analysis potentially harmful file sit Users upload file submit URLs VirusTotal scan worm virus trojan VirusTotal also maintain blacklist file URLs know harmful"
+    },
+    {
+        "progweb_cat": "Security,Scanning",
+        "api_name": "PENTESTON Reports",
+        "id": 2625,
+        "progweb_descr": " PENTESTON provider cloudbased risk assessment solution internet security platform detect summarize data potential threat facilitate proactive prevention cyber attack PENTESTON Reports API allow developer create view penetration test foot print exploit test result generate test report cyber security threat API generates report docx file format Users require Google account login access API"
+    },
+    {
+        "progweb_cat": "Security,Scanning",
+        "api_name": "Metascan Online Public",
+        "id": 7290,
+        "progweb_descr": " Metascan provide cloudbased multiscanning software design protect user system malware virus spyware Developers integrate antivirus scan technology security architecture use Metascan Online Public API This API provide method scan file look hash submit IP address programmatically"
+    },
+    {
+        "progweb_cat": "Security,Scanning",
+        "api_name": "Quttera Website Malware Scanner",
+        "id": 9285,
+        "progweb_descr": " Quttera set investigation engine design detect security vulnerability exploit hide within legitimate website content Quttera Website Malware Scanner API provide developer RESTful interface Qutteraâ€™s Web Investigation System data API allow 3rd party application perform â€œblacklisting checkâ€ run realtime scan domain via HTTP request Responses may JSON XML YAML format API Key require"
+    },
+    {
+        "progweb_cat": "Security,Artificial Intelligence",
+        "api_name": "Simility",
+        "id": 2280,
+        "progweb_descr": " Simility API integrate fraud detection human analysis machine learn It available REST architecture JSON format token authentication JavaScript iOS Android available language device collect data application"
+    },
+    {
+        "progweb_cat": "Security,Application Development",
+        "api_name": "Docker Secrets",
+        "id": 2437,
+        "progweb_descr": " This API provide way secret manage sensitive data container need runtime ’ want store image source control Usernames password TLS certificate key SSH key It provide layer abstraction container set credential Docker provide integrated technology suite enables development IT operation team build ship run distribute application anywhere"
+    },
+    {
+        "progweb_cat": "Security,Application Development",
+        "api_name": "ncryptify",
+        "id": 3851,
+        "progweb_descr": " ncryptify provide RESTful API maintain security data abstract detail encryption ncryptify make manage key secure use Gemalto SafeNet HSM root tenant easy possible case even transparently Because crypto key management offload segregate tenant support million key suitable many application include IoT device key distribution data share encryption processing challenge"
+    },
+    {
+        "progweb_cat": "Security,Application Development",
+        "api_name": "Passable",
+        "id": 3891,
+        "progweb_descr": " Passable API free lightweight RESTful web service developer easily implement prevent password hack breach Developers send hash password algorithm receive 0 insecure password 1 secure password response Developers find even easy connect API implementing password check user signup send request answer 1 ok user signup 0 ask user type another password Passable API currently beta"
+    },
+    {
+        "progweb_cat": "Security,Application Development",
+        "api_name": "PatrolServer",
+        "id": 4654,
+        "progweb_descr": " PatrolServer API allow developer automatically scan server outdated software PatrolServer watch software manufacturer add new software version exploit system soon become available They also email user update relevant make necessary change PatrolServer currently support 5100 software package Users manage many server like PatrolServer dashboard"
+    },
+    {
+        "progweb_cat": "Security,Application Development",
+        "api_name": "W3AF",
+        "id": 5392,
+        "progweb_descr": " W3AF API allow developer programmatically consume W3AF open source web application attack audit framework This framework design help secure web application find exploit application vulnerability W3AF framework develop use Python license GPLv20"
+    },
+    {
+        "progweb_cat": "Security,Application Development",
+        "api_name": "CxSAST",
+        "id": 5412,
+        "progweb_descr": " CxSAST API allow developer create client script work CxSAST project code scan result report CxSAST application security service integrate part software development life cycle It scan uncompiled source code order detect applicationlayer vulnerability early lifecycle This allow user discover vulnerability early reduce cost remediation"
+    },
+    {
+        "progweb_cat": "Security,File Sharing",
+        "api_name": "Cuckoo Sandbox",
+        "id": 2527,
+        "progweb_descr": " Cuckoo Sandbox API recognize malware software Available REST architecture JSON format Cuckoo allow analyze malicious file trace API call analyze encrypt network traffic perform infect memory analysis Developers download open source sandbox visit official site"
+    },
+    {
+        "progweb_cat": "Security,File Sharing",
+        "api_name": "Backplane Server",
+        "id": 11696,
+        "progweb_descr": " Backplane Server independent orchestrator message interchange Backplane Clients may serve multiple independent bus Once Backplane client recognize authenticated bus specify server continue authorization grant API use OAuth2 HTTP basic authentication return message JSON format"
+    },
+    {
+        "progweb_cat": "Security,Web Site Management",
+        "api_name": "PENTESTON",
+        "id": 2667,
+        "progweb_descr": " PENTESTON API allow developer access system security information generate report target test provide PENTESTON environment This API require API Keys authentication PENTESTON feature report rapidly provide situational awareness cyber due diligence daily security recommendation check system"
+    },
+    {
+        "progweb_cat": "Security,Web Site Management",
+        "api_name": "SiteLock Partner",
+        "id": 8157,
+        "progweb_descr": " SiteLock website security service scan customer website fix exist issue malware vulnerability Afterwards customer use TrueShield firewall protect site TrueSpeed speed SiteLock also facilitate PCI compliance site accept payment Once site scan secure display SiteLock Trust Seal show end user shop safely SiteLock Partners integrate SiteLock several way include via REST API"
+    },
+    {
+        "progweb_cat": "Security,Web Site Management",
+        "api_name": "Observu",
+        "id": 12354,
+        "progweb_descr": " Observu site monitoring service Observu monitor sit server sends alert email text call well dashboard Observu API allow developer access integrate functionality Observu applications Some example API method include add data retrieve list message add monitor"
+    },
+    {
+        "progweb_cat": "Security,Applications",
+        "api_name": "Castle",
+        "id": 2709,
+        "progweb_descr": " Castle REST API allow developer access integrate functionality Castle applications Some example API method include manage user manage authentication manage event Castle provide platform feature application developer publisher protect application hacker protect user"
+    },
+    {
+        "progweb_cat": "Security,Applications",
+        "api_name": "Apperian App Inspections",
+        "id": 7527,
+        "progweb_descr": " Apperian mobile app management platform set open APIs handle key element extend integrate create additional functionality value App Inspections API use request inspection application It also use acquire previously generate inspection report Inspections use screen apps risky behavior vulnerability inspection perform Appthority Platformâ„¢"
+    },
+    {
+        "progweb_cat": "Security,Applications",
+        "api_name": "The WeatherRepo",
+        "id": 9106,
+        "progweb_descr": " There lot apps available online difficult sort identify one safe use WeatherRepo service design determine security give application quantify information app safety way developer user understand WeatherRepos app safety information retrieve programmatically via REST call"
+    },
+    {
+        "progweb_cat": "Security,Applications",
+        "api_name": "Swift Identity",
+        "id": 9150,
+        "progweb_descr": " Swift Identity service manage security aspect web application Users use Swift Identity manage user web application Swift Identity API allow developer access integrate functionality Swift Identity applications Some example API method include manage user retrieve application manage application"
+    },
+    {
+        "progweb_cat": "Security,Applications",
+        "api_name": "FraudLabs BrowserObject Browser Detection",
+        "id": 14745,
+        "progweb_descr": " BrowserObject Browser Detection Web Service host programmable XML Web Service allow instant detection online visitor Web Browser information FraudLabs develop market support score system online online credit card transaction Users provide BrowserObject visitor Web Browser User Agent String Browser Object Browser Detection Web Service analyze return Web Browser information API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Security,Standards",
+        "api_name": "W3C WebCrypto Key Discovery",
+        "id": 2783,
+        "progweb_descr": " W3C WebCrypto Key Discovery API note describe JavaScript API discover cryptographic key use W3C Web Cryptography API These key must name originspecific preprovisioned This document still work progress may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Security,Authorization",
+        "api_name": "AMEX Enhanced Authorization",
+        "id": 2885,
+        "progweb_descr": " This API antifraud capability allow merchant submit additional data authorization request Riskdecisioning help decrease fraud improve approval rate reduce cost business provide mechanism increase level fraud detection authorization process Merchants submit available information processing authorization American Express global service company provide customer access product insight experience build business"
+    },
+    {
+        "progweb_cat": "Security,Authorization",
+        "api_name": "SIGKAT Credentials",
+        "id": 12349,
+        "progweb_descr": " SIGKAT credential ecosystem user manage exchange credential secure manner little cost Credential issuer holder verifier receive submit create evaluate exhance credential SIGKAT provide API create submit verify credential API include method work client account certificate credential It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Security,Analytics",
+        "api_name": "Fireeye",
+        "id": 2886,
+        "progweb_descr": " Fireeye API integrate cybersecurity application provide HTTP request JSON XML format Endpoints include threat target vulnerability Use API analyze risk plan contingency attack respond potential incident"
+    },
+    {
+        "progweb_cat": "Security,Analytics",
+        "api_name": "Lanoba",
+        "id": 13463,
+        "progweb_descr": " Lanoba provide easy registration user give option log website via exist social network account like Facebook Twitter among others With few password logins remember browse experience positive registration simple Programmer Benefits Easy implementation Learn one hasslefree flexible API instead 8 Javascript widget Login Share Automatic detection social network Sessions prevent user login multiple time Link Widget provide easy solution developer allow user link social account together Easily map member exist account social account Map Method Access native APIs Social Networks Data return JSON format Pull user profile data time Trigger automatic share multiple social account White label"
+    },
+    {
+        "progweb_cat": "Security,Bots",
+        "api_name": "PerimeterX Bot Defender",
+        "id": 3024,
+        "progweb_descr": " Bot Defender API service protect websites attack pricescraping bot brute force attack click fraud This service use approach base dynamic behavior profile real customer ease identification malicious bot This API evaluate traffic say method provide report analyze threat traffic PerimeterX IT firm base California"
+    },
+    {
+        "progweb_cat": "Security,Bots",
+        "api_name": "ShieldSquare",
+        "id": 3837,
+        "progweb_descr": " ShieldSquare API allow user prevent bot intrusion content scrap API help prevent price scrap commerce site ticket scalp content theft intrusive action improve SEO conversion rate It available JSON format secure SSL accessible ID ShieldSquare protect online business spam content theft web scrap bot abuse"
+    },
+    {
+        "progweb_cat": "Security,Testing",
+        "api_name": "High-Tech Bridge SSL",
+        "id": 3129,
+        "progweb_descr": " HighTech Bridge offer SSLTLS server test service help detect possible vulnerability This service free use request limit 20 3 minute 250 request total per 24 hour JSON use response easy consumption HighTech Bridge web security firm headquarter Geneva"
+    },
+    {
+        "progweb_cat": "Security,Testing",
+        "api_name": "Klocwork",
+        "id": 9806,
+        "progweb_descr": " Klocwork software security provider analyze source code test state determine weaknesses among service Klocwork API permit user access functionality Insight product provider sourcecode analysis use Using SSL security API use REST call return JSON An account required service"
+    },
+    {
+        "progweb_cat": "Security,Testing",
+        "api_name": "CloudCracker",
+        "id": 12947,
+        "progweb_descr": " CloudCracker password crack service aim penetration tester auditor check security Protected Wireless Networks It even provide service help crack password hash validate document encryption strong enough CloudCracker API allow developer integrate functionality service application Methods include return dictionary option endpoint submit crack job submit payment job API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Security,Passwords",
+        "api_name": "BeyondTrust PowerBroker Password Safe",
+        "id": 3137,
+        "progweb_descr": " PowerBroker Password Safe API allow developer integrate security layer exist application Developers authenticate request late credential user application infrastructure cloud solution database All authentication perform behind scenes end user never expose username password Developers need register access API documentation"
+    },
+    {
+        "progweb_cat": "Security,Passwords",
+        "api_name": "Thycotic Secret Server",
+        "id": 10931,
+        "progweb_descr": " service provide installed software host service management online password authentication credential It allow secure access login information company system asset include simple complex combination password PIN code license key etc It allow share access among colleague appropriate access privilege along strict control audit user activity secure system API method support authentication specify vary grouping user permission return data provide authentication credential level access Methods also support create manage favorite list subdivide listing secret key access credential"
+    },
+    {
+        "progweb_cat": "Security,Encoding",
+        "api_name": "W3C Web Cryptography",
+        "id": 3229,
+        "progweb_descr": " W3C Web Cryptography API specification JavaScript API performs basic cryptographic operation web application These operation include hash signature generation signature verification encode decryption specification also describe API method generate manage key material necessary performing operation"
+    },
+    {
+        "progweb_cat": "Security,Lists",
+        "api_name": "Moocher Reputation",
+        "id": 3503,
+        "progweb_descr": " Moocherio API integrate set list include IP domains email password credit card BINIIN classify abuser several group initiative user community others use filter potential abuser Moocherio define Look Service developer product company want know real time exist potential user classify abuser one list Available JSON architecture Api Key"
+    },
+    {
+        "progweb_cat": "Security,Machine Learning",
+        "api_name": "CrowdStrike Falcon Streaming",
+        "id": 3608,
+        "progweb_descr": " Falcon Streaming API provide constant source information real time threat detection prevention This platform offer unknown threat identification use signature match static analysis machine learning procedure Additionally CrowdStrike offer protection malware malware free base attack Developers need register access API documentation CrowdStrike Irvine base network security firm"
+    },
+    {
+        "progweb_cat": "Security,Machine Learning",
+        "api_name": "CrowdStrike Falcon Intelligence",
+        "id": 3609,
+        "progweb_descr": " Falcon Intelligence API provide real time information new adversary group indicator news 2 plan available standard delivers new threat information premium focus uninterrupted business operation This platform offer unknown threat identification use signature match static analysis machine learning procedure Additionally CrowdStrike offer protection malware malware free base attack Developers need register access API documentation CrowdStrike Irvine base network security firm"
+    },
+    {
+        "progweb_cat": "Security,Machine Learning",
+        "api_name": "CrowdStrike Falcon Management",
+        "id": 3610,
+        "progweb_descr": " Falcon Management API provide updating edit delete capability IOCs Indicator Compromise within CrowdStrikes real time detection platform This platform offer unknown threat identification use signature match static analysis machine learning procedure Additionally CrowdStrike offer protection malware malware free base attack Developers need register access API documentation CrowdStrike Irvine base network security firm"
+    },
+    {
+        "progweb_cat": "Security,Machine Learning",
+        "api_name": "CrowdStrike Falcon Respond",
+        "id": 3611,
+        "progweb_descr": " Falcon Respond API provide support system compromise detection management remediation execution This platform offer unknown threat identification use signature match static analysis machine learning procedure Developers need register access API documentation CrowdStrike Irvine base network security firm"
+    },
+    {
+        "progweb_cat": "Security,Machine Learning",
+        "api_name": "CrowdStrike Threat Graph",
+        "id": 3612,
+        "progweb_descr": " Threat Graph API provide security insight endpoint third party application feature threat type identification crowdsourced protection realtime security record This platform offer unknown threat identification use signature match static analysis machine learning procedure Developers need register access API documentation CrowdStrike Irvine base network security firm"
+    },
+    {
+        "progweb_cat": "Security,Data",
+        "api_name": "LeakedSource",
+        "id": 3633,
+        "progweb_descr": " LeakedSource API data filter tool detect user profile may hack post leaked database It security solution protect individual profile transactional data customer subscribe company ’ online service API return JSON response HTTP request LeakedSource currently restrict API ’ access large corporate organization"
+    },
+    {
+        "progweb_cat": "Security,Data",
+        "api_name": "iSIGHT Partners Threatscape",
+        "id": 6143,
+        "progweb_descr": " iSIGHT Partners Threatscape API fee base API allow integration iSIGHT Partners cyber security product third party technology produce content rich intelligence data iSIGHT Partners Threatscape API RESTful use API Key secret key authentication All function API schema support XML JSON additional format support depend query iSIGHT Partners recognize global leader cyber security provide security intelligence subscription service include ThreatScape Intelligence ThreatScape Offerings ThreatScape API Insights worldwide clientbase These service provide current historical cyber security data provide subscriber tool insight need create tactical strategic approach cyber threat"
+    },
+    {
+        "progweb_cat": "Security,Domains",
+        "api_name": "CloudFlare",
+        "id": 4275,
+        "progweb_descr": " CloudFlare provide fast secure content delivery network website application CloudFlare API expose CloudFlare infrastructure use standardize programmatic interface With RESTful CloudFlare API developer send HTTP request receive JSON response integrate security domain host feature"
+    },
+    {
+        "progweb_cat": "Security,Domains",
+        "api_name": "IQRisk Query",
+        "id": 4641,
+        "progweb_descr": " IQRisk Query API security management platform IQRisk API give user access ProofPoint ’ database reputable domain IPs well information 100 million malware sample This API RESTful JSON format"
+    },
+    {
+        "progweb_cat": "Security,Business",
+        "api_name": "Cisco PSIRT openVuln",
+        "id": 4583,
+        "progweb_descr": " Through implementation Ciscos PSIRT openVuln API developer simplify expedite system security measure PSIRT stand Product Security Incident Response Team RESTful API give developer access Ciscos Security Vulnerability information Cisco offer ’ Security data major security format include CVE CVSS CVRF OVAL A Cisco account require documentation"
+    },
+    {
+        "progweb_cat": "Security,Business",
+        "api_name": "Private.Me",
+        "id": 5635,
+        "progweb_descr": " PrivateMe offer solution security data privacy With PrivateMe API developer access Dispersed Storage System data storage management system protect privacy personal data business create consumer trust properly manage data This system keep information inaccessible unauthorized entity protect potential cyber threat"
+    },
+    {
+        "progweb_cat": "Security,Business",
+        "api_name": "TrustedX",
+        "id": 13372,
+        "progweb_descr": " TrustedX API intend help business ensure security reliability online transaction provide mechanism handle authenticity electronic signatures encryption This API make easy endow application security mechanisms manage centrally"
+    },
+    {
+        "progweb_cat": "Security,Marketplace",
+        "api_name": "Smyte",
+        "id": 5120,
+        "progweb_descr": " Smyte REST API allow developer access integrate functionality Smyte applications Some example API method include send action base user action application retrieve action manage user account Smyte spam fraud detection service online marketplace social network application"
+    },
+    {
+        "progweb_cat": "Security,Compliance",
+        "api_name": "Qualys SSL Labs",
+        "id": 5512,
+        "progweb_descr": " Qualys SSL Labs API allow developer test server configuration This API free restriction Qualys provide cloud security compliance solution"
+    },
+    {
+        "progweb_cat": "Security,Compliance",
+        "api_name": "nsure.io",
+        "id": 11188,
+        "progweb_descr": " nsureio provide series APIs add security compliance risk reputation control developer application without need complex backend system ever expand cloud server API series consist nsureVIRUS nsureLanguage nsurePORN nsureProfanity In nutshell give developer content control application site Functionality include virus protection language identification profanity filter SOX HIPAA porn detection APIs RESTful response format JSON"
+    },
+    {
+        "progweb_cat": "Security,Compliance",
+        "api_name": "QualysGuard",
+        "id": 11531,
+        "progweb_descr": " QualysGuard Cloud information security compliance solution QualysGuard application include vulnerability management policy compliance web application scan malware detection Qualys SECURE Seal security test web site QualysGuard API enable developer integrate aspect QualysGuard automate solution application via extensible XML interface"
+    },
+    {
+        "progweb_cat": "Security,Compliance",
+        "api_name": "PrivacyScore",
+        "id": 12113,
+        "progweb_descr": " PrivacyScore service scan websites thirdparty track activity privacy score base website handle personal tracking data PrivacyScore API allow developer access integrate functionality PrivacyScore application API return list data collector see panel spider scan"
+    },
+    {
+        "progweb_cat": "Security,Open Data",
+        "api_name": "Verisign OpenHybrid",
+        "id": 5597,
+        "progweb_descr": " Verisign OpenHybrid API allow interoperability exist onpremise device cloudbased platform open API API allow leverage exist security device signal threat information back Verisign DDoS protection cloud detection mitigation DDoS attack"
+    },
+    {
+        "progweb_cat": "Security,Monitoring",
+        "api_name": "Sift Science Label",
+        "id": 5758,
+        "progweb_descr": " Sift Science Label API REST API label bad user within Sift Science system This API allow business user label behavior categorize event confirm deny sift score Sift Science system use data learn predict bad behavior pattern Labeling make HTTP POST Label endpoint user id API key generates HTTP status code This API also allow unlabeling user incase error Sift Science company focus monitoring website traffic event protect site user intent malicious activity fraud credit card chargebacks money laundering abuse referral program general spamming"
+    },
+    {
+        "progweb_cat": "Security,Monitoring",
+        "api_name": "Sift Science Partner",
+        "id": 5794,
+        "progweb_descr": " Sift Science Partner API REST API allow creation Sift Science account client ecommerce platform agency payment gateway process company This API allow third party creation account administrative action behalf associate third party Sift Science Partner API require unique Partner Account API key order create account list account configure notification Sift Science company focus monitoring website traffic event protect site user intent malicious activity fraud credit card chargebacks money laundering abuse referral program general spamming"
+    },
+    {
+        "progweb_cat": "Security,Monitoring",
+        "api_name": "PC Monitor",
+        "id": 8090,
+        "progweb_descr": " PC Monitor provide system feature remotely monitor control IT system smartphones tablet PC Monitor API allow developer access integrate functionality PC Monitor application Public documentation available interested developer sign API Key available account service httpswwwmobilepcmonitorcomapirequestkey"
+    },
+    {
+        "progweb_cat": "Security,Monitoring",
+        "api_name": "NodePing",
+        "id": 9909,
+        "progweb_descr": " NodePing monitoring service websites server NodePing API allow developer access integrate functionality NodePing application Some example API method include manage account manage contact retrieve manage notification"
+    },
+    {
+        "progweb_cat": "Security,Monitoring",
+        "api_name": "OZ Data Centa",
+        "id": 11038,
+        "progweb_descr": " OZ Data Centa aim inform website owner public interested party recent data leak result phishing hack attack site collect archive instance data leak geographic region OZ Data Centa API allow user request singe archive Oz Data Centa API currently require user ID authentication access service use REST call return data JSONXML TEXT format"
+    },
+    {
+        "progweb_cat": "Security,Monitoring",
+        "api_name": "Sift Science Events",
+        "id": 11071,
+        "progweb_descr": " Sift Science Events API REST API track user event website This API integrate ecommerce website capture define set event interaction include recommend supported custom event tailor business specification detail capture JSON request contain API key event type user id Sift Science company focus monitoring website traffic event protect site user intent malicious activity fraud credit card chargebacks money laundering abuse referral program general spamming"
+    },
+    {
+        "progweb_cat": "Security,Monitoring",
+        "api_name": "Digital Monitoring Products",
+        "id": 13339,
+        "progweb_descr": " Digital Monitoring Products DMP provider security fire alarm product They specialize network solution centralize security monitoring application size DMP offer API use security system dealer Central Stations With API developer build system allow user interact service mobile device web application Developers also use API custom brand application Full documentation publicly available API available charge dealer subscribe SecureCom cellular service"
+    },
+    {
+        "progweb_cat": "Security,Availability",
+        "api_name": "AeroFS",
+        "id": 6943,
+        "progweb_descr": " AeroFS offer Private Cloud file share service interacts behind company firewall mitigate security risk filesharing public cloud AeroFS Private Cloud host RESTful API use JSON protocol response request body facilitate communication perform audit control access content via 0Auth 20 authentication Developer license Private Cloud access contact customer support Developers sample API behavior AeroFS API Playground host Apiary"
+    },
+    {
+        "progweb_cat": "Security,Database",
+        "api_name": "Badips",
+        "id": 6991,
+        "progweb_descr": " Badipscom free abuse tracker IP monitoring community offer way report compile blocklists bad IPs With API key developer access Badipscom simple HTTP request RESTful API receive list bad IPs along specific individual IP information Developers also open make POST method add new IPs add directory"
+    },
+    {
+        "progweb_cat": "Security,Accessibility",
+        "api_name": "Apple Touch ID",
+        "id": 7161,
+        "progweb_descr": " Touch ID Apple let user sign thirdparty apps fingerprint eliminate need enter password fingerprint data secure It accessible iOS apps TouchID allow developer utilize fingerprint scanner iPhone 5 They add biometric security apps include healthcare finance banking etc"
+    },
+    {
+        "progweb_cat": "Security,Recognition",
+        "api_name": "KeyLemon",
+        "id": 7227,
+        "progweb_descr": " Developers use KeyLemon ’ Face Recognition API integrate facial recognition web service It accept feature gender head pose attribute facial identification use online authentication KeyLemon offer complete documentation wrapper libraries expedite development integration process KeyLemon also offer SDK compatible Mac Windows"
+    },
+    {
+        "progweb_cat": "Security,Accounting",
+        "api_name": "IronWifi",
+        "id": 7350,
+        "progweb_descr": " IronWifi provide network authentication service via host RADIUS server deploy within minute API provide authentication user visitor mobile device allow access network resource It also allow requirement access resource maximum allow data download bandwidth client may consume"
+    },
+    {
+        "progweb_cat": "Security,Credit Cards",
+        "api_name": "FraudAssets",
+        "id": 7675,
+        "progweb_descr": " FraudAssets online BIN database service design help card merchant identify eliminate fraud risk business service manages database bank card data amalgamate information wide number contributor card handler maintain comprehensive accessible credit card fraud prevention tool FraudAssets API use REST call return XML allow user submit BINs get back company information verify transaction An account required service API Key require use"
+    },
+    {
+        "progweb_cat": "Security,Credit Cards",
+        "api_name": "FakeCreditCardGenerator",
+        "id": 10523,
+        "progweb_descr": " FakeCreditCardGenerator allow user create fake credit card number come expiration date CVV2 number service design allow people retain anonymity online well use fake number program test environment without risk charge actual card number An API key require access"
+    },
+    {
+        "progweb_cat": "Security,Social",
+        "api_name": "Trulioo",
+        "id": 7893,
+        "progweb_descr": " Trulioo provide social identity information business verify user It detect spammer determines legitimate registration authenticate user Supports major social network API enable global identity verification"
+    },
+    {
+        "progweb_cat": "Security,Social",
+        "api_name": "SpamWipe",
+        "id": 11698,
+        "progweb_descr": " service scan comment post blog social networking site interactive application identifies legitimate post comment spam It prevent spammer post irrelevant unwanted text link via protect site interactive control API method support submission attempt comment post evaluation spam Parameters allow request specify name email link URLs relevant detail post comment along comment content Returned data identify whether comment appear spam allow application block pas check"
+    },
+    {
+        "progweb_cat": "Security,Social",
+        "api_name": "Keypic",
+        "id": 11699,
+        "progweb_descr": " protects spam fraudulent unwanted use application interactive feature submit comment without force user solve CAPTCHA puzzle Rather confront user test prove theyre human service aim make determination evaluating activity protect site It implement plugin WordPress platform via API API method support interaction web service report spam verify form submit request Methods also support request code detect spammer behavior iframe embed image"
+    },
+    {
+        "progweb_cat": "Security,Social",
+        "api_name": "BlogSpam.net",
+        "id": 14280,
+        "progweb_descr": " BlogSpamnet realtime SPAM detection service forum blog comment service identify many common type SPAM block comment contain SPAM BlogSpam API open source XMLRPC API use interface forum blog service"
+    },
+    {
+        "progweb_cat": "Security,Crime",
+        "api_name": "Trustev",
+        "id": 7926,
+        "progweb_descr": " Trustev online fraud detection prevention solution Trustev allow merchant verify online shopper payment prevent eliminate credit card online fraud Trustev API allow developer access integrate functionality Trustev applications Some example API method include manage user profile manage transaction retrieve profile transaction information"
+    },
+    {
+        "progweb_cat": "Security,Crime",
+        "api_name": "FraudLabs Pro Fraud Prevention",
+        "id": 8226,
+        "progweb_descr": " FraudLabs Pro API credit card screen engine check transaction online frauds utilizing wide array metric fraud detection analytics AN account required service API key require API use REST call return JSON XML Developers merchant integrate fraud screen API ecommerce websites shop cart order evaluate high risk order reduce chargeback improve operation efficiency provide business intelligent"
+    },
+    {
+        "progweb_cat": "Security,Crime",
+        "api_name": "Signifyd",
+        "id": 8439,
+        "progweb_descr": " Signifyd ecommerce fraud prevention service It identify device uniquely use customer IP address determine location even detect customer use proxy spoof IP address Signifyd learn customer social activity past behavior use public record perform reverse lookup address names phone number Signifyd use BIN Bank Identification Number credit card debit card prepay card gift card identify issue institution location service also find many order customer attempt across multiple merchant use crossindustrial blacklist identify fraudulent user make purchase"
+    },
+    {
+        "progweb_cat": "Security,Crime",
+        "api_name": "Open Fraud Detection Project",
+        "id": 8555,
+        "progweb_descr": " Open Fraud Detection Project OFDEP frauddetection API design detect suspicious user early prevent activity like fraudulent purchase invalid account creation comment spam Security device query OFDEP determine odds give user transaction bad API currently beta support IP email address username lookups It return result XML JSON also support near future"
+    },
+    {
+        "progweb_cat": "Security,Crime",
+        "api_name": "Iovation ReputationManager 360",
+        "id": 10994,
+        "progweb_descr": " Iovation provider enterprise online protection service Their solution use identify malicious website visitor minimize fraud abuse Their ReputationManager360 leverage global database fraud abuse provide realtime protection give us ability configure business rule account relationship device profile device anomaly check APIs provide realtime response base configured business rule Interested developer contact provider documentation"
+    },
+    {
+        "progweb_cat": "Security,Crime",
+        "api_name": "Subuno",
+        "id": 13698,
+        "progweb_descr": " Subuno API allow developer integrate Subunos fraud screen service gain access multiple fraud prevention solution Transactions pass Subuno screen base rule setup SaaS Subuno provide fraud screen softwareasaservice SaaS platform allow merchant leverage multiple fraud detection solution rule base multilayered approach Without require technical knowledge Subuno help user easily automate fraud screening flow speed manual review process bring relevant fraud screening tool together review screen"
+    },
+    {
+        "progweb_cat": "Security,Crime",
+        "api_name": "RealSearch FraudGATE",
+        "id": 13934,
+        "progweb_descr": " RealSearch nation large online portal Investigative data information 40 database FraudGATE offer allinone fraud score system design give online merchant accurate information delivers immediate result FraudGATE include realtime score engine evaluate risk level transaction data base merchant customized parameter also include consolidated review interface identification analysis transaction risk FraudGATE tool include high risk IPs IP geolocation collaborative networksand velocity check Full documentation currently available"
+    },
+    {
+        "progweb_cat": "Security,Banking",
+        "api_name": "BinDB",
+        "id": 8149,
+        "progweb_descr": " BinDB bank identification number database help business identify credit debit card BINDB widely use fraud protection credit card payment process BinDB provide flexible API solution query Issuer Identificaton Number database An account require use API"
+    },
+    {
+        "progweb_cat": "Security,Banking",
+        "api_name": "Lyons Routing Number Verification",
+        "id": 14731,
+        "progweb_descr": " Lyons Commercial Data provider US financial institution data include bank rout number information critical transaction processing Lyons Routing Number Verification API provide realtime access iBankRegistry host secure fully redundant data center These service provide developer link vital transaction process information Applications accessing Lyons rout number Web Services utilize SOAP process information request Lyons server via http SSL encryption Responses format XML"
+    },
+    {
+        "progweb_cat": "Security,Banking",
+        "api_name": "Lyons Account Verification",
+        "id": 14756,
+        "progweb_descr": " Lyons Commercial Data provider US financial institution data include bank rout number information critical transaction processing Lyons Commercial Data provide access Account Verification web service API via XMLbased web service host secure fully redundant data center Applications access Lyons Commercial Data web service utilize SOAP protocol process information request Lyons Commercial Data server via http http SSL encryption API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Security,Validation",
+        "api_name": "Privacy CA",
+        "id": 8352,
+        "progweb_descr": " Trusted Computing Group define specification allow computer exchange information hardware software configuration via internet This allow computer trust also raise concern privacy Privacy CA allow user protect privacy still establish remote trust let obtain certificate verify trustworthiness There three level certification Privacy CA offer validates Certificates request validate programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Security,Validation",
+        "api_name": "Lyons SSN Validation",
+        "id": 14754,
+        "progweb_descr": " This Social Security Number validation web service identifies irregularity may exist association SSN provide return result allow user take appropriate action part application process Lyons Commercial Data provider US financial institution data include bank rout number information critical transaction processing API use SOAP protocol response format XML Validate SSN accept nine digit social security number return follow Valid Invalid Issued Not Issued If issue Year Range Issuance Probable Age Range Region State issue"
+    },
+    {
+        "progweb_cat": "Security,Intelligence",
+        "api_name": "Threat Stream",
+        "id": 8573,
+        "progweb_descr": " Threat Stream SaaS Cyber Threat Intelligence Platform design enterprise government security operation Threat Stream delivers realtime stream actionable intelligence Threat Stream API delivers developer access stream either limit free offering part Enterprise Government product"
+    },
+    {
+        "progweb_cat": "Security,Forums",
+        "api_name": "BotSmasher",
+        "id": 8761,
+        "progweb_descr": " BotSmasher web service aggregate data five antispam resource verify IP address email address names legitimate human user BotSmasher protect comment spam forum spam fraudulent registration illegitimate action BotSmasher allow register user automate service antispam measure well submit information potential bot"
+    },
+    {
+        "progweb_cat": "Security,Storage",
+        "api_name": "expressFlow",
+        "id": 8786,
+        "progweb_descr": " ExpressFlow file encryption service enable user encrypt document browser push cloud storage provider Dropbox Google Drive Box Just drag drop file computer expressFlow website let expressFlow encrypt give back credential expressFlow API allow developer easily integrate complex fileprocessing task application Built around principle everything cloud expressFlow API make integration easy keep process simple An API key require"
+    },
+    {
+        "progweb_cat": "Security,Mapping",
+        "api_name": "HackerTarget.com",
+        "id": 9181,
+        "progweb_descr": " HackerTargetcom complete vulnerability scan solution feature host security testing tool allow organization test internet perimeter server external perspective HackerTargetcom expose IP tool API Supported tool include traceroute ping test forward reverse DNS lookup WHOIS lookup GeoIP lookup reverse IP lookup HTTP header view page link dump"
+    },
+    {
+        "progweb_cat": "Security,Mapping",
+        "api_name": "IPGEO",
+        "id": 13270,
+        "progweb_descr": " service map detect IP address geolocations origin By detect originate country city application control presentation locally relevant content manage language localization default detect attempt online fraud among purpose API method support submission IP address detect HTTP request header type location information desire country city etc API return location match submit information"
+    },
+    {
+        "progweb_cat": "Security,Mapping",
+        "api_name": "Navizon ITS",
+        "id": 13634,
+        "progweb_descr": " service provide highaccuracy location track WiFienabled device Intended locate device within confined area like office campus individual building service indicate location smart phone laptop computer tablet WiFienabled device Applications include staff coordination within facility unobtrusive security surveillance API method support track device WiFi radio function enable relation locally instal receive node upload data web service Applications retrieve either real time asynchronously location device MAC address triangulate build level multiple receive node reading"
+    },
+    {
+        "progweb_cat": "Security,Mobile",
+        "api_name": "LaunchKey",
+        "id": 9193,
+        "progweb_descr": " LaunchKey seek eradicate password provide multifactor authentication smartphones tablet Built around idea physical device secure digitally store password LaunchKey provide authentication physical authentication pair device well optional geofencing devicestored PINs LaunchKey API allow developer automate LaunchKey authentication process RESTful API authenticate OAuth 20 protocol return JSON format response"
+    },
+    {
+        "progweb_cat": "Security,Hosting",
+        "api_name": "FireHost",
+        "id": 9728,
+        "progweb_descr": " FireHost provide manage host solution include secure cloud host FireHost API provide customer developer access feature control available cloud server customer portal RESTful API return JSON format response"
+    },
+    {
+        "progweb_cat": "Security,Hosting",
+        "api_name": "Netregistry Reseller",
+        "id": 10774,
+        "progweb_descr": " Netregistrys reseller program allow ability expand web service web host domain name client wholesale price reduce 30 Netregistrys retail Technical support available 247 TPP Wholesale Netregistry create API resellers want direct access Account level Domain level console via method rather use Netregistry console page SOAPbased API allow resellers access directly account domain level console independent Netregistry console page Users check financial statistic order status account balance update name server WHOIS information submit transfer registration request change domain authorization code"
+    },
+    {
+        "progweb_cat": "Security,Privacy",
+        "api_name": "The SSL Store",
+        "id": 9925,
+        "progweb_descr": " service provide secure socket layer SSL certificate verify encrypt data exchange SSL encode network message prevents interception user information include credit card data risk compromise user security In addition direct interaction customer SSL certification provider allow interaction resellers serve customer provide web application online security need API method support creation new product agreement purchaser SSL certificate update exist agreement Methods support completion transaction download purchase certificate support function transaction review cancellation refund API also support report system status validation customer credential"
+    },
+    {
+        "progweb_cat": "Security,Privacy",
+        "api_name": "FraudLabs IP2Proxy",
+        "id": 15804,
+        "progweb_descr": " FraudLabs IP2Proxy API allow detect anonymous proxy IP address enables check proxy server anonymity As sophisticated fraudsters confuse online merchant send fake IP address proxy server bypass IP Geolocation along request IP2Proxy give additional layer protection anonymous proxy server list update every 24 hour use proprietary proxyscanning algorithm"
+    },
+    {
+        "progweb_cat": "Security,URL Shortener",
+        "api_name": "Unshorten.It",
+        "id": 10093,
+        "progweb_descr": " UnshortenIt URL unshortener take uncertainty click shorten URLs It analyze website end shorten link provide title description tag screenshot safety rating provide Web Trust target website service also alert user website found HPHosts blacklist UnshortenIt provide free public API let developer unshorten URLs application"
+    },
+    {
+        "progweb_cat": "Security,URL Shortener",
+        "api_name": "Safe.mn",
+        "id": 15524,
+        "progweb_descr": " Safemn URL shorten service provide measure security transparency All link verify virus malware phishing malicious content session steal crosssite script attack etc Any suspicious link get flag user warn API use RESTful interface response format XML JSON JSONP text"
+    },
+    {
+        "progweb_cat": "Security,Images",
+        "api_name": "Websnapr",
+        "id": 10154,
+        "progweb_descr": " service provide simple way capture display screenshot web page load specify URL It retrieve small preview page retrieve click link help site user decide whether open page It intend increase traffic site offering attractive preview boost clickthrough rate site stickiness preview function also intend help user spot malware undesirable site click link may compromise security computer API method support creation popup window preview image show destination page hyperlink either two size Methods also modify link nofollow attribute destination page prevent use irrelevant link boost search engine ranking API performs malware phishing check preview page advise user security threat detect"
+    },
+    {
+        "progweb_cat": "Security,Images",
+        "api_name": "Confident CAPTCHA",
+        "id": 12907,
+        "progweb_descr": " service provide multifactor authentication encrypt onetime authentication code imagebased CAPTCHA challenge Users must answer challenge question correctly choose series photo gain access protect resource It intend create easytouse highly secure protection API method support generation visual CAPTCHA block along audio block alternative access API return HTML incorporated page implement challenge specify request"
+    },
+    {
+        "progweb_cat": "Security,Police",
+        "api_name": "GPSit TrackFusion",
+        "id": 10200,
+        "progweb_descr": " GPSit provide covert GPS tracking service within United States Mexico They specialize provide solution owner good transit third party logistics provider law enforcement technical surveillance By covertly incorporate track device shipment asset owner monitor real time quickly recover lose steal Integrated device sensor monitor environmental parameter temperature humidity altitude light exposure vibration send alert threat dangerous change environmental condition TrackFusion GPSits browserbased application design access advance capability GPSit tracker simpletouse environment application viewable popular browser passwordprotected TrackFusion build upon XMLbased open architecture therefore integrated application use SOAPbased API"
+    },
+    {
+        "progweb_cat": "Security,Safety",
+        "api_name": "CheckInOn.Me",
+        "id": 10414,
+        "progweb_descr": " CheckInOnMe automate personal safety system Users create customize routine CheckInOnMe contact mobile device Users respond personalize â€œIâ€™m OKâ€ word CheckInOnMe API provide RESTful interface developer build entire personal safety system"
+    },
+    {
+        "progweb_cat": "Security,Automation",
+        "api_name": "PuppetLabs",
+        "id": 10453,
+        "progweb_descr": " PuppetLabs offer IT automation service system administrator PuppetLabs automate IT system users manage IT system identify problem security issue PuppetLabs API allow developer access integrate functionality PuppetLabs applications Some example API method include manage SSL certificate view security issue run instance"
+    },
+    {
+        "progweb_cat": "Security,Verification",
+        "api_name": "Veratad",
+        "id": 10926,
+        "progweb_descr": " Veratad Technologies LLC provider realtime online batch identity verification age verification knowledge base authentication solution Age identity verify little information name address allow user ability input much information necessary An API avaialble allow developer integrate solution brand website Public documentation API available"
+    },
+    {
+        "progweb_cat": "Security,Copyright",
+        "api_name": "SerialStamper",
+        "id": 11293,
+        "progweb_descr": " SerialStamper simple RESTful API register file digitally timestamped available download Utilizing Safe Creative registration service system file digitally timestamped Safe Creative timestamping authority copy stored cloud SerialStamper also include timestamping feature developer send hash receive digital encode timestamp response issue Safe Creative Time Stamp Authority TSA In order use SerilaStamper API service developer need authorization key identify within organization authorization private key sign request"
+    },
+    {
+        "progweb_cat": "Security,Copyright",
+        "api_name": "Securo",
+        "id": 12111,
+        "progweb_descr": " Securo make digital certification timestamping solution Securo allow user create legal proof existence document music photograph digital certification meet internationally recognize standard data integrity protection timestamping Developers use Securo API integrate certification process timestamping application Methods include retrieve info user proof create proofs verify timestamps It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Security,Copyright",
+        "api_name": "Myows",
+        "id": 13316,
+        "progweb_descr": " Myows web site allow freelancer creatives manage copyright protect original work illegal copy site let user create proof authorship well provide various mean deterrence theft With API user list original work flitered give parameter return info orginal work download original work API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Security,Random",
+        "api_name": "Passphrase Random Password",
+        "id": 11918,
+        "progweb_descr": " service generates return random password string record user login credential provide user later access One use case function would response forget password password reset request initiate user API method support submission simple request return alphanumeric string consist combination numeral 09 uppercase lowercase alphabetic character Methods also accept special request return string also incorporate select punctuation special character"
+    },
+    {
+        "progweb_cat": "Security,Payments",
+        "api_name": "Visual DataFlex ElfProef",
+        "id": 12427,
+        "progweb_descr": " Visual DataFlex ElfProef API allow user perform ElfProef test This CRC cyclic redundancy check technique use test Dutch electronic payment determine bank account number valid It add give number digit divide 11 Valid number return integer This API access via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "Security,Payments",
+        "api_name": "PayPal Permissions",
+        "id": 13551,
+        "progweb_descr": " popular online payment giant PayPal provide variety APIs allow user customize automate interact PayPals system customer However access permission issue APIs limit situation use API account owner PayPal Permissions API provide additional flexibility PayPal user allow request manage permission specific user execute PayPal API operation behalf These permission provide signature third party use authorization PayPal API operation ensure action distinguish actual account holder"
+    },
+    {
+        "progweb_cat": "Security,Science",
+        "api_name": "Exchange Network NAAS",
+        "id": 12435,
+        "progweb_descr": " Exchange Network NAAS API provide programmatic access security authentication method Environmental Information Exchange Network user Exchange Network partnership States Territories Tribes US Environmental Protection Agency exchange environmental information Exchange Network NAAS API accessible via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "Security,Electronic Signature",
+        "api_name": "Universign",
+        "id": 12919,
+        "progweb_descr": " service applies signature PDF file require official execution It integrate workflow incorporate PDF documentation must sign authorized people fulfill process requirement API method support designation document person authorize sign Methods allow signature option sign location reason sign signature format base range international standard"
+    },
+    {
+        "progweb_cat": "Security,Electronic Signature",
+        "api_name": "eSignLive",
+        "id": 12927,
+        "progweb_descr": " eSignLive provide comprehensive set electronic signature method client use secure online operation interaction third party Their service use secure maintain web portal allow user sign anywhere webenabled device without instal software Log file watermark help secure digital asset digital contract document eSignLive offer web service API via REST allow third party integration electronic signature security capabilities A variety file type secure use API include DOC PDF access verified use variety signin method At minimum API secure username password though form authentication available base user need"
+    },
+    {
+        "progweb_cat": "Security,Electronic Signature",
+        "api_name": "AT&T Notary Management",
+        "id": 13180,
+        "progweb_descr": " Notary Management API use digitally sign obtain signed version content data This sign content pass parameter another API request Notary Managient API call developer application server use Server Access No Subscriber Context OAuth model It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Security,Telephony",
+        "api_name": "Rogers Privacy",
+        "id": 12984,
+        "progweb_descr": " Rogers lead provider Wireless Digital Cable TV High Speed Internet mobile phone data service throughout Canada Catalyst third party developer program give developer space build product use Rogers asset include SMS LBS Carrier Billing APIs Privacy API allow developer use third party application ask end user permission retrieve location network API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Security,Voice",
+        "api_name": "VoiceVault",
+        "id": 13141,
+        "progweb_descr": " VoiceVault software use individualâ€™s vocal characteristic biometric identity verification phone web via mobile smartphone application VoiceVault Fusion API implement REST base XML service expose common VoiceVault operation drive user enrollment verification process Users register developer program VoiceVault website free access API"
+    },
+    {
+        "progweb_cat": "Security,API",
+        "api_name": "Mashape",
+        "id": 13545,
+        "progweb_descr": " Mashape API use interact Mashape authorize client request user API More method add next release give user control APIs distribute Mashape This API validate request make API method distribute Mashape It use HTTP response JSON"
+    },
+    {
+        "progweb_cat": "Security,Personal Information Management",
+        "api_name": "Locker Project",
+        "id": 13897,
+        "progweb_descr": " Locker Project service allow user control private personal information store locker choose share others Locker Project API allow developer access data functionality Locker Project build application data Some example API method include access user dashboard retrieve diary entry manage permission access data"
+    },
+    {
+        "progweb_cat": "Security,Financial",
+        "api_name": "Postcode Anywhere Payment Validation",
+        "id": 14620,
+        "progweb_descr": " Postcode Anywhere informationasaservice provider offer 250 separate web service cover broad range business efficiency tool address data capture validation cleanse geocoding map route planning optimization Payment Validation API let user conduct Bank card validation well correct payment bounce With API user validate bank account sort code credit card number international bank account number API use number protocol include REST SOAP XMLRPC Responses format XML JSON CSV HTML PDF"
+    },
+    {
+        "progweb_cat": "Security,Financial",
+        "api_name": "Lyons OFAC",
+        "id": 14755,
+        "progweb_descr": " Lyons OFAC web service provide streamlined access three often used watch list client look incorporate Office Foreign Asset Control screen application Lyons Commercial Data provider US financial institution data include bank rout number information critical transaction process API simple method allow user submit name country name follow watch list Office Foreign Asset Control Specially Designated Nationals SDN list Bureau Industry Securitys BIS Denied Persons list NonSDN list NSPLC API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Security,Blogging",
+        "api_name": "Defensio",
+        "id": 15714,
+        "progweb_descr": " Use Defensio API help manage spam social web apps blog Use variety function return structure response This service mean ease burden spam across type social web app primary function use show whether Defensio think comment spam also show spaminess level likely spam Also use API announce existence new article Defensio report false positives report false negative get statistic Defensio OpenID functionality"
+    }
+]

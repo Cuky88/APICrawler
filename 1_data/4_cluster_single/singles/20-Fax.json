@@ -1,0 +1,122 @@
+[
+    {
+        "progweb_cat": "Fax,Email",
+        "api_name": "Interfax",
+        "id": 717,
+        "progweb_descr": " Mutltiple method give developer control outbound fax transmission inbound fax reception administrative control add user set preference etc Secure access accessible via SSL InterFAX REST fax API commercial subscriptionbased service enables transmission reception fax message without need install hardware software original document transmit may various format PDF Microsoft Word HTML TXT etc Received fax TIF PDF format As extension send capability Interfax Fax REST API provide facility retrieve status information regard fax message send It support secure communication via HTTPS customprogrammed application Interfax server"
+    },
+    {
+        "progweb_cat": "Fax,Email",
+        "api_name": "Telecoms Cloud",
+        "id": 3318,
+        "progweb_descr": " This Restlike HTTP API use connect data cloud Access feature include Voice SMS Fax Data Processing Used web mobile internetconnected device Telecoms provide communication connectivity embed functionality make receive phone call mobile message data service cellular connectivity machinetomachine communication"
+    },
+    {
+        "progweb_cat": "Fax,Email",
+        "api_name": "Popfax",
+        "id": 15087,
+        "progweb_descr": " Popfax MachinetoMachine API support SM voice mail fax send receive function register end user moreover offer super user set function enable third party integrator administrate group end user account Popfax API use SOAP protocol response format XML documentation see link right side page"
+    },
+    {
+        "progweb_cat": "Fax,Email",
+        "api_name": "Innoport FAX",
+        "id": 15408,
+        "progweb_descr": " Innoport FAX API let developer send fax mission critical application Applications ASP JSP Cold Fusion CC Java VB NET C PHP language make HTTPS call NOTE No public documentation available"
+    },
+    {
+        "progweb_cat": "Fax,Messaging",
+        "api_name": "FaxLogic",
+        "id": 9647,
+        "progweb_descr": " FaxLogic provide customer enterpriselevel fax service Its notable feature include cloudbased infrastructure unlimited scalability ability receive fax via email secure online document archive neverbusy fax system option keep one current fax number FaxLogic API provide secure programmatic access FaxLogics service online message repository API operate REST call support highvolume highperformance request HTTPS client Detailed API documentation code examples available request"
+    },
+    {
+        "progweb_cat": "Fax,Messaging",
+        "api_name": "GoFax SMS",
+        "id": 10388,
+        "progweb_descr": " GoFax focus provided solution internet fax SMS service email A range service offer Fax SMS integration APIs email fax send fax email receive email SMS send GoFax SMS service allow send SMS email third party application desktop service You send automatic SMS reminder well confirmation SOAP base SMS API allow integrate application service utilizes HTTP call Functions include create login token retrieve SMS detail send resending SMS message retrieval recently send message service"
+    },
+    {
+        "progweb_cat": "Fax,Messaging",
+        "api_name": "Hoiio Fax",
+        "id": 11747,
+        "progweb_descr": " Hoiio API provide developer access voice SMS service Hoiio Fax API allow developer send receive fax 200 country API allow developer create Internet Fax emailtofax service API utilize RESTful HTTP GET POST protocol data format utilize JSON"
+    },
+    {
+        "progweb_cat": "Fax",
+        "api_name": "SRFax Internet Fax",
+        "id": 10387,
+        "progweb_descr": " SRFax service allow user utilize aspect fax communication online manageable environmentally friendly manner Use email address send fax number PGP encryption service also let utilize junk fax filter unlimited fax storage 247 customer support SRFax Internet Fax API utilize SOAP protocol allow third party application developer access SRFax service API accept 150 file format allow scale fax operation upward Access secure SSL API HIPAA Health Insurance Portability Accountability Act compliant"
+    },
+    {
+        "progweb_cat": "Fax",
+        "api_name": "GoFax Fax",
+        "id": 10389,
+        "progweb_descr": " GoFax focus provided solution internet fax SMS service email A range service offer Fax SMS integration APIs email fax send fax email receive email SMS send GoFax Fax API allow streamline businesss faxing need automate faxing process Through API developer access GoFaxs business grade ISDN fax network report log SOAP base API provide functionality send fax document check send cancel fax resending fax query legal type check queue position manage login access"
+    },
+    {
+        "progweb_cat": "Fax",
+        "api_name": "PamFax",
+        "id": 14011,
+        "progweb_descr": " PamFax internet fax service PamFax available Windows Macintosh Linux Android build support Dropbox Boxnet Google Documents API provide full control PamFax feature It use HTTPS protocol return response format XML"
+    },
+    {
+        "progweb_cat": "Fax",
+        "api_name": "FAXAGE",
+        "id": 14037,
+        "progweb_descr": " FAXAGE offer APIbased fax send receive automate number provision calldetail record collection FAXAGE Internet Fax API allow FAXAGE service use fax back end integrate user system software API use faxenable ERP backoffice system need capability fax It also use create white label fax service It also provide call detail record gathering accounting downstream billing allow automate fax number provision API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Fax",
+        "api_name": "OneOutBox",
+        "id": 14068,
+        "progweb_descr": " OneOutBox offer Web Service integration outbound FAX transmission invoice correspondence order confirmation status report workflow update API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Fax,Enterprise",
+        "api_name": "Concord Fax",
+        "id": 10514,
+        "progweb_descr": " Concord Fax provider enterprise online fax service Concordâ€™s Developer Portal provide online support best practice guidance sample code customer utilize Concordâ€™s many fax service account management APIs Concordâ€™s Fax Online platform support comprehensive Web Services API integrate fax 3rd party application internal business system process Concordâ€™s Web Services API facilitate automation inbound outbound fax well report provision administration management fax communication broad range function via Push Pull method Oneonone guidance via Concordâ€™s expert team developer architect also available Fax Online customer require personalized review address custom integration need"
+    },
+    {
+        "progweb_cat": "Fax,Israeli",
+        "api_name": "FreeFax",
+        "id": 10827,
+        "progweb_descr": " FreeFax online Israeli fax service free personal use It use instantly send fax four page individual list 5000 recipient FreeFax support variety file type include PDFs Word document scan file many others Users able view manage fax job submit FreeFax easily integrate software service use SOAP API FreeFax website provide solely Hebrew"
+    },
+    {
+        "progweb_cat": "Fax,Italian",
+        "api_name": "SKYPOST",
+        "id": 11397,
+        "progweb_descr": " SKYPOST unify communication system send fax via PC SMS voice mail postal service SKYPOST provide 20MB per user service call software locally instal unlimited storage call SKYPOST provide SOAPbased API developer access feature integration software website API documentation provide solely Italian"
+    },
+    {
+        "progweb_cat": "Fax,Tools",
+        "api_name": "eFax",
+        "id": 11863,
+        "progweb_descr": " eFax internet fax solution offer user large selection local tollfree fax number 49 country six continent eFax API allow business integrate faxing functionality exist application Users send receive fax client application XML document API use RESTful call"
+    },
+    {
+        "progweb_cat": "Fax,Office",
+        "api_name": "WestFax",
+        "id": 13107,
+        "progweb_descr": " service accepts content input generates fax message either individually specified number broadcast list number It allow integration fax capability within application user contact option API method support submission fax content preview format fax send fax either one time broadcast Methods also report status send fax either successful unsuccessful"
+    },
+    {
+        "progweb_cat": "Fax,Office",
+        "api_name": "RingCentral Fax",
+        "id": 15799,
+        "progweb_descr": " Use RingCentral FaxOut API pas fax data RingCentral fax send response tell whether fax accept In request include recipient phone number coverpage resolution send time attachment contain document fax FaxOut API related RingCentral Fax product feature toll free local number receive fax email fax application electronic editing signature secure fax fax alert history log"
+    },
+    {
+        "progweb_cat": "Fax,Cloud",
+        "api_name": "Sfax",
+        "id": 13803,
+        "progweb_descr": " Sfax Secure Fax secure cloudbased faxing service particularly healthcare provider hospital well industry require secure faxing Sfax HIPAA compliant Sfax API allow developer integrate Sfax functionality application Some example API method include send fax manage contact manage sale information bill information Public documentation available interested developer inquire httpswwwsfaxmecombyproductsfaxapiintegrationinquiry"
+    },
+    {
+        "progweb_cat": "Fax,VoIP",
+        "api_name": "Phaxio",
+        "id": 14448,
+        "progweb_descr": " Phaxio let developer build fax capability system simple API API expose functionality send receive fax Users also provision phone number get account status list fax date range API use RESTful call response format JSON"
+    }
+]

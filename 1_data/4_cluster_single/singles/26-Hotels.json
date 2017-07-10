@@ -1,0 +1,158 @@
+[
+    {
+        "progweb_cat": "Hotels",
+        "api_name": "Google Hotel Bids",
+        "id": 1418,
+        "progweb_descr": " Google Hotel Bids API integrate hotel bid application It available REST architecture JSON format With API developer submit realtime bid include multiplier apply bid"
+    },
+    {
+        "progweb_cat": "Hotels",
+        "api_name": "Google Hotel Reports",
+        "id": 1419,
+        "progweb_descr": " Google Hotel Reports API implement hotel report application It available REST architecture With API developer integrate report account subaccounts associated hotel expense"
+    },
+    {
+        "progweb_cat": "Hotels",
+        "api_name": "Google Hotel Ads",
+        "id": 1420,
+        "progweb_descr": " Google Hotel Ads API integrate hotel list feed application It available REST architecture OAuth2 include JSON CSV format perform call return XML syntax With API developer implement hotel name address geocoding information"
+    },
+    {
+        "progweb_cat": "Hotels",
+        "api_name": "Google Hotel Prices",
+        "id": 1421,
+        "progweb_descr": " Google Hotel Prices API integrate hotel price application It available REST architecture JSON format With API developer implement price itinerary data give hotel"
+    },
+    {
+        "progweb_cat": "Hotels",
+        "api_name": "Google Hotels Budgets",
+        "id": 1425,
+        "progweb_descr": " Google Hotels Budgets API integrate hotel budget application It available REST architecture OAuth2 include JSON format With API developer include budget setting include replacement new numeric value"
+    },
+    {
+        "progweb_cat": "Hotels",
+        "api_name": "EAN Hotel Information",
+        "id": 6004,
+        "progweb_descr": " EAN Hotel Information API allow developer integrate Expedia database application enable user search combination hotel room amenities property information supplier property image single hotel This RESTful API EAN stand Expedia Affiliate Network service provide Expedia"
+    },
+    {
+        "progweb_cat": "Hotels",
+        "api_name": "Roomlinq",
+        "id": 7177,
+        "progweb_descr": " Roomlinq offer website plugins application provide hotel rate book information Roomlinq use JSONbased API dynamically retrieve image check hotel rate get room availability service documentation API examples use make available developer"
+    },
+    {
+        "progweb_cat": "Hotels,Rentals",
+        "api_name": "hoteliga",
+        "id": 2049,
+        "progweb_descr": " hoteliga API allow developer build websites application take advantage hoteligas PMS property management service hotel apartment rental This service include interactive reservation calendar report book engine automatically generate room cleaning schedule Hoteligas PMS cloudbased mobilefriendly allow hotelier manage property anywhere"
+    },
+    {
+        "progweb_cat": "Hotels,Customer Service",
+        "api_name": "HotelsPro Coral",
+        "id": 2267,
+        "progweb_descr": " HotelsPro Coral API offer dynamic interaction online hotel system HotelsPros customer Tasks include content delivery search reservation cancellation API respond JSON support HTTP SSL authentication Developers update inventory fetch hotel information obtain booking list HotelsPro travel tourism firm base Istanbul Turkey"
+    },
+    {
+        "progweb_cat": "Hotels,Aggregation",
+        "api_name": "thewebconz",
+        "id": 2499,
+        "progweb_descr": " thewebconz offer integration hospitality management solution API provide integration hotel flight book capability Features include house rental support customize reservation email newsletter reminder Additionally developer order theme price comparison template"
+    },
+    {
+        "progweb_cat": "Hotels,Aggregation",
+        "api_name": "PROVAB Hotel",
+        "id": 6361,
+        "progweb_descr": " Hotel API aggregate major Hotel API provider single interface integrate new application 24 integrated APIs give access 120000 hotel aggregate APIs GTA Hotelbeds DOTW Tourico Travco Bonotel several others Currently API documentation view request"
+    },
+    {
+        "progweb_cat": "Hotels,Booking",
+        "api_name": "Hotwire Hotel Deals",
+        "id": 2618,
+        "progweb_descr": " Hotwire Hotel Deals API support retrieval description hotel deal register Hotwirecom website It allow developer facilitate search deal capture website past 24 hour API ’ provider describe “ deal ” Hotwiregenerated search result represent attractive value compare result This value proposition comprise various parameter include price star rating location popularity travel date hotel API disclose identity feature hotel customer complete book purchase process Hotwire Hotel Deals API RESTful platform conveys request response XML JSON JSONP RSS Atom format"
+    },
+    {
+        "progweb_cat": "Hotels,Accounting",
+        "api_name": "Cloudbeds",
+        "id": 2659,
+        "progweb_descr": " Cloudbeds API help developer create hospitality management platforms offer access guest information reservation similar data OAuth 2 use authentication JSON responses Cloudbeds base San Diego feature draganddrop base property management system channel management booking engine"
+    },
+    {
+        "progweb_cat": "Hotels,Management",
+        "api_name": "Hotelogix",
+        "id": 4195,
+        "progweb_descr": " Hotelogix API allow developer integrate hotel management service websites application Hotelogix property management system encompass critical information operation hotel include front desk account restaurant travel agent API documentation page currently redesign developer ask notify do"
+    },
+    {
+        "progweb_cat": "Hotels,Advertising",
+        "api_name": "Google Travel Partner",
+        "id": 4278,
+        "progweb_descr": " Google Travel Partner API offer access price diagnostic hotel data account Hotels Ads Data It use determine performance Hotels Ads account access account analytics retrieve recent bid This REST API use JSON response require OAuth 2 authentication"
+    },
+    {
+        "progweb_cat": "Hotels,Location",
+        "api_name": "Amadeus Hotel Geosearch by box",
+        "id": 4407,
+        "progweb_descr": " Amadeus Hotel Geosearch box API provide developer way integrate Amadeus Hotel Geosearch box service application enable user see hotel available give area give day display low price Amadeus technology company provide service business individual relate travel"
+    },
+    {
+        "progweb_cat": "Hotels,Addresses",
+        "api_name": "Amadeus Hotel Property Code Search",
+        "id": 4411,
+        "progweb_descr": " Amadeus Hotel Property Code Search API provide developer way integrate Amadeus Hotel Property Code Search service application enable user see detailed information single hotel include description address GPS location amenity award low price room room price book information Amadeus technology company provide service business individual relate travel"
+    },
+    {
+        "progweb_cat": "Hotels,B2B",
+        "api_name": "Hotelbeds Apitude Cache",
+        "id": 4706,
+        "progweb_descr": " Apitude Booking API provide developer way access hotelbeds price availability specific moment time use package travel upload third party platform API enable user manage entire hotel book process Hotelbeds travel agency base Spain provide global hotel database B2B partner"
+    },
+    {
+        "progweb_cat": "Hotels,B2B",
+        "api_name": "Hotelbeds Apitude Content",
+        "id": 4707,
+        "progweb_descr": " Apitude Content API provide developer detail hotel available Booking API API give user access detailed information different hotel available hotelbeds database Hotelbeds travel agency base Spain provide global hotel database B2B partner"
+    },
+    {
+        "progweb_cat": "Hotels,Discounts",
+        "api_name": "MonitorHotels Rate Shopping Data",
+        "id": 5100,
+        "progweb_descr": " MonitorHotels Rate Shopping Data API provide user data use display chart site much This API doesnt use traditional web crawlersspiders collect data MonitorHotels data collect throughout day different city worldwide mostly US Europe quickly refresh nearrealtime data use collected variety source review accuracy MonitorHotelscom work automatically monitor hotel competitor continually check room rate 30 day"
+    },
+    {
+        "progweb_cat": "Hotels,Data",
+        "api_name": "Revinate",
+        "id": 5387,
+        "progweb_descr": " Revinate software hotel aim facilitate online reputation use social medium review company intend revolutionize guest profile goal increase satisfaction ROI This API access hotel reputation data It allow partner integrate hotel rating business application websites A recent release Revinate inGuest service potential engage guest target marketing campaign Get touch Revinate request demo ask protocols authentication httpswwwrevinatecomcontact"
+    },
+    {
+        "progweb_cat": "Hotels,Algorithms",
+        "api_name": "Optimal Booking",
+        "id": 5472,
+        "progweb_descr": " Optimal Booking API allow developer integrate application hotel room revenue optimization algorithm provide OptimalBooking This service match supply demand maximizing revenue"
+    },
+    {
+        "progweb_cat": "Hotels,Ratings",
+        "api_name": "Hotel WiFi Test",
+        "id": 5551,
+        "progweb_descr": " Hotel WiFi Test REST API allow developer access integrate functionality Hotel WiFi Test Some example API method include retrieve WiFi information hotel retrieve expect WiFi speed hotel retrieve test value WiFi hotel API available applicant free public Hotel WiFi Test provide WiFi test service hotel around world"
+    },
+    {
+        "progweb_cat": "Hotels,Search",
+        "api_name": "EAN Hotel List",
+        "id": 5969,
+        "progweb_descr": " EAN Hotel List API allow developer integrate Expedia hotel list database application enable user search hotel location hotel id This RESTful API EAN stand Expedia Affiliate Network service provide Expedia"
+    },
+    {
+        "progweb_cat": "Hotels,Analytics",
+        "api_name": "Rate Checker",
+        "id": 7157,
+        "progweb_descr": " Rate Checker help hotel owner monitor rate availability competitor hotel Users choose unique sampling frequency competitor may also manually request analysis whenever feel warrant Rate Checker send automatic notification user specify change event occur Rate Checker API allow user integrate Rate Checkers function data property management system"
+    },
+    {
+        "progweb_cat": "Hotels,Analytics",
+        "api_name": "AboutMyHotel",
+        "id": 7312,
+        "progweb_descr": " AboutMyHotel service help analyze hotel online reputation AboutMyHotel automatically collect opinion review article photo hotel display finding actionable view interface partner may insert number hotel individualize monitoring affiliate program AboutMyHotel offer API partner interested embed service application web app software hotel AboutMyHotel API available integration XML JSON AboutMyHotel also offer Widget Application easy implementation Hotel owner may request API access log complete affiliate request profile website"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "progweb_cat": "Customer Relationship Management",
+        "api_name": "Pipeliner",
+        "id": 1474,
+        "progweb_descr": " Pipeliner API return customer relationship management data It available REST architecture JSON encode object With API developer access information related account appointment client contract currency pipeline Pipeliner provider CRM software"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management",
+        "api_name": "TM Forum Customer Management",
+        "id": 4064,
+        "progweb_descr": " TM Forum Customer Management API allow developer manage customer customer account standardize interface TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management",
+        "api_name": "You've Got Leads",
+        "id": 6865,
+        "progweb_descr": " You ’ Got Leads YGL customer relationship management CRM solution design help senior living community increase occupancy It help user track manage lead schedule organize task track effectiveness advertising method monitor unit occupancy produce realtime report YGL 20 API enable user retrieve lead retrieve recently change lead look information property"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Accounts",
+        "api_name": "TM Forum Loyalty Management",
+        "id": 2321,
+        "progweb_descr": " TM Forum Loyalty Management API useful tool develop loyalty program specification monitor loyalty account activity It support entire spectrum loyalty management activity right registration loyalty program member account definition applicable term condition track product balance associate loyalty account RESTful API send request URI Query StringCRUD JSON format return response JSON format API currently beta release"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Accounts",
+        "api_name": "Zurmo",
+        "id": 6923,
+        "progweb_descr": " Zurmo mobile open source CRM system platform service offer game social enhancement increase participation Zurmo APIs compliment service offer exchange data platform user include account information search ability lead task generation role assignment currency conversion API use GET method accepts JSON protocol"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Banking",
+        "api_name": "MasterCard Personalized Offers",
+        "id": 2357,
+        "progweb_descr": " MasterCard Personalized Offers API support customization offer experience cardholder basis analytical profile historical payment card transaction It allow developer integrate customer loyalty application feature allow cardholder track saving addition redeem provide rating offer This way card issuer use offer populate MasterCard ’ loyalty database generate channel match offer cardholder Cardholders access redeem offer online bank platform issue bank"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Events",
+        "api_name": "HubSpot Timeline",
+        "id": 2394,
+        "progweb_descr": " HubSpot Timeline API allow developer create custom event show contact timeline API documentation cover create event type define event property define template create event stamp event data onto contact property understand extraData set custom icon HubSpot provide stack product include customer relationship management marketing sale service"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Marketing",
+        "api_name": "HubSpot Owners",
+        "id": 2396,
+        "progweb_descr": " HubSpot Owners API allow developer get information owner exist inside HubSpot Owners create update automatically new user add HubSpot well owner sync Salesforce HubSpot provide stack product include customer relationship management marketing sale service"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Marketing",
+        "api_name": "SegmintConnect",
+        "id": 7096,
+        "progweb_descr": " SegmintConnect customer relationship management service help user run highly targeted campaign Users send message customer channel include direct mail mobile SMS MMS pointofsale terminal CRM system SegmintConnect API allow user automatically send targeted medium customer time"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Engagement",
+        "api_name": "HubSpot Engagements",
+        "id": 2398,
+        "progweb_descr": " HubSpot Engagements API allow developer create update get delete engagement ie interaction contact need log inside CRM It also allow developer associate engagement CRM object get associated engagement HubSpot provide stack product include customer relationship management marketing sale service"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Engagement",
+        "api_name": "Supportkit",
+        "id": 4723,
+        "progweb_descr": " Supportkit API add message feature purpose engage customer Developers access API key send JSON request interface design REST protocol Supportkit feature integration multiple CRM channel email service Slack"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Engagement",
+        "api_name": "Qwasi",
+        "id": 4876,
+        "progweb_descr": " Qwasi API customer communication platform real time event capability It feature enterprise analytics cloud support intelligent message rout advanced segmentation It also support 3rd party connectivity legacy databases Developers need register access API documentation This API return data JSON format Qwasi base New York delivers communication analysis software business every sector"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Engagement",
+        "api_name": "Traackr",
+        "id": 5483,
+        "progweb_descr": " Traackr API provide method help user discover influencers manage influencer relationship measure influencers impact business API part Traackrs Influencer Management Platform help marketer develop manage relationship people affect business customer decisionmaking one place"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Engagement",
+        "api_name": "IBM Watson User Modeling",
+        "id": 6290,
+        "progweb_descr": " IBM User Modeling API use linguistic analytics learn people preference order well engage Using API developer derive insight enterprise data social medium digital communication API extract cognitive social characteristic help business anticipate customer need recommend future action"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Analytics",
+        "api_name": "Dynatrace Real user monitoring JavaScript code management",
+        "id": 2432,
+        "progweb_descr": " RUM JavaScript management API provide endpoint help set maintain manually injected application This include manualApps jsLatestVersion appRevision It allow deliver version information indicate JavaScript code use manually injected application still uptodate Dynatrace digital experience monitoring combine real user monitoring synthetic check mobile app monitoring big data analytics provide full insight customer ’ digital experience"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Analytics",
+        "api_name": "Dynatrace Topology and Smartscape",
+        "id": 2433,
+        "progweb_descr": " Topology Smartscape API delivers detail application service infrastructure entity Dynatrace automatically detect monitor within give environment return information contain important attribute monitor entity well outgo incoming relationship This family endpoints organize along three major environment layer application service infrastructure Dynatrace digital experience monitoring combine real user monitoring synthetic check mobile app monitoring big data analytics provide full insight customer ’ digital experience"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Analytics",
+        "api_name": "Dynatrace Problems",
+        "id": 2434,
+        "progweb_descr": " Dynatrace Problems API delivers metric detail problem Dynatrace detects within give environment return list problem identical show Dynatrace Web UI within Dynatrace mobile app Dynatrace digital experience monitoring combine real user monitoring synthetic check mobile app monitoring big data analytics provide full insight customer ’ digital experience"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Analytics",
+        "api_name": "Dynatrace Synthentic Monitoring",
+        "id": 5424,
+        "progweb_descr": " Dynatrace Synthetic Monitoring API offer tool test monitor website apps performance API RESTful accept XML JSON data format case CSV data output Tokens use authentication Use Dynatrace Synthetic Monitoring API analyze CDN 3rd party outage monitor web performance simulate variety user experience synthesize analytics across thousand data point much See extensive project documentation feature detailed information get start Dynatrace Dynatrace application performance management monitoring service"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Analytics",
+        "api_name": "Loyalty Bay",
+        "id": 6591,
+        "progweb_descr": " Loyalty Bay customer conversion retention service Its feature include email list builder capture email lead site visitor conversion widget allows end user choose reward reward portal dedicate customizable web page host Loyalty Bay user offer reward All Loyalty Bays product come analytics help discover best bad perform reward demographic reward selection"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Aggregation",
+        "api_name": "Dynatrace Timeseries",
+        "id": 2435,
+        "progweb_descr": " This API provide tool test monitoring performance website app timeseries endpoint delivers metric Dynatrace collect different monitored entity time It use read metric CPU usage select entity give timeframe allows follow parameter timeseriesId startTimestamp endTimestamp Dynatrace digital experience monitoring combine real user monitoring synthetic check mobile app monitoring big data analytics provide full insight customer ’ digital experience"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Automation",
+        "api_name": "Lime Light CRM",
+        "id": 2519,
+        "progweb_descr": " Lime Light CRM API integrate customer membership application It aim automate selling process provide JSON protocol use HTTPS POST request format Developers use Lime Light target direct response advertiser interested marketing strategy integration"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Automation",
+        "api_name": "InTouch CRM",
+        "id": 4053,
+        "progweb_descr": " InTouch CRM API allow user integrate tailor CRM solution mobile webbased apps API ’ provider In Touch operate CRM system consolidate contact client respondent solid database addition automate track followup marketing lead correspondence This RESTful API make simple HTTP call transmits request response JSON format It adequately document full release require OAuth token authorization"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Automation",
+        "api_name": "Wootric",
+        "id": 4780,
+        "progweb_descr": " Wootric API offer Net Promoter Score platform integrate exist application This allow developer measure customer service score real time This REST API return data JSON format Wootric focus create beautiful actionable solution make Net Promoter program management easy"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Artificial Intelligence",
+        "api_name": "BlueShift",
+        "id": 2724,
+        "progweb_descr": " BlueShift API integrate CRM feature market service provide automation recommendation two main artificial intelligence component It available REST architecture JSON format JavaScript tag Segmentation campaign optimization integrate email web application"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,eCommerce",
+        "api_name": "Amazon Incentives",
+        "id": 2808,
+        "progweb_descr": " Amazon Gift Codes may use incentivize customer employee disburse payment Amazon Incentives API support requisition distribution Amazon Gift Codes Recipients instantly redeem use reward shop Amazon Developers also use different functional automation feature API streamline inventory management enhance operational efficiency API ’ documentation accessible upon sign account link provide portal homepage signup simple registration process allow developer access administrative technical support Amazon Incentives team"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Feedback",
+        "api_name": "Customer.guru",
+        "id": 3111,
+        "progweb_descr": " Customerguru API allow developer schedule new customer survey Customerguru service design get actionable feedback customer track customer opinion time It use Net Promoter Score NPS widelyused customer loyalty metric thats base likely customer recommend give product service friend"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Cloud",
+        "api_name": "Kloudless Universal CRM On-Premises",
+        "id": 3435,
+        "progweb_descr": " Kloudless Universal CRM OnPremises REST API enterprise version Kloudless Universal CRM REST API Kloudless client choose enterprise service Kloudless able access integrate API API allow developer access integrate CRM functionalities Kloudless application create new application Some example API method include create retrieve manage CRMs create manage contact manage leads opportunity Kloudless provide customizable toolkit integrate cloud storage CRM file share feature application web mobile"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Cloud",
+        "api_name": "Kloudless Universal CRM Cloud",
+        "id": 3436,
+        "progweb_descr": " Kloudless Universal CRM REST API allow developer access integrate CRM functionalities Kloudless application create new application Some example API method include create retrieve manage CRMs create manage contact manage leads opportunity Kloudless provide customizable toolkit integrate cloud storage CRM file share feature application web mobile"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Cloud",
+        "api_name": "Cloud Elements CRM Hub",
+        "id": 3487,
+        "progweb_descr": " Cloud Elements CRM Hub API provide developer integrated access lead cloudbased CRM service include Salesforce SugarCRM Zoho CRM Pipedrive Autotask Microsoft Dynamics CRM NetSuite Infusionsoft Oracle Sales Cloud Closeio HubSpot CRM Base This allow user access account contact opportunity across multiple service use uniform API call"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Business",
+        "api_name": "Clearbit Risk",
+        "id": 3549,
+        "progweb_descr": " Clearbit Risk API integrate associate risk score analyze email IP address It available REST architecture HTTP request JSON response SSL security Accurate development allow verify user authorize payment"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Gifts",
+        "api_name": "Virtual Incentives",
+        "id": 3998,
+        "progweb_descr": " Virtual Incentives API aid integration remote management customer loyalty program target promotional campaign crossplatform marketing application RESTful API feature turnkey functionality manage instant delivery incentive reward scale seamlessly accommodate vary quantity classification promotional content It also automate realtime delivery reward personalize incentive recipientspecific profile"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,API",
+        "api_name": "Data2CRM",
+        "id": 4698,
+        "progweb_descr": " Data2CRM API allow developer access data multiple CRM platforms via single unified interface This service allow user retrieve add update delete sync store data Data2CRM support 12 platform include Salesforce Zoho SugarCRM Highrise Insightly It also provide automated migration service guarantee errorfree data transfer 100 uptime user current CRM transfer"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Organization",
+        "api_name": "Microsoft Dynamics CRM Web",
+        "id": 5370,
+        "progweb_descr": " Microsoft Dynamics CRM Web API feature available Microsoft Dynamics CRM Online organization use Dynamics CRM Online 2015 Update 1 API us HTTP method JSON requestsreturns implement ADAL API manage OAuth2 authentication Developers note API preview feature currently unsupported Use Microsoft Dynamics CRM Web API manage query entity call unbound function action See extensive API documentation full description APIs current capability code sample sample API implementation"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Content",
+        "api_name": "AT&T Sponsored Data",
+        "id": 5471,
+        "progweb_descr": " ATT Sponsored Data API offer content provider developer way reach customer Features include content delivery icon content delivery mobile device sponsor target flexible way free Access content iconCustomers get sponsored access great content"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Billing",
+        "api_name": "weclapp",
+        "id": 7154,
+        "progweb_descr": " Weclapp cloudbased CRM Customer Relationship Management ERP Enterprise Resource Planning software design enable business manage product order bill task time customer communication single location Currently weclapp API access customer resource future also able access article invoice offer project ticket"
+    },
+    {
+        "progweb_cat": "Customer Relationship Management,Email",
+        "api_name": "Retain.cc",
+        "id": 7174,
+        "progweb_descr": " Retaincc tool send email inapp notification inapp conversation mobile push notification user base personal information behavior Retaincc specialize eventtriggered message also handle transactional email newsletter Both automatic manual messaging option available Retaincc API allow developer create get update information user company"
+    }
+]

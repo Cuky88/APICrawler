@@ -1,0 +1,110 @@
+[
+    {
+        "progweb_cat": "Politics,Addresses",
+        "api_name": "Cicero",
+        "id": 492,
+        "progweb_descr": " Cicero web service API geocodes address match legislative district elect official contact information Cicero easily integrate organization exist web application data management software Available legislative district include local council district 100 city state national district United States Canada United Kingdom New Zealand Mexico Australia In addition geocoding address match correct legislative district Cicero also return map district detail information elect official include office address email social medium identifier Cicero also provide nonlegislative district match census data county school district watersheds police district"
+    },
+    {
+        "progweb_cat": "Politics,Government",
+        "api_name": "Referenda Unofficial Spanish Pleno del Congreso de los Diputados",
+        "id": 2734,
+        "progweb_descr": " Referenda Unofficial Spanish Pleno del Congreso de los Diputados API offer information result Congress Deputies Spain Developers obtain party deputy Spanish congress current law debate designated operation JSON use data exchange"
+    },
+    {
+        "progweb_cat": "Politics,Government",
+        "api_name": "ProPublica Campaign Finance",
+        "id": 4215,
+        "progweb_descr": " ProPublica Campaign Finance API allow developer retrieve data United States Federal Election Commission filing source This data include summary information candidate committee kind itemize data ProPublica Campaign Finance database update daily electronic filing update every 15 minute"
+    },
+    {
+        "progweb_cat": "Politics,Email",
+        "api_name": "Hillary Clinton Email Archive",
+        "id": 3050,
+        "progweb_descr": " Hillary Clinton Email Archive API contain 30322 email email attachment send Hillary Clintons private email server Secretary State API use GET request JSON array responses All request require Token"
+    },
+    {
+        "progweb_cat": "Politics,Entertainment",
+        "api_name": "What Does Trump Think",
+        "id": 3113,
+        "progweb_descr": " This endpoint get generic Donald Trump quote Various endpoint get personalized Donald Trump quote random quote"
+    },
+    {
+        "progweb_cat": "Politics,Database",
+        "api_name": "US 2016 Elections",
+        "id": 4522,
+        "progweb_descr": " US 2016 Elections API provide access data bank uptodate profile crucial information candidate contest political seat forthcoming election Powered dynamodbdriven AWS lambda information storage function RESTful API support HTTP request JSON responses It free platform already welldocumented fullysupported release"
+    },
+    {
+        "progweb_cat": "Politics,Asia",
+        "api_name": "MaePaySoh",
+        "id": 4878,
+        "progweb_descr": " MaePaySoh REST API allow developer access integrate functionality MaePaySoh applications Some example API method include retrieve information political party retrieve information political candidate retrieve geolocation detail MaePaySoh API offer election political information Myanmars Burmas 2015 election"
+    },
+    {
+        "progweb_cat": "Politics",
+        "api_name": "Pemilu Presidential Candidate",
+        "id": 7238,
+        "progweb_descr": " Pemilu Presidential Candidate API allow user retrieve information candidate run president vice president Indonesias 2014 election include event candidate attend promise candidate make candidate video quotation Presidential Candidate API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    },
+    {
+        "progweb_cat": "Politics",
+        "api_name": "Pemilu Stamps",
+        "id": 7240,
+        "progweb_descr": " Pemilu Stamps API retrieve link stamp badge Indonesias 2014 election Users get list available stamp search stamp text retrieve stamp tag get list tag Stamps API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    },
+    {
+        "progweb_cat": "Politics",
+        "api_name": "Pemilu Laporan Pelanggaran",
+        "id": 7242,
+        "progweb_descr": " Pemilu Laporan Pelanggaran API return election violation report Users retrieve list report abbreviate detail single report full detail Laporan Pelanggaran API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    },
+    {
+        "progweb_cat": "Politics",
+        "api_name": "Pemilu Candidate",
+        "id": 7244,
+        "progweb_descr": " Pemilu Candidate API allow user retrieve list candidate party province electoral district participate 2014 Indonesian election Pemilu Candidate API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    },
+    {
+        "progweb_cat": "Politics",
+        "api_name": "Pemilu FAQ Presiden",
+        "id": 7246,
+        "progweb_descr": " Pemilu FAQ Presiden API allow user retrieve answer common question 2014 Indonesian election rule regulation Users retrieve list question abbreviate detail single question full detail FAQ Presiden API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    },
+    {
+        "progweb_cat": "Politics",
+        "api_name": "Pemilu Peraturan",
+        "id": 7247,
+        "progweb_descr": " Pemilu Peraturan API allow user retrieve answer question rule regulation affect Indonesias 2014 election Users retrieve list question abbreviate detail single question full detail Peraturan API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    },
+    {
+        "progweb_cat": "Politics",
+        "api_name": "Pemilu Pendidikan",
+        "id": 7248,
+        "progweb_descr": " Pemilu Pendidikan API enable user retrieve answer common question 2014 Indonesian election Users retrieve list question object single question object detail Pendidikan API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    },
+    {
+        "progweb_cat": "Politics",
+        "api_name": "Pemilu Berita",
+        "id": 7249,
+        "progweb_descr": " Pemilu Berita API provide curated news feed 2014 Indonesian election Users retrieve list recent post post match give search term post give tag single post Berita API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    },
+    {
+        "progweb_cat": "Politics",
+        "api_name": "Pemilu Election Results",
+        "id": 7250,
+        "progweb_descr": " Pemilu Election Results API allow user retrieve information Indonesias 2014 election result These result sort party province electoral district legislative body election year Election Results API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    },
+    {
+        "progweb_cat": "Politics,Financial",
+        "api_name": "Pemilu Campaign Finance Report",
+        "id": 7241,
+        "progweb_descr": " Pemilu Campaign Finance Report API allow user retrieve campaign finance report 2014 Indonesian election include report contribution single candidate contribution total Campaign Finance Report API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    },
+    {
+        "progweb_cat": "Politics,Geography",
+        "api_name": "Pemilu Geographic",
+        "id": 7245,
+        "progweb_descr": " Pemilu Geographic API allow user retrieve information geographic boundary relevant Indonesias civic government 2014 election Users also download TopoJSON map file give area Geographic API part API Pemilu collection APIs provide Indonesias approximately 187 million voter important election information"
+    }
+]

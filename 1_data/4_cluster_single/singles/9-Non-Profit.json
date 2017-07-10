@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Non-Profit,Financial",
+        "api_name": "ProPublica Nonprofit Explorer",
+        "id": 1963,
+        "progweb_descr": " ProPublica Nonprofit Explorer API provide application program interface search engine database power Nonprofit Explorer Nonprofit Explorer include data 16 million nonprofit include name location category organization When available API return data nonprofit tax return process IRS 20122015 calendar year This information available 750000 organization generally consist filing 20112014 fiscal year may include old record IRS data release include subset find full Form 990s ProPublica link PDFs full Form 990 document wherever possible consist separate release IRS Form 990 document process agency June 2016 document may contain filing recent 2015 fiscal year Nonprofit Explorer organization claim tax exemption 27 subsection 501c section tax code file Form 990 Form 990EZ Form 990PF Taxable trust private foundation require file form 990PF also include Small organization less 50000 revenue file Form 990N ePostcard include data No API key require commercial user contact ProPublica"
+    },
+    {
+        "progweb_cat": "Non-Profit,Accounting",
+        "api_name": "Blackbaud SKY",
+        "id": 2696,
+        "progweb_descr": " Blackbaud SKY API provide customer partner access open industrystandard REST APIs allow customize integrate extend functionality Blackbaud solution fundraise relationship management digital marketing advocacy accounting payment analytics school management grant management corporate social responsibility volunteerism Blackbaud serve social good industry three decade andis world lead cloud software company power social good Serving entire social good community—nonprofits foundation corporation education institution individual change agents—Blackbaud connect empowers organization increase impact software service expertise data intelligence"
+    },
+    {
+        "progweb_cat": "Non-Profit,Funding",
+        "api_name": "Watsi",
+        "id": 3750,
+        "progweb_descr": " Watsi API integrate patient support country around world It available JSON format token authentication Account information activity log segment event part API settings available site"
+    },
+    {
+        "progweb_cat": "Non-Profit,Accessibility",
+        "api_name": "Neon",
+        "id": 6335,
+        "progweb_descr": " Neon API customer relationship management application nonprofit currently Beta test stage Its feature include work accounting data manage information account households donation pledge event membership detail It also allow online store management purchase inventory"
+    },
+    {
+        "progweb_cat": "Non-Profit,Data",
+        "api_name": "GuideStar Charity Check",
+        "id": 7544,
+        "progweb_descr": " GuideStar information service report IRSregistered nonprofit organization US Their database provide information company finance impact governance reputation program legitimacy mission etc GuideStar Charity Check API pregrant duediligence tool Providing critical IRS information nonprofits 100 compliant IRS requirement Users use information determine organization status comply federal regulation"
+    },
+    {
+        "progweb_cat": "Non-Profit,Data",
+        "api_name": "GuideStar Search",
+        "id": 7547,
+        "progweb_descr": " GuideStar information service report IRSregistered nonprofit organization US Their database provide information company finance impact governance reputation program legitimacy mission etc GuideStar Search API enable search GuideStars data set nonprofit find information relevant user need Those result use get data GuideStars APIs"
+    },
+    {
+        "progweb_cat": "Non-Profit,Application Development",
+        "api_name": "GuideStar Exchange",
+        "id": 7545,
+        "progweb_descr": " GuideStar information service report IRSregistered nonprofit organization US Their database provide information company finance impact governance reputation program legitimacy mission etc Nonprofits able share complete information free Guidestar Exchange ensure information seeker current accurate data GuideStar Exchange API enable developer use data supply nonprofit directly integrate application website"
+    },
+    {
+        "progweb_cat": "Non-Profit,Database",
+        "api_name": "GuideStar Advanced Search",
+        "id": 7546,
+        "progweb_descr": " GuideStar information service report IRSregistered nonprofit organization US Their database provide information company finance impact governance reputation program legitimacy mission etc This search API allow Search GuideStar ’ common set data nonprofit quickly find organization relevant user use result get data APIs This advance search API allow specific query"
+    },
+    {
+        "progweb_cat": "Non-Profit,Aggregation",
+        "api_name": "GuideStar Detail",
+        "id": 7548,
+        "progweb_descr": " GuideStar information service report IRSregistered nonprofit organization US Their database provide information company finance impact governance reputation program legitimacy mission etc GuideStar Detail API provide exhaustive information nonprofit organization report combine source It include data GuideStar Exchange program along data source"
+    }
+]

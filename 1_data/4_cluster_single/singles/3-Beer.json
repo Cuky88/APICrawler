@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Beer,Food",
+        "api_name": "AB InBev BeerGarage",
+        "id": 5909,
+        "progweb_descr": " Beer Garage work combine integrate transform experience beer food developer application Beer Garage API help developer get place transformation new unique way tool beer brand lookup beer pairing recipe"
+    },
+    {
+        "progweb_cat": "Beer,Alcohol",
+        "api_name": "Drizly",
+        "id": 6422,
+        "progweb_descr": " Drizly ondemand alcohol delivery service With Drizly account user metropolitan area order beer liquor wine deliver home purport 40 minute less With Drizly API developer able embed drink order 3rd party application API currently private beta phase early access request developer portal Drizly service operational follow city nationwide Austin Boston Boulder Chicago Denver Indianapolis Los Angeles New York City Seattle Washington DC Vail"
+    },
+    {
+        "progweb_cat": "Beer,Alcohol",
+        "api_name": "Ontario Beer",
+        "id": 7622,
+        "progweb_descr": " Ontario Beer API free use REST service provide Beer Store store product availability information service periodically crawl Beer Store website collect data serf JSON This service official association Beer Store"
+    }
+]

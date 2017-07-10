@@ -1,0 +1,74 @@
+[
+    {
+        "progweb_cat": "Mail,Addresses",
+        "api_name": "TEC Mailing",
+        "id": 995,
+        "progweb_descr": " service provide data verification email preparation validate address list entry format It clean mail list entry optimize successful delivery promotional campaign host customerrelationship management CRM communication direct mail delivery API method support submission mailing list recipient address relate information Methods return deduped list purge improperly format address correct effective possible delivery result"
+    },
+    {
+        "progweb_cat": "Mail,Addresses",
+        "api_name": "AccuZIP AccuTrace",
+        "id": 3275,
+        "progweb_descr": " AccuTrace API function postal mail track service Developers build interface support single batch track information This RESTful API respond JSON format AccuZIP mail track report firm base California provide service streamline data entry data management multichannel communication"
+    },
+    {
+        "progweb_cat": "Mail,Addresses",
+        "api_name": "AccuZIP CASS",
+        "id": 3521,
+        "progweb_descr": " CASS API integrate address standardization validation correction capability exist application This RESTful API exchange information JSON format AccuZIP mail track report firm base California provide service streamline data entry data management multichannel communication"
+    },
+    {
+        "progweb_cat": "Mail,Addresses",
+        "api_name": "AccuZIP Direct Mail",
+        "id": 3522,
+        "progweb_descr": " Direct Mail API allow developer integrate data quality duplicate detection postal presorting capability application Also provide EDDM list onthefly use generate saturation list This API exchange information JSON format AccuZIP mail track report firm base California provide service streamline data entry data management multichannel communication"
+    },
+    {
+        "progweb_cat": "Mail,Addresses",
+        "api_name": "TEC Mailing WebServices",
+        "id": 4599,
+        "progweb_descr": " TEC Mailing Solutions Web Services API provide tool assist process name address file Web Services API provide real time CASS certification address standardization National Change Address NCOALink deduping postal sortation service application interface design provide end user ability deploy N1 fashion overall service include full suite account user management well job base function"
+    },
+    {
+        "progweb_cat": "Mail,Addresses",
+        "api_name": "AccuZIP Toolkit",
+        "id": 7598,
+        "progweb_descr": " AccuZIP postal mailing application AccuZIP provide mailing solution mail track solution mail analysis AccuZIP API allow developer access integrate functionality AccuZIP application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Mail,Postal",
+        "api_name": "USPS eVS Label",
+        "id": 2479,
+        "progweb_descr": " This API signature test purpose generate usable label barcodes Request Parameter section present XML input tag generate Live request restriction value allow return request phone zip city address USPS Web Tools® API library enables external ecommerce shop cart shipping software access USPS® data From shipping rate track information schedule package pickup Web Tools make ship US Postal Service® easily accessible"
+    },
+    {
+        "progweb_cat": "Mail,Postal",
+        "api_name": "USPS SCAN",
+        "id": 2506,
+        "progweb_descr": " This API allow integrator consolidate multiple domestic international label custom form one Electronic File Number efile USPS Web Tools® API library enables external ecommerce shop cart shipping software access USPS® data From shipping rate track information schedule package pickup Web Tools make ship US Postal Service® easily accessible"
+    },
+    {
+        "progweb_cat": "Mail,Postal",
+        "api_name": "BlueMailCentral Postal",
+        "id": 14642,
+        "progweb_descr": " BlueMailCentral service send user mail digitally print post near possible destination With Postal API user upload customer document directly server maintain possibility track document use BlueMailCentral via client software website Letters print post 45 country around world API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Mail,Campaigns",
+        "api_name": "FreshMail",
+        "id": 6712,
+        "progweb_descr": " FreshMail platform compose send track email campaign web portal equip customizable template interface input subscriber list real time email monitoring Developers make HTTP call FreshMail API order access user FreshMail account functionality API use receive campaign report list campaign give cumulative overview certain campaign analyze subscriber behavior API allow developer programmatically create new campaign send delete test exist campaign API modify batch data subscriber list create new subscriber list download subscriber data perform general account management FreshMail API construct around REST standard"
+    },
+    {
+        "progweb_cat": "Mail,Advertising",
+        "api_name": "Click2mail",
+        "id": 13850,
+        "progweb_descr": " Click2Mail Webservices allow user write program interface Click2Mail system This particularly handy automate direct mailing workflow add direct mail functionality exist website program Our Webservices help reduce operation cost load expensive time consume task print fold mailing direct marketing transactional mailing We offer many integration option We feature rich Rest AP deign Web Application integration simple use Rest Batch XML API SOAP API email mail service may option facilitate postal mail need"
+    },
+    {
+        "progweb_cat": "Mail,Postcards",
+        "api_name": "DocMail",
+        "id": 15355,
+        "progweb_descr": " Docmail web base physical mail service Users transmit electronic document mail list Docmail print mailed real post Docmail API let developer integrate Hybrid Mail service system workflows Docmail API v2 allow user send physical Letters postcard greet card business card via API call In addition user manage add stored mailing document stationary address store account Create manage account user Access new designer type allow creation mail customized Postcards greet card Send large mailing matter second API use SOAP protocol response format XML"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "progweb_cat": "Fitness,Health",
+        "api_name": "Moves",
+        "id": 6,
+        "progweb_descr": " Moves application mobile phone allow user automatically record movement throughout day Moves use data sensor smart phone record much user move throughout day Moves API allow developer access integrate functionality Moves application create new application Some example API method include retrieve data manage account send data"
+    },
+    {
+        "progweb_cat": "Fitness,Health",
+        "api_name": "Fitbit",
+        "id": 249,
+        "progweb_descr": " Fitbit help people lead healthier active life empower data inspiration guidance reach goal As leader connect health fitness category Fitbit design product experience track everyday health fitness Fitbit Web API enable thirdparty application access write data behalf user"
+    },
+    {
+        "progweb_cat": "Fitness,Health",
+        "api_name": "MapMyFitness",
+        "id": 805,
+        "progweb_descr": " MapMyFitness run network site like MapMyWalk MapMyRun MapMyRide MapMyTri MapMyHike MapMyMountain API provide interface much site feature activity feed goal event"
+    },
+    {
+        "progweb_cat": "Fitness,Health",
+        "api_name": "Google Fit Record",
+        "id": 1875,
+        "progweb_descr": " Google Fit Record API allow request subscription associate data fitness With REST API accessible via OAuth2 developer subscribe fitness data list active subscription unsubscribe fitness data"
+    },
+    {
+        "progweb_cat": "Fitness,Wearable",
+        "api_name": "Wahoo Fitness",
+        "id": 374,
+        "progweb_descr": " In time exercise activity connect mobile phone Wahoo fitness offer API developer create useful fitness software iPhone device main goal monitor physical health Various feature API include multifunction capability program navigation economy memory storage capacity ease internet upload One benefit Wahoo Fitness API wide variety possibility developer implement application It mean API could display physical activity heart rate monitor also register sensor scale bike computer bike trainer Support available developer interested reshape way fitness work either independent developer affiliate partner Wahoo Fitness"
+    },
+    {
+        "progweb_cat": "Fitness,Wearable",
+        "api_name": "Google Fit Sessions",
+        "id": 1873,
+        "progweb_descr": " Google Fit Sessions API integrate time interval user perform fitness activity With API developer create session fitness store use realtime data data collect use Sensors API data outside Google Fit"
+    },
+    {
+        "progweb_cat": "Fitness,Wearable",
+        "api_name": "Google Fit History",
+        "id": 1874,
+        "progweb_descr": " Google Fit History API integrate read insert update delete fitness data Developers use History API read fitness data insert recorded use apps import data Google Fit update data Google Fit delete data app previously store fitness"
+    },
+    {
+        "progweb_cat": "Fitness,Wearable",
+        "api_name": "Google Fit Sensors",
+        "id": 1876,
+        "progweb_descr": " Google Fit Sensors API available REST architecture integrate fitness data application It register listener receive raw sensor data list data source available device companion device"
+    },
+    {
+        "progweb_cat": "Fitness,Bluetooth",
+        "api_name": "Google Fit Bluetooth Sensors",
+        "id": 1872,
+        "progweb_descr": " Google Fit Bluetooth Sensors API balance energy Bluetooth find BLE device With API developer find available device claim device release device"
+    },
+    {
+        "progweb_cat": "Fitness,Recreation",
+        "api_name": "Active Popular Activity Search",
+        "id": 5431,
+        "progweb_descr": " Active Popular Activity Search API provide data associate endurance team sport youth camp tennis league park recreation fitness class outdoor adventure business event This API require key feature JSON format return list popular activity world ACTIVEcom online community revolve around people sport recreational activity like"
+    },
+    {
+        "progweb_cat": "Fitness,Recreation",
+        "api_name": "Active Campground",
+        "id": 5432,
+        "progweb_descr": " With Active Campground API developer create application goal promote campgrounds available site ReserveAmericacom This site contain plan trip guide hunt fishing license camp gear Examples data user access include campground horse state California campgrounds state Main allow pet API readonly require Api Key authentication method To test API visit httpdeveloperactivecomiodocs ACTIVEcom online community revolve around people sport recreational activity like"
+    },
+    {
+        "progweb_cat": "Fitness,Recreation",
+        "api_name": "Active Campsite Search",
+        "id": 5433,
+        "progweb_descr": " Active Campsite Search allow access data park campground campsite locate United States Canada Search filter include RV friendly electricity hunt fish arrival date length stay Formats JSON REST XML facilitate interaction API accessible Key ACTIVEcom online community revolve around people sport recreational activity like"
+    },
+    {
+        "progweb_cat": "Fitness,Quantified Self",
+        "api_name": "Adidas miCoach",
+        "id": 6127,
+        "progweb_descr": " miCoach fitness training platform support Adidas act coach service Users able create plan choose premade training plan plan track workout progress Users access workout calendar receive feedback view fitness analytics miCoach open platform encourage 3rd party developer construct apps employ miCoach service miCoach offer REST API access HTTP order return data personal resource customer profile complete workouts achievement API data keep private OAuth v2 security protocol additional verification process userID URL request"
+    },
+    {
+        "progweb_cat": "Fitness,Data",
+        "api_name": "OpenFit",
+        "id": 6296,
+        "progweb_descr": " Openfit API open source software framework store organize analyze fitness data collect device sensor provide access data functionality open APIs open fitness platform aim meet follow feature security model user control data share customizable interface infrastructure develop integration new vendor device leverage exist open source solution operate commercial participant"
+    },
+    {
+        "progweb_cat": "Fitness,Mapping",
+        "api_name": "Magellan",
+        "id": 6679,
+        "progweb_descr": " Magellan GPS navigation consumer electronics company provide customer portable device help track time distance map outdoor route schedule Magellan API allow developer request information different entity available Magellan device Depending device need application developer able choose type content making request"
+    },
+    {
+        "progweb_cat": "Fitness,Nutrition",
+        "api_name": "wger Workout Manager",
+        "id": 8482,
+        "progweb_descr": " Wger Workout Manager open source web application track fitness manage exercise application feature include workout manager allow create manage workout routine weight tracker keep track body weight nutrition manager allow create diet plan base nutritional gudelines wger Workout Manager provide REST API access database object Public endpoint list exercise ingredient available without authentication user own object workouts API key require"
+    }
+]

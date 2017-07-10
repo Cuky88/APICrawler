@@ -1,0 +1,92 @@
+[
+    {
+        "progweb_cat": "Metadata,Climate",
+        "api_name": "NASA PO.DAAC Granules Metadata",
+        "id": 4138,
+        "progweb_descr": " Physical Oceanography Distributed Active Archive Center PODAAC part NASA ’ Earth Observing System Data Information System EOSDIS PODAAC ’ purpose store oceanography climatography relate data obtain NASA PODAAC also serve pathway related archive provide relevant tool make datasets easily consumable applicable NASA ’ PODAAC Granules Metadata API retrieve granule metadata PODAACs dataset Granules Metadata API retrieve metadata one give granule list granule add within 24 hour"
+    },
+    {
+        "progweb_cat": "Metadata,Extraction",
+        "api_name": "PageMeta",
+        "id": 4546,
+        "progweb_descr": " PageMeta API userfriendly API parse important meta relate data web page It parse DOM page request send back several set data include Page title Meta description Meta language Meta keywords Meta robot Canonical rel link Favicon link iOSAndroid App icon Open graph property Twitter property Linked Data ldjson parse microdata schema image property page much"
+    },
+    {
+        "progweb_cat": "Metadata,Extraction",
+        "api_name": "WebKnox Web",
+        "id": 8593,
+        "progweb_descr": " Begun research project Royal Melbourne Institute Technology University Technology Dresden WebKnox ontologydriven fact extraction engine build provide direct fast complete answer question topic user think To answer question WebKnox use external service might previously provide answer compute answer use knowledge base If option fail WebKnox try find answer fly WebKnox host suite REST APIs deliver range web service WebKnox Web API allow application process web page variety way API capable detect web pageâ€™s language well date page publish last edited API also able extract metadata web pageâ€™s author primary content factual information retrieve page ranking"
+    },
+    {
+        "progweb_cat": "Metadata,Open Graph",
+        "api_name": "Yammer OG Embed.ly",
+        "id": 5321,
+        "progweb_descr": " Yammer OG Embedly API allow developer visit page retrieve Open Graph OG metadata present page This API let developer embed Open Graph metadata Yammer use Yammer private social network company"
+    },
+    {
+        "progweb_cat": "Metadata,Content Management",
+        "api_name": "Salesforce Metadata",
+        "id": 5641,
+        "progweb_descr": " Saleforcess Metadata API use assit developer retrieve deploy create update delete customize information This thing custom object definition page layouts organization Salesforce Metadata API mean use management customizations building tool assist manage metadata mode"
+    },
+    {
+        "progweb_cat": "Metadata,Education",
+        "api_name": "Harvard DVN Metadata",
+        "id": 5998,
+        "progweb_descr": " Harvard DVN Metadata API allow developer integrate Harvard Dataverse Network DVN application allow user access DVN metadata Dataverse project dedicate share archive cite research data"
+    },
+    {
+        "progweb_cat": "Metadata,eBooks",
+        "api_name": "OverDrive Metadata",
+        "id": 6518,
+        "progweb_descr": " OverDrive online company provide users way access eBooks electronic material computer mobile device OverDrive Metadata API let developer request detail metadata specific product include author title genre synopses review API use Oauth authentication data return API use specific title list product"
+    },
+    {
+        "progweb_cat": "Metadata,Activity Streams",
+        "api_name": "Spredfast Leaderboard",
+        "id": 6653,
+        "progweb_descr": " Spredfast Leaderboard APIs allow developer use leaderboard visualization display list ranked thing These rank thing could actual entity topic user piece information URLs hashtags mention within Tweets Within give stream Leaderboard API provide top occur thing request type along aggregate count thing give time range"
+    },
+    {
+        "progweb_cat": "Metadata,Marketing",
+        "api_name": "Spredfast Stream Meta",
+        "id": 6654,
+        "progweb_descr": " Spredfast Stream Meta API provide developer basic set meta information stream use render visualization counter progress meter social poll result"
+    },
+    {
+        "progweb_cat": "Metadata,Charts",
+        "api_name": "getFuturesOptionsExpirations",
+        "id": 6833,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getFuturesOptionsExpiration API provide last trade date option future contract All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Metadata,Economics",
+        "api_name": "getInstrumentDefintion",
+        "id": 7006,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getInstrumentDefinition API available request meta data financial instrument symbol exchange exchange MIC Meta data include instrument name exchange code tick increment base cod expiration date All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Metadata,Data",
+        "api_name": "getFuturesSpecifications",
+        "id": 7007,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getFuturesSpecifications API provide contract information trading hour contract size tick size future contract All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Metadata,Analytics",
+        "api_name": "getFuturesExpirations",
+        "id": 7008,
+        "progweb_descr": " Barchart OnDemand provide data pertain agriculture medium financial energy industry getFuturesExpiration API provide first notice last trade date future contract All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Metadata,Cloud",
+        "api_name": "Box Metadata",
+        "id": 7624,
+        "progweb_descr": " Box cloud base storage company enable user access share content anywhere Box platform provide user storage utilize application Box Metadata API enable user store share metadata custom information associate file This allow easy digital asset organization advance content functionality"
+    },
+    {
+        "progweb_cat": "Metadata,Search",
+        "api_name": "mSense",
+        "id": 15282,
+        "progweb_descr": " mSense API provide tool let analyze content item site produce welltuned metadata annotate content flow system Content view category topic name entity"
+    }
+]

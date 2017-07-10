@@ -1,0 +1,446 @@
+[
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "CareerBuilder",
+        "id": 103,
+        "progweb_descr": " Currently private API CareerBuilder API allow integrate database 15 million job software website API provide method basic job search retrieve data specific job apply job"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Simply Hired Jobs",
+        "id": 162,
+        "progweb_descr": " From site Job Search XML API SimplyHiredcom This API give developer access 7 million job listing web Simply Hireds extensive advance search capability Select partner eligible affiliate program pay every time visitor click sponsor job API access documentation send email address provide"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Careerjet",
+        "id": 461,
+        "progweb_descr": " Careerjet job search engine pull job posting company organization websites variety industry locations Users search employment may also post resume Careerjet well create job alert Careerjet API allow developer embed Careerjet search result websites Search result return keywords location company industry criteria HTTP API document client library available Java Perl PHP Net 20 Ruby"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Elance",
+        "id": 583,
+        "progweb_descr": " Elance Developer API expose Elance system Webbased interface call application platform Elance provide online platform freelancer employer connect Using Elance API user obtain profile data provider search database available job obtain listing group member All required account API key API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "LinkUp Job Search Engine",
+        "id": 793,
+        "progweb_descr": " LinkUp job search engine list job take directly 20000 company websites Developers use API develop custom job search solution Access data directly XML JSON format Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Authentic Jobs",
+        "id": 1174,
+        "progweb_descr": " Authentic Jobs API allow build job mashup Use API list job list location job job type job certain company Get result return back accord Freelanceonly Full time job Authentic Jobs specialize hook standardsaware designer developer company seek hire You filter result show Designer job Developer job"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Dice Jobs",
+        "id": 7387,
+        "progweb_descr": " Dice website technology engineering professional search job It provide listing 80000 job technological field well articles technological development career advice Dice Jobs API allow user search job retrieve job ID get list recommend job"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "skyParse Resume Parser",
+        "id": 7440,
+        "progweb_descr": " skyParse provide cloudbased resume parse service primarily Human Resources departments recruiter Users input resume file usually Microsoft Word RTF PDF parser return resume data XML document base industry standard HRXML schema Resume Parsing API available either REST SOAP protocol"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Sourcing.io",
+        "id": 7639,
+        "progweb_descr": " Sourcingio resource find recruit skilled software engineer It provide database 4 million developer filtered language skill location criterion Teams work together pick new member star make note potential recruit well use social connection get referral exist team member Developers integrate Sourcingios resource via API"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "HistoryFile Jobs",
+        "id": 8109,
+        "progweb_descr": " HistoryFile job post job listing directory Employers add job posting HistoryFile user look job search HistoryFile job posting HistoryFile API allow developer access integrate functionality HistoryFile websites main API function retrieve job listing show another website"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "SnagPad",
+        "id": 8334,
+        "progweb_descr": " SnagPad job search learn management platform SnagPad help job seeker job search allow hire company help interested job search job SnagPad API allow developer access integrate functionality SnagPad sit application main API method integrate job search management system SnagPad job board"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "GitHub Jobs",
+        "id": 9849,
+        "progweb_descr": " GitHub Jobs online job listing focus software engineering web development relate field GitHub Jobs API allow user search view create listing use JSONbased REST call Functions exist allow user search job description location full v parttime combination thereof Users may also employ API retrieve JSON representation single job post"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Jobs.ie",
+        "id": 9969,
+        "progweb_descr": " Jobsie Irish job site design make recruitment easy employer Recruiters advertise job locate Ireland well job locate abroad Jobsie API use create update retrieve search job website It also use retrieve information site even submit application This API use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Field Nation",
+        "id": 10885,
+        "progweb_descr": " Field Nation lead US provider independent field service technician computer service industry They provide self service portal allow customer source technician accord skill need specific job Services pay front funding account Field Nation pay technician Use SOAPbased Field Nation API interact site programmatically It use look technician check message check cost monitor work order progress get company document etc"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "DoYouBuzz",
+        "id": 11623,
+        "progweb_descr": " DoYouBuzz resume management platform It many feature design share usersâ€™ resume Users begin create resume template format resume becomes customizable website integrated analytical sharing feature DoYouBuzz also allow user publish resume multiple language import data LinkedIn make recommendation DoYouBuzz offer APIs partner usage application Both expose essential functionality access update user information It RESTful API return JSON XML data"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Bullhorn Staffing",
+        "id": 14274,
+        "progweb_descr": " Bullhorn technology company provide end end solution staff recruit agenciesThe Bullhorn API provide programmatic access data Bullhorn system With developer integrate system relate application API offer number functionality include resume parse candidate lookup add job retrieve file API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Raveal",
+        "id": 14379,
+        "progweb_descr": " Raveal network professional company visual search engine unite Users post profile resume portfolio site company use search engine find best candidate API expose functionality service developer Users return summary info authenticate user profile return number visit profile authenticate user return detailed list visit profile authenticate user specify date range API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "Monster Web Services Toolkit",
+        "id": 15495,
+        "progweb_descr": " This API allow user publish job ad Monstercom job search placement service Users interact BGW send SOAP message HTTPS Monster service includings job seek career management recruitment talent management product service"
+    },
+    {
+        "progweb_cat": "Jobs",
+        "api_name": "JobCrank",
+        "id": 15755,
+        "progweb_descr": " Use JobCrank API integrate JobCrank data internal application You query job post job look new match View job hire project bid volunteer position"
+    },
+    {
+        "progweb_cat": "Jobs,Search",
+        "api_name": "indeed",
+        "id": 270,
+        "progweb_descr": " Indeed search engine job radically different approach job search In one simple search Indeed give job seeker free access million employment opportunity thousand website Indeedcom include job listing major job board newspaper association company career page continue add new site every dayThe Indeed API allow developer integrate Indeed ’ employer interface job seeker interface apps API return response JSON XML format"
+    },
+    {
+        "progweb_cat": "Jobs,Search",
+        "api_name": "Juju Publisher",
+        "id": 333,
+        "progweb_descr": " Juju job search engine search result link job find employer career portal recruiter website job board employment sit Internet oppose locally host job posting Juju Publisher API allow partner post job serach result across multiple channel sit It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Jobs,Search",
+        "api_name": "CareerOneStop",
+        "id": 11193,
+        "progweb_descr": " service provide information US Labor Department career opportunity future prospect requirement It give access listing career title keyword code along detailed information individual career provider ONET service Information qualification requirement also available API method support retrieval listing career name keyword unique identifier code Methods also support detail description career activity along salary compensation estimate detailed qualification require education train license certification Methods crossreference military job code Labor Department cod consistent access relate information"
+    },
+    {
+        "progweb_cat": "Jobs,Search",
+        "api_name": "EXACTME!",
+        "id": 11622,
+        "progweb_descr": " EXACTME job recruitment platform It allow user share skills talent prospective employer social medialike interface Their platform include feature allow user express professionally profile analytics recommendation EXACTME API expose employee search functionality affiliate websites public documentation"
+    },
+    {
+        "progweb_cat": "Jobs,Search",
+        "api_name": "JustJobs.ro",
+        "id": 13159,
+        "progweb_descr": " JustJobsro job search site Romania API allow developer pull data site integrate web sit This allow addition section job available Romania abroad directly another site Functionality include retreiving city job category job API use RESTful call response format XML JSON site documentation Romanian"
+    },
+    {
+        "progweb_cat": "Jobs,Search",
+        "api_name": "JobGizmo",
+        "id": 13744,
+        "progweb_descr": " JobGizmo service offer job search tool Users bookmark job search keep information relate job search one place access web mobile application JobGizmo API allow developer access information functionality JobGizmo create application Some example API method include add user edit user information add edit job add edit interview information manage contact information"
+    },
+    {
+        "progweb_cat": "Jobs,Human Resources",
+        "api_name": "Resfly",
+        "id": 987,
+        "progweb_descr": " Resfly webbased job publishing service allow hire professional post job multiple lead job board social network It feature need manage entire hiring process include publish job collect application host career portal measure effectiveness hire campaign realtime analytics Resfly API let users access functionality service programmatically Functionality spread across company job candidate API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Jobs,Human Resources",
+        "api_name": "JobRoom",
+        "id": 2099,
+        "progweb_descr": " JobRoom API integrate job search application It available REST architecture HTTP method JSON responses Authentication require via HTTP Based Switzerland JobRoom provide job search candidate customization service"
+    },
+    {
+        "progweb_cat": "Jobs,Human Resources",
+        "api_name": "TipsGO Jobbing",
+        "id": 2791,
+        "progweb_descr": " TipsGo Jobbing API allow job post Job Owners easily match Job Seekers Job Seekers receive instant notification job bid accept job instantly This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    },
+    {
+        "progweb_cat": "Jobs,Human Resources",
+        "api_name": "SoftGarden Career Websites",
+        "id": 3962,
+        "progweb_descr": " SoftGarden Career Websites API target ad agency aim integrate job search job listing online application leverage career website application Job board vendor use API available REST format OAuth sell receive employment posting"
+    },
+    {
+        "progweb_cat": "Jobs,Human Resources",
+        "api_name": "SpringRole",
+        "id": 5836,
+        "progweb_descr": " SpringRole REST API allow developer access integrate functionality SpringRole applications Some example API method include retrieve job post job retrieve recommendation list user SpringRole job post job referral service"
+    },
+    {
+        "progweb_cat": "Jobs,Human Resources",
+        "api_name": "HiredOnPhone Jobs",
+        "id": 6752,
+        "progweb_descr": " Hired On Phone Jobs allow post list search employment information technology field Because API relatively new job post site What users see interface bar search When user click work link see name company location desire skill description button apply job Over time Hired On Phone release apps Android iOS platform permit job search mobile phone"
+    },
+    {
+        "progweb_cat": "Jobs,Human Resources",
+        "api_name": "Calibrace",
+        "id": 7469,
+        "progweb_descr": " Calibrace cloudbased recruitment selection service HR departments Calibrace offer Candidate Job Apply Without Registration APIs user integrate Calibrace HR product system website Candidate API allow user add update delete candidate profile Calibrace Job API allow user add update delete job profile Apply Without Registration API allow user apply job without register Calibrace system"
+    },
+    {
+        "progweb_cat": "Jobs,Human Resources",
+        "api_name": "Employrium",
+        "id": 12269,
+        "progweb_descr": " Employrium resource employer job seeker major metropolitan area job seeker offer realtime job search via web mobile device Twitter stream Employers pay account make job posting API make specifically employer easily track activity active posting number applicant expiration date etc"
+    },
+    {
+        "progweb_cat": "Jobs,Human Resources",
+        "api_name": "Catsone",
+        "id": 15287,
+        "progweb_descr": " CATS webbased applicant tracking system use track manage candidate go hire process"
+    },
+    {
+        "progweb_cat": "Jobs,European",
+        "api_name": "Europass",
+        "id": 1089,
+        "progweb_descr": " Europass EU initiative help people make skill qualification clearly easily understood Europe initiative aim increase transparency qualification mobility citizens Europe via portfolio document contain description learn achievement official qualification work experience skill competence Europass provide RESTful API mean use Europass service automate way Use service remotely generate Europass document Data transport realize secure hypertext transfer protocol HTTPS"
+    },
+    {
+        "progweb_cat": "Jobs,European",
+        "api_name": "EuroCV",
+        "id": 13983,
+        "progweb_descr": " EuroCV site create CV free well create public access link provide potential employer application EuroCV API enable company integrate system EuroCVs database allow check CVs remotely well update Human Resource file without manual data entry"
+    },
+    {
+        "progweb_cat": "Jobs,Government",
+        "api_name": "USAJOBS",
+        "id": 1096,
+        "progweb_descr": " USAJOBS umbrella United States Office Personnel Management OPM Governmentâ€™s official program Federal job employment information OPM maintain USAJOBS API intent broaden reach USAJOBS commercial job board social medium outlet mobile apps Both REST SOAP base APIs available"
+    },
+    {
+        "progweb_cat": "Jobs,Government",
+        "api_name": "USA.gov American Job Center Resource",
+        "id": 7032,
+        "progweb_descr": " UsaGov offer American Job Center Resource API application ideal developer aim help job seeker find government employment train education Users find API ONet site display interactive demo REST service responses resource American Job Center API support HTTP XML format information API developer contact staff via email At time connect social medium interpret audience preference"
+    },
+    {
+        "progweb_cat": "Jobs,Government",
+        "api_name": "USASearch Jobs",
+        "id": 9678,
+        "progweb_descr": " DigitalGov Search formerly USASearch service provide US General Services Administration GSA It host Jobs API allow user access list current job opening federal state local government agency Jobs searchable keyword location agency schedule combination thereof API operate via REST call issue JSON format"
+    },
+    {
+        "progweb_cat": "Jobs,Government",
+        "api_name": "Rijksoverheid CSO",
+        "id": 11948,
+        "progweb_descr": " service give access Dutch government CSO platform CarriÃ¨re Sites Overheid recruitment hire open position It seek provide readily access information government job opening Netherlands span 2000 separate department entity service intend represent Dutch government responsive employer make position attractive best qualified job seeker API method support retrieval list job recruit phase filter criterion select suitable specific applicant full detail specific position announcement Methods also provide list organization entity advertise opening via service also filter criterion narrow selection Additional method support post job opening recruit organization function modify suspend delete listing previously post"
+    },
+    {
+        "progweb_cat": "Jobs,Big Data",
+        "api_name": "JANZZjobs",
+        "id": 2062,
+        "progweb_descr": " JANZZ Jobs API allow developer integrate semantic job search match functionality third party application JANZZ Jobs API provide relative job search result well powerful match people business job project It integrate seamlessly labor market solution job board applicant track system company career site JANZZ Jobs API feature search synonym affinity expansion 40 language realtime query broaden classification data set towards 34 official taxonomy ONet ISCO08"
+    },
+    {
+        "progweb_cat": "Jobs,Advertising",
+        "api_name": "AdView Feed",
+        "id": 2622,
+        "progweb_descr": " AdViews FeedAPI let show job want appear look feel website FeedAPI simple lightweight REST API respond HTTP request JSON XML AdView Feed API give content show job ad website pay 80 commission valid click impression It also provide accurate report user activity via personalize dashboard It fully customizable easy use"
+    },
+    {
+        "progweb_cat": "Jobs,Advertising",
+        "api_name": "Jobs2Careers Publisher",
+        "id": 6449,
+        "progweb_descr": " Jobs2Careers site user search job listing specific location Jobs2Careers Publisher API enable 3rd party add job content monetize site This job generate ad placement API also ability query nearly 4 million job posting US API web accessible us XML JSON format"
+    },
+    {
+        "progweb_cat": "Jobs,Cloud",
+        "api_name": "Google Cloud Jobs",
+        "id": 2892,
+        "progweb_descr": " Google Cloud Jobs API allow developer integrate machine learning base job search functionality thirdparty application Cloud Jobs API provide intuitive job search platform target recommendation help discover new opportunity Additionally Cloud Jobs API feature search synonym acronym expansion advance location mapping realtime query broaden dynamic recommendation"
+    },
+    {
+        "progweb_cat": "Jobs,Data",
+        "api_name": "Relinklabs Goodwin",
+        "id": 3130,
+        "progweb_descr": " Relinklabs Goodwin API integrate job position data recruiter provide machine learning feature It available JSON architecture present response associated applicant job title skills future job previous job education"
+    },
+    {
+        "progweb_cat": "Jobs,Data",
+        "api_name": "U.S. Department of Labor Quarry",
+        "id": 5395,
+        "progweb_descr": " US Department Labor Quarry API allow developer access data Department Labor DOL This include OSHA datasets offer detail approximately 90000 inspection conduct year 4 decade This API release part next stage DOLs open data effort"
+    },
+    {
+        "progweb_cat": "Jobs,Application Development",
+        "api_name": "Buildkite Jobs",
+        "id": 3256,
+        "progweb_descr": " Buildkite Jobs API integrate job retrieval unblock output variable related test application environment JSON request return present successful response REST protocol witj API Key authentication method"
+    },
+    {
+        "progweb_cat": "Jobs,Application Development",
+        "api_name": "Synclist",
+        "id": 5220,
+        "progweb_descr": " Synclist API provide website developer access database job description industry use registration form tool This database include 37600 job title 1800 industry End user partially type industry job title form field auto populate service provide suggestion fill field"
+    },
+    {
+        "progweb_cat": "Jobs,Feeds",
+        "api_name": "USJobPlace Job Search",
+        "id": 3362,
+        "progweb_descr": " USJobPlace Job Search API custom job fee platform developer adapt look feel website This API accept request HTTP GET format responds XML JSON Developers need request API Key USJobPlace online job search service"
+    },
+    {
+        "progweb_cat": "Jobs,Feeds",
+        "api_name": "EmployIQ Job Feed",
+        "id": 6099,
+        "progweb_descr": " This free API use EmployIQ search find standardize thousand daily job listing multiple source data generate API feed meant syndicate cache updating feature therefore fee twosecond response delay This API require HTML link EmployIQ data JSON format"
+    },
+    {
+        "progweb_cat": "Jobs,Applications",
+        "api_name": "Greenhouse Harvest",
+        "id": 4030,
+        "progweb_descr": " Greenhouse Harvest API allow user download data include office department candidate activity feed application scorecard schedule interview offer job stage job post rejection reason email templates user source Methods also available reject move advance job application Greenhouse recruitment optimization service design help user find good candidate conduct good interview make datadriven hiring decision"
+    },
+    {
+        "progweb_cat": "Jobs,Applications",
+        "api_name": "Greenhouse Candidate Ingestion",
+        "id": 4044,
+        "progweb_descr": " Greenhouse Candidate Ingestion API include method get list active job create new candidate generate track link get update happen previously push candidate Greenhouse recruitment optimization service design help user find good candidate conduct good interview make datadriven hiring decision"
+    },
+    {
+        "progweb_cat": "Jobs,Marketplace",
+        "api_name": "Upwork",
+        "id": 5019,
+        "progweb_descr": " Upwork formerly know oDesk provide API access freelance search capabilities user public profile job company team contract offer payment message activity snapshot report Additional resource include library architecture style error handle"
+    },
+    {
+        "progweb_cat": "Jobs,Collaboration",
+        "api_name": "Lever Postings",
+        "id": 6123,
+        "progweb_descr": " Lever collaborative applicant track system hire platform platform integrate email improve communication make easy request feedback candidate Coworkers involve source referral Lever Postings API allow user programmatically retrieve job posting company get posting match give query get individual posting ID apply job post API allow fulltext search open job support CORS header job posting exterior domain provide unique iframe job detail"
+    },
+    {
+        "progweb_cat": "Jobs,Collaboration",
+        "api_name": "Gloomshade",
+        "id": 11234,
+        "progweb_descr": " Gloomshade remote medium company provide variety service support freelance digital artist Gloomshade API provide RESTful interface member partner organization directly access Gloomshadeâ€™s system"
+    },
+    {
+        "progweb_cat": "Jobs,Announcements",
+        "api_name": "DOJ Law Jobs",
+        "id": 6461,
+        "progweb_descr": " US Department Justice DOJ Law Jobs API distribute available government legal job opening vacancy announcement source Office Attorney Recruitment Management This digital distribution channel exists make job opening transparent public This API also main data source DOJ law job mobile application API allow developer filter response date hire specification HTTP GET request API make return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Jobs,Geography",
+        "api_name": "MyJobHelper",
+        "id": 7041,
+        "progweb_descr": " MyJobHelper site allow user search comprehensive database specific job listing site give ability filter zip code job title MyJobHelper API allow developer integrate MyJobHelpers extensive database search capabilities 3rd party application web presence In order gain API access publisher must submit company profile Join MyJobHelper Partner Program MyJobHelpercom service intend use within United States Located bottom home website phrase Canadian user forbid Canadians beware"
+    },
+    {
+        "progweb_cat": "Jobs,Social",
+        "api_name": "Venturocket",
+        "id": 7683,
+        "progweb_descr": " Venturocket service help job seeker get direct contact hiring manager recruiter rather rely resume get call Venturocket function like date site matching people employer base skill experience If agree exchange direct contact information Developers access Venturockets match system thirdparty application via REST API"
+    },
+    {
+        "progweb_cat": "Jobs,Social",
+        "api_name": "CrewRevu",
+        "id": 7744,
+        "progweb_descr": " CrewRevu allow user create snapshot online social activity give employer well idea present personal brand Users showcase information take LinkedIn Facebook Google Twitter service come discriminatory information filter allow potential employer view profile information without legal complication"
+    },
+    {
+        "progweb_cat": "Jobs,Social",
+        "api_name": "CodeMunch",
+        "id": 14457,
+        "progweb_descr": " CodeMunch recruitment platform make good use emerge social networking technology It give developer complete access CodeMunch data Using CodeMunch API developers post job get job listing get career status follow career"
+    },
+    {
+        "progweb_cat": "Jobs,Database",
+        "api_name": "YAGAJOBS",
+        "id": 7710,
+        "progweb_descr": " YAGAJOBS online UK job service provide access database live job vacancy gather numerous UK job board YAGAJOBS offer normalize constantly refresh service single highly comprehensive database YAGAJOBS REST API search match vacancy base give criterion Data attribute normalized include advertiser salary location title description type hour Supported format include simple JSON simple XML HR XML An API key require"
+    },
+    {
+        "progweb_cat": "Jobs,New York City",
+        "api_name": "Hired in NY",
+        "id": 8732,
+        "progweb_descr": " Hired NY mobile app enable user discover connect apply job New York base startup tech company application originally build NYC BigApps 2013 Hired NY API provide free developer access application support access information company job people API support search variety parameter Results JSON format"
+    },
+    {
+        "progweb_cat": "Jobs,Language",
+        "api_name": "Trendy Skills",
+        "id": 9574,
+        "progweb_descr": " Trendy Skills database language program skill employer seek technology industry Trendy Skills API allow developer access integrate functionality Trendy Skills applications Some example API method include search keywords search category retrieving result"
+    },
+    {
+        "progweb_cat": "Jobs,Semantics",
+        "api_name": "Daxtra CVX",
+        "id": 10341,
+        "progweb_descr": " Daxtra CVX multilingual tool convert freeform resume structure XML information suitable storage reporting manipulation computer Daxtra CVX accept resume submit wide variety common format include MSWord RTF PDF Word Perfect HTML MS Excel PowerPoint Plain Text It extract key information contact data work experience educational detail key skill salary requirement etc average process speed 25 second per document"
+    },
+    {
+        "progweb_cat": "Jobs,Semantics",
+        "api_name": "PopCV Semantic",
+        "id": 14416,
+        "progweb_descr": " Semantic Engine Systems API design help charge hire good sort application engine access inbox scan attach resume CVs pull candidate best match open position within company Sign API key require commercial use must apply"
+    },
+    {
+        "progweb_cat": "Jobs,Tools",
+        "api_name": "ProfessionL",
+        "id": 11412,
+        "progweb_descr": " ProfessionL recruitment management platform It allow employer manage recruitment search single dashboard dashboard include tabs several aspect recruitment include multiple job listing candidate contact An â€œActivityâ€ tab allow overall view recruitment process workflow ProfessionL API expose user profile functionality enable data portability importation exportation"
+    },
+    {
+        "progweb_cat": "Jobs,Writing",
+        "api_name": "Copify",
+        "id": 11527,
+        "progweb_descr": " Copify online copywriting service connect customer vet network independent copywriter service streamlines relationship customer copywriter allow customer easily send job individual copywriter post pick Copify API aim allow simple control offer service In particular API allow user integrate four primary job process application create read update delete"
+    },
+    {
+        "progweb_cat": "Jobs,Profiles",
+        "api_name": "Masterbranch",
+        "id": 12996,
+        "progweb_descr": " Masterbranch online platform developer showcase development skill employer hire developer job project Developers keep profile outline cod skill Employers post project job well search developer Masterbranch API allow developer access integrate functionality Masterbranch application create new application An example API method return developer profile"
+    },
+    {
+        "progweb_cat": "Jobs,Crowdsourcing",
+        "api_name": "Gigwalk",
+        "id": 13661,
+        "progweb_descr": " Gigwalk service allow people post gig collect information use mobile phone instantly send information back requester People accept gig get pay collect information Gigwalk API allow developer access data functionality Gigwalk Some example API method include retrieve gig information get gig detail get task result"
+    },
+    {
+        "progweb_cat": "Jobs,Crowdsourcing",
+        "api_name": "MobileWorks",
+        "id": 14079,
+        "progweb_descr": " MobileWorks crowdsourcing platform pool people complete task translate content proofread article classify data tag image user task do remotely They state use crowdsourcing put underemployed work MobileWorks API allow developer access interact MobileWorks platform main API method post job edit job information MobileWorks platform receive answer job find status job"
+    },
+    {
+        "progweb_cat": "Jobs,Sports",
+        "api_name": "RezScore",
+        "id": 13743,
+        "progweb_descr": " RezScore service grade score people resume Users upload resume RezScores website get score base algorithm Users also access RezScores resume help recommendation RezScore API available people sign RezScore account Public documentation available interested developer sign httprezscorecomapi"
+    },
+    {
+        "progweb_cat": "Jobs,Australian",
+        "api_name": "Zipster",
+        "id": 14759,
+        "progweb_descr": " Zipster API allow anyone interact programmatically Zipster provide range API method data easily integrated application website Zipster career website technology professional organisation seek employ Australia Zipster design specific need technology professional enable perform highly targeted job search base specific criterion include location type employment keyword API use RESTful protocol response format XML Authorization provide OAuth use API Key"
+    },
+    {
+        "progweb_cat": "Jobs,API",
+        "api_name": "Freelancer",
+        "id": 15127,
+        "progweb_descr": " From site Freelancers API let users access public information Freelancercom programmatically Such information use accordance Freelancercom Affiliate Program Terms Service Allowed use include display open public project information user profile affiliate website appropriate link Freelancercom project profile This information useful Freelancercom member Users experience program able create widget large degree flexibility see API call Less experience user simply paste code give example web page enjoy benefit web widget"
+    },
+    {
+        "progweb_cat": "Jobs,Business",
+        "api_name": "oDesk",
+        "id": 15416,
+        "progweb_descr": " oDesk marketplace online workteams unique business model buyer provider look guarantee buyer hour bill hour work guarantee provider hour work hour pay oDesk public API allow developer access oDesk platform outside oDeskcom search job provider view detailed work history others team Also check message reply important message via API"
+    }
+]

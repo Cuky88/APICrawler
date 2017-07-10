@@ -1,0 +1,158 @@
+[
+    {
+        "progweb_cat": "Language,Translation",
+        "api_name": "Google AJAX Language",
+        "id": 235,
+        "progweb_descr": " With AJAX Language API translate detect language block text within webpage use Javascript language API design simple easy use translate detect languages fly offline translation available"
+    },
+    {
+        "progweb_cat": "Language,Translation",
+        "api_name": "Chinese Character Web",
+        "id": 11910,
+        "progweb_descr": " service interprets data Unihan Database encode text Chinese character Its function emphasize interpretation common Mandarin Chinese draw upon information support database Cantonese Japanese Korean Vietnamese encode character range available 21000 character within range identify CJK Unified Ideographs API method support submission query specify subset character interest filter narrow return Methods return Unicode value character match query Methods also return stroke make character pronunciation"
+    },
+    {
+        "progweb_cat": "Language,Tools",
+        "api_name": "Hello Salut",
+        "id": 1109,
+        "progweb_descr": " Hello Salut service allow user greet online visitor native language Users may choose detect visitor language IP address call Hello Salut employ fully automate version service Hello Salut currently Beta languages yet add project open source available GitHub"
+    },
+    {
+        "progweb_cat": "Language,Domains",
+        "api_name": "IBM Watson Language Translator",
+        "id": 1827,
+        "progweb_descr": " Language Translator API translate text one language another service offer multiple domainspecific model customize base unique terminology language Use Language Translator take news across globe present language communicate customer language It include Translate Identifiable languages Identify language List model IBM Watson Language Translator service allow create application identifies language input text use domainspecific linguistic model translate text another language"
+    },
+    {
+        "progweb_cat": "Language,Natural Language Processing",
+        "api_name": "Dandelion Language Detection Similarity",
+        "id": 2143,
+        "progweb_descr": " Language Detection API simple language identification API useful deal text currently support 96 language All request must send either GET POST API endpoint allow define send text want language recognize Dandelion API extract meaning unstructured text put context provide Semantic Text Analytics service include text actionable data"
+    },
+    {
+        "progweb_cat": "Language,Natural Language Processing",
+        "api_name": "IBM Watson Dialog",
+        "id": 4750,
+        "progweb_descr": " IBM Watson Dialog API allow developer manage conversation virtual agent user API These conversation refer dialog enable application use natural language automatically respond user question upsell product service walk user process Developers create dialog make call RESTful API"
+    },
+    {
+        "progweb_cat": "Language,Natural Language Processing",
+        "api_name": "HPE Haven OnDemand Language Identification",
+        "id": 7331,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Language Identification API scan inputted document return language present API require minimum 3 word determine language however accuracy increased large amount content"
+    },
+    {
+        "progweb_cat": "Language,Religion",
+        "api_name": "Syriaca.org OAI-PMH Provider",
+        "id": 3097,
+        "progweb_descr": " This API use OAIPMH protocol access description service list record set across Syriacaorg collection Syriac Reference Portal digital project study Syriac literature culture history It reference hub digitally link research finding compile classify core data study Syriac source offer Syriac specialist scholars field cultural heritage community interested public digital tool"
+    },
+    {
+        "progweb_cat": "Language,Religion",
+        "api_name": "Syriaca.org Geographic",
+        "id": 3098,
+        "progweb_descr": " This API Provides geoJSON result place within gazetteer geographic data filter place type It return result building church monastery Syriac Reference Portal digital project study Syriac literature culture history It reference hub digitally link research finding compile classify core data study Syriac source offer Syriac specialist scholars field cultural heritage community interested public digital tool"
+    },
+    {
+        "progweb_cat": "Language,Religion",
+        "api_name": "Syriaca.org Search",
+        "id": 3099,
+        "progweb_descr": " This API perform simple keyword search across Syriacaorg collection It return result title author event Syriac Reference Portal digital project study Syriac literature culture history It reference hub digitally link research finding compile classify core data study Syriac source offer Syriac specialist scholars field cultural heritage community interested public digital tool"
+    },
+    {
+        "progweb_cat": "Language,Text",
+        "api_name": "Dothraki Translator",
+        "id": 3767,
+        "progweb_descr": " Dothraki Translator API allow developer translate English Dothraki language Game Thrones public version API limit user 5 call per hour Dothraki Translator provide Fun Translations website host translation service variety fun fictional language dialect"
+    },
+    {
+        "progweb_cat": "Language,Text",
+        "api_name": "Ai Applied Language Detection",
+        "id": 8393,
+        "progweb_descr": " Ai Applied provide technology service help user obtain valuable insight texts social medium web data Ai offer suite APIs allow developer interact data variety way Ai Applied Language Detection API web service able distinguish 25 language realtime regardless text length"
+    },
+    {
+        "progweb_cat": "Language,Intelligence",
+        "api_name": "Microsoft Cognitive Services LUIS",
+        "id": 3820,
+        "progweb_descr": " Microsoft Cognitive Services LUIS Language Understanding Intelligent Service API offer conversational intelligence exist third party application Developers integrate understand user intent example travel agent application add voice recognition understand aid booking process Paid free plan available LUIS API REST base use JSON data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Language,Big Data",
+        "api_name": "Microsoft Cognitive Services WebLM",
+        "id": 3996,
+        "progweb_descr": " Microsoft Cognitive Services WebLM Web Language Model API offer cloud base natural language processing functionality allow developer make use big data collect Bing ENUS market Applications tool include calculate often particular sequence word appear together get list word likely follow sequence word Currently pay plan available free option limit transaction 100000 month REST WebLM API use JSON data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Language,Recognition",
+        "api_name": "languagelayer",
+        "id": 4519,
+        "progweb_descr": " Languagelayer serve platform detect structural textual semantic characteristic different language It fullydocumented AIbased version operate simple REST API capable analyze 170 language free API conveys response JSON format require access key authenticate post request"
+    },
+    {
+        "progweb_cat": "Language,Analytics",
+        "api_name": "Rosette",
+        "id": 4570,
+        "progweb_descr": " Rosette API allow developer integrate linguistic analysis statistical modeling machine learn Big Text processing application API include method language identification relationship extraction categorization sentiment analysis name translation name match base linguistics entity extraction entity link Wikidata English Spanish Chinese Rosette suite linguistic analysis component integrate application quickly add multilingual capability mining unstructured data It provide Basis Technology"
+    },
+    {
+        "progweb_cat": "Language,Languages",
+        "api_name": "Language Detection",
+        "id": 4930,
+        "progweb_descr": " Language Detection currently detect 160 language It work accept text display result code score Available JSON protocol API provide basic detection batch request secure mode SSL It require Api Key access Ruby Java Python NET PHP"
+    },
+    {
+        "progweb_cat": "Language,Languages",
+        "api_name": "IBM Watson Language Identification",
+        "id": 5761,
+        "progweb_descr": " IBM Language Identification API allow developer detect language text sample use UTF8 character encode This API offer part IBM Watson Developer Cloud host Bluemix platform Sample application use API Bluemix provide Java Nodejs Ruby"
+    },
+    {
+        "progweb_cat": "Language,Open Source",
+        "api_name": "Poio",
+        "id": 5189,
+        "progweb_descr": " Poio API predict languages via text Available JSON format accessible Key text prediction service aim support language diversity API part open source project create CIDLes Media Lab Interdisciplinary Centre Social Language Portugal"
+    },
+    {
+        "progweb_cat": "Language,Education",
+        "api_name": "WaniKani",
+        "id": 5314,
+        "progweb_descr": " WaniKani kanji Japanese write learning application WaniKani API allow developer use public API key get user progress website wanikanicom well limited user information username profile description"
+    },
+    {
+        "progweb_cat": "Language,Editing",
+        "api_name": "Language Tool",
+        "id": 5341,
+        "progweb_descr": " Language Tool independent project proofread English French German Polish 20 languages It create intentionally open source work directly web Language Tool API offer access via HTTPHTTPS Java application With HTTP format mind API limit 20 request per IP per minute maximum text size 50KB HTTPS support Language Tool work progress invite developer add contribution"
+    },
+    {
+        "progweb_cat": "Language,Database",
+        "api_name": "Internet Acronym Server",
+        "id": 6324,
+        "progweb_descr": " Silmaril international management consultant company also accessible collection acronym thru web Internet Acronym Server API allow developer integrate service application Users application able search access different acronym available Silmaril ’ database"
+    },
+    {
+        "progweb_cat": "Language,SEO",
+        "api_name": "Speaking URL",
+        "id": 9043,
+        "progweb_descr": " Speakingurlcom free web service capable convert arbitrary multilingual text human SEO friendly URL This RESTful service accepts simple JSON format GET call return JSON format URL API currently support English French German Spanish Russian Chinese"
+    },
+    {
+        "progweb_cat": "Language,Web Site Management",
+        "api_name": "Edicy Site",
+        "id": 9746,
+        "progweb_descr": " Edicy cloudbased service building host multilingual website manage content It optimize desktop mobile view provide builtin SEO come customizable theme Edicy Site API allow user access public Edicy site content JSONbased API This API readonly use retrieve article comment page element"
+    },
+    {
+        "progweb_cat": "Language,Language",
+        "api_name": "CereVoice Cloud",
+        "id": 10933,
+        "progweb_descr": " service provide hosted version provider instal texttospeech TTS conversion software It generate spoken language input text variety language use selection speaking voice Requests finetune aspect audio output pitch pace adjust specific need API method support either simple speak conversion basic text selection extend speak conversion modification default pitch rate speech pronunciation via SSML markup Methods also support management multiple lexicon abbreviation set control text conversion specific environment Tags allow influence emotional tone vocal gesture"
+    },
+    {
+        "progweb_cat": "Language,Russian",
+        "api_name": "Morpher",
+        "id": 15085,
+        "progweb_descr": " Performs declension pluralization Russian Ukrainian names common word phrase include geographical name Useful text generation softwarewebsite localization Russian Ukrainian"
+    }
+]

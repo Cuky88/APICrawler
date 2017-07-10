@@ -1,0 +1,98 @@
+[
+    {
+        "progweb_cat": "API Management,Lists",
+        "api_name": "GetProxyList",
+        "id": 1458,
+        "progweb_descr": " GetProxyList API provide random work proxy every request It available REST architecture JSON format API Key authentication With API developer access proxy list around world provide anonymity port protocol agent cooky HTTPS country IP filter"
+    },
+    {
+        "progweb_cat": "API Management,Authorization",
+        "api_name": "Mozilla Permissions",
+        "id": 2187,
+        "progweb_descr": " Mozilla Permissions API make easy user determine accessibility APIs API allow developer build application provide consistent option query status APIs This make possible user query grant denial permission access APIs API ’ support desktop browser currently restrict Chrome Firefox Gecko mobile browser support include Android Webview Firefox Mobile Gecko Chrome Android"
+    },
+    {
+        "progweb_cat": "API Management,Background",
+        "api_name": "TipsGO Tips",
+        "id": 2765,
+        "progweb_descr": " In Smart Wealth Tips SWT Platform term Tip use refer financial money relate recommendation provide Member user platform These Tips help Member good manage money Tips relate save money grow money invest protect money insurance This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These Tips help user make money help save grow invest protect money"
+    },
+    {
+        "progweb_cat": "API Management,Financial",
+        "api_name": "TipsGO Product",
+        "id": 2767,
+        "progweb_descr": " Smart Wealth Tips SWT Platform provide comprehensive product catalog help identify product suitable person base personal circumstance TipsGo Product API allow manipulate product information product catalog within SWT Platform This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    },
+    {
+        "progweb_cat": "API Management,Semantic Web",
+        "api_name": "The OWL",
+        "id": 3542,
+        "progweb_descr": " This Java API reference implementation create manipulate serialize OWL Web Ontologies late version API support OWL 2"
+    },
+    {
+        "progweb_cat": "API Management,API",
+        "api_name": "API Science",
+        "id": 4972,
+        "progweb_descr": " API Science REST API allow developer access integrate functionality API Science application APIs Some example API method include manage API monitor retrieve monitor information retrieve manage API monitoring report API Science provide monitoring test service APIs"
+    },
+    {
+        "progweb_cat": "API Management,API",
+        "api_name": "Cloud Elements Hub",
+        "id": 5292,
+        "progweb_descr": " Cloud Elements Hub REST API allow developer access integrate functionality Cloud Elements Hub applications Some example API method include manage CRM platform manage file manage eSignatures Cloud Elements API management integration platform help developer design manage integrate APIs"
+    },
+    {
+        "progweb_cat": "API Management,API",
+        "api_name": "Cloud Elements",
+        "id": 5294,
+        "progweb_descr": " Cloud Elements REST API allow developer access integrate functionality Cloud Elements applications Some example API method include retrieve instance manage organization information manage user account information Cloud Elements API management integration platform help developer design manage integrate APIs"
+    },
+    {
+        "progweb_cat": "API Management,Data",
+        "api_name": "Scribe Online",
+        "id": 4977,
+        "progweb_descr": " Use Scribe Online API access embed iPaaS functionality Scribe Onlines data integration service inside application API RESTful use HTTP PUTPOST verb HTTP Basic Auth authentication Scribe Online API available Scribe Online subscribers offer access function like provision agent invitinguninviting user create IS RS solution clone exist IS solution Assigning reassign Agents Solutions See API documentation full method description rate limit Scribe Software make data integration tool developer user"
+    },
+    {
+        "progweb_cat": "API Management,API Design",
+        "api_name": "APIBond",
+        "id": 5329,
+        "progweb_descr": " APIBond API management platform orchestrate analyze update app APIBond analyze API metric filter redundant field facilitates customize response content monitor API security performance aggregate merge multiple APIs Use APIBond build API integrate current API management platform See detailed documentation example use APIBond instruction get start"
+    },
+    {
+        "progweb_cat": "API Management,API Design",
+        "api_name": "LucyBot Request",
+        "id": 5795,
+        "progweb_descr": " LucyBot Request API use basic HTTP return JSON An API Key require available free request Use LucyBot Request API generate sample code design API walkthroughs language documentation ReadMe Code snippet also push GitHub Make 1000 call per month API free Developers require 1000 call per month request email API author"
+    },
+    {
+        "progweb_cat": "API Management,Application Development",
+        "api_name": "Tyk Cloud",
+        "id": 5357,
+        "progweb_descr": " Tyk Cloud offer complete API management platform build opensource technology Use Tyk Cloud API implement quota rate access policy create developer portal customize documentation Tyk Cloud also offer API analytics support variety security method include token HMAC sign OAuth 20 Flexible implementation option include cloud premise hybrid two See project documentation detail method description information feature Tyk Cloud offer free pay subscription account"
+    },
+    {
+        "progweb_cat": "API Management,Metadata",
+        "api_name": "Google Cloud Resource Manager REST",
+        "id": 5366,
+        "progweb_descr": " Use Google Cloud Resource Manager REST API manage Google Cloud Platform project metadata API use HTTP PUTPOST method request OAuth2 authentication Use API create read update project metadata Developers note Google Cloud Resource Manager Beta See API docs query parameter usage limit"
+    },
+    {
+        "progweb_cat": "API Management,Metadata",
+        "api_name": "Google Resource Manager RPC",
+        "id": 5409,
+        "progweb_descr": " Google Cloud Resource Manager RPC API manage Google Cloud Platform project metadata Use API create delete update project Developers note Google Cloud Resource Manager Beta See API docs query parameter usage limit"
+    },
+    {
+        "progweb_cat": "API Management,Accessibility",
+        "api_name": "Tyk",
+        "id": 6899,
+        "progweb_descr": " Tyk tool API identity management access control Using Tyk developer automate API Key creation monitor use APIs capacity Tyk alert error occur offer analytical track individual API usage RESTful Tyk API primary mode connectivity user sync APIs Tyk API Gateway dashboard use monitoring"
+    },
+    {
+        "progweb_cat": "API Management,Reservations",
+        "api_name": "WEBCONPro",
+        "id": 11020,
+        "progweb_descr": " WEBCONpro channel manager portal maintenance hotel book site site facilitate upkeep price rate book information help sit remain competitive WEBCONpro API enable full customization service offer multi property online book system service return XML"
+    }
+]

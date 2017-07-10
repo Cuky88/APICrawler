@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Lyrics,Copyright",
+        "api_name": "Lyrics N Music",
+        "id": 3443,
+        "progweb_descr": " Lyrics N Music API integrate first 150 character song website aim comply copyright regulation It available JSON JSONP format Api Key"
+    },
+    {
+        "progweb_cat": "Lyrics,Music",
+        "api_name": "CajunLyrics",
+        "id": 4965,
+        "progweb_descr": " CajunLyrics REST API allow developer access integrate functionality CajunLyricscom Some example API method include conduct search retrieve lyric artist name song title CajunLyricscom lyric database focus Cajun Zydeco Swamppop Louisiana music"
+    }
+]

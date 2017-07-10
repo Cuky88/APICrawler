@@ -1,0 +1,218 @@
+[
+    {
+        "progweb_cat": "Voice,Accounts",
+        "api_name": "TeleSign Voice",
+        "id": 1454,
+        "progweb_descr": " TeleSigns Voice service REST API allow easily send voice message alert reminder notification send verification message contain timebased onetime passcodes TOTP TeleSign provide way build communication account security web mobile apps It cloud communication platform empowers Web mobile app developer ability build powerful secure communication product use dynamic platform large global network TeleSign support numerous use case SMS voice message twofactor authentication 2FA onetime password OTPs data intelligence fraud score"
+    },
+    {
+        "progweb_cat": "Voice,Accounts",
+        "api_name": "Twilio Voice",
+        "id": 7075,
+        "progweb_descr": " Twilio cloud communication company offer Twilio voice API access phone account number call texts recording This could helpful particularly developer want gain new customer service provide wide variety method understand client information This API voice telephonic environment site display guide call call queue message phone number usage account application Users receive support Twilio forum"
+    },
+    {
+        "progweb_cat": "Voice,Teleconferencing",
+        "api_name": "Dubber",
+        "id": 2258,
+        "progweb_descr": " Dubber RESTful API platform offering record playback intelligence functionality It available OAuth2 authentication provide sandbox experiment development httpsdeveloperdubbernetiodocs"
+    },
+    {
+        "progweb_cat": "Voice,Teleconferencing",
+        "api_name": "Plivo Conference Record",
+        "id": 5619,
+        "progweb_descr": " Plivo Conference Record API let developer start stop record conference Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Voice,Telephony",
+        "api_name": "Nexmo Voice",
+        "id": 3027,
+        "progweb_descr": " Voice API allow developer integrate call control functionalities third party application Developers build voicebased interface voice conferencing application customer support system This API use API Keys authentication JSON responses Nexmo power New Jersey base firm Vonage"
+    },
+    {
+        "progweb_cat": "Voice,Telephony",
+        "api_name": "Nexmo VoiceXML",
+        "id": 5820,
+        "progweb_descr": " Nexmo VoiceXML allow developer integrate application Nexmo Voice service enable user call text speech Nexmo directly applications Nexmo provide customer way communicate one another domestically internationally"
+    },
+    {
+        "progweb_cat": "Voice,Telephony",
+        "api_name": "Sinch Calling",
+        "id": 5884,
+        "progweb_descr": " Sinch Voice Calling API allow developer integrate Sinch callingrelated functionality application enable user make receive call directly application"
+    },
+    {
+        "progweb_cat": "Voice,Telephony",
+        "api_name": "Bandwidth Voice",
+        "id": 6432,
+        "progweb_descr": " Bandwidth lead US network carrier power digital communication support Republic Wireless Bandwidth offer voice message cloud API platform developer business integrate directtocarrier communication application Bandwidth Voice API specifically enable developer programmatically manage send voice call retrieve inbound call initiate autoreply function forward incoming call create voice reminder voicemail RESTful interface come well documented work JSON format response"
+    },
+    {
+        "progweb_cat": "Voice,Email",
+        "api_name": "Telestax Restcomm Rest",
+        "id": 3321,
+        "progweb_descr": " This REST API allow query metadata account phone number call text message recording Telestax work Open Source Open Standards telecommunication service provider build communication apps"
+    },
+    {
+        "progweb_cat": "Voice,Business",
+        "api_name": "Voiceably",
+        "id": 3721,
+        "progweb_descr": " Voiceably API integrate business phone system application Api Key endpoints available make callback As service Voiceably provide unlimited extension SMS message Contact company update API information"
+    },
+    {
+        "progweb_cat": "Voice,Machine Learning",
+        "api_name": "Bing Speech Recognition",
+        "id": 4008,
+        "progweb_descr": " Bing Speech Recognition API provide cloud base spoken language analysis processing Developers integrate real time audio recognition via microphone send audio extract file server Additionally API convert speak audio intent support model train Microsoft Language Understanding Intelligent Service LUIS 3 pricing option available free plan limit transaction 5000 month available well Speech Recognition API use JSON format data exchange Tokens authentication"
+    },
+    {
+        "progweb_cat": "Voice,Identity",
+        "api_name": "Knurld Enrollment",
+        "id": 4110,
+        "progweb_descr": " Knurld Enrollment API allow developer associate consumer application model After enrollment complete consumer able verify identity speak phrase use enrollment Knurld offer set APIs give developer mean incorporate voice authentication capability website mobile apps"
+    },
+    {
+        "progweb_cat": "Voice,Identity",
+        "api_name": "VoiceIt Voiceprint Portal",
+        "id": 6455,
+        "progweb_descr": " VoiceIt offer voice biometrics service provide true multilayered security Because voiceprint template multilayered textdependent characteristic directly link user This mean voiceprint invalidate compromise without lose user identity VoiceIt Voiceprint Portal API allow developer integrate voice biometrics website mobile application Interactive Voice Response IVR system"
+    },
+    {
+        "progweb_cat": "Voice,Authentication",
+        "api_name": "Knurld Application Model",
+        "id": 4111,
+        "progweb_descr": " Knurld Application Model API allow developer create custom enrollment verification scheme fit need They store configuration option engine setting Knurld offer set APIs give developer mean incorporate voice authentication capability website mobile apps"
+    },
+    {
+        "progweb_cat": "Voice,Authentication",
+        "api_name": "Knurld Session",
+        "id": 4112,
+        "progweb_descr": " Knurld Session API allow end user consumer log voice verification system enrollment verification voice print Knurld offer set APIs give developer mean incorporate voice authentication capability website mobile apps"
+    },
+    {
+        "progweb_cat": "Voice,Authentication",
+        "api_name": "Knurld OAuth",
+        "id": 4113,
+        "progweb_descr": " Knurld OAuth API allow developer get OAuth2 Access Token use client id client secret Knurld offer set APIs give developer mean incorporate voice authentication capability website mobile apps"
+    },
+    {
+        "progweb_cat": "Voice,Authentication",
+        "api_name": "Knurld Call",
+        "id": 4114,
+        "progweb_descr": " Knurld Call API provide developer optional tool use record audio enrollment verification By provide valid phone number user transform telephone temporary microphone send record audio directly system This record audio download API send directly enrollment verification Knurld offer set APIs give developer mean incorporate voice authentication capability website mobile apps"
+    },
+    {
+        "progweb_cat": "Voice,Authentication",
+        "api_name": "Knurld Status",
+        "id": 4115,
+        "progweb_descr": " Knurld Status API use retrieve service status Knurld offer set APIs give developer mean incorporate voice authentication capability website mobile apps"
+    },
+    {
+        "progweb_cat": "Voice,Authentication",
+        "api_name": "Knurld Consumer",
+        "id": 4116,
+        "progweb_descr": " Knurld Consumer APIs let developer manage consumer resource Knurld offer set APIs give developer mean incorporate voice authentication capability website mobile apps"
+    },
+    {
+        "progweb_cat": "Voice,Analytics",
+        "api_name": "Knurld Analysis",
+        "id": 4124,
+        "progweb_descr": " Knurld Analysis API analyze audio wavefile automatically find speech endpoint purpose enrollment verification Knurld offer set APIs give developer mean incorporate voice authentication capability website mobile apps"
+    },
+    {
+        "progweb_cat": "Voice,Applications",
+        "api_name": "Houndify",
+        "id": 4395,
+        "progweb_descr": " Houndify platform allow anyone add smart voice enable conversational interface anything internet connection Once integrate Houndify product instantly understand wide variety question command You dont need scientist use Houndify Developers get run within minute"
+    },
+    {
+        "progweb_cat": "Voice,Recognition",
+        "api_name": "Knurld Verification",
+        "id": 4567,
+        "progweb_descr": " Knurld Verification API allow developer verify consumer utterance word phrase previously enrol voiceprint Knurld provide speech biometrics service recognize person say also verify speak"
+    },
+    {
+        "progweb_cat": "Voice,Recognition",
+        "api_name": "Web Speech",
+        "id": 6452,
+        "progweb_descr": " Web Speech API support World Wide Web Consortium W3C browserbased JavaScript API enable developer incorporate speech recognition synthesis websites application API offer texttospeech output well speech recognition input Use case scenario include use voice perform web search create speechdriven command interface recognize transcribe dialogue API maintain W3C Community Contributor License Agreement CLA"
+    },
+    {
+        "progweb_cat": "Voice,Recognition",
+        "api_name": "Nexiwave",
+        "id": 14809,
+        "progweb_descr": " Nexiwave speech recognition API provide webservice base speech recognition platform It help search collection speech recording automatically transcribe speech data mining human correction identify segment speaker align caption Nexiwavecom first commercial GPUaccelerated speech index service provider API use RESTful SOAP protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "Voice,Accessibility",
+        "api_name": "Flowroute",
+        "id": 4749,
+        "progweb_descr": " Flowroute API provide core call message service include phone number throughout North America outbound inbound call call masking capability SMS relate information service Flowroute certificate SIP telecommunication provider"
+    },
+    {
+        "progweb_cat": "Voice,Audio",
+        "api_name": "Apico Voice",
+        "id": 5190,
+        "progweb_descr": " Apico Voice API available REST language integrate call service interactive voice response audio record advance call control callback feature web application Developers access API subscriber ID password secret key login password rent phone number"
+    },
+    {
+        "progweb_cat": "Voice,Audio",
+        "api_name": "Plivo Call Play",
+        "id": 5470,
+        "progweb_descr": " Plivo Call Play API let developer play MP3 wav file call usually use play notification live call Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Voice",
+        "api_name": "Plivo Call Record",
+        "id": 5603,
+        "progweb_descr": " Plivo Call Record API allow developer record live call anytime call well stop record anytime Plivo carrier service company provide business way communicate customer via SMS Voice call Plivo provide voice message service enterprises small business"
+    },
+    {
+        "progweb_cat": "Voice",
+        "api_name": "Plivo Endpoint",
+        "id": 5618,
+        "progweb_descr": " Plivo Endpoint API let developer receive make call SIP phonem webSDK Plivos mobile SDKs Some action perform API include create endpoint get detail endpoint get detail single endpoint Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Voice",
+        "api_name": "Planet TeamSpeak",
+        "id": 7288,
+        "progweb_descr": " Planet TeamSpeak provide internetbased voice communication service By use dedicate server handle thousand client user time There TeamSpeak 3 Servers locate around world Planet TeamSpeak monitor status server regularly generates graph use Planet TeamSpeak API allow user collect information display website application"
+    },
+    {
+        "progweb_cat": "Voice,Intelligence",
+        "api_name": "Microsoft Project Oxford Speech",
+        "id": 5639,
+        "progweb_descr": " Microsoft Project Oxford Speech API allow developer access integrate voice recognition detection functionality Microsoft Project Oxford Some example API method include recognize voice play voice output manage voice Microsoft Project Oxford offer collection APIs SDKs developer add intelligent feature application"
+    },
+    {
+        "progweb_cat": "Voice,Languages",
+        "api_name": "Yandex Speech Recognition",
+        "id": 5752,
+        "progweb_descr": " This Speech Recognition API provide Yandex require API Key available request API currently support query general search request map access address Turkish Russian language With interface iOS Android Windows Phone app offer developer ability integrate voice input interface mobile apps See extensive Doxygen documentation detail instruction get start Speech Recognition API"
+    },
+    {
+        "progweb_cat": "Voice,Customer Relationship Management",
+        "api_name": "Zendesk Voice",
+        "id": 6323,
+        "progweb_descr": " Zendesk software service company provide business different communication tool Zendesk Voice API enable developer integrate Zendesk Voice service application With API user application take voice call route call mobile phone"
+    },
+    {
+        "progweb_cat": "Voice,Text",
+        "api_name": "VoxSigma",
+        "id": 10011,
+        "progweb_descr": " service provide conversion record speech input text output It also provide identification language record speech sample synchronize speech correspond text It handle content many European language well Mandarin Arabic Geographic redundancy help provide effective service across country region API method support either realtime batch processing automate transcription job submission audio sample delivery text Methods also support basic detection language speak audio sample synchronization audio correspond text transcript"
+    },
+    {
+        "progweb_cat": "Voice,Voice",
+        "api_name": "AISpeech",
+        "id": 14207,
+        "progweb_descr": " AI Speech specialize computer speech recognition analysis tone analysis dialog management technique AISpeech JavaScript API provide AI Speech Ltds pronunciation evaluation speech recognition texttospeech technology With API developer implement speech enable application AISpeech API support Audio Recording Speech Pronunciation Evaluation Chinese English Multistyle TexttoSpeech Chinese English Documentation Chinese"
+    },
+    {
+        "progweb_cat": "Voice,API",
+        "api_name": "CDYNE Phone Verification",
+        "id": 15144,
+        "progweb_descr": " Using Phone Notify customer power deliver personalize prerecord WAV voice one two awardwinning texttospeech file rate 12000 call per minute CDYNE ’ developer friendly API simplifies communication mass allow track delivery responses – instant Included Phone Notify ability schedule call transfer live operator capture recipient ’ press digit"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "progweb_cat": "Time,Hardware",
+        "api_name": "Mozilla Time and Clock",
+        "id": 2176,
+        "progweb_descr": " Mozilla Time Clock API make easy user change system time device It allow user set change system time recognize number date object acceptable parameter system API accept system number stretch way back midnight UTC January 1 1970"
+    },
+    {
+        "progweb_cat": "Time,Reference",
+        "api_name": "Amdoren Time Zone",
+        "id": 2739,
+        "progweb_descr": " Amdoren Time Zone API allow developer programmatically access local time UTC offset daylight saving time zone information This API may use personal commercial website application It provide free charge"
+    },
+    {
+        "progweb_cat": "Time,Scheduling",
+        "api_name": "W3C Task Scheduler",
+        "id": 3218,
+        "progweb_descr": " W3C Task Scheduler API document specifies API allow developer schedule task trigger specific time It schedule multiple task get unique ID one API wake system sleep state schedule task lose application close system restarts"
+    },
+    {
+        "progweb_cat": "Time,Standards",
+        "api_name": "W3C High Resolution Time",
+        "id": 3242,
+        "progweb_descr": " W3C High Resolution Time API specification defines API provide current time submillisecond resolution API design way subject system clock skew adjustment This specification work draft may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Time",
+        "api_name": "Chrono",
+        "id": 3270,
+        "progweb_descr": " Chrono API simple RESTful service allow user create read stop delete timer This API provide Shinobi Developers small development team favor Ruby Rails"
+    },
+    {
+        "progweb_cat": "Time,Calendars",
+        "api_name": "Sunrise and Sunset Times",
+        "id": 6048,
+        "progweb_descr": " SunriseSunset free online service provide users information day length twilight sunrise time sunset time date location world free Sunrise Sunset Times API allow user retrieve exact sunrise sunset time give latitude longitude Users may also specify date wish"
+    },
+    {
+        "progweb_cat": "Time,Database",
+        "api_name": "TimezDB",
+        "id": 6078,
+        "progweb_descr": " TimezDB time zone database many locationscities around globe TimezDB API allow developer access integrate functionality TimezDB applications Some example API method include retrieve time retrieve location retrieve timezone information"
+    },
+    {
+        "progweb_cat": "Time,Images",
+        "api_name": "Tokei.link",
+        "id": 6555,
+        "progweb_descr": " Tokeilink offer simple time track API use return PNG image analog clock representation current time Tokei Japanese watch HTTP GET request make retrieve PNG image Users specify local time zone well travel destination time zone order receive image use sidebyside comparison API free use authentication require use Tokeilink also offer integration message app Slack"
+    },
+    {
+        "progweb_cat": "Time,Time Tracking",
+        "api_name": "Time and Date Daylight Saving Time (DST) Worldwide",
+        "id": 6980,
+        "progweb_descr": " With Daylight Saving Time Worldwide API developer manage date time zone change multiple country This service feature Time Date company base Norway inform user world clock calendar weather astronomy time zone Particularly company developer create application cost goal use 10000 request could purchase package available site With API partner retrieve information recognize parameter year country lang listplaces timechanges They also access response examples JSON XML protocol"
+    },
+    {
+        "progweb_cat": "Time,Telephony",
+        "api_name": "Time and Date Dialing Codes Service",
+        "id": 6986,
+        "progweb_descr": " With Time Date user access time zone calendar weather world clock astronomy information They also obtain free clock free countdown APIs Time Date Dialing Codes Service API use find code serf well call specific location To start application development developer review recognize parameter number locinfo geo example JSON XML sample response If user interested work 100000 request purchase dial code service package include local time area cod international prefix"
+    }
+]

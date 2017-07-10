@@ -1,0 +1,80 @@
+[
+    {
+        "progweb_cat": "Lists,eCommerce",
+        "api_name": "Listiamo",
+        "id": 1093,
+        "progweb_descr": " Listiamo list management creation share service Users create list work list people search list Listiamo API allow developer access integrate functionality Listiamo applications Some example API method include search list retrieve list return list item"
+    },
+    {
+        "progweb_cat": "Lists,Artificial Intelligence",
+        "api_name": "Amazon List Skills",
+        "id": 3222,
+        "progweb_descr": " Amazon List Skills API support integration Alexa platform purpose track updating change customer list API still beta release develop specifically target list application Alexa Skills Kit Alexa automatically convert customer ’ speech request Shopping ToDo list Alexa Skills Kit enable developer integrate feature Alexa List Skills API equip bidirectional interface update list time user make request Alexa API currently available limited participation beta developer must submit application request access"
+    },
+    {
+        "progweb_cat": "Lists,Countries",
+        "api_name": "University Domains and Names Data List",
+        "id": 3526,
+        "progweb_descr": " University Domains Names Data List API Hipo Labs retrieve JSON file domains name country national international university Created hipolabs developer web mobile"
+    },
+    {
+        "progweb_cat": "Lists,File Sharing",
+        "api_name": "Wunderlist",
+        "id": 5677,
+        "progweb_descr": " Wunderlist REST API allow developer access integrate functionality Wunderlist applications Some example API method include retrieve list retrieve task within list manage user account Wunderlist application let user create manage sync share list task well file"
+    },
+    {
+        "progweb_cat": "Lists,Media",
+        "api_name": "GitHub Issue Comments",
+        "id": 5869,
+        "progweb_descr": " GitHub Issue Comments API allow developer integrate GitHub issue service application enable list view edit create comment issue pull request This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Lists,Application Development",
+        "api_name": "GitHub Pull Requests Review Comments",
+        "id": 5879,
+        "progweb_descr": " GitHub Pull Requests Review Comments API allow developer get access comment pull request repository also enable developer create edit delete customize medium type GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Lists,Application Development",
+        "api_name": "GitHub Issue Milestones",
+        "id": 5880,
+        "progweb_descr": " GitHub Issue Milestones API allow developer integrate GitHub milestone service application enable function ie list milestone repository gettingcreatingupdatingdeleting single milestone This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Lists,Application Development",
+        "api_name": "GitHub Gists Comments",
+        "id": 5922,
+        "progweb_descr": " GitHub Gists Comments API allow developer integrate GitHub gist comment feature application enable functionality ie list create edit delete customize commentmedia type This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Lists",
+        "api_name": "GitHub Issues Assignees",
+        "id": 5890,
+        "progweb_descr": " GitHub Issues Assignees API allow developer integrate GitHub list assignee service application enable make call API list available assignee owner collaborator issue may assign This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Lists,Auctions",
+        "api_name": "eBay Listing Recommendation",
+        "id": 6692,
+        "progweb_descr": " eBay Listing Recommendation API allow developer integrate different type list type data Some listing type category condition description ship eligibility picture"
+    },
+    {
+        "progweb_cat": "Lists,Goals",
+        "api_name": "Bucketlist",
+        "id": 6884,
+        "progweb_descr": " Bucketlist tool help user track achieve life goal include social share view user goal inspiration platform accessible device Developers widgets 3rd party application use Bucketlists RESTful API access information user list goal specific goal These request make XML JSON format When query user list request make return goal incomplete goal complete goal Details specific goal well randomize goal return use appropriate parameter API free use without authentication require"
+    },
+    {
+        "progweb_cat": "Lists,Financial",
+        "api_name": "GetLeaders",
+        "id": 6990,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getLeaders API provide leaderboard list equity future forex mutual fund ETFs include active gainer loser whats hot whats hot All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Lists,Aggregation",
+        "api_name": "getSectors",
+        "id": 6994,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getSectors API provide return use weighted alpha sector cover multiple period include 1day 1month 3month 6month 9month 12month yeartodate All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    }
+]

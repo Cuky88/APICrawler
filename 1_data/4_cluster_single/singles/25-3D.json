@@ -1,0 +1,152 @@
+[
+    {
+        "progweb_cat": "3D,Design",
+        "api_name": "CAD.ai Additive Manufacturing",
+        "id": 2312,
+        "progweb_descr": " This API allow query price would bill 3D print give design It provide list price material offer many vendor system Some feature include Get Price Compare Prices Sort Vendors Cadai 3D file viewer professional viewer 3d industry smart CAD Platform CADCAM business"
+    },
+    {
+        "progweb_cat": "3D,Design",
+        "api_name": "CAD.ai 3D-Printing Materials",
+        "id": 2313,
+        "progweb_descr": " 3DPrinting Materials API list material type return list material type available search include Plastics Metals Ceramics Resins List Available Materials vary 250 choice Cadai 3D file viewer professional viewer 3d industry smart CAD Platform CADCAM business"
+    },
+    {
+        "progweb_cat": "3D,Design",
+        "api_name": "CAD Model Thumbnails",
+        "id": 2314,
+        "progweb_descr": " CAD Model Thumbnails API allow generate thumbnail image size give 3D fileThis include Generate Thumbnails Take Snapshots Cadai 3D file viewer professional viewer 3d industry smart CAD Platform CADCAM business allows take snapshot give 3D file angle wish"
+    },
+    {
+        "progweb_cat": "3D,Design",
+        "api_name": "CAD File Converter",
+        "id": 2315,
+        "progweb_descr": " CAD File Converter API allow easily translate design stl obj dae ply file format include 51 File Formats Cadai 3D file viewer professional viewer 3d industry smart CAD Platform CADCAM business"
+    },
+    {
+        "progweb_cat": "3D,Design",
+        "api_name": "CAD Model Edit",
+        "id": 2316,
+        "progweb_descr": " This API allow rotate entire mesh specify axis give number degree rotation counterclockwise axis see look along positive axis towards origin This include Mirror Planes Scaling Rotate Axes Cadai 3D file viewer professional viewer 3d industry smart CAD Platform CADCAM business"
+    },
+    {
+        "progweb_cat": "3D,Design",
+        "api_name": "Autodesk Forge 3D Print",
+        "id": 3712,
+        "progweb_descr": " Autodesk Forge 3D Print API offer 3D printing functionality exist application Additionally serve print infrastructure printer manufacturer Autodesk California base design business firm provide industry lead software AutoCAD Maya Fusion 360"
+    },
+    {
+        "progweb_cat": "3D,Design",
+        "api_name": "Prototypster",
+        "id": 4646,
+        "progweb_descr": " Prototypster API allow developer integrate 3D printing service application Prototypster design help user rapidly prototype product provide 3D printing service custom model Users simply upload design select material choose ship method website API documentation available English Russian"
+    },
+    {
+        "progweb_cat": "3D,Design",
+        "api_name": "Authentise Slicing Service",
+        "id": 5043,
+        "progweb_descr": " Authentise Slicing Service allow developer enable toolpath generation cloud Slicing Service design use tandem Model Warehouse Authentise 3D Printing 3D Design company"
+    },
+    {
+        "progweb_cat": "3D,Design",
+        "api_name": "3D Hubs Teleport",
+        "id": 5699,
+        "progweb_descr": " 3D Hubs Teleport API allow anyone send model one 16000 public printing location around world API use JSON XML request return maximum request size 128 MB Teleport authenticate via OAuth1 require Consumer Key Secret Register 3D Hubs receive credential See API documentation information get start Teleport"
+    },
+    {
+        "progweb_cat": "3D,Design",
+        "api_name": "Authentise  Design Streaming",
+        "id": 6851,
+        "progweb_descr": " Authentise service help company distribute 3D design product purchase print Their technology securely streams design directly printer allow seller implement payperprint model It also use 3D print bureau give customer control design improve file security Authentise Design Streaming API allow user upload 3D object purchase order information retrieve detail print status object"
+    },
+    {
+        "progweb_cat": "3D,Measurements",
+        "api_name": "Motion Node",
+        "id": 4438,
+        "progweb_descr": " Motion Node API part Motion Workshop software service provide 3D measurement real time In detail API available C language XML format allow live stream record 3D rotation organize capture data configure sensor adjust sensitivity multiple application"
+    },
+    {
+        "progweb_cat": "3D,Printing",
+        "api_name": "Authentise 3DIAX",
+        "id": 5042,
+        "progweb_descr": " Authentise 3DIAX API allow developer maintain large database model data cloud specification various endpoint design open provider could create service adheres specification interoperate service work Authentise Authentise 3D Printing 3D Design company"
+    },
+    {
+        "progweb_cat": "3D,Printing",
+        "api_name": "i.materialise",
+        "id": 9324,
+        "progweb_descr": " imaterialise online 3D printing service Users upload 3D model imaterialise create physical object imaterialise support file 3D modeling software file format Objects available variety material imaterialise API allow developer automate site function Currently support operation include file uploads material catalog request"
+    },
+    {
+        "progweb_cat": "3D,Printing",
+        "api_name": "Shapeways",
+        "id": 11377,
+        "progweb_descr": " Shapeways 3D printing service allow user order customdesigned 3D object online Materials available printing include steel silver ceramic glass various plastic Shapeways provide RESTbased API enable developer download information available material include property API also let user upload 3D model print well set offsite checkout"
+    },
+    {
+        "progweb_cat": "3D,Monitoring",
+        "api_name": "Authentise Vision Job",
+        "id": 5044,
+        "progweb_descr": " Authentise Vision Job API allow developer manage computer vision service Authentise Configure camera operation print model job status layer API vision service design completely separable Authentise service Authentise 3D Printing 3D Design company"
+    },
+    {
+        "progweb_cat": "3D,Art",
+        "api_name": "Sketchfab Viewer",
+        "id": 5272,
+        "progweb_descr": " SketchFab Viewer JavaScript API allow developer access integrate view functionality SketchFab application main API method display viewer along play pause skip content SketchFab medium platform host interactive 3D model Artists publish 3D modeling work share friends family perspective employer Others browse site look specific kind model like plane train automobile"
+    },
+    {
+        "progweb_cat": "3D,Graphics",
+        "api_name": "WebGL",
+        "id": 5379,
+        "progweb_descr": " WebGL web standard APIs allow user work lowlevel 3D graphic browser without need plugin standard base OpenGL ES 20 stay close specification WebGL standard function across platform provide royaltyfree vendor Safari Chrome Firefox Opera browsers member WebGL Working Group"
+    },
+    {
+        "progweb_cat": "3D,Cloud",
+        "api_name": "Point Cloud Library",
+        "id": 5443,
+        "progweb_descr": " Point Cloud Library API provide developer way integrate PCL service application enable application process data cloud Point Cloud Library PCL large scale open project point cloud process A point cloud set data point 2D 3D coordinate system"
+    },
+    {
+        "progweb_cat": "3D,Fitness",
+        "api_name": "Body Labs BodyKit Instant",
+        "id": 5839,
+        "progweb_descr": " BodyKit Instant REST API Body Labs allow developer access integrate functionality Body Labs application create new application human body Some example API method include create 3D model human body post retrieve measurement retrieve heat information heatmaps Body Labs provide tool service analyze human body shape pose motion"
+    },
+    {
+        "progweb_cat": "3D,Photos",
+        "api_name": "Archilogic",
+        "id": 6084,
+        "progweb_descr": " Archilogic allow prospective tenant buyer view 3D model available apartment house These model explore inbrowser without need special software plugins Archilogic API allow user request creation 3D model base floor plan image Users may also choose include property photo API call"
+    },
+    {
+        "progweb_cat": "3D,Health",
+        "api_name": "National Institute of Health 3D Print",
+        "id": 6197,
+        "progweb_descr": " NIH 3D Printing API allow developer access integrate functionality data NIH 3D Printing Exchange Some example API method include return 3D printing model retrieve information 3D print share 3D printing model NIH 3D Printing Exchange platform discover share information 3D printing 3D printing model"
+    },
+    {
+        "progweb_cat": "3D,Animation",
+        "api_name": "Vizago",
+        "id": 6919,
+        "progweb_descr": " Vizago offer various 3D service product 3D reconstruction face exchange 360° view photo expression cloud service Developers could benefit Vizago API main value aim create virtual character 3D animation use single photo This could useful create avatar virtual presentation product demonstration 3D animation API support HTTP JSON format In site developer find API walkthrough create 3D reconstruction see sample upload image function review error successful response"
+    },
+    {
+        "progweb_cat": "3D,Animation",
+        "api_name": "Clara.io",
+        "id": 7594,
+        "progweb_descr": " Claraio browserbased 3D model animation render tool work Chrome Firefox Internet Explorer 11 Windows Apple OSX Linux Android platforms Claraio support versioning simultaneous multiuser edit easy collaboration It also support 30 different 3D file format Through Claraios REST API user import file well create clone update list delete share export render get thumbnail scene"
+    },
+    {
+        "progweb_cat": "3D,Images",
+        "api_name": "Autodesk  ReCap",
+        "id": 7188,
+        "progweb_descr": " Autodesk ReCap API allow developer access integrate functionality Autodesk Photoscenes Autodesk file application Some example API method include launch Photoscene process retrieve Photoscenes add managing file"
+    },
+    {
+        "progweb_cat": "3D,Games",
+        "api_name": "AMD Mantle",
+        "id": 7407,
+        "progweb_descr": " Mantle 3D render graphic API allow PC game utilize Graphics Core Next GPU architecture reduce CPU overhead Mantle free process space complex application run efficiently without latency This do prebuilding reuse data result allow application directly manage GPU various environment"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Support,Business",
+        "api_name": "Zendesk Core",
+        "id": 76,
+        "progweb_descr": " Zendesk software service company provide business different communication tool Zendesk Core API enable developer integrate Zendesk platform application With API user application able use core feature Zendesk service feature include set limit call automate call access call record"
+    },
+    {
+        "progweb_cat": "Support",
+        "api_name": "Dell Support Case Management",
+        "id": 689,
+        "progweb_descr": " Dell Support Case Management API allow management Dell support case product still warranty ProSupport This interface enable user create check update Dell support case Dell ’ Help Desk This API SOAP design HTTP XML format"
+    },
+    {
+        "progweb_cat": "Support",
+        "api_name": "Atlassian JIRA Service Desk Cloud REST",
+        "id": 3049,
+        "progweb_descr": " This API allow developer integrate JIRA Service Desk application administrator want script configuration interaction JIRA Service Desk It service solution include asset management DevOps support team solution feature like customer request portal support queue SLAs"
+    },
+    {
+        "progweb_cat": "Support",
+        "api_name": "Dell Dispatch Request",
+        "id": 4369,
+        "progweb_descr": " Dells Dispatch Request API allow user ability manage part dispatch request This include ability create request view dispatch detail request installation These service access Help Desk TechDirect portal"
+    },
+    {
+        "progweb_cat": "Support,Products",
+        "api_name": "Dell Warranty Status",
+        "id": 4593,
+        "progweb_descr": " Dell ’ Warranty Status API enable user track check status product warranty These service available Basic ProSupport costumer This RESTful API compatible variety console Remedy SalesForce Oracle CRM Oncontact Microsoft Dynamics"
+    },
+    {
+        "progweb_cat": "Support,Cloud",
+        "api_name": "MindTouch",
+        "id": 5452,
+        "progweb_descr": " MindTouch API allow developer programmatically access MindTouchs cloudbased service help client improve Help content MindTouch customer success software host organize present Help content customer learn become competent client product This service completely brandable customer never know theyre leave client website"
+    },
+    {
+        "progweb_cat": "Support,Authentication",
+        "api_name": "Zendesk Help Center",
+        "id": 6321,
+        "progweb_descr": " Zendesk software service company provide business different communication tool Zendesk Help Center API enable developer integrate Zendesk Help Center feature application With API depend request user application able access filter information already Help Center"
+    }
+]

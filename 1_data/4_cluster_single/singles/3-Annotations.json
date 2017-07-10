@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Annotations,Images",
+        "api_name": "Affectiva Media Annotation",
+        "id": 1784,
+        "progweb_descr": " Affectiva provider emotion recognition technology use AI capability analyze emotion facial expression audience Affectiva support use standard web cam gather analytical insight unfiltered emotion exhibit consumer digital content Affectiva Media Annotations API support attachment keyvalue parameter medium entry API send HTTPformatted request return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Annotations,Collaboration",
+        "api_name": "Hypothesis",
+        "id": 2574,
+        "progweb_descr": " Hypothesis API integrate annotation web service Available send HTTP request JSON responses aim useful researcher scientist educator"
+    },
+    {
+        "progweb_cat": "Annotations,Editing",
+        "api_name": "Genius",
+        "id": 5225,
+        "progweb_descr": " Genius REST API allow developer access integrate functionality Genius applications Some example API method include retrieve post annotation retrieve information specific artist search document host Genius Genius text annotation platform user annotate edit text linebyline"
+    }
+]

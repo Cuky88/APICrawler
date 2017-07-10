@@ -1,0 +1,1832 @@
+[
+    {
+        "progweb_cat": "Reference,Dictionary",
+        "api_name": "Aonaware Dictionary",
+        "id": 30,
+        "progweb_descr": " Aonaware Dictionary API provide access dictionary definition pull multiple database This API access resource dictorg generate result It use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Dictionary",
+        "api_name": "Wordnik",
+        "id": 784,
+        "progweb_descr": " Wordnik APIs let request definition Century Dictionary frequency data reflect occurrence corpus example sentence word spell suggestion word autocompletion word day way"
+    },
+    {
+        "progweb_cat": "Reference,Dictionary",
+        "api_name": "Wordnik Swagger",
+        "id": 3017,
+        "progweb_descr": " Wordnik Swagger API allow developer access integrate functionality Wordnik application Open API standard Some example API method include retrieve definition retrieve word manage dictionary JavaScript Wordnik nonprofit online dictionary provide definition word phrase"
+    },
+    {
+        "progweb_cat": "Reference,Dictionary",
+        "api_name": "Tamil Dictionary",
+        "id": 7153,
+        "progweb_descr": " online Tamil Dictionary அகராதி draw multiple dictionary provide detailed description 100000 Tamil word Tamil Dictionary API allow user get dictionary definition give word well get list dictionary use Tamil Dictionary"
+    },
+    {
+        "progweb_cat": "Reference,Dictionary",
+        "api_name": "Cevir Turkish-English Dictionary",
+        "id": 14801,
+        "progweb_descr": " Cevir API allow user intergrate EnglishTurkish dictionary feature application Cevir online service provide translation dictionary lookup English Turkish API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Dictionary",
+        "api_name": "Dictionary Definitions",
+        "id": 15441,
+        "progweb_descr": " Dictionary Definitions API STANDS4 use REST call enable get dictionary definition information XML format give word"
+    },
+    {
+        "progweb_cat": "Reference,Dictionary",
+        "api_name": "WebLaws",
+        "id": 15456,
+        "progweb_descr": " WebLaws API give developer access WebLawsorg OregonLawsorg legal glossary It feature response JSON XML offer service fee"
+    },
+    {
+        "progweb_cat": "Reference,Energy",
+        "api_name": "Genability",
+        "id": 86,
+        "progweb_descr": " Genability provide tool gain insight electricity usage Genability API RESTful interface detail accurate uptodate tariff energy pricing data Search zipcode criterion API provide fully functional tariff calculator use actual reading data compute tariff bill Reading data store within APIs quicker calculation Also API offer way find current look ahead price zipcode intelligently determine cost electricity go Although API free offer low entry level rate Rates primarily base number unique tariff access per month API respond JSON JSONP format There helpful PHP Rails Java libraries Github httpsgithubcomGenability Genability software company provide energy supplier distributor technology market sell increase value customer We help solar energy procurement connect home efficiency business understand customer energy cost determine product save turn insight opportunity We industrys accurate comprehensive cloudbased retail tariff database rate engine Company recipient Department Energy SunShot Initiative base San Francisco"
+    },
+    {
+        "progweb_cat": "Reference,Transportation",
+        "api_name": "Edmunds.com Vehicle",
+        "id": 91,
+        "progweb_descr": " Edmunds publisher new used automotive pricing guide assist automobile buyer since 1966 In addition pricing information Edmundscom include car review vehicle maintenance guidance resource tip advice buyingselling vehicle insurance fuel economy user forum Edmundscom Vehicle API allow developer access yearmakemodel information well style True Market Value Vehicle Incentives offer auto manufacturer API RESTful return response JSONJSONP"
+    },
+    {
+        "progweb_cat": "Reference,Transportation",
+        "api_name": "Edmunds.com Inventory",
+        "id": 886,
+        "progweb_descr": " Edmunds publisher new used automotive pricing guide assist automobile buyer since 1966 In addition pricing information Edmundscom include car review vehicle maintenance guidance resource tip advice buyingselling vehicle insurance fuel economy user forum Edmundscom Inventory API RESTful API give access Edmundscom vehicle database via Vehicle Identification Number VIN Provide VIN specific vehicle information vehicle Edmundscom database return JSON format"
+    },
+    {
+        "progweb_cat": "Reference,Financial",
+        "api_name": "CrunchBase",
+        "id": 161,
+        "progweb_descr": " CrunchBase product TechCrunch directory technology company people investment profile especially company involve Web 20 readonly API allow retrieve information available database search criterion use JSON output format It necessary developer account API key current restriction number request"
+    },
+    {
+        "progweb_cat": "Reference,Financial",
+        "api_name": "Hosca BankFinder",
+        "id": 11137,
+        "progweb_descr": " Hosca website offer number simple game service This include BankFinder service enable user locate bank within select radius give zipcode This service available directly website via API API operate use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Reference,Financial",
+        "api_name": "OpenCorporates",
+        "id": 13631,
+        "progweb_descr": " OpenCorporates database corporate data OpenCorporates offer user ability search information 60 million corporation around world Users also search type corporation OpenCorporates API allow developer access integrate data functionality OpenCorporates applications Some example API method include search retrieve information corporation type jurisdiction company ID"
+    },
+    {
+        "progweb_cat": "Reference,Language",
+        "api_name": "Forvo",
+        "id": 168,
+        "progweb_descr": " Forvo API allow user integrate functionality Forvo websites application Forvo large pronunciation guide world place find million word pronounce original language Ask word name another user pronounce You also help others record pronunciation language Currently API allow user read listen word pronounciations future functionality include search language standard pronounciations Possible us include add pronunciation dictionary create good Google Translate real human pronunciation This RESTful API return response either XML JSON JStag format"
+    },
+    {
+        "progweb_cat": "Reference,Language",
+        "api_name": "Frengly Translation",
+        "id": 11697,
+        "progweb_descr": " service provide machine translation text one language another It accommodate autodetection input language specification desire output language API implement function underlie web service API method support submit text passage source destination language Returned data provide machine translate version submit text"
+    },
+    {
+        "progweb_cat": "Reference,Language",
+        "api_name": "GEMET",
+        "id": 12365,
+        "progweb_descr": " service maintain database multilanguage thesaurus ie collection term semantic relationship equivalent mean broad narrow meaning associate way It provide access document thesaurus list thesauri Maintaining thesaurus across different language help encourage interoperability connection term express similar concept different language API method support retrieval concept list one thesaurus multiple level either topmost concept concepts subset Methods also support submission one concept retrieval concept database relate one request include different language"
+    },
+    {
+        "progweb_cat": "Reference,Language",
+        "api_name": "Visual DataFlex Date Functions",
+        "id": 12425,
+        "progweb_descr": " Visual DataFlex Date Functions API allow user retrieve name day month various language Users may also determine default language ID system retrieve IDs languages This API access via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "Reference,Language",
+        "api_name": "Spellchecker.net",
+        "id": 14203,
+        "progweb_descr": " SpellCheckernet provide spellchecking product webapplications SpellChecker API let developer integrate spellchecking functionality application API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "Google Books",
+        "id": 194,
+        "progweb_descr": " Use Google Book Search Data API get modify Book Search content via feed Submit fulltext search book get book information rating review Optionally get individual user library collection public review Submit authenticate request create modify library collection rating label review"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "Library of Congress SRW",
+        "id": 715,
+        "progweb_descr": " From site SRU SearchRetrieve via URL standard search protocol Internet search query utilize CQL Common Query Language standard query syntax represent query SRW Search Retrieve Web Service companion protocol SRU Library Congress serve maintenance agency standard"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "Open Library Books",
+        "id": 1152,
+        "progweb_descr": " Open Library open editable library catalog building towards web page every book ever publish To date gather 30 million record 134 million available site way A project Internet Archive Allows interaction book record cover image subject listing Open Library open editable library catalog building towards web page every book ever publish Methods allow retrieval book record cover image subject heading user list well searchinside even read online"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "USA Today Best-Selling Books",
+        "id": 1309,
+        "progweb_descr": " USA Todays BestSelling Books API provide method developer retrieve USA TOdays weekly compile list nation bestselling book publish Thursday In addition developer also retrieve archive list since book list launch Thursday Oct 28 1993 BestSelling Books API also use retrieve title history list metadata title"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "Random House",
+        "id": 1656,
+        "progweb_descr": " Random House API use get data book author work event A work define collection title share content identify Random Housespecific Work ID Events generally refer authorrelated event book signing This API access via REST call use XML JSON data format"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "Scholarly iQ",
+        "id": 10611,
+        "progweb_descr": " service provide measure popularity influence publish paper author It generate data record often publication cite scholar influential citation within author field Data conform Standardized Usage Statistics Harvesting Initiative SUSHI protocol ANSINISO Z3993 data usage electronic resource API method support access report track citation publication journal databases book Returned data format accord provider proprietary COUNTER protocol SUSHI standard"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "Project Bamboo",
+        "id": 11035,
+        "progweb_descr": " service provide research environment aid research humanity work across different institution Its infrastructure help libraries technology platform interact humanity scholar support work across boundary create individual institutional system It seek enable application building content collection across multiple hosting environment curating update collection record API method support search distribute collection control filter configure result set Methods also allow morphological syntactical analysis text asset define element contain represent structure complete text API allow scholar develop personal profile encourage interaction others share interest notification event asset useful"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "University of Toronto Libraries",
+        "id": 12428,
+        "progweb_descr": " University Toronto Libraries API allow user access Library Management System documentation database use manage describe library holding University Toronto use Unicorn Library Management System provide SirsiDynix This system accessible via API use SOAP call"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "WorldCat xISBN",
+        "id": 13492,
+        "progweb_descr": " web service associate library catalog record WorldCat relate resource base ISBN Submitting ISBN retrieve list ISBNs record relate algorithm OCLC primary organization manage professionally catalog bibliographic record along select metadata record linkages support FRBRized grouping related edition expression work manifestation expression API method get record andor metadata resource related one whose ISBN submit Methods also support map booksrelated identifier xOCLCNUM convert 10 130digit ISBNs"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "Hathi Trust Data Distribution",
+        "id": 15030,
+        "progweb_descr": " Hathi Trust API return bibliographic copyright volume information include permanent URLs query variety standard identifier eg ISBN LCCN OCLC etc API control return brief full bibliographic metadata implemeted replacement deprecate Rights API"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "O'Reilly Product Metadata Interface",
+        "id": 15052,
+        "progweb_descr": " This experimental OReilly Product Metadata Interface OPMI expose RDF OReillys title organize ISBN OPMI REST API support follow data format XML RDF FOAF MODS MARC"
+    },
+    {
+        "progweb_cat": "Reference,Books",
+        "api_name": "CatalogWS",
+        "id": 15611,
+        "progweb_descr": " From site CatalogWS Web API dynamically query information NCSU Libraries Catalog North Carolina State University This API support variety application repurpose catalog data outside native catalog interface"
+    },
+    {
+        "progweb_cat": "Reference,Wiki",
+        "api_name": "Wikipedia",
+        "id": 287,
+        "progweb_descr": " unofficial Wikipedia API Because Wikipedia build use MediaWiki turn support API Wikipedia well This provide developer codelevel access entire Wikipedia reference goal API provide direct highlevel access data contain MediaWiki database Client program use API login get data post change API support thin webbased JavaScript client Navigation popups LiveRC enduser application vandal fighter access another web site tool server utility API use RESTful call support wide variety format include XML JSON PHP YAML others"
+    },
+    {
+        "progweb_cat": "Reference,Weather",
+        "api_name": "GeoNames",
+        "id": 289,
+        "progweb_descr": " Geonames geographical database web service let user extract useful information different place weather timezone post code GeoNames geographical database cover country contain eight million placenames available download free charge Users edit correct add new name use wiki interface Geonames provide suite 36 Webservices cover follow category Fulltext search Place Hierarchy Wikipedia Postal Codes Reverse Geocoding Earthquakes Weather APIs use RESTful protocol response vary format XML JSON RDF CSV TXT RSS KML"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "ESV Bible Lookup",
+        "id": 314,
+        "progweb_descr": " From site English Standard Version ESV Bible new essentially literal Bible translation combine wordforword precision accuracy literary excellence beauty depth meaning"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "Biblia.com",
+        "id": 522,
+        "progweb_descr": " Bibliacom API provide Web mobile desktop application access Bible text web service Bibliacom interdenominational project allow online bible study Specifically service get information available Bibles Find Image download text Bibles Content search Bibles Search Additional service support validate Bible reference Parse compare Bible reference Compare find Bible reference text HTML Scan Tag service use RESTful interface response format XML JSON JSONP text HTML"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "Our Manna Daily Verses",
+        "id": 9063,
+        "progweb_descr": " Our Manna noncommercial online Christian magazine feature article video audio sermon daily bible verse Our Manna expose daily bible verse API API freely accessible require authentication Supported response format include text XML RSS JSON"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "Malaysia Prayer Times",
+        "id": 9077,
+        "progweb_descr": " Malaysia Prayer Times free unofficial desktop gadget Android app web service provide Islamic prayer time Malaysia Department Islamic Development Malaysia Prayer Times API provide developer access prayer time specify location Calls may display prayer time current day week month Responses JSON format"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "London Prayer Times",
+        "id": 9078,
+        "progweb_descr": " London Prayer Times provide Unified Islamic Prayer Timetable London London Prayer Times API provide developer access timetable via HTTP GET call A date may specify An API Key require response XML JSON format"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "GlobalQuran",
+        "id": 9084,
+        "progweb_descr": " Global Quran provide free web access Quran text audio many language feature allow user browse search verse Global Quran API provide developer access siteâ€™s representation Quran support feature API capable return complete Quran specify surah juz ayah Responses JSON format"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "DDBC Authority Database",
+        "id": 9894,
+        "progweb_descr": " service provide listing authoritative form name prominent people place event along date Buddhist history doctrine underlie database authority record access via javascript popup application provide authoritative data link person place event name text Authority data may also retrieve via REST web service API API method support submit entity identifier retrieve correct name properly format person place event Methods also provide authoritative date event entity"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "Gwinnett Roman Baptist Church Open Bible",
+        "id": 10162,
+        "progweb_descr": " Hosted Atlanta base Gwinnet Romanian Baptist Church Open Bible API provide developer access bible verse chapter Available bible text American Standard Version Cornilescu Revised Version Romanian Bible Results may XML JSON format"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "Korean Bible Society",
+        "id": 11163,
+        "progweb_descr": " Korean Bible Society KBS nonprofit organization form translate publish distribute Christian Scriptures Korean language KBS website provide Korean English KBS API provide user programmatic access KBSs Korean translation Bible It also provide search service ability retrieve information specific Gospels"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "RestFul Web Services Bible",
+        "id": 11526,
+        "progweb_descr": " RestFul Web Services Bible API provide verse detail either American Standard Version Bible King James Version Bible This service access use either SOAP REST call XML format Both protocols issue call WSDL endpoint"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "4:14 XML Bible",
+        "id": 13081,
+        "progweb_descr": " service provide text Christian scripture specify submit request It complement similar biblical verse service provide translation multiple language version scripture King James version default request choose 53 others base different Greek Hebrew texts database nearly 25 million verse include text many language API method support submission request bibilical passage citation Requests may also specify language text version Returned data provide 500 matching verse"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "St. Gregorios Church Bible",
+        "id": 13084,
+        "progweb_descr": " St Gregorios Church Bible API provide St Gregorios Indian Orthodox Church This API allow user retrieve Bible verse though unclear whether verse retrieve Malayalam English This API use XML data format operate SOAP protocol"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "Xhanch Islamic Get Prayer Time",
+        "id": 13795,
+        "progweb_descr": " Xhaunchs Islamic Get Prayer Time API public service allow user retrieve month worth daily time Islamic prayer base give latitude longitude year month timezone Times calculate use â€œMuslim World League method API use call service endpoint via URI format mentioned parameter well optional data format parameter Information return XML default JSON"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "eBibleicious",
+        "id": 13977,
+        "progweb_descr": " eBiblecom provide user access passage Bible Compare passages among 5 Bible version 7 commentary Javascript API allow developer link passage pull full text passage site account key require"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "American Bible Society BibleSearch",
+        "id": 14266,
+        "progweb_descr": " American Bible Society nonprofit organization publishes distribute translates Bible provide study aid tool help people engage Bible BibleSearch API allow developer include Scripture content text anywhere website application noncommercial purpose It provide access multiple Bible version search across keyword passage return Scripture number format API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "SermonAudio",
+        "id": 14383,
+        "progweb_descr": " SermonAudiocom library free MP3 audio sermon church ministry world Users search topic Bibles speaker SermonAudiocom API allow developer access interact data site use client frontend platform Some APIs function include list favorite sermon search sermon keyword add sermon"
+    },
+    {
+        "progweb_cat": "Reference,Religion",
+        "api_name": "Bible.org",
+        "id": 15389,
+        "progweb_descr": " Bibleorg provide user access passage Bible along additional feature allow user interact NET Bible API give developer access passage use simple endpoint require account key"
+    },
+    {
+        "progweb_cat": "Reference,Ratings",
+        "api_name": "LocalSchoolDirectory",
+        "id": 346,
+        "progweb_descr": " service provide data K12 public private charter school along education option vicinity specify location Information provide include location address latitudelongitude along grade taught number enrol student faculty studentteacher ratio note record API method support submission search location fivedigit ZIP code city state Requests limit match school type grade level distance specify location"
+    },
+    {
+        "progweb_cat": "Reference,Ratings",
+        "api_name": "Scholarometer",
+        "id": 10504,
+        "progweb_descr": " service provide crowdsourced rating impact scholars field citation analysis evaluate frequently publish paper appear reference list paper Rankings rise scholar work cite frequently scholar whose work also highly rank It available browser plugin track user interaction paper discover research Google Scholar web service full API access rating data API method support retrieval list author track system simply number author track potential filter Thomson Reuters Citation Index discipline Methods allow retrieval rating data particular author set author specify name system identifier Methods also allow retrieval list discipline track possible overlap relationship"
+    },
+    {
+        "progweb_cat": "Reference,Search",
+        "api_name": "ISBN db",
+        "id": 394,
+        "progweb_descr": " From site ISBNdbcoms remote access application program interface API design allow website standalone application use vast collection data collect ISBNdbcom since 2003 As write July 2005 data include nearly 1800000 book almost 3000000 library record close million subject hundreds thousand author publisher record parse library data 10000000 record actual historic price Using API look information keywords ISBN author publisher etc In situation API fast enough use interactive application"
+    },
+    {
+        "progweb_cat": "Reference,Search",
+        "api_name": "Wolfram Alpha",
+        "id": 431,
+        "progweb_descr": " WolframAlpha computational knowledge engine whose longterm goal make systematic knowledge immediately computable accessible everyone We aim collect curate objective data implement every know model method algorithm make possible compute whatever compute anything It contain 10 trillion piece data 50000 type algorithms model linguistic capability 1000 domain API provide two general class query At high level submit freeform query like user might enter WolframAlpha site get back full WolframAlpha output variety format second type query lowerlevel request single welldefined result range result entitypropertybased data API caloric value food item tide table request location"
+    },
+    {
+        "progweb_cat": "Reference,Search",
+        "api_name": "WorldCat Search",
+        "id": 759,
+        "progweb_descr": " Search book videos music WorldCat database Responses include location asset particular library link Optionally get response citation format need APA MLA"
+    },
+    {
+        "progweb_cat": "Reference,Search",
+        "api_name": "refbase OpenSearch",
+        "id": 11078,
+        "progweb_descr": " service provide bibliographic search return citation match submit query Its architecture complies SRU SearchRetrieve via URL standard promulgate US Library Congress use CQL Common Query Language structure interaction service API method support submission bibliographic search query state CQL syntax API return metadata match resource MODS format embed SRUW XML wrapper"
+    },
+    {
+        "progweb_cat": "Reference,Search",
+        "api_name": "NCSU Scholarly Publications Repository",
+        "id": 12101,
+        "progweb_descr": " service provide access source citation metadata publication log repository library provide machinereadable access extend connect repository information format currently provide API support submission search query HTTP request specify CGI variable Methods return response XML application may transform format need"
+    },
+    {
+        "progweb_cat": "Reference,Search",
+        "api_name": "Biosemantics JANE",
+        "id": 12501,
+        "progweb_descr": " service query repository scholarly journal author name across biological science identify related particular topic text sample In response title abstract name subject keyword service look match across record Medline database It intend suggest likely publishing venue article particular topic well author follow specific article review API method support submission query term include name keywords text selection Requests limit return record journal name author names publish paper desire"
+    },
+    {
+        "progweb_cat": "Reference,Search",
+        "api_name": "BibServer",
+        "id": 12890,
+        "progweb_descr": " service facilitates share bibliographic metadata separately maintain collection It aim allow interaction among repository document human knowledge across discipline support improve scholarship Scholars accumulate large separate collection bibliographic citation like Zotero Bibsonomy Mendeley course work service help share information easy research API implement elasticsearch API method support upload local collection specification access relevant search facet overall statistic source include Methods also support submission search query combine collection filter parameter control result return"
+    },
+    {
+        "progweb_cat": "Reference,Search",
+        "api_name": "WorldCat Identities",
+        "id": 15690,
+        "progweb_descr": " WorldCat Idententies API mine Worldcat database individual identity create page identity Response include relate ISBNs identifier well metadata If hear xISBN xISSN xOCLCnum APIs comprise"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "LibraryThing",
+        "id": 418,
+        "progweb_descr": " From site Three APIs available 1 thingISBN take ISBN return list ISBNs work ie edition translation 2 thingTitle take title return list ISBNs likely LibraryThing work LibraryThing title link LibraryThing work page 3 thingLang take ISBN return language book use language code MARC record Group Identifiers embed start ISBN format"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "Digital Public Library of America",
+        "id": 9816,
+        "progweb_descr": " Digital Public Library America DPLA design bring together content Americaâ€™s libraries archive museum make freely available online Its goal make write word art historical record science US available widely possible DPLA user search million item catalog save item list share list others DPLA API provide programmatic method access metadata item store DPLA Among information metadata record contain link object location content providerâ€™s website"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "Elsevier Linked Data Repository",
+        "id": 10539,
+        "progweb_descr": " service provide semantically rich descriptive metadata content available Elsevier source across Web It make available catalog resource express Linked Data format suitable use Semantic Web application define relationship among resource complex way meaningful discovery retrieval vary contexts API method support retrieval RDF document describe Elsevier resource well resource outside source related Elseviers material Methods also provide access proprietary thesaurus topic descriptor apply resource catalog within service Thesaurus description include topic identifier prefer label example text date propose well fund body proposing term"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "Copac SALT recommender",
+        "id": 10772,
+        "progweb_descr": " service provide recommendation resource interest user base selection previous user make It link resource generates recommendation base circulation data collect 10 year begin 2001 John Rylands Library University Manchester UK API method support submission query contain identifier resource interest either ISBN local workID value along numerical threshold number user access pair resource Returned data provide link record 40 resource access combination resource interest"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "FreeCite",
+        "id": 10834,
+        "progweb_descr": " service par interpret bibliographic citation submit break separate field author name title year publication publisher descriptive characteristic It power opensource application release MIT license instal locally access web service XML structure generate defines basic metadata resource reference citation multiple citation API method accept one bibliographic citation URL string common bibliographic format Methods return XML identify author title year publication publisher genre page count"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "York University Library",
+        "id": 10835,
+        "progweb_descr": " service provide access number library resource important student A research guide function allow export topicspecific coursespecific resource list target student registration selection program affiliation Additional function provide list library staff expertise topical focus relevant student program detail current status student library account API method support generation RSS feed topicrelated courserelated research resource library staff relevant expertise either match specific student authentication base program list specify request Methods also support access student current library account status information format XML"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "ImpactStory",
+        "id": 10891,
+        "progweb_descr": " service provide number indicator social impact publish work include traditional scholarly paper also blog post casual publication It part movement altmetrics intend indicate affect author publication discipline base statistic like number time work cited author often download saved frequency conversation social medium outlet work Code embed web version work update service statistic work access leading cumulative measure overall popularity potential influence API method begin embedded identifier work namespace publish Methods allow retrieval cumulative influence statistic altmetrics combine data work number track service Methods also support group relate individual work collection track whole"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "OCLC WMS",
+        "id": 11406,
+        "progweb_descr": " OCLC nonprofit computer library service research organization offer WorldShare Management Services WMS suite service allow user manage librarys entire collection management life cycle cloudbased application WMS API suite include functionality work acquisition circulation collection management library material checkout lookup vendor information APIs use RESTful call response available XML JSON Atom"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "OCLC Article Exchange",
+        "id": 11913,
+        "progweb_descr": " OCLC memberowned global library cooperative whose membership aim improve access information hold library worldwide Article Exchange API provide developer access OCLCs document share site member library lend borrow article book chapter interlibrary loan"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "CrossRef DOI Resolver",
+        "id": 13713,
+        "progweb_descr": " CrossRef citation link backbone scholarly information electronic form CrossRef provide DOI Digital Object Identifier resolver service well API service Queries make bibliographic data retrieve DOI DOI provide retrieve associate metadata HTTP GET XML use query response return pipe delimit XSDXML unixref format"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "Cambridge University Library",
+        "id": 13714,
+        "progweb_descr": " Cambridge University Library system library support teach research University Cambridge Library provide suite APIs access interact library catalog online service These APIs include catalogue data ejournal holding information DSpace institutional repository circulation service APIs RESTful return response XML JSON format"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "NCSU Libraries CatalogWS",
+        "id": 13715,
+        "progweb_descr": " NCSU Libraries system libraries support community North Carolina State University NCSU A RESTful API provide give access Libraries catalog Responses return XML RSS OpenSearch format"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "Bookshare",
+        "id": 14463,
+        "progweb_descr": " Bookshare service aim provide book periodical reader print disability blindness learn disability physical disability Bookshare also provide RESTful API developer wish create application around Bookshares service"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "UNLV Library",
+        "id": 14986,
+        "progweb_descr": " official library University Nevada Las Vegas make collection available query via API service include free access collection unique image document refers object List collection object within collection well view information specific object You also access add additional metadata object Retrieve set rating comment tags object No API key require API respond XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Library",
+        "api_name": "OCLC Classify",
+        "id": 14994,
+        "progweb_descr": " OCLC nonprofit computer library service research organization maintain WorldCat global network library content OCLC Classify API experimental classification web service mean aid library classify book document medium You look item ISBN various identifier well search title author"
+    },
+    {
+        "progweb_cat": "Reference,Beer",
+        "api_name": "Brewery DB",
+        "id": 457,
+        "progweb_descr": " BreweryDB fully moderate open library brewery beer around world library update user brewery keep track information location website phone number description logos etc beer keep track style color bitterness availability label Donâ€™t see favorite beer brewery BreweryDB You add via API httpwwwbrewerydbcom"
+    },
+    {
+        "progweb_cat": "Reference,Geography",
+        "api_name": "ipinfo.io",
+        "id": 475,
+        "progweb_descr": " Ipinfoio free IP information web service provide geolocation hostname organization data type ipinfoio API return JSON response contain data field describe specify IP API support JSONP callback provide additional information pay service proxy detection scrap prevention improve geolocation accuracy"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "iFixit",
+        "id": 527,
+        "progweb_descr": " iFixit API provide programmatic access iFixit enable anyone write application utility top repair database iFixit world large collection free photographic repair manual API provide access iFixits repair manual stepbystep guide Device namespace page device area hierarchy It yet provide access part Answers QA database API use RESTful protocol response format JSON JSONP XML Underlying XML schema return via API IEEE 1874 oManual httpwwwomanualorg learn format oManualorg iFixitcom power Dozuki platform httpwwwdozukicom documentation engine visual instruction feature fullblown API implementation"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "Big Huge Thesaurus",
+        "id": 585,
+        "progweb_descr": " Use Big Huge Thesaurus API get synonyms word well antonyms relate term similar term This free English language thesaurus 145000 word No API key require make few 10000 call per day Version 1 simple output version 2 enhance output include part speech relationship submit word"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "Microsoft MSDN",
+        "id": 721,
+        "progweb_descr": " From site MTPS Content Service XML web service provide access content store MTPS This include example content available httpmsdn2microsoftcomlibrary httpmsdn2microsoftcomlibrary Using MTPS Content Service developer integrate documentation technical article whitepapers image content available MTPS system application"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "StrikeIron US Census",
+        "id": 726,
+        "progweb_descr": " StrikeIron US Census Information Web Service instantly retrieve extensive information US Census Bureaus Census 2000 Census 2000 nationwide census 2000 cover 280 million people To use Web service simply enter ZIP city county state District Columbia Puerto Rico receive detail profile Each profile consist four table provide demographic social economic housing characteristic give input data deliver live via XML base Web service directly application platform product Web site"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "Softonic",
+        "id": 818,
+        "progweb_descr": " This service let user embed Softonic content website application Softonic API allow developer around world build application mashups base Softonics content Softonic lead website software download Europe one lead site world catalog 100000 categorized program With API user get information software section program user Softonic API use RESTful protocol response format XML JSON PHP"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "Realtime Register",
+        "id": 1046,
+        "progweb_descr": " Realtime Register registrar build tool solution domain resellers central API Realtime Register merge many different registration rule procedures ensure domain name registration submit exactly way This service access use either HTTP REST EPP Extensible Provisioning Protocol protocol HTTP API automate registration process make minimal change developer website Larger resellers use fully automate system may opt connect directly Realtime Register server EPP API"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "Abbreviations",
+        "id": 1169,
+        "progweb_descr": " Abbrevations API let get abbreviation word example submit word asap service endpoint get As Soon As Possible return response Words category also include response Use parameter customize request category id sort search type mixture Abbrevations API Abbreviationscom"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "Synonyms",
+        "id": 1241,
+        "progweb_descr": " Synonyms API STANDS4 REST service enable get Synonyms Thesaurus Antonyms information XML form give word"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "InfoChimps Datasets",
+        "id": 1344,
+        "progweb_descr": " InfoChimps data platform marketplace share sell data type InfoChimps Datasets API provide access 2000 table data across several category include science government sport music site allow search datasets keyword cost tag Sample API call document along dataset Free datasets access 100000 call per month InfoChimps offer tiered pricing"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "StrikeIron Tax Service",
+        "id": 1632,
+        "progweb_descr": " Simply supply US ZIP Canadian postal code receive general sale use tax rate level state county city MTA SPD This complete version handle multiple tax jurisdiction within single ZIP code county boundary cross ZIP code example also include multiple level tax rate MTA SPD data 4 tax rate field"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "Codepoints",
+        "id": 8886,
+        "progweb_descr": " Codepoints website provide information character define Unicode Standard Unicode currently define 110181 code point map character include basic Latin letter dingbats Egyptian hieroglyph Codepoints site design make easy find give code point offering variety search option If user already character theyre inquire paste search box go directly page Developers access Codepoints data remotely via REST API"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "WSIndex",
+        "id": 9609,
+        "progweb_descr": " WSIndex index link resource relate web service It include links tutorial exist web service relevant blog etc Currently 1600 link index WSIndex provide API allow developer search WSIndexs link programmatically API use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "Sapo Verbetes",
+        "id": 12372,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide Verbetes service allow user perform WhoIs query public personality information use Verbetes collect various news source update hourly service also answer WhoIs query job public personality know API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference",
+        "api_name": "Thirukkural",
+        "id": 12805,
+        "progweb_descr": " Thirukkural simple quote service original Thirukkural collection 1330 Tamil couplet discuss various aspect life service provide Thirukkural native Tamil language English translation API allow user send query fetch kurals base number specify parameter include number kural return It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Guides",
+        "api_name": "RubyGems",
+        "id": 533,
+        "progweb_descr": " RubyGemsorg Ruby community gem host service Developers publish gem install API let user interact site find information available gem Functionality include query create gem host query download stats manage gem owner notification API use RESTful call response format XML JSON YAML"
+    },
+    {
+        "progweb_cat": "Reference,History",
+        "api_name": "Internet Archive",
+        "id": 548,
+        "progweb_descr": " From site Internet Archive 501c3 nonprofit found build Internet library purpose offering permanent access researcher historians scholar historical collection exist digital format Founded 1996 Internet Archive Contribution Engine support advance functionality enable high volume contributor easily less interactively upload import content Archive"
+    },
+    {
+        "progweb_cat": "Reference,History",
+        "api_name": "Exploring Surrey's past",
+        "id": 9956,
+        "progweb_descr": " Exploring Surreyâ€™s Past historical resource Surrey County Southern England site include browsable page people place times well searchable database archival document archeological site museum object Exploring Surreyâ€™s Past API provide developer access siteâ€™s metadata API currently support RSS format response"
+    },
+    {
+        "progweb_cat": "Reference,History",
+        "api_name": "China Historical GIS",
+        "id": 13098,
+        "progweb_descr": " service maintain geographic information database historical information relate placenames China placenames crossreferenced spell variant comprise 250000 record refer 175000 location include 50000 place significant Chinese history Information provide document historical event link place specify API method support query database access search tool CHGIS website Queries specify placenames romanize ASCII string UTF8 encode Chinese character either simplify complex glyph Responses limit particular date range desire"
+    },
+    {
+        "progweb_cat": "Reference,Data",
+        "api_name": "StrikeIron IP Address Lookup",
+        "id": 730,
+        "progweb_descr": " Quick easy access IP address Find IP address name web server"
+    },
+    {
+        "progweb_cat": "Reference,Data",
+        "api_name": "OECD Open Data",
+        "id": 1111,
+        "progweb_descr": " OECD Organization Economic Cooperation Development organization seek help government fight poverty improve prosperity people economic growth stability To end OECD collect analyze statistical data agriculture development aid infant mortality rate crime debt disposable income education gender equality much Open Data API expose OECDs statistic metadata use Open Data Protocol OData SDMXJSON"
+    },
+    {
+        "progweb_cat": "Reference,Data",
+        "api_name": "StrikeIron Mobile ID",
+        "id": 7505,
+        "progweb_descr": " Identify US mobile number quickly easily effectively reach customer prospect New regulation require organization diligent mobile marketing practice StrikeIrons Mobile ID solution give ability improve sale market effort ensure mobile phone number use accurate Mobile ID solution available batch realtime modes This provide ability Clean legacy phone data Instantly detect whether number landline mobile number point data capture"
+    },
+    {
+        "progweb_cat": "Reference,Data",
+        "api_name": "StrikeIron Phone Number Validation",
+        "id": 7520,
+        "progweb_descr": " Save time money ensure customersâ€™ phone number correct StrikeIronâ€™s Phone Number Validation solution You easily integrate cloud base solution website web form business application improve customer contactability 90 This solution verify NPA NXX area code prefix North American Numbering Plan NANP phone number US Canada In addition solution return zip code NPANXX combination exist It also give number phone number ZIP cod We update data least every 30 day ensure provide accurate solution"
+    },
+    {
+        "progweb_cat": "Reference,Data",
+        "api_name": "StrikeIron Geo IP Location",
+        "id": 7521,
+        "progweb_descr": " StrikeIron Geo IP Location Web service allow high precision localization website visitor Web service provide geographic information IP Address range IP Address Owner latitude longitude time zone map represent location give IP Address"
+    },
+    {
+        "progweb_cat": "Reference,Data",
+        "api_name": "StrikeIron Real Time Telephone Verification",
+        "id": 7522,
+        "progweb_descr": " This technology guarantee customer provide work traceable telephone number An automated telephone call place web user tell unique security code user enters code computer complete verification TeleSign authenticate customerâ€™s telephone number effectively ensure â€œbad appleâ€ web user rout ever inflict damage online business"
+    },
+    {
+        "progweb_cat": "Reference,Data",
+        "api_name": "CHAIN-REDS",
+        "id": 7917,
+        "progweb_descr": " CHAINREDS project promote access globally distribute digital resource data service storage tool Users access 22 million open access resource contain within CHAINREDS Knowledge Base Semantic Search Engine These resource cover wide variety subject geology anatomy data science medicine Users may also access Semantic Search Engine use CHAINREDS REST API"
+    },
+    {
+        "progweb_cat": "Reference,Data",
+        "api_name": "CommonDataHub",
+        "id": 11469,
+        "progweb_descr": " CommonDataHub CDH global repository data standard ISO code industry code set CDH aggregate consolidates data set multiple source provide additional attribute need map related code set give user full picture subject area CDH API give user capability retrieve data use application API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Data",
+        "api_name": "Urbanesia",
+        "id": 11513,
+        "progweb_descr": " Urbanesia online Indonesian city lifestyle directory Users find information business place kind well stay date various event take place API allow developer access site data include location data across many category include restaurant tourism place API use RESTful call response JSON"
+    },
+    {
+        "progweb_cat": "Reference,Family",
+        "api_name": "Baby Names",
+        "id": 756,
+        "progweb_descr": " An API baby name statistic Find right baby boy baby girl name Gets data popular baby name country world Program baby name date gender"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "Global Biodiversity Information Facility",
+        "id": 776,
+        "progweb_descr": " Global Biodiversity Information Facility GBIF enable access 7000 datasets 200 data provider part UDDI Registry Get specie data include plant animal fungi microorganisms plus specie occurrence record classification scientific common name Participants GBIF network use toolkit efficiently publish Internet biodiversity data GBIF international group work make world biodiversity data accessible anywhere GBIF office University Copenhagen Denmark Zoological Museum"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "PLoS Search",
+        "id": 847,
+        "progweb_descr": " PLoS nonprofit organization scientist physicians goal making world scientific medical literature freely available public resource PLoS Search API give developer access data PLos archive scientific article integrate application web desktop mobile device It allow PLoS content query use field PLoS Search engine API use JavaScript protocol"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "Springer Metadata",
+        "id": 1311,
+        "progweb_descr": " Springer global scientific publisher scientific book journal Springer Open Access API provide access fulltext content metadata image approximately 80 thousand article open access journal Biomed Central SpringerOpen publishing program Springer APIs provide variety different output format include XML JSON work ONIX"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "U.S. National Library of Medicine ChemSpell",
+        "id": 10038,
+        "progweb_descr": " ChemSpell Web Service API chemical name spell checker synonym lookup provide National Library Medicine When chemical name submittted ChemSpell return list chemical synonym name recognize list alternate spell suggestion This free SOAP API provide XML format response"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "SolarGIS",
+        "id": 10696,
+        "progweb_descr": " SolarGIS geographic information system design meet need solar energy industry It integrate solar resource information meteorological data tool plan monitoring performance solar energy system SolarGIS data cover globe yet cover Canada United States Japan part Australia region SolarGIS try achieve global coverage end 2012 To provide client additional mean access tool data SolarGIS develop Data Delivery PV Planner Calculate APIs Data Delivery API retrieve recent data SolarGIS database calculate electrical output PV photovoltaic system PV Planner Calculate API simulation tool plan optimization PV system"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "IIAP Servicio Glosario",
+        "id": 11162,
+        "progweb_descr": " Instituto de Investigaciones de la AmazonÃ­a Peruana IIAP Research Institute Peruvian Amazon institution scientific research technological development specialize sustainable use biodiversity Amazon region IIAP Servicio Glosario IIAPs glossary service It return contextual definition word relevant IIAPs work This service available SOAP API IIAP website API documentation provide solely Spanish"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "Neil deGrasse Tyson Quotes",
+        "id": 11719,
+        "progweb_descr": " This site provide simple API give user access library Neil deGrasse Tyson quote quote access use RESTful call response format JSON Code also provide embed service onto website"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "NASA Astrophysics Data System",
+        "id": 11906,
+        "progweb_descr": " SAONASA Astrophysics Data System ADS operate Smithsonian Astrophysical Observatory SAO Digital Library portal researcher Astronomy PhysicsThe ADS maintain three bibliographic database contain 96 million record Astronomy Astrophysics Physics arXiv eprints ADS maintains list link relevant resource bibliographic record database These resource include Location fulltext article via DOI andor OpenURL link List work reference original article reference give form either list ADS record link publisherâ€™s reference list List work cite record question citation â€œforward linksâ€ give form list record ADS able successfully identify Readership statistic coreadershipbased user recommendation ADS also maintain archive historical content astronomical publication archive consist 500000 article cover 35 million scan page Each page OCRed searchable ADS fulltext query search form API give user access ADS archive via RESTful call"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "World Bank Climate",
+        "id": 12823,
+        "progweb_descr": " World Bank Climate Change Knowledge Portal offer information report data climate climate change World Bank Climate API allow developer access integrate data Climate Change Knowledge Portal application create new application Some example API method include search return climate data point average temperature rainfalls change average country"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "Thomson Reuters Web of Science",
+        "id": 13359,
+        "progweb_descr": " Web Science cite reference index act tool discovery method retrieve accurate citation count Users trace particular research forward time backward time see work grow develop focused area research use true cite reference index Web Science API let users access data within index Data include record topic title author information service offer ability access format current information enhance institutionâ€™s repository perform automatic real time query multiple record deliver realtime Web Science information multiple institutional application department web page institutional repository API use SOAP protocol response format XML Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "Boliven Publications",
+        "id": 13750,
+        "progweb_descr": " Boliven lead information portal RD IP business development professional 100 million peerreviewed document help identify technology client partner opportunity idea Amongst document Boliven publication include 35000000 reference 5500 publication Crossref NLM Pubmed Publications API let user create custom search Boliven patent database show detail patent document text return This data integated user website application API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "LifeDesks",
+        "id": 13970,
+        "progweb_descr": " LifeDesks online community offer biodiversity taxonomist web platform share work collaborate scientist interact public science community LifeDesks offer API RSS feed access retrieve information LifeDesks platforms include recent image add bibliographic data site statistic site discovery"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "GMOD",
+        "id": 14087,
+        "progweb_descr": " GMOD short Generic Model Organism Database project base create manage genomescale biological database GMOD provide set opensource tool accomplish One tool provide GMOD RESTful API query gene term different biological database FlyBase API currently private beta"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "Brain Maps",
+        "id": 14114,
+        "progweb_descr": " Brain Maps online interactive brain atlas include primate nonprimate brain Brain Maps provide scanned image submicron resolution brain section These image annotate database allow query retrieval data brain structure function Complete brain atlas available certain specie Brain Maps API multiresolution image viewer customizable label overlay It free service available web site free consumer"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "OMA Browser",
+        "id": 14115,
+        "progweb_descr": " OMA Browser webbased interface data OMA project offer comprehensive search numerous display option million protein 1000 specie OMA Browser report different type orthology entry OMA Browser API let integrate orthologs prediction OMA algorithm program web service There SOAP API available Distributed Annotated System DAS API use Ensemble software automatic genomic annotation"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "NextBio",
+        "id": 14308,
+        "progweb_descr": " NextBio developer global discovery platform life science data Research data diverse experiment import integrated public data explore within relevant biological clinical context Researchers mine data realtime NextBio provide set APIs enable organization import analyze export data A RESTful search API let developer integrate NextBio search result application Secure Bulk Import Data use import large amount data NextBio automate manner Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "PlanetLab Central",
+        "id": 14311,
+        "progweb_descr": " PlanetLab group computer available testbed computer networking distribute system research It compose 1090 node 507 site worldwide Each research project slice virtual machine access subset node PlanetLab Central API PLCAPI interface PlanetLab Central database access maintain API use website node automate scripts user access update information user nod site slice entity maintain database It use XMLRPC protocol"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "BioCatalogue",
+        "id": 14382,
+        "progweb_descr": " BioCatalogue registry biological web service BioCatalogue website freely accessible searchable indexable search engine It provide open platform biological web service registration annotation monitor BioCatalogue API provide set public endpoint allow developer query registry programmatically integrate data functionality developer script workflows apps tool mashups BioCatalogue API read write support submission REST SOAP service well annotation"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "CIPRES",
+        "id": 14405,
+        "progweb_descr": " CIPRES project multisite collaboration Phyloinformatics Computational Phylogenetics goal CIPRES project enable largescale phylogenetic reconstruction scale support analyse huge data set contain hundred thousand bio molecular sequence REST API provide web service end user submit job portal programmatically Currently one job submission allow request REST API provide functionality provide browserbased service API use XML return format"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "Basic Local Alignment Search Tool",
+        "id": 14426,
+        "progweb_descr": " API Basic Local Alignment Search Tool BLAST service find region local similarity sequence program compare nucleotide protein sequence sequence databases calculate statistical significance match With RESTful API user submit BLAST job process NCBI"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "Genetics Home Reference",
+        "id": 14429,
+        "progweb_descr": " Genetics Home Reference National Library Medicines web site consumer information genetic condition gene chromosome related condition This API let user link web site Genetics Home Reference Functionality include formulating search request link specific condition gene chromosome page It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "PubChem PUG",
+        "id": 14434,
+        "progweb_descr": " PubChem provide information biological activity small molecule store across three database PubChem also provide fast chemical structure similarity search tool PubChem Power User Gateway PUG provide access PubChem service via programmatic interface API use HTTP post call response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "Biomolecular Interaction Network Database",
+        "id": 14575,
+        "progweb_descr": " Biomolecular Interaction Network Database BIND database design store full description interaction molecular complex pathway BIND data specification available ASN1 XML DTD BIND SOAP web service provide end user ability access functionality offer BIND Search Service remote API This mean users access compute BIND interaction molecular complex pathway data directly within thier application"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "PubMLST",
+        "id": 14576,
+        "progweb_descr": " PubMLST site host publicly accessible Multilocus Sequence Typing MLST databases software It provide mean access database common format suitable easy link importation local resource PubMLST API enable software developer write application query MLST databases directly without use standard web interface It use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "Encyclopedia of Life",
+        "id": 14591,
+        "progweb_descr": " Encyclopedia Life website collect biological data various source Encyclopedia Life also offer API developer access Encyclopedia Lifes data application Example application find API overview page If use API want EOL aware request generate API key make sure add API call Login create EOL account generate API key Preferences page An API Key necessary use API"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "SciVerse Framework and Content",
+        "id": 14784,
+        "progweb_descr": " With SciVerse APIs developer build application appear alongside full text article journal abstract search result within SciVerse Product Suite ScienceDirect Scopus SciVerse Hub SciVerse Applications platform two major component SciVerse Application Framework utilizes Shindig implementation Open Social core Framework APIs render application within browser provide contextual information application include user query preference page view SciVerse Content APIs access content currently available within SciVerse Product Suite APIs use RESTful protocol response format either XML JSON ATOM XML"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "MetriDyne",
+        "id": 14992,
+        "progweb_descr": " MetriDyne database contain realtime measurement accumulate example Sevier River Water Users Association Central Utah use MetriDyne collect disseminate uptotheminute canal river reservoir information MetriDyne API allow authorize party query MetriDyne database data metadata service provide category station sensor interval webcams"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "MetNet",
+        "id": 15450,
+        "progweb_descr": " MetNet software visualize explore statistically analyze model transcriptomics proteomics metabolomics data context grow metabolic regulatory network map Arabidopsis Soybean specie MetNet API program library provide directaccess MetNetDB database It allow software developer interface central repository pathwayrelated data It offer flexible query dataretrieval method Java Rbased application import biological network knowledge"
+    },
+    {
+        "progweb_cat": "Reference,Science",
+        "api_name": "myExperiment",
+        "id": 15764,
+        "progweb_descr": " Use myExperiment API view workflows others publish need reinvent process myExperiment site scientist safely publish workflow share view Workflows digital object Packs swap sort search like Web photo videos myexperimentorg social site appear November 2007 support share Taverna workflows grow lot user typically life science chemists social statistician music professional also use"
+    },
+    {
+        "progweb_cat": "Reference,Audio",
+        "api_name": "SHOUTcast Radio",
+        "id": 824,
+        "progweb_descr": " SHOUTcast maintain directory 32000 online radio station SHOUTcast Radio API empower developer integrate SHOUTcast Radio Directory websites application Internet Audio Devices Search popularity keyword genre bitrate playing"
+    },
+    {
+        "progweb_cat": "Reference,Health",
+        "api_name": "Avvo",
+        "id": 833,
+        "progweb_descr": " Avvo API allow access profile Avvos Lawyer Doctor directory Avvo profile contain helpful information include experience background disciplinary history review patient client Avvo Rating well patient client peer rating system help consumer assess doctor lawyer qualification"
+    },
+    {
+        "progweb_cat": "Reference,Health",
+        "api_name": "Thomson Reuters Pharma",
+        "id": 14715,
+        "progweb_descr": " Thomson Reuters gather data investigational drug provide developer access pharmaceutical research Thomson Reuters Pharma API allow search companys database You filter rank result receive briefing investigational drug Companies use API create dashboard competitive intelligence matrix company make sense pharmaceutical data"
+    },
+    {
+        "progweb_cat": "Reference,Movies",
+        "api_name": "Unofficial IMDb",
+        "id": 850,
+        "progweb_descr": " IMDb API unofficial useful API allow user search view JSON format information IMDb API free use provide good information already know title ID movie API return number piece movie metadata include release year release date MPAA rating movie runtime genre director writer main crew Developers also access movie short plot description imagery useful provide quick snapshot movie information IMDbs rating number vote also expose As unofficial API consider beta worse"
+    },
+    {
+        "progweb_cat": "Reference,Australian",
+        "api_name": "Sensis Business Search",
+        "id": 871,
+        "progweb_descr": " Sensis Business Search API provide business listing Yellow Pages White Pages Australia Third party digital developer entrepreneurs publisher use API add business search functionality websites mobilesites application API provide access fully maintain comprehensive collection Australian local business listing source Yellow Pages White Pages Directories API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Business",
+        "api_name": "Wiki-Data",
+        "id": 873,
+        "progweb_descr": " Provides basic information company corporation business entity include legal name country incorporation primary operational location detail country stateprovinceregion US Canadian Australian entities city Intended facilitate common standard business entity data crowdsourced verification accuracy Free promote interest Avox data service"
+    },
+    {
+        "progweb_cat": "Reference,Business",
+        "api_name": "D&B Direct",
+        "id": 874,
+        "progweb_descr": " DB Direct provide subscription base access DBs database 200M company worldwide DB Direct ondemand cloud access high quality business data enable user seamlessly integrate DB data corporate application enhance quality completeness data within business database provide ondemand business data entire enterprise search teh DB database API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Business",
+        "api_name": "DNV Reference Data Services",
+        "id": 8661,
+        "progweb_descr": " Det Norske Veritas DNV Norwaybased risk management company highrisk global industry They provide kind service include advise assessment certification material test training software development DNV Reference Data Services allow user retrieve ISO 15926 Reference Data This include relationship classification metadata different kind equipment object event relate oil gas production facility This data access RD4 browser retrieve programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Reference,Business",
+        "api_name": "HÃ¡ Greve",
+        "id": 10108,
+        "progweb_descr": " HÃ¡ Greve API provide information regard upcoming current past Portuguese strike It provide startend date company name first last name author strike brief description strike source information gather API HTTP GET protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Business",
+        "api_name": "Data8 Companies House",
+        "id": 11996,
+        "progweb_descr": " Data8 UKs premier data solution provider range data cleanse postcode lookup data validation service ultimately improve way communicate customer Companies House API allow user search company either name address postcode reveal full detail specific company API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Business",
+        "api_name": "Postcode Anywhere Worldwide Business Data",
+        "id": 14621,
+        "progweb_descr": " Postcode Anywhere informationasaservice provider offer 250 separate web service cover broad range business efficiency tool address data capture validation cleanse geocoding map route planning optimization Worldwide Business Data API allow business understand market provide access 140 million business record It cover key contact financial relationship information API use number protocol include REST SOAP XMLRPC Responses format XML JSON CSV HTML PDF"
+    },
+    {
+        "progweb_cat": "Reference,Business",
+        "api_name": "Postcode IT",
+        "id": 15464,
+        "progweb_descr": " Postcode IT web service provide function obtain address postcode To keep method call tidy service make use SoapHeaders Set SoapHeader CustomerId LicenceKey MachineId"
+    },
+    {
+        "progweb_cat": "Reference,Law",
+        "api_name": "Martindale-Hubbell",
+        "id": 887,
+        "progweb_descr": " MartindaleHubbell legal directory contain information law firm bank real estate office well digest collect law state court calendar database contain one million lawyer profile forty thousand plus article topical discussion group forums peertopeer network An API offer allow site access MartindaleHubbell content functionality build deep rich integration Full documentation publicly available developer contact mhdeveloperslexisnexiscom information"
+    },
+    {
+        "progweb_cat": "Reference,Law",
+        "api_name": "CanLII",
+        "id": 9199,
+        "progweb_descr": " CanLII nonprofit organization goal make Canadian law freely accessible online CanLII website provide access court judgment tribunal decision statute regulation Canadian jurisdiction CanLII API freely accessible provide access metadata Canadaâ€™s large current case law legislative collection Use API incorporate legal information understand new application CanLII API readonly follow general REST design base HTTP protocol An API key require"
+    },
+    {
+        "progweb_cat": "Reference,Law",
+        "api_name": "Lawyers.com",
+        "id": 14060,
+        "progweb_descr": " Lawyerscom Consumer Articles API offer access Lawyerscom extensive library legal article These article integrate developer web site At basic account level API provide access descriptive article title along additional attribute section clearly identify content item Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Reference,Time",
+        "api_name": "TimeZoneDb",
+        "id": 893,
+        "progweb_descr": " TimeZoneDb web application display time zone information city globally Data include TimeZoneDb city name country name abbreviation timezone GMT offset TimeZoneDb API allow developer access data TimeZoneDb Example API method include search data TimeZoneDb return data base time zone latitude longitude"
+    },
+    {
+        "progweb_cat": "Reference,Time",
+        "api_name": "Countries and Time Zones",
+        "id": 10909,
+        "progweb_descr": " Countries Time Zones simple API build data country list TimeZoneDB With API user retrieve information include country country code time zone zone API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Demographics",
+        "api_name": "Moonshadow Mobile",
+        "id": 896,
+        "progweb_descr": " Moonshadow Mobile work large database visualize â€œbig dataâ€ map Moonshadow Mobile API provide acces one billion record relate US population Data available include census data 2000 2010 adult population database register voter database API use JavaScript protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Demographics",
+        "api_name": "SERP-P",
+        "id": 12909,
+        "progweb_descr": " service allow search database research result area economic development policy within Philippines Search result cite socioeconomic study many different research institution include government agency academic source Research Philippine Institute Development Studies PIDS highlight All listing provide abstract author focus study geographical coverage availability full text available API method support submission agency return data list publication available source"
+    },
+    {
+        "progweb_cat": "Reference,Demographics",
+        "api_name": "CDYNE Demographics",
+        "id": 15142,
+        "progweb_descr": " Utilize XML Web Service return neighborhoodlevel data point entry batch run user system CDYNE Demographics fullfeatured statistical resource instantaneously return enhanced neighborhoodlevel census data gender ethnicity type residence median income median house value median number vehicle addon database Web sit software application This service easily build sale market even collection account receivable management software CDYNE provide sample development information support aid implementation Demographics This API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Math",
+        "api_name": "Numbers",
+        "id": 938,
+        "progweb_descr": " Numbers API site explore facts number Enter number receive random fact 15 number day 24 cycle Chinese calendar In addition view site Numbers API expect use programmatically Send request API return plain text string Add callback string wrap JSONP callback function In addition simple number fact site also allow developer specify math fact number well date type functionality"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "RestFul Web Services Postal Code",
+        "id": 1004,
+        "progweb_descr": " RestFul Web Services Postal Code API allow user retrieve detail give postal code This service work postal code number country include Australia France Germany India Ireland Japan New Zealand Norway Pakistan South Africa Switzerland United Kingdom This service access use REST SOAP call XML format Calls either protocol direct toward WSDL endpoint"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "UK Postcodes",
+        "id": 1287,
+        "progweb_descr": " UK Postcodes API allow user access site database UK Postcodes provide postcode lookup service Using RESTful API user return data give postcode Responses format XML JSON CSV RDF"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "Pro6PP",
+        "id": 10814,
+        "progweb_descr": " Pro6PP postcode database provide dcentralize Dutch software company A collection SOAPbased call enable user find nearby postcode get autocomplete suggestion place names street suggest new data offering database Services still beta enable reverse geocoding download entire database dcentralize website provide primarily Dutch part available English"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "Pincodr",
+        "id": 10914,
+        "progweb_descr": " Pincodr simple web service locate indian pincodes user allow search pincode area tehsiltaluk district Users also retrieve code name start give value API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "AFD Software Postcode Everywhere",
+        "id": 11018,
+        "progweb_descr": " Postcode Everywhere API provide AFD Software enable developer look address bank information programmatically API call enable user search address base freetext search string field address postcode Additional call provide validate bank account credit card detail look bank detail search bank match certain parameter These service accessible use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "Simply Postcode",
+        "id": 12172,
+        "progweb_descr": " Simply Postcode software find postcode address software use provide postcode look functionality within web checkout sign page Postcodes find use geo data user calculate distance two postcode near store look give postcode Developers access functionality API API available REST SOAP response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "Data8 Movers Identification",
+        "id": 12175,
+        "progweb_descr": " Data8 UKs premier data solution provider range data cleanse postcode lookup data validation service ultimately improve way business communicate customer This API allow user check customer still address move update address API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "Experian Data Quality Address Validation",
+        "id": 12325,
+        "progweb_descr": " Experian Data Quality offer industryleading address validation clean customer record late US Postal Service® USPS address data This SOAPbased Web service simple integrate validates address real time add database API method support submission address data enter user include partial address information Returned data provide full address information standard format reflect local format transparently populate available address field This robust solution append ZIP 4® data prompt miss address detail correct spell format error Experian Data Quality ’ address validation CASS certify international data option available 200 different country Sample code C JSP PHP"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "Intelius Search",
+        "id": 12345,
+        "progweb_descr": " Intelius predictive information commerce company Clients may order background check criminal record assess risk potential relationship Their Search API provide functionality programmatic query database Developers may use apps site provide service similar Intelius API use SOAP WSDL"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "Getpincode",
+        "id": 12768,
+        "progweb_descr": " GetPincode search engine let user find pincodes postal address India Users enter place state name city name etc search engine return pincode India postal address GetPincode also allow user edit pincode information incorrect cite source correct information search engine also list address fall within give pincode address verification purpose GetPincode API allow developer access pincode postal code data Indian address It use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "World Addresses from Allies",
+        "id": 13849,
+        "progweb_descr": " World Addresses address validation data management solution company deal large amount customer mailing data API allow user conduct search lookup address data use number parameter It use RESTful call response format XML JSON Full documentation available upon registration"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "Melissa Data Address Object",
+        "id": 14181,
+        "progweb_descr": " Address Object API allow customer application verify correct standardize US Canadian address API capable verify formatting address append ZIP4 Codes parsing address component piece search address range provide geographic data ZIP Codes It CASS certify USPS Melissa Data create data quality address management solution websites business Their service standardize verify enhance global contact data include Melissa Data create data quality address management solution websites business Their service standardize verify enhance global contact data include address phone number email address"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "Data Science Toolkit",
+        "id": 14704,
+        "progweb_descr": " Data Science Toolkit site offer free collection open data set opensource tool data science suite tool include follow Geodict Text Places IP Address Coordinates Street Address Coordinates Coordinates Politics File Text Text Sentences HTML Text HTML Story Text People APIs use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Addresses",
+        "api_name": "CraftyClicks UK Postal Address Lookup",
+        "id": 15540,
+        "progweb_descr": " Crafty Clicks web service give access Royal Mail Postal Address File PAF allow building postcode lookup function RESTful API take UK post code input return list match address Responses JSONP XML format Java Script wrapper also provide trial free subscription need use live system"
+    },
+    {
+        "progweb_cat": "Reference,Localization",
+        "api_name": "World Weather Online Time Zone",
+        "id": 1128,
+        "progweb_descr": " This helper API World Weather Online use along weather API also sit well Time Zone API return current local time UTC offset hour minute There number way search time zone You use citytown name postal code US UK Canada airport code latitudelongitude even IP address"
+    },
+    {
+        "progweb_cat": "Reference,Localization",
+        "api_name": "iTranslate4.eu",
+        "id": 12135,
+        "progweb_descr": " service provide localization function translate web page document text European language Applications specify source output language comprehensive list choose preferred translation source API method support submission text selection along source language target output language Requests also specify minimum maximum number alternative translation provide give control balance accuracy performance large translation set available Requests also specify knowledge activity domain text selection help target translation relevant area"
+    },
+    {
+        "progweb_cat": "Reference,Localization",
+        "api_name": "World Weather Online City Search",
+        "id": 14984,
+        "progweb_descr": " In addition World Weather Onlines weather API also provide helper APIs sit well City Search API allow developer include city name search application Query API city name receive list potential name match result free version API return three result whereas premium developer receive 50 Any developer optionally search popular city time zone data return restrict number result request one three popular format XML JSON tab delimit"
+    },
+    {
+        "progweb_cat": "Reference,Education",
+        "api_name": "arXiv",
+        "id": 1151,
+        "progweb_descr": " From site Allows access arXiv data search link facility Cornell University eprint arXiv host arXivorg document submission retrieval system use physic mathematics computer science community It become primary mean communicate manuscript current ongoing research arXiv repository available worldwide Manuscripts often submit arXiv publish traditional mean In case may never submit publish elsewhere purpose arXiv API allow programmatic access arXivs eprint content metadata goal interface facilitate new use vast body material arXiv"
+    },
+    {
+        "progweb_cat": "Reference,Education",
+        "api_name": "Indiana University Knowledge Base",
+        "id": 9367,
+        "progweb_descr": " Indiana University Knowledge Base database reference information cover ITrelated topic It design maintain UITS support center provide answer computerrelated question arise among student staff Knowledge Base contain 17000 content file half currently active These access search directly website programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Reference,Education",
+        "api_name": "ASPECT Vocabulary Bank for Education",
+        "id": 14873,
+        "progweb_descr": " ASPECT Vocabulary Bank Education VBE provide browsable searchable web application user locate view download terminology well standardsbased machine machine interface VBE provide range multilingual controlled list relevant learn EU include use validate metadata profile thesaurus use describe educational topic RESTful API allow user interface VBE"
+    },
+    {
+        "progweb_cat": "Reference,Education",
+        "api_name": "Sherpa Romeo",
+        "id": 15336,
+        "progweb_descr": " Sherpa provide openaccess institutional research repository universities Sherpa Romeo API provide access publisher copyright archive policy This service maintain support JISC Wellcome Trust"
+    },
+    {
+        "progweb_cat": "Reference,Education",
+        "api_name": "World Wide Web of Humanities Wayback",
+        "id": 15498,
+        "progweb_descr": " WWWoH project attempt establish possible framework eHumanities also call Digital Humanities research use available open source tool technology archive web content XML API use RESTful interface give user access index generate support Wayback service ie ability browse back time collection"
+    },
+    {
+        "progweb_cat": "Reference,Mapping",
+        "api_name": "Tixik",
+        "id": 1168,
+        "progweb_descr": " Tixikcom API let user retrieve information famous place around world Tixikcom information website interesting place world information supply online map picture useful information experience describe traveller Users find list famous place provide latitude longitude current location Search simply GPS position result GPS place name description image backlink Tixikcom information API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Mapping",
+        "api_name": "Census Reporter",
+        "id": 7688,
+        "progweb_descr": " Census Reporter service access make sense US Census data Information divide category user search information topic keyword Each data point come context show fit large picture state country Census Reporter offer visualization data form map chart Users download save data CSV JSON format format come"
+    },
+    {
+        "progweb_cat": "Reference,Mapping",
+        "api_name": "PostcodePal",
+        "id": 10054,
+        "progweb_descr": " PostcodePal provide geobased datasets Great Britain Northern Ireland Crown Dependencies Guernsey Jersey Isle Man In addition geographic location available data include street towns region PostcodePal API provide developer access customer look incorporate feature address lookups distance calculation website application Up 100 request per day data without street name free require API Key Responses may JSON XML format"
+    },
+    {
+        "progweb_cat": "Reference,Mapping",
+        "api_name": "Bavarian Authorities Signpost",
+        "id": 10857,
+        "progweb_descr": " Bayerischer BehÃ¶rdenwegweiser trans Bavarian Authorities Signpost provide API retrieve information local service live condition authority address contact City Administrations within Bavaria This API use SOAP call issue XML format Bavarian Authorities Signpost website API documentation provide German"
+    },
+    {
+        "progweb_cat": "Reference,Mapping",
+        "api_name": "Sapo POI",
+        "id": 12317,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide POI APIs give developer access database place within Portugal Each place georeferenced detailed information national level APIs filter data either region category They use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Mapping",
+        "api_name": "FraudLabs AreaCodeWorld NPA NXX Area Code",
+        "id": 14744,
+        "progweb_descr": " AreaCodeWorld NPA NXX Area Code Web Service host programmable XML Web Service provide geographical important information North America include United States Canada Caribbean NPA NXX search AreaCodeWorld NPA NXX Area Code Web Service return information state city LATA latitude longitude time zone etc FraudLabs develops market support score system online online credit card transaction API use SOAP protocol response format XML Complete documentation publicly available"
+    },
+    {
+        "progweb_cat": "Reference,Mapping",
+        "api_name": "MSHD.net",
+        "id": 14966,
+        "progweb_descr": " This JavaScript API side project Martin Schibel API use look follow IP address information currency postal code lyric reference type information A full list available site Responses format XML JSON TXT"
+    },
+    {
+        "progweb_cat": "Reference,Mapping",
+        "api_name": "Qualified Address",
+        "id": 15660,
+        "progweb_descr": " From site Verify address website form Great validate shipping address mail product add 4 Codes address enter onto website JavaScript XML Versions available Address verification US Postal Serviceï¿½ USPSï¿½ file AptSuite level Accesses CASScertified software"
+    },
+    {
+        "progweb_cat": "Reference,Photos",
+        "api_name": "World Bank",
+        "id": 1171,
+        "progweb_descr": " Use World Bank API access popular World Bank databases include Little Data Book Worldwide Governance Indicators Doing Business data World Bank Photo Library World Bank API offer 114 indicator key data source 12000 development photo data World Banks operation project You might map information create visualization mash communicate trend pattern"
+    },
+    {
+        "progweb_cat": "Reference,Museums",
+        "api_name": "DigitalNZ",
+        "id": 1228,
+        "progweb_descr": " Find share use New Zealands digital content lead National Library New Zealand Access database metadata come various institution around New Zealand include content government department publicly funded organisation private sector community group"
+    },
+    {
+        "progweb_cat": "Reference,Translation",
+        "api_name": "Thesaurus",
+        "id": 1255,
+        "progweb_descr": " Thesaurus web service provide search capability synonyms different language Thesaurus use remote application retrieve list synonym follow language italian english french deutsch español"
+    },
+    {
+        "progweb_cat": "Reference,Translation",
+        "api_name": "Language Studio Asia Online",
+        "id": 11376,
+        "progweb_descr": " service provide synchronous asynchronous translation submit text sample either via machine algorithm human translator It include function integrate translation service comparison selection best result In addition direct document translation service facilitate machinetomachine exchange multilingual interaction across system API method support submission translation order text passage include referenced via URL TMX file plain text file A request also give input language desire output language request schedule Methods return machine translation directly initiate human translation workflow Methods also support status summary check determine point process specific request reach"
+    },
+    {
+        "progweb_cat": "Reference,Translation",
+        "api_name": "Translated.net",
+        "id": 11695,
+        "progweb_descr": " service provide job submission track tool professional translation text submit return new version prefer language workflow manager help expedite track order administrative function include consolidated monthly invoice API method support submission request quotation specify word count text passage translate original language language translation API return price Euro delivery date request human translation Methods also allow confirmation job retrieval complete translation request machine translation Administrative method allow query job status outstanding account balance relate information"
+    },
+    {
+        "progweb_cat": "Reference,Translation",
+        "api_name": "DigitalClassicist G-Tool",
+        "id": 12778,
+        "progweb_descr": " service accepts Greek character string return transliterate Latin string Specified rulesets configure character translation account variation location time period source material API method accept Unicode character string Greek alphabet along ruleset designation control transformation apply output preference designation Returned data provide Latin equivalent submit string transform accord specify rulesets"
+    },
+    {
+        "progweb_cat": "Reference,Barcodes",
+        "api_name": "Amazonca",
+        "id": 1357,
+        "progweb_descr": " Amazoncacom provide user online access barcode database maintain Users give method locate product provide product information use barcode website enable user search item use barcodes API give user functionality search comment image API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Cycling",
+        "api_name": "Barcelona Bicing",
+        "id": 1358,
+        "progweb_descr": " This application task extract information website doesnt offer easy extraction data method offer data easy read method third party application example read data Bicing station share byke service Barcelona Google Maps power website offer data XML JSON Serialized Java project bear task extract data Bicing grown city"
+    },
+    {
+        "progweb_cat": "Reference,Extraction",
+        "api_name": "DBpedia Spotlight",
+        "id": 1372,
+        "progweb_descr": " DBpedia web tool build extract structure information Wikipedia convert RDF make freely available Web In nutshell DBpedia Semantic Web mirror Wikipedia DBpedia Spotlight API RESTful API tool annotate mention DBpedia resource text provide solution link unstructured information source Linked Open Data cloud DBpedia Spotlight performs name entity extraction include entity detection Name Resolution At time DBpedia Spotlight API free require sign registration use"
+    },
+    {
+        "progweb_cat": "Reference,eCommerce",
+        "api_name": "StrikeIron Reverse Phone and Address Append",
+        "id": 1633,
+        "progweb_descr": " Improve employee productivity customer experience marketing campaign StrikeIron Phone Address Append Solutions solution prepopulate customer contact information name address phone number They even enhance CRM database demographic lifestyle information end result quick actionable data customer Basic Solution reverse append consumer business landline phone address Advanced version handle mobile VoIP eg Vonage Time Warner Cable Comcast etc phone number"
+    },
+    {
+        "progweb_cat": "Reference,eCommerce",
+        "api_name": "StrikeIron Canada Geocode Information",
+        "id": 7506,
+        "progweb_descr": " Pinpoint exact location customer prospect competitor geocode data Canada Address Geocode Information Web Service use geocode technology DataFlux provide powerful enhancement solution transforms ordinary address robust information support improve logistics refined demographic reporting"
+    },
+    {
+        "progweb_cat": "Reference,eCommerce",
+        "api_name": "StrikeIron US Geocode Information",
+        "id": 7507,
+        "progweb_descr": " Pinpoint exact location customer prospect competitor geocode data US Address Geocode Information Web Service use geocode technology DataFlux provide powerful enhancement solution transforms ordinary address robust information support improve logistics refined demographic reporting"
+    },
+    {
+        "progweb_cat": "Reference,eCommerce",
+        "api_name": "IPInfoDB Fraud Detection",
+        "id": 15274,
+        "progweb_descr": " Fraud detection system ecommerce site calculate distance ship location IP location purpose API online fraud detection prevention It compare transaction ship bill information IP geolocation data country Responses XML format"
+    },
+    {
+        "progweb_cat": "Reference,eCommerce",
+        "api_name": "StrikeIron Sales Tax Calculation",
+        "id": 15863,
+        "progweb_descr": " Improve time cost efficiency automate sale use tax calculation StrikeIronâ€™s three sale tax solution deliver reliable scalable cloud platform IronCloud Since operate cloud sale tax solution easily integrate website web form ecommerce shop cart These solution automate tax base delivery address productservice category Each solution update monthly basis uptodate tax rule Results extremely accurate obtain realtime This mean fast easy access current rate taxability rule US Canadian jurisdiction"
+    },
+    {
+        "progweb_cat": "Reference,Medicine",
+        "api_name": "Springer Meta",
+        "id": 1880,
+        "progweb_descr": " Springer Meta API allow user retrieve metadata online It provide new versioned metadata 10 million document include journal article book chapter protocols Springer global scientific technical medical portfolio provide researcher academia scientific institution corporate RD department quality content innovative information product service"
+    },
+    {
+        "progweb_cat": "Reference,Medicine",
+        "api_name": "Springer Open Access",
+        "id": 1881,
+        "progweb_descr": " Springer Open Access API provide metadata fulltext content image 370000 open access article BioMed Central SpringerOpen journal Springer global scientific technical medical portfolio provide researcher academia scientific institution corporate RD department quality content innovative information product service"
+    },
+    {
+        "progweb_cat": "Reference,Artificial Intelligence",
+        "api_name": "Ozlo",
+        "id": 2095,
+        "progweb_descr": " Ozlo REST API allow developer access integrate functionality Ozlo application create new application API allow search retrieve find related artifact manage conversation Public documentation available API access come account service Ozlo knowledge platform allow intelligent management data knowledge message search bot answer"
+    },
+    {
+        "progweb_cat": "Reference,African",
+        "api_name": "VC4Africa",
+        "id": 4680,
+        "progweb_descr": " VC4Africa API VC4A expose data via RESTful API service This allow developer interact programmatic way VC4A platform data VC4A Venture Capital Africa platform startup funding large online community entrepreneurs investor dedicate build game change company continent"
+    },
+    {
+        "progweb_cat": "Reference,Media",
+        "api_name": "OMDb",
+        "id": 5026,
+        "progweb_descr": " Use OMDb Open Movie Database API search data IMDb Internet Movie Database API use HTTP method return data either JSON XML Use OMDb API search movie title IMDb identifier date release season episode API also retrieve plot information Rotten Tomatoes rating Developers note API currently Beta See API documentation full method description example instance"
+    },
+    {
+        "progweb_cat": "Reference,Cloud",
+        "api_name": "Amazon WorkSpaces",
+        "id": 5546,
+        "progweb_descr": " Amazon WorkSpaces API one Amazon Web Services many tool developer use This API aid create describe reboot rebuild terminate workspace There several data type action use Amazon Workspaces API Developer Guide provide information developer need utilize feature Amazon Web Services"
+    },
+    {
+        "progweb_cat": "Reference,Application Development",
+        "api_name": "GitHub Git References",
+        "id": 5858,
+        "progweb_descr": " GitHub Git References API allow developer integrate Git reference feature application enable functionality ie get create update delete reference This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Reference,Application Development",
+        "api_name": "ClojureDocs",
+        "id": 10426,
+        "progweb_descr": " ClojureDocs communitypowered documentation example repository Clojure programming language ClojureDocs provide simple API develop application tool integrate content function This RESTful API provide programmatic method look example comment search function name retrieve list exist Clojure version"
+    },
+    {
+        "progweb_cat": "Reference,Application Development",
+        "api_name": "Peachpit Visual QuickStart Guides",
+        "id": 11737,
+        "progweb_descr": " With 12 million copy print Visual QuickStart Guides vital part computer book category year establish trust resource creative people Itâ€™s easy get running time bestselling quickreference guide master new application technology Visual QuickStart Guides contain concise stepbystep explanation core tool task plenty helpful screen shot keep student professional track work"
+    },
+    {
+        "progweb_cat": "Reference,Application Development",
+        "api_name": "RegExLib",
+        "id": 11845,
+        "progweb_descr": " RegExLib library regular expression It contain 3400 expression 2000 contributor around world Users may search library expression perform particular task may contribute new expression theyâ€™ve figure RegExLib API allow user retrieve list regular expression retrieve information specific expression API also allow user search regular expression match give query term RegExLib API operate via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "Reference,Application Development",
+        "api_name": "MTPS Content Service",
+        "id": 11977,
+        "progweb_descr": " MSDNTechNet Publishing System MTPS Content Service provide access content store MTPS This include example content available MSDN Library MTPS Content Service API allow developer integrate documentation technical article whitepapers image resource application use SOAP call"
+    },
+    {
+        "progweb_cat": "Reference,Application Development",
+        "api_name": "Clodoc",
+        "id": 13060,
+        "progweb_descr": " Clodoc online documentation source browser Clojure help user start understand program language API allow user retrieve documentation collection base specified parameter API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Application Development",
+        "api_name": "Python Package Index",
+        "id": 13635,
+        "progweb_descr": " PyPI API allow user interoperate Python Package Index publiclyavailable repository software Python programming language Over 18000 code package store Package Index Both XMLRPC JSON version API available"
+    },
+    {
+        "progweb_cat": "Reference,England",
+        "api_name": "The Keep",
+        "id": 7209,
+        "progweb_descr": " East Sussex County Council local government East Sussex set rural entity South London county feature Keep global center keep archive date In document site Keep API show clear guide developer interested create database collection archive Easy use clear flexible main benefit open search API use Apache Lucene Query Parser Syntax Keep API feature license Creative Commons Attribution NonCommercial 20 UK England Wales indicate developer ask provide credit mashup Keep also invite developer use API commercial use agreement licensing term Examples provide collection base OpenSearch API response Email contact Twitter social collaboration available"
+    },
+    {
+        "progweb_cat": "Reference,England",
+        "api_name": "RegCheck.org.uk",
+        "id": 8863,
+        "progweb_descr": " RegCheckorguk project software developer Open Merchant Account Ltd offer suite apps support lookup UK Irish vehicle registration plate number RegCheckorguk API allow developer integrate siteâ€™s registration lookup websites application This SOAP API provide access follow data ABI code description registration year manufacture date range makemodel current value body style engine size number door transmission fuel type makemodel description immobilizer number seat indicative value side steer wheel"
+    },
+    {
+        "progweb_cat": "Reference,England",
+        "api_name": "Archives Hub",
+        "id": 10411,
+        "progweb_descr": " Archives Hub provide gateway thousand UKâ€™s archive Archives Hub enable user search across archive hold 220 institution across UK Archives Hub use find unique often littleknown source support research API use SRU protocol search Archives Hub description archive hold across UK"
+    },
+    {
+        "progweb_cat": "Reference,England",
+        "api_name": "AHDS Identifier Resolver",
+        "id": 14350,
+        "progweb_descr": " Arts Humanities Data Service AHDS UK national service strives collect preserve promote electronic resource result research teaching art humanities An API provide resolve alternative form AHDS persistent identifier retrieve result resource resolver rule fully configurable eas future migration path identifier syntax data resource storage substrates API available REST SOAP XMLRPC service response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Verification",
+        "api_name": "StrikeIron Contact Record Verification Suite",
+        "id": 7504,
+        "progweb_descr": " Validate verify correct enhance customer contact information realtime Contact Record verification Suite suite provide instant access email address mail address phone number end result cost timeefficiency organization"
+    },
+    {
+        "progweb_cat": "Reference,Art",
+        "api_name": "Gateway To Research",
+        "id": 7510,
+        "progweb_descr": " Gateway To Research allow user discover view information people publication organization result research project sponsor Research Councils UK This organization invest research across academic discipline include medicine astronomy physic economics environmental science arts Developers access research information use GtR GtR2 CERIF APIs"
+    },
+    {
+        "progweb_cat": "Reference,Countries",
+        "api_name": "REST Countries",
+        "id": 8263,
+        "progweb_descr": " REST Countries provide simple API get information world nation via REST call These call allow user retrieve available country retrieve give countrys currency capital city call code region subregion ISO 6391 language name country code"
+    },
+    {
+        "progweb_cat": "Reference,Database",
+        "api_name": "CEPALSTAT",
+        "id": 8307,
+        "progweb_descr": " CEPALSTAT provide gateway statistical information Latin America Caribbean country collect systematized publish Economic Commission Latin America Caribbean ECLAC Use CEPALSTAT database export data crosstabulate indicator produce table combine data different series country time period CEPALSTAT offer RESTful API programmatic access 1000 indicator Responses return XML document To use CEPALSTAT API must register application developer"
+    },
+    {
+        "progweb_cat": "Reference,Database",
+        "api_name": "Nomisma",
+        "id": 8941,
+        "progweb_descr": " Nomisma collaborative project provide stable digital representation numismatic concept entity accord principle Linked Open Data representation take form http URIs provide access reusable information concept well link resource Nomisma offer several REST APIs developers They include Average Axis Average Diameter Average Weight Closing Date Get Label Get RDF Get NUDS Response data format XML"
+    },
+    {
+        "progweb_cat": "Reference,Database",
+        "api_name": "Trends Top",
+        "id": 9096,
+        "progweb_descr": " Trends Top online work tool communication platform company information Use advance web tool financial analysis target prospection geomarketing Data company address phone fax email website date establishment importexport country detail sector analysis base region rating overall health indicator provide 350000 Belgian company Trends Top offer RESTful API allow developer integrate Trends Top data exist application API return XML JSON A developer key require"
+    },
+    {
+        "progweb_cat": "Reference,Database",
+        "api_name": "Data.be",
+        "id": 9120,
+        "progweb_descr": " Databe offer Belgian business information official company record Search database name VAT number information 700000 company 2 million publication use alert service receive email notification change company information customer prospect supplier Databe offer simple REST API Belgian business information API method include VAT validity company status company info geographic search An API key require"
+    },
+    {
+        "progweb_cat": "Reference,Database",
+        "api_name": "Obituarydata.com",
+        "id": 9496,
+        "progweb_descr": " ObituaryDatacom complete current digitize archive obituary data Data source include online newspaper funeral home direct submission ObituaryDatacom also license subscriber Social Security Death Index archive entire database ObituaryDatacom API provide developer access obituary database Exposed data field include first last name city state date keywords Responses XML format"
+    },
+    {
+        "progweb_cat": "Reference,Database",
+        "api_name": "PRONOM",
+        "id": 10588,
+        "progweb_descr": " PRONOM online registry technical information useful accession longterm preservation electronic record This include authoritative information software product support lifecycles technical requirement file format support Originally use solely National Archives PRONOM available resource anyone require access type information PRONOM API provide programmatic method retrieve PRONOMs information resource This API use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Reference,Database",
+        "api_name": "OMG",
+        "id": 10725,
+        "progweb_descr": " OMG Object Management Group international openmembership consortium develop maintain computer industry standard specification Their website host extensive list specification many access programmatically use SOAP call OMG use international communitydriven process define requirement develop specification This process involve endusers vendor academic government agency Specifications make available commercially hop gain support wide swath industry become de facto standard OMGs relationships national international accredit standard body mean many standard become officially recognize"
+    },
+    {
+        "progweb_cat": "Reference,German",
+        "api_name": "GENESIS-Online",
+        "id": 8456,
+        "progweb_descr": " GENESISOnline database provide Federal Statistical Office Germany Destatis It provide webbased access GENESIS contain statistical information traffic tax tourism topic important govern body GENESISOnline API allow user retrieve download data database Registered user use service integrate database information application service Although website available English German much statistical information available German"
+    },
+    {
+        "progweb_cat": "Reference,German",
+        "api_name": "BBAW Places",
+        "id": 10148,
+        "progweb_descr": " service analyze text submit identify place name within region Germany know Prussia It interpret text name accord usage 19th century record gazaetteer resource compile provider research project It help analysis text relevant period specific region API method accept submission sample text encode Unicode return place name recognize along location within submit text Methods allow format output xml json plain text"
+    },
+    {
+        "progweb_cat": "Reference,German",
+        "api_name": "BBAW ISO-Date",
+        "id": 10149,
+        "progweb_descr": " service analyze sample text German Italian detects time date reference After recognize datetime reference reformats per ISO standard API method allow submission text passage encode Unicode along source language URL parameter Methods identify datetime reference return ISOformatted value plain text wrap XML JSON format"
+    },
+    {
+        "progweb_cat": "Reference,German",
+        "api_name": "BankLZ",
+        "id": 14738,
+        "progweb_descr": " banklz API lookup service German bankcodes It use RESTful protocol response format XML JSON site contain documentation"
+    },
+    {
+        "progweb_cat": "Reference,Shipping",
+        "api_name": "Findaport",
+        "id": 8476,
+        "progweb_descr": " Findaport web service provide access Shipping Guides Limitedâ€™s comprehensive information port harbor cargo terminal tanker facility worldwide Findaport API provide developer access siteâ€™s data Data describing port available 70 heading Additionally API able return plan photos Reports Actual Conditions Experienced"
+    },
+    {
+        "progweb_cat": "Reference,Medical",
+        "api_name": "becas",
+        "id": 8671,
+        "progweb_descr": " Becas web application widget API biomedical concept identification An ongoing research project develop University Aveiro Bioinformatics group becas help researcher healthcare professional developer identification 1200000 biomedical concept text PubMed abstract becas API allow integration third party application becas Use API programmatically annotate text PubMed abstract biomedical concept API RESTful return result JSON XML A1 CoNLL"
+    },
+    {
+        "progweb_cat": "Reference,Auto",
+        "api_name": "CGI Autoplus",
+        "id": 8727,
+        "progweb_descr": " CGI business information technology company One service provide Autoplus database Canadian automobile policy claim information Its record span 15 year include 40 million policy record 30 million claim This information access use driver license policy number Reports obtain different level detail range Autoplus Classic Autoplus Platinum Users may access CGI Autoplus use internet web service API hosthost connection"
+    },
+    {
+        "progweb_cat": "Reference,Auto",
+        "api_name": "NADA",
+        "id": 12543,
+        "progweb_descr": " National Automobile Dealers Association NADA Values service complete source information use vehicle NADA Values provide weekly auction value monthly tradein loan retail value use vehicle commercial truck API let developer access NADA Values realtime integrate thier application Data access include auction value trade value loan value retail value look vehicle VIN makemodel API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Reference,Auto",
+        "api_name": "CarQuery",
+        "id": 13834,
+        "progweb_descr": " CarQuery API provide general automobile information include year make model trim specification CarQuery currently provide data 49 thousand vehicle produce 1941 2012 151 manufacturer grow CarQuery API JavaScript return response JSON CSV file available download"
+    },
+    {
+        "progweb_cat": "Reference,Auto",
+        "api_name": "AutoAppMart",
+        "id": 14888,
+        "progweb_descr": " AutoAppMart marketplace incar application use audiovideo GPS Many application list AutoAppMart design safely use drive use touch voice technology increase ease use distract driver AutoAppMart API provide mean developer include content marketplace application API provide access total number application application category download file particular application user purchase"
+    },
+    {
+        "progweb_cat": "Reference,Auto",
+        "api_name": "CarJam",
+        "id": 15798,
+        "progweb_descr": " Use CarJam API submit license plate VIN data get vehicle fact history check vehicle New Zealand CarJam New Zealand market help motorist get car fact buy selling"
+    },
+    {
+        "progweb_cat": "Reference,Government",
+        "api_name": "Engage",
+        "id": 8873,
+        "progweb_descr": " Engage open government data resource researcher citizens across Europe ENGAGE platform use submit acquire search public sector datasets country European Union Engage offer Search Publish APIs allow third party automatically retrieve datasets automate dataset publication ENGAGE portal Both REST APIs data format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Government",
+        "api_name": "State Library of New South Wales",
+        "id": 10631,
+        "progweb_descr": " State Library New South Wales NSW one Australiaâ€™s lead library It provide access information resource onsite online State Library support NSW Public Library Network administer annual public library grant subsidy program State Librarys API lack public documentation function suggest use site maintenance fundraise These function available use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Reference,Solar",
+        "api_name": "SolarPlots",
+        "id": 9055,
+        "progweb_descr": " SolarPlots service provide plots sun position time location United States part Canada Mexico These calculation approximate intend engineering navigation scientific application Times use retrieve information SolarPlots give term one time zone use low 48 state factor Daylight Savings Time Sun plot data retrieve use SolarPlots SOAP API"
+    },
+    {
+        "progweb_cat": "Reference,Nordic",
+        "api_name": "LER",
+        "id": 9158,
+        "progweb_descr": " Danish Register Underground Cable Owners LER organization task prevent accidental damage underground utility cable To end maintain registry utility cable owner give area Any company individual plan dig legally oblige submit information request LER In return receive receipt show dig area list utility owner cable area LER API allow user submit request retrieve information receipt programmatically LER website provide entirely Danish except one informational page give English"
+    },
+    {
+        "progweb_cat": "Reference,Nordic",
+        "api_name": "ONKI Ontology and Thesaurus",
+        "id": 13080,
+        "progweb_descr": " service compiles concept ontology vocabulary thesauri Finnish international source aid costeffective publishing Semantic Web Such reference resource enable implementation conceptual model verbal taxonomy within domain Machineprocessable statement relation concept allow application present data multiple source appropriate semantic context user understand API method support retrieval ontology listing match search query term provide hierarchy concept include term others relate semantically Methods allow retrieval related term term similar narrow meaning term similar broad meaning group interrelate term"
+    },
+    {
+        "progweb_cat": "Reference,Collaboration",
+        "api_name": "Karmadata",
+        "id": 9308,
+        "progweb_descr": " Karmadata collaborative information service platform platform retrieve process data private public source karmadata API provide developer access standardize link data set specific industry include Energy Healthcare Legal Technology Socioeconomics API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Metadata",
+        "api_name": "Cambridge Journals Online",
+        "id": 9328,
+        "progweb_descr": " Cambridge University Press publish 300 peerreviewed academic journal cover research across range subject area In addition journal Cambridge Journals Online also keep metadata supplementary material like video image datasets RESTful API give developer access data use third party application"
+    },
+    {
+        "progweb_cat": "Reference,Metadata",
+        "api_name": "DCMI Metadata Registry",
+        "id": 9611,
+        "progweb_descr": " Dublin Core Metadata Initiatives DCMI Metadata Registry host National Library New Zealand design promote wider adoption standardization interoperability metadata across diverse discipline community It facilitate discovery reuse metadata term DCMI Metadata Registrys service accessible directly web interface programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Reference,Metadata",
+        "api_name": "Semantics3 Pull",
+        "id": 11111,
+        "progweb_descr": " Semantics3 Pull API allow user pull product metadata include purchase URLs price UPCs image product name Each product support 50 metadata file metadata available 70 million product 10 billion product offer data Semantics3s database constantly refresh information current uptodate"
+    },
+    {
+        "progweb_cat": "Reference,Metadata",
+        "api_name": "SKOS Thesaurus",
+        "id": 12436,
+        "progweb_descr": " SKOS Simple Knowledge Organization System Thesaurus API provide Oak Ridge National Laboratory tool organize knowledge concept relationships Users provide concept retrieve concept relate This API access via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "Reference,Compliance",
+        "api_name": "Aqua.io",
+        "id": 9709,
+        "progweb_descr": " Aquaio help people comply HIPAA Health Insurance Portability Accountability Act act establish national standard electronic health care transaction well identifier provider health insurance plan employer Aquaio allow user retrieve name explanation standardize identification code It also provide Wikipedia link ICD cod twoway ICD910 equivalency mapping Developers access Aquaio feature programmatically via REST call response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Backend",
+        "api_name": "Lasso 9 Reference Library",
+        "id": 9740,
+        "progweb_descr": " Lasso development platform design support custom datadriven websites bridge gap popular web server data source various communication tool protocols Lasso downloadable software available MacOS X Windows Linux operate systemsâ€¨â€¨ content reference library Lasso 9 available online access programmatically use REST call retrieve information JSON format This allow information Lasso 9 Reference Library use application"
+    },
+    {
+        "progweb_cat": "Reference,Currency",
+        "api_name": "Styfee",
+        "id": 9765,
+        "progweb_descr": " Styfee webservice provide internalization localization i18nL10n service So far include reference service languages currency timezones country date measurement conversion This information retrieve programmatically via REST call Styfee interest work exchange rate time"
+    },
+    {
+        "progweb_cat": "Reference,Writing",
+        "api_name": "The Society of Authors Member Search",
+        "id": 9837,
+        "progweb_descr": " Society Authors base UK serve interest professional writer century Today 9000 member associate work novelist textbook writer illustrator ghost writer translator Authors become eligible join soon offer contract One sit service Member Search allow visitor search writer translator part Society This service also available programmatically SOAPbased API"
+    },
+    {
+        "progweb_cat": "Reference,Tools",
+        "api_name": "Ripe Development",
+        "id": 9890,
+        "progweb_descr": " Ripe Development company provide consult service webbased application Two application provide freely website Local Time API return local time give zip code Zip Code Information API retrieve information give zip code include area code time zone city state Both service access directly website programmatically use XMLformatted SOAP call"
+    },
+    {
+        "progweb_cat": "Reference,Semantics",
+        "api_name": "TextRazor",
+        "id": 10004,
+        "progweb_descr": " service provide analysis select text passage identify name entity statement fact disambiguation distinguish similar text string It apply machine learn algorithms natural language processing connect text sample knowledge base identify know element relationship API method support submission text sample parse Methods identify text string associate know name entity detail relationship dependency type Methods also identify synonyms identify term topic theme reference text sample"
+    },
+    {
+        "progweb_cat": "Reference,Semantics",
+        "api_name": "BBAS Personal Data Repository",
+        "id": 10992,
+        "progweb_descr": " personal data repository project BerlinBrandenburg Academy Sciences goal project build digital infrastructure scientific biographical information A suite web service available assist semantic enrichment personal data place name date identifier service include one query repository one recognize place name within text one recognizing date within text another transliteration string Greek Latin alphabet one finding common identifier people APIs use HTTP call response XML JSON text site documentation German"
+    },
+    {
+        "progweb_cat": "Reference,Semantics",
+        "api_name": "ISOcat",
+        "id": 11371,
+        "progweb_descr": " ISOcat data category registry DCR define widely accept linguistic concept ISOcat also know TC 37 DCR maintain Max Planck Institute Psycholinguistics TC 37 technical committee within International Organization Standardization ISO prepare standard document concern methodology principle terminology language resource content ISOcat registry accessible programmatically use REST call issue XML format"
+    },
+    {
+        "progweb_cat": "Reference,Semantics",
+        "api_name": "Attempto RACE",
+        "id": 11915,
+        "progweb_descr": " service add reason function provider research tool Attempto Controlled English ACE ACE control natural language structure statement English language way attempt unambiguously represent knowledge It define precise text expression base usage specific topic domain remove inconsistency variance due interpretation RACE service expose texts logical analysis verify true reason base API method support submission textbased axiom theorem along specification analysis check consistency whether statement contract statement prove assertion base submitted condition answer query state request"
+    },
+    {
+        "progweb_cat": "Reference,Semantics",
+        "api_name": "Sem4Tags",
+        "id": 12136,
+        "progweb_descr": " service provide indication intend meaning word apply subject tag across language specific consideration context interpret term Userapplied tag develop folksonomy describe subject tag resource difference language expect use user complicate interpretation service attempt resolve ambiguity mean place tag context topically related resource API method support disambiguation submit term mean link specific Wikipedia article base additional term add request indicate context Methods also support directly populate repository disambiguate term rather interpret context"
+    },
+    {
+        "progweb_cat": "Reference,Semantics",
+        "api_name": "Sapo Semantic Lists",
+        "id": 12274,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide SemanticLists service contains list word organize semantic category Example category include nationality organization job word list Portuguese time API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Semantics",
+        "api_name": "Enrycher",
+        "id": 12726,
+        "progweb_descr": " service provide text analysis process two level Shallow text processing review sample detect topic keyword coverage extract name entity include people place organization numerical entity like percentage amount money Deep text processing attempt resolve name entity detect standard source link datasets include DBpedia also merge reference identical name entity disambiguate word sense perform complex semantic processing API method support identification name entity within sample text merging separate reference specific entity Methods also detect match entity within standard repository disambiguation reference different entity categorization export RDF format"
+    },
+    {
+        "progweb_cat": "Reference,Semantics",
+        "api_name": "Cyc",
+        "id": 15362,
+        "progweb_descr": " This API provide access Cyc Knowledge Base OpenCyc open source version Cyc technology general knowledgebase commonsense reason engine OpenCyc include Cyc ontology contains hundred thousand term plus million assertion relate term form upper ontology whose domain human consensus reality Using API programmer build OpenCyc app little familiarity CycL OpenCyc KB You might use API create apps access knowledge base browse edit inference"
+    },
+    {
+        "progweb_cat": "Reference,Animation",
+        "api_name": "Anime News Network Encylopedia",
+        "id": 10784,
+        "progweb_descr": " Anime News Network ANN news hub information concern magna anime Founded 1998 one large online English hub thing anime magna Content include forum video encyclopedia news feed press release API allow access ANN encyclopedia two way basic report detail result You build basic database third party app use Reports portion include complete information use Details part API also include ability batch result cache encouraged Returns API format XML You must reference ANN public website utilizes API"
+    },
+    {
+        "progweb_cat": "Reference,Advertising",
+        "api_name": "Pulsepoint Real-Time Classifier",
+        "id": 10899,
+        "progweb_descr": " service provide categorization information web content page level It represent topical context content locate specific URL website goal link ad relevant content increase exposure user show interest topic By target contextual classification page level service seek help advertiser identify individual page interest prospective customer rather choose overall website may cover range topic API method support submission page URL classify API return content parameter include length time load along five contextual channel content fit best advertiser interested channel decide specific page target promotional messaging"
+    },
+    {
+        "progweb_cat": "Reference,Documents",
+        "api_name": "Fietstas",
+        "id": 11217,
+        "progweb_descr": " service provide text processing extract document content conduct semantic analysis identify word cloud language use identify name entity NEs mention apply automatic annotation analysis algorithm incorporate feedback time improve result system output XSLT stylesheets allow control visualization analytical output API method support document upload either plain text request document file along update delete function manage exist document Methods also support analysis break document text word specific name entity either within single document across document set API generate word cloud apply rule stop word omit form cloud output stem combine variant single word form"
+    },
+    {
+        "progweb_cat": "Reference,Documents",
+        "api_name": "iCyte",
+        "id": 14447,
+        "progweb_descr": " iCyte service allow user save website PDFs document item access anywhere Additionally iCyte allow user annotate collaborate resource iCyte API provide way developer access user project note iCyte This API readonly"
+    },
+    {
+        "progweb_cat": "Reference,Japanese",
+        "api_name": "Bearmini Public Holiday",
+        "id": 11322,
+        "progweb_descr": " Bearmini Public Holiday web service provide information holiday Japan It use determine whether specify date holiday get English Japanese name specify holiday get date names holiday give month get date names holiday give year These service accessible programmatically use SOAP call XML format"
+    },
+    {
+        "progweb_cat": "Reference,Merchants",
+        "api_name": "MasterCard Merchant Identifier",
+        "id": 11431,
+        "progweb_descr": " Merchant Identifier tool provide rich merchant data base merchant ’ name provide acquirer It include recognizable merchant descriptor location information include merchant DBA name Merchant Category Code MCC street address city state postal code country sale channel instance query “ CAFETERIA 30020523 ” descriptor find cardholder statement produce Merchant Category 5814 FAST FOOD RESTAURANTS Merchant DBA Name CAFETERIA 30020523 Street 11100 EUCLID AVE City CLEVELAND State OH Postal Code 44106 Country USA UNITED STATES Sales Channels Brick 100"
+    },
+    {
+        "progweb_cat": "Reference,Contacts",
+        "api_name": "Cambridge Lookup/Ibis Web Service",
+        "id": 11921,
+        "progweb_descr": " A RESTful readwrite web base API gather manipulate data Cambridge University Data Network CUDN Web service API available use within CUDN Allows fetch people group institution pertinent contact information source locate within database"
+    },
+    {
+        "progweb_cat": "Reference,Referrals",
+        "api_name": "ReferralCandy",
+        "id": 12490,
+        "progweb_descr": " ReferralCandy ecommerce referral tool business use encourage current customer refer friends back business product Customers email unique coupon link share friends coupondiscount determine business Sales track base customer referral API offer estore integration ReferralCandy platform use RESTful GET POST call"
+    },
+    {
+        "progweb_cat": "Reference,Statistics",
+        "api_name": "Data-Planet",
+        "id": 12747,
+        "progweb_descr": " service compiles data economic social activity hundred official source include several US government agency make available support data display application Applications access regularly update datasets financial market region geographical subdivision criminal activity public health service harmonize data collect diverse source simplify access within single consistent structure API method support retrieval data across 15 category source include US government agency notforprofit organization World Bank others"
+    },
+    {
+        "progweb_cat": "Reference,Classification",
+        "api_name": "Wikimeta",
+        "id": 12845,
+        "progweb_descr": " service add function annotation semantic tag online content It enable user apply freetext tag longer text description content available access textmining content analysis application service support local access external access system annotation English French include full compatibility LinkedData Network application API method support submission annotation document language annotation size specify system support automate access accumulate content annotation via link data technology"
+    },
+    {
+        "progweb_cat": "Reference,Classification",
+        "api_name": "UMBEL",
+        "id": 15488,
+        "progweb_descr": " UMBEL Upper Mapping Binding Exchange Layer lightweight ontology structure relate Web content data standard set subject concept Its purpose provide fix set reference point global knowledge space API contain several service include ability search UMBEL subject concept find detailed information specific UMBEL subject concept URI Also include tool list verifying subclass well endpoint SPARQL query"
+    },
+    {
+        "progweb_cat": "Reference,Editing",
+        "api_name": "LinguLab",
+        "id": 12910,
+        "progweb_descr": " Germanlanguage service provide text analysis web service plugins content management word processing application It aim improve text quality promote understand write material increase user position search engine result API method support specification language text submission original draft text delivery quality rating retrieval update text API processing include revision submit draft optimization search engine effectiveness"
+    },
+    {
+        "progweb_cat": "Reference,Fonts",
+        "api_name": "MyFonts",
+        "id": 13125,
+        "progweb_descr": " MyFonts online font store offering 90000 font sale Customers search font tag designer factor MyFonts SOAP API allow user integrate MyFonts search purchase functionality thirdparty client"
+    },
+    {
+        "progweb_cat": "Reference,Entertainment",
+        "api_name": "Shakespeare",
+        "id": 13126,
+        "progweb_descr": " This SOAPbased API allow user input phrase play William Shakespeare identifies associate speech speaker play Shakespearian text use Web Service XML version develop Jon Bosak"
+    },
+    {
+        "progweb_cat": "Reference,Sports",
+        "api_name": "FAO Fisheries and Aquaculture Fact Sheets",
+        "id": 13437,
+        "progweb_descr": " Part effort UNs Fisheries Aquaculture Organization modernize improve streamline global flow information fishery statistic fishery resource stock status trend Web service part establish open interoperable platform base XML HTTP REST make available select information organization Fisheries Aquaculture Fact Sheets API give access list fact sheet domain international language fish stock specie geographic area etc"
+    },
+    {
+        "progweb_cat": "Reference,Customer Service",
+        "api_name": "CSRHUB",
+        "id": 13654,
+        "progweb_descr": " CSR provide free sustainability corporate social responsibility CSR rating around 5000 worldâ€™s large publicly trade company 65 country 135 industry CSR API offer way application request overall rating category subcategory detail information CSRHUB database Developers use CSRHUB REST develop application base data without require support program resource CSRHUB"
+    },
+    {
+        "progweb_cat": "Reference,Games",
+        "api_name": "Record Setter URDB",
+        "id": 13677,
+        "progweb_descr": " Record Setter site compiles list world record Record Setter display current record holder write post sometimes videos record set Site visitor learn break record view current challenge Record Setter URDB API allow developer access integrate information functionality Record Setter application sit Some example API method include retrieve user information retrieve world record information view information variety category view past record holder"
+    },
+    {
+        "progweb_cat": "Reference,Bookmarks",
+        "api_name": "CiteULike",
+        "id": 13862,
+        "progweb_descr": " CiteULike free browserbased service help store organise share scholarly paper read When see paper web interest click one button add personal library CiteULike automatically extract citation detail Citation library store server access computer Internet connection"
+    },
+    {
+        "progweb_cat": "Reference,Names",
+        "api_name": "Thomas Beyer First Names and Gender",
+        "id": 13922,
+        "progweb_descr": " This REST webservice base list Jörg Michael contain 40000 forename gender approximate frequency name European country lot country like China India USA Japan API use RESTful call response format XML site documentation German"
+    },
+    {
+        "progweb_cat": "Reference,Social",
+        "api_name": "Simunix T2A",
+        "id": 13957,
+        "progweb_descr": " Simunix UK base directory solution provider information provide include Address Information Company Information Data Validation eg Deceased Suppression TPS check Find People Mobile Location Services Telephone Numbers Simunix make full range data available developer T2A API T2A supply user high quality data require develop professional website business application API use find validate verify data Data collate multiple source include BT OSIS Royal Mail PAF UK Electoral Roll TPS API use REST SOAP protocols response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Drugs",
+        "api_name": "SeedFinder",
+        "id": 13961,
+        "progweb_descr": " SeedFinder provide standardized online collection information cannabis variety They provide grow advice strain review connect grower enthusiast information searchable way SeedFinder API allow access data HTTP Get POST request well client development content infrastructure within SeedFinder create application"
+    },
+    {
+        "progweb_cat": "Reference,Drugs",
+        "api_name": "Leafly",
+        "id": 14092,
+        "progweb_descr": " Leafly usercontributed resource discover medical marijuana strain purchase API provide method let user list strain retrieve strain detail API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Crime",
+        "api_name": "RealSearch Liberty Criminal",
+        "id": 14267,
+        "progweb_descr": " RealSearch nation large online portal Investigative data information 40 databases Liberty Criminal API pull data 20 year live public record Criminal Records searchable CrimData developer application XML API let user search Full Name State Nationwide Full Name Middle Last exact DOB All record public special permission require Mugshots add soon Full documentation currently available"
+    },
+    {
+        "progweb_cat": "Reference,Wireless",
+        "api_name": "RealSearch Wireless & Cellphone",
+        "id": 14269,
+        "progweb_descr": " RealSearch nation large online portal Investigative data information 40 database API give user access large private wireless database It support reverse cellphone call well forward call Name Address Either receive miss name address use cell number locate cell phone name address Full documentation currently available"
+    },
+    {
+        "progweb_cat": "Reference,USA",
+        "api_name": "USA Today Census",
+        "id": 14288,
+        "progweb_descr": " USA TODAY Census API allow developer programmatically access United States Census information Data concerning ethnicity housing population race available 2000 2010 census well basic population number date back original 1790 census API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Reference,Open Source",
+        "api_name": "Freshmeat",
+        "id": 14313,
+        "progweb_descr": " freshmeat maintains Webs large index Unix crossplatform software theme Palm OS software Thousands application release open source license meticulously catalog freshmeat database link new application add daily freshmeat API deal data gather data entry across number data type include project comment screenshots API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Domains",
+        "api_name": "RIPE Database",
+        "id": 14320,
+        "progweb_descr": " RIPE NCC one five Regional Internet Registries RIRs provide Internet resource allocation registration service coordination activity support operation Internet globally RIPE Database contain registration information network RIPE NCC service region relate contact detail RIPE Database RESTful API provide interface Whois Database offer developer method programmatically manipulate RIPE Database object API call respond XML JSON format"
+    },
+    {
+        "progweb_cat": "Reference,Random",
+        "api_name": "Quotations Book",
+        "id": 14323,
+        "progweb_descr": " Quotations Book quotation site make available entire database quote 43000 XML file It also syndicate content FreebaseGoogle"
+    },
+    {
+        "progweb_cat": "Reference,Nutrition",
+        "api_name": "SimpleUPC",
+        "id": 14333,
+        "progweb_descr": " SimpleUPC API let user obtain food product information nutrition highquality image use application There 120000 product 15000 brand 5000 manufacturer API let users query product UPC manufacturer brand product name return rich data Users also find related product category use similar product lookup API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Reference,Environment",
+        "api_name": "CEERN",
+        "id": 14488,
+        "progweb_descr": " CEERN Conservation Environmental Education Resource Network complete online network conservation environmental education resource clearinghouse lesson plan videos program event destination idea CEERN API RESTful API allow developer create application use CEERN database"
+    },
+    {
+        "progweb_cat": "Reference,Environment",
+        "api_name": "Ecolabel Index",
+        "id": 14578,
+        "progweb_descr": " Ecolabel Index global directory ecolabels Audubon International Energy Star Ecolabel Index also provide RESTful API allow developer access Ecolabel Index database Available method allow developer list publish ecolabels get detail particular label"
+    },
+    {
+        "progweb_cat": "Reference,Telephony",
+        "api_name": "AllAreaCodes",
+        "id": 14585,
+        "progweb_descr": " API provide output either JSON XML format An API key require user require provide certain parameter allow track API usage API rate limit currently unpublished follow data provide API Area code timezone Current time timezone Area code state"
+    },
+    {
+        "progweb_cat": "Reference,Telephony",
+        "api_name": "Reverse Australia",
+        "id": 14954,
+        "progweb_descr": " Reverse Australia API give user limit access company database Reverse Australia free Australian reverse phone lookup service API use lookup caller IDs determine caller spam find location caller API use RESTful protocol response format either XML JSON TXT"
+    },
+    {
+        "progweb_cat": "Reference,Sustainability",
+        "api_name": "WattzOn",
+        "id": 14651,
+        "progweb_descr": " WattzOn free online tool quantify track compare understand total amount energy need support facet user lifestyle goal help user find way reduce personal power consumption WattzOn API RESTful API allow developer integrate WattzOn tool design application WattzOn allow developer access data well upload new power meter reading"
+    },
+    {
+        "progweb_cat": "Reference,Spanish",
+        "api_name": "Idescat Rectifications",
+        "id": 14803,
+        "progweb_descr": " Rectifications API provide access information register rectification Idescat website Idescat official statistic website Catalonia provide official statistic generate different department make statistical system Catalonia API use RESTful protocol response format XML JSON PHP"
+    },
+    {
+        "progweb_cat": "Reference,Music",
+        "api_name": "Callook",
+        "id": 14910,
+        "progweb_descr": " Callookinfo exclusively contain serf United States callsign data amatuer radio site automatically updates database daily use publically available database snapshot provide FCC API provide programmatic access Callookinfo database It use RESTful protocol response format either XML JSON JSONP"
+    },
+    {
+        "progweb_cat": "Reference,Music",
+        "api_name": "RadioReference",
+        "id": 15707,
+        "progweb_descr": " RadioReference database US radio station include location frequency call sign service also provide license information case live stream information"
+    },
+    {
+        "progweb_cat": "Reference,Enterprise",
+        "api_name": "Thomson Reuters Knowledge Direct",
+        "id": 15097,
+        "progweb_descr": " Thomson Reuters Knowledge Direct API easily integrate content analytics available Thomson Reuters proprietary information accelerate knowledge gathering across peer industry market With gain access information range equity price realtime news detail company information Use API Gather competitive intelligence peer partner Identify key event affect company performance Stay ahead market trend realtime news comprehensive market data Leverage chart analytical tool help examine stock price bond currency commodity Manage cost pay data need Technical detail publicly available"
+    },
+    {
+        "progweb_cat": "Reference,Enterprise",
+        "api_name": "Cortera",
+        "id": 15643,
+        "progweb_descr": " From site With Cortera CONNECT™ obtain insight customer prospect set company directly web You select wide array element append portfolio business Corteras suite product give instant access cut edge information need drive revenue stay one step ahead competition Our fresh perspective business information allow pay information need need nothing nothing less"
+    },
+    {
+        "progweb_cat": "Reference,Enterprise",
+        "api_name": "DuoShare Address Verification",
+        "id": 15721,
+        "progweb_descr": " Use DuoShare Address Quality Integrator DAQI API allow application standardize correct validate delivery point enhance US address use number USPS® certify process This straightforward address quality mail prep service help take advantage discount rate You access small batch validation keep incoming address correct large batch submission capability large batch Use feature Address Changes MergePurge Sequencing Presorting Barcoding"
+    },
+    {
+        "progweb_cat": "Reference,Dieting",
+        "api_name": "CalorieKing",
+        "id": 15295,
+        "progweb_descr": " This API allow access CalorieKings database Your application search access nutrient information individual food It return data energy use saturate fat trans Fat cholesterol sodium CalorieKing help people track food intake physical activity"
+    },
+    {
+        "progweb_cat": "Reference,Postal",
+        "api_name": "ZIP Codes",
+        "id": 15442,
+        "progweb_descr": " ZIP Codes API STANDS4 use REST call enable get US location behind zip code XML format"
+    },
+    {
+        "progweb_cat": "Reference,Conversions",
+        "api_name": "Conversions",
+        "id": 15443,
+        "progweb_descr": " Convertnet Conversions API enable get instant accurate answer complex mathematical expression thousand conversion relate query post natural language representation without strict syntax"
+    },
+    {
+        "progweb_cat": "Reference,Patents",
+        "api_name": "Boliven Patents",
+        "id": 15499,
+        "progweb_descr": " Use Boliven APIs integrate patent data website application REST API provide developer access Bolivens store 55 million patent document data either JSON XML data Bolivencom host collection 100 million indexed digitized patent science document More data source come online soon include drug medical device publication company information trademark"
+    },
+    {
+        "progweb_cat": "Reference,Travel",
+        "api_name": "PilotOutlook",
+        "id": 15638,
+        "progweb_descr": " From site This API provide geocoordinates city state epoch runway information 40000 airport It large database airports available online Add data airport application utilize AirportInfo library Get IATA Code Landing Facility Type Airport Heliport etc Latitude Longitude Elevation Foot MSL Magnetic Variation Direction PilotOutlook URL information"
+    },
+    {
+        "progweb_cat": "Reference,Humor",
+        "api_name": "Datanibble",
+        "id": 15776,
+        "progweb_descr": " Use Datanibble service get quote either ondemand update nightly midnight This simple quote service You display quote site page frequently change content help site visitor search bot To use service must access PHP cgi script SSI host server"
+    }
+]

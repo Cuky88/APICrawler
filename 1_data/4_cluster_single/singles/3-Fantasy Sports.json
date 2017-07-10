@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Fantasy Sports,Analytics",
+        "api_name": "Sportradar Badminton",
+        "id": 2037,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Badminton API provide RESTful method integrate application Badminton statistic feed database It provide primary feed form daily result daily schedule turn provide competitor match tournament id generate sport event tournament competitor feed This API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Fantasy Sports,Intelligence",
+        "api_name": "Fantasy Basketball Nerd",
+        "id": 3208,
+        "progweb_descr": " Fantasy Basketball Nerd REST API XML JSON format integrate basketball data include player ranking projection depth chart injury Information retrieve NBAcom ESPNcom CBS Sportsline FOX Sports Yahoo Even though API free open developer ask provide link FantasyBasketballNerdcom"
+    },
+    {
+        "progweb_cat": "Fantasy Sports,Sports",
+        "api_name": "NFL Fantasy Football",
+        "id": 6185,
+        "progweb_descr": " NFL Fantasy Football API allow developer access integrate functionality data NFL Fantasy Football Some example API method include return standing return player return various statistic NFL Fantasy Football site provide access football player statistic game detail football news football analysis"
+    }
+]

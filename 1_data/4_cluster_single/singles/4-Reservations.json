@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Reservations,Hotels",
+        "api_name": "aRes Travel",
+        "id": 1534,
+        "progweb_descr": " aRes Travel API return data hotel reservation It provide REST architecture JSON format authorization public private key With API developer integrate hotel reservation travel application service"
+    },
+    {
+        "progweb_cat": "Reservations,Hotels",
+        "api_name": "EAN Cancel Reservation",
+        "id": 5994,
+        "progweb_descr": " EAN Cancel Reservation API allow developer integrate Expedia database application enable user cancel exist reservation single room This RESTful API EAN stand Expedia Affiliate Network service provide Expedia"
+    },
+    {
+        "progweb_cat": "Reservations,Restaurants",
+        "api_name": "Resy",
+        "id": 4460,
+        "progweb_descr": " Resy API allow developer integrate ability make restaurant reservation websites application Resy include information restaurant floor plan allow customer choose theyd like seat well time number seat need Resy connect POS system real time come builtin 2way text capability communicate customer"
+    },
+    {
+        "progweb_cat": "Reservations,B2B",
+        "api_name": "Hotelbeds Apitude Booking",
+        "id": 4708,
+        "progweb_descr": " Apitude Booking API provide developer way access hotel database make request Booking API API enable user manage entire hotel book process Hotelbeds travel agency base Spain provide global hotel database B2B partner"
+    }
+]

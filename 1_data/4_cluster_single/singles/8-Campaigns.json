@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "Campaigns,Customer Relationship Management",
+        "api_name": "Zoho Campaigns",
+        "id": 2164,
+        "progweb_descr": " Zoho Campaigns API support execution online campaign without log requirement use API key eliminate need log credential effectively make easy user access manage campaign list"
+    },
+    {
+        "progweb_cat": "Campaigns,Advertising",
+        "api_name": "Amazon Web Services Pinpoint",
+        "id": 2716,
+        "progweb_descr": " Amazon Web Services Pinpoint REST API allow developer access integrate functionality Pinpoint application Amazon Pinpoint web service campaign management service mobile application help developer publisher understand user behavior identify opportunity user engagement push notification"
+    },
+    {
+        "progweb_cat": "Campaigns,Email",
+        "api_name": "Klaviyo Campaigns",
+        "id": 2873,
+        "progweb_descr": " Klaviyo Campaigns API integrate email campaign creation distribution It available REST architecture send HTTP request receive JSON response authenticate API Key Use API create send email communication aim monetize campaign"
+    },
+    {
+        "progweb_cat": "Campaigns,Email",
+        "api_name": "Act-On Email Campaign",
+        "id": 4937,
+        "progweb_descr": " ActOn Email Campaign API allow developer integrate application API service enable user reach customer via email campaign ActOn marketing automation software provider"
+    },
+    {
+        "progweb_cat": "Campaigns,Marketing",
+        "api_name": "Merchenta Pixelling",
+        "id": 3171,
+        "progweb_descr": " Merchenta Pixelling API integrate consumer behavior campaign target purpose Email address password require authenticate give endpoint available Merchenta site"
+    },
+    {
+        "progweb_cat": "Campaigns,Application Development",
+        "api_name": "Heyzap Campaigns",
+        "id": 3240,
+        "progweb_descr": " Heyzap Campaigns API integrate ad campaign application It available access via API Key interact endpoint return CSV responses Practical use API include campaign detail statistic device IDs"
+    },
+    {
+        "progweb_cat": "Campaigns,Addresses",
+        "api_name": "Yandex Post Office",
+        "id": 5662,
+        "progweb_descr": " Yandex Post Office API provide developer access statistical data email marketing campaign send address register verified Postoffice email marketing tool This API REST base service return data JSON format Yandex internet company Europe"
+    },
+    {
+        "progweb_cat": "Campaigns,Cloud",
+        "api_name": "Banckle Campaign",
+        "id": 6561,
+        "progweb_descr": " Banckle cloud base software company offer business online customer support service Banckle Campaign email marketing platform available Banckle enabling business connect customer via campaign Banckle Campaign API let developer personalize customer ’ experience integrating application enable interact customer directly application API allow feature create manage send track email newsletter campaign"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "B2B,Dashboards",
+        "api_name": "Vizdum Flexible Push",
+        "id": 3036,
+        "progweb_descr": " Push REST API allow developer push information Vizdums business analytics dashboard third party application These personalize dashboard offer campaign track data visualization real time monitor Data send JSON format Vizdum B2B software provider base California"
+    },
+    {
+        "progweb_cat": "B2B,Addresses",
+        "api_name": "Demandbase IP",
+        "id": 6735,
+        "progweb_descr": " Demandbase IP API without argument require API key return firmographic data belong browser IP address load API call An optional IP address parameter specify need provide look IP address imply specify IP return 43 validated firmographic data field among 1 industry 2 revenue 3 isp tf 4 address 5 latlong many Frequent use API include increase conversion rate enable customized messaging shortcutting user path relevant content aggregate streamline measurement response online campaign Instead rely cooky personally identifiable information PII API leverage several proprietary method reliably build fundamental requirement connect Internet IP address map business across API This also align Demandbase ’ strategic vision B2B decision reliably roll organizational level give large number decision maker involve purchase API output either XML JSON data format"
+    },
+    {
+        "progweb_cat": "B2B,Analytics",
+        "api_name": "Demandbase",
+        "id": 11969,
+        "progweb_descr": " Demandbase Domain API take domain parameter input return 43 validated firmographic data field among 1 industry 2 revenue 3 isp tf 4 address 5 latlong many Frequent use API include increase conversion rate enable customized messaging shortcutting user path relevant content streamline measurement response online campaign reduce number require field web form increase form fill rate underpin service work without cooky personally identifiable identification PII instead rely several proprietary method reliably build fundamental requirement connect Internet IP address map business across API API output either XML JSON data format"
+    }
+]

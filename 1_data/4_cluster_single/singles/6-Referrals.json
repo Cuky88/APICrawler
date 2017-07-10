@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Referrals,eCommerce",
+        "api_name": "Friendbuy",
+        "id": 1405,
+        "progweb_descr": " Friendbuy offer referral platform support referral funnel data template conversion data Friendbuy API use access share conversion referral code JSON prefer format response API Keys authentication Friendbuy offer 2 paid plan custom enterprise solution"
+    },
+    {
+        "progweb_cat": "Referrals,Marketing",
+        "api_name": "Talkable",
+        "id": 5134,
+        "progweb_descr": " Talkable REST API allow developer access integrate functionality Talkable application Some example API method include manage referral campaign retrieve campaign metric retrieve referral information Talkable offer business feature build customized referral program"
+    },
+    {
+        "progweb_cat": "Referrals,Mobile",
+        "api_name": "YesGraph",
+        "id": 5816,
+        "progweb_descr": " YesGraph REST API allow developer access integrate functionality YesGraph applications Some example API method include post retrieve referral social network retrieve user information retrieve manage contact YesGraph referral system mobile application display user likely accept invitation referral top list"
+    },
+    {
+        "progweb_cat": "Referrals,Analytics",
+        "api_name": "SimilarWeb Website Referrals",
+        "id": 6904,
+        "progweb_descr": " SimilarWeb Referrals API could useful developer want obtain 10 main website redirect activity principal domain XML JSON format This API valuable developer wonder domain redirect traffic website especially could predict successful web stream To start app creation developer visit SimilarWeb find endpoints parameter example along contact information access API key"
+    },
+    {
+        "progweb_cat": "Referrals,Business",
+        "api_name": "Referral SaaSquatch",
+        "id": 7091,
+        "progweb_descr": " Referral SaaSquatch customer referral platform subscription business Using Referral SaaSquatch provider design comprehensive customer referral campaign web apps service track customer referral integrate payment provider automate reward analytics dashboard service view sitewide referral activity Referral SaaSquath integrate follow subscription service Braintree Recurly Stripe Zuora Referral SaaSquatch RESTful API HTTP orient JSON format response API allow developer create application update Referral SaaSquatch account check referral code view balance manage reward create webhook subscription Authentication make Basic HTTP Authentication require unique API key usage"
+    },
+    {
+        "progweb_cat": "Referrals",
+        "api_name": "LinkTrust",
+        "id": 9968,
+        "progweb_descr": " LinkTrust provide tool allow user manage affiliate program inhouse use customizable software platform cater limitless number affiliate LinkTrust offer slew report service many operate realtime These run gamut highlevel overview detail record transaction Information report also access use LinkTrusts APIs operate SOAP call issue XML format"
+    }
+]

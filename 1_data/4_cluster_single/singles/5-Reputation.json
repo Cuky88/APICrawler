@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Reputation,Business",
+        "api_name": "Vendasta Reputation Intelligence",
+        "id": 2882,
+        "progweb_descr": " Vendasta Reputation Intelligence API integrate analysis business character web service Available JSON responses respective HTTP request developer use API analyze reputation enterprise"
+    },
+    {
+        "progweb_cat": "Reputation,Business",
+        "api_name": "MeaningCloud Coporate Reputation",
+        "id": 5708,
+        "progweb_descr": " Use MeaningClouds Corporate Reputation API analyze organization reputation API use GETPOST request either JSON XML support HTTP HTTPS Authentication make via API Key available create account MeaningCloud Using semantic tag model base set reputational dimension like innovation social responsibility API analyze text aggregate perception business See project documentation detailed information Corporate Reputation model work Developers note time API support Spanish language text"
+    },
+    {
+        "progweb_cat": "Reputation,Marketplace",
+        "api_name": "Credport",
+        "id": 3121,
+        "progweb_descr": " Credport API integrate reputation within marketplace It useful customer interested grow community share economy Currently development suspend Therefore programmer readonly documentation reference point Available JSONP architecture sandbox visualize profile badge"
+    },
+    {
+        "progweb_cat": "Reputation,Identity",
+        "api_name": "Traity Insurance",
+        "id": 4538,
+        "progweb_descr": " Traity Insurance API secure user transaction aim increase trustworthiness startups member It provide method JSON format access OAuth2 Once developer implement insurance application give transaction user able report claim Traity platform help user maintain online reputation"
+    },
+    {
+        "progweb_cat": "Reputation,Feedback",
+        "api_name": "ProveTrust",
+        "id": 6436,
+        "progweb_descr": " ProveTrust service incorporate social signal user feedback identity verification determine reputation user ProveTrust API use programmatically query retrieve user ProveTrust review rating well edit one account information submit review API access HTTP JSON format"
+    }
+]

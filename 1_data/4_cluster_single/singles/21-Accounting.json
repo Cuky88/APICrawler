@@ -1,0 +1,128 @@
+[
+    {
+        "progweb_cat": "Accounting,Enterprise",
+        "api_name": "Intuit QuickBooks Online Accounting",
+        "id": 969,
+        "progweb_descr": " Integrate app QuickBooks Online API This unified API give access QuickBooks Online accounting feature payment processing service In click customer connect QuickBooks Online app sign Intuit Account instantly access QuickBooks Online company data You also reach Intuits customer base listing app QuickBooks Appscom million QuickBooks user go find try buy use apps work accounting payment solution"
+    },
+    {
+        "progweb_cat": "Accounting,Business",
+        "api_name": "Aqilla",
+        "id": 1722,
+        "progweb_descr": " Aqilla API provide accounting cloud solution enterprises Developers integrate spreadsheet report document management via Microsoft Excel SalesForce CRM It available request infoaqillacom"
+    },
+    {
+        "progweb_cat": "Accounting,Business",
+        "api_name": "Bexio",
+        "id": 2271,
+        "progweb_descr": " Bexio API integrate account invoice order feature business application Available German English languages Bexio provide REST interface JSON format API Key authentication method"
+    },
+    {
+        "progweb_cat": "Accounting,Business",
+        "api_name": "Sage One",
+        "id": 4212,
+        "progweb_descr": " Sage One API allow access accounting feature integrate business application Protocols available JSON Authentication possible via OAuth20 Sage One provide secure account bookkeeping payroll software small business"
+    },
+    {
+        "progweb_cat": "Accounting,Business",
+        "api_name": "Zoho Books",
+        "id": 4452,
+        "progweb_descr": " Zoho Books API accounting software small business It RESTful HTTP JSON format allow access typical Zoho Books functionality also offer platform customization Through Zoho Books user send invoice accept payment manage categorize cash flow Access documentation require Zoho username password However Zoho offer free trial With paid membership user limit 2500 API request per day per business"
+    },
+    {
+        "progweb_cat": "Accounting,Business",
+        "api_name": "Common Ledger",
+        "id": 4461,
+        "progweb_descr": " Common Ledger accounting platform cloud capability This platform automate collection delivery financial data client accountant focus improve efficiency productivity Developers need create account access documentation Common Ledger New Zealand company headquarter Wellington"
+    },
+    {
+        "progweb_cat": "Accounting,Business",
+        "api_name": "Big Red Cloud",
+        "id": 6266,
+        "progweb_descr": " Big Red Cloud API integrate business accounting field This API offer support accounting software service addition integration API available REST ODATA format Guidelines include create key associate developer business choose C Java PHP Perl NodeJS languages integrate business Big Red Cloud API use HTTP basic auth Responses return HTTP protocol"
+    },
+    {
+        "progweb_cat": "Accounting,Business",
+        "api_name": "Suntico Sage 50",
+        "id": 6280,
+        "progweb_descr": " Suntico Sage 50 API design help user create apps connect data hundred thousand company use Sage 50 Accounting Sage 50 Accounts Sage business management software service provider whose product handle common business task account HR payroll payment enterprise resource planning customer relationship management Suntico Irish software company authorize Sage developer"
+    },
+    {
+        "progweb_cat": "Accounting,England",
+        "api_name": "Twinfield",
+        "id": 1756,
+        "progweb_descr": " Twinfield API integrate online accounting web service It available XML format via OAuth With API developer integrate transaction data include bank cash purchase sale statement"
+    },
+    {
+        "progweb_cat": "Accounting,Accounts",
+        "api_name": "Dinero",
+        "id": 2579,
+        "progweb_descr": " Dinero accounting platform business Dinero API allow integration platform programmatic control include cloud sharing document firm Denmark website Danish"
+    },
+    {
+        "progweb_cat": "Accounting,Accounts",
+        "api_name": "AccountingLive",
+        "id": 2901,
+        "progweb_descr": " AccountingLive API integrate account feature application invoice billing template It available REST architecture HTTP request JSON response authenticate via basic HTTP"
+    },
+    {
+        "progweb_cat": "Accounting,Accounts",
+        "api_name": "Xero Files",
+        "id": 5770,
+        "progweb_descr": " Offered Xero account software service Files API offer Xero interfaces member file folder RESTful API accept request either JSON XML authenticate third party apps via OAuth 1 Use XERO Files API upload download file manage folder associate file document like invoice contact"
+    },
+    {
+        "progweb_cat": "Accounting,Booking",
+        "api_name": "Allmyles Booking Notifications",
+        "id": 3672,
+        "progweb_descr": " Booking Notifications API allow platform facilitates programmatic access financial booking data It aim fee back office system post book information reduce manual book keep Allmyles provide bookable content integration travel service"
+    },
+    {
+        "progweb_cat": "Accounting,Billing",
+        "api_name": "PayTraq",
+        "id": 3859,
+        "progweb_descr": " PayTraq API allow developer programmatically access client supplier employee item warehouse sale purchase inventory move payment account single interface PayTraq enterprise resource plan ERP service business owner organizer accountant They provide cloudbased business suite include account bookkeeping service"
+    },
+    {
+        "progweb_cat": "Accounting,Billing",
+        "api_name": "FastBill",
+        "id": 4828,
+        "progweb_descr": " FastBill API offer billing system tailor small medium business It feature custom template design document archive recur billing This API return data XML JSON require API Key FastBill base Germany creates software help freelancer small business get paperwork do"
+    },
+    {
+        "progweb_cat": "Accounting,Billing",
+        "api_name": "ZipBooks",
+        "id": 5191,
+        "progweb_descr": " ZipBooks provide small business free invoice software ZipBooks API allow creation ZipBooks user userfriendly online invoice service Developers also use tool create update client project task time create estimate expense"
+    },
+    {
+        "progweb_cat": "Accounting,Australian",
+        "api_name": "Reckon One",
+        "id": 3866,
+        "progweb_descr": " RESTful API Reckon One modular accounting system allow developer turn module month manage business cost Protocols available JSON access OAuth2 Reckon One base Australia provide accounting software small medium size business"
+    },
+    {
+        "progweb_cat": "Accounting,European",
+        "api_name": "Reviso",
+        "id": 4573,
+        "progweb_descr": " Reviso API allow developer integrate accounting function application system Reviso provide standard accounting feature online invoice report support VAT scheme free access accountant bookkeeper Reviso 100 online allow user import data previous system"
+    },
+    {
+        "progweb_cat": "Accounting",
+        "api_name": "MYOB Essentials Accounting",
+        "id": 4632,
+        "progweb_descr": " MYOB Essentials online account solution MYOB Essentials API offer user access MYOB Essentials data allow adaptation relevant feature This API RESTful documentation acquire upon MYOB application acceptance"
+    },
+    {
+        "progweb_cat": "Accounting",
+        "api_name": "MYOB EXO",
+        "id": 4633,
+        "progweb_descr": " MYOB EXO API platform design connect EXO Business databases MYOB online accounting service ’ EXO API offer customizable tool analysis report integration online service third party apps mobile apps This API RESTful documentation obtain apply access via MYOB"
+    },
+    {
+        "progweb_cat": "Accounting,Accounting",
+        "api_name": "Exact Online",
+        "id": 7705,
+        "progweb_descr": " Exact Online online business software business owner accountant We offer integrated package small business manufacture wholesale distribution professional service well account CPA firm Exact Online REST API allow developer incorporate Exact Online functionality third party application API service include CRM asset document account payroll project user"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "progweb_cat": "Printing,3D",
+        "api_name": "PRINTR",
+        "id": 602,
+        "progweb_descr": " PRINTR 3D printing platform It come beginnerfriendly application design 3D object also allow user purchase exist 3D model online Users print object track progress object print mobile device PRINTRs public API allow user get printer type sliceprofiles available material color 3D printing location give material color available private API endpoint allow user get create update delete information user file printer sliceprofiles material print queue 3D file file mesh It also render jpg image model quickslice upload file"
+    },
+    {
+        "progweb_cat": "Printing,3D",
+        "api_name": "Voodoo Manufacturing Print",
+        "id": 1748,
+        "progweb_descr": " Voodoo Manufacturing Print API integrate print manufacture 3D application It available Swagger Framework API Keys access JSON format interaction With API developer obtain list available printing material upload printing model generate quote ship method confirm print order"
+    },
+    {
+        "progweb_cat": "Printing,3D",
+        "api_name": "3DPrintler",
+        "id": 4314,
+        "progweb_descr": " 3DPrintler API allow developer get list material type color detail type detail well query price print give 3D design 3DPrintler service allow user compare 3D printing price big 3D printing service 254 material It also allow user place order directly"
+    },
+    {
+        "progweb_cat": "Printing,Products",
+        "api_name": "Cimpress Open Print Fulfillment",
+        "id": 1733,
+        "progweb_descr": " Cimpress Open Print Fulfillment API provide way endusers purchase user art design hundred product tshirts hat mug poster canvas Cimpress produce product ondemand fulfill order around world Users supply design Cimpress handle inventory logistics There cost API product purchase"
+    },
+    {
+        "progweb_cat": "Printing,Art",
+        "api_name": "Prodigi Print",
+        "id": 3879,
+        "progweb_descr": " Prodigi UK base demand print service offer frame art consultancy worldwide fulfillment Print API use integrate international demand fulfillment service ecommerce platform Also Print API developer place order obtain live status order track information This REST API respond JSON format us API Keys authentication"
+    },
+    {
+        "progweb_cat": "Printing,Photos",
+        "api_name": "Print.IO",
+        "id": 4357,
+        "progweb_descr": " Print IO API allow print photo web service mobile device It provide JSON protocol HTTP header addition authentication API Key PrintIO provide demand printing service"
+    },
+    {
+        "progweb_cat": "Printing,Gifts",
+        "api_name": "pwint.ly",
+        "id": 4679,
+        "progweb_descr": " pwintly API allow merchant register image photograph gallery Pwintlys system Pwintly provide unique URLs customer follow purchase variety product base photograph These product include print canvas poster phone case etc Pwintly service help user monetize photograph handle manufacture delivery photographbased product"
+    },
+    {
+        "progweb_cat": "Printing,Cloud",
+        "api_name": "Unofficial Google Cloud Print",
+        "id": 5306,
+        "progweb_descr": " unofficial Google Cloud Print Java API jittagornp offer two main option load printer capability create XML format file Windows API alternative obtain PPD file PostScript printer By use one file Google Cloud Print able understand printer capabilities Some example include connect disconnect Google Cloud Print register printer submit job search printer"
+    },
+    {
+        "progweb_cat": "Printing,Cloud",
+        "api_name": "Mimeo Connect",
+        "id": 5812,
+        "progweb_descr": " Mimeo ondemand cloud printing service Use Mimeo Connect API access Mimeos document workflow production distribution functionality Mimeos API RESTful support programming language See documentation helpful code example starter library A My Site login require access API"
+    },
+    {
+        "progweb_cat": "Printing,Cloud",
+        "api_name": "Lob Simple Print Service",
+        "id": 6131,
+        "progweb_descr": " Lob Simple Print Service API cloud base API automate business print workflow This API create ondemand recur customer communication invoicing postcard greet card Additionally service automate production business card new employee poster photograph mail service accessible API Lob Simple Print Service API require authentication key creation single print job process mail This REST API support PDF PNG JPEG image type use HTTP response code error indication This API provide Ruby Nodejs PHP Java Python wrapper ease integration"
+    },
+    {
+        "progweb_cat": "Printing,Cloud",
+        "api_name": "Lob Simple Postcard Service",
+        "id": 6132,
+        "progweb_descr": " Lob Simple Postcard Service API cloud base API scale postcard production business specification allow personalization dynamic content This API create ondemand print postcard feature trace feature follow location arrival time individual postcard include cost Lob API require authentication key creation postcard print job This REST API require PDF image HTML string front back postcard This API use HTTP response code error indication This API provide Ruby Nodejs PHP Java Python wrapper ease integration"
+    },
+    {
+        "progweb_cat": "Printing,Cloud",
+        "api_name": "Lob Simple Check Service",
+        "id": 6133,
+        "progweb_descr": " Lob Simple Check Service API fee base cloud API automate check payment business developer This API scalable customizable allow business add brand logo descriptive content front bank grade business check Lob Simple Check Service API require authentication key creation check print job process mail This REST API support URL local file logo creation This API provide Ruby Nodejs PHP Java Python wrapper ease integration"
+    },
+    {
+        "progweb_cat": "Printing,Cloud",
+        "api_name": "Lob Simple Area Mail",
+        "id": 6138,
+        "progweb_descr": " Lob Simple Area Mail API fee base cloud API allow business prospect entire delivery area zip code grow customer base This API service require contract allow single recur mass mailing Lob API require authentication key creation bulk mail job process mail This API provide Ruby Nodejs PHP Java Python wrapper ease integration"
+    },
+    {
+        "progweb_cat": "Printing,Cloud",
+        "api_name": "PrintNode",
+        "id": 7304,
+        "progweb_descr": " PrintNode API simplify process integrate remote cloud print application In order print remotely one use PrintNode API host PDF call PrintJob PrintNode Server transmit computer clientside PrintNode software instal unique PrintNode ID obtain account creation Documentation code library control panel exist help developer integrate service application monitor activity"
+    },
+    {
+        "progweb_cat": "Printing,Ordering",
+        "api_name": "Printmotor Server",
+        "id": 6107,
+        "progweb_descr": " Printmotor online platform create printing document flyer Printmotor Server API allow developer access integrate functionality Printmotors production printing service application An example API method send retrieve order"
+    },
+    {
+        "progweb_cat": "Printing,eCommerce",
+        "api_name": "Printmotor Client",
+        "id": 6108,
+        "progweb_descr": " Printmotor online platform create printing document flyer Printmotor Client API allow developer access integrate functionality Printmotor backend application main API method integrate Printmotor service"
+    },
+    {
+        "progweb_cat": "Printing,Addresses",
+        "api_name": "Lob Address Verification",
+        "id": 6139,
+        "progweb_descr": " Lob Address Verification API fee base cloud API verifies address confirm deliverability potential This API perform cleanse standardize local geocoding submit address domestic foreign Lob Address Verification API support UTF8 encode character ensure worldwide verification ability Domestic verification free verification 150 country available fee Lob API require authentication key REST orientedThis API provide Ruby Nodejs PHP Java Python wrapper ease integration"
+    },
+    {
+        "progweb_cat": "Printing,Clothing",
+        "api_name": "InkMonk",
+        "id": 6497,
+        "progweb_descr": " InkMonk service company organization want distribute brand merchandise dont time fund human resource create package ship Inkmonk solve issue allow user create manage send swag audience Using InkMonk API developer integrate InkMonk service use simple call different API parameter include SKU call individually identify design type merchandise identify manage product recipient call track address buyer information shipment function automate ship order InkMonk require API key use API communicate HTTP JSON format"
+    },
+    {
+        "progweb_cat": "Printing,Clothing",
+        "api_name": "Scalable Press Quote",
+        "id": 6648,
+        "progweb_descr": " Scalable Press ondemand print fulfillment service take order API Scalable Press provide screenprinting directtogarment printing garment sublimation print phone case mug production warehouse Their site offer requirement artwork ink color selection proof requirement size ship information Scalable Press Quote API provide quote service well ability retrieve previous quote This API REST service support request GET POST DELETE response JSON"
+    },
+    {
+        "progweb_cat": "Printing,Clothing",
+        "api_name": "Scalable Press Design",
+        "id": 6650,
+        "progweb_descr": " Scalable Press ondemand print fulfillment service take order API Scalable Press provide screenprinting directtogarment printing garment sublimation print phone case mug production warehouse Their site offer requirement artwork ink color selection proof requirement size ship information Scalable Press Design API allow input regard print design supply design specific identification code allow input retrieval design object This API REST service support request GET POST DELETE response JSON"
+    },
+    {
+        "progweb_cat": "Printing,Clothing",
+        "api_name": "Scalable Press Order",
+        "id": 6672,
+        "progweb_descr": " Scalable Press ondemand print fulfillment service take order API Scalable Press provide screenprinting directtogarment printing garment sublimation print phone case mug production warehouse Their site offer requirement artwork ink color selection proof requirement size ship information Scalable Press Order API allow order place verification order status ability retrieve previous order This API REST service support request GET POST DELETE response JSON"
+    },
+    {
+        "progweb_cat": "Printing,Accounts",
+        "api_name": "ThePrintQ Account",
+        "id": 6569,
+        "progweb_descr": " PrintQ webtoprint shop marketing platform solution Offering unique revenue stream mobile web application custom print shop embed interactive template instant order proof Templates may upload PDF instantly create custom business card flyer folder poster placemats teeshirts REST PrintQ Account API good manage large organization Account API access return modify data concern people marketing tool email print message campaign eCommerce item purchase order well web page blog relate forum API come well describe method may decimate API documentation page"
+    },
+    {
+        "progweb_cat": "Printing,Availability",
+        "api_name": "Scalable Press Product",
+        "id": 6573,
+        "progweb_descr": " Scalable Press ondemand print fulfillment service take order API Scalable Press provide screenprinting directtogarment printing garment sublimation print phone case mug production warehouse Their site offer requirement artwork ink color selection proof requirement size ship information Scalable Press Product API provide information graphic availability available product This API REST service support request GET POST DELETE response JSON"
+    },
+    {
+        "progweb_cat": "Printing,Marketplace",
+        "api_name": "Printchomp",
+        "id": 6700,
+        "progweb_descr": " Printchomp printing service connect customer appropriate printer base requested print job Printchomp API allow developer integrate feature application Printchomp enable user print online real time"
+    },
+    {
+        "progweb_cat": "Printing,API",
+        "api_name": "Kite",
+        "id": 6730,
+        "progweb_descr": " Kitely B2B print demand platform API build business developer Kitely print multiple product include polaroid style square style magnet postcards facilitates direct worldwide delivery Kitely use HTTP allow language wrapper Android iOS Python Kitely also allow customization ability upload PDFs"
+    },
+    {
+        "progweb_cat": "Printing,Business",
+        "api_name": "ThePrintQ Person",
+        "id": 6745,
+        "progweb_descr": " PrintQ webtoprint shop marketing platform solution Offering unique revenue stream mobile web application custom print shop embed interactive template instant order proof Templates may upload PDF instantly create custom business card flyer folder poster placemats teeshirts REST PrintQ Person API offer method create read update delete personal tag email purchase interaction history ThePrintQ service API come well describe method may decimate API documentation page"
+    },
+    {
+        "progweb_cat": "Printing,Graphics",
+        "api_name": "Print From Windows Phone",
+        "id": 7038,
+        "progweb_descr": " Print From Windows Phone offer API SOAP format use send document print use print spooler software Users need install software PC connect destination printer either via WIFI USB site show 3 step use Print From Windows Phone create account access 10mb download software require use email website print Windows phone To test service developer access 2 response SOAP respective request response"
+    }
+]

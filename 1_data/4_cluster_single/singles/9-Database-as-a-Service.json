@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Database-as-a-Service,Cloud",
+        "api_name": "Google Firebase Database",
+        "id": 2583,
+        "progweb_descr": " Google ’ Firebase Realtime Database cloudbased data storage solution This database store data JSON conveys real time data connect client Google Firebase Realtime Database API allow developer deploy Google ’ Android iOS JavaScript SDKs construction apps support share access client particular Realtime Database occurrence RESTful API require token authentication sends HTTPformatted request return JSONformatted response appendage json end API ’ URL endpoint sufficient send request HTTPS client"
+    },
+    {
+        "progweb_cat": "Database-as-a-Service,Charts",
+        "api_name": "CommoPrices",
+        "id": 3442,
+        "progweb_descr": " You use API access CommoPrices information price 1600 commodity database CommoPrices provide uptodate independent data Covering wide range commodity raw material world"
+    },
+    {
+        "progweb_cat": "Database-as-a-Service,Education",
+        "api_name": "Plenar.io",
+        "id": 3727,
+        "progweb_descr": " Plenario integrate datasets application addition open data service create educational scientific purpose Developers call HTTP GET obtain JSON response occasion CSV GeoJSON format Plenario global hub datasets"
+    },
+    {
+        "progweb_cat": "Database-as-a-Service,Countries",
+        "api_name": "Travelbriefing.org public",
+        "id": 3824,
+        "progweb_descr": " Travelbriefingorg Public API databaseasaservice platform provide access countryspecific information travel regulation prevail environmental condition Users seek travel particular destination need make API call remotely access information security situation visa requirement weather transport energy financials communication health demographic characteristic population Developers also take advantage API ’ flexibility integration project Travelbriefingorg Public API conveys request responses JSON format"
+    },
+    {
+        "progweb_cat": "Database-as-a-Service,Application Development",
+        "api_name": "myCloudData",
+        "id": 3905,
+        "progweb_descr": " myCloudData API facilitate development secure cloudbased data processing storage solution desktop mobile web application API support creation table process metadata fly addition facilitate storage retrieval restrict share data cloud platform myCloudData also readily compatible IoT device thanks highspeed property solid architecture lightweight attribute RESTful API deploy JSON HTTP format request response generation process Access require pay subscription although free access provide limited extent"
+    },
+    {
+        "progweb_cat": "Database-as-a-Service,Application Development",
+        "api_name": "Appbase",
+        "id": 6112,
+        "progweb_descr": " Appbase realtime graph data store rapid app development Appbase API use REST principle Using HTTP call developer list create vertex edge filter vertex specific property retrieve vertex data property delete vertex edge scan vertex RESTful A nonRESTful API component realtime event stream operate Websocket protocol use Socketio Appbaseio also host JavaScript library binding increase API accessibility"
+    },
+    {
+        "progweb_cat": "Database-as-a-Service,Classification",
+        "api_name": "Skills Profiler",
+        "id": 3944,
+        "progweb_descr": " Skills Profiler API standardize precise simple way map articulate share skill This integrate different kind application like job site HRIS Applicant Tracking System From menu card kind screen user pick tick rate skill create skill profile skill fetch Its Your Skills Skills Library Taxonomy exhaustive well classified skill resource cover skill industry function skill library constantly update Such skill profile immense help thing like recruitment skill inventory employee skill gap analysis Available JSON protocol Api Key"
+    },
+    {
+        "progweb_cat": "Database-as-a-Service,Database",
+        "api_name": "NuoDB",
+        "id": 5569,
+        "progweb_descr": " NuoDB REST API allow developer access functionality NuoDB application databases Some example API method include manage alert retrieve alert connect datasets manage account NuoDB databaseasaservice DBaaS allow user scale manage SQL database"
+    },
+    {
+        "progweb_cat": "Database-as-a-Service,Backend-as-a-Service",
+        "api_name": "GoKeyVal",
+        "id": 6148,
+        "progweb_descr": " GoKeyVal keyvalue datastore available JOTFLOW GoKeyVal API let developer integrate service application enable user access datastore directly API REST base MIT License require access authenticate API"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Transcription,Language",
+        "api_name": "Dotsub",
+        "id": 3119,
+        "progweb_descr": " Dotsub REST API integrate transcription translation video various languages It available HTTP request JSONP metadata response"
+    },
+    {
+        "progweb_cat": "Transcription,Extraction",
+        "api_name": "Cielo 24",
+        "id": 5118,
+        "progweb_descr": " Cielo 24 offer JSON API integrate transcription caption word extraction application service Developers generate API Key control job work output format Samples explain request medium file request correspond transcript request exist job Cieolo24 provide caption translation medium intelligence service"
+    },
+    {
+        "progweb_cat": "Transcription,Audio",
+        "api_name": "Scribie Audio and Video Transcription",
+        "id": 6161,
+        "progweb_descr": " Scribie audiovideo transcription service user get phone recording interview videos podcasts dictation speak audio file transcribe text A four stage process aim guarantee 98 accuracy flow process consist certify homebased freelancer initial work QAed inhouse team This hybrid model intend transcribe file much quick high accuracy"
+    },
+    {
+        "progweb_cat": "Transcription,Audio",
+        "api_name": "Transcription HUB",
+        "id": 6719,
+        "progweb_descr": " Transcription HUB transcription company aim delight customer cost effective secure easy audio video transcription service Transcription Hub offer general transcription conferences market research webinars trade show Academia benefit transcribe classroom lecture research interview dissertation Hospitals medium could also use transcription service feature site integration info developer contact Transcription Hub directly find detail relate API"
+    },
+    {
+        "progweb_cat": "Transcription,Machine Learning",
+        "api_name": "AT&T Speech",
+        "id": 11875,
+        "progweb_descr": " ATT Speech API power ATT WATSON speech engine allow developer add speech transcription apps Users send audio text return With API developer create apps run device cellular network US crosscarrier Speech API transcribe speak word audio file text It also take consideration speak context search TV show Speech API optimize tune specific context include Web Search Business Search Voicemail SMS Question Answer TV Generic API use REST protocol XML JSON data format"
+    }
+]

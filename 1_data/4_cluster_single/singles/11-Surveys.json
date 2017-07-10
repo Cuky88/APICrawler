@@ -1,0 +1,68 @@
+[
+    {
+        "progweb_cat": "Surveys,Management",
+        "api_name": "GoSpotCheck",
+        "id": 1797,
+        "progweb_descr": " GoSpotCheck API integrate survey web service data collection purpose It available REST architecture HTTP request JSON response HTTPS secure access Developers authenticate via OAuth 2 allow obtain method mission task job With API user could optimize industry program manage retail enhance customer saving"
+    },
+    {
+        "progweb_cat": "Surveys,Feedback",
+        "api_name": "SmartSurvey",
+        "id": 2104,
+        "progweb_descr": " SmartSurvey API integrate survey questionnaire application It available REST architecture JSON format API key authentication method Use API build interactive survey manage collaborative team report analytic feedback"
+    },
+    {
+        "progweb_cat": "Surveys,Analytics",
+        "api_name": "Netigate",
+        "id": 2378,
+        "progweb_descr": " Netigate REST API allow developer access integrate functionality Netigate application Some example API method include list survey manage survey retrieve survey response Netigate online survey platform"
+    },
+    {
+        "progweb_cat": "Surveys,Customer Service",
+        "api_name": "SurveyRock",
+        "id": 3830,
+        "progweb_descr": " SurveyRock API allow developer access user survey distributor respondent detail result It available JSON REST format As service SurveyRock create survey poll analyze result export feedback spreadsheet"
+    },
+    {
+        "progweb_cat": "Surveys,Customer Service",
+        "api_name": "Survata",
+        "id": 5804,
+        "progweb_descr": " Survata API allow developer access integrate survey functionality Survata create survey question support type identify target audience specify number respondent view result API currently beta interested developer email contactsurvatacom API access Survata survey consumer feedback application allow user create survey retrieve feedback customer"
+    },
+    {
+        "progweb_cat": "Surveys",
+        "api_name": "Ethnio Partner",
+        "id": 5339,
+        "progweb_descr": " Use Ethinio Partner API screen participant research API use HTTP GET method accept either JSON XML data format Ethnio display survey site visitor direct qualified responder partner site depth interview Ethnio also handle schedule person phone interview incentive payment See project documentation API method sample code instruction get start"
+    },
+    {
+        "progweb_cat": "Surveys,Forms",
+        "api_name": "Typeform Data",
+        "id": 6667,
+        "progweb_descr": " TypeForm Data API allow developer consult data available typeform survey application There several different parameter developer use filter response request Those parameter include completeincomplete entry data time first last response limit number response"
+    },
+    {
+        "progweb_cat": "Surveys,Conversions",
+        "api_name": "SlimSurveys",
+        "id": 9261,
+        "progweb_descr": " RapidEngage solve problem increase website engagement Our website engagement toolsuite automatically deliver signups conversion sale pageviews 25 marketer product manager website owner Using Engagement Layer technology youll able deliver right message right person right time without ever modify site code"
+    },
+    {
+        "progweb_cat": "Surveys,Customer Relationship Management",
+        "api_name": "CheckMarket Survey",
+        "id": 10152,
+        "progweb_descr": " CheckMarket enterprise survey tool Survey API allow integrate backend RESTful interface Uses include continuous monitoring automate survey dispersal personalize survey base customer profile historical customer response data Our REST API support XML JSON Handson documentation full feature example Key management role improve security"
+    },
+    {
+        "progweb_cat": "Surveys,Q&A",
+        "api_name": "Flash Polling",
+        "id": 11780,
+        "progweb_descr": " service provide singlequestion survey functionality include create questionnaire log answer report result analysis Each poll consist single question display web page distribute SMS text message Twitter Respondents answer web via text reply phone call Comments log make available download analysis"
+    },
+    {
+        "progweb_cat": "Surveys,Business",
+        "api_name": "Surveygizmo",
+        "id": 15762,
+        "progweb_descr": " SurveyGizmo API design integrate survey feature campaign capability application intranet CMS WordPress Blogs etc create standalone application widget"
+    }
+]

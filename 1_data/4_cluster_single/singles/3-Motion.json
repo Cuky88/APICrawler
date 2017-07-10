@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Motion,3D",
+        "api_name": "Motion Shadow",
+        "id": 4437,
+        "progweb_descr": " Motion Shadow system wearable flexible fabric embed sensor use digitally capture motion Motion Shadow API allow integrate 3D motion real time wearable hardware software Documentation guide developer work motion interface connect WiFi network interact viewer display graphic real time API offer XML format compatible C C Lua Unity Maya function"
+    },
+    {
+        "progweb_cat": "Motion,Analytics",
+        "api_name": "Placemeter",
+        "id": 4894,
+        "progweb_descr": " Placemeter REST API allow developer access integrate functionality Placemeter applications Some example API method include retrieve measurement data create parameter data collection access measurement metadata Placemeter service turn video motion sensor data traffic front physical place retail store"
+    },
+    {
+        "progweb_cat": "Motion,Internet of Things",
+        "api_name": "Sense360",
+        "id": 5312,
+        "progweb_descr": " Sense360 API allow developer access integrate functionality Sense360 applications Some example API method include return event detail retrieve place interest set personal place Sense360 sensor intelligence platform detect background location activity context around people use mobile application"
+    }
+]

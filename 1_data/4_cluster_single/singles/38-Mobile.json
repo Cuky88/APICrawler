@@ -1,0 +1,230 @@
+[
+    {
+        "progweb_cat": "Mobile,Financial",
+        "api_name": "IMwallet Recharge",
+        "id": 1480,
+        "progweb_descr": " IMwallet Recharge API allow developer integrate online mobile recharge service websites application IMwallet connects major prepaid recharge facility India include mobile operator DTH operator data card operator They also provide domestic money transfer bill payment service postpaid landline gas electric water insurance bill"
+    },
+    {
+        "progweb_cat": "Mobile,Application Development",
+        "api_name": "Bitrise Build Trigger",
+        "id": 1886,
+        "progweb_descr": " Bitrise Build Trigger REST API allow developer access integrate functionality Bitrise application create new application Some example API method include manage webhooks manage team manage application Bitrise mobile application development integration development service"
+    },
+    {
+        "progweb_cat": "Mobile,Application Development",
+        "api_name": "Riviera Build",
+        "id": 4727,
+        "progweb_descr": " Riviera Build mobile apps distribution tool Developers find Riviera Build API useful access Riviera Build API endpoints get information application build upload upload new build"
+    },
+    {
+        "progweb_cat": "Mobile,Application Development",
+        "api_name": "qx.Mobile",
+        "id": 5462,
+        "progweb_descr": " qxMobile API provide developer way build integrate low level component mobile device Qooxdoo universal JavaScript framework own manage 11 web host company"
+    },
+    {
+        "progweb_cat": "Mobile,Application Development",
+        "api_name": "Apache Cordova",
+        "id": 6697,
+        "progweb_descr": " Apache Cordova provide device APIs allow mobile app developer access native device function JavaScript This combined UI framework allow smartphone app develop HTML CSS JavaScript Cordova APIs assist apps build without native code app developer Instead web technology use host app locally"
+    },
+    {
+        "progweb_cat": "Mobile,Authentication",
+        "api_name": "Mobile Connect Discovery",
+        "id": 1943,
+        "progweb_descr": " Mobile Connect Discovery API authenticate user provide detail home operator Developers configure mobile data perform callback JSON format use client ID client secret main authorization method"
+    },
+    {
+        "progweb_cat": "Mobile,Authentication",
+        "api_name": "Mobile Connect",
+        "id": 1944,
+        "progweb_descr": " Mobile Connect API integrate authentication process mobile device avoid remember password verify user one step JSON format available perform callback previously authenticate token Developers experiment sandbox enable configuration authorization"
+    },
+    {
+        "progweb_cat": "Mobile,Authentication",
+        "api_name": "1Linx Operator Look Up",
+        "id": 6315,
+        "progweb_descr": " 1Linx Operator LookUp API allow find carrier tie specific number This way authenticate validity number determine land line VOIP mobile number Coverage include US Canada Don ’ waste message customer ’ receive As marketer already know value quality data With 1Linx ’ Operator LookUp Stop hacker track Receive intelligent data pattern history phone type flag highrisk transaction outright block Increase rate successful call Reduce false lead improperly format number inaccurate information make next customer call successful Ensure phone number receive SMS message Enables know origin number ’ mobile number confirm carrier allow SMS message"
+    },
+    {
+        "progweb_cat": "Mobile,Advertising",
+        "api_name": "PushSpring Data Partner",
+        "id": 2371,
+        "progweb_descr": " Data Partner API provide way PushSpring ingest partner data make available PushSpring Audience Console customer use build custom segment It allow data partner define set Attributes associate mobile advertising identifier IDFA Google Play Ad Id PushSpring provide mobile app audience data audience intelligence tool publisher advertiser"
+    },
+    {
+        "progweb_cat": "Mobile,Advertising",
+        "api_name": "Reveal Mobile Audience Insights",
+        "id": 4721,
+        "progweb_descr": " With Reveal Mobile Mobile Insights API developer integrate analytics feature application engage consumer documentation include JSON object Key access Available iOS Android SDK supplement mobile integration Reveal Mobile help application builder target user ad base location beacon interaction instal application"
+    },
+    {
+        "progweb_cat": "Mobile,Advertising",
+        "api_name": "Smaato",
+        "id": 5147,
+        "progweb_descr": " Smaato API allow developer access integrate functionality Smaato application create new application Some example API method include user management publishing advertising retrieve metric advertise Smaato solution mobile application monetization mobile advertising"
+    },
+    {
+        "progweb_cat": "Mobile,Advertising",
+        "api_name": "42 Matters",
+        "id": 5156,
+        "progweb_descr": " 42matters App Market API allow developer search access metadata relate mobile apps available Google Play Store Apple AppStore 42matters offer service application engagement market intelligence well full app detail country availability app market explorer tool"
+    },
+    {
+        "progweb_cat": "Mobile,Internet of Things",
+        "api_name": "Placer",
+        "id": 2468,
+        "progweb_descr": " Placer REST API support construction mobile application implement locationbased track concept include round clock location track generation timeline analytics user ’ favorite place home workplace content API allow developer add contextual geofencing capability application chronicle user ’ activity identify favorite place This API send request HTTP format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Mobile,Verification",
+        "api_name": "OnVerify",
+        "id": 2899,
+        "progweb_descr": " OnVerify API allow developer automatically perform phonebased verification use SMS push message Recipients give verification code enter developer website complete verification OnVerify work phone type destination worldwide available multiple language include English Spanish German French Italian"
+    },
+    {
+        "progweb_cat": "Mobile,Engagement",
+        "api_name": "Projector",
+        "id": 3356,
+        "progweb_descr": " Projector user engagement system dedicate mobile base San Francisco Projector found seasoned startup veteran venturebacked toptier firm Actionable notification relevant alert tool integrate exist application Developers need register access API documentation"
+    },
+    {
+        "progweb_cat": "Mobile,Collaboration",
+        "api_name": "VoicePing Enterprise Communication",
+        "id": 3574,
+        "progweb_descr": " VoicePing Enterprise Communication API allow developer integrate communication solution enterprise application API include method alert worker audio notification get worker location information dynamically group worker VoicePings communication solution design company whose worker distribute field It allow worker communicate oneonone group well text send photo"
+    },
+    {
+        "progweb_cat": "Mobile,Analytics",
+        "api_name": "Twin Prime Data",
+        "id": 3967,
+        "progweb_descr": " Twin Prime Data API provide user programmatic access rich client network data collect Twin Prime include data metric end user mobile app performance usage Twin Prime service analyze realtime network data help user deliver content fast location device network"
+    },
+    {
+        "progweb_cat": "Mobile,Analytics",
+        "api_name": "Batch Transactional",
+        "id": 4145,
+        "progweb_descr": " Batch offer communication platform notification infrastructure This platform feature retention analysis recur campaign reward analytics reward engine Transactional API use send notification specific user use device token user IDs This API REST base use API Keys authentication"
+    },
+    {
+        "progweb_cat": "Mobile,Infrastructure-as-a-Service",
+        "api_name": "Miradore",
+        "id": 4315,
+        "progweb_descr": " Miradore Online API REST base web service intend integrate Miradore Online external information system Miradore cloudbased mobile device management MDM solution It use HTTPS GET method export data directly database Miradore Online XML format"
+    },
+    {
+        "progweb_cat": "Mobile,B2B",
+        "api_name": "GTX-Messaging HTTP Gateway",
+        "id": 4430,
+        "progweb_descr": " GTXMessaging HTTP Gateway API allow developer integrate SMS messaging application enable user automatically inform customer business partner reliable short message blink eye GTX Messaging base Germany"
+    },
+    {
+        "progweb_cat": "Mobile,Marketing",
+        "api_name": "Anchor Mobile",
+        "id": 4442,
+        "progweb_descr": " Anchor Mobile API allow integrate SMS mobile marketing application Protocols HTTP available main site also offer resource interact customer manage keywords lookup carrier Anchor Mobile provide mobile market solution include text win vote promotion bulk SMS QR barcode service social medium connection"
+    },
+    {
+        "progweb_cat": "Mobile,eCommerce",
+        "api_name": "PredictSpring",
+        "id": 5121,
+        "progweb_descr": " PredictSpring REST API allow developer access integrate functionality PredictSpring application Public documentation available API access come account service According PredictSpring website developer use API make product content shoppable Buy button social medium publisher apps PredictSpring mobile commerce solution provider"
+    },
+    {
+        "progweb_cat": "Mobile,Notifications",
+        "api_name": "OneSignal",
+        "id": 5566,
+        "progweb_descr": " OneSignal REST API allow developer access functionality OneSignal integration websites application Some example API method include manage push notification manage account information send push notification OneSignal push notification service mobile web application websites OneSignal also offer variety SDKs"
+    },
+    {
+        "progweb_cat": "Mobile,Notifications",
+        "api_name": "Prowl",
+        "id": 15397,
+        "progweb_descr": " Prowl Growl client iPhone OS Notifications Mac Windows send user iPhone iPod touch Prowl API allow user integrate script app"
+    },
+    {
+        "progweb_cat": "Mobile,SDK",
+        "api_name": "Branch Metrics Deep Linking",
+        "id": 5838,
+        "progweb_descr": " Branch Metrics REST API allow developer access integrate functionality Branch Metrics application Some example API method include create deep link URL retrieve credit count redeem credit Branch Metrics referral system use link webhooks branch link user referral functionality"
+    },
+    {
+        "progweb_cat": "Mobile,Payments",
+        "api_name": "Re4charge",
+        "id": 5889,
+        "progweb_descr": " Re4Charge REST API allow developer access integrate functionality Re4Charge applications Some example API method include send payment recharge account manage user information API documentation available account service Re4Charge mobile phone recharge payment system"
+    },
+    {
+        "progweb_cat": "Mobile,Automation",
+        "api_name": "JudoPay Marketplace",
+        "id": 6115,
+        "progweb_descr": " Judo Marketplace use provide card acceptance well automate fee collection user Judo Marketplace thus good business connect customer business seller Marketplace API enable programmatic access marketplace admin function payment processing feature allow user host marketplace publish multiple apps multiple customer automate payment fee"
+    },
+    {
+        "progweb_cat": "Mobile,Asia",
+        "api_name": "Thailand Mobile Recharge",
+        "id": 6587,
+        "progweb_descr": " Thailand Mobile Recharge API provide ThailandTopupcom top credit prepay mobile phone three major Thai mobile phone network AIS 12call DTAC Happy True Move From single account user add credit prepay mobile phone network An Auto Lookup feature allow user look network associate phone number real time Users pay credit PayPal Thai Bank Transfer"
+    },
+    {
+        "progweb_cat": "Mobile,Developers",
+        "api_name": "IPSW Firmware Links",
+        "id": 6703,
+        "progweb_descr": " IPSW independent resource enable user find links download iOS firmware Developers integrate IPSW API order receive site notification well reminder new update release site also include link resource aid jailbreaking device API make different parameter access different bot specific information channel Firmware PwnageTool fwlinksbot iTunes redsn0w API service host Just Penguin resource Apple TV Mac OSX iOS user"
+    },
+    {
+        "progweb_cat": "Mobile,Applications",
+        "api_name": "Appsee",
+        "id": 8695,
+        "progweb_descr": " Appsee platform allow mobile application developer publisher understand user Appsee provide inapp visualization analytics feature measure improve application user experience Appsee API allow developer access integrate functionality Appsee application main API method retrieve application session associate information"
+    },
+    {
+        "progweb_cat": "Mobile,Web Site Management",
+        "api_name": "MOMA CellConnect",
+        "id": 11229,
+        "progweb_descr": " MoMA provider CellSeries Mobile Ability Platform mobile Internet site creation tool use drag drop interface allow rapid creation mobile Internet sit A number feature available designer integrate include form field capture consumer profile data list building deliver mobile content downloads video stream Also include clicktocall store locator map viral mobile greeting card automate ad serving CellConnect API mobile connectivity tool allow integration outside business software system API use send data customer relationship management software package report SMS subscription group facilitate optin campaign website confirmation manage SMS group retrieve content outside website mobile content upload bulk CellMate content management system couponing campaign redemption code number upload bulk phone number Public documentation API available"
+    },
+    {
+        "progweb_cat": "Mobile",
+        "api_name": "Dalyo",
+        "id": 11849,
+        "progweb_descr": " Dalyo web platform mobile application production It provide comprehensive toolbox make easy design deploy synchronize manage mobile application run smartphones PDAs web browser Dalyo API allow user edit data store Dalyo programmatically use SOAP call"
+    },
+    {
+        "progweb_cat": "Mobile",
+        "api_name": "dotMobi goMobi",
+        "id": 12554,
+        "progweb_descr": " dotMobi company specialize development mobile service system 3rd party business mobi use naming convention let consumer know site work mobile phone goMobi product dotMobi allow user create mobile website minute With goMobi API resellers autopopulate goMobi sit customer Please contact goMobi Account Manager information configuration API allow user modify configuration setting goMobi service domain It make set API call permit set configuration property title description goMobi site instantiation deinstantiation goMobi feature apps site modification theme site API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Mobile",
+        "api_name": "DeviceAtlas",
+        "id": 12570,
+        "progweb_descr": " service provide access database mobile device characteristic use detect optimize performance specific user platform It give highperformance access collaborative dotMobi list comprehensive catalog update daily mobile device characteristic API method support request provide device identifier return full device description characteristic Applications optimize parameter detect"
+    },
+    {
+        "progweb_cat": "Mobile,Testing",
+        "api_name": "dotMobi Ready.mobi",
+        "id": 12555,
+        "progweb_descr": " dotMobi company specialize development mobile service system 3rd party business mobi use naming convention let consumer know site work mobile phone Readymobi web page test tool offer dotMobi Users enter page URL readymobi evaluate well page display mobile device test Mobile Web Best Practices dotMobi compliance rule API allow user run test mobilereadiness test web site application without use readymobi web interfaceThe API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Mobile,Barcodes",
+        "api_name": "SPARQcode QRGen",
+        "id": 14474,
+        "progweb_descr": " QRGen API enable create custom dynamic QR Codes optimize North American mobile camera phone SPARQCode 2D optical recognition technology provider specialize mobile phone space OR Codes create invoke user phone dial phone number open map send SMS message API use RESTful protocol response QR Codes"
+    },
+    {
+        "progweb_cat": "Mobile,Tools",
+        "api_name": "Yandex Detektor",
+        "id": 14567,
+        "progweb_descr": " Yandex large search engine Russia develop number Internetbased service product Yandex offer owner website blog tool apply functional service Yandex project site documentation Russian Yandeks Detektor API provide ability model definition characteristic mobile device user site header HTTPrequests transmit browser device API allow user define follow parameter configure device model manufacturer screen resolution kind platform type distribution J2ME 4 category Javabased application feature access camera file system device type root certificate size application icon API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Mobile,Augmented Reality",
+        "api_name": "Junaio Callback",
+        "id": 14760,
+        "progweb_descr": " Junaio Callback API allow user interact Junaio server four type request Junaio advance Augmented Reality browser It act instant source information place event bargain object locate nearby API follow method subscribe search event visual search API use RESTful call response format XML"
+    }
+]

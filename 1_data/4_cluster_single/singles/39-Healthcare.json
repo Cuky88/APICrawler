@@ -1,0 +1,236 @@
+[
+    {
+        "progweb_cat": "Healthcare,Community",
+        "api_name": "REFUGE Restrooms",
+        "id": 637,
+        "progweb_descr": " Based San Francisco REFUGE Restrooms resource provide transgender intersex gender nonconforming individual access library restroom safe environment Similar deprecate Safe2Pee user search restroom proximity may add new restroom directory also comment rate experience site service aim promote restroom advocacy community building project accessible use RESTful API Using GET HTTP request developer query restroom database keyword also return full list database entry JSON format"
+    },
+    {
+        "progweb_cat": "Healthcare,Community",
+        "api_name": "CareMessage",
+        "id": 6207,
+        "progweb_descr": " CareMessage API allow developer access integrate functionality data CareMessage application Public documentation available interested developer contact CareMessage API access CareMessage platform allow healthcare provider communicate patient text mobile application"
+    },
+    {
+        "progweb_cat": "Healthcare,Applications",
+        "api_name": "GETHealth",
+        "id": 698,
+        "progweb_descr": " GetHealth Unified RESTful API access health data wearable device It allow user integrate source like Dailymile Fatsecret Fitbit Google Fit Jawbone Lifefitness MapMyFitness MapMyRun MapMyWalk Microsoft Health Misfit Moves PredicctBGL Runkeeper Strava Sony Lifelog Withings 23andMe It also allow integration medical device There api call available activity diabetes weight nutrition sleep genotype Furthermore ease user authentication process source singlesign API call Also normalize data across multiple source provide unified data structure"
+    },
+    {
+        "progweb_cat": "Healthcare,Compliance",
+        "api_name": "NantHealth eviti Web",
+        "id": 1427,
+        "progweb_descr": " NantHealth eviti Web API provide acces Healthcare relate data include AdvisorTransaction AnalyzerRuns CancerStages DrugRoutes NantHealths eviti help clinician select treatment best address patient ’ unique diagnosis complies patient health insurance plan"
+    },
+    {
+        "progweb_cat": "Healthcare,Compliance",
+        "api_name": "Strap",
+        "id": 3717,
+        "progweb_descr": " Strap API integrate health data intelligence application compliance purpose It available JSON architecture token authentication Strap provide platform HIPAA compliant health apps wearable analysis"
+    },
+    {
+        "progweb_cat": "Healthcare,Compliance",
+        "api_name": "TrueVault REST Users",
+        "id": 4469,
+        "progweb_descr": " TrueVault Users API allow developer create new user follow HIPPA privacy standard patient personal information Authentication available API Key token API call receive response HTTP status JSON protocol need retrieve document endpoint True Vault HIPAA compliant secure database healthcare industry"
+    },
+    {
+        "progweb_cat": "Healthcare,Compliance",
+        "api_name": "Catalyze.io Mock",
+        "id": 4536,
+        "progweb_descr": " Catalyzeio API available simulation initial implementation healthcare practice Documentation include JSON protocol access API Key Developers use API create project require HIPPA compliance protect patient privacy right Catalyze HIPPA compliant healthcare software company"
+    },
+    {
+        "progweb_cat": "Healthcare,Compliance",
+        "api_name": "Sikka",
+        "id": 4843,
+        "progweb_descr": " Sikka API allow developer access optin HIPAA HITECH compliant rich data generate healthcare practice Developers use API build custom apps practice use 30 apps already provide Sikka Sikka company develop software help provider retail health industry optimize business"
+    },
+    {
+        "progweb_cat": "Healthcare,Compliance",
+        "api_name": "Medable",
+        "id": 5327,
+        "progweb_descr": " Medable cloud platform provide HIPAAcompliant service mobile web application Using API build HIPAA compliant fullstack scalable health application matter week Medable API RESTful organize around resource provide build rich interactive healthcare application"
+    },
+    {
+        "progweb_cat": "Healthcare,Algorithms",
+        "api_name": "RetinaLyze",
+        "id": 1592,
+        "progweb_descr": " RetinaLyze screen algorithm use screen retinalfundus image posterior segment human eye early sign Diabetic Retinopathy Agerelated Macula Degeneration API return easily understandable result use PACS Patientjournal EMR eyescreening software"
+    },
+    {
+        "progweb_cat": "Healthcare,Health",
+        "api_name": "AskCHIS Neighborhood Edition",
+        "id": 1663,
+        "progweb_descr": " AskCHIS Neighborhood Edition AskCHIS NE API provide access granular level health estimate available AskCHIS NE dashboard API use web development research make easy user build custom query extract estimate Health indicator AskCHIS NE create use sophisticated modeling technique call Small Area Estimation SAE Data available zip code city county legislative district assembly senate congressional state level geographic entity within state California This API available Free version provide access single query pool mass query 1000 API call 90 day expiration Premium version access parameter Maximum 100000 API call CHIS provide access authoritative health information multitude way include AskCHIS AskCHIS Neighborhood Edition Public Use Data Files AskCHIS NE API"
+    },
+    {
+        "progweb_cat": "Healthcare,Health",
+        "api_name": "Validic Connect Partner",
+        "id": 3463,
+        "progweb_descr": " This REST API provide health wellness data share organization seek consume It allow developer health apps device push data platform API Validic digital health platform provider work wellness company fitnessrelated organization would like manage medical wellness fitness apps device provide health data"
+    },
+    {
+        "progweb_cat": "Healthcare,Health",
+        "api_name": "Applied Informatics HaVOC Health Vocabulary",
+        "id": 3573,
+        "progweb_descr": " HaVoc REST base API offer access every medical terminology register UMLS Unified Medical Language System use implement health biomedical vocabulary health application This API feature class base query autosuggestion disease names symptoms synonym abbreviation JSON use data exchange API Keys require authentication Applied Informatics New York base firm provide holistic technology solution service"
+    },
+    {
+        "progweb_cat": "Healthcare,Health",
+        "api_name": "Availity Claim Status",
+        "id": 4634,
+        "progweb_descr": " Availity Claim Status API provide request response claim status information health care plan Availity APIs allow developer integrate develop healthcare software Developers use Availity APIs exchange information provider health plan"
+    },
+    {
+        "progweb_cat": "Healthcare,Health",
+        "api_name": "Allscripts",
+        "id": 5989,
+        "progweb_descr": " Allscripts API allow developer integrate develop Allscripts EHR Electronic Health Record software Developers use Allscripts discretely exchange data EHR system thirdparty application allow information share quickly accurately healthcare provider This API available register Allscript developer"
+    },
+    {
+        "progweb_cat": "Healthcare,Health",
+        "api_name": "RX Aggregation",
+        "id": 6404,
+        "progweb_descr": " PillFills RX Aggregation API allow developer aggregate prescription information major US chain pharmacy pharmacy benefit manager aim allow user import prescription exist healthcare account pharmacy insurance application automatically Information aggregate include prescription information prescribe doctor dispense pharmacy All prescription information map standard clinical model include RxNorm NDFRT"
+    },
+    {
+        "progweb_cat": "Healthcare,Health",
+        "api_name": "Facility Registry",
+        "id": 6702,
+        "progweb_descr": " Facility Registry API open standard allow share update health facility data site offer implementation note HTTP response code authentication versioning This API ongoing collaborative effort start Open Facility Registry Service Project Facility Registry Expansion Development FRED support United States Agency International Development US President Emergency Plan AIDS Relief"
+    },
+    {
+        "progweb_cat": "Healthcare",
+        "api_name": "athenahealth",
+        "id": 2020,
+        "progweb_descr": " This API allow programatic access athenahealths EMR practice management product It provide tailored programming VIP access expert exposure 75000 athenahealth provider Athenahealth provide networkenabled service mobile apps medical group health system"
+    },
+    {
+        "progweb_cat": "Healthcare",
+        "api_name": "PokitDok Platform",
+        "id": 7139,
+        "progweb_descr": " PokitDok healthcare marketplace software platform support transparent healthcare shop cash HSA insurance payment web mobile device Developers insurance company selfinsured employer license PokitDok empower consumer research shop consciously treatment compare best value insurance cash price even pay front full price transparency More 1000 business currently use PokitDok build digital storefront offer eligibility check quote price process claim full support cash HSA insurance payment PokitDok API provide developer ability perform X12 transaction batch process o ASC X12 5010 compatible file locate healthcare provider get information health care procedure pricing"
+    },
+    {
+        "progweb_cat": "Healthcare,Medical Records",
+        "api_name": "Athenahealth FHIR DSTU2",
+        "id": 2043,
+        "progweb_descr": " These endpoint partial implementation FHIR DSTU2 specification This include Get individual vital ID Get specific medication ID Gets list procedure give patient Athenahealth provide networkenabled service mobile apps medical group health system"
+    },
+    {
+        "progweb_cat": "Healthcare,Government",
+        "api_name": "CMS Quality Payment Improvement Activities",
+        "id": 2591,
+        "progweb_descr": " CMS Quality Payment Improvement Activities API allow developer get complete list Improvement Activities one four performance category Quality Payment Program This API require input return full list improvement activity This API support Quality Payment Program provide CMS Centers Medicare Medicaid Services"
+    },
+    {
+        "progweb_cat": "Healthcare,Government",
+        "api_name": "CMS Quality Payment Advancing Care Information",
+        "id": 2592,
+        "progweb_descr": " CMS Quality Payment Advancing Care Information API allow developer get list measure Advancing Care Information category one four performance category Quality Payment Program It replace Meaningful Use program currently exist This API support Quality Payment Program provide CMS Centers Medicare Medicaid Services"
+    },
+    {
+        "progweb_cat": "Healthcare,Government",
+        "api_name": "CMS Quality Payment Quality Measures List",
+        "id": 2593,
+        "progweb_descr": " CMS Quality Payment Quality Measures List API allow developer get list measure Quality performance category It one four performance category replace exist Physician Quality Reporting System PQRS This API support Quality Payment Program provide CMS Centers Medicare Medicaid Services"
+    },
+    {
+        "progweb_cat": "Healthcare,Data-as-a-Service",
+        "api_name": "myTomorrows Medical Trials and Patient Treatments",
+        "id": 3084,
+        "progweb_descr": " myTomorrows Medical Trials Patient Treatments API readonly service allow user discover treatment option match patient clinical trial expand access program This API draw database trial treatment content take 16 WHO Primary Partner registries public source"
+    },
+    {
+        "progweb_cat": "Healthcare,Messaging",
+        "api_name": "TigerConnect",
+        "id": 4337,
+        "progweb_descr": " TigerConnect message platform healthcare application develop TigerText This platform feature endtoend encryption peertopeer group message attachment support patient information support TigerConnect limit 100 message per day developer need contact TigerText directly gain access high limit TigerConnect API REST base exchange information JSON format use API Keys HTTP Basic Authentication"
+    },
+    {
+        "progweb_cat": "Healthcare,Scheduling",
+        "api_name": "Walgreens Clinic Appointment Scheduler",
+        "id": 4588,
+        "progweb_descr": " Walgreens Healthcare Clinic Appointment Scheduler API offer user ability schedule healthcare appointment Appointments schedule 400 Walgreens Healthcare clinic across US This API REST format"
+    },
+    {
+        "progweb_cat": "Healthcare,Directories",
+        "api_name": "SeniorAdvisor",
+        "id": 4961,
+        "progweb_descr": " SeniorAdvisor API allow user programmatically access directory almost 100000 Alzheimers care assist living independent living home care provider US Canada integration websites This directory include names location amenity service price customer review Developers select different element API show data theyre interested"
+    },
+    {
+        "progweb_cat": "Healthcare,API",
+        "api_name": "BetterDoctor",
+        "id": 5025,
+        "progweb_descr": " BetterDoctor API offer access database doctor insurance network API use HTTP method JSON JSONP datatypes require API Key authentication Use BetterDoctor search doctor name location specialty BetterDoctor also retrieve doctor description list know condition insurance provider rating photo contact information specialty See API documentation code sample instruction register API Key httpsbetterdoctorcomdevelopers"
+    },
+    {
+        "progweb_cat": "Healthcare,Business",
+        "api_name": "Availity Service Review",
+        "id": 5061,
+        "progweb_descr": " Availity Service Review API use authorize service refer patient different provider Information patient status transport distance available This REST API use OAuth 2 SHA256 MD5 authentication method Requests must contain authorization header use Bearer token scheme Availity function intermediary health plan provider"
+    },
+    {
+        "progweb_cat": "Healthcare,Business",
+        "api_name": "Availity Configuration",
+        "id": 5062,
+        "progweb_descr": " Availity Configuration API return validation rule different resource Information health plan list coverage available This REST API use OAuth 2 SHA256 MD5 authentication method Requests must contain authorization header use Bearer token scheme Availity function intermediary health plan provider"
+    },
+    {
+        "progweb_cat": "Healthcare,Business",
+        "api_name": "Availity Coverage",
+        "id": 5063,
+        "progweb_descr": " Availity Coverage API use manage find information member coverage This REST API use OAuth 2 SHA256 MD5 authentication method Requests must contain authorization header use Bearer token scheme Availity function intermediary health plan provider"
+    },
+    {
+        "progweb_cat": "Healthcare,Data",
+        "api_name": "NHS Data",
+        "id": 5065,
+        "progweb_descr": " NHS Data API REST service API offer JSON format NHS Data API help developer increase productivity reduce development time NHS short National Health Service publicly fund health care system United Kingdom presently available data Now also available database download"
+    },
+    {
+        "progweb_cat": "Healthcare,Education",
+        "api_name": "MedSelfEd Patient Education & Engagement",
+        "id": 5161,
+        "progweb_descr": " MedSelfEd IncAPI allow online patient engagement platform integrate website CMS LMS MedSelfEd APIs MedSelfEd API Offerings enable organization patient educator application developer connect MSE content anywhere realtime"
+    },
+    {
+        "progweb_cat": "Healthcare,Medical",
+        "api_name": "Lifepoint Medical Necessity Validation",
+        "id": 5451,
+        "progweb_descr": " Lifepoint Medical Necessity Validation API lightweight web service allow user check CPT cod A CPT 5digit code reporting medical service Lifepoint information technology provider specialize healthcare"
+    },
+    {
+        "progweb_cat": "Healthcare,Medical",
+        "api_name": "Akido",
+        "id": 5550,
+        "progweb_descr": " Akido REST API allow developer access integrate functionality Akido applications health record software Some example API method include manage patient patient information manage practitioner information manage diagnostic information Akido provide standard API hospital healthcare provider"
+    },
+    {
+        "progweb_cat": "Healthcare,Backend-as-a-Service",
+        "api_name": "CHINO.io",
+        "id": 5496,
+        "progweb_descr": " Chinoio API provide health application developer secure API storage health data accord EU Data Protection law Chinoio API apply RESTful principle provide access secure noSql scalable database By use Chino developer solve privacy law compliance issue speed application development increase trust"
+    },
+    {
+        "progweb_cat": "Healthcare,Big Data",
+        "api_name": "Doctrly",
+        "id": 6353,
+        "progweb_descr": " Doctrly API utilized developer construct application store access electronic health record Using API developer EHR vendor healthcare organization build apps provide pharmaceutical documentation procedure labs REST API consume obtain API key It access HTTPS increase encryption test use Doctrly API sandbox"
+    },
+    {
+        "progweb_cat": "Healthcare,Database",
+        "api_name": "VIDAL Group",
+        "id": 6625,
+        "progweb_descr": " VIDAL Group French healthcare informatics group specialize databasing distribute healthcare data pharmaceutical information treatment specification scientific publication patient healthcare practitioner European continent worldwide VIDAL Group also support medical software application name VIDALs database may access 3rd party developer construct healthcarerelated application website After acquire app ID API key MIDAL user query VIDAL server return data drug score allergies product information ingredient related document"
+    },
+    {
+        "progweb_cat": "Healthcare,Aggregation",
+        "api_name": "DHS Program",
+        "id": 6888,
+        "progweb_descr": " Demographic Health Surveys DHS Program run government agency US AID host compilation aggregate indicator global healthcare Their data set contain statistic field nutrition HIV malaria population fertility mortality rate source woman childbearing age 90 country data access accord national subnational cumulative parameter API us querybased interface well RESTful interface support JSON XML CSV output format A query builder exist help developer determine specific URL call efficiently Registered user may obtain API key order receive large amount data"
+    }
+]

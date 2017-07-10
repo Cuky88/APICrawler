@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Community,Data",
+        "api_name": "Higher Logic",
+        "id": 3115,
+        "progweb_descr": " Higher Logic API provide organization programmatic access Community data functionality It design Clientside JavaScript Serverside technology Since specific technology utilize give organization vary API create enable access via HTTP development platform Higher Logic cloudbased community platform bring people together share drive content creation"
+    },
+    {
+        "progweb_cat": "Community,Religion",
+        "api_name": "The City Plaza",
+        "id": 3187,
+        "progweb_descr": " This API allow access church main website via City maintain information send City Plaza It ACS Technologies software enable communication community church way keep church web presence unify ACS Technologies software service company people focus support day day effort church school ministry"
+    },
+    {
+        "progweb_cat": "Community,Content",
+        "api_name": "Inversoft CleanSpeak",
+        "id": 3334,
+        "progweb_descr": " CleanSpeak offer content filter community moderation tool exist application medium realtime chat online forum game image videos Additionally CleanSpeak use data scrub mining CleanSpeak REST API customizable profanity offensive content filter feature alert approval behavior track user score content analysis This API require API Keys authentication exchange information JSON format Inversoft provide solution moderate online community user generate content"
+    },
+    {
+        "progweb_cat": "Community,Blogging",
+        "api_name": "IPS Community Suite",
+        "id": 3640,
+        "progweb_descr": " IPS Community Suite API provide developer method building webbased community interact content Online community may use engage fan allow employee share information answer customer question increase customer loyalty Invision Power Services IPS provide user method handle forum content calendar image gallery blog chat room"
+    }
+]

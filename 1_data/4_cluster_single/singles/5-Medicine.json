@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Medicine,Medical",
+        "api_name": "STAT!Ref",
+        "id": 607,
+        "progweb_descr": " StatRef virtual source healthcare information wide variety medicine field StatRef invite developer use API show search bar information new site API healthcare information To create application developer access RSS 20 Atom 10 format require parameter searchTerms grpalias Some optional parameter include startIndex count srtitleList format In site developer find examples query error handle Developer support available"
+    },
+    {
+        "progweb_cat": "Medicine,Medical",
+        "api_name": "RxClass",
+        "id": 7093,
+        "progweb_descr": " RxClass API allow developer retrieve information RxNorm database include normalized names clinical drug It link name drug vocabulary often use pharmacy management drug interaction software enable help type software communicate effectively"
+    },
+    {
+        "progweb_cat": "Medicine,Content",
+        "api_name": "UMLS REST",
+        "id": 4446,
+        "progweb_descr": " UMLS REST API support webbased search content retrieval Unified Medical Language System UMLS database operate US National Library Medicine Updated biannually May November every year UMLS facilitate management wide range data include patient ’ demographic characteristic genealogical data crucial biomedical information current release UMLS REST beta version documentation also available API ’ homepage Its access authenticate use ticket"
+    },
+    {
+        "progweb_cat": "Medicine,Healthcare",
+        "api_name": "CoverMyMeds Pharmacy",
+        "id": 4656,
+        "progweb_descr": " Cover My Meds Pharmacy API provide implementation resource organize patient information pharmacy Useful developer create healthcare project require medicine information dose patient data API available JSON format API Key"
+    },
+    {
+        "progweb_cat": "Medicine,Healthcare",
+        "api_name": "CoverMyMeds Prescriber Systems",
+        "id": 4657,
+        "progweb_descr": " Cover My Meds Prescriber Systems API available REST format Api Key Shared Secret authentication method One main integration feature allow developer register prescribers credential offer system"
+    }
+]

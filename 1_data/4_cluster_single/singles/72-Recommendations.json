@@ -1,0 +1,434 @@
+[
+    {
+        "progweb_cat": "Recommendations,Movies",
+        "api_name": "Rotten Tomatoes",
+        "id": 218,
+        "progweb_descr": " Rotten Tomatoes website contain information movie information news review rating picture etx Rotten Tomatoes API RESTful web service design easy explore use Developers use API access Rotten Tomatoes database movie data use Lists Movies DVDs section API"
+    },
+    {
+        "progweb_cat": "Recommendations,Movies",
+        "api_name": "trakt.tv",
+        "id": 455,
+        "progweb_descr": " Trakt help keep record TV show movie user watch Based user favorite trakt recommend additional show movie Trakt API let user integrate trakt service application Users view calendar add movie library rate show episodes recommend movie API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Recommendations,Movies",
+        "api_name": "GuruCue",
+        "id": 12639,
+        "progweb_descr": " GuruCue service help user choose watch give visual cue choose movie video accord taste service intend provider movie video content look improve personalization service end user Users rate movie watch movie rat good recommendation give API currently beta Interested developer contact provider httpwwwgurucuecomfeedbackphp request permission test API"
+    },
+    {
+        "progweb_cat": "Recommendations,Movies",
+        "api_name": "Filmaster",
+        "id": 14980,
+        "progweb_descr": " Filmaster social network movie fan personalize content recomendations Filmaster allow user run film blog use domain like youfilmastercom rate movie talk movie others community Personalized recommendation bonus API provide functionality retrieve review blog post follower API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Recommendations,Movies",
+        "api_name": "Vizimo",
+        "id": 15318,
+        "progweb_descr": " Vizimo enable content find relevant viewer We discovery business goal help viewer answer I watch question Vizimos approach enable next generation guidance revolve around unique ability understand aboutness content Register API information httpwwwvizimocomapiregisterhtml"
+    },
+    {
+        "progweb_cat": "Recommendations,Business",
+        "api_name": "Yelp Fusion",
+        "id": 280,
+        "progweb_descr": " Yelp Fusion APIs RESTful APIs user retrieve business review rating information particular geographic region locationdisplay review information particular business determine accurate neighborhood name information particular location track recent review particular business display picture highly rat local business top reviewer business determine particular business review rating information base phone number business default output JSON This output format choose due availability JSON parser many language follow Yelp Fusion APIs available Search Phone Number Search Business Search Transaction Reviews Autcomplete API separate ProgrammableWeb entry"
+    },
+    {
+        "progweb_cat": "Recommendations,Business",
+        "api_name": "Yelp GraphQL",
+        "id": 1438,
+        "progweb_descr": " Yelp GraphQL API offer information business review picture location flexible manner GraphQL API return exact data specify developer This allow use single customize call receive several piece relate information API use JSON responses Developers need access Yelp Developer Beta Program order start implement GraphQL API"
+    },
+    {
+        "progweb_cat": "Recommendations,Business",
+        "api_name": "TrustPilot Categories",
+        "id": 4120,
+        "progweb_descr": " TrustPilot Categories REST HTTP API allow developer access integrate functionality TrustPilot applications Some example API method include search category list category retrieve category TrustPilot review recommendation platform search review company category function"
+    },
+    {
+        "progweb_cat": "Recommendations,Customization",
+        "api_name": "Target",
+        "id": 439,
+        "progweb_descr": " targetAPI semantic target solution predictive content personalization technology It predict user interest base userï¿½s ï¿½digital footprintï¿½ Internet web page social network tweet alumni list etc This information use targeted advertising make recommendation user API use RESTful call response JSON format"
+    },
+    {
+        "progweb_cat": "Recommendations,Customization",
+        "api_name": "SuggestGrid",
+        "id": 3073,
+        "progweb_descr": " SuggestGrid recommendation platform dedicate developer easy integration This platform use create target advertisement promotion show personalized content recommend product SuggestGrid application eCommerce content publishing online marketing advertising SuggestGrid REST API support POST GET method"
+    },
+    {
+        "progweb_cat": "Recommendations,Customization",
+        "api_name": "Gravity",
+        "id": 9876,
+        "progweb_descr": " Gravity website personalization service enable user deliver unique recommendation site visitor base interest provide visitor customizable homepage Gravity add site simply cut paste line JavaScript decide personalize module look like Gravity Personalization use website mobile apps tablet apps webconnected service"
+    },
+    {
+        "progweb_cat": "Recommendations,Customization",
+        "api_name": "Rapleaf Personalization",
+        "id": 14456,
+        "progweb_descr": " Developers use Personalization API recommend relevant content make emails personal learn loyal user Query email address use simple RESTful interface Personalization API use retrieve information person identify email hash postal address"
+    },
+    {
+        "progweb_cat": "Recommendations,Customization",
+        "api_name": "Sugestio",
+        "id": 14641,
+        "progweb_descr": " Sugestio scalable fault tolerant service bring power web personalization developer service provide easy use service interface set development library enable enrich content portal ecommerce site content base website service currently beta several pilot project"
+    },
+    {
+        "progweb_cat": "Recommendations,Search",
+        "api_name": "Moviepilot",
+        "id": 1131,
+        "progweb_descr": " Moviepilot site show late news movie recommend movie match user ’ taste RESTful API allow user make call site order search movie find cast information movie find related movie Responses format JSON Developer library also available PHP Perl Python"
+    },
+    {
+        "progweb_cat": "Recommendations,Search",
+        "api_name": "SBA Recommended Sites",
+        "id": 12884,
+        "progweb_descr": " Small Business Administration SBA strive act engine opportunity economic growth America provide variety program support service current prospective small business owner Recommended Sites API provide programmatic access SBAgovs data set link federal state local website organically recommend improve relevance long tail query governmental organization data set curated SBAgov team help people find information look use particular keywords Queries make keyword category master term word phrase assign group synonym domain This RESTful API return data XML JSON free use"
+    },
+    {
+        "progweb_cat": "Recommendations,eCommerce",
+        "api_name": "ThisNext",
+        "id": 1147,
+        "progweb_descr": " From site ThisNext API provide access ThisNext data It may eventually support data entry data manipulation ThisNext online medium socialshopping company people recommend favorite product others discover purchase online We blend wordofmouth recommendation trust source ability browse product way naturally lead discovery ThisNext also feature suite distribution tool blogger online community commerce site"
+    },
+    {
+        "progweb_cat": "Recommendations,eCommerce",
+        "api_name": "gdgt",
+        "id": 11656,
+        "progweb_descr": " gdgt consumer electronics review site They provide consumer information gadget apps cull numerous source web review reputable site CNET TechRadar aggregate score average provide balance score Users browse type gadget popularity search keyword Their API expose data developer requrest partnership"
+    },
+    {
+        "progweb_cat": "Recommendations,eCommerce",
+        "api_name": "Baynote",
+        "id": 15577,
+        "progweb_descr": " Note No developer documentation available without signup From site Baynote delivers ondemand recommendation technology website"
+    },
+    {
+        "progweb_cat": "Recommendations,eCommerce",
+        "api_name": "Loomia",
+        "id": 15579,
+        "progweb_descr": " Note No online documentation Loomia API available Contact provider detail"
+    },
+    {
+        "progweb_cat": "Recommendations,eCommerce",
+        "api_name": "CleverSet",
+        "id": 15587,
+        "progweb_descr": " From site Powerful recommendation technology Personalize online shopping experience every individual customer Once receive Retailer ID add line HTML product page cart style sheet put DIV want display recommendation"
+    },
+    {
+        "progweb_cat": "Recommendations,eCommerce",
+        "api_name": "StyleFeeder",
+        "id": 15642,
+        "progweb_descr": " From site A set RESTful service developer use leverage unique capability These service use build application desktop mobile environment platformbased application Facebook Friendster OpenSocial Other us include AJAX Flash widget search bookmark plugins others StyleFeeder personal shopping engine make personal recommendation Its great way discover new product keep track youre shop online use visual bookmark"
+    },
+    {
+        "progweb_cat": "Recommendations,England",
+        "api_name": "Qype",
+        "id": 1198,
+        "progweb_descr": " Qype API give access database 05M review rating pubs bar restaurant local business across world You search name longitude latitude user database geocoded place review rating multilingual"
+    },
+    {
+        "progweb_cat": "Recommendations,Directories",
+        "api_name": "AlternativeTo",
+        "id": 1283,
+        "progweb_descr": " API allow user integrate feature AlternativeTo site application AlternativeTo provide user recommendation alternative application mobile phone computer software Using API user access feature get application alternative find recently list application list recently like application API use RESTful protocol return data format JSON"
+    },
+    {
+        "progweb_cat": "Recommendations,Localization",
+        "api_name": "Localmind",
+        "id": 1350,
+        "progweb_descr": " Localmind API allow developer include companys local conversation platform within application Search nearby conversation create new conversation interact current conversation specific location around world API currently beta documentation available upon request"
+    },
+    {
+        "progweb_cat": "Recommendations,Localization",
+        "api_name": "YellowBot Location",
+        "id": 14928,
+        "progweb_descr": " This API let user search business within US display business information get rating review etc JSONformatted response provide YellowBot local search site find review place local community elsewhere Documentation API provide upon request"
+    },
+    {
+        "progweb_cat": "Recommendations,Environment",
+        "api_name": "GoodGuide",
+        "id": 1353,
+        "progweb_descr": " GoodGuide API enable developer access GoodGuidecom data RESTbased interface Version 10 GoodGuide API currently support one operation search return information GoodGuide rating entities An entity define GoodGuide API product company brand product category GoodGuide rating Through API find information entity currently available GoodGuidecom GoodGuide provide information health environmental social performance product companiesï¿½"
+    },
+    {
+        "progweb_cat": "Recommendations,Applications",
+        "api_name": "Qloo",
+        "id": 3288,
+        "progweb_descr": " Qloo API detect trend user preference personalizes related item within database culture entertainment API generate match recommendation usertoitem itemtoitem search variety medium lifestyle category addition mapping related entertainment spot particular geographic location Books fashion film music podcast television API ’ category medium lifestyle item Its functionality matching geolocations stretch din hospitality nightlife travel domain Qloo ’ architectural design anchor advanced machine learn method work alongside statistical application Neuroaesthetics research model detect track generate recommendation basis item correlation user preference trend Qloo API currently provide free limited access database 75 million item"
+    },
+    {
+        "progweb_cat": "Recommendations,Beauty",
+        "api_name": "ScentSee",
+        "id": 3473,
+        "progweb_descr": " ScentSee API help fragrance retailer spotrecommendation client online instore ScentSee API provide system index customer review expert opinion compile database 25000 perfume Each one compare user preference find best match"
+    },
+    {
+        "progweb_cat": "Recommendations,Analytics",
+        "api_name": "Slurplick",
+        "id": 3877,
+        "progweb_descr": " Slurplick recommendation platform extract information product image This platform feature machine learn analytics cloud infrastructure Slurplick offer API function machine learn recommendation system This API REST base use OAuth 2 authentication"
+    },
+    {
+        "progweb_cat": "Recommendations,Analytics",
+        "api_name": "recolytic",
+        "id": 6742,
+        "progweb_descr": " recolytic recommendation engine expose service rich personalization framework help user discover best recommendation strategy business This API collect user action like rating visit It provide recommendation strategy base action measure performance base strategy location"
+    },
+    {
+        "progweb_cat": "Recommendations,Big Data",
+        "api_name": "Recombee",
+        "id": 3963,
+        "progweb_descr": " Recombee provide recommender system service use data mining flexible query language variety machine learn algorithms include collaborative filtering contentbased recommendation provide useful recommendation via intuitive RESTful API You start use API free instant account create Recombee homepage"
+    },
+    {
+        "progweb_cat": "Recommendations,Content",
+        "api_name": "Ticketmaster Deals",
+        "id": 3981,
+        "progweb_descr": " Ticketmaster Deals API allow developer find content interest audience programmatically By default API user make 5000 callsday Rate increase provide casebycase basis Ticketmaster online ticket retail platform offer ticket concert sport event play fair"
+    },
+    {
+        "progweb_cat": "Recommendations,Content",
+        "api_name": "Prismatic Interest Graph",
+        "id": 5819,
+        "progweb_descr": " Prismatic Interest Graph API allow developer automatically tag interest mention document piece text well retrieve set interest similar give one Prismatic social recommendation network help user find content related interest analyze content identifying interest pertain recommend user share interest"
+    },
+    {
+        "progweb_cat": "Recommendations,Content",
+        "api_name": "ContentGems",
+        "id": 11561,
+        "progweb_descr": " Intigi online service enables app developer publisher website owner deliver relevant thirdparty content customer Intigi monitor best online source Twitter blog news site find relevant content base custom keywords Intigi integrate content application website You also distribute content via various social medium platform eg Twitter Facebook Pages LinkedIn API utilize REST architecture JSON via HTTPS use GET request retrieve list interest recommend article JSON Intigi also support integration via XMLRPC RSS"
+    },
+    {
+        "progweb_cat": "Recommendations,Sales",
+        "api_name": "Microsoft Cognitive Services Recommendations",
+        "id": 4037,
+        "progweb_descr": " Microsoft Cognitive Services Recommendations API offer product recommendation customer order improve sale feature Frequently Bought Together FBT recommendation item item recommendation personalize user recommendation There 4 pay plan available free option limit call 10000 transaction per month Recommendations API use JSON data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Recommendations,Customer Service",
+        "api_name": "TrustPilot Invitation",
+        "id": 4102,
+        "progweb_descr": " TrustPilot Invitation REST HTTP API allow developer access integrate functionality TrustPilot applications Some example API method include create invitation retrieve invitation template list invitation send TrustPilot review recommendation platform search review company category function"
+    },
+    {
+        "progweb_cat": "Recommendations,Customer Service",
+        "api_name": "TrustPilot Review",
+        "id": 4125,
+        "progweb_descr": " TrustPilot Review REST HTTP API allow developer access integrate functionality TrustPilot applications Some example API method retrieve review delete review respond review TrustPilot review recommendation platform search review company category function"
+    },
+    {
+        "progweb_cat": "Recommendations,Customer Service",
+        "api_name": "TrustPilot Resources",
+        "id": 4126,
+        "progweb_descr": " TrustPilot Resources REST HTTP API allow developer access integrate functionality TrustPilot application main API method retrieve TrustPilot resource logos image TrustPilot review recommendation platform search review company category function"
+    },
+    {
+        "progweb_cat": "Recommendations,Customer Service",
+        "api_name": "TrustPilot Product Reviews",
+        "id": 4127,
+        "progweb_descr": " TrustPilot Product Reviews REST HTTP API allow developer access integrate functionality TrustPilot applications Some example API method include retrieve product review manage private product review create invitation product review TrustPilot review recommendation platform search review company category function"
+    },
+    {
+        "progweb_cat": "Recommendations,Customer Service",
+        "api_name": "TrustPilot Consumer",
+        "id": 4128,
+        "progweb_descr": " TrustPilot Consumer REST HTTP API allow developer access integrate functionality TrustPilot application main API method retrieve user review TrustPilot review recommendation platform search review company category function"
+    },
+    {
+        "progweb_cat": "Recommendations,Customer Service",
+        "api_name": "TrustPilot Business Unit",
+        "id": 4129,
+        "progweb_descr": " TrustPilot Business Unit REST HTTP API allow developer access integrate functionality TrustPilot applications Some example API method include find business unit search business unit retrieve business unit TrustPilot review recommendation platform search review company category function"
+    },
+    {
+        "progweb_cat": "Recommendations,Products",
+        "api_name": "GrowSumo",
+        "id": 5131,
+        "progweb_descr": " GrowSumo REST API allow developer access integrate functionality GrowSumo applications Some example API method include create transaction update transaction delete transaction GrowSumo application people recommend product like people get compensate Companies use GrowSumo reward customer refer others product service"
+    },
+    {
+        "progweb_cat": "Recommendations,Nordic",
+        "api_name": "Oslo Public Library",
+        "id": 7379,
+        "progweb_descr": " Oslo Public Library Deichmanske bibliotek large public library Norway library online book recommendation service access either website via API API allow developer integrate ability find store recommendation application API documentation locate Oslo Public Library website entirely Norwegian documentation GitHub English"
+    },
+    {
+        "progweb_cat": "Recommendations,Crowdsourcing",
+        "api_name": "Apperian Crowdsourcing Ideas",
+        "id": 7528,
+        "progweb_descr": " Apperian mobile app management platform set open APIs handle key element extend integrate create additional functionality value Crowdsourcing Ideas API enable user App Catalog submit idea They submit ideas new apps well ideas improvement organization"
+    },
+    {
+        "progweb_cat": "Recommendations,Social",
+        "api_name": "Tumbz",
+        "id": 9129,
+        "progweb_descr": " Tumbz recommendation site help discover music movie book base opinion people whose taste respect Get chart product suggestion base user interest match Tumbz offer service via RESTful API resource include comment likes partner book lookup partner tv show lookup product product search review user user search user suggestion API follow basic REST principle responses sent JSON XML An API key require"
+    },
+    {
+        "progweb_cat": "Recommendations,Social",
+        "api_name": "Popyoular",
+        "id": 9823,
+        "progweb_descr": " Popyoular reviewbased recommendation discovery platform optimize movie music book related medium Website owner use Popyoular help make website best content readily available visitor use review data create toplists playlist Popyoular also filter product selection highlight certain product base review data Developers integrate Popyoular website use RESTful API"
+    },
+    {
+        "progweb_cat": "Recommendations,Social",
+        "api_name": "Relify",
+        "id": 9979,
+        "progweb_descr": " Relify recommendation service provider Relify provide infrastructure data developer integrate recommendation functionality application Relify API allow developer access integrate functionality data Relify application create application Some example API method include create data datasets create manage user manage account information"
+    },
+    {
+        "progweb_cat": "Recommendations,Social",
+        "api_name": "AppAware",
+        "id": 10141,
+        "progweb_descr": " AppAware social application game service help user find Android Apps base one currently instal friend community AppAware API allow user query top application application detail justin application pricereduced application search application call service use REST call return JSON Oauth 20 use authentication account require service"
+    },
+    {
+        "progweb_cat": "Recommendations,Social",
+        "api_name": "Viking Spots",
+        "id": 11499,
+        "progweb_descr": " VikingSpots provide mapbased usergenerated recommendation business place provide business platform advertising deal creation Vikingspots API allow 3rd party developer access platform create initiative application"
+    },
+    {
+        "progweb_cat": "Recommendations,Social",
+        "api_name": "Rummble Labs",
+        "id": 14337,
+        "progweb_descr": " Rummble Labs provide personal business recommendation content create trust network calculate trust score people Rummble lab API allow user process large volume data It use combination methodology return accurate relevant material user Full documentation available"
+    },
+    {
+        "progweb_cat": "Recommendations,Social",
+        "api_name": "GigPark",
+        "id": 14983,
+        "progweb_descr": " GigPark local business recommendation service see place friend suggest From real estate agent lawyer hairdresser chiropractor GigPark community help find best service business near GigPark API make recommendation data available developer Retrieve individual business user recommendation data return developerfriendly JSON"
+    },
+    {
+        "progweb_cat": "Recommendations,Social",
+        "api_name": "Strands Social Recommender",
+        "id": 15525,
+        "progweb_descr": " Strands Social Recommender recommendation engine enable social recommendation personalize discovery feature web wap site mobile application well email platform Using APIs developer create user experience involve personalize suggestion product medium good similar find site like Amazon Netflix YouTube This RESTstyle API accept standard HTTP GET POST request return response either XML JSON format"
+    },
+    {
+        "progweb_cat": "Recommendations",
+        "api_name": "Propers",
+        "id": 10311,
+        "progweb_descr": " Propers realtime recommendation engine Propers allow user gather collect recommendation people display website Propers API allow developer access integrate functionality Propers application Example API method include search account name retrieve display recommendation"
+    },
+    {
+        "progweb_cat": "Recommendations",
+        "api_name": "Appinions",
+        "id": 14517,
+        "progweb_descr": " Appinions opinion platform let customer collect analyze summarize opinion source around world stay engage make smarter inform decision Millions news article blog tweet process order identify opinion opinionholders topic relevant information Using API developer build Opinionbased application use simple RESTful API Responses format XML JSON"
+    },
+    {
+        "progweb_cat": "Recommendations",
+        "api_name": "Vegan Guide",
+        "id": 14571,
+        "progweb_descr": " Vegan Guide interactive guide veganfriendly restaurants cafes pub store Vegan Guide also offer XMLRPC API allow developer create application around service offer Vegan Guide There method search establishment Country City range Coordinates get Info Images Comments establishment"
+    },
+    {
+        "progweb_cat": "Recommendations",
+        "api_name": "Needish",
+        "id": 15340,
+        "progweb_descr": " Needish service let post need receive help price quote business people around Based Santiago Chile"
+    },
+    {
+        "progweb_cat": "Recommendations",
+        "api_name": "Boo-box",
+        "id": 15607,
+        "progweb_descr": " From site Use public API use wonderful product recommendation service make recommendation application Advantages give good result use boobox API search even ecommerce public API powerful cache system make search quick show booboxs recommendation whichever look like return slim XML code quicker load read"
+    },
+    {
+        "progweb_cat": "Recommendations",
+        "api_name": "RateItAll",
+        "id": 15777,
+        "progweb_descr": " Use RateItAll Consumer Rating API add consumer review million consumer rating RateItAlls database collect display rating review user base distribute promote data RateItAllcoms large user base Also monetization opportunity available"
+    },
+    {
+        "progweb_cat": "Recommendations",
+        "api_name": "WSRelater",
+        "id": 15840,
+        "progweb_descr": " Note WSRelater Aggregrate Knowledge Not currently offer public API January 2007"
+    },
+    {
+        "progweb_cat": "Recommendations",
+        "api_name": "Criteo",
+        "id": 15868,
+        "progweb_descr": " From site Criteo predictive engine powerful tool analysis consumer behavior provide relevant product recommendation Criteo QuickStart API allow start recommendation website simplified complete set function Criteo technology base collaborative predictive analysis"
+    },
+    {
+        "progweb_cat": "Recommendations,Library",
+        "api_name": "OCLC Kindred Works",
+        "id": 10371,
+        "progweb_descr": " OCLC Kindred Works experimental service provide contentbased recommendation item similar item interest Recommendations customize individual collection OCLC Kindred Works API build developer integrate recommendation another application service This RESTful API return XML format response"
+    },
+    {
+        "progweb_cat": "Recommendations,Machine Learning",
+        "api_name": "Myrrix",
+        "id": 11295,
+        "progweb_descr": " Myrrix complete realtime scalable recommender system evolve Apache Mahout Just take granted easy access powerful economical storage compute today Myrrix let take granted easy access largescale learn data It ingest new information compute recommendation similar item realtime via REST API expose Serving Layer instance At time leverage Hadoop efficiently refine recommender model background Myrrix run platform use cluster Hadoop distribution specially design use Amazon EC2 EMR instant deployment desire A miniature standalone version limit one machine require Hadoop provide free open source download To access API complete system create instance Amazon httpmyrrixcompurchasecomputationlayer Or download run standalone system simpler small trial httpmyrrixcompurchasestandaloneservinglayer httpmyrrixcomdownload"
+    },
+    {
+        "progweb_cat": "Recommendations,Ratings",
+        "api_name": "DealerRater",
+        "id": 11856,
+        "progweb_descr": " DealerRater API design provide access variety content available DealerRater website It also allow Dealers register site associate agent parters access manage review information post site API accessible use accessTokens require SSL In order gain accessToken use API DealerRater API EULA must agree"
+    },
+    {
+        "progweb_cat": "Recommendations,Reservations",
+        "api_name": "Unofficial OpenTable",
+        "id": 12416,
+        "progweb_descr": " Open table online restaurant reservation service With service user make online reservation read restaurant review diner earn point towards free meal This API allow developer access data OpenTable Data include find single multiple restaurant along information restaurant URLs reservation make API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Recommendations,Guides",
+        "api_name": "Aviresto",
+        "id": 12848,
+        "progweb_descr": " Aviresto guide restaurant France site let user read submit customer review Searches conduct city location map An API available allow user conduct search programmatically pull result application web site Public documentation API available developer contact provider access"
+    },
+    {
+        "progweb_cat": "Recommendations,Open Source",
+        "api_name": "Easyrec",
+        "id": 13933,
+        "progweb_descr": " Easyrec open source recommender system integrate website via REST API Developers download software install server use host version API expose functionality view buy rating item view recommendation ranking Responses format XML JSON"
+    },
+    {
+        "progweb_cat": "Recommendations,Books",
+        "api_name": "Yonda4",
+        "id": 14259,
+        "progweb_descr": " Yonda4 social site user post book read make recommendation API let developer get reading record across entire site book record particular user give twitter username API use RESTful call response format JSON RSS site documentation Japanese"
+    },
+    {
+        "progweb_cat": "Recommendations,Health",
+        "api_name": "Patient Opinion",
+        "id": 14487,
+        "progweb_descr": " Patient Opinion UK organization collect patient opinion heath care treatment recently receive Patient Opinion also offer readonly API intend make easy spread share data store Patient Opinion"
+    },
+    {
+        "progweb_cat": "Recommendations,Reference",
+        "api_name": "SubSift",
+        "id": 14676,
+        "progweb_descr": " SubSift support academic peer review call submission sift SubSift connects conference journal paper potential peer reviewer use paper write peer reviewer system build upon online bibliographic database Google Scholar SubSift provide RESTful API developer use create application websites interact SubSift data service"
+    },
+    {
+        "progweb_cat": "Recommendations,Music",
+        "api_name": "TasteKid",
+        "id": 14901,
+        "progweb_descr": " TasteKid API allow developer integrate recommendation productsapplications TasteKid discovery engine provide spot relevant music movie show book author recommendation base one exist preference purpose recommendation discovery taste exploration API use RESTful protocol response format either XML JSON JSONP"
+    },
+    {
+        "progweb_cat": "Recommendations,Mapping",
+        "api_name": "Tellmewhere",
+        "id": 15223,
+        "progweb_descr": " Europes 1 location share site API Search place retrieve review write review Access list nearby place friend like"
+    },
+    {
+        "progweb_cat": "Recommendations,Food",
+        "api_name": "Snooth",
+        "id": 15288,
+        "progweb_descr": " Snooth grow online community wine lover Snooth API allow access extensive database wine host Snooth Snooth user rate wine get recommendation base preference"
+    }
+]

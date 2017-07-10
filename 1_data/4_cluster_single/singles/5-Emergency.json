@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Emergency,Safety",
+        "api_name": "Haas Alert",
+        "id": 2475,
+        "progweb_descr": " HAAS Alert REST API allow developer access integrate functionality HAAS application create new application Public documentation available interested developer email infohaasalertcom API access HAAS Alert broadcast service help first responder emergency personnel broadcast live traffic road incident motorist real time"
+    },
+    {
+        "progweb_cat": "Emergency,Notifications",
+        "api_name": "AT&T Emergency Services",
+        "id": 3304,
+        "progweb_descr": " This REST ATT Emergency API associate user telephone number physical location It use Enhanced 911 E911 E911 This system link urgent caller public resource 911 caller number use derive location dispatch police fire emergency medical"
+    },
+    {
+        "progweb_cat": "Emergency,Australian",
+        "api_name": "Dorsal",
+        "id": 4180,
+        "progweb_descr": " Dorsal API allow developer access medium report information Dorsal communitybased shark alert system Dorsal allow user instantly alert others shark sighting attack area Users submit report use Dorsal website iPhone app Android app Facebook Twitter Dorsal currently available Australia"
+    },
+    {
+        "progweb_cat": "Emergency,Database",
+        "api_name": "Emergency Number",
+        "id": 4344,
+        "progweb_descr": " Emergency Numbers API integrate global directory emergency number sort country Use programmatically access emergency phone number world It available JSON format Although authentication require access rate limit 5 request per second"
+    },
+    {
+        "progweb_cat": "Emergency",
+        "api_name": "CrisisNET",
+        "id": 7198,
+        "progweb_descr": " CrisisNET help appmakers journalist quickly find access information crises occur around world location This information come government business humanitarian organization member public social medium site CrisisNET API allow developer retrieve information programmatically"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Wireless,Networking",
+        "api_name": "ArubaOS",
+        "id": 3010,
+        "progweb_descr": " ArubaOS REST API allow developer access integrate functionality ArubaOS application API allow control wireless LAN access point Some example API method include log use access point control ArubaOS network access point ArubaOS product Hewlett Packard operate system wireless local area network LANs"
+    },
+    {
+        "progweb_cat": "Wireless,Database",
+        "api_name": "Google Spectrum Database",
+        "id": 5953,
+        "progweb_descr": " Google Spectrum Database API allow developer query database find available TVband spectrum give location APIs method give PAWScompatible JSONRPC Currently API cover location United States Google Spectrum Database create enable band spectrum share without interference multiple user different location"
+    }
+]

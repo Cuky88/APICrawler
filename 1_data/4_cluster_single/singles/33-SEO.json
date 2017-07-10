@@ -1,0 +1,200 @@
+[
+    {
+        "progweb_cat": "SEO",
+        "api_name": "Alexa Top Sites",
+        "id": 28,
+        "progweb_descr": " From site Alexa Top Sites web service provide access list web site order Alexa Traffic Rank Using web service developer understand traffic ranking large small site service enable user page list 100 web site time make multiple request retrieve list size top 1000 5000 100000 web site In addition Alexa Traffic Rank information return web site include number page view site receive per million user average page view per user number Alexa user visit site"
+    },
+    {
+        "progweb_cat": "SEO",
+        "api_name": "Yahoo Site Explorer",
+        "id": 115,
+        "progweb_descr": " From site Yahoo Site Explorer APIs provide access information site Yahoo Site Explorer service These APIs help well understand traffic usage query page Yahoo index sit link site They useful anyone look good grasp link create effective alternative easilyspammed trackback"
+    },
+    {
+        "progweb_cat": "SEO",
+        "api_name": "SEOGenies",
+        "id": 8579,
+        "progweb_descr": " SEOGenies provide customer search engine optimization service They submit article article directory article submission sit submit press release PR site make social bookmarking submission post forum guarantee five keyword search popular search engine Google Yahoo SEOGenies also provide SEO consult regular SEO maintenance activity monthly search engine ranking report"
+    },
+    {
+        "progweb_cat": "SEO",
+        "api_name": "Ginzametrics",
+        "id": 14472,
+        "progweb_descr": " Ginzametrics company provide SEO service currently private beta Developers access data service site keywords rank A beta release v10 Ginzametrics API currently available user upon request"
+    },
+    {
+        "progweb_cat": "SEO",
+        "api_name": "BuiltWith",
+        "id": 14993,
+        "progweb_descr": " BuiltWith provide technology SEO profile site Internet service provide server analytics advertise JavaScript library program languageframework technical information Further SEO profile show top keywords phrase BuildWith API provide programmatic access BuiltWiths data Free account must provide attribution pay account start 9 per month 99 per year 500 lookup use data without attribution"
+    },
+    {
+        "progweb_cat": "SEO",
+        "api_name": "HTTP Redirect Chain Enumerator",
+        "id": 15194,
+        "progweb_descr": " use check status code first url destination catch 302 code bad SEO stop rank flow"
+    },
+    {
+        "progweb_cat": "SEO,Analytics",
+        "api_name": "SEO Engine",
+        "id": 925,
+        "progweb_descr": " SEO Engine search engine help user become efficient SEO implementation SEO Engine let user see penalty error warning web site generate fix SEO Engine API give developer ability create customize interface around SEO Engine data Methods available include webpage customer market focus data link list API use HTTP call response format XML"
+    },
+    {
+        "progweb_cat": "SEO,Analytics",
+        "api_name": "SERPs SEO & Rankings",
+        "id": 1042,
+        "progweb_descr": " SERPscom SEO dashboard let user easily identify whats work isnt It let users correlation test automatically log ranking traffic event All keyword ranking update morning dashboard access sell client dashboard brand data keep secure API allow SERPscom subscriber access historical ranking account Google Bing It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "SEO,Analytics",
+        "api_name": "SimilarTech Website Technologies Profiling",
+        "id": 5866,
+        "progweb_descr": " SimilarTech Website Technologies Profiling API allow user access list website technology associate category find specific website This API different fee level include free plan require SimilarTech Account Requests http response JSON XML Authentication provide unique API key SimilarTech provide datadriven web research tool use technology seek webcrawler SImilarTech tool use search engine optimization market lead generation analytics business intelligence"
+    },
+    {
+        "progweb_cat": "SEO,Analytics",
+        "api_name": "WebSEOAnalytics",
+        "id": 14009,
+        "progweb_descr": " WebSEOAnalytics offer software scan collect analyze parameter involve process index rank WSA API special service allow user access SEO Tools within software web service website manage create new report export result XML JSON BETA format combine SEO Tools develop tool offer branded SEO report client Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "SEO,Marketing",
+        "api_name": "Social SEO Team Link Building",
+        "id": 1440,
+        "progweb_descr": " Social SEO Teams Link Building API allow integrate link building service website make customization package It provide way create link build solution custom pricing package simple access remotely execute many command available control panel Some feature include Automate SEO link building unlimited number client Create custom SEO report client Integrate favorite SEO tool Create backlinks base strategy Social SEO Team SEO firm help startups small business result orient SEO Link Building Solutions attract new client incorporate link building functionality exist website"
+    },
+    {
+        "progweb_cat": "SEO,Marketing",
+        "api_name": "Act-On SEO",
+        "id": 4942,
+        "progweb_descr": " ActOn SEO API allow developer integrate application API service enable user fetch add SEO keywords run SEO report ActOn marketing automation software provider"
+    },
+    {
+        "progweb_cat": "SEO,Marketing",
+        "api_name": "SocialAdr",
+        "id": 7147,
+        "progweb_descr": " SocialAdr social medium market tool help user promote URLs popular social medium sit Its design work quickly easy use generate lot backlinks It require minute user time per day since dont need wait around program finish work SocialAdr work computer time receive automatic upgrade regular basis"
+    },
+    {
+        "progweb_cat": "SEO,Marketing",
+        "api_name": "Wordsfinder Keywords Extractor",
+        "id": 15335,
+        "progweb_descr": " WordsFinder Term Extraction API extract search engine friendly keywords Keyword Extraction API truly international It apply intelligent weight system HTML element onpage factor determine think target term"
+    },
+    {
+        "progweb_cat": "SEO,Keywords",
+        "api_name": "DataForSEO Keywords Data",
+        "id": 1670,
+        "progweb_descr": " DataForSEO Keywords Data API integrate keywords selection analysis efficiency search application It available REST architecture basic authentication JSON protocols Use API interact Google AdWords API increase proficient web search"
+    },
+    {
+        "progweb_cat": "SEO,Keywords",
+        "api_name": "DataForSEO SERP",
+        "id": 1696,
+        "progweb_descr": " DataForSEO SERP API receive top 100 result search engine accord specific keywords It available REST architecture JSON parameter basic authentication Use API display search engines result page"
+    },
+    {
+        "progweb_cat": "SEO,Keywords",
+        "api_name": "DataForSEO Rank Tracker",
+        "id": 2450,
+        "progweb_descr": " DataForSEO Rank Tracker SERP API build track keywords ranking Google Bing Yahoo search engines It available REST architecture JSON format HTTP basic authentication"
+    },
+    {
+        "progweb_cat": "SEO,Framework",
+        "api_name": "SEO4Ajax Authenticated",
+        "id": 3357,
+        "progweb_descr": " SEO4Ajax Authenticated API allow developer integrate JavaScript render feature Ajax websites order make discoverable search engine SEO4Ajax adapt whichever search engine social network user want target It scale thousand million page require change target website code"
+    },
+    {
+        "progweb_cat": "SEO,Framework",
+        "api_name": "SEO4Ajax Public",
+        "id": 3374,
+        "progweb_descr": " SEO4Ajax Public API allow user retrieve capture sitemaps site This API intend use HTTP server order proxify bot request resource SEO4Ajax service SEO4Ajax service help integrate JavaScript rendering feature Ajax websites order make discoverable search engine"
+    },
+    {
+        "progweb_cat": "SEO,Campaigns",
+        "api_name": "SEOMonitor",
+        "id": 3689,
+        "progweb_descr": " SEOMonitor API integrate search engine optimization feature application It available JSON architecture HTTP responses Token required authenticate As service user find content performance reputation resource integrate marketing campaign"
+    },
+    {
+        "progweb_cat": "SEO,Campaigns",
+        "api_name": "UpCity",
+        "id": 3691,
+        "progweb_descr": " UpCity API available purchase contact platform service Benefits include keyword crawl local listing data 20 source It aim improve rank website boost marketing campaign"
+    },
+    {
+        "progweb_cat": "SEO,Campaigns",
+        "api_name": "Link Emperor",
+        "id": 13258,
+        "progweb_descr": " Link Emperor SEO campaign management software It use automate link building focus area Keyword Research Keyword Management OnPage Optimization Link Building Tracking Reporting API allow user create fully automate link build service Currently API retrieve link building request detail fulfill request It use HTTP call response XML"
+    },
+    {
+        "progweb_cat": "SEO,Email",
+        "api_name": "MySite Auditor API",
+        "id": 3699,
+        "progweb_descr": " MySite Auditor API integrate SEO form websites aim convert visitor lead It available JSON format Api Key"
+    },
+    {
+        "progweb_cat": "SEO,Domains",
+        "api_name": "eRanker",
+        "id": 3700,
+        "progweb_descr": " eRanker API integrate audit tool SEO application It available HTTP request method GET POST PUT DELETE command Api Key require authenticate As service eRanker provide page speed performance usability spam SEO social medium monitoring"
+    },
+    {
+        "progweb_cat": "SEO,Charts",
+        "api_name": "CognitiveSEO",
+        "id": 3725,
+        "progweb_descr": " Cognitive SEO API integrate tool aim increase web traffic It available JSON architecture Api Key Methods include campaign keywords social"
+    },
+    {
+        "progweb_cat": "SEO,eCommerce",
+        "api_name": "SEO Shop",
+        "id": 4475,
+        "progweb_descr": " SEO Shop API allow developer access SEO data integrate eCommerce application With API offer REST protocol Api Key access developer implement account feedback email marketing inventory management feature Become partner httpwwwgetseoshopcompartnerspartnersignup"
+    },
+    {
+        "progweb_cat": "SEO,Performance",
+        "api_name": "Google PageSpeed Insights",
+        "id": 6093,
+        "progweb_descr": " PageSpeed Insights tool help developer optimize web page analyze page generate tailored suggestion make page faster Developers implement PageSpeed Insights API programmatically generate PageSpeed score suggestion"
+    },
+    {
+        "progweb_cat": "SEO,Developers",
+        "api_name": "TheProxIsRight",
+        "id": 7568,
+        "progweb_descr": " TheProxIsRight service provide access currently work proxy identify work proxy research proxy TheProxIsRight API allow developer access integrate functionality TheProxIsRight application create new application Some example API method include query proxy country retrieve current proxy query IP address"
+    },
+    {
+        "progweb_cat": "SEO,Content",
+        "api_name": "Big Article Scraper",
+        "id": 7610,
+        "progweb_descr": " Big Article Scraper BAS design help website owner improve SEO use article scrap find cheap diverse content Users scrape article directory contain 17 million article use build backlinks thirdparty site BAS scrape 100 article per minute daily limit 500 article"
+    },
+    {
+        "progweb_cat": "SEO,Search",
+        "api_name": "MySEOTool",
+        "id": 9642,
+        "progweb_descr": " My SEO Tool provide Search Engine Optimization tool include client management data reporting automate PDF report client interface brand My SEO Tool API provide developer RESTful interface integrate My SEO Tool application websites API call include ability automatically login user access metric create backlinks create user Responses JSON format"
+    },
+    {
+        "progweb_cat": "SEO,Search",
+        "api_name": "ZoomRank",
+        "id": 14869,
+        "progweb_descr": " ZoomRank offer user partner API securely access user account profile ranking repository record ZoomRank enterprise softwareasaservice SaaS solution automatically monitor business keyword rank Big 3 search engine email user result API use RESTful protocol response format either XML JSON"
+    },
+    {
+        "progweb_cat": "SEO,Russian",
+        "api_name": "Yandex Webmaster",
+        "id": 9996,
+        "progweb_descr": " Yandex major Russiabased internet company search engine state mission answer question internet user may In 2012 Yandex handle majority search traffic Russia YandexWebmaster service allow website owner notify Yandex new delete page improve siteâ€™s search result representation configure site index YandexWebmaster API provide RESTful interface developer automate YandexWebmaster user data manipulation"
+    },
+    {
+        "progweb_cat": "SEO,Russian",
+        "api_name": "SetLinks",
+        "id": 14421,
+        "progweb_descr": " SetLinks let user buy exchange link article contextual link promote websites Users place link site use API They also full access site functionality API use XMLRPC protocol response format XML site documentation Russian"
+    }
+]

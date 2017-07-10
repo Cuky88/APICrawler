@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Chinese,Asia",
+        "api_name": "Chinese Text Project",
+        "id": 4150,
+        "progweb_descr": " Chinese Text Project API provide developer method integrate content functionality CTP webbased webaware site application API consist two main component plugin API integrate external functionality CTP JSON API allow CTP functionality integrate external site Chinese Text Project open source digital library make premodern Chinese text available globally reader researcher"
+    },
+    {
+        "progweb_cat": "Chinese,Education",
+        "api_name": "ChinesePod",
+        "id": 5973,
+        "progweb_descr": " ChinesePod API allow developer integrate ChinesePod Mandarin language learning application Access require approval process unique ID secret access key API use JSON request HTTP response ChinesePod API allow Lesson Library Vocabulary request ChinesePod offer subscriber access audio library 3000 Mandarin language lesson every learn level Additionally ChinesePod host video content learning supplementation"
+    },
+    {
+        "progweb_cat": "Chinese,Social",
+        "api_name": "Tencent",
+        "id": 12888,
+        "progweb_descr": " Tencent Chinas large use Internet service portal Tencent provide Internet mobile telecom service online advertise Tencentâ€™s lead Internet platform include QQ QQ Instant Messenger QQcom QQ Games Qzone 3gQQcom SoSo PaiPai Tenpay Tencents API give developer access data functionality microblogging service Methods provide give access timeline trend related topic tag API use RESTful call response format XML JSON site documentation Chinese"
+    }
+]

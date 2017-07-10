@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Charity,Non-Profit",
+        "api_name": "VolunteerMatch",
+        "id": 4183,
+        "progweb_descr": " VolunteerMatch API allow developer integrate VolunteerMatch network website application It use help developer add volunteer content search registration online system VolunteerMatch help people find cause need Their database include 100000 nonprofit locate around world"
+    },
+    {
+        "progweb_cat": "Charity,Non-Profit",
+        "api_name": "OrgHunter Charity",
+        "id": 5527,
+        "progweb_descr": " OrgHunter Charity API interface allow developer incorporate realtime search result directly application website API also aim provide developer access 2M charity OrgHunter database allow integration application website OrgHunter offer platform seek provide visibility charity size connect donor"
+    },
+    {
+        "progweb_cat": "Charity,Non-Profit",
+        "api_name": "JustGiving",
+        "id": 14698,
+        "progweb_descr": " Connect 1 fundraise platform world Build apps make difference support 13000 amazing cause Grow audience JustGiving 22 million people ready use app"
+    },
+    {
+        "progweb_cat": "Charity,Campaigns",
+        "api_name": "DoSomething",
+        "id": 5195,
+        "progweb_descr": " DoSomething API allow developer interact campaign social change programmatically Campaigns tackle variety issue include poverty violence environmental degradation DoSomething active globally campaign usually local DoSomething provide young people volunteer opportunity scholarship"
+    },
+    {
+        "progweb_cat": "Charity,Campaigns",
+        "api_name": "Donately",
+        "id": 5229,
+        "progweb_descr": " Donately REST API allow user make online donation Donately API provide space nonprofit manage donor online give activity Authentication API token standard HTTP response include error return JSON extensive documentation request cover information administrative action regard account people donation fundraiser Donately API fee base service available worldwide fundraise transaction"
+    },
+    {
+        "progweb_cat": "Charity,Charity",
+        "api_name": "DVI Give",
+        "id": 5222,
+        "progweb_descr": " DVI Give API facilitate charitable give allow end user search access information charity third part application Users even make donation API immediately receive tax receipt DVI Dexterity Ventures Inc organization provide donation tool business want incorporate charitable give product online presence"
+    },
+    {
+        "progweb_cat": "Charity,Database",
+        "api_name": "Dexterity GIVE",
+        "id": 5715,
+        "progweb_descr": " Dexterity Ventures Inc offer API call DVI GIVEapi It free API create website application developer allow facilitation give add social good project With Giveapi user ability search access information charity financial detail location type project facet make donation"
+    },
+    {
+        "progweb_cat": "Charity,Streaming",
+        "api_name": "ImRaising Public",
+        "id": 6594,
+        "progweb_descr": " ImRaising service help user raise stream donation It allow user add sound widget text file stream free In future small fee may implement ImRaising Public API allow user receive notification stream donation get donation information get list top donor send test donation"
+    },
+    {
+        "progweb_cat": "Charity,Crowdsourcing",
+        "api_name": "Briibe",
+        "id": 7126,
+        "progweb_descr": " Briibe nonprofit organization enable user send message Twitter user namely stars celebrity famous people briibe reply charity donation Briibe enable user crowdfund good cause enable famous individual find message Briibe API come soon"
+    }
+]

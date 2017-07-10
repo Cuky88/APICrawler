@@ -1,0 +1,818 @@
+[
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Withings",
+        "id": 109,
+        "progweb_descr": " Withings company focus development connect measure device scale blood pressure monitor send health information directly internet Withings Body metric Services API WBS API set webservices allow developer third party limit access user data API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Health 2.0",
+        "id": 942,
+        "progweb_descr": " service provide directory APIs healthrelated service Listings document available data application functionality topic like medical practice health care biological research healthy lifestyle practice along generalpurpose APIs provider sector directory aggregate API listing number online source narrow selection healthrelated service API method support retrieval directory listing type protocol feature set tag keywords apply"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "MyNetDiary Food Search",
+        "id": 986,
+        "progweb_descr": " service provide information nutritional content 130000 food Search lookup function available site licensing database via API Applications support include nutritionist site healthcare provider health club organizational wellness program API method support search across database match food name Methods also support food detail listing complete nutritional content include calorie fat percentage carbohydrate gram nutritional information"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "National Cancer Institute Clinical Trials",
+        "id": 2436,
+        "progweb_descr": " National Cancer Institute NCI seek optimize patient ’ oncologist ’ accessibility cancer clinical trial program develop innovative information learn platform organization develop National Cancer Institute Clinical Trials API facilitate cancer research stakeholder – scientist advocacy group academic sphere – build useful digital tool resource application expedite adoption tailor clinical trial information solution target community API conveys request responses JSON format It currently beta release"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Medicast",
+        "id": 5537,
+        "progweb_descr": " Medicast REST API allow developer access integrate functionality Medicast application Public documentation available API access come account service Medicast provide technology solution healthcare provider hospital patient"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "myHealthAccount",
+        "id": 8566,
+        "progweb_descr": " myHealthAccount patient centric medical record service Swedish company Infogosoft Clinics use myHealthAccount module send medical record image patient account patient use myHealthAccount gather medical record vaccination drug list one place myHealthAccount REST API allow developer write application access myHealthAccount service API method exist folder vaccine document Most response JSON format An API key require"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "PHF-TRAIN",
+        "id": 9008,
+        "progweb_descr": " TrainingFinder Realtime Affiliate Integrated Network TRAIN free service public health professional provide Public Health Foundation PHF TRAIN website user find register course earn continue education unit CEUs track online learn personal transcript discuss review course get notification late training available specify location area expertise TRAIN system integrate external learning management system LMSs use SOAPbased APIs"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "SciBite",
+        "id": 9310,
+        "progweb_descr": " SciBite drug discovery search engine continuously scan internet new drugrelated information It help user find new drug drug data track late news clinical trial grant blog relate pharmaceutical biotechnology development SciBite API provide programmatic access drug discovery data entity make use informaticians find new connection within data"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "National Cancer Institute SEER",
+        "id": 9498,
+        "progweb_descr": " Surveillance Epidemiology End Results SEER Program service National Cancer Institute cancer statistic resource Collected data include information incidence prevalence survival specific geographic area within US well cancer mortality entire country SEER API RESTful service support various program datasets algorithms available developer wish incorporate SEER resource system Exposed resource include Collaborative Staging Hematopoietic Lymphoid Neoplasm Database NAACCR documentation Antineoplastic Drugs Database incidence site recode variable API return JSON format response communicates HTTPS require free account API key"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Walgreens Pharmacy Prescription Refill",
+        "id": 9867,
+        "progweb_descr": " Walgreens Pharmacy Prescription API allow user thirdparty mobile application quickly order refill prescription originally fill one 8000 Walgreens pharmacy Mobile app user order refill second well select option optin receive text alert prescription order ready pick health care focus Pharmacy Prescription API design increase prescription compliance aid personal health management automate refill alert streamline refill process By offer easy prescription refill health management API Walgreens hop increase health care adherence reach wide audience third party health care apps"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "RxNorm Prescribable",
+        "id": 9896,
+        "progweb_descr": " service provide listing subset drug available prescribed United States large list prescription medication maintain provider apirxnorm RxNorm service Prescribable listing also include select popular overthecounter OTC medication doctor frequently prescribe list omits drug available country US usable veterinary purpose API method support retrieval updated list drug correct name ingredient system identifier Methods also support access descriptive information NDC UNII cod relationship drug list ranking prescription frequency"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "STEPStools",
+        "id": 9943,
+        "progweb_descr": " service provide information prescription medication suitable pediatric patient base diagnosis age body size relevant condition Its knowledge base cover full range illness prescription medicine use treat include round dosage adjustment formulation appropriate small child API method support search across knowledge base illness health condition medication patient characterstics Methods return rank list recommend formulation dos match medication allowance patient age body weight These recommendation score Rankings reflect recommendation score determine medication match algorithm"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "VitaDock Online",
+        "id": 10110,
+        "progweb_descr": " VitaDock application let users measure read manage vital data mobile device include iPhone iPod touch iPad This data include measurement blood sugar blood pressure fever blood analysis VitaDock Online API allow synchronization user use VitaDock medical device API base Open Authentication standard user connect web mobile desktop application Documentation support provide developer"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Access Plans USA",
+        "id": 10364,
+        "progweb_descr": " service provide list health care insurance plan provider health service include medical practitioner nutrition provider similar organization professional Patientfacing resource include directory primary supplementary insurance plan available individual family directory service provider category Provider resource include listing service directory tool promote addon service expand client base revenue per client API method support access service insurance plan directory summary information rate quote individual family base age location occupation characteristic insured customer Methods also support provider update directory listing change insurance plan provision rate modify listing service provide contact detail information"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Beddit",
+        "id": 10610,
+        "progweb_descr": " service provide monitor user sleep pattern A bedside device detect physical condition activity upload data service later access sleeper health care provider personal trainer Data track include raw ballistocardiography BCG signal heart rate measurement variability HRV minutebyminute actigraphy classification subject asleep awake moment data collection API method support authorization access user account follow retrieval information user timeline data collect bedside monitor Requests specify particular date time range gather data record span In addition BCG HRV return data report condition room light sound level"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Utah POLARIS",
+        "id": 10728,
+        "progweb_descr": " Prehospital OnLine Active Reporting Information System POLARIS enable compliance emergency response provider Utal state incident report requirement It replace Utah Department Healths former Automated Incident System AIS allow ambulance service provider file prehospital run report NEMSIScompliant format API method support incident report format compliant National Emergency Management Information System NEMIS Reported data include patient identification demographic along incident type location timeframe"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "FHIR",
+        "id": 11008,
+        "progweb_descr": " Fast Healthcare Interoperability Resources FHIR HL7 International interoperability standard healthcare data exchange specify semantics structure encode transport aspect exchange API cover basic element healthcare patient admission diagnostic report medication problem list typical participant also support range richer complex clinical model simple direct definition resource base thorough requirement gather formal analysis extensive crossmapping relevant standard"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "MEDgle",
+        "id": 11209,
+        "progweb_descr": " MEDgle big data solution provider They deal specifically data medical health science field Their service act platform consumer vast amount medical health data Patients find information symptom medication Health medical enterprise build service MEDgleâ€™s information platform improve healthcare delivery MEDgle API RESTful service expose information expert search enterprises It return XML JSONformatted data"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "ManageBGL Diabetes",
+        "id": 11390,
+        "progweb_descr": " Cloudbased diabetes management platform Calculates dos track insulin board like insulin pump would Predicts blood sugar eight hour ahead provide historical data like Continuous Glucose Monitor Realtime coach provide real time dose adjustment advice warning pending low blood sugar Live share parent teacher healthcare provider care giver Accepts data 60 different meter pump CGMS device RESTful API default format XML JSON RSS Atom Prediction gamechanger diabetes analytics"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Promedas",
+        "id": 11416,
+        "progweb_descr": " Promedas provide clinical expertise system medical professional Promedas API integrate exist medical system contain patient file database Using data Promedus provide differential diagnosis base data contain patient file API currently developer beta To access API contact Promedas"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Pharmacy Checker",
+        "id": 11422,
+        "progweb_descr": " Pharmacy Checker gather evaluate report credential customer feedback price pertain pharmacy operate online mailorder fax Pharmacy Checker API connect users verification program check realtime online pharmacy wish advertise legitimate API allow custom verification criterion base user requirement"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "WebLib HealthMash",
+        "id": 11589,
+        "progweb_descr": " HealthMash WebLibs health medical knowledge base semantic search engine HealthMash use natural language processing semantic technology tool find relevant result API provide programmatic access service functionality use third party website application It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Eligible Health Insurance",
+        "id": 11659,
+        "progweb_descr": " Eligible Health Insurance API service let user lookup information 700 insurance company Information available include patient active versus inactive status coinsurance copayment deductible health spending balance specialty specific information MRI diagnostic lab API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Drchrono",
+        "id": 11929,
+        "progweb_descr": " Drchrono electronic health record app provider Their product include patient care platform OnPatient checkin app electronic medical billing center All three product integrate unified workflow allow medical worker customize electronic approach patient care Drchrono API expose entirety product function integration new apps API public yet developer register developer portal notification"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Healthx",
+        "id": 11943,
+        "progweb_descr": " Healthx developer selfservice communication data integration portal healthcare industry Their product use 130 payer 39000 group Healthx offer suite APIs interfacing system data within Data expose include eligibility health risk assessment QA laboratory claim medical claim PBM claim System functionality expose include branding communication message user info API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "lifeIMAGE",
+        "id": 12095,
+        "progweb_descr": " lifeIMAGE service healthcare provider doctor patient hospital manage share diagnostic imaging record lifeIMAGE API allow developer access integrate functionality lifeIMAGE application create new application Some example API method include access patient record manage account information share patient record Public documentation available interested developer sign httpwwwlifeimagecomlandingapi information"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Aetna CarePass",
+        "id": 12116,
+        "progweb_descr": " CarePass Aetna online portal allow user access health data provider data medicine information health information CarePass API allow developer access integrate functionality data CarePass application create new application Some example API method include retrieve claim information search retrieve FDA drug information access medicine pricing"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "FoodSpex",
+        "id": 12236,
+        "progweb_descr": " service provide detailed nutritional information large selection food product available market Belgium include generic food type namebrand commercial product Information provide include bar code nutritional content calorie fat content complete list ingredient include Information target retailer dietician nutritionist public health program among others API method support retrieval food product information generic name brand name Methods also provide support content relevant topic either chapter paragraph Returned data include product name available brand nutritional content package type relate variable"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Tracknburn FoodData",
+        "id": 12237,
+        "progweb_descr": " service provide database nutritional information common food product Information include nutritional component value calorie fat percentage carbohydrate gram large selection generic brand name food product popular restaurant offering More detailed nutritional content include sugar fiber calcium iron many vitamin related specification API method support retrieval nutritional information either simple detailed generic product type name brand product available market Methods also return nutritional component serve size"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "The Cancer Genome Atlas",
+        "id": 12510,
+        "progweb_descr": " Cancer Genome Atlas TCGA project improve understand molecular basis cancer application genome analysis technology include largescale genome sequence TCGA offer collection APIs provide RESTbased programmatic access information resource Available information include annotation data matrix data report project metadata biospecimen metadata"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "HIV Drug Research Center",
+        "id": 12550,
+        "progweb_descr": " HIV Drug Research Center provide pair APIs predict susceptibility mutate HIV variety drug One API predict susceptibility mutation HIV protease amprenavir atazanavir indinavir lopinavir nelfinavir ritonavir saquinanvir predict susceptibility mutation HIV reverse transcriptase lamivudine abacavir zidovudine stavudine zalcitabine didanosine emtricitabine tenofovir These APIs available user via REST XMPP"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Krames Staywell",
+        "id": 12748,
+        "progweb_descr": " service provide management health information define population employee company It intend promote health reduce medical cost health care spending Reductions losttime illness also increase productivity Available content include news article background information document stream video healthrelated topic API method support submission content request topic organize within hierarchical tree structure freetext search Methods also allow content search retrieval descriptor Medical Subject Headings MeSH taxonomy"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "PHIN VADS",
+        "id": 13016,
+        "progweb_descr": " service provide access manage vocabulary resource Public Health Information Network PHIN help standardize terminology information interaction among practitioner promote interoperability public health application Vocabulary Access Distribution Service VADS support interaction define web method functional element transfer data application API method support search vocabulary asset retrieval term listing either individually bulk Methods also support direct object access retrieval related object API also allow validation application terminology PHIN vocabulary"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "DailyMed",
+        "id": 13073,
+        "progweb_descr": " US Department Health Human Services HHS National Library Medicine provide user access current Structured Product Language SPL information market drug data provide service recent provide FDA FDA labelspackage insert also include information warning inprogress FDA product review Users query RESTful service use variety parameter include prescription counter human animal drug drug name drug imprint data National Drug Code NDC This free service return data XML JSON base user specificaiton"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "National Cancer Institue caDSR",
+        "id": 13074,
+        "progweb_descr": " National Cancer Institute NCI sub agency National Institute Health NIH offer Cancer Data Standards Registry Repository caDSR API provide user programmatic access database Common Data Elements CDEs create NCI manage biomedical data caDSR contains Unified Markup Language UML model represent information domain develop collaborate research partner submit database semantics data element model extract transform administered component database result collection relate CDEs classified part model make visible collection This free API operate REST return data via XML HTML"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "CDC Wonder",
+        "id": 13389,
+        "progweb_descr": " WONDER online databases utilize rich adhoc query system analysis public health data Reports query system also available API allow user access data WONDER online databases via automated query XML format HTTP use web page widget Data set cover disease birth death statistic health demographic race population statistic"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "HealthTap",
+        "id": 13536,
+        "progweb_descr": " HealthTap online health network HealhTap aim improve health user provide medical advice answer health question physicians Users ask question search answer health need HealthTap also offer mobile application HealthTap API allow developer access data functionality HealthTap integration application well creation new application Public documentation available interested developer sign httpswwwhealthtapcomwhatwemakedevelopers access API full documentation"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "BioLabeler",
+        "id": 13614,
+        "progweb_descr": " BioLabeler search engine extract US National Library Medicine UMLS information biomedical text scientific paper abstract experiment description medical note This data use indexing search improvement BioLabler API allow developer access data functionality BioLabler Example API method include search return semantic type source match term related concept"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Health Indicators Warehouse",
+        "id": 14145,
+        "progweb_descr": " Health Indicators Warehouse HIW collaboration many agency office within Department Health Human Services HIW maintain Center Disease Controlâ€™s National Center Health Statistics purpose HIW provide single userfriendly source national state community health indicator meet needs multiple population health initiative facilitate harmonization indicator across initiative link indicator evidencebased intervention serve data hub HHS Community Health Data Initiative release data encourage innovative application development catalyze change improve community health HIW provide API use SOAP RESTful protocol"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "MedlinePlus Connect",
+        "id": 14430,
+        "progweb_descr": " MedlinePlus bring user information diseases condition wellness issue MedlinePlus Connect API let electronic health record EHR system use standard clinical vocabulary bring user health information MedlinePlusgov API make request base diagnosis code medication cod lab test API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "MedlinePlus",
+        "id": 14431,
+        "progweb_descr": " MedlinePlus API provide access MedlinePlus health topic data XML format service accepts keyword search request return link relevant Englishlanguage health topic rank order output also include supplemental data health topic summary relate vocabulary keywordincontext snippet"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Dossia",
+        "id": 15506,
+        "progweb_descr": " Dossia aggregate user health information one convenient safe Webbased platform From platform user utilize data access personalize health tool Dossia API allow client application securely read update Dossia participant health data Developers read write medication allergy immunization XML document type"
+    },
+    {
+        "progweb_cat": "Medical,Health",
+        "api_name": "Indivo Health",
+        "id": 15778,
+        "progweb_descr": " Use IndivoHealth API access open platform personally control health record Use IndivoHealth Java client API read add update document read document header create record authenticate instantiate client send message query list Indivo IDs Indivo originally form base collaboration Childrens Hospital Informatics Program Childrens Hospital Boston HarvardMIT Clinical Decision Making Group MIT"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "Eli Lilly Clinical Open Innovation",
+        "id": 352,
+        "progweb_descr": " NO DESCRIPTION"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "National Library of Medicine DIRLINE",
+        "id": 1369,
+        "progweb_descr": " DIRLINE Directory Information Resources Online National Library Medicines online database contain location descriptive information wide variety information resource include organization research resource project database concerned health biomedicine DIRLINE API allow user search DIRLINE database keywords Using API software developer integrate DIRLINE data application This service use RESTful call return search result brief full record XML Format"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "National Library of Medicine Digital Collections",
+        "id": 9314,
+        "progweb_descr": " National Library Medicineâ€™s Digital Collections free online archive biomedical video book public domain National Library Medicine Digital Collections API provide developer access full text Dublin Core metadata every resource repository Responses XML format"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "Byomei",
+        "id": 11164,
+        "progweb_descr": " Byomei Japanese medical information service provide Master Standard Diagnosis Working Group It focus primarily provide information pertinent diseases Byomei access search use SOAPbased API Both website Byomei API documentation provide exclusively Japanese"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "Healthnotes",
+        "id": 11289,
+        "progweb_descr": " Helathnotes content source consumer selfcare wellness decision Healthnote API consist two service concept service element service concept service provide metadata health wellness concepts expose relationship concept element service provide content contextual highlyatomized form give user different perspective content Ultimately API provide access selfcare decision support condition nutritional supplement medicine diet food"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "The Cancer",
+        "id": 11312,
+        "progweb_descr": " Cancer API CANAPI design make easy collect follow share emerge innovation research field well available information service collect information institution business individual aggregate use standard format data access republish use mashups need API currently private Alpha"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "RestFul Web Services HCPCS",
+        "id": 11520,
+        "progweb_descr": " Healthcare Common Procedure Coding System HCPCS set health care procedure code base American Medical Associations Current Procedural Terminology RestFul Web Services HCPCS API allow user look codes meaning use either REST SOAP call"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "Lexicomp",
+        "id": 11738,
+        "progweb_descr": " Lexicomp provider drug information clinical content healthcare industry Lexicomp offer Internet base solution provide clinician content Information databases module Lexicomp Online make available via XML API use third party application Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "Medidata Rave",
+        "id": 12794,
+        "progweb_descr": " Medidata provide clinical research organization solution plan manage clinical trial These tool use study protocol design trial planning budget site negotiation clinical portal trial management randomization trial supply management clinical data capture management safety event capture medical coding business analytics Medidata Rave API allow developer integrate application web site Medidata Rave create clinical research environment realtime inbound outbound data share use CDISC data standard Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "Pathway Commons",
+        "id": 13439,
+        "progweb_descr": " API provide convenient point access information biological pathway involve specified physical entity eg protein small molecule collect public pathway databases It give machinereadable access information browse searched biologist download computational biologist BioPAX format global analysis Users also download install cPath software create local mirror All data freely available license term contribute database"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "ClinicalTrials.gov",
+        "id": 14428,
+        "progweb_descr": " ClinicalTrialsgov registry result database federally privately support clinical trial conduct United States around world ClinicalTrialsgov give visitor information trial purpose may participate location phone number detail This API provide method create link ClinicalTrialsgov download ClinicalTrialsgov data XML format Obtain information include trial purpose may participate location phone number detail clinical trial conduct throughout United States many country throughout world API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "Pillbox",
+        "id": 14433,
+        "progweb_descr": " Pillbox enable rapid identification unknown soliddosage medication tabletscapsules base physical characteristic highresolution image Pillboxs data search engine also accessible API API provide access identification system data medication image Medications identify physical characteristic imprint size shape etc well drug name brand generic inactive ingredient drug label author DEA schedule return XMLformatted data Access documentation require password"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "RxNorm",
+        "id": 14435,
+        "progweb_descr": " RxNorm provide normalized names clinical drug link names many drug vocabulary commonly use pharmacy management drug interaction software There two RxNorm APIs SOAPWSDL RESTful available provide developer function retrieve RxNorm data current RxNorm data set Data return XML JSON"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "RxClass Terms",
+        "id": 14441,
+        "progweb_descr": " RxClass drug interface terminology derive RxNorm prescription write medication history record eg eprescribing system PHRs There API provide developer function retrieve RxTerms data current data set API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Medical,Reference",
+        "api_name": "TOXNET",
+        "id": 14442,
+        "progweb_descr": " TOXNET TOXicology Data NETwork cluster database cover toxicology hazardous chemical environmental health relate area TOXNET API offer RESTful Web Service API allow user search TOXNET database keywords Using API software developer integrate TOXNET data application chemical database service accepts keyword search specify database return search result TOXNET API Response Format full chemical record HTML format bibliographic database service provide keyword search specify bibliographic database return search result bibliographic brief record bibliographic full record TOXNET API Response Format convenience bibliographic full record return HTML format request"
+    },
+    {
+        "progweb_cat": "Medical,Data",
+        "api_name": "iHealth",
+        "id": 373,
+        "progweb_descr": " iHealth provide wireless scale blood pressure monitor mobile monitor device along app allows patient track health data include weight BMI bone mass heart rate blood pressure diet physical activity iHealth API allow third party application service interact iHealth user health data user authorization Responses give JSON XML"
+    },
+    {
+        "progweb_cat": "Medical,Data",
+        "api_name": "ApiMedic Symptom Checker",
+        "id": 691,
+        "progweb_descr": " Symptom Checker API allow developer integrate symptom checker functionality application allow user find possible disease might integrate application also direct user medical information show right doctor clarification This modular programming interface offer symptom checker functionality main program"
+    },
+    {
+        "progweb_cat": "Medical,Data",
+        "api_name": "Cigna Health",
+        "id": 9098,
+        "progweb_descr": " Cigna health service company provide integrated health care relate plan insurance provider Cigna Health API allow user access realtime health data service allow user access health data well serve customer create application personalize data share test application deploy application production API use REST call return XML JSON"
+    },
+    {
+        "progweb_cat": "Medical,Data",
+        "api_name": "HealthData.gov Data",
+        "id": 11675,
+        "progweb_descr": " HealthDatagov API use provide software developer programmatic access content data catalog API use find recently add datasets type health statistic search catalog download content catalog analysis build new data catalog tool"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "NCBI Entrez",
+        "id": 478,
+        "progweb_descr": " NCBI Entrez Utilities Web Service enable developer access Entrez Utilities via Simple Object Access Protocol SOAP Entrez database contain bioinformatics data"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "Web API for Biology",
+        "id": 1164,
+        "progweb_descr": " From site Web API Bioinformatics WABI"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "SLAP",
+        "id": 11098,
+        "progweb_descr": " SLAP drug target prediction service provide Cheminformatics group School Informatics Computing Indiana University RESTful SLAP APIs enable user perform drug target prediction hundred protein find drug similarity base polypharmacology profile find drug similar input drug"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "OpenTox",
+        "id": 12608,
+        "progweb_descr": " OpenTox framework use creation predictive toxicology application It integrate APIs provide user access variety distribute toxicological resource include data computer model validation report OpenTox work meet requirement REACH legislation provide alternative animal experiment toxicity test"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "Allen Brain Atlas",
+        "id": 12717,
+        "progweb_descr": " Allen Brain Atlas collection public online resource integrate extensive gene expression neuroanatomical data It especially rich resource relate human mouse neuroscience also include resource nonhuman primate Allen Brain Atlas API consist set URLs make data behind project available download"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "bioNMF",
+        "id": 12936,
+        "progweb_descr": " bioNMF API use Nonnegative Matrix Factorization NMF analyze biomedical data Users choose three variation algorithm standard divergence nonsmooth NMF This API use find cluster gene highly related sample determine suitable number sample cluster give dataset perform NMF This API accessible via SOAP protocol"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "dkCOIN",
+        "id": 12998,
+        "progweb_descr": " dkCOIN NIDDK Consortium Interconnectivity Network provide seamless public access large pool data relevant mission NIDDK National Institute Diabetes Digestive Kidney Diseases Available resource include everything raw genetic information scholarly article dkCOIN API allow user search access collection resource With account user upload edit resource public use"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "GeneCruiser",
+        "id": 13179,
+        "progweb_descr": " GeneCruiser provide single point access genomic information freely available multiple public data source With GeneCruiser user find variation gene find gene variation link Users also convert gene Affymetrix probe identifier use identifier retrieve request information GeneCruiser API allow user access GeneCruiser functionality within application"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "National Library of Medicine ChemSpell",
+        "id": 14427,
+        "progweb_descr": " National Library Medicine NLM worlds large medical library Library collect material provide information research service area biomedicine health care ChemSpell Web Service API provide chemical name spell check chemical name synonym lookup ChemSpell contain 13 million chemical name related organic inorganic pharmaceutical toxicological environmental health topic Developers use API write application connect remotely ChemSpell Web service API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "Praxeon",
+        "id": 15620,
+        "progweb_descr": " From site Praxeon FingerprintMD web service API health medicine FingerprintMD help user search use naturally phrase medical question stay current news feed organize document accord subject matter recognize medical concept within document concept concept Id definition synonym available simple API function Search support OpenSearch protocol search result Atom format"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "UniProt",
+        "id": 15672,
+        "progweb_descr": " UniProt protein sequence annotation database scientific community UniProt API offer RESTful access resource service"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "EBI",
+        "id": 15697,
+        "progweb_descr": " EBI Web service let access nucleic acid protein sequence macromolecular structure data Choose 35 EBI Web Services European Bioinformatics Institute EBI part European Molecular Biology Laboratory EMBL Web service offer DNA protein sequence text mining structure comparison various BLASTs transmembrane topology prediction microarray search"
+    },
+    {
+        "progweb_cat": "Medical,Science",
+        "api_name": "SeqHound",
+        "id": 15834,
+        "progweb_descr": " SeqHound biological sequence structure database platform bioinformatics research SeqHound develop integrated biological sequence taxonomy annotation 3D structure database system It provide highperformance server platform bioinformatics research locallyhosted environment"
+    },
+    {
+        "progweb_cat": "Medical,Animals",
+        "api_name": "Smart Flow",
+        "id": 1426,
+        "progweb_descr": " Smart Flow Sheet API allow veterinary service provider track workflows manage automate operation clinic It simplify integration inpatient outpatient treatment track functionality clinical apps RESTful API return JSONformatted response indicate API error use HTTP response code"
+    },
+    {
+        "progweb_cat": "Medical,Animals",
+        "api_name": "VetMedStat",
+        "id": 12723,
+        "progweb_descr": " service provide remote collaboration advisory service veterinary medicine It offer consultation animal radiology cardiology diagnostic clinical action In addition detail reporting base submit observation consultant service provide expert evaluation help guide animal medical intervention API method support creation new case retrieval exist case addition new diagnostic information report related function API interaction enable interaction veterinarian service timely responses patient situation"
+    },
+    {
+        "progweb_cat": "Medical,Analytics",
+        "api_name": "Medtrics Analytics As Service (MaaS)",
+        "id": 2139,
+        "progweb_descr": " Meditrics provider analytical software solution health management Medtrics Analytics As Service MaaS API allow developer integrate realtime data transmission capabilities health monitoring application It design process stream realtime analytical data variety health parameter include blood pressure ECG PPG among others API well suit deployment IoT platform healthcare wearable device hardware"
+    },
+    {
+        "progweb_cat": "Medical,Annotations",
+        "api_name": "BeCalm",
+        "id": 2458,
+        "progweb_descr": " BeCalm API integrate biomedical annotation aim visualize recognize predict server entity It available REST architecture API Key authentication method perform callback JSON format BeCalm stand biomedical annotation meta server"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "CCDA",
+        "id": 3586,
+        "progweb_descr": " CCDA API builder interface simplifies parse retrieval patient record store CCDA file RESTful API allow user add patient profile automate update data edits BlueButton CCDA file It full release version send request response XML JSON format"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "Livewello",
+        "id": 7493,
+        "progweb_descr": " LiveWello social health management platform Patients manage health use support family friends health practitioner LiveWello API allow developer communicate LiveWello server Service provider medical device manufacturer healthrelated website utilize LiveWello personal health management tool API provide connection registration access profile care teams journal comment health record document"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "RxREVU",
+        "id": 7629,
+        "progweb_descr": " RxREVU medication cost saving database RxREVU offer datasets prescription medication cost Resellers integrate RxREVU datasets application offer user prescription drug cost saving RxREVU API allow developer access integrate functionality RxREVU application create new application Public documentation available interested developer contact RxREVU information"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "AdhereTech",
+        "id": 7877,
+        "progweb_descr": " AdhereTech make medication bottle enable technology improve prescription medication adherence AdhereTech API allow developer access integrate functionality AdhereTech application create new application Public documentation available interested developer contact AdhereTech API information"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "Cliniko",
+        "id": 8768,
+        "progweb_descr": " Cliniko webbased practice management software use healthcare practitioner around world It accessible device connect internet include phone tablet Macs PCs Cliniko use manage appointment practitioner want allow patient book appointment It also keep track treatment note financial account Cliniko come report function give overview practice offer integration specialty application Cliniko API allow user manage appointment business practitioner patient application system via REST call"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "How are you",
+        "id": 9488,
+        "progweb_descr": " How free service NHS patient healthcare professional provide convenient way host patient health record online Patients control content record well much content share How also provide user information medical condition plain English direct link external reference source How API use REST call enable user retrieve edit delete information medical condition medication allergy patient record API also let user add retrieve measurement take time blood pressure blood glucose level caloric intake height weight physical exercise"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "Biosemantics ACCCA",
+        "id": 9846,
+        "progweb_descr": " service provide annotation patient record consistently document concept relate problem detect clinical setting treatment define medical problem test monitor patient condition service combine input six separate annotation system generate aggregate result may record patient chart record A training mode allow user acclimate service generate reliable result API method support submission plain text clinical record return annotation identify clinical concept additional analysis Methods apply simple voting algorithm combine result separate annotation scheme final aggregate annotation"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "Sierra Stanford HIV",
+        "id": 9875,
+        "progweb_descr": " service provide access database develop Stanfords HIVdb project detail resistance human immunodeficiency virus establish drug treatment regimens Data provide score accord Stanford HIV Drug Resistance Algorithm 17 protease RT inhibitor compound approve US Food Drug Administration FDA treatment HIV Data also provide comment guide evaluation application form judgment likely level drug resistance API method support submission nucleic acid sequence retrieve algorithmic score predict resistance describe virus strain know HIV treatment drug An XSL transform template available render XML web service result humanreadable HTML"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "Dubai Health Post Office",
+        "id": 10125,
+        "progweb_descr": " eClaimLink project provide Dubai Health Authority information need organize strategize optimize healthcare Dubai Dubai Health Post Office DHPO transfer hub eClaimLinks electronic health claim transaction system design facilitate standardize communication provider payer authority patient DHPO API enable user check retrieve prior authorization transaction Users also upload download search transaction This API accessible use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "TransUnion MedData External Submission Portal",
+        "id": 10407,
+        "progweb_descr": " MedData External Submission Portal API online programmatic access point TransUnion MedConnect TransUnion MedConnect service give healthcare provider single location process report critical transaction eligibility benefit verification claim status inquiry referral API enable user access service use SOAP call"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "DynaMed",
+        "id": 11160,
+        "progweb_descr": " DynaMed clinical reference tool use physicians health care professional pointofcare It act resource use practice clinicallyorganized summary 3200 topic DynaMed editor monitor content 500 medical journal daily basis update tool accordingly DynaMed integrate electronic medical record system provide realtime delivery information"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "HIPAASpace",
+        "id": 13886,
+        "progweb_descr": " Helps medical healthcare application support ICD10 cod incoming EDI file via lookup service Includes list like National Provider Identifier Healthcare Procedure Conding System Code National Drug Code International Classification Diseases others"
+    },
+    {
+        "progweb_cat": "Medical,Healthcare",
+        "api_name": "Hospital Compare",
+        "id": 15347,
+        "progweb_descr": " Hospital Compare API allow developer get various hospital information like address mortality rate price operation hospitalrelated data Use get data 4500 hospital USA"
+    },
+    {
+        "progweb_cat": "Medical,Big Data",
+        "api_name": "Infermedica",
+        "id": 5672,
+        "progweb_descr": " Infermedica Artificial Intelligence API medical diagnosis Primary usecases include create intelligent symptom checker adaptive patient intake form diagnostic chat bots building advance clinical decision support tool clinician API allow submit anonymized patient health data symptom lab test risk factor diagnostic analysis Infermedicas intelligent inference engine analyze data realtime look possible diagnosis broad medical knowledge base In result receive assessment likely condition suggestion relevant symptom verify well costefficient lab test order Infermedica API use create new enrich exist healthcare product service intelligent diagnostic insight"
+    },
+    {
+        "progweb_cat": "Medical,Images",
+        "api_name": "MedXT",
+        "id": 7251,
+        "progweb_descr": " MedXT cloudbased RIS Radiology Information System PACS Picture Archiving Communications System allow medical professional upload access medical image securely online share patient refer physician MedXT consider Class 2 Medical device HIPAAcompliant MedXT API allow user perform platform function programmatically Developer API use enable application accept display data use DICOM Digital Imaging Communications Medicine standard handle store print transmit medical imaging information"
+    },
+    {
+        "progweb_cat": "Medical,Business",
+        "api_name": "BioTrackTHC",
+        "id": 7267,
+        "progweb_descr": " BioTrackTHC advance seed sale system empower commercial application produce processing retailing legal marijuana sale BioTrackTHC API assist marijuana operator traceability marijuana product supply chain Compatible JSON XML API return various data point function related BioTrackTHC ’ traceability system"
+    },
+    {
+        "progweb_cat": "Medical,Database",
+        "api_name": "Blue Button Connector",
+        "id": 7377,
+        "progweb_descr": " Blue Button service allow people US access medical record online order track health check report accuracy Not doctor medical service provider make data available Blue Button number provider increase Health data share doctor specialist trust person Blue Button also available apps Blue Button Connector allow user access data programmatically via REST call"
+    },
+    {
+        "progweb_cat": "Medical,Database",
+        "api_name": "The Cancer Imaging Archive",
+        "id": 8187,
+        "progweb_descr": " Cancer Imaging Archive TCIA public repository cancer image relate clinical data express purpose enable open science research Currently 26 million radiologic image cancer contain repository"
+    },
+    {
+        "progweb_cat": "Medical,Database",
+        "api_name": "HRSA Data Warehouse",
+        "id": 10403,
+        "progweb_descr": " HRSA Health Resources Services Administration Data Warehouse public database provide US Department Health Human Services A portion databases content accessible use HRSA Data Warehouse SOAP API API retrieve information active grant local resource health care service delivery sit health center Insure Kids Now dental care provider opportunities health professional organ procurement organization organ transplant center Ryan White HIVAIDS medical care provider"
+    },
+    {
+        "progweb_cat": "Medical,Database",
+        "api_name": "MRS",
+        "id": 12547,
+        "progweb_descr": " MRS search service biological medical database EMBL Genbank Interpro PDB SwissProt It allow user cover well terabyte indexed text single search current version MRS5 write C MRS search engine access programmatically via SOAP APIs"
+    },
+    {
+        "progweb_cat": "Medical,Database",
+        "api_name": "RCSB Protein Data Bank",
+        "id": 13643,
+        "progweb_descr": " Protein Data Bank PDB archive single worldwide repository information 3D structure large biological molecule include protein nucleic acid It manage Research Collaboratory Structural Bioinformatics RCSB RCSB PDB allow user access data one two method Search service return list IDs ie PDB IDs chain IDs ligand IDs Fetch service return data give ID API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Medical,Video",
+        "api_name": "SecureVideo.com",
+        "id": 7438,
+        "progweb_descr": " SecureVideo provide HIPAACompliant videoconferencing service allow mental health care provider psychiatrists psychologist counselor etc conduct virtual appointment patient SecureVideo API integrate user report information session workflow data HIPAA compliance data thirdparty electronic medical record application"
+    },
+    {
+        "progweb_cat": "Medical,Nutrition",
+        "api_name": "Kaiser Permanente Interchange",
+        "id": 7873,
+        "progweb_descr": " Interchange enable internal external developer use approve public data Kaiser Permanente create individualize health care management apps Using personalize health information apps customized cater patient lifestyle include nutrition activity support total health Interchange free API global rate limit 5000 transaction day per API Key With Oauth global Interchange API rate 2 transaction per second 200 per hour per token When Oauth need rate 1000 transaction per hour per API Key"
+    },
+    {
+        "progweb_cat": "Medical,Government",
+        "api_name": "Health and Human Services Syndication",
+        "id": 7980,
+        "progweb_descr": " Department Health Human Services HHS Storefront allow developer programmatically import content many HHS website Content accessible RESTful interface API able deliver topicbased news feed directly access HHS content"
+    },
+    {
+        "progweb_cat": "Medical,Government",
+        "api_name": "C3PI RxImageAccess",
+        "id": 7983,
+        "progweb_descr": " Computational Photography Project Pill Identification C3PI National Library Medicine service intend build standardized information infrastructure identify unknown Oral Solid Dosage Pharmaceuticals pill digital picture In addition image project generate metadata pill description dimension C3PI RxImageAccess API provide developer access projectâ€™s collect data API able query image use numerous descriptive parameter color shape imprint size much API return customizable list metadata include element activeinactive ingredient"
+    },
+    {
+        "progweb_cat": "Medical,Government",
+        "api_name": "Posttraumatic Stress Disorder Programs",
+        "id": 7989,
+        "progweb_descr": " Posttraumatic Stress Disorder Programs API service Department Veterans Affairs DVA expose information DVAâ€™s Facilities Leadership Directory database This SOAP web service delivers structure information treatment facility include name address program type"
+    },
+    {
+        "progweb_cat": "Medical,Government",
+        "api_name": "AIDSinfo",
+        "id": 14425,
+        "progweb_descr": " AIDSinfo offer access late federally approve HIVAIDS medical practice guideline information HIVAIDS treatment clinical trial HIVAIDSrelated research information health care providers researcher people affect HIVAIDS general public AIDSinfo API provide access AIDSinfo drug database fact sheet XML format API return information professional patient version AIDSinfo drug database fact sheet base input query string It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Medical,Government",
+        "api_name": "National Drug File-Reference Terminology",
+        "id": 14432,
+        "progweb_descr": " National Drug FileReference Terminology NDFRT develop Veterans Health Administration provide clinical information medication include therapeutic intent mechanism action physiologic effect drugdrug interaction Developers use API retrieve data NDFRT API use REST SOAP protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "Medical",
+        "api_name": "Flutrack",
+        "id": 8021,
+        "progweb_descr": " Flutrack monitor Englishlanguage tweet around world real time mention influenza symptom update occur every 20 minute Users retrieve data Flutrack via JSON API sort tweet date time flu symptom aggravation patientâ€™s clinical condition Users may also limit number tweet return API"
+    },
+    {
+        "progweb_cat": "Medical",
+        "api_name": "VIOLIN",
+        "id": 10828,
+        "progweb_descr": " Vaccine Investigation Online Information Network VIOLIN central online resource vaccine literature vaccine research data data analysis vaccine vaccine candidate It focus vaccine develop pathogen consider high priority public health biological safety Its database include research study use laboratory animal well human VIOLIN also provide new program vaccine target prediction VIOLIN provide set program utility access database Users may employ either SOAP REST call retrieve entry specify pathogen vaccine All data return XML format"
+    },
+    {
+        "progweb_cat": "Medical,Merchants",
+        "api_name": "Claiming.com.au",
+        "id": 8033,
+        "progweb_descr": " Claimingcomau health care integration technology service aim design build infrastructures developer use work complex Australian healthcare system Claimingcomau API aim reduce development time increase stability improve customer experience reduce claim rejection"
+    },
+    {
+        "progweb_cat": "Medical,Mobile",
+        "api_name": "RipRoad",
+        "id": 8829,
+        "progweb_descr": " RipRoad mobile medical service connection company convert complicate medial mobile technology accessible interface RipRoad provide company user great access health relate service They offer program cover influenza prenatal care asthma alert QA health program teenager appointment reminder program message program several others RipRoad API allow user integrate thirdparty service exist RipRoad program enhance functionality An account required service"
+    },
+    {
+        "progweb_cat": "Medical,Billing",
+        "api_name": "AdvancedMD",
+        "id": 8831,
+        "progweb_descr": " AdvancedMD provide broad spectrum medical support service site offer medical billing service practice management electronic health record schedule eprescribing service AdvancedMD API allow user integrate thirdparty application software service offer AdvancedMD API utilize XML account require service"
+    },
+    {
+        "progweb_cat": "Medical,Billing",
+        "api_name": "Kareo Medical Office",
+        "id": 12083,
+        "progweb_descr": " service provide platform office management billing function physician medical office facility With specialpurpose function specific doctor need supports management patient appointment bill include interaction health insurance company API method support manage patient account manage list service provider associated office set retrieve list appointment Methods also support handle procedure code service provide list patient charge submit billing report"
+    },
+    {
+        "progweb_cat": "Medical,Genetics",
+        "api_name": "DGIdb",
+        "id": 8845,
+        "progweb_descr": " Drug Gene Interaction Database DGIdb database know potential druggene interaction web interface allow user search druggene interaction gene search gene category browse category gene API allow user search interaction retrieve interaction type drug type interaction source source trust level gene category relate gene Information druggene interaction collect multiple resource include DrugBank TTD PharmGKB"
+    },
+    {
+        "progweb_cat": "Medical,Open Data",
+        "api_name": "Open mHealth",
+        "id": 9022,
+        "progweb_descr": " Open mHealth open architecture software service enable share mobile health data various multiple data source Open mHealth API allow developer access integrate data functionality Open mHealth application create new application Some example API method include retrieve data specify stream post data search data"
+    },
+    {
+        "progweb_cat": "Medical,Messaging",
+        "api_name": "Medical Bridge Network Message",
+        "id": 9054,
+        "progweb_descr": " Medical Bridge Network yiqiao interactive communication information platform design help medical professional share discuss scientific information new medical technique Medical Bridge Network provide user opportunity participate academic exchange realtime meeting case discussion online It also offer information resource like treatment guideline prescription information instructive video Message API allow user interact programmatically Medical Bridge Network websites message service website provide solely Chinese API documentation give partially English"
+    },
+    {
+        "progweb_cat": "Medical,Drugs",
+        "api_name": "National Institute on Drug Abuse Drug Screening Tool",
+        "id": 9079,
+        "progweb_descr": " In effort connect developer tool need host share Governmentâ€™s drug abuse research prevention information National Institute Drug Abuse host API expose Drug Use Screening Tool Drug Use Screening Tool interactive multiplechoice quize build help clinician identify risky substance use adult patient API support GET call retrieve question result POST call submit answer API return JSONP format response plain text HTTP"
+    },
+    {
+        "progweb_cat": "Medical,Drugs",
+        "api_name": "RxNav NDF-RT",
+        "id": 12560,
+        "progweb_descr": " service provide programmatic access current National Drug File Reference Terminology NDFRT data set NDFRT articulate standard vocabulary reference terminology list medication recognize US Veterans Administration VA It establish formal description format ontology therapeutic drug encourage consistent terminology across provider application API method support query medication subgroups full list include associated compound parentchild relationship Methods also support specification drug property interaction"
+    },
+    {
+        "progweb_cat": "Medical,Education",
+        "api_name": "MagnusHealth",
+        "id": 9097,
+        "progweb_descr": " MagnusHealth provide webbased student medical record management service aim provide school capability reduce liability save time money remain current regulatory standard improve emergency preparedness MagnusHealth API provide method create new user secure access token get membership status methods An account required service"
+    },
+    {
+        "progweb_cat": "Medical,Insurance",
+        "api_name": "HealthCare.gov",
+        "id": 9174,
+        "progweb_descr": " Health Insurance Marketplace HeathCaregov provide information health care health insurance option United States Starting October 1 2013 user able fill application view custom list health care plan option From user able compare plan select best one Meanwhile still plenty healthcare insurance information available All Health Insurance Marketplaces educational content available programmatically via API developer use create new product service API use REST call issue JSON JSONP"
+    },
+    {
+        "progweb_cat": "Medical,Insurance",
+        "api_name": "pVerify",
+        "id": 12305,
+        "progweb_descr": " pVerify provide automated eligibility verification solution medical practice solution allow medical provider determine patientâ€™s coverage benefit include remain deductible copays coin etc thus enable provider collect 100 patient obligation time service Patient Insurance Eligibility Benefits Verification Web Service support realtime 600 US Medical Insurance company delay insurace company US In addition eligibility user receive patient payment estimator payment process api call reminder 2way text reminder API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Medical,Backend",
+        "api_name": "Validic",
+        "id": 9383,
+        "progweb_descr": " Validic help healthcare business connect dozen mobile health application apps Fitbit RunKeeper MapMyRide iHealth offer user When endusers enter data app data get sent healthcare business system This allow business collect useful information customer improve healthcare service without incur cost develop maintain system app connection Integration Validic accomplish use RESTful API"
+    },
+    {
+        "progweb_cat": "Medical,Medicine",
+        "api_name": "SIL",
+        "id": 9660,
+        "progweb_descr": " SIL Svensk Informationsdatabas fÃ¶r LÃ¤kemedel translates Swedish Drug Information Database provide highquality pharmaceutical drug information take variety source It design provide health care professional information need make good decision prescribe medication SIL offer HTTPbased API provide integration option appropriate heterogeneous technical environment find healthcare industry online"
+    },
+    {
+        "progweb_cat": "Medical,Medicine",
+        "api_name": "posps",
+        "id": 10855,
+        "progweb_descr": " posps web service defines interface point sale POS pharmacys IT system PS Posps goal reuse business logic data storage exist pharmacy IT system new point sale This allow POS thats newly integrate pharmacy present full functionality knowledge PS without need redundantly store update data across system posps interface programmatically integrated pharmaceutical system use SOAPbased API"
+    },
+    {
+        "progweb_cat": "Medical,Visualizations",
+        "api_name": "Bililite",
+        "id": 10365,
+        "progweb_descr": " service provide pediatric chart function convert data submit image web display purpose Data enter via interactive form submit URL parameter service complete process generate request chart display data Available graph include height weight body mass index peak flow bilirubin level API method accept request specify chart type bilirubin height weight BMI blood pressure head circumference peak flow data sample patient individual patient API generate image URL incorporate another web page application"
+    },
+    {
+        "progweb_cat": "Medical,Family",
+        "api_name": "We Know A Place Nursing Home Locator",
+        "id": 10446,
+        "progweb_descr": " We Know A Place online directory service housing senior elderly people Users search elder care housing We Know A Place Nursing Home Locator allow developer access integrate nursing home data application create new application main API method return list information nursing home"
+    },
+    {
+        "progweb_cat": "Medical,Transcription",
+        "api_name": "mrecord",
+        "id": 10683,
+        "progweb_descr": " mrecord medical record technology provider facilitate creation interaction management medical record API allow user integrate bill schedule health information system Interface appointment reminder system mobile application service provider create unique program import data perform many task"
+    },
+    {
+        "progweb_cat": "Medical,Search",
+        "api_name": "Surescripts Million Hearts Risk Check Locator",
+        "id": 11568,
+        "progweb_descr": " Surescripts support comprehensive ecosystem health care organization national eprescription network connect prescribers pharmacy Million Hearts developer challenge sponsor Million Hearts Office National Coordinator Health IT outreach initiative developer challenge improve awareness cardiovascular disease promote cardiovascular screening Superscripts Million Hearts Risk Check Locator Service API provide developer access Surescripts location base search affiliate search provider offer screening"
+    },
+    {
+        "progweb_cat": "Medical,Search",
+        "api_name": "Drugle",
+        "id": 12084,
+        "progweb_descr": " service provide semantic search engine authoritative information pharmacology medical drug free provider bias It provide general reference tool healthcare provider patient family researcher medical student Health information system implement service component decision support technology API method support submission search query retrieval result Integration demo illustrate incorporation service health information site"
+    },
+    {
+        "progweb_cat": "Medical,eCommerce",
+        "api_name": "Assay Depot",
+        "id": 11703,
+        "progweb_descr": " Assay Depot worlds large online marketplace pharmaceutical research service Researchers around world use public research exchange find compare purchase research service request information thousand global vendor Assay Depot API give readonly access information vendor service This API use RESTful call issue JSON format"
+    },
+    {
+        "progweb_cat": "Medical,Italian",
+        "api_name": "Progetto Tessera Sanitaria",
+        "id": 12685,
+        "progweb_descr": " Progetto Tessera Sanitaria trans Health Card Project API establish method transmit prescription information online This information provide needs pharmaceutical specialist outpatient API provide online connection individual prescribers Sistema di Accoglienza Centrale trans System Central Reception Progetto Tessera Sanitarias function available user via SOAP call All documentation Italian"
+    },
+    {
+        "progweb_cat": "Medical,Social",
+        "api_name": "Pulsepoint",
+        "id": 12824,
+        "progweb_descr": " service create registry people train cardiopulmonary resuscitation CPR willing assist victim Sudden Cardiac Arrest SCA near location Members registry create entry indicate willingness respond provide contact information service accept notification participate agency cardiac emergency contact registry member near location API method support creation track incident include notify agency time location type incident Methods also support designation medical status victim call status respond agency"
+    },
+    {
+        "progweb_cat": "Medical,Chinese",
+        "api_name": "China Cancer Database",
+        "id": 13283,
+        "progweb_descr": " China Cancer Database repository information incidence mortality prognosis therapy prevention cancer It establish Chinese Ministry Science Technology create uniform nationwide cancer database Specific information retrieve use SOAP APIs Documentation China Cancer Database available Chinese English"
+    },
+    {
+        "progweb_cat": "Medical,Metadata",
+        "api_name": "Unified Medical Language System",
+        "id": 13390,
+        "progweb_descr": " Medical terminology resource National Library Medicine NLM allow application interpret refine user query map user term appropriate control vocabulary classification scheme interpret natural language assist structure data creation They also useful reference tool database builder librarians information professional Includes tool call Metathesaurus Browser Semantic Network Browser SNOMED CT Browser"
+    },
+    {
+        "progweb_cat": "Medical,Reputation",
+        "api_name": "National Practitioner Data Bank",
+        "id": 13591,
+        "progweb_descr": " service provide clearinghouse confidential information professional credential doctor nurse health care provider USgovernment repository create Congress 1986 single source report professional competency health care include licensure action take health care practitioner health care entity adverse action peer organization Reports accept qualified organization make available review medical credential API method support submit retrieve competency report individual practitioner facility Related function user account password management also support"
+    },
+    {
+        "progweb_cat": "Medical,Japanese",
+        "api_name": "PDBj",
+        "id": 15722,
+        "progweb_descr": " Use Protein Data Bank Japan PDBj API get protein sequence structure data useful biotech research research Protein Data Bank Japan maintain repository macromolecular structure offer tool collaboration RCSB US MSDEBI EU PDBj support JSTBIRD head PDBj professor Osaka University"
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "progweb_cat": "Calendars,Events",
+        "api_name": "Google Calendar",
+        "id": 267,
+        "progweb_descr": " Calendar Data API let user perform operation normal Google Calendar user Google Calendar website Google Calendar allow client application view update calendar event form Google data API GData feed Calendar Data API let user incorporate Calendar functionality application website Users edit calendar create delete event query event match particular criterion send invitation There many possible us Calendar data API example user create web front end group calendar use Google Calendar back end Or public calendar generate Google Calendar display base company event database Or user search relevant calendar display list upcoming event calendar"
+    },
+    {
+        "progweb_cat": "Calendars,Events",
+        "api_name": "30 Boxes",
+        "id": 485,
+        "progweb_descr": " 30 Boxes calendar service allows organize life share friends You also keep track friend calendar 30 Boxes interface Flickr Livejournal Blogger among others 30 Boxes also support SMS email notification"
+    },
+    {
+        "progweb_cat": "Calendars,Events",
+        "api_name": "Cronofy",
+        "id": 616,
+        "progweb_descr": " Cronofy Calendar API provide unified calendar API major calendar service Rather develop maintain link calendar service customer choose indeed force upon provide one integration point Difference authentication flow handle behalf Data modeling difference handle Push notification change update A Google Calendar like experienced provider"
+    },
+    {
+        "progweb_cat": "Calendars,Events",
+        "api_name": "Calendly",
+        "id": 2749,
+        "progweb_descr": " This API allow integrate Realtime calendar schedule business Calendly support webhooks allow receive Calendly appointment data realtime specify URL Calendly event schedule cancel Features include invitee create canceled event group event team schedule notification schedule appointment interview call demos Calendly make schedule software user provide customer base calendar service eliminate email phone tag schedule meeting appointment"
+    },
+    {
+        "progweb_cat": "Calendars,Events",
+        "api_name": "Days of the Year",
+        "id": 4085,
+        "progweb_descr": " Days Year API integrates daily weekly monthly happening JSON CSV format Based York UK service provide calendar browse weird funny wonderful bizarre holiday celebrate around world"
+    },
+    {
+        "progweb_cat": "Calendars,Events",
+        "api_name": "Newcastle Public Schools Workspace Calendar",
+        "id": 9148,
+        "progweb_descr": " Newcastle Public Schools website host information school district Newcastle Oklahoma Among thing site provide calendar major school event year This calendar access directly website programmatically via SOAP API Users employ API retrieve export event calendar"
+    },
+    {
+        "progweb_cat": "Calendars,Events",
+        "api_name": "Riverside Township High School Workspace Calendar",
+        "id": 9149,
+        "progweb_descr": " Riverside Township High School locate Riverside New Jersey website among thing provide calendar cover major school event year This calendar access directly website programmatically via SOAP API Users employ API retrieve export event calendar"
+    },
+    {
+        "progweb_cat": "Calendars,Events",
+        "api_name": "Google CalDAV",
+        "id": 9444,
+        "progweb_descr": " CalDAV open standard Google develop access calendar data across internet Google CalDAV API use standard grant user programmatic access Google Calendar content API let client application create edit delete search calendar event use REST call issue JSON format Google CalDAV API integrate Google APIs Console developer add project simply enable Console"
+    },
+    {
+        "progweb_cat": "Calendars,Extraction",
+        "api_name": "Time Extractor",
+        "id": 640,
+        "progweb_descr": " Time Extractor API allow extraction time date information text This API able identify several type object absolute date relative date eg Monday yesterday next month time datetime interval duration duration interval combination recur date time zone Time Extractor API parse plain text HTML return extract information JSON structure data"
+    },
+    {
+        "progweb_cat": "Calendars,Email",
+        "api_name": "LiveConnect",
+        "id": 948,
+        "progweb_descr": " LiveConnect let developer build apps web site connect Hotmail SkyDrive Windows Live Messenger API work Hotmail allow user access create update contact calendar Users access work medium store SkyDrive connect Messenger enable realtime chat API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Calendars,Conversions",
+        "api_name": "Amdoren Time Converter",
+        "id": 1396,
+        "progweb_descr": " Amdoren Time Converter API allow developer convert date time one location date time another location Data return JSON format secure HTTPS connection This service free use personal commercial website application"
+    },
+    {
+        "progweb_cat": "Calendars,Conversions",
+        "api_name": "Hebcal Hebrew Date Converter",
+        "id": 6829,
+        "progweb_descr": " Hebcal Jewish calendar holiday web site Hebrew Date Converter API allow developer tool convert Gregorian Hebrew date Developers able integrate feature application Two support output format JSON XML"
+    },
+    {
+        "progweb_cat": "Calendars,Customer Relationship Management",
+        "api_name": "HubSpot Calendar",
+        "id": 2389,
+        "progweb_descr": " HubSpot Calendar API allow developer create get update delete task calendar API also list content event social event task event event combine HubSpot provide stack product include customer relationship management marketing sale service"
+    },
+    {
+        "progweb_cat": "Calendars,Authentication",
+        "api_name": "Kloudless Universal Calendar",
+        "id": 2707,
+        "progweb_descr": " Kloudless Universal Calendar API use file storage service allow add multiple software service app This include Storage calendar event It use Connectors service integrate Calendar API Kloudless handle behindthescenes integration work support Connectors focus building experience customer"
+    },
+    {
+        "progweb_cat": "Calendars,Data",
+        "api_name": "ReminderDrop NLP",
+        "id": 4838,
+        "progweb_descr": " ReminderDrop natural language processing NLP reminder event schedule API Developers make apps web sit user friendly allow user schedule event reminder use naturally speak language With voice control feature user find helpful able basic data entry date time use natural language"
+    },
+    {
+        "progweb_cat": "Calendars,Office",
+        "api_name": "Office 365 Sync a Calendar View",
+        "id": 5234,
+        "progweb_descr": " Office 365 Sync Calendar View API allow developer integrate application Microsoft Office 365 Calendar Sync feature enable user synchronize get new update deleted event specify time range user primary calendar This API RESTful"
+    },
+    {
+        "progweb_cat": "Calendars,Booking",
+        "api_name": "Timekit",
+        "id": 5647,
+        "progweb_descr": " Timekit provide REST API work calendar provide schedule event suggestion calendar overlay This API consumable browser client server well support origin resource share All request standard HTTP response JSON Authentication user base require unique password API token"
+    },
+    {
+        "progweb_cat": "Calendars,Booking",
+        "api_name": "MINDBODY",
+        "id": 14710,
+        "progweb_descr": " MINDBODY business management service start simple management solution yoga pilates spin studio become recognize company dozen personal service market MINDBODY offer business management service online platform API client use MINDBODY API SOAPbased API allow 3rd party programmatically access MINDBODY Online business logic data"
+    },
+    {
+        "progweb_cat": "Calendars,Holidays",
+        "api_name": "Hebcal Jewish Calendar",
+        "id": 6301,
+        "progweb_descr": " Hebcal Jewish calendar holiday web site Jewish Calendar REST API provide website enables developer integrate application With API able request get information Jewish holiday information parameter use search customizable"
+    },
+    {
+        "progweb_cat": "Calendars,Holidays",
+        "api_name": "Holiday",
+        "id": 8332,
+        "progweb_descr": " Holiday API simple web service aim provide free programmatic information holiday worldwide API operational currently build catalog country list Holiday API accept GET request specify country year option specify month day"
+    },
+    {
+        "progweb_cat": "Calendars,Holidays",
+        "api_name": "World Holiday Calendar",
+        "id": 8333,
+        "progweb_descr": " World Holiday Calendar API provide developer access information describe holiday worldwide webservice allows application search information use criterion holiday country date"
+    },
+    {
+        "progweb_cat": "Calendars,3D",
+        "api_name": "Localist",
+        "id": 6598,
+        "progweb_descr": " Localist online calendar event management event promotion service Localist API simple HTTP interface return JSON format response Developers may access readonly API order retrieve geographic information data event recent activity usersubmitted review photo organization group information Currently define usage limitation Localist API Localist REST API include part enterpriselevel Localist software package All request require OAuth signature use"
+    },
+    {
+        "progweb_cat": "Calendars,Scheduling",
+        "api_name": "Office 365 Calendar",
+        "id": 7071,
+        "progweb_descr": " Office 365 Calendar API allow full access user calendar group calendar event associate metadata Developers implement API programmatically check event schedule new one In order access Office 365 APIs developer must first register apps Microsoft All APIs use JSON Auth0 protocol authentication Azure AD authorization"
+    },
+    {
+        "progweb_cat": "Calendars,Scheduling",
+        "api_name": "Bookitit",
+        "id": 8183,
+        "progweb_descr": " Bookitit online calendar online schedule organizer application company also let manage appointment reservation book person phone employee payment notification Bookitit API offer wide variety function synchronize aspect app let developer personalize online schedule process limit imagination API use RESTful protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "Calendars,Scheduling",
+        "api_name": "MakePlans",
+        "id": 13461,
+        "progweb_descr": " MakePlans online schedule appointment set service MakePlans integrated website people make appointment online website receive email confirmation MakePlans API allow developer access integrate functionality MakePlans sit application Some example API method include retrieve list appointment set appointment access account information"
+    },
+    {
+        "progweb_cat": "Calendars,Scheduling",
+        "api_name": "Recollect",
+        "id": 13931,
+        "progweb_descr": " Recollect originally VanTrash garbage recycle collection reminder service service allow user get reminder take garbage recycle Reminders come text email phone call tweet Recollect API allow user retrieve data Recollect While API still development Beta evolve current function include search area Recollect access area data listing zone Recollect access zone data"
+    },
+    {
+        "progweb_cat": "Calendars,Calendars",
+        "api_name": "31Events",
+        "id": 7445,
+        "progweb_descr": " 31Events calendar service sends invite directly customer calendar If invite accept recipient automatically sign event service aim monitor large group along accept deny status hope Increased Webinar attendance 31Events API use REST call return JSON allow user make variety call include create update get list delete event well manipulate account information An account required service"
+    },
+    {
+        "progweb_cat": "Calendars",
+        "api_name": "Schedjoules Calendar",
+        "id": 7452,
+        "progweb_descr": " Schedjoules inapp calendar store 180000 public calendar include sport finance holiday schedule event Schedjoules API provide user access SchedJoules Public Calendar Library Providing calendar 40 language user use API integrate calendar application monetize service Am account required service API use REST call return JSON use SSL API Keys authentication"
+    },
+    {
+        "progweb_cat": "Calendars",
+        "api_name": "Trogsoft Public Holidays",
+        "id": 8019,
+        "progweb_descr": " Trogsoft Public Holidays API allow developer access integrate functionality data Trogsoft main API method list public holiday year customisable date format variety region country"
+    },
+    {
+        "progweb_cat": "Calendars",
+        "api_name": "ClicRDV",
+        "id": 14699,
+        "progweb_descr": " ClicRDV appointment management software It provide plan tool build fully customize manage user calendar employee internet With API user functionality synchronize customer record calendar import calendar client file export data build custom interface API use RESTful protocol response format XML JSON CSV Site documentation French"
+    },
+    {
+        "progweb_cat": "Calendars",
+        "api_name": "Notely",
+        "id": 15595,
+        "progweb_descr": " From site Studies show todays student learn best actively engage learn process Notely make notetaking breeze help student organise information cycle Students capture organise share note way increase interactivity learn retention Feature list include calendar todo list homework organiser manage course write save note organise link contact file keep notebook lab book"
+    },
+    {
+        "progweb_cat": "Calendars,Financial",
+        "api_name": "FXstreet Calendar",
+        "id": 7954,
+        "progweb_descr": " FXstreet global forex information service monitor market around world 245 site aim trader analyst financial market follower FXstreet Calendar API advance implementation calendar application user add thirdparty site access sing REST call API return JSON XML account require service"
+    },
+    {
+        "progweb_cat": "Calendars,Customization",
+        "api_name": "Digiguide.tv",
+        "id": 7956,
+        "progweb_descr": " Digiguide TV guide provider allow user customize individual preference need It design accommodate TV fan medium professional Digiguides TV guide optimize used PCs Smartphones Web Digiguide API use REST call return JSON use SSL authentication allow user make call manipulate program channel people resource house digiguidetv An account required service"
+    },
+    {
+        "progweb_cat": "Calendars,Education",
+        "api_name": "USC Event Calendar",
+        "id": 9288,
+        "progweb_descr": " University Southern California Events Calendar provide comprehensive searchable listing campus event include music theater exhibit lecture film sport USC Event Calendar API provide RESTful access calendarâ€™s event data API support automate call limit event variety field data type well search within field API support JSON JSONP format response"
+    },
+    {
+        "progweb_cat": "Calendars,Education",
+        "api_name": "OSU Calendar Web Service",
+        "id": 10582,
+        "progweb_descr": " Oklahoma State University OSU website host number useful feature one Calendar Web Service API This service enable user programmatically retrieve schedule OSU event Users retrieve event occur two give date 999 day apart This API use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Calendars,Education",
+        "api_name": "My School Holidays",
+        "id": 12834,
+        "progweb_descr": " My School Holidays Primary Technology website application display school holiday country state school name school district Users browse holiday search holiday My School Holidays API allow developer access integrate functionality data My School Holidays application create new application Some example API method include search holiday date return holiday current date retrieving holiday specific school"
+    },
+    {
+        "progweb_cat": "Calendars,German",
+        "api_name": "InfoPark Web Calendar",
+        "id": 10095,
+        "progweb_descr": " service German web host provider InfoPark provide ability update host event calendar list offer service package Site owner use platform maintain calendar event appointment timesensitive listing separate element embed within part online environment API method support create updating event calendar listing retrieval list data display processing Methods allow synchronization listing system event configured create listing within online event calendar"
+    },
+    {
+        "progweb_cat": "Calendars,Identity",
+        "api_name": "Anniversarator",
+        "id": 10261,
+        "progweb_descr": " service provide anniversary calculator suggest reason celebrate wed relationship anniversary birthdays Input must specify start date event type either birthday anniversary default service return suggestion reason celebrate base time elapse since start date API method generate text suggestion base number day week fortnights 2week period month year since specify start date Optional annotation explain potentially obscure reference suggestion"
+    },
+    {
+        "progweb_cat": "Calendars,Religion",
+        "api_name": "St. Gregorios Church Calendar",
+        "id": 10526,
+        "progweb_descr": " St Gregorios Indian Orthodox Church base Maryland provide online visitor access Calendar API This service enable user calculate date Easter fall give year This API make use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Calendars,Widgets",
+        "api_name": "Jotlet",
+        "id": 12093,
+        "progweb_descr": " Jotlet JavaScript API use build rich calendar functionality directly webpage Users option share calendar friends family coworkers A colorcoding feature provide help organize filter event If desire calendar sync Microsoft Outlook"
+    },
+    {
+        "progweb_cat": "Calendars,Spanish",
+        "api_name": "Idescat Advance Release Calendar",
+        "id": 12098,
+        "progweb_descr": " Statistical Institute Catalonia produce official statistic field economy demography society Idescat expose data via collection REST APIs Idescats APIs offer method thirdparty program able obtain information Statistical Institute Catalonia integrate service This API let users access information Idescats Advance Release Calendar calendar show publication date Idescats statistical production dissemination date offer API allow user minimize number request make use rest Idescats APIs It use RESTful call response format XML JSON PHP iCal"
+    },
+    {
+        "progweb_cat": "Calendars,Reference",
+        "api_name": "Sapo Holiday",
+        "id": 12377,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide Holiday API return list Portuguese national regional municipal holiday specify year Users search specific hoidays include Easter Carnival Good Friday Holidays return year 1582 2299 API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Calendars,Social",
+        "api_name": "SnapAppointments",
+        "id": 12391,
+        "progweb_descr": " SnapAppointments book service appointmentbased business Small complex business use share calendar availability potential client book appointment Internet SnapAppointment automate schedule employee send reminder client via text email phone Their RESTful API provide access clientside bookingquery functionality well businessside appointment management"
+    },
+    {
+        "progweb_cat": "Calendars,Tools",
+        "api_name": "Appointment-Plus",
+        "id": 12392,
+        "progweb_descr": " AppointmentPlus online reservation software provider Business embed AppointmentPlus link onto website use AppointmentPlus standalone book service website It also provide POS function business accept payment appointmentmaking interface Their RESTful API provide functionality integrate schedule make software reply JSON XML format Developers must request access API documentation"
+    },
+    {
+        "progweb_cat": "Calendars,Reservations",
+        "api_name": "ClickBook",
+        "id": 13404,
+        "progweb_descr": " ClickBooknet SOAP WebService API provide comprehensive access ClickBook engine custom user interface bespeak workflow integration Local Business Directories provide prospect realtime availability display confirm appointment booking detail management appointment reminder service customer Developers request contact ClickBook use Interface API contain performance function limitation unless use authorised API Key There several endpoint explore Visit httpwwwclickbooknetinterface"
+    },
+    {
+        "progweb_cat": "Calendars,Korean",
+        "api_name": "Daum Calendar",
+        "id": 14370,
+        "progweb_descr": " Daum web portal South Korea offer many Internet service web user include popular free webbased email message service forum shop news Daum Calendar API let user perform action Daum Calendar service Developers access Daum calendarrelated data use API create view modify delete calendar API provide following feature Creating category Categories view Category modify Calendar Enhancements Creating schedule schedule view modify schedule delete schedule API use RESTful call response format XML JSON site documentation Korean"
+    },
+    {
+        "progweb_cat": "Calendars,Contacts",
+        "api_name": "Vodafone Address Book",
+        "id": 14527,
+        "progweb_descr": " Address Book API Vodafone part suite JavaScriptbased widget APIs provide mobile web application access underlie hardware In case Address Book API developer access contact calendar item store phone"
+    },
+    {
+        "progweb_cat": "Calendars,Business",
+        "api_name": "Setster",
+        "id": 15019,
+        "progweb_descr": " Setster simple intuitive schedule solution empowers professional service market accept appointment online Embed website blog even email body increase conversion allow potential customer book time 247 No matter size team Setsters scalable solution allow complete control schedule go Feature highlight Sync activity exist calendar access anywhere Define appointment availability Set appointment confirmation cancellation reschedule notification Dashboard analytics multiple language support PayPal Freshbooks integration Custom field widgets timezone conversion API developer support API use RESTful interface response XML format"
+    }
+]

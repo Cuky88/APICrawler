@@ -1,0 +1,2216 @@
+[
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "New York Times Congress",
+        "id": 102,
+        "progweb_descr": " With New York Times Congress API get summary rollcall vote US Congress get list member Congress get vote data biographical information role data individual House Senate member overview background"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "Google Civic Information",
+        "id": 359,
+        "progweb_descr": " Google Civic Information API allow developer access civic information include poll place early vote location candidate data election official information use third party application API data available currently focus election relate information API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "New York Times Campaign Finance",
+        "id": 426,
+        "progweb_descr": " New York Times Campaign Finance API let retrieve contribution expenditure data United States Federal Election Commission filing NY Times team take public campaign finance data create useful data set answer frequently ask campaign finance question"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "Socrata Open Data",
+        "id": 1269,
+        "progweb_descr": " Socrata online community producer publisher consumer data Through suite innovative Web service Socrata provide world comprehensive platform open data discovery Socrata APIs set REST resource use manage Socrata entity data Resources group area relate highlevel functionality"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "U.S. Office of Scientific and Technical Information",
+        "id": 7981,
+        "progweb_descr": " Office Scientific Technical Information OSTI Department Energy DOE office responsible collect preserve disseminate scientific technical information form DOE RD result OSTI API expose several officeâ€™s collection 3rd party application query collection API able sort limit result search wildcards much"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "UNdata",
+        "id": 8298,
+        "progweb_descr": " UNdata provide user easy access UNs statistical database This data cover wide array topic include agriculture education employment crime health population industry tourism trade Users search data want directly site query UNdata programmatically via SOAP API API power Eurostatâ€™s SDMX Reference Infrastructure SDMXRI use SDMX standard"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "Code for America NAICS",
+        "id": 8538,
+        "progweb_descr": " Code America nonpartisan organization dedicate help government agency use internet promote openness efficiency citizen participation NAICS North American Industry Classification System classify business type maintain US Bureau Labor Statistics Code Americas NAICS API design help make NAICSs classification system machinereadable easy search This allow apps need understand collect information business way compatible US government framework"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "DemocracyMap",
+        "id": 8544,
+        "progweb_descr": " DemocracyMap provide simple interface help citizen journalist discover civic entity govern body give location DemocracyMap API provide contact detail primary information govern body official represent give location form structure data A demo API publicly available coverage currently limit US"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "USA.gov Federal Agency Directory",
+        "id": 8905,
+        "progweb_descr": " USAgov provide RESTful Federal Agency Directory API give developer access directory federal agency English Spanish information provide API gather US Government Manual independent staff research API allow user retrieve information certain subset"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "USCG MARPOL Certificates of Adequacy",
+        "id": 9287,
+        "progweb_descr": " MARPOL Certificates Adequacy COAs signify facility possess certificate adhere requirement international protocols convention regard maritime pollution US Coast Guard USCG provide access searchable online database US port terminal hold valid MARPOL COAs databases content accessible directly Coast Guards website programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "USCG Port State Information Exchange",
+        "id": 9337,
+        "progweb_descr": " US Coast Guard USCG Port State Information Exchange PSIX information system contain vesselspecific information US flag vessel foreign flag vessel operate US water contact vessel This information derive Marine Information Safety Law Enforcement System MISLE PSIX information access directly USCG website programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "Idescat Onomastics API",
+        "id": 9370,
+        "progweb_descr": " Statistical Institute Catalonia Idescat organization produce official Catalan economy demography society statistic Idescat expose data via collection REST APIs Idescat Onomastics API provide statistical data name surnames Catalonia API response may XML JSON PHP TXT format"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "CENSUS.IRE.ORG",
+        "id": 11388,
+        "progweb_descr": " CENSUSIREORG project create Investigative Reporters Editors IRE order provide journalist simpler way access 2010 Census data This allow spend less time import manage data time explore report data Census data retrieve use GeoID geographic area interest service employ RESTful API call issue JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "Excluded Parties List System",
+        "id": 12432,
+        "progweb_descr": " Excluded Parties List System EPLS provide information regard entity declare ineligible receive Federal contract subcontract Federal assistance benefit This information may include name address DUNS number Social Security Numbers Employer Identification Numbers Taxpayer Identification Numbers available deem appropriate permissible publish agency take action EPLS API allow user search list programmatically"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "EnergyStar Third-Party Certification",
+        "id": 12596,
+        "progweb_descr": " free service US Environmental Protection Agency EPA establishes qualify product exchange QPX system accept request EnergyStar certification facilitate processing request certification body CBs service augments prior system base submission spreadsheet list currently certify product It handle XML submission individual product include capability modify certification request submission API method support submission EnergyStar certification request product like boiler air conditioner heat pumps dehumidifiers commercial fryer griddle electronic equipment Methods also support modify withdraw resubmitting exist certification"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "Institute of Development Studies",
+        "id": 12630,
+        "progweb_descr": " Institute Development Studies offer research database repository international development research This data research used policy make decision make program design advocacy effort Institute Development Studies API allow developer access integrate data functionality IDS repositories library application create new application Some example API method include search retrieve document data manage document library"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "Regulations.gov",
+        "id": 12960,
+        "progweb_descr": " Regulationsgov website United States federal government help citizen access document describe federal regulation Government agency post notice rule propose rule request comment site Users search timeframe keyword type document Regulationsgov API provide developer access information website programmatic interface Search document retrieve specific docket get document information Developers filter search result date agency docket ID comment period full documentation available site PDF link footer API return data XML JSON require API Key available upon request"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "EnergyStar ABS",
+        "id": 12991,
+        "progweb_descr": " free web service US Environmental Protection Agency EPA promote share data energy use facility energyconsumption information It interact EPAs Portfolio Manager software tool help application provide energy building data part Energy Star energy performance rating This benchmarking support development environmental performance metric API method support management Energy Star rating status update build energy meter information retrieval benchmarking data local comparison Methods also support management ABS program user account information"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "Datahotell",
+        "id": 13793,
+        "progweb_descr": " Datahotell data repository public institution Norway Datahotell part datanorgeno open government data project Norway Any data upload Datahotell available datanorgeno well Datahotell API This RESTful API return response XML JSON CSV site documentation Norwegian"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "UK National Archives Discovery",
+        "id": 13822,
+        "progweb_descr": " UK National Archives government national archive England Wales United Kingdom Holding 11 million historical government public record Archives provide online Catalogue contain searchable description record document Discovery service base Catalogue soon replace search function Catalogue Discovery service include API RESTful query return response XML"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "FRED",
+        "id": 15317,
+        "progweb_descr": " FRED API web service allow developer write program build application retrieve economic data FRED ALFRED websites hosted Economic Research Division Federal Reserve Bank St Louis Requests customize accord data source release category series preference"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "LittleSis",
+        "id": 15497,
+        "progweb_descr": " LittleSis free database track key relationship politician business leader lobbyists financier affiliate institution LittleSis API expose raw data use LittleSis website data consist basic information people organization entity relationship It use RESTful interface response format XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Reference",
+        "api_name": "Office for National Statistics",
+        "id": 15662,
+        "progweb_descr": " UK neighbourhood census statistic include Neighbourhood Statistics NeSS data include 2001 Census Access Services Community wellbeingSocial Environment Crime Safety Economic Deprivation Education Skills Training Health care Housing Indicators Indices Deprivation People Society Physical Environment Work Deprivation"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "GovTrack.us",
+        "id": 178,
+        "progweb_descr": " From site GovTrackus track US Congress reference legislation vote Members Congress congressional district congressional record database power site also make freely available several APIs available APIs URLs GovTrack serve XML rather HTML They intend call application retrieve data dynamically"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "OpenSecrets",
+        "id": 187,
+        "progweb_descr": " OpenSecrets API provide access data display OpenSecretsorg OpenSecrets perform research track money US politics effect election public policy Use API access politician top contributor personal financial disclosure politician"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Sunlight Labs Congress",
+        "id": 220,
+        "progweb_descr": " From site We set create uptodate database 110th Congress provide basic clerical information member congress phone email district etc via API Moreover provide converter method convert different IDs thereby facilitate bring together data person different source To complete package provide basic API method tie city zipcodes district latitudelongitude perfect webbased mashups"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "MapLight",
+        "id": 414,
+        "progweb_descr": " MapLight look connection campaign donation legislative vote effort reveal money influence politics MapLight performs research support oppose interest legislative bill MapLights Bill Positions API provide tool discover connection campaign donation legislative vote It also mash database contain information bill politicallyactive organization This RESTful API return result JSON XML"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "PDXCouncilConnect",
+        "id": 460,
+        "progweb_descr": " PDXCouncilConnect service Portland Oregon eGovPDX group city technology department make API available access city council agenda vote information PDXCouncilConnect API provide developer access agenda session item information data include location time well bureaus affect When vote occur API also return vote information This government API RESTful interface provide data JSON"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Follow The Money",
+        "id": 488,
+        "progweb_descr": " From site Money state politics play pivotal role shape public policy individual state across nation nonpartisan Institute Money State Politics track contribution 50 state make data easily searchable online…The Institute collect campaignfinance data statelevel candidate party committee ballotmeasure committees 50 state Each twoyear election cycle dataacquisition specialist compile 90000 disclosure report 16000 candidate state process 32 million record contribution information"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Capitol Words",
+        "id": 763,
+        "progweb_descr": " service extract language daily Congressional Record report full text deliberation US House Representatives Senate Applications query search term receive mention title speaker 1996 forward Methods support retrieval statement Congress date phrase freetext match Retrieval also specify chamber Congress speaker state andor party affiliation name speaker select biographical data"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "OpenCongress",
+        "id": 783,
+        "progweb_descr": " OpenCongress bring together official government data news blog coverage give user real story behind bill OpenCongress API also developers access data website application"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "City of Chicago Data Portal",
+        "id": 891,
+        "progweb_descr": " City Chicago Data Portal online portal data City Chicago Datasets available category include administration finance education historic preservation park recreation sanitation transportation City Chicago Data Portal use Socrata Open Data API use REST return responses variety format include JSON XML RDF"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "CKAN Ireland",
+        "id": 909,
+        "progweb_descr": " CKAN Comprehensive Knowledge Archive Network nonprofit registry open data CKAN prepare data provide access data way make data discoverable usable government Ireland make datasets available CKAN include data transit TDs DÃ¡il Ã‰ireann renewable energy school port traffic marriage CKAN API provide access data API RESTful return response JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "CKAN Czech Republic",
+        "id": 911,
+        "progweb_descr": " CKAN Comprehensive Knowledge Archive Network nonprofit registry open data CKAN prepare data provide access data way make data discoverable usable government Czech Republic make datasets available CKAN include data school poultry market statistic unemployment wild bird protection tourism statistic CKAN API provide access data API RESTful return response JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Watchdog",
+        "id": 1160,
+        "progweb_descr": " From site watchdognet let find whats go politics make voice heard Were try build hub politics Internet Data there lot great information politics – district demographic vote lobby record campaign finance report – unfortunately split across dozen different web site often hide behind confuse interface Were pull together let explore one elegant unified interface Plus share result API come new way explore"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Transparency Data",
+        "id": 1278,
+        "progweb_descr": " Transparency Data resource federal lobbyist registration federal state campaign contribution See candidate receive individual give much organization spend lobby many query Transparency Data API give developer access search state federal campaign contribution data API feature RESTful interface return data via JSON CSV"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "FCC",
+        "id": 1291,
+        "progweb_descr": " United Stated Federal Communications Commission API provide access information license consumer broadband speed data relate communication API make suite service use RESTful protocol return response XML JSON JSONP Consumer Broadband Test API let user lookup data number test average user downloadupload speed Census Block Conversions API let user look census block number base latitudelongitude pair FRN Conversions API let user learn company information broadband provider often change state state License View API provide information 3 million FCC issued license use nation airwave purpose Spectrum Dashboard APIs let user search spectrum band allocation own license within 225 MHz 3700 MHz frequency range United States"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Democracy In Action",
+        "id": 1643,
+        "progweb_descr": " From site Were progressive nonprofit whose core activity provide eadvocacy tool progressive nonprofit penny dollar relative fee demand private sector In capacity service provider offer cuttingedge communication tool enable user organization everything send mass email blast take donation online Democracy In Action HTML API allow advance user DIA tool build custom offsite interface data store DIA account It accomplish specially format HTML form element submit via HTTP POST processor script DIA server write database retrieve information At time main support functionality write data instance new supporter sign donation DB"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "FedSpending.org",
+        "id": 1646,
+        "progweb_descr": " From site A tool public journalist find US government spending data largely two source Federal Procurement Data System contain information federal contract Federal Assistance Award Data System contain information federal financial assistance grant loan insurance direct subsidy like Social Security"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "UNDP Human Development Data",
+        "id": 7948,
+        "progweb_descr": " United Nations Development Programmes UNDPs Human Development Reports focus metric information access good nutrition health service job security safety crime violence quality leisure time political freedom All data Human Development Report contain 14 statistical table accessible programmatically via REST call"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "National Terrorism Advisory System",
+        "id": 7984,
+        "progweb_descr": " National Terrorism Advisory System NTAS service Department Homeland Security design effectively communicate information terrorist threat NTAS expose simple API able deliver alert discreet XML file XML feed Alerts contain structure data field summary detail location region duration â€œhow helpâ€ much"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Veterans Affairs Facilities",
+        "id": 8000,
+        "progweb_descr": " Veterans Affairs Facilities API Veterans Affairs VA service capable programmatically deliver summary information VA facility SOAP web service capable search facility state region facility ID return structure data include facility ID name type region state"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "MyIGA Hypermedia",
+        "id": 8843,
+        "progweb_descr": " Indiana General Assembly IGA lawenacting branch Indiana state government It provide MyIGA Hypermedia API service retrieve information relate IGA This information cover bill legislator committee vote action All API data access use REST call issue either JSON XML format"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "We the People",
+        "id": 9293,
+        "progweb_descr": " We People platform White House website allow user create sign petition number issue Petitions recieve 150 signature get review White House staff respond platform support 8 million user 200000 petition 13 million signature API provide user GET HTTP access data petition gather enough support receive response become publiclyavailable We People site platform recently update API add POST component allow developer gather signatures independent system submit petition WriteAPI request require API key use"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Sunlight Foundation Open States",
+        "id": 9297,
+        "progweb_descr": " Sunlight Foundation nonpartisan nonprofit group use technology make US government transparent accountable Open States provide public access information statelevel politics every state US It help user find legislator review vote search upcoming legislation track bill progress This data access directly website programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "CIR VA Backlog",
+        "id": 9307,
+        "progweb_descr": " Center Investigative Reporting CIR one old nonprofit investigative reporting organization United States VA Backlog API use create VA backlog datadriven application websites mobile device well create interactive visualization map chart graph Data available include veteran wait VA claim number claim process VA month number unprocessed claim older year"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "White House Policy Snapshots",
+        "id": 9499,
+        "progweb_descr": " Policy Snapshots whitehousegov feature spotlight President Obamaâ€™s policy Each spotlight focus particular subject compose two section Progress give quick overview work do thus far administration Whatâ€™s Next illuminate Presidentâ€™s plan continue progress Policy Snapshots API provide customizable JSON feed supply content Policy Snapshots Content access specify section category tags Access require account authentication"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Broadband USA",
+        "id": 9525,
+        "progweb_descr": " BTOP Broadband Technology Opportunities Program work expand broadband access across America BTOP API provide access information place award PCC Public Computer Center fund assistance government This information view map website retrieve programmatically state zipcode coordinate API capable retrieve information JSON XML format"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "ProPublica Forensics",
+        "id": 10408,
+        "progweb_descr": " ProPublica independent nonprofit newsgroup aim produce investigative journalism public interest Post Mortem Death Investigation America ProPublica investigation coroner medical examiner system nationwide ProPublica Forensics API provide RESTful access Post Mortem data"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "SI-TSA Timestamp",
+        "id": 10665,
+        "progweb_descr": " SITSA Slovenian Time Stamping Authority issue authority time stamps part infrastructure Certification Authority Slovenian Ministry Public Administration SITSA issue trust time stamp intend use public administration institution In future also available business end user SITSA Timestamp API access use SOAP call issue XML format SITSA website API documentation provide Slovenian English"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Granica",
+        "id": 10882,
+        "progweb_descr": " Granica Polish government website provide information useful people cross border Poland Granica offer two APIs make use SOAP call One provide user information wait time border allows foreign shopper calculate VAT ValueAdded Tax GST Goods Services Tax pay shopping Poland reimburse"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Czech Customs Administration TaricCZ",
+        "id": 10919,
+        "progweb_descr": " TARIC online custom tariff database maintain European Union This database integrate code measure relate tariff commercial agricultural legislation TARICCZ use internal information system Czech Customs Administration It include TARIC data well information Czech Republics national integrated tariff NIT national legislation TaricCZ API provide Czech Customs Administration use programmatically obtain information TARICCZ database API user issue SOAPbased call return desire information XML format Czech Customs Administration website provide primarily Czech part include API documentation provide English"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Open States",
+        "id": 11197,
+        "progweb_descr": " Open State Project initiative Sunlight Foundation nonprofit organization work towards great government openness transparency Open States API provide RESTful interface access state legislative information include general state metadata data bill legislator committee event"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "WhatWePayFor",
+        "id": 11311,
+        "progweb_descr": " WhatWePayFor online database aim make information federal budget transparent DataVizChallenge portion site provide access API challenge user create unique interface visualize budget data Service available use REST call return XML Calls include retrieve budget data aggregate data get population data GDP Debt TaxRates information"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "IUID Registry",
+        "id": 12776,
+        "progweb_descr": " service support DoDs Wide Area Workflow system paperless contract It allow retrieval specification item available vendor bid fulfill DoD purchase contract include purchase history item service also identify vendor register bid supply contract Vendors use system help fulfill contract term transmit shipping notice electronic receipt acceptance API method support verification Unique Item Identifiers UII product purchase specific like part batch number Methods also support retrieval listing contractor register system"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Illinois State Board of Elections",
+        "id": 12913,
+        "progweb_descr": " service provide access voter registration information US state Illinois state maintains roll qualify voter make public data accessible registered political committee include individual organization make contribution 3000 support opposition candidate ballot measure API method support search register voter information signature data statewide Methods also allow update voter registration record"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "WIJIS Gateway",
+        "id": 13076,
+        "progweb_descr": " Wisconsin Justice Information Sharing WIJIS Gateway allow authorize user search participate backend information storage system simultaneously Once locate detail desire information may request backend system operate authority directly retrieve immediate inspection Rather search textual content Gateway allow user locate record predefined category call Search Profiles Each one represent primary emphasis search person vehicle organization etc"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "San Francisco Ethics Commission Lobbyist",
+        "id": 13237,
+        "progweb_descr": " San Francisco Ethics Commission require lobbyist file monthly disclosure statement electronically disclosures give access lobbyist client list expense political contribution In order make statement transparent Ethics Commission API provide access lobbyist database Developers search filing year lobbyist individual filing API free available without API key RESTful service return data JSON format"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Datanest Fair-Play Alliance",
+        "id": 13516,
+        "progweb_descr": " Datanest project FairPlay Alliance nonpartisan nonprofit association work towards government transparency Slovakia Datanest provide data money politics people public service sale public property tax debt A RESTful API available access data XML JSON format"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Mobile Commons Legislative Lookup",
+        "id": 13553,
+        "progweb_descr": " service retrieve information representative US Congress state legislature location specify latitude longitude Data return include contact information application automatically route user directly legislative representative support call action part advocacy campaign Another use would target advocacy message specific legislative district serve member cast key vote issue API method accept latitude longitude return legislative district US House Representatives state legislative house applicable service return error message submission without latitudelongitude data location outside United States"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Challenge.gov",
+        "id": 13644,
+        "progweb_descr": " Challengegov partnership program US General Service Administration ChallengePost Government agency post challenge site public post submission help develop solution An XML feed post challenge available integrate thirdparty apps website"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "City of New Orleans",
+        "id": 13680,
+        "progweb_descr": " DataNolaGov make datasets City New Orleans accessible Categories include demographic data geographic reference website also provide several data view option calendar eventually access form DataNolaGov use Socrata Open Data API support RESTful protocol return responses variety format include JSON XML"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Alameda County Service Provider",
+        "id": 13860,
+        "progweb_descr": " Listings 400 social service provider Alameda County Oakland California This dataset collate quality check several month 2010 comprehensive list social service provider county rich detail include service eligibility opening hour accessibility API return service organization specify category Service provider location may contain duplicate since location provide multiple service across several category"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "National Broadband Map",
+        "id": 13911,
+        "progweb_descr": " National Broadband Map website provide information broadband availability throughout United States It service National Telecommunications Information Administration part State Broadband Initiative aim bring improved broadband information technology state local economy National Broadband Map website build suite APIs suite open public use Among APIs available Broadband Provider API Provider Statistics API Geography Lookup API Speed Test API Wireless Broadband API Each API divide access information base geographic indicator parameter Most APIs RESTful return response XML JSON"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "King County Open Data",
+        "id": 13912,
+        "progweb_descr": " King County Open Data online portal data King County Washington Datasets available topic include election restaurant inspection tax animal license King County Open Data use Socrata Open Data API use REST return responses variety format include JSON XML RDF"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Sunlight Labs Real-time Congress",
+        "id": 14536,
+        "progweb_descr": " Sunlight Labs provide RESTful API view near realtime data current congress archive data previous congress data store MongoDB archive congress information see GovTrackus NYT Congress API Real Time Congress API contain original data data take automatically source This version 1 API New data method may add without notification data remove backwardsincompatible change make without seek community input advance version 2"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Open State Project",
+        "id": 14878,
+        "progweb_descr": " Open State Project API provide Sunlight Labs part Sunlight Foundation part Sunlight Labs community open source developer designer dedicate opening government make transparent accountable responsible Open State Project API RESTful API access state legislative information JSON format"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Richmond Sunlight",
+        "id": 14891,
+        "progweb_descr": " Richmond Sunlight API allow user retrieve information Richmond Sunlight database Richmond Sunlight website aggregate information General Assembly lawmaking body governs state Virginia Methods include allow user retrieve give bill legislator retrieve list bill retrieve list commentary bill API us RESTful protocol response format JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "SeeClickFix",
+        "id": 15092,
+        "progweb_descr": " SeeClickFix allow anyone report track nonemergency issue anywhere world via internet This empower citizen community group medium organization government take care improve neighborhood SeeClickFIx API give developer power extend SeeClickFixs core function SeeClickFix support open311 initiative We see API superset Open 311 standard"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Drumbone",
+        "id": 15121,
+        "progweb_descr": " From site Drumbone RESTful JSON API data legislator bill roll call vote Unlike Sunlight Labs Congress API data take exist APIs data source especially GovTrack original data name Drumbone take name instrument create PVC pipe whose length adjust need create various sound music Accordingly purpose Drumbone pipe data disparate source redistribute simple flexible format possible Drumbone design serve thin client application bandwidth premium It originally build serve mobile app Congress Android app widget service Sunlights Politiwidgets idea give information need fill user interface one HTTP call It meant serve bulk data repository Drumbone use GovTrack Drumbone write Ruby Sinatra framework use MongoDB data storage code service available Github"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "GOP.gov",
+        "id": 15286,
+        "progweb_descr": " GOPgov API aim deliver open Congress people United States facilitate transmission information distribute real time across network user RESTful API provide access member committee legislative data"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "USAspending",
+        "id": 15602,
+        "progweb_descr": " From site API allow access data Federal contract Federal assistance databases All data present USAspendinggov available API except pie chart endofsearch total site relaunch wwwfederalspendinggov"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "Project Vote Smart",
+        "id": 15667,
+        "progweb_descr": " Project Vote Smart API let developer query broad range data Project Vote Smart maintain candidate information election district ballot initiative vote committee official Results return XML JSON format"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "AES WebLink",
+        "id": 15713,
+        "progweb_descr": " Use AESWebLink Submission API save duplicate data entry effort user pass information application AESDirect information user submit shipment transaction Automated Export System AES affiliate US Customs Service US Census Bureau Foreign Trade Statistics Use AESWebLink Inquiry API get status shipment submission complete"
+    },
+    {
+        "progweb_cat": "Government",
+        "api_name": "FreedomSpeaks",
+        "id": 15733,
+        "progweb_descr": " FreedomSpeakscom site first nonpartisan online political social network use FreedomSpeaks API tap database 10000 public official profile Also use API view official address view official ID email official create letter forward letter search official This site different actually compose letter emails government official whether federal state site send automatically free letter go via email fax"
+    },
+    {
+        "progweb_cat": "Government,New York City",
+        "api_name": "NYC Open Data",
+        "id": 320,
+        "progweb_descr": " NYC Open Data collection 750 New York City public datasets make available city agency organizations Some popular data include parking facility federal stimulus expenditure electric consumption zip code Also include Open 311 service request health education data"
+    },
+    {
+        "progweb_cat": "Government,New York City",
+        "api_name": "Open New York Daily Traffic on Metropolitan Transportation Authority (MTA) Bridges and Tunnels",
+        "id": 6545,
+        "progweb_descr": " Open New York Daily Traffic Metropolitan Transportation Authority MTA Bridges Tunnels API open service State New Yorks datanygov open data initiative API provide access catalogue data vehicle pass 9 bridge operate MTA day Cars bus truck motorcycle account dataset include field type date bridge name number vehicle pay cash per bridge total vehicle per bridge dataset updated weekly basis access HTTP communication available response type JSON XML CSV documentation feature live test interface run example request All request must posses app token order authenticate"
+    },
+    {
+        "progweb_cat": "Government,New York City",
+        "api_name": "Open New York Fare Card History for Metropolitan Transportation Authority",
+        "id": 6549,
+        "progweb_descr": " Open New York Fare Card History Metropolitan Transportation Authority API open service State New Yorks datanygov open data initiative This API provide access raw data collect MetroCard swipe make weekly subway customer enter station New York City Subway system data also collect swipe use PATH AitrTrain JFK Roosevelt Island Tram This data post every Sunday 1AM data correspond date day week sort biweekly unit API access HTTP communication available response type include JSON XML CSV documentation feature live test interface run example request All request must posses app token order authenticate"
+    },
+    {
+        "progweb_cat": "Government,New York City",
+        "api_name": "Empire 2.0 Tech Talk",
+        "id": 14282,
+        "progweb_descr": " New York State Office CIO announce technology initiative theme Empire 20 target social networking participation collaboration part overall theme transparency open government Empire 20 site platform user submit discuss refine idea regard policy specific technology project suggestion statewide agencyspecific feedback Empire 20 Tech Talk API provide method obtain data site use mashups consumable format API use JavaScript protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Government,Korean",
+        "api_name": "Team POPONG POODL",
+        "id": 596,
+        "progweb_descr": " POODL POpong Open Data Library API allow user retrieve legislative data South Korea include information National Assemblys member candidate bill Automated tool gather new update data National Assemblys website every day This data distribute API use research application development"
+    },
+    {
+        "progweb_cat": "Government,Business",
+        "api_name": "BusinessUSA Events",
+        "id": 655,
+        "progweb_descr": " BusinessUSA Events API provide access data relate various subject associate creation management business BusinessUSA Events API use resource URL request provide return type CSV XML JSON Authentication complete unique private API Key BusinessUSA official United States Government website provide platform conjunction multiple government agency dissemination government data Information garner BusinessUSA intend public use BusinessUSA conforms Open Data Policy support dissemination data federal government source open source open license machinereadable format adhere common core metadata standard"
+    },
+    {
+        "progweb_cat": "Government,Business",
+        "api_name": "Business.gov",
+        "id": 1256,
+        "progweb_descr": " Businessgov official site US government help small business understand legal requirement locate government service support nation small business community Businessgovs Web Service API provide method obtain small business resource geographic data use Businessgovs core search tool include state local search engine loan grant search license permit search Using Businessgovs API software developer build new application mashups use authoritative information Federal state local government agency API free charge require registration allow unlimited call Businessgov API RESTful Output format available either XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Business",
+        "api_name": "BusinessUSA Data",
+        "id": 5807,
+        "progweb_descr": " BusinessUSA Data API allow user access data asset information provide BusinessUSA current prospective business owner BusinessUSA Data API use resource URL request provide return response CSV XML JSON Authentication complete unique private API Key BusinessUSA official United States Government website provide platform conjunction multiple government agency dissemination government data Information garner BusinessUSA intend public use BusinessUSA conforms Open Data Policy support dissemination data federal"
+    },
+    {
+        "progweb_cat": "Government,Business",
+        "api_name": "BusinessUSA Articles",
+        "id": 5808,
+        "progweb_descr": " TheBusinessUSA Articles API provide access data regard wide selection business world relate topic article BusinessUSA user BusinessUSA Articles API use resource URL request provide return response CSV XML JSON Authentication complete unique private API Key BusinessUSA official United States Government website provide platform conjunction multiple government agency dissemination government data Information garner BusinessUSA intend public use BusinessUSA conforms Open Data Policy support dissemination data federal government source open source open license machinereadable format adhere common core metadata standard"
+    },
+    {
+        "progweb_cat": "Government,Business",
+        "api_name": "BusinessUSA Success Stories",
+        "id": 5809,
+        "progweb_descr": " This BusinessUSA Success Stories API list examples successful business story business owner use BusinessUSA service BusinessUSA Success Stories API use resource URL request provide return type CSV XML JSON Authentication complete unique private API Key BusinessUSA official United States Government website provide platform conjunction multiple government agency dissemination government data Information garner BusinessUSA intend public use BusinessUSA conforms Open Data Policy support dissemination data federal"
+    },
+    {
+        "progweb_cat": "Government,Business",
+        "api_name": "BusinessUSA Services",
+        "id": 5825,
+        "progweb_descr": " BusinessUSA Services API provide access data prospective current business owner service offer BusinessUSA BusinessUSA Services API use resource URL request provide return type CSV XML JSON Authentication complete unique private API Key BusinessUSA official United States Government website provide platform conjunction multiple government agency dissemination government data Information garner BusinessUSA intend public use BusinessUSA conforms Open Data Policy support dissemination data federal government source open source open license machinereadable format adhere common core metadata standard"
+    },
+    {
+        "progweb_cat": "Government,Business",
+        "api_name": "BusinessUSA Programs",
+        "id": 5833,
+        "progweb_descr": " BusinessUSA Programs API provide user data government program type entrepreneurs veteran minority various program type BusinessUSA Programs API use resource URL request provide return type CSV XML JSON Authentication complete unique private API Key BusinessUSA official United States Government website provide platform conjunction multiple government agency dissemination government data Information garner BusinessUSA intend public use BusinessUSA conforms Open Data Policy support dissemination data federal government source open source open license machinereadable format adhere common core metadata standard"
+    },
+    {
+        "progweb_cat": "Government,Business",
+        "api_name": "BusinessUSA Tools",
+        "id": 5855,
+        "progweb_descr": " BusinessUSA Tools API allow access BusinessUSA tool provide website support current potential business owner BusinessUSA Tools API use resource URL request provide return type CSV XML JSON Authentication complete unique private API Key BusinessUSA official United States Government website provide platform conjunction multiple government agency dissemination government data Information garner BusinessUSA intend public use BusinessUSA conforms Open Data Policy support dissemination data federal"
+    },
+    {
+        "progweb_cat": "Government,Business",
+        "api_name": "BusinessUSA Keyword Search",
+        "id": 8904,
+        "progweb_descr": " BusinessUSA Keyword Search API provide keyword search access businessusagov database entries This API allow user perform multiple content search within specific subject BusinessUSA Keyword Search API use resource URL request provide return type CSV XML JSON Authentication complete unique private API Key BusinessUSA official United States Government website provide platform conjunction multiple government agency dissemination government data Information garner BusinessUSA intend public use BusinessUSA conforms Open Data Policy support dissemination data federal government source open source open license machinereadable format adhere common core metadata standard"
+    },
+    {
+        "progweb_cat": "Government,Business",
+        "api_name": "Denmark Central Business Register (CVR)",
+        "id": 10255,
+        "progweb_descr": " Central Business Register CVR contain primary data business Denmark public private CVR API allow user access information programmatically use SOAP call register contains businesss name address industry information telecommunication data etc CVR include active historic legal entity Most portion website provide Danish English give Danish"
+    },
+    {
+        "progweb_cat": "Government,Australian",
+        "api_name": "Australian Business Number Lookup",
+        "id": 753,
+        "progweb_descr": " ABN Australian Business Number Lookup An XML interface ABN Lookup available register user Using facility integrate ABN lookup application ABN Lookup provide access publicly available information provide business register Australian Business Number"
+    },
+    {
+        "progweb_cat": "Government,Australian",
+        "api_name": "NSW State Records",
+        "id": 9426,
+        "progweb_descr": " NSW State Records New South Wales Governmentâ€™s archive record management authority With one million entry also NSWâ€™s large dataset NSW State Records API provide developer access entire catalog include full search functionality All API responses available XML JSON format Some method support additional format MODS"
+    },
+    {
+        "progweb_cat": "Government,Australian",
+        "api_name": "OpenGov NSW",
+        "id": 9840,
+        "progweb_descr": " OpenGov NSW repository data publication record New South Wales government Users search publication record website OpenGov NSW API allow developer access integrate data OpenGov NSW applications Some example API method include search publication retrieve publication search keyword"
+    },
+    {
+        "progweb_cat": "Government,Australian",
+        "api_name": "North Sidney Council Application Master",
+        "id": 10623,
+        "progweb_descr": " North Sidney Council enable user track status Development Applications DA use Application Master service This service allow user retrieve current status DA task undertaken part assessment process publicly available electronic document Application Master service either access directly website programmatically use SOAP API"
+    },
+    {
+        "progweb_cat": "Government,Australian",
+        "api_name": "Hornsby Shire Council Application Enquiry",
+        "id": 10624,
+        "progweb_descr": " Hornsby Shire Council provide Application Enquiry service enable user track progress application submission resolution Applications track service include Building Applications Building Certificates Construction Certificates Development Applications etc information provide application identifies key task estimate timeframes also include public document associate application Users look information directly website programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Government,Australian",
+        "api_name": "Hawkesbury City Council Masterview",
+        "id": 10625,
+        "progweb_descr": " Masterview Hawkesbury City Councils application track system It enable user track status Development Applications Construction Certificates Complying Development Certificates Users search application particular property application number property address Users also search detail development within particular time frame Masterview access directly website programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Government,Australian",
+        "api_name": "Greater Taree City Council AutoComplete",
+        "id": 10626,
+        "progweb_descr": " Greater Taree City Council GTCC locate New South Wales Australia provide Development Application track service website This track service come SOAPbased API access autocomplete function help user fill advanced search form field street suburb name"
+    },
+    {
+        "progweb_cat": "Government,Australian",
+        "api_name": "Blue Mountains Development Applications",
+        "id": 10630,
+        "progweb_descr": " Blue Mountains City Council locate New South Wales NSW Australia provide online access information statuses local development application Users may look development application directly website programmatically via API API access programmatically use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Government,Australian",
+        "api_name": "Australian Business Register ABN Lookup",
+        "id": 11026,
+        "progweb_descr": " ABN Lookup public view Australian Business Register ABR It provide access publicly available information supply business register Australian Business Number ABN efficient way search business ABN ACN ARBN ARSN Searching name generally return multiple result order relevance advance search function use refine result return name search This service available website also access programmatically use SOAP API"
+    },
+    {
+        "progweb_cat": "Government,Australian",
+        "api_name": "OpenAustralia",
+        "id": 15354,
+        "progweb_descr": " OpenAustraliaorg aim make easy people keep tabs representative Parliament OpenAustralia maintain database information representative senator debate government news OpenAustralia API return list detail component"
+    },
+    {
+        "progweb_cat": "Government,Sustainability",
+        "api_name": "Home Energy Saver",
+        "id": 869,
+        "progweb_descr": " Home Energy Saver HES service US Department Energy develop Lawrence Berkeley National Laboratory LBNL provide recommendation homeowner upgrade improve energy consumption LBNL create suite APIs HES may license A 60day nonrenewable license available APIs use SOAP protocol"
+    },
+    {
+        "progweb_cat": "Government,Mapping",
+        "api_name": "Union County NC GIS",
+        "id": 884,
+        "progweb_descr": " Framework allow spatial analysis perform GIS data Union County North Carolina simple HTTP request Methods create execute spatial query PostGIS database spatially enable database Analysis result depend entirely user input response format preference Sample Community Mapper application use service almost exclusively perform spatial analysis return relevant result user"
+    },
+    {
+        "progweb_cat": "Government,Mapping",
+        "api_name": "Open311 Inquiry",
+        "id": 6294,
+        "progweb_descr": " Open311 allow developer create thirdparty apps report view citizen neighborhood issue pothole graffiti use city 311 reporting system Now version 1 RESTful Inquiry API tool use query 311 database HTTP GET call send API list service expand detail specific service Information specific city accessible Open311 find wiki API heavily support New York City Inquiry API support XML JSON format"
+    },
+    {
+        "progweb_cat": "Government,Mapping",
+        "api_name": "Nationwide Gravesite Locations",
+        "id": 7988,
+        "progweb_descr": " Nationwide Gravesite Locations API datagov web service provide programmatic access gravesite location US veteran beneficiary This data provide variety source mean result contain information others API able return structure data field name birth death date detail cemetery information"
+    },
+    {
+        "progweb_cat": "Government,Mapping",
+        "api_name": "Voting Information Project",
+        "id": 11993,
+        "progweb_descr": " Voting Information Project VIP offer technology tool provide voter access customize election information help navigate voting process cast informed vote VIP work election official across nation ensure information official reliable VIP use open format state election division publish voting information make accessible API provide information poll place candidate deadline rule regulation use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Mapping",
+        "api_name": "DRCOG",
+        "id": 12468,
+        "progweb_descr": " Denver Regional Council Governments DRCOG goal foster regional cooperation among county municipal government Denver metropolitan area DRCOG database contain spatial tabular data use regional planning policy decision Users search database keyword browse subject API allow user look data include geotable attribute list geotable field retrieve feature specify geotable API use RESTful call response format XML JSON KML"
+    },
+    {
+        "progweb_cat": "Government,Mapping",
+        "api_name": "Baltimore Open311",
+        "id": 13374,
+        "progweb_descr": " Baltimore Open311 allow developer create thirdparty apps citizen use report public neighborhood issue pothole graffiti Baltimores 311 reporting service Open311 API RESTful return response XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Mapping",
+        "api_name": "GeoReport",
+        "id": 13423,
+        "progweb_descr": " GeoReport API Open311 allow developer create thirdparty apps report view citizen neighborhood issue pothole graffiti use city 311 reporting system Now version 2 RESTful GeoReport API report API use submit issue 311 service Information specific city accessible Open311 find wiki"
+    },
+    {
+        "progweb_cat": "Government,Mapping",
+        "api_name": "San Francisco Open311",
+        "id": 13424,
+        "progweb_descr": " San Francisco Open311 allow developer create apps citizen use reporting neighborhood issue pothole graffiti San Franciscos 311 issuetracking system Open311 API RESTful return response XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Mapping",
+        "api_name": "Vote.ca Districts",
+        "id": 14593,
+        "progweb_descr": " Voteca website match Canadian address geographical point correspond Canadian political district Voteca also provide free API developer use Districts API function website one method district match geographical point political district Political district include Federal district Canada Provincial district Alberta British Columbia Manitoba New Brunswick Newfoundland Labrador Ontario Prince Edward Island Quï¿½bec Saskatchewan Municipal district Calgary AB Edmonton AB Ottawa ON Toronto ON"
+    },
+    {
+        "progweb_cat": "Government,Brazilian",
+        "api_name": "Brazil CKAN",
+        "id": 910,
+        "progweb_descr": " CKAN Comprehensive Knowledge Archive Network nonprofit registry open data CKAN prepare data provide access data way make data discoverable usable government Brazil make datasets available CKAN include data birth death police report state Rio Grande Sul survey live condition school census CKAN API provide access data API RESTful return response JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government,Brazilian",
+        "api_name": "Brazilian Election Candidates",
+        "id": 14798,
+        "progweb_descr": " This experimental API allow developer access data Brazilian election candidate use REST web service instead web interface It appear provided independent developer harvest data government election division"
+    },
+    {
+        "progweb_cat": "Government,Italian",
+        "api_name": "CKAN Italy",
+        "id": 912,
+        "progweb_descr": " CKAN Comprehensive Knowledge Archive Network nonprofit registry open data CKAN prepare data provide access data way make data discoverable usable government Italy make datasets available CKAN include data immigration realtime park city Turin National Energy Balance tourist accommodation various city Italian state school museum CKAN API provide access data API RESTful return response JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government,Italian",
+        "api_name": "dotNetHell Calcolo Codice Fiscale",
+        "id": 11011,
+        "progweb_descr": " DotNetHell provide Calcolo Codice Fiscale service allow user retrieve individual Codice Fiscale base personal information retrieve code town birth base name This service also check validity Codice Fiscale find name town base code A Codice Fiscale tax identification number unique personal ID code use interaction government agency public administration Italy dotNetHell website API documentation available Italian"
+    },
+    {
+        "progweb_cat": "Government,Italian",
+        "api_name": "DevLeap Codice Fiscale",
+        "id": 11439,
+        "progweb_descr": " DevLeap Italian technology consultation group provide web service match Italian citizen Codice Fiscale A Codice Fiscale tax identification number use interaction government agency public administration Italy It unique identity code similar National Insurance number NI UK Social Security Number SSN US DevLeap Codice Fiscale API provide user programmatic method retrieve citizen information Codice Fiscale vice versa This API use SOAP call issue XML format DevLeap website offer English Italian"
+    },
+    {
+        "progweb_cat": "Government,Nordic",
+        "api_name": "CKAN Norway",
+        "id": 913,
+        "progweb_descr": " CKAN Comprehensive Knowledge Archive Network nonprofit registry open data CKAN prepare data provide access data way make data discoverable usable government Norway make datasets available CKAN include data famous building Oslo National Groundwater Database municipal boundary land use plan information traffic data CKAN API provide access data API RESTful return response JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government,Nordic",
+        "api_name": "Finnish Parliament Votings",
+        "id": 9447,
+        "progweb_descr": " Finnish Parliament Votings API unofficial web service provide developer access voting result Finnish Parliament RESTful API return XML formatted response Supported resource include vote list result parliament member data keyword search"
+    },
+    {
+        "progweb_cat": "Government,Nordic",
+        "api_name": "City of Helsinki Issue Reporting",
+        "id": 9464,
+        "progweb_descr": " City Helsinki Finland provide Issue Reporting API let people send service request city government regard thing like broken street sign potholes These issue typically handle Public Works Department In future issue department include well APIs specific function include provide information possible service request submit service request check description statuses previously submit service request"
+    },
+    {
+        "progweb_cat": "Government,Nordic",
+        "api_name": "City of Helsinki Open Ahjo",
+        "id": 9482,
+        "progweb_descr": " Open Ahjo service access decisionmaking material City Helsinki service focus material related political decisionmakers committee city board city council This year data nonpolitical civil servant involve decisionmaking also expect make available All accessible data provide zipped XML file though REST call use retrieve data issue JSON ZIP data file also contain type file usually PDFs"
+    },
+    {
+        "progweb_cat": "Government,Nordic",
+        "api_name": "City of Helsinki Service Map",
+        "id": 9485,
+        "progweb_descr": " City Helsinki Service Map provide overview group capable provide useful information service people Helsinki along data connection group Service Map REST API allow user retrieve information organization departments unit service overall network create entity Documentation City Helsinki Service Map API available Finnish English"
+    },
+    {
+        "progweb_cat": "Government,Nordic",
+        "api_name": "Helsinkikanava Open Data",
+        "id": 11730,
+        "progweb_descr": " Helsinkikanava Open Data API provide open freetouse access Helsinki city council meet video recording associate metadata data primarily target towards developer wish embed include recording application All resource accessible use RESTful call JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government,Nordic",
+        "api_name": "Suomi.fi",
+        "id": 13384,
+        "progweb_descr": " Suomifi online portal citizen Finland It offer online service form Also available information number topic include housing construction health nutrition public safety order library information service work pension much site available Finnish Swedish English A RESTful API available retrieve content Suomifl Responses return XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Nordic",
+        "api_name": "opengov.fi",
+        "id": 13618,
+        "progweb_descr": " opengovfi provide open government data Finland site work closely suomifi Finnish government service portal formal data catalog purpose Available datasets include environmental spatial service information transportation event map opengovfi power CKAN Comprehensive Knowledge Archive Network data accessible RESTful CKAN API"
+    },
+    {
+        "progweb_cat": "Government,Demographics",
+        "api_name": "US Census Bureau",
+        "id": 981,
+        "progweb_descr": " US Census Bureau survey US population demographic information provide information public well use data decision make US Census Bureau API allow developer access integrate data US Census Bureau begin 2010 Census application create new application Some example API method include retrieve data geographic location retrieve summary file retrieve demographic information"
+    },
+    {
+        "progweb_cat": "Government,Demographics",
+        "api_name": "SOI County-to-County Migration Data",
+        "id": 7987,
+        "progweb_descr": " Statistics Income SOI CountytoCounty Migration Data dataset expose Datagov data describes yeartoyear address change county state report individual tax return Migration data expose two distinct method Inflow method return data number new resident county state resident migrate Outflow method return data number resident leave county state go Both method able return total gross income migrant"
+    },
+    {
+        "progweb_cat": "Government,Demographics",
+        "api_name": "City of San Jose",
+        "id": 8041,
+        "progweb_descr": " City San Jose API provide direct developer access data publish City San Jose Open Data Site RESTful API access 180 data resource span category budget demographic finance housing much"
+    },
+    {
+        "progweb_cat": "Government,Demographics",
+        "api_name": "Statistical Me",
+        "id": 8625,
+        "progweb_descr": " Statistical Me born GovHack Perth 2013 web service expose census data Australia Bureau Statistics siteâ€™s front end allow user explore data randomize dice game Statistical Me delivers structure JSON format data simple HTTP API"
+    },
+    {
+        "progweb_cat": "Government,Demographics",
+        "api_name": "Sector",
+        "id": 10590,
+        "progweb_descr": " service provide market definition segmentation function help US political candidate advocacy group target communication By define group base location demographic political position partisan preference even weather variable predicts receptivity persuasive messaging help guide promotional campaign decision It also intend help commercial promotion characterize local market way guide communication strategy API method support definition political profile typical location base political partisanship within state congressional district fivelevel scale distinguishes strong Democrat Democrat neutral Republican strong Republican Methods also support characterize weather variation location predict effect message content timeliness"
+    },
+    {
+        "progweb_cat": "Government,Demographics",
+        "api_name": "UN Data",
+        "id": 15356,
+        "progweb_descr": " UN Data API project unofficial API version great data make available United Nations UNDATA site aim make data accessible reusable variety way easily mash recombine new application analysis service use straightforward REST API host Googles Java AppEngine make UNDATA set easily queryable application Currently 62 datasets World Health organization line add time service free use publicly accessible ï¿½ need sign account generate access key Standard account limit usage need contact u arrange high limit"
+    },
+    {
+        "progweb_cat": "Government,Search",
+        "api_name": "GovData",
+        "id": 1082,
+        "progweb_descr": " GovData unofficial search service aggregate process publicly available information Swedish Government tax expenditures Current functionality include ability search data agency API support JSON JSONP format response"
+    },
+    {
+        "progweb_cat": "Government,Search",
+        "api_name": "Open Patent Services",
+        "id": 1652,
+        "progweb_descr": " Patent family legal bibliographic data document available via web service"
+    },
+    {
+        "progweb_cat": "Government,Search",
+        "api_name": "QLD Wildlife Data",
+        "id": 7437,
+        "progweb_descr": " WildNet Queenslands database name conservation statuses plant protist mammal fungi bird reptile amphibian fish invertebrate This API Queensland QLD Government enable access QLD Governments WildNet data approve public release Species profile note image status survey location available via number retrieve function There three format retrieve JSON XML CSV GeoJSON KML use request spatial location json xml format"
+    },
+    {
+        "progweb_cat": "Government,Search",
+        "api_name": "ASC National Registry Search",
+        "id": 12962,
+        "progweb_descr": " US Appraisal Subcommittee ASC governmental agency charge oversee Appraisal Foundation private notforprofit organization maintain real estate appraisal standard United States API exist facilitate access search ASC National Registry intend use lender regulatory agency interested party This SOAPbased API allow user manipulate perform automate search base variety output field filter condition Please refer follow link information API httpusgovxmlcomexamplesPublicASC20SOAP20Web20Servicespdf"
+    },
+    {
+        "progweb_cat": "Government,Search",
+        "api_name": "Find Your MP- UK Parliament",
+        "id": 13853,
+        "progweb_descr": " Find Your MP service United Kingdom Parliament website Members Parliament MPs search membership political party gender constituent part UK England Scotland Wales Northern Ireland API RESTful return response XML JSON JavaScript TEXT CSV YAML"
+    },
+    {
+        "progweb_cat": "Government,Crime",
+        "api_name": "San Francisco Crimespotting",
+        "id": 1227,
+        "progweb_descr": " service operate independently city San Francisco Calif San Francisco Police Department repackages data city crimemapping program CrimeWatch It emphasize locationaware map crime report date type offense police precinct relate detail Its goal aid discovery crime activity within area specific home school workplace API method allow retrieval crime report specify crime type police beat date range Methods return report location information street address well latitude longitude aid mapping"
+    },
+    {
+        "progweb_cat": "Government,Crime",
+        "api_name": "UK Street Level Crime",
+        "id": 1264,
+        "progweb_descr": " UK Police Street Level Crime API return aggregate crime statistic area serve police force England Wales All provide accurate uptodate data neighborhood even block block API method support retrieval statistic local police force identifier web URL contact method Methods also return crime statistic location neighborhood street category crime"
+    },
+    {
+        "progweb_cat": "Government,Crime",
+        "api_name": "U.S. Department of Labor Sweat & Toil",
+        "id": 4825,
+        "progweb_descr": " US Department Labor Sweat Toil API allow developer integrate information child labor force labor application Information take report Findings Worst Forms Child Labor List Goods Produced Child Labor Forced Labor List Products Produced Forced Indentured Child Labor Sweat Toil app design help user conscientious spend money"
+    },
+    {
+        "progweb_cat": "Government,Crime",
+        "api_name": "Iowa Sex Offender Registry",
+        "id": 8458,
+        "progweb_descr": " Iowa make Sex Offender Registry available online member public well protect sex offender Users search registry offender name gender city county state age height weight Most Wanted status location profile update date This information make available programmatically via REST API A JavaScript version API currently beta"
+    },
+    {
+        "progweb_cat": "Government,Crime",
+        "api_name": "National Crime Victimization Survey",
+        "id": 8628,
+        "progweb_descr": " Bureau Justice Statistics dedicate collect analyze disseminate information crime victim crime criminal offender operation criminal justice system level government National Crime Victimization Survey NCVS Justice Department census tool collect detailed information people victimize certain type crime Bureau Justice Statistics expose NCVS criminal victimization data RESTful API data describes frequency characteristic consequence criminal victimization United States"
+    },
+    {
+        "progweb_cat": "Government,Crime",
+        "api_name": "Black Book Online",
+        "id": 9666,
+        "progweb_descr": " Black Book Online public record search site feature 25000 current verified link free US public record Black Book Online provide API use add property criminal civil corporate sex offender record lookups website application API free user require include link back Black Book Online"
+    },
+    {
+        "progweb_cat": "Government,Crime",
+        "api_name": "New Dawn JustWare",
+        "id": 11274,
+        "progweb_descr": " service provide information track share resource police criminal justice agency well court correction department state data repository related institution It provide workflows business rule need manage case across step complex process monitor reporting status A network certify developer available secure handle legally sensitive securityconscious application API method support secure access application logic processing system update base predefined business rule webbased interaction related system"
+    },
+    {
+        "progweb_cat": "Government,Crime",
+        "api_name": "Oakland Crimespotting",
+        "id": 13269,
+        "progweb_descr": " service operate independently city Oakland Calif Oakland Police Department repackages data city crimemapping program CrimeWatch It emphasize locationaware map crime report date type offense police precinct relate detail Its goal aid discovery crime activity within area specific home school workplace API method allow retrieval crime report specify crime type police beat date range Methods return report location information street address well latitude longitude aid map Individual crime report download variety format suitable use spreadsheet fee reader All request simple HTTP GET registration authentication requirement"
+    },
+    {
+        "progweb_cat": "Government,Crime",
+        "api_name": "Oakland Crime Reports",
+        "id": 13859,
+        "progweb_descr": " Services retrieve Oakland Police Dept report data OPD beat lag one week Crime report data summarize week Sunday Saturday Starting date represent first instance report week within beat"
+    },
+    {
+        "progweb_cat": "Government,Semantics",
+        "api_name": "Data.gov.uk",
+        "id": 1254,
+        "progweb_descr": " This official data directory UK government It seek give way wealth government data resource accessible via link data format like RDF"
+    },
+    {
+        "progweb_cat": "Government,Semantics",
+        "api_name": "Influence Explorer Text",
+        "id": 13948,
+        "progweb_descr": " Influence Explorer Text API power realtime textual analysis behind Sunlight Foundations Inbox Influence call Influence Explorer Text API available general public use application require extraction politically relevant entity text either client server side data supply API subset data available Sunlights Transparency Data provide summary information campaign finance lobby fundraise influencerelated area interest"
+    },
+    {
+        "progweb_cat": "Government,Mobile",
+        "api_name": "CitySourced",
+        "id": 1273,
+        "progweb_descr": " CitySourced real time mobile civic engagement tool CitySourced provide 1 free simple intuitive tool empower citizen identify civic issue graffiti trash pothole etc report city hall quick resolution 2 opportunity government use technology save money accountable govern 3 positive collaborative platform real civic action platform call CitySourced empowers ordinary citizen crowd source solution common civic issue CitySourced power FreedomSpeaks APIs"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "ActBlue",
+        "id": 1318,
+        "progweb_descr": " ActBlue API provide programmatic access much ActBlues data ActBlue help individual organization raise money Democratic candidate committee across country ActBlue API cover three broad area entity information fundraise page management access public fundraising total break various way access detail contribution record API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "Sunlight Real-Time Federal Campaign Finance",
+        "id": 5698,
+        "progweb_descr": " Use RealTime Federal Campaign Finance API find campaign finance information federal candidate committee PACs group file Federal Election Commission FEC API return result JSON CSV require API Key Information provide group file electronically available immediately group file paper information add soon digitized FEC See project page information access test API"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "TreasuryDirect",
+        "id": 7471,
+        "progweb_descr": " People retrieve data TreasuryDirectgov programmatically use RESTful APIs Treasury Securities API let user get information announce security auction security particular type security specific individual security Debt API let user get recent debt data debt data give date API user also perform search security debt data"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "NationalPriorities",
+        "id": 7955,
+        "progweb_descr": " National Priorities Project national nonpartisan research organization aim make federal budget information transparent accessible people prioritize influence tax dollar spend National Priorities API allow user make REST call access national regional data within multiple government data categories No account require service"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "Consumer Complaint Database",
+        "id": 8627,
+        "progweb_descr": " Consumer Financial Protection Bureau CFPB work make market financial product service work Americans education enforcement study CFPBâ€™s Consumer Complaint Database catalogue complaint receive financial product service database consist single dataset provide multiple view analyze dataset Consumer Complaint Database expose RESTful API build Socrata Open Data API API allow application retrieve metadata dataset view query view match specify search criterion retrieve specific row data dataset view"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "Sunlight Foundation Influence Explorer",
+        "id": 9296,
+        "progweb_descr": " Sunlight Foundation nonpartisan nonprofit group use technology make US government transparent accountable Influence Explorer provide site visitor extensive detailed information campaign contribution lobby report grant This data available raw form chart graph Top 10 list Influence Explorer API allow user retrieve information programmatically use REST call"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "Municipal DataWorks",
+        "id": 9629,
+        "progweb_descr": " Municipal DataWorks MDW asset management solution design assist municipality maintain manage tangible capital asset MDW store data attribute condition asset track repair convert data information policymakers use estimate level investment require maintain infrastructure MDW base Municipal Infrastructure Data Standard MIDS Combined MDWâ€™s nonproprietary database allow user take ownership data make available integration third party software application Integration accomplish use SOAP API allow user retrieve information MDW save information MDW perform remote electronic data collection"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "Texas Franchise Tax",
+        "id": 10242,
+        "progweb_descr": " service provide online submission report payment franchise tax due state government Texas It employ data schema use MeF XML efile service US Internal Revenue Service IRS include compliance TIGERS standard exchange tax data also endorse IRS API method support submission data require Texas Comptrollers office tax payment franchise operate within state Methods also support payment tax owe monitor status submission service"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "Georgia Revenue Service WayBill",
+        "id": 10253,
+        "progweb_descr": " Georgia Revenue Service part Ministry Finance support business Georgia manage tax system Revenue Service also provide WayBill API enable user create manage retrieve waybill online A waybill document give detail instruction relate shipment good It usually show name consignor consignee point origin shipment destination route Users access WayBill API use SOAP call issue XML format Georgia Revenue Service website provide Georgian English"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "BugetMD",
+        "id": 11079,
+        "progweb_descr": " service provide budget data government Moldova extract Open Data portal machinereadable government operate data Data come Moldovan Ministry Finance partnership World Bank dataset exclude personal information people well trade secret company state secret government portal goal improve transparency government action citizens stakeholder API method support listing expenditure item category along unit government local regional authority incur expense API return machinereadable data structure accord division report actual government expenditure"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "FSRS FFATA Reporting",
+        "id": 11361,
+        "progweb_descr": " service provide online reporting tool compliance US FFATA Subaward Reporting System FSRS Federal law require awardees win procurement bid contract directly federal government must disclose subcontractor contribute fulfillment Federal grant recipient subject requirement service enables report subawards API method support submit compliance report name master contract awardee provide full information subaward contractor include name principle place business effective time period payment award topexecutive compensation"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "Research.gov Application Submission",
+        "id": 11581,
+        "progweb_descr": " service accepts application grant National Science Foundation NSF local application initiate grant application allow review modification complete final submission consideration agency It give access list grant opportunity well function submit application track status decision funding process API method support retrieval opportunity list detailed information select grant offering Methods also handle online submission listing submission grant status inquiry specific application"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "Nephics European VAT Number Validation",
+        "id": 12146,
+        "progweb_descr": " This API provide value add tax VAT number European company It base system provide European Commission call VAT Information Exchange System VIES VIES provide European Commission SOAP interface This API however design Nephics AB retrieve data RESTful protocol return JSONformatted result"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "St. Louis FRED",
+        "id": 12464,
+        "progweb_descr": " Federal Reserve Bank St Louis one 12 regional Reserve bank Fed System Research Division bank look promote quality economic research contribute economic policy discussion In support goal create APIs let developer access data store web site FRED API let user query Federal Reserve Economic Data FRED Archival Federal Reserve Economic Data ALFRED databases retrieve specific data request data customize accord data source release category series preference API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Government,Financial",
+        "api_name": "International Aid Transparency Initiative",
+        "id": 13620,
+        "progweb_descr": " International Aid Transparency Initiative IATI make information aid spending easily discoverable usable IATI Registry online searchable index information aid spending Datasets include activity file AIDS Alliance DFID European Union World Bank activity file many country IATI Registry power CKAN Comprehensive Knowledge Archive Network data access via CKAN RESTful API"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "TheyWorkForYou",
+        "id": 1642,
+        "progweb_descr": " From site TheyWorkForYoucom nonpartisan website run charity aim make easy people keep tab elect unelected representative Parliament assembly"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "UK Government Gateway HMRC Individual Income",
+        "id": 1758,
+        "progweb_descr": " UK Government Gateway HMRC Individual Income API retrieve income information individual It available JSON format HTTP request With API developer integrate person income employment pension state benefit report HMRC HMRC responsible administration collection tax UK"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "UK Government Gateway HMRC Marriage Allowance",
+        "id": 1759,
+        "progweb_descr": " UK Government Gateway HMRC Marriage Allowance API allow low earner couple transfer Personal Allowance husband wife civil partner Developers send HTTP request receive JSON response return HMRC responsible administration collection tax UK"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "UK Government Gateway HMRC National Insurance",
+        "id": 1760,
+        "progweb_descr": " UK Government Gateway HMRC National Insurance API integrate yearly summary individual taxpayer class 1 total earnings class 2 National Insurance contribution due tax year It available JSON format HTTP request HMRC responsible administration collection tax UK"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "UK Government Gateway HMRC Individual Tax",
+        "id": 1762,
+        "progweb_descr": " UK Government Gateway HMRC Individual Tax API retrieve individual tax information Available JSON format token authentication method With API developer integrate tax deduction gross income pension benefit HMRC responsible administration collection tax UK"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "UK Government Gateway HMRC Individual Benefits",
+        "id": 1763,
+        "progweb_descr": " UK Government Gateway HMRC Individual Benefits API retrieve data individual benefit With API developer integrate company car fuel interestfree low interest loan private medical dental insurance application HMRC responsible administration collection tax UK"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "UK Police",
+        "id": 9137,
+        "progweb_descr": " Datapoliceuk site provide open data crime policing England Wales Northern Ireland Users download data CSV format well access via API API contain crime data information include neighborhood team member upcoming event crime statistic street neighborhood level outcome street level crime location near police station Responses format JSON"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "Opendatacommunities",
+        "id": 9183,
+        "progweb_descr": " OpenDataCommunities platform UK Department Communities Local Governments official Linked Open Data Statistics make available across many category include Local Government finance housing homelessness wellbeing deprivation department business plan well support geographical data API give developer access data response format XML JSON Turtle ntriples HTML"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "MMO Electronic Reporting System",
+        "id": 11080,
+        "progweb_descr": " service provide compliance requirement UK government report commercial fishing activity amount specie fish catch sale complete Vessel owner operator commercial fishing business use service report catch sale information Other seller resellers well buyer use service fulfill report requirement API method support list port fish ground region specie track Methods also support submission catch size composition specie size freshness characteristic Sales report method allow report transaction information include buyer seller date specie amount etc"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "Data Greater Manchester",
+        "id": 13366,
+        "progweb_descr": " DataGM Data Greater Manchester joint project several public sector organization make data Greater Manchester England area easily discoverable usable Datasets include public transport schedule cycle locker location census birth crime library DataGM power CKAN Comprehensive Knowledge Archive Network DataGM data accessible RESTful CKAN API"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "Open Kent",
+        "id": 13526,
+        "progweb_descr": " Open Kent open government data portal county Kent England Data available public service spending available service traffic travel government performance leisure activity education housing crime business RESTful catalog search APIs available access Open Kent data"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "legislation.gov.uk",
+        "id": 13801,
+        "progweb_descr": " National Archives publish UK legislation Legislation API provide consolidated UK legislation limitation variety format people reuse Identifier search enable work correct identifier use item section legislation Listings enable find multiple item legislation information"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "UK Government Gateway HMRC",
+        "id": 13802,
+        "progweb_descr": " UK Government Gateway HMRC API let user retrieve public information relate tax collection API use SOAP protocol response format XML Government Gateway HMRC ensure correct tax pay right time whether relates payment tax receive department entitlement benefit pay"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "ReportIt",
+        "id": 13808,
+        "progweb_descr": " Allows websites CRM system social medium mobile apps customer facing application submit report environmental antisocial behaviour problem government agency common API without worry agency address issue Downloadable documentation explain access call submit trouble report rout correct agency response Originally part nowdefunct municipal information portal API still support trouble report across UK"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "Shropshire Council",
+        "id": 13824,
+        "progweb_descr": " Shropshire Council website online portal Shropshire Council government Access information birth carbon emission reduction elect representative grant local library facts figure much An API provide access service plan increase access future"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "Redbridge DataShare",
+        "id": 13825,
+        "progweb_descr": " London Borough Redbridge follow UK Governments programme expose government data create DataShare DataShare make datasets follow category available finance environment democracy education council information property housing A RESTful API expose data developer XML JSON format"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "Postcode Anywhere Government Data",
+        "id": 14628,
+        "progweb_descr": " Postcode Anywhere informationasaservice provider offer 250 separate web service cover broad range business efficiency tool address data capture validation cleanse geocoding map route plan optimization Government Data API combine Royal Mail Postzon data range parliamentary demographic include constituency information It allow user search across whole UK find information across Local Authorities ward district county government office area API use number protocol include REST SOAP XMLRPC Responses format XML JSON CSV HTML PDF"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "Where Does My Money Go",
+        "id": 14900,
+        "progweb_descr": " Where Does My Money Go UKbased open government site Open Knowledge Foundation It aim make government finance much easy explore understand Where Does My Money Go API provide access site datasets via RESTbased JSON API"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "Guardian Politics",
+        "id": 15054,
+        "progweb_descr": " Guardian Politics API cover information politician election UK many detail go back 1992 It also contain limited old data far back 1945 Get information political party election result candidate detail"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "Openly Local",
+        "id": 15538,
+        "progweb_descr": " Openly Local project develop open unified way access Local Government information UK Openly Local use REST base API allow user access information list local authority list council member forthcoming meeting Data return XML JSON RDFa"
+    },
+    {
+        "progweb_cat": "Government,England",
+        "api_name": "Tell Them What You Think",
+        "id": 15661,
+        "progweb_descr": " Search current UK government consultation word phrase Set alert via email RSS tell consultation interest publish Government consultation document publish government ask people group tell think particular topic"
+    },
+    {
+        "progweb_cat": "Government,Taxes",
+        "api_name": "UK Government Gateway HMRC Individual Employment",
+        "id": 1761,
+        "progweb_descr": " UK Government Gateway HMRC Individual Employment API retrieve individual employment information tax year accord data report employer PAYE process Available JSON XML format token HMRC responsible administration collection tax UK"
+    },
+    {
+        "progweb_cat": "Government,Taxes",
+        "api_name": "Larimer County Public Records Databases",
+        "id": 13231,
+        "progweb_descr": " Larimer Countys Public Records Database APIs allow programmatic access information Larimer Countys public record SOAPbased APIs use retrieve information property property tax within Larimer County Colorado"
+    },
+    {
+        "progweb_cat": "Government,Taxes",
+        "api_name": "RealSearch TIN Reverse",
+        "id": 14268,
+        "progweb_descr": " RealSearch nation large online portal Investigative data information 40 database TIN Reverse offer instant access almost 300 million Tax IDs include EINs Employer Identification Numbers Individual Tax Ids SSN Users pass 9 digit number last name API return verification information Full documentation currently available"
+    },
+    {
+        "progweb_cat": "Government,Taxes",
+        "api_name": "Washington State Department of Revenue Sales Tax Rate",
+        "id": 14813,
+        "progweb_descr": " API provide direct access Washington Department Revenues address base rate lookup technology platform As Washington state principal tax collection agency Department Revenue oversee 60 different tax It collect 90 percent state General Fund tax revenue local sale tax revenue rate lookup URL design return current sale tax rate address API use RESTful protocol response format either XML TXT"
+    },
+    {
+        "progweb_cat": "Government,Law",
+        "api_name": "ProPublica Congress",
+        "id": 1955,
+        "progweb_descr": " ProPublica Congress API return track official Congressional data source current past member Congress summary detail exclusive Military nomination various supplemental information include party count state committee committee roster Most data ProPublica Congress API update daily vote update every 30 minute Use API available Creative Commons AttributionNonCommercialNoDerivs 30 United States license Commercial user may subject additional use fee This RESTful API API Key Authentication Model"
+    },
+    {
+        "progweb_cat": "Government,Law",
+        "api_name": "Zip Code to USEAC",
+        "id": 5030,
+        "progweb_descr": " Zip Code USEAC API provide developer direct access US Export Assistance Centers USEACs assign 40000 zip code United States This API output JSON format data set get updated weekly International Trade Administration ITA strengthen competitiveness US industry promote trade investment ensure fair trade rigorous enforcement trade law agreement"
+    },
+    {
+        "progweb_cat": "Government,Law",
+        "api_name": "New Dawn ACM",
+        "id": 12465,
+        "progweb_descr": " New Dawn Technologies provider webbased case management solution government Solutions include case management software data share efiling epayment ediscovery public access government agency include criminal civil municipal court attorney general county prosecutor public defender correction department child family health service New Dawn offer API Adaptive Case Management ACM solution It allow customer integrate software exist application Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Government,Law",
+        "api_name": "LegiScan",
+        "id": 12574,
+        "progweb_descr": " service provide nonpartisan monitor information pending legislation It track progress every bill introduce US Congress 50 state legislature single uniform interface It provide fulltext search legislative initiative nationwide API method support search jurisdiction either US Congress state legislative body Requests specify text match name sponsor legislator jurisdiction etc Returned data provide summary text sponsor version initial submission final text crossreferences previously consider version public commentary bill Methods also support subscription update data bill change"
+    },
+    {
+        "progweb_cat": "Government,Law",
+        "api_name": "ManageMyRequests",
+        "id": 13241,
+        "progweb_descr": " UK service provide case management track update variety ongoing information request similar engagement part help maintain compliance legal requirement information disclosure Sample application include track Freedom Information Act request request related enforcement environmental law inquiry law enforcement agency public record manager personal information request API method support creation case specific engagement begin designation agent involve case update activity occur termination case request fulfil Methods also generate report case status verify request compliance"
+    },
+    {
+        "progweb_cat": "Government,Astronomy",
+        "api_name": "NASA TechPort OpenData Support REST",
+        "id": 3402,
+        "progweb_descr": " This REST API use export NASAs TechPort data XML format process analyzed technology project data available machinereadable NASA open data support NASAs scientist engineer information technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Government,Cities",
+        "api_name": "H2OFlint",
+        "id": 3534,
+        "progweb_descr": " This API allow access list water supply distribution location open next 7 day latitude longitude point address information open hour supply availableneeded H2o Flint city data project leverage technology change human condition provide reliable realtime information water resource available local distribution site Flint Michigan"
+    },
+    {
+        "progweb_cat": "Government,Cities",
+        "api_name": "DemocratieSpel",
+        "id": 7853,
+        "progweb_descr": " DemocratieSpel platform civic engagement Netherlands DemocratieSpel allow user suggest vote democracy issue Netherlands DemocratieSpel API allow developer access integrate functionality DecomcratieSpel applications Some example API method include return issue vote issue list user"
+    },
+    {
+        "progweb_cat": "Government,Cities",
+        "api_name": "PublicStuff",
+        "id": 7982,
+        "progweb_descr": " PublicStuff application allow neighborhood resident government official connect PublicStuff offer feature data various civic application PublicStuff API allow developer access integrate functionality data PublicStuff application create new application Some example API method include manage user account retrieve list manage comment"
+    },
+    {
+        "progweb_cat": "Government,Cities",
+        "api_name": "SBA City and County Data",
+        "id": 12881,
+        "progweb_descr": " Small Business Administration SBA strive act engine opportunity economic growth America provide variety program support service current prospective small business owner US City County Data API provide developer programmatic access geographic name data set official city county government website well data US Geological Survey USGS Geographic Names Information System GNIS This data compose variety data type relate geographical feature county find official classification type description link associate governmental URLs latitudelongitude coordinate This completely open free RESTful API return data either XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Cities",
+        "api_name": "City of Toronto: 311",
+        "id": 13799,
+        "progweb_descr": " City Toronto 311 system customer service City Toronto government Toronto 311 allow citizen call report pothole order new garbage bin learn program local community center Online access also available API allow access service More information find email open311torontoca Full documentation available user visit httpopen311orglearn view open311 specification use city"
+    },
+    {
+        "progweb_cat": "Government,Cities",
+        "api_name": "City of St. Louis",
+        "id": 14184,
+        "progweb_descr": " City St Louis provide city data website stlouismogov Citizens Service Bureau CSB customer service department City St Louis API provide access data collect service request It allow developer access use data third party application API use RESTful protocol API key require"
+    },
+    {
+        "progweb_cat": "Government,Cities",
+        "api_name": "City of Boston Citizen's Connect",
+        "id": 14186,
+        "progweb_descr": " Citizens Connect service City Boston allow resident communicate issue neighborhood pothole graffiti CityofBostongov give access API Citizens Connect service Contact Developerscityofbostongov information Documentation publicly available"
+    },
+    {
+        "progweb_cat": "Government,Content",
+        "api_name": "GovDelivery",
+        "id": 3732,
+        "progweb_descr": " GovDelivery API integrate government data aim increase engagement promote content build data community Developers create keywords GET POST command authenticate token"
+    },
+    {
+        "progweb_cat": "Government,Database",
+        "api_name": "GSA SAM",
+        "id": 5402,
+        "progweb_descr": " US General Services Administration provide GSA SAM API RESTful GET API provide developer ability search retrieve public information business individual entity within SAM data set SAM System Award Management consolidate federal procurement system Catalog Federal Domestic Assistance one new system information retrieve entitybyentity basis Status progress information also provide"
+    },
+    {
+        "progweb_cat": "Government,Database",
+        "api_name": "FDA Content Syndication",
+        "id": 8161,
+        "progweb_descr": " United States Food Drug Administration FDA nation regulatory body food drug product administration review new product well oversee management food related issue around country FDA Content Syndication API use REST call return XML API design allow user subscribe news feed FDA topic allow user alert new content add topic"
+    },
+    {
+        "progweb_cat": "Government,Database",
+        "api_name": "Maryland Driver and Vehicle Record",
+        "id": 10721,
+        "progweb_descr": " provider PointtoPoint PTP service provide search retrieval Marylands state record vehicle registration driver license It available approve user since driver data protect privacy guarantee Available driver data include current license class status provision well citation record Vehicle data include year make model identification current registration status renewal information relate data API method support retrieval driver record base Soundex value include current license class restriction citation record conviction suspension accident driver hold commercial license address name change relate account information Methods support retrieval ownership record vehicle identify title number vehicle identification number VIN tag number Records include title transfer sell dealer listing etc"
+    },
+    {
+        "progweb_cat": "Government,Database",
+        "api_name": "Sunlight Foundation's Party Time!",
+        "id": 13852,
+        "progweb_descr": " Party Time resource Sunlight Foundation Party Time database invitation fundraiser form breakfast barbecue happy hour concert lawmaker lobbyists Political Action Committee representative others purpose site make transparent flow money candidate lawmaker A simple API provide access invitation specific people"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "Local Government Association",
+        "id": 5405,
+        "progweb_descr": " Local Government Association API tool allow user view download open data local area demographic detail performance data LGA API help developer knowledge level provide service enrich apps data local place people create community dashboard local council power GIS tool neighbourhood geography UK"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "Open Civic Data",
+        "id": 7382,
+        "progweb_descr": " Open Civic Data OCD project provide free tool format organize government data way allow data consume apps tool OCD data model design handle information people organizations event bill vote Anyone free search OCD data add Data may retrieve bulk download via API Open Civic Data API also allow user search information capture OCD project"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "ICANE Statistical",
+        "id": 7712,
+        "progweb_descr": " ICANE Statistical Office Cantabria region north Spain publishes Statistical Data Metadata API Cantabria Currently API provide access data metadata statistical series include database A date preparation aid approximate number series regional data 2187 Historical Data 254 municipal data 265 API consist two module one metadata one data"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "Fed {API}",
+        "id": 9309,
+        "progweb_descr": " FED API collect correlate cataloges information government sit agency provide relevant data user site source data open government agency refine tags category make easily searchable resource application development analytics service use REST call return JSON An account API key require use"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "City of Palo Alto",
+        "id": 9954,
+        "progweb_descr": " City Palo Alto California open city data available public City Palo Alto API allow developer access integrate open data application create new application main API method return data datasets specify area water service"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "PDX CitySync",
+        "id": 11243,
+        "progweb_descr": " CivicApps PDX CitySync platform effort City Portland regional government make public information readily available developer There APIs available interact online platform access data set available REST call include among others request nearby park base geographic location restaurant inspection information new business license issue employment data school performance data"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "Civic Commons Marketplace",
+        "id": 13220,
+        "progweb_descr": " Civic Commons Marketplace online database user upload share use open data government Civic Commons Marketplace aim help government civil organization build upon improve public service open data open technology Civic Commons Marketplace API allow developer access integrate data functionality Civic Commons Marketplace application create new application service Some example API method include search data document access resource manage comment user information"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "Ã–rebro kommun",
+        "id": 13381,
+        "progweb_descr": " Ã–rebro kommun Ã–rebro municipality Sweden provide online portal government data information include waste recycle library transit politics sport culture business tourism Much information map RESTful API also retrieve data XML JSON site documentation Swedish"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "Nantes open data",
+        "id": 13521,
+        "progweb_descr": " Nantes open data government data portal city Nantes France Available data include schedule route local transit realtime parking lot availability realtime traffic hour local cultural facility list public facility theme environmental data name child bear Nantes year A RESTful API available access much data Responses return XML JSON site documentation French"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "OpenDataPhilly",
+        "id": 13758,
+        "progweb_descr": " OpenDataPhilly online portal city Philadelphia Datasets available category ArtsCultureHistory ElectionsPolitics Parks Public Safety Transportation APIs available number datasets select desire data sort API filter information"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "London DataStore",
+        "id": 13827,
+        "progweb_descr": " London DataStore service Greater London Authority GLA expose data create GLA public sector organization Dataset category include art culture business economy demographic education employment transportation A number APIs available datasets Suggestions vote creation new datasets also available website"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "data.gov.au",
+        "id": 13851,
+        "progweb_descr": " DataGovAu online portal Australian government Datasets available category include business environment industry news science tourism transportation Data contribute many different government organization APIs available number datasets Dataset format available CSV TEXT XML RDF KMLKMZ ESRI Shapefiles catalogue eg listing agency holding"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "Recovery.gov",
+        "id": 14170,
+        "progweb_descr": " Recoverygov give transparency fund make available American Recovery Reinvestment Act 2009 website allow taxpayer track Recovery fund spend well report potential fraud waste abuse API give developer access Recovery data It use REST protocol return responses XML"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "USASearch Product Recall Data",
+        "id": 14173,
+        "progweb_descr": " DigitalGov Search formerly USASearch program General Services Administrations Office Citizen Services Information Technology OCSIT improve access government information DigitalGov Searchs Product Recall Data API return data product safety recall food car product Data include description recall product defect summary manufacturer information recall date Product Recall Data API use HTTP protocol return responses JSON An API key require"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "USASearch",
+        "id": 14174,
+        "progweb_descr": " DigitalGov Search formerly USASearch program General Services Administrations Office Citizen Services Information Technology OCSIT improve access government information DigitalGov Searchs Search Data API return data allow DigitalGov Search agency customer control look feel search result page Data include section search result summary stats boost site spell suggestion related search among data Must affiliate government agency use API registration require"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "RI.gov Open Data",
+        "id": 14190,
+        "progweb_descr": " RIgov web portal Rhode Island State Government provide data search license renewal API provide access datasets calendar weather incorporate thirdparty software application API use RESTful call return response XML"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "California Race and Ethnic Population Projections",
+        "id": 15075,
+        "progweb_descr": " California State Dept Finance Demographic Data California Race Ethnic Population Projections available county year cover year 20002050 Note data set provide State California API enable via Google Fusion Tables API Google Visulation API info see apigooglefusiontables"
+    },
+    {
+        "progweb_cat": "Government,Data",
+        "api_name": "World Government Data",
+        "id": 15529,
+        "progweb_descr": " Guardianï¿½s new World Government Data site enable user search government data UK US Australia New Zealand one place rate quality data see country compare submit visualisation uncover"
+    },
+    {
+        "progweb_cat": "Government,Documents",
+        "api_name": "Sunlight Docket Wrench",
+        "id": 5686,
+        "progweb_descr": " Use Docket Wrench API Sunlight Foundation investigate rulemaking process federal agency Leveraging text analysis clustering tool Docket Wrench use metadata document agency docket track public comment entity reveal influence across document API use HTTP GET method JSON require API Key Use Docket Wrench search specific agency entity find entitydocument overlap search federal nonfederal document"
+    },
+    {
+        "progweb_cat": "Government,Documents",
+        "api_name": "General Land Office Records",
+        "id": 7986,
+        "progweb_descr": " Bureau Land Management BLM General Land Office GLO provide access Federal land conveyance record include image access record 1820 present GLO expose record SOAP web service API expose information describe Federal Land Patents survey plat field note Land Status Records"
+    },
+    {
+        "progweb_cat": "Government,African",
+        "api_name": "Indigo",
+        "id": 6001,
+        "progweb_descr": " Built Code South Africa Indigo document management system capture publish legislation Akoma Ntoso format Indigo REST API support creation edit management library legislative document API provide response HTML XML JSON use POST authenticates API Token Use Indigo API create document get XML file document content update delete document"
+    },
+    {
+        "progweb_cat": "Government,African",
+        "api_name": "Kenya Open Data",
+        "id": 13376,
+        "progweb_descr": " Kenya Open Data online government portal make access data Kenya accessible Available datasets project topic include education energy health water sanitation Public expenditure data development indicator also available Kenya Open Data use Socrata Open Data API support RESTful protocol return responses variety format include JSON XML RDF"
+    },
+    {
+        "progweb_cat": "Government,Health",
+        "api_name": "Open New York Health Facility Certification Information",
+        "id": 6516,
+        "progweb_descr": " Open New York Health Facility Certification Information API service part State New Yorks datanygov open data initiative API mean assist developer create health healthcare relate application API provide access searchable dataset hold information certification New York healthcare facility include hospital nurse home treatment center long term healthcare program hospice API access HTTP communication available response type include JSON XML CSV documentation feature live test interface run example request All request must posses app token order authenticate"
+    },
+    {
+        "progweb_cat": "Government,Health",
+        "api_name": "Open New York Health Facility General Information",
+        "id": 6517,
+        "progweb_descr": " Open New York Health Facility General Information API service part State New Yorks datanygov open data initiative API mean assist developer create health healthcare relate application API provide access searchable dataset hold general information New York healthcare facility hospital nurse home treatment center long term healthcare program hospices Accessible information include location contact information facility filterable city state county zip code phone number type API access HTTP communication available response type include JSON XML CSV documentation feature live test interface run example request All request must posses app token order authenticate"
+    },
+    {
+        "progweb_cat": "Government,Health",
+        "api_name": "HealthData.gov",
+        "id": 11676,
+        "progweb_descr": " HealthDatagov service US government provide data health medicine relate topic include Medicaid HealthData API use provide software developer programmatic access content data catalog API use find recently add datasets search catalog download content catalog analysis build new data catalog tool"
+    },
+    {
+        "progweb_cat": "Government,Health",
+        "api_name": "Healthfinder.gov",
+        "id": 12731,
+        "progweb_descr": " Healthfinder example government health agencyâ€™s API Their Quick Guide Healthy Living API provide developer late version healthfindergov Quick Guide Healthy Living content This API allow developer flexibility create customize product To assist process make content update available via content syndication user less web development experience few resource"
+    },
+    {
+        "progweb_cat": "Government,Health",
+        "api_name": "AIDS.gov Service Provider Locator",
+        "id": 12732,
+        "progweb_descr": " AIDSgov government site dedicate increase HIV test care live HIV atrisk population site provide access Federal HIV information policy eg National HIVAIDS Strategy program resource site offer user HIVAIDS Prevention Service Provider Locator locationbased search tool allow user search test service housing provider health center service provider near give location API provide access data find use tool service provider name address phone number location categorize service type It use RESTful call response format JSON HTML"
+    },
+    {
+        "progweb_cat": "Government,Health",
+        "api_name": "SAMHSA",
+        "id": 14185,
+        "progweb_descr": " Substance Abuse Mental Health Services Administration SAMHSA branch US Department Health Human Services aim make substance abuse mental health information service accessible effectively translate research area public health care system SAMHSA provide datasets public via Information Tools use online social medium SAMHSA use Content Repository APIs give developer access data"
+    },
+    {
+        "progweb_cat": "Government,Food",
+        "api_name": "Open New York Food Service Establishment Inspections",
+        "id": 6537,
+        "progweb_descr": " Open New York Food Service Establishment Inspections API service part State New Yorks datanygov open data initiative API mean assist developer create tool interact data Health Data NY This API provide access dataset list New York Food Service Establishment Inspections begin 2005 searchable API use retrieve name location active establishment currently run well associate violation find inspection dataset update monthly basis therefore may reflect remediation make current establishment status API access HTTP communication available response type include JSON XML CSV documentation feature live test interface run example request All request must posses app token order authenticate"
+    },
+    {
+        "progweb_cat": "Government,Alcohol",
+        "api_name": "Open New York Liquor Authority Quarterly List of Active Licenses",
+        "id": 6544,
+        "progweb_descr": " Open New York Liquor Authority Quarterly List Active Licenses API open service State New Yorks datanygov open data initiative API provide access information publish State Liquor Authority SLA organization regulate manufacture sale alcoholic drink throughout New York API use query active liquor license make searchable field type include serial number license type agency office office number licensee county name licensee business name address city state issue expiration date geographic coordinate API access HTTP communication available response type include JSON XML CSV documentation feature live test interface run example request All request must posses app token order authenticate"
+    },
+    {
+        "progweb_cat": "Government,Location",
+        "api_name": "Open New York Transit Subway Entrance And Exit Data",
+        "id": 6548,
+        "progweb_descr": " Open New York Transit Subway Entrance And Exit Data API service part State New Yorks datanygov open data initiative This API provide access dataset include vary information field pertain subway station entrance exit Accessible information include correspond station name division line exact longitude latitude coordinate subway terminal dataset also filterable use variable API access HTTP communication available response type include JSON XML CSV documentation feature live test interface run example request All request must posses app token order authenticate"
+    },
+    {
+        "progweb_cat": "Government,Applications",
+        "api_name": "trade.gov",
+        "id": 6718,
+        "progweb_descr": " Tradegov give developer access authoritative information US export international trade via standard APIs Tradegovs APIs data set free charge unlimited access Some APIs find tradegov Market Research Library ITA Offices Locations Trade Events Leads News Articles Tradegov work help US small business export expand operation overseas market hope developer integrate trade data application mashups help small business owner compete overseas also create job home"
+    },
+    {
+        "progweb_cat": "Government,Applications",
+        "api_name": "USA.gov Mobile App Gallery",
+        "id": 8906,
+        "progweb_descr": " USAgovs Mobile App Gallery API provide developer programmatic access information government agency mobile application English Spanish This information come USAgov Mobile Apps Gallery GobiernoUSAgov Aplicaciones mÃ³viles provide information apps variety platform Information retrievable via REST call issue JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government,Contacts",
+        "api_name": "USA.gov Corporate Consumer Contact",
+        "id": 6946,
+        "progweb_descr": " Usagov Corporate Consumer Contact API allow user access corporate information US government update data often information review annually With API REST format developer could access use data related corporation directly affect consumer example consumer action handbook user read savvy consumer file complaint access key information resource find consumer assistance section help consumer make smart decision important use API effectively JSON XML JSONP format available site show JSON responses Developers access interactive documentation API API data model API method Before application development user read term service"
+    },
+    {
+        "progweb_cat": "Government,Indian",
+        "api_name": "Sansad",
+        "id": 7097,
+        "progweb_descr": " Sansad provide late data Parliament India aim application offer target information empower user It available HTTP GET call With API user access legislator attendance record constituency question ask legislator Parliament status summary bill bill base particular topic education"
+    },
+    {
+        "progweb_cat": "Government,Contracts",
+        "api_name": "GovTribe",
+        "id": 7121,
+        "progweb_descr": " GovTribe provide government contract information real time mobile device Users track project competitor agency contract officer GovTribe API currently beta provide US federal government contract market data JSON API mine data multiple government source organize index data user need API provide eight entity type along information way connect type Project Agency Office Person Vendor Category Protest Activity"
+    },
+    {
+        "progweb_cat": "Government,Contracts",
+        "api_name": "FedBizOpps",
+        "id": 12288,
+        "progweb_descr": " service provide access direct interaction US government database procurement order contract Businesses discover selling opportunity track contract award type product location purchase agency Government agency solicit vendor bid interact provider meet procurement need API method support solicitation bid post notice bidder post contract award notification related function Methods also support review notification submission bid provide good service"
+    },
+    {
+        "progweb_cat": "Government,Contracts",
+        "api_name": "Federal Procurement Data System",
+        "id": 12303,
+        "progweb_descr": " service report data purchase procurement US government agency contract value 3000 Any contract must report system updates modification also must report Applications use system retrieve data contract log include agency make purchase vendor good service purchase amount pay contract term API method support retrieval contract record filter date range purchasing agency vendor location product classification parameter Methods also support create updating record contract post bid award vendor"
+    },
+    {
+        "progweb_cat": "Government,Design",
+        "api_name": "US DOE Asset Score",
+        "id": 7483,
+        "progweb_descr": " Office Energy Efficiency Renewable Energy United States Department Energy provide API help rate commercial building energy efficiency accord national standard Using variety physical characteristic likely usage tool rate building energy efficiency include evaluate system identify area possible upgrade"
+    },
+    {
+        "progweb_cat": "Government,Design",
+        "api_name": "US DOE Buildings Performance Database",
+        "id": 7484,
+        "progweb_descr": " Office Energy Efficiency Renewable Energy United States Department Energy provide API share aggregate statistical information energy performance hundred thousand commercial residential building US This API use create application visualization estimate EUI energy use intensity building EUI measure energy use per square foot per year"
+    },
+    {
+        "progweb_cat": "Government,Military",
+        "api_name": "eBenefits National Resource Directory",
+        "id": 7534,
+        "progweb_descr": " National Resource Directory NRD provide US military veteran access information service help recovery rehabilitation reintegration NRD include government resource national state local level well resource provide nonprofit organization academic institution others NRD API allow developer retrieve information NRD use websites application"
+    },
+    {
+        "progweb_cat": "Government,Military",
+        "api_name": "USCG Approved Equipment Listing",
+        "id": 11396,
+        "progweb_descr": " This database contain equipment approve certify Commandant US Coast Guard USCG use commercial vessel recreational boat It provide reference shipowner operator builder person affect Marine Inspection Navigation Laws Regulations Not USCG approval list database In case approval may issue European Notified Bodies Mutual Recognition Agreements These approval may find instead European Marine Equipment Directive website httpwwwmaredorg USCG Approved Equipment Listing accessible programmatically use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Government,Emergency",
+        "api_name": "OpenFEMA",
+        "id": 7572,
+        "progweb_descr": " OpenFEMA authoritative source FEMAs public data release part Open Government Initiative OpenFEMA API provide public free readonly access FEMA datasets include information public assistance fund project public assistance applicant hazard mitigation grant disaster declaration API also use retrieve documentation list available datasets"
+    },
+    {
+        "progweb_cat": "Government,Emergency",
+        "api_name": "StreetLightOutages",
+        "id": 13044,
+        "progweb_descr": " service log service outage street light allow application display incident report number way Applications also contribute report service provide consult organization active online tool manage power grid resource API method support report incident retrieval exist report type eg involve power pole potholes hydrant location asset involve Methods also allow update incident response status information"
+    },
+    {
+        "progweb_cat": "Government,Library",
+        "api_name": "Koninklijke Bibliotheek Digital Proceedings of Dutch Parliament",
+        "id": 7649,
+        "progweb_descr": " This set contain fulltext digitized proceeding Dutch Parliament 1814 1995 This mean hold word word transcription everything say House Representatives Senate year data reuse freely open data metadata individual object page scan OCR PDFs available CC0license Access via SRU OAIPMH protocols set make available National Library Netherlands KB collaboration House Representatives Netherlands Tweede Kamer der StatenGeneraal documentation currently Dutch available English asap"
+    },
+    {
+        "progweb_cat": "Government,Library",
+        "api_name": "NRC ADAMS",
+        "id": 7658,
+        "progweb_descr": " Agencywide Documents Access Management System ADAMS official record keep system utilize US Nuclear Regulatory Commission NRC provide access follow library collection publicly available document Publicly Available Records System PARS Library contain 730000 fulltext document NRC release since November 1 1999 several hundred new document add day Public Legacy Library contain 2 million bibliographic citation earlier document majority date back 1980 NRC ADAMS API allow user access archive data use REST call get return data XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Belgian",
+        "api_name": "Dieren Theater",
+        "id": 7789,
+        "progweb_descr": " Dieren Theater independent web service deliver structure data scrap website Belgian Parliament La Chambre De Kamer Available data include information relate Deputies Parties Commissions law project annual report"
+    },
+    {
+        "progweb_cat": "Government,Belgian",
+        "api_name": "Apps for Ghent",
+        "id": 10844,
+        "progweb_descr": " service provide city Ghent Belgium encourage open data share company organization It seek make available operate information business location hour operation product offering price service encourage interoperation interaction application provide information useful resident visitor API method implement protocol Data Tank methodology present open data government public service health social support function demographic information jobseeking employment place business tourist attraction festival etc Returned data provide name activity associate along location express latitude longitude"
+    },
+    {
+        "progweb_cat": "Government,Currency",
+        "api_name": "Annual Production Figures of United States Currency",
+        "id": 7911,
+        "progweb_descr": " Annual Production Figures United States Currency API service Bureau Engraving Printing BEP bureau US Department Treasury API detail number 1 5 10 20 50 100 note print year back 1980"
+    },
+    {
+        "progweb_cat": "Government,USA",
+        "api_name": "U.S. Trademark Status and Document Retrieval",
+        "id": 7977,
+        "progweb_descr": " Trademark Status Document Retrieval API service United States Patent Trademark Office API allow 3rd party application query data document related trademark API able search serial reference registration number"
+    },
+    {
+        "progweb_cat": "Government,USA",
+        "api_name": "Exective Orders",
+        "id": 9067,
+        "progweb_descr": " Part United States Datagov Interactive Platform executive order API allow programmatic access data executive order sign signed president United States 1994 2012 Available API request field include executive order number title publication date signing date citation document number executive order note URL All communication API do HTTPS available response type include JSON XML CSV"
+    },
+    {
+        "progweb_cat": "Government,USA",
+        "api_name": "State Decoded",
+        "id": 9953,
+        "progweb_descr": " State Decoded online platform display interpret code law legislation court decision state make understandable State Decoded API allow developer access integrate data functionality State Decoded application create new application"
+    },
+    {
+        "progweb_cat": "Government,Charity",
+        "api_name": "Department of Housing and Urban Development",
+        "id": 7985,
+        "progweb_descr": " US Department Housing Urban Development HUD expose information certain HUD related agency business RESTful API API allow developer programmatically search information describe Housing Counseling Agencies Section 3 Businesses This freely accessible API return JSON format response"
+    },
+    {
+        "progweb_cat": "Government,Charity",
+        "api_name": "ForeignAssistance.gov",
+        "id": 8198,
+        "progweb_descr": " ForeignAssistancegov provide information US foreign aid Foreign Assistance Dashboard joint initiative Department State US Agency International Development ForeignAssistancegov API provide RESTful interface dashboard allow developer filter data type format country sector agency fiscal year multiple way"
+    },
+    {
+        "progweb_cat": "Government,Charity",
+        "api_name": "CMDI",
+        "id": 11112,
+        "progweb_descr": " CMDI provider webbased fundraise compliance solution political organization nonprofit corporation CDMI offer software use donor relationship management donation process federal state campaign compliance CMDI API tie web form sue credit card process API allow user customize look functionality web form Public documentation available"
+    },
+    {
+        "progweb_cat": "Government,Media",
+        "api_name": "Department of Veterans Affairs Press Releases",
+        "id": 7990,
+        "progweb_descr": " Department Veterans Affairs VA Press Release API query VA press release database allow 3rd party application website collect display Hey VA VA press release"
+    },
+    {
+        "progweb_cat": "Government,Community",
+        "api_name": "FixMyStreet",
+        "id": 8102,
+        "progweb_descr": " FixMyStreetorgnz web site build help New Zealanders make service request local council Examples request would fix issue graffiti unlit lamppost damage street sign Users upload detail site issue submit council FixMyStreet offer API base Open311 GeoReport v2 standard API allow developer programmatically indicate service request status change request accept resolve API also able append comment metadata service request"
+    },
+    {
+        "progweb_cat": "Government,Community",
+        "api_name": "NationBuilder Election Center",
+        "id": 8606,
+        "progweb_descr": " NationBuilder open platform user create online community center around issue relevant Users create community organization websites access people database use communication tool email text message social medium NationBuilder Election Center API use REST call return JSON service offer access database voter data political geographic region campaign information This data integrate third party application facilitate design campaign center application"
+    },
+    {
+        "progweb_cat": "Government,Community",
+        "api_name": "NY Senate",
+        "id": 15377,
+        "progweb_descr": " NY Senate API give developer user direct access New York state data By place government data public domain NY Senate hop engage citizens policy creation dialogue Some feature API include access bill committees new data set continue add site"
+    },
+    {
+        "progweb_cat": "Government,Police",
+        "api_name": "Henrico County Public Crime Data Access",
+        "id": 8587,
+        "progweb_descr": " Henrico County locate state Virginia provide public online access local crime data use two web service ICR Incident Crime Report service use search past offense CAD Computer Aided Dispatch system service use search past call service Both service accessible via SOAP call"
+    },
+    {
+        "progweb_cat": "Government,Police",
+        "api_name": "New York State Police IEPD",
+        "id": 9156,
+        "progweb_descr": " New York State Police NYSP publish collection Information Exchange Package Documentations IEPDs use authorized agency build web service message exchange These IEPDs take form SOAP APIs allow authorized department retrieve case update information This include information want individual miss person vehicle registration NCIC article gun LoJacked vehicle much"
+    },
+    {
+        "progweb_cat": "Government,Police",
+        "api_name": "Chicago Police Department CLEARpath",
+        "id": 9378,
+        "progweb_descr": " CLEARpath website provide Chicago Police Department help community member learn district local event well protect crime It also allow people report crimes anonymously get report chat department CLEARpath REST API provide programmatic access websites function information JSON format"
+    },
+    {
+        "progweb_cat": "Government,Police",
+        "api_name": "Turkish National Police AKBS",
+        "id": 10196,
+        "progweb_descr": " AKBS Law Order ID Notification System hotel motel dormitory etc Any sort temporary accommodation people might stay pernight basis report part system Such facility send require data automatically use AKBS software query AKBS also available SOAPbased API This software longer update entire website provide exclusively Turkish"
+    },
+    {
+        "progweb_cat": "Government,Economics",
+        "api_name": "Bureau of Economic Analysis",
+        "id": 8624,
+        "progweb_descr": " Bureau Economic Analysis BEA division US Department Commerce dedicate promote well understanding national economy provide valueadded economic account data BEA provide programmatic access publish economic statistic Supported method include retrieve subset statistical data metadata describes"
+    },
+    {
+        "progweb_cat": "Government,Economics",
+        "api_name": "UK BIS",
+        "id": 13823,
+        "progweb_descr": " Department Business Innovation Skills BIS UK government sector support business economic growth BIS aim drive growth foster competitive market educate consumer right consumer law promote employment relation high education skill train BIS offer API developer use content website website bisgovuk site include Export Credits Guarantee Department British Hallmarking Council Foresight Programme Council Science Technology Government Office Science UK Space Agency National Measurement Office UK Commission Employment Skills"
+    },
+    {
+        "progweb_cat": "Government,Economics",
+        "api_name": "United Nations Monthly Bulletin",
+        "id": 14007,
+        "progweb_descr": " Published United Nations Monthly Bulletin Statistics Online present current economic social statistic 200 country territories world It contain 55 table comprise 100 indicator monthly quarterly annual data variety subject illustrate important economic trend development include population industrial production index price index employment earnings energy manufacture transport construction international merchandise trade finance national account Monthly Bulleting Statistics offer SOAP API developer API four primary call offer different functionality GetDataSeries let user extract MBS data series include relevant footnote GetMetadataCountries get metadata country regional association currently list MBS GetMetadataDateCode get metadata date code use MBS GetMetadataSeries get metadata statistical series currently list MBS Series name description English"
+    },
+    {
+        "progweb_cat": "Government,Travel",
+        "api_name": "GSA Per Diem",
+        "id": 8838,
+        "progweb_descr": " US General Services Administration GSA provide Per Diem API allow user retrieve reimbursement rate hotel meal expense federal traveler rate set fiscal year many US business organization adopt rate well GSA provide developer programmatic access rate information via REST API"
+    },
+    {
+        "progweb_cat": "Government,Jobs",
+        "api_name": "Bureau of Labor Statistics Public Data",
+        "id": 8847,
+        "progweb_descr": " Bureau Labor Statistics Public Data API offer access employment information investigate US government Services include job search feature economic release student resource To work API signature encompass HTTP RESTful URL series ID Developers expect use JSON protocol Parameters version sample code available site"
+    },
+    {
+        "progweb_cat": "Government,Jobs",
+        "api_name": "O*NET",
+        "id": 10297,
+        "progweb_descr": " service US Department Labor provide authoritative information occupational description project employment demand across nation economy It offer US government official taxonomy job title Standard Occupation Classification SOC code Also available tool career investigation planning questionnaire analyze categorize job duty hire guideline employer API method support access career overview material group job definition require skill experience personality traits technology use Methods also provide updated employment outlook occupation category API give programmatic access interest profiler function present question accept response suggestion occupation suit specific area interest"
+    },
+    {
+        "progweb_cat": "Government,Jobs",
+        "api_name": "VetSuccess",
+        "id": 10544,
+        "progweb_descr": " service US Department Veterans Affairs provide job open position listing access US military veteran promote employment service It allow employer register post job vacancy access application veteran seek work Integration potential allows employment service recruit platform interact service publicize opportunity attract prospective employee process application API method support post job base data exist recruiting HR system without duplicate manual entry via service interface Methods also support realtime edit exist job posting update list employer current opportunity"
+    },
+    {
+        "progweb_cat": "Government,Transportation",
+        "api_name": "MyTSA",
+        "id": 8895,
+        "progweb_descr": " Transportation Security Administration TSA provide MyTSA API allow user integrate several feature thirdparty application These feature include TSA security checkpoint wait time TSA PreCheck location sunrisesunset time location data source service use REST call return XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Monitoring",
+        "api_name": "U.S. Office of Personnel Management Government Operating Status",
+        "id": 8899,
+        "progweb_descr": " United States Office Personnel Management OPM work several broad category recruit retain honor Americaâ€™s workforce OPM maintain API access federal government operate status employee API capable return XML JSON format response check current operating status serve status type description deliver archive operating status record"
+    },
+    {
+        "progweb_cat": "Government,Accounting",
+        "api_name": "Checkbook NYC",
+        "id": 8913,
+        "progweb_descr": " New York City provide programmatic access feed financial data flow Office Comptroller Checkbook NYC API allow user make REST call return maximum 1000 record API allow access Budgets Contracts Payroll Revenue Spending API return data XML format"
+    },
+    {
+        "progweb_cat": "Government,Language",
+        "api_name": "Sunlight Foundation Capitol Words",
+        "id": 9295,
+        "progweb_descr": " Sunlight Foundation nonpartisan nonprofit group use technology make US government transparent accountable Capitol Words tool determine frequency give word use Congressional session time It provide relative frequency chart well specific context word use This provide quick glimpse issue Congress address daily weekly monthly yearly basis transcript reference Capitol Words come website Government Printing Office cover Congressional session 1996 present"
+    },
+    {
+        "progweb_cat": "Government,Widgets",
+        "api_name": "Idescat Embed",
+        "id": 9369,
+        "progweb_descr": " Statistical Institute Catalonia Idescat organization produce official Catalan economy demography society statistic Idescat expose data via collection REST APIs Some content Idescatcat may embed third party website Idescat Embed API show whether embeddable content exists specify page obtain embeddable code This API follow oEmbed standard request response Responses may XML JSON format"
+    },
+    {
+        "progweb_cat": "Government,History",
+        "api_name": "U.S. Department of State Office of the Historian Ebook Catalog",
+        "id": 9419,
+        "progweb_descr": " US Department State Office Historian Ebook Catalog contain ebooks Foreign Relations United States series official historical record significant foreign policy decision diplomatic activity This RESTful API allow developer embed catalog 3rd party application locate download link ebooks cover image API us Open Publication Distribution System Catalog API support HTTP GET call return XML format responses No authentication require"
+    },
+    {
+        "progweb_cat": "Government,History",
+        "api_name": "The Old Bailey",
+        "id": 13242,
+        "progweb_descr": " service allow search record legal proceeding Old Bailey Londons central criminal court 1674 1913 fully searchable repository give access documentation almost 200000 criminal trial either specific case case match specify term API method support submission search criterion either trial number text match along number desire result maximum 1000 per request desire output format either text zip file If trial number match text specify output tag specify term within text return"
+    },
+    {
+        "progweb_cat": "Government,Open Data",
+        "api_name": "ParliamentData.ca",
+        "id": 9469,
+        "progweb_descr": " ParliamentDataca unofficial web service use Canadian Governmentâ€™s datasets make parliamentary data accessible ParliamentaryDataca access free RESTful API return JSON format response Data describe federal bill federal representative currently available datasources siteâ€™s To Do list"
+    },
+    {
+        "progweb_cat": "Government,Open Data",
+        "api_name": "DataKC",
+        "id": 10707,
+        "progweb_descr": " service King County Washington government provide machinereadable datasets reflect operation county department Seattle region Plans call addition datasets across region service complies Socrata Open Data API increase standardization access API method support open access county government agency operate data range datatypes specify simple choice integer datetime string boolean along complex combination simple type Methods provide view metadata describe available datasets include access URLs Userfocused method allow review update account register user service"
+    },
+    {
+        "progweb_cat": "Government,Open Data",
+        "api_name": "Granicus Search",
+        "id": 12875,
+        "progweb_descr": " Granicus supply govern agency software hardware integrate stream medium communication tool set Granicus Search API give user search access Granicus library With API user query marker video 1000 government agency include 2 million individual topic discussion represent 100 year total archive video API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Government,Open Data",
+        "api_name": "OpenColorado",
+        "id": 13914,
+        "progweb_descr": " OpenColorado work make public data available accessible citizen Colorado city counties school district special district across state OpenColorado Data Catalog catalog API provide access wealth government data become available participate jurisdiction"
+    },
+    {
+        "progweb_cat": "Government,Open Data",
+        "api_name": "FederalRegister.gov",
+        "id": 13990,
+        "progweb_descr": " Office Federal Register informs citizens right obligation document action Federal agency provide forum public participation democratic process Office Federal Register OFR National Archives Records Administration NARA US Government Printing Office GPO jointly administer FederalRegistergov website OFRGPO partnership develop unofficial XMLbased edition daily Federal Register site FederalRegistergov fully open source project API allow user retrieve information agency FederalRegistergov database metadatadetails particular Federal Register document Users also access full search capability match functionality site advance search API use RESTful call response format JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government,Open Data",
+        "api_name": "U.S. Department of Labor",
+        "id": 14191,
+        "progweb_descr": " US Department Labor implement API project make easy developer access use data collect department increase public participation government increase government transparency goal project make easy developer access publish data make easy public use DOL data provide easy secure access personal data protect private personal data API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Israeli",
+        "api_name": "Open Knesset User Voting API",
+        "id": 9475,
+        "progweb_descr": " Open Knesset open source project develop community volunteer bear Public Knowledge Workshop nonprofit Israeli organization aim make government information easily accessible public Open Knesset mine data Knesset website present userfriendly browser agnostic format Open Knesset User Voting API provide developer access Members Knesset MKs voting data well allow application post user vote support opposition approve ongoing dismissed bill Individual aggregate user vote data may contrast MK vote data Among supported query call calculate correlation vote MK specify user"
+    },
+    {
+        "progweb_cat": "Government,Agriculture",
+        "api_name": "USDA Economic Research Service",
+        "id": 9500,
+        "progweb_descr": " Economic Research Service ERS branch USDA dedicate inform enhance decision make economic policy issue relate agriculture food environment rural development USDA Economic Research Service API provide developer access primary content ERS website include topical information digital publication ERSâ€™ online magazine Amber Waves RESTful API return JSON XML format response"
+    },
+    {
+        "progweb_cat": "Government,Family",
+        "api_name": "Open New York Child Care Regulated Programs",
+        "id": 9734,
+        "progweb_descr": " Open New York collect expose local state federal data site host catalogue datasets organize location subject area Open New York Child Care Regulated Programs API expose data element register license child care program New York State intend primary us API family choose child care assist research API access HTTPS Responses may JSON XML CSV format"
+    },
+    {
+        "progweb_cat": "Government,Insurance",
+        "api_name": "Oklahoma Compulsory Insurance Verification System",
+        "id": 9941,
+        "progweb_descr": " service provide online verification driver automobile insurance coverage mandate Oklahoma state law Any privately own vehicle registered state subject compulsory vehicle liability insurance service allow law enforcement personnel others legitimate interest confirm vehicle adequate coverage effect allow insurance company upload information policy effect API method support check OCVIM database verify insurance coverage submit vehicle identification number VIN Methods also support update state database submit VIN associated policy number along coverage expiration date"
+    },
+    {
+        "progweb_cat": "Government,Insurance",
+        "api_name": "NAIC Registry",
+        "id": 12803,
+        "progweb_descr": " service allows automate file standard report documentation require insurance provider compliance state regulation provider cooperative agency maintain state government encourage consistent regulatory business practice insurance company Services include file OPTins report pay premium tax electronically submit SEREFF insurance product registration interact Online Fraud Reporting System API method support submit OPTins filing payment create updating insurance product registration via SEREFF system download centralize fraud report submit report OFRS"
+    },
+    {
+        "progweb_cat": "Government,European",
+        "api_name": "LobbyFacts Data",
+        "id": 10115,
+        "progweb_descr": " LobbyFacts provide access information regard lobbyist consultant influence European Unions EU policy decision It also provide access financial information grant issue EU various entity LobbyFacts Data API provide easy access information via REST call may issue JSON JSONP CSV format All database reference LobbyFacts host European Commission website"
+    },
+    {
+        "progweb_cat": "Government,European",
+        "api_name": "It's Your Parliament EU Data",
+        "id": 10804,
+        "progweb_descr": " Itâ€™s Your Parliament provide overview vote cast European Parliament include voting record individual political group Itâ€™s Your Parliament EU Data API provide free developer access XML structure voting record date 2004"
+    },
+    {
+        "progweb_cat": "Government,European",
+        "api_name": "European Union Legislation",
+        "id": 14368,
+        "progweb_descr": " This API open core EU legislative data use API extract organize connects data various official source Developers use API help conduct research create data visualization build application upon API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Government,Science",
+        "api_name": "USDA Soil Data Access",
+        "id": 10298,
+        "progweb_descr": " service US Department Agriculture provide data soil survey support agricultural planning geographic information farming activity Data provide geolocation temporal data allow application generate report data specific location region within select time period service free soil survey data conventional download format allow realtime access select data element API method support submission query access data USDA soil survey result potential select particular geographic area interest time period subset data Methods allow retrieval raw data map layer support us report analysis well visual mapping application ArcGIS format support"
+    },
+    {
+        "progweb_cat": "Government,Social",
+        "api_name": "Joinup",
+        "id": 10390,
+        "progweb_descr": " Joinup collaborative platform create European Commission offer set service help eGovernment professional share experience interoperability solution goal help professional find choose reuse develop implement open source software semantic interoperability asset Information store platform access manage programmatically use Joinups SOAPbased APIs"
+    },
+    {
+        "progweb_cat": "Government,Social",
+        "api_name": "DemocracyEngine",
+        "id": 11424,
+        "progweb_descr": " DemocracyEngine fund raise support service help organization individual raise fund set goal incentive DemocracyEngine API integrate campaign management system political fund track distribution service Using REST API user process donation direct towards candidate campaign service return JSON XML"
+    },
+    {
+        "progweb_cat": "Government,Social",
+        "api_name": "USA.gov Social Media Registry",
+        "id": 12059,
+        "progweb_descr": " USAgov Social Media Registry official source find social medium account federal government agency elect official appoint official registry include state local official Social Media Registry API allow user access account data Registry use RESTful GET call various parameter"
+    },
+    {
+        "progweb_cat": "Government,Spanish",
+        "api_name": "Government of the Canary Islands Platino",
+        "id": 10510,
+        "progweb_descr": " Platino platform run eGovernment service provide Gobierno de Canarias trans Government Canary Islands Platino design effectively connect exist information system within Canary Islands public administration system well facilitate collaboration multiple administrative system Canary Islands Government website Platino API documentation provide solely Spanish"
+    },
+    {
+        "progweb_cat": "Government,Spanish",
+        "api_name": "Open Data Euskadi",
+        "id": 13426,
+        "progweb_descr": " Open Data Euskadi government data portal Basque Autonomous Community Spain site provide access publicly available datasets variety government agency Open Data Euskadi API use JavaScript RESTful protocols return response XML"
+    },
+    {
+        "progweb_cat": "Government,Spanish",
+        "api_name": "opengov.es",
+        "id": 13617,
+        "progweb_descr": " opengoves provide open government data country Spain government Spain make datasets available use CKAN Comprehensive Knowledge Archive Network include data library employment cultural activity transportation health economy CKAN API provide access data API RESTful return response JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government,Spanish",
+        "api_name": "Gipuzkoa",
+        "id": 14076,
+        "progweb_descr": " Gipuzkoanet government site Spanish province Gipuzkoa API provide user follow functionality request obtain site data embed handling map within third party site apps API use RESTful call response format XML JSON JSONP TXT CSV site Spanish"
+    },
+    {
+        "progweb_cat": "Government,Spanish",
+        "api_name": "Open Data Badalona",
+        "id": 14349,
+        "progweb_descr": " city Badalona Spain make much exist data computer system available citizen Open Data initiative data available seperated four main format XML KML WMS RSS Services include data schedule event exhibition workshop within city mapping city service site documentation Catalan"
+    },
+    {
+        "progweb_cat": "Government,Spanish",
+        "api_name": "la Loterï¿½a del Niï¿½o",
+        "id": 14408,
+        "progweb_descr": " la Loterï¿½a del Niï¿½o API provide El Paï¿½s order check status number ONLAE lottery hold Spain API free require signup access"
+    },
+    {
+        "progweb_cat": "Government,Spanish",
+        "api_name": "Idescat Municipality in Figures",
+        "id": 14802,
+        "progweb_descr": " This API provide basic comparative statistical information Catalan municipalities county Catalonia Idescat official statistic website Catalonia provide official statistic generate different department make statistical system Catalonia API use RESTful protocol response format XML JSON PHP"
+    },
+    {
+        "progweb_cat": "Government,Restaurants",
+        "api_name": "CivicApps Restaurant Inspections",
+        "id": 10563,
+        "progweb_descr": " service provide safety inspection report restaurant Multnomah County Oregon contain city Portland Default result provide 25 recent report county inspector allow evaluation inspection activity period Results limit specific restaurant however API method provide safety inspection score along restaurant name location address geolocation coordinate well inspector name date relate detail Results adjust different record count default specific date range specify start date optional end date"
+    },
+    {
+        "progweb_cat": "Government,Greek",
+        "api_name": "Diavgeia",
+        "id": 10595,
+        "progweb_descr": " open government service Greece provide access information decision action Greek national government It allow search record decision decree public authority country compliance national Transparency law Data may use freely CCBY Creative Commons Attribution license API method support retrieval decision department organization type topical tag date range sign authority approve decision Documentation include XMLformatted list organization operate unit decision type topic tag sign authority"
+    },
+    {
+        "progweb_cat": "Government,Greek",
+        "api_name": "Greek Republic Ministry of Finance GSIS",
+        "id": 10742,
+        "progweb_descr": " Greek Republic Ministry Finance GSIS General Secretariat Information Systems provide APIs allow user retrieve information person trader use TIN taxpayer identification number ID identity card name Information retrieve individual nonindividual trader Greek market well people register Information Registry Natural NonNatural Persons"
+    },
+    {
+        "progweb_cat": "Government,Environment",
+        "api_name": "NSW Office of Water Hydstra",
+        "id": 10621,
+        "progweb_descr": " NSW Office Water manage extensive water monitoring system provide vital data flow level volume quality Data store NSWs implementation Hydstra water database Hydstra timeseries data management system provide tool build maintain timeseries data archive NSW Office Waters water data available website via Hydstra API"
+    },
+    {
+        "progweb_cat": "Government,Environment",
+        "api_name": "Colorado HBGuest",
+        "id": 12589,
+        "progweb_descr": " service state Division Water Resources DWR give access watershed groundwater resource data throughout state Hydrobase repository Data available cooperating agency environmental researcher others interest water supply within state API method support retrieval water supply data county group well specific well Results include test result well production well factor influence supply like volcanic activity aquifer characteristic Methods also provide summary agencys transaction well drill permit issue etc"
+    },
+    {
+        "progweb_cat": "Government,Environment",
+        "api_name": "ColoradoWaterSMS",
+        "id": 12590,
+        "progweb_descr": " service stateâ€™s Division Water Resources DWR provide measurement surface water resource include stream flow climate effect watersheds statewide data available cooperating agency environmental researcher developer interested party API method support retrieval current condition stream reservoir across Colorado along rating table shift curve indicate susceptibility contamination variance flow Methods also document measure station water district administer state water resource"
+    },
+    {
+        "progweb_cat": "Government,Environment",
+        "api_name": "USGS Waterservices",
+        "id": 12978,
+        "progweb_descr": " service provide instantaneous daily summary data water supply water quality Data provide collect network US Geological Service report station provide aggregate point time A notification system distribute alert base data collect API method support designation report station location state county well location type Results define highly detailed characteristic watershed size location aquifer type sampling method well characteristic"
+    },
+    {
+        "progweb_cat": "Government,Auto",
+        "api_name": "NSW Motor Vehicle Reporting App",
+        "id": 10629,
+        "progweb_descr": " government New South Wales NSW Australia develop application report various type vehicular pollution These include litter excessive noise smoke emission Motor Vehicle Reporting App API provide programmatic access apps function via SOAP call"
+    },
+    {
+        "progweb_cat": "Government,Auto",
+        "api_name": "Wyoming FRVP",
+        "id": 10638,
+        "progweb_descr": " service provide verification compliance driver financial responsibility requirement enact US state Wyoming It check registration automobile insurance coverage confirm legal compliance status service create help police detect circumvention state requirement maintain continue insurance coverage pay single month premium gain proof insurance document API method support electronic verification coverage vehicle cover personal line insurance Wyoming law exempts vehicle cover commercial insurance policy verification requirement Methods allow submission driver vehicle identify information along policy number know date coverage return update information coverage status time specify"
+    },
+    {
+        "progweb_cat": "Government,Localization",
+        "api_name": "Cityworks",
+        "id": 10671,
+        "progweb_descr": " service provide platform manage schedule municipal service provide city local government It include cloudbased function schedule service call public maintenance similar public service activity along internal function city county department Implementations focus information GIS format integrate service exist map geographic information system function API method support creation service request work order base call generate application Separately license API module allow flexible integration meet specific local need A metric API support report service activity work complete"
+    },
+    {
+        "progweb_cat": "Government,Localization",
+        "api_name": "Mackinac Center for Public Policy Votes",
+        "id": 11613,
+        "progweb_descr": " Mackinac Center Public Policy Michigan nonprofit nonpartisan public educational institution whose intent expand debate regard need government intervention daily life Through site API citizen empower allow opportunity active part democratic process well provide resource hold elect representative accountable Provided Mackinac Center Public Policy Votes free public service API inform Michigan citizen ongoing new legislation community API utilize GET request VoteResult VoteType Bills Category ChamberSession Interaction API require browser ability send receive SOAP message After successful registration user may begin use APIs function"
+    },
+    {
+        "progweb_cat": "Government,Localization",
+        "api_name": "OpenGovernment",
+        "id": 13468,
+        "progweb_descr": " OpenGovernment nonpartisan project Participatory Politics Foundation Sunlight Foundation OpenGovernment model OpenCongress another project team bring government transparency state local level aim OpenGovernment make government data information easily accessible usable OpenGovernment provide RESTful API return response JSON JSONP Data available basic legislature session people committee committee membership bill vote"
+    },
+    {
+        "progweb_cat": "Government,Tools",
+        "api_name": "Go.USA.gov",
+        "id": 10704,
+        "progweb_descr": " GoUSAgov service allow government employee create short gov URLs official government domain GoUSAgov API allow developer automate process include URL generation destination preview data collection"
+    },
+    {
+        "progweb_cat": "Government,Energy",
+        "api_name": "U.S. Energy Information Administration",
+        "id": 10705,
+        "progweb_descr": " US Energy Information Administration provide developer access data goal encouraging creation valueadded service private nonprofit public sector API use RESTful architecture return JSON format data"
+    },
+    {
+        "progweb_cat": "Government,Energy",
+        "api_name": "U.K National Grid Energy Flow",
+        "id": 11572,
+        "progweb_descr": " service provide updated timestamped report electricity natural gas usage across service area United Kingdom northeastern United States It update usage data every 12 minute generate report energy demand provider environmental performance API method support retrieval energy flow data along timestamp recent update Data provide compressed format"
+    },
+    {
+        "progweb_cat": "Government,Energy",
+        "api_name": "Open Energy Information",
+        "id": 12244,
+        "progweb_descr": " Open Energy Information OpenEI knowledge share online community aim provide user late worldwide information data energy resource OpenEI offer wide range information include detail renewable energy incentive access energy data much API provide realtime access data include information surround electric utility rate incentives renewables efficiency associate specific location API use RESTFUL call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Energy",
+        "api_name": "California ISO",
+        "id": 12804,
+        "progweb_descr": " service give access operate data Californias electrical power grid Available data include current experienced electrical demand project forecast demand available power generate capacity relate operate parameter Separate service provide data power availability review outage report submission outage report schedule maintenance downtime API method support retrieval availability information generator affiliate California ISO grid individual generator Methods also handle retrieval outage report currently file submission new outage report API also handle request schedule downtime plan maintenance"
+    },
+    {
+        "progweb_cat": "Government,Advertising",
+        "api_name": "ProPublica Free the Files",
+        "id": 10867,
+        "progweb_descr": " With ProPublica Free Files API get political TV spending data review verified reader FCC filing 33 swing market ProPublica independent nonprofit newsgroup aim produce investigative journalism public interest Free Files ProPublica project detail political campaign ad filing track outside interest group ad spending Free Files API provide RESTful interface variety GET call allow free developer access project data"
+    },
+    {
+        "progweb_cat": "Government,French",
+        "api_name": "Voxe",
+        "id": 11045,
+        "progweb_descr": " Voxe build online tool aim contextualize compare debate political platform Voxe focus content political candidateâ€™s proposal actual feature make possible Voxe API provide RESTful interface developer access integrate Voxe data"
+    },
+    {
+        "progweb_cat": "Government,French",
+        "api_name": "City of Rennes",
+        "id": 13388,
+        "progweb_descr": " Rennes mÃ©tropole en acces libre City Rennes open access web portal datasets city Rennes capitol city Brittany France Categories include budget data housing transport website provide several data view option Datasets available via RESTful API return response XML JSON format"
+    },
+    {
+        "progweb_cat": "Government,French",
+        "api_name": "Nos DonnÃ©es (Our Data)",
+        "id": 13522,
+        "progweb_descr": " NosDonnÃ©esfr Our Data open government data public encouraging citizen find reuse public data Available datasets include geographic data health export import energy statistic election result tax rate map amenity NosDonnÃ©esfr run CKAN platform make data available via CKAN RESTful API"
+    },
+    {
+        "progweb_cat": "Government,Compliance",
+        "api_name": "MKDenial Dpl",
+        "id": 11077,
+        "progweb_descr": " service provide subscriber access provider Denial List service highlight company location prohibit receive export certain technology provider US government restrict individual company provide good service buyer country either specific buyer buyer restrict country denial list also apply product category export license requirement nuclear technology API method support generation denial list restrict buyer specific product either good service locate particular country API return either summary comprehensive denial listing"
+    },
+    {
+        "progweb_cat": "Government,News Services",
+        "api_name": "Washington Post White House Visitors",
+        "id": 11299,
+        "progweb_descr": " Washington Post White House Visitors API store White House visit since January 2009 Currently Post 22 million log visit add quarterly Washington Post White House Visitors API express RESTful API call response format JSON"
+    },
+    {
+        "progweb_cat": "Government,News Services",
+        "api_name": "Voter Guide Toolkit",
+        "id": 13490,
+        "progweb_descr": " service help candidate issue campaign develop online voter guide readonly access content via API Once develop guide information integrate application HTML widget display candidate profile separately voter guide Methods return return basic descriptive information voter guide name candidate issue profile specific race referendum Search method return match within voter guide specific query"
+    },
+    {
+        "progweb_cat": "Government,News Services",
+        "api_name": "New York Times Districts",
+        "id": 15208,
+        "progweb_descr": " Retrieve political district neighborhood base pair coordinate Retrieve city council community district state assembly state senate US house give point Also return neighborhood borough Currently API cover New York City"
+    },
+    {
+        "progweb_cat": "Government,News Services",
+        "api_name": "New York Times NY State Legislature",
+        "id": 15320,
+        "progweb_descr": " With NY State Legislature API get lists New York State Senate Assembly member well member detail committee information Vote data add later release"
+    },
+    {
+        "progweb_cat": "Government,eCommerce",
+        "api_name": "7-Eleven Election",
+        "id": 11303,
+        "progweb_descr": " 7Election 7Eleven Presidential poll 7Eleven customer vote favorite candidate choose either blue coffee cup Obama red coffee cup Romney result coffee cup sale open 7Eleven Election API premade widget Developers access integrate data application create new application Documentation come registration"
+    },
+    {
+        "progweb_cat": "Government,eCommerce",
+        "api_name": "RestFul Web Services UNSPSC",
+        "id": 11521,
+        "progweb_descr": " UNSPSC acronym United Nations Standard Products Services Code cod system classify product service use throughout global eCommerce marketplace RestFul Web Services UNSPSC API allow user look code use either REST SOAP call"
+    },
+    {
+        "progweb_cat": "Government,Addresses",
+        "api_name": "DC Location Verifier",
+        "id": 11398,
+        "progweb_descr": " DC Location Verifier service locate residence street intersection block person etc within DC area often use AID Address ID SSL Square Suffix Lot DC Location Verifier also use verify address retrieve information specific park meter street light These service provide District Columbia access programmatically use SOAP API"
+    },
+    {
+        "progweb_cat": "Government,Addresses",
+        "api_name": "AIMS Address",
+        "id": 11506,
+        "progweb_descr": " Automated Information Mapping System AIMS provide Johnson County Kansas It use individual government organization business look GIS solution AIMS offer service include map production custom enterpriselevel application development data development Address Web Service allow developer search validate geocode Johnson County master address database If user find address also lookup tax property ID tax unit Methods include give user valid city zip code street type street direction unit designators street name use county API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Government,Email",
+        "api_name": "RegistryCompliance Scrub",
+        "id": 11420,
+        "progweb_descr": " RegistryCompliance help user abide various state registry law Several US States childrens protection registry collection email address instant messenger IDs protect adultoriented content RegistryCompliance Scrub API allow user clean email IM messenger list prevent message send address include registry An API Key require use data SSL encrypt"
+    },
+    {
+        "progweb_cat": "Government,Games",
+        "api_name": "Democracy Game",
+        "id": 11423,
+        "progweb_descr": " Democracy GameDemocratiespel Dutch Parliament simulator user vote propose bill political issue Voting earns user point allow eventually propose bill potentially take seat 150 seat parliament bill approve Democracy Game API use REST call allow user view issue check user profile vote issue check issue category see current vote status Most API content require authentication thirdparty development use API must use OAuth"
+    },
+    {
+        "progweb_cat": "Government,Identity",
+        "api_name": "SSA CBSV",
+        "id": 11505,
+        "progweb_descr": " US Social Security Administration SSA delivers social security service nationwide network 1400 office SSA offer Consent Based Social Security Number Verification Service CBSV way verify whether SSN holder name Social Security Number SSN combination match SSAs record CBSV use company offer banking mortgage service credit check process background check CBSV API use alternative online application Users access functionality CBSV processing retreive result real time API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Government,VoIP",
+        "api_name": "FCC Form 499 Filer Database",
+        "id": 11511,
+        "progweb_descr": " service provide access record US Federal Communications Commission FCC organization register provide interstate telecommunication service include common carrier provider voiceoverIP VoIP service These provider must file FCCs Form 499 Telecommunications Reporting Worksheet FCC Form 499A detail operation Filers must regularly update registration information API method support interaction Universal Service Administrative Company USAC manage file process FCC create new registration update exist one Methods allow description filing organization include location area service type service provide related information"
+    },
+    {
+        "progweb_cat": "Government,Sales",
+        "api_name": "The Finder Sales Tax",
+        "id": 11573,
+        "progweb_descr": " service Ohio Department Taxation provide applicable sale tax amount apply purchase subject tax accord state law It generate relevant tax percentage accord either zip code exact address specify application make service call API method support submission correctly format address within Ohio US Postal Service ZIP code along price subject tax purchase data Returned data include amount sale tax payable state government specify sale"
+    },
+    {
+        "progweb_cat": "Government,Catalogs",
+        "api_name": "DataWeave",
+        "id": 11586,
+        "progweb_descr": " DataWeave provide actionable public data application analytics aggregate parse organize visualize million data point Web This data offer user uniform format via set data APIs This set APIs include data commodity price UN population statistic eCommerce price earthquake India trade data world weather APIs use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Government,Dashboards",
+        "api_name": "Federal Infrastructure Projects",
+        "id": 12044,
+        "progweb_descr": " Federal Infrastructures Project Dashboard governmentproject transparency app It allow interested party view development ongoing high priority project across America Users view project diversity category Green Infrastructure Transmission Transportation A suite APIs expose data access functionality allow developer grab information project permit action sector much They RESTful APIs return XML JSON response"
+    },
+    {
+        "progweb_cat": "Government,Canadian",
+        "api_name": "Open North Represent",
+        "id": 12193,
+        "progweb_descr": " Open North service allow user enter Canadian address postal code find elect representative Open North Represent API provide RESTbased access wealth information Canadian elect official electoral district It include Members Parliament member provincial legislature municipal elect official 39 Canadian population"
+    },
+    {
+        "progweb_cat": "Government,Canadian",
+        "api_name": "City of Edmonton Open Data Catalogue",
+        "id": 13386,
+        "progweb_descr": " City Edmonton Open Data Catalogue provide open access datasets City Edmonton Alberta Canada Search browse datasets categories include city administration education event public work transit City Edmonton Open Data Catalogue use Socrata Open Data API use REST return responses variety format include JSON XML RDF"
+    },
+    {
+        "progweb_cat": "Government,Canadian",
+        "api_name": "City of Nanaimo",
+        "id": 13387,
+        "progweb_descr": " City Nanaimo website portal city government Information service resident business visitor available website well access municipal hall city government department In addition data catalogue available include datasets information topic bid opportunity business license job posting park public notice A RESTful API allow public access datasets return response JSON JSONP KML"
+    },
+    {
+        "progweb_cat": "Government,Canadian",
+        "api_name": "Toronto Budget Data",
+        "id": 13584,
+        "progweb_descr": " Canadian development design company Uproot conjunction City Toronto develop RESTbased API access retrieve Torontos budget data Using web service anyone take advantage method expose functionality query database contain Torontos operational capital budget data Users slice dice data please operational data query department expenditurerevenue type capital budget data look holistically one 44 ward Toronto Additionally Toronto Wards KML Overlay Google Maps incorporate application mashups This API return data XML JSON available use freely mean"
+    },
+    {
+        "progweb_cat": "Government,Canadian",
+        "api_name": "Datadotgc.ca",
+        "id": 13624,
+        "progweb_descr": " Datadotgc nongovernment website aim liberate Canadian government data Current datasets include environmental data park protect area energy use statistic weather nutrition park transportation real estate datadotgc run CKAN Comprehensive Knowledge Archive Network datasets accessible RESTful CKAN API"
+    },
+    {
+        "progweb_cat": "Government,Voting",
+        "api_name": "Open Dems Polling Place",
+        "id": 12525,
+        "progweb_descr": " Polling Place API allow developer create application look near polling place base individual street address zip code It offer Democratsorg OpenDems project Opening Party innovation share technology idea"
+    },
+    {
+        "progweb_cat": "Government,Voting",
+        "api_name": "openparliament.ca",
+        "id": 13385,
+        "progweb_descr": " openparliamentca independent nongovernmental website aim make Canadian government easily accessible site provide information discusseddebated House Commons recent bill vote news Parliament A RESTful API available access Hansards House Responses return JSON XML format"
+    },
+    {
+        "progweb_cat": "Government,Registration",
+        "api_name": "Open Dems Voter Registration",
+        "id": 12526,
+        "progweb_descr": " Voter Registration API allow developer create application easy streamline voter registration without worry vary state law need follow voter Users API must also sign Raise Your Vote partner It offer Democratsorg OpenDems project Opening Party innovation share technology idea"
+    },
+    {
+        "progweb_cat": "Government,Housing",
+        "api_name": "HUD iMAX",
+        "id": 13086,
+        "progweb_descr": " US Department Housing Urban Developments Integrated Multifamily Access eXchange HUD iMAX webbased system exchange tenant voucher information HUD iMAX provide CAs Owners Management Agents Service Bureaus way transmit tenant data voucher data file HUD party register iMAX This service use XML data format SOAP call"
+    },
+    {
+        "progweb_cat": "Government,Drugs",
+        "api_name": "DEA Number",
+        "id": 13308,
+        "progweb_descr": " subscription service provide searchbased access official database maintain US Drug Enforcement Agency certify Controlled Substances Act handle controlled substance Hospitals medical facility lookup DEA number verify appropriate access fulfill doctor prescription API method support submission provider information retrieval valid DEA number information registrant include location license validity expiration date"
+    },
+    {
+        "progweb_cat": "Government,Weather",
+        "api_name": "data.gov.sg",
+        "id": 13425,
+        "progweb_descr": " Government Singapore offer online data catalogue datagovsg data dozen government agency A number APIs available include APIs map wireless hotspot family service perform art center monument waste disposal sit park hotel tourist attraction etc traffic incident image road condition park availability etc tourism event place hotel etc environment weather condition vehicle appliance pollution datasets etc library data feed eBook catalogue library program location new item search catalogue search etc APIs RESTful JavaScript ESRI"
+    },
+    {
+        "progweb_cat": "Government,German",
+        "api_name": "Berlin Open Data",
+        "id": 13478,
+        "progweb_descr": " Berlinde online portal city Berlin Germany site offer information news government art entertainment tourism economy traffic weather Berlin Open Data datenberlinde data portal record Berlin public administration Available record include labor market education geography urban planning sport recreation election economy A single RESTful API available access data Responses format XML JSON CSV KML"
+    },
+    {
+        "progweb_cat": "Government,German",
+        "api_name": "API.LEIPZIG",
+        "id": 13517,
+        "progweb_descr": " APILEIPZIG part Leipzig Agenda 21 improve life current future citizen Leipzig Germany culture civil involvement government APILEIPZIG API open Leipzig city government data public APILEIPZIG RESTful data source still development add regularly new data suggestion encourage"
+    },
+    {
+        "progweb_cat": "Government,German",
+        "api_name": "deutschland",
+        "id": 13523,
+        "progweb_descr": " Deutschland API let users access information elect official This information include candidate mandate internet link social profile Methods include politician petition people spatial data committee API use RESTful call response format XML JSON JSONP CSV Key Values"
+    },
+    {
+        "progweb_cat": "Government,German",
+        "api_name": "OffeneDaten",
+        "id": 13619,
+        "progweb_descr": " OffeneDaten open government data portal Germany Powered CKAN Comprehensive Knowledge Archive Network Data group include Data Catalog Federal Ministry Education Research GENESIS database Federal Statistical Office Data Catalog Berlin Data Catalog Bremen MOGDy Munich OffeneDaten datasets include election waste disposal employment air quality GDP education public budget CKAN API provide access data API RESTful return response JSON JSONP"
+    },
+    {
+        "progweb_cat": "Government,International",
+        "api_name": "UN Contrade",
+        "id": 13487,
+        "progweb_descr": " United Nations Statistical Data Metadata Exchange offer repository data international trade devote encouraging information share trade among UN member country business organization worldwide initiative aim improve efficiency process exchange information track commerce support financial decisionmaking Data set available depend access right may include Comtrade data summarize international transaction country industry classification year Also available data tariff total international trade Data also retrieve directly SQL Server database"
+    },
+    {
+        "progweb_cat": "Government,International",
+        "api_name": "USITC EDIS",
+        "id": 13540,
+        "progweb_descr": " web service US International Trade Commission provide access document hold commission relation investigation export import cross US border service also support online submission customer documentation information retrieve help track review custom activity API method return list investigation information specific investigation metadata submit document"
+    },
+    {
+        "progweb_cat": "Government,Austrian",
+        "api_name": "Open Data Catalogue Austria",
+        "id": 13520,
+        "progweb_descr": " Kataloge Offene Daten Oesterreich Open Data Catalogue Austria online portal Austrian government public administration libraries science research data goal site make public information easily accessible usable site run CKAN Open Data Source Hub software data accessible CKAN API restful return response XML JSON"
+    },
+    {
+        "progweb_cat": "Government,Russian",
+        "api_name": "DataGov.ru",
+        "id": 13625,
+        "progweb_descr": " DataGovru catalog open government data publish governmental nongovernmental agency Russian Federation Datasets include bank safety survey health regulatory document transportation stock market education DataGovru run CKAN Comprehensive Knowledge Archive Network data accessible RESTful CKAN API"
+    },
+    {
+        "progweb_cat": "Government,Products",
+        "api_name": "US Consumer Product Safety Commission Recalls",
+        "id": 14187,
+        "progweb_descr": " US Consumer Product Safety Commission CPSC provide information safety consumer product date back 1973 CPSC offer recall service access API API provide data XML format Data available include recall number company product type description"
+    },
+    {
+        "progweb_cat": "Government,Authentication",
+        "api_name": "Aadhaar UIDAI Authentication",
+        "id": 14344,
+        "progweb_descr": " UIDAIs mandate issue every resident unique identification number link resident demographic biometric information use identify anywhere India access host benefit service UIDAI propose provide online authentication use demographic biometric data API provide authentication service resident make request government agency service It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Government,Video",
+        "api_name": "Granicus Open Platform",
+        "id": 14389,
+        "progweb_descr": " Granicus supply govern agency software hardware integrate stream medium communication tool set Granicus Open Platform API enable developer connect exist IT infrastructure integrate enterprise system Granicus share data across system Granicus Open Platform API use add update extract delete information MediaManager MeetingServer Developers use API duplicate many function user may able complete webbased version MediaManager API often use integration partner pass public meeting information agenda content MediaManager Event record use broadcast record meeting"
+    },
+    {
+        "progweb_cat": "Government,Office",
+        "api_name": "Granicus Training Management Suite",
+        "id": 14390,
+        "progweb_descr": " Granicus supply govern agency software hardware integrate stream medium communication tool set Training Management Suite specifically design government help organization build schedule track training staff citizens Training Management Suite API enable organization integrate product suite Learning Management Systems business system API use REST SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Government,Extraction",
+        "api_name": "Poligraft",
+        "id": 14999,
+        "progweb_descr": " Feed news article blog post press release Poligraft present enhance view interconnection people organization relationship describe piece"
+    },
+    {
+        "progweb_cat": "Government,Blogging",
+        "api_name": "Goslyudi.ru",
+        "id": 15069,
+        "progweb_descr": " Goslyudiru API provide several web method access rating russian government blogger Project GosLyudi create promotion standardization blogging participate online social project public people government official governor mayor official deputy head stateowned company expert analyst state egovernment API use RESTful archtiecture response format either JSON CSV Site documentation Russian"
+    },
+    {
+        "progweb_cat": "Government,Zip Codes",
+        "api_name": "Who is my Representative",
+        "id": 15872,
+        "progweb_descr": " From site A simple tool simple task Here look representation US government Simply enter zip code zip4 well result information representation Congress return"
+    }
+]
