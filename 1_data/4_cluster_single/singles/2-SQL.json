@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "SQL,Analytics",
+        "api_name": "Periscope Embed",
+        "id": 4660,
+        "progweb_descr": " Periscope Embed API allow developer programmatically create customize graph make SQL data Periscope connect directly user SQL database let run save share analyse billion data row second It automatically keep chart dashboard uptodate user wont need run query repeatedly"
+    },
+    {
+        "progweb_cat": "SQL,Data",
+        "api_name": "Apache Spark",
+        "id": 6320,
+        "progweb_descr": " Apache Spark fast cluster compute system tool enable developer quickly write program Python Java Scala access unify process engine order process large amount data Spark support interactive query SQL machine learn graph computation handle Spark API Sponsored Apache Software Foundation Spark support offer user mail list schedule Spark meetups San Francisco Bay Area allow contribution developer within Apache Spark community"
+    }
+]

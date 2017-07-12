@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "Nutrition,Food",
+        "api_name": "FoodCare",
+        "id": 601,
+        "progweb_descr": " When consumer ailment usually go doctor Many time doctor recommend dietary change order preserve health FoodCare offer personalize nutrition user comfort mobile phone Unlike apps FoodCare use community base approach individual restaurants school senior community hospital benefit specialized information register dietician nutrition educator This developer ample opportunity create apps FoodCare API To get start developer need apply key Various feature API documentation site include cuisine type health condition dish restaurant complete application development"
+    },
+    {
+        "progweb_cat": "Nutrition,Fitness",
+        "api_name": "FatSecret Platform",
+        "id": 1225,
+        "progweb_descr": " FatSecret Platform API 1 verify food nutrition database world utilize 10000 developer 50 country Integrate high quality curated food nutrition data mobile apps website device complementary product service"
+    },
+    {
+        "progweb_cat": "Nutrition,Compliance",
+        "api_name": "Alacalc",
+        "id": 1481,
+        "progweb_descr": " Alacalc API allow developer create full nutritional costing breakdown recipe base ingredient application website Alacalc also use create accurate food label Since everything store online user access recipes information anywhere time This service Food Standards compliant USDA compliant"
+    },
+    {
+        "progweb_cat": "Nutrition,Analytics",
+        "api_name": "Nutritics",
+        "id": 2009,
+        "progweb_descr": " Nutritics provider cloudhosted nutrition software solution suit use different sphere include commerce academic research company ’ Nutritics API support extraction manipulation nutrition foodrelated data official national database country around world It operate multilingual gateway portal countryspecific nutrition dietetics data API useful develop analytical addons application recipe diet meal plan addition customize access academic research collaboration resource"
+    },
+    {
+        "progweb_cat": "Nutrition,Analytics",
+        "api_name": "Edamam Nutrition Analysis",
+        "id": 5769,
+        "progweb_descr": " Edamams Nutrition Analysis API provide developer tool submit recipe content title ingredient list return get nutritional analysis base original information provide With API field recipe also analyze type recipes nutrient information label definition"
+    },
+    {
+        "progweb_cat": "Nutrition,Dieting",
+        "api_name": "The Nutritionix Track",
+        "id": 3054,
+        "progweb_descr": " This REST API power Nutritionix Track mobile app It combine v11 Nutritionix Branded Foods API create nutrition log experience health fitness apps"
+    },
+    {
+        "progweb_cat": "Nutrition,Dieting",
+        "api_name": "midíadía",
+        "id": 6579,
+        "progweb_descr": " midíadía API provide access nutritional data thousand package product allow developer create website apps quantify display relationship product recipe information data could use develop application help manage special dietary restriction allergy intolerance well optimize nutrition API well document Apiarycom use HTTP request accept JSON protocol Developers interest consume midíadía API need API secret key authorization obtain sign midíadía service"
+    },
+    {
+        "progweb_cat": "Nutrition,Health",
+        "api_name": "PricePlow",
+        "id": 7192,
+        "progweb_descr": " PricePlow service provide price comparison nutritional product PricePlow offer feature stay current price nutritional product supplement like price drop alert PricePlow API allow developer access integrate functionality data PricePlow application Some example API method include retrieve information product retrieve price product manage inventory"
+    }
+]

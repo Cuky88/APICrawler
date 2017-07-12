@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "NoSQL,Database",
+        "api_name": "Aerospike",
+        "id": 2730,
+        "progweb_descr": " Aerospike API integrate NoSQL databases web service It accessible Java CSharp C Go NodeJS Perl Python Ruby Erlang languages Connectors include Hadoop plugins session Aerospike include geospatial geographic replication feature along scalable open source property"
+    },
+    {
+        "progweb_cat": "NoSQL,Cloud",
+        "api_name": "ShepHertz App42 Cloud NoSQL Storage",
+        "id": 5722,
+        "progweb_descr": " ShepHertz App42 Cloud NoSQL Storage API allow developer create database app cloud store app data JSON ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "NoSQL,Big Data",
+        "api_name": "Couchbase",
+        "id": 6762,
+        "progweb_descr": " Couchbase use NoSQL technology aim relate today megatrends big user big data internet thing cloud compute At first NoSQL pioneer Google Facebook Amazon LinkedIn interact current web apps Couchbase offer 10 APIs Clusters Sever Nodes Rack Awareness Buckets Views Design document XDCR Compaction Logs All REST format benefit Couchbase could include scale program measure performance augment speed new application"
+    }
+]

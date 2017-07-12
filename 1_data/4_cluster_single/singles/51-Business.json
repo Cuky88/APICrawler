@@ -1,0 +1,308 @@
+[
+    {
+        "progweb_cat": "Business,Contacts",
+        "api_name": "HubSpot Companies",
+        "id": 658,
+        "progweb_descr": " HubSpot Companies API allow developer integrate Hubspot marketing software application enable user access company information relation contact This API use Contacts API HubSpot inbound market software platform provide company way attract visitor convert lead close customer"
+    },
+    {
+        "progweb_cat": "Business,Contacts",
+        "api_name": "Hermes by EaseIT.cz",
+        "id": 1862,
+        "progweb_descr": " Hermes API access portal business profile 35 million company register Czech Republic It limit free access company search name require 10 monthly subscription full database access API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Business,Contacts",
+        "api_name": "HubSpot Company Properties",
+        "id": 2387,
+        "progweb_descr": " HubSpot Company Properties API allow developer create update delete get property company It also use create update delete get group company property HubSpot provide stack product include customer relationship management marketing sale service"
+    },
+    {
+        "progweb_cat": "Business,Contacts",
+        "api_name": "Clearbit Person",
+        "id": 6736,
+        "progweb_descr": " Clearbit offer solution developer construct business intelligence APIs Using Clearbit Person API user lookup employee information use contact email return available data person This information include applicable social profile Twitter Facebook handle avatar URLs basic information name location biography All call response Clearbit REST API do JSON format secure SSL connection Clearbit also offer service company lookup OFAC verification geolocation API able take 600 call per minute Webhooks offer call require processing time Clearbit also offer Ruby Nodejs binding API"
+    },
+    {
+        "progweb_cat": "Business,eCommerce",
+        "api_name": "SAP Anywhere",
+        "id": 711,
+        "progweb_descr": " SAP Anywhere provide APIs Application Programming Interface integrate SAP Anywhere thirdparty application With APIs extract data SAP Anywhere JSON format develop new application integrate exist business application SAP Anywhere APIs build top OAuth 20 protocol follow REST principle All request APIs easily perform curl command line tool Postman Google Chrome app"
+    },
+    {
+        "progweb_cat": "Business,Automation",
+        "api_name": "KiSSFLOW",
+        "id": 1403,
+        "progweb_descr": " KiSSFLOW API intend offer developer platform application workflow management goal API enable user automate unify business workflow Google well track analyze workflow process KiSSFLOW aim allow user implement BPM practice office"
+    },
+    {
+        "progweb_cat": "Business,Automation",
+        "api_name": "Ontraport",
+        "id": 3101,
+        "progweb_descr": " Ontraport API integrate customizes business data application aim automate customer information flow It available REST architecture XML JSON format accessible Api Key Ontraport marketing business platform entrepreneur"
+    },
+    {
+        "progweb_cat": "Business,Management",
+        "api_name": "Camunda",
+        "id": 1567,
+        "progweb_descr": " Camunda API provide business process engine use build application related business analysis workflow user management administrator Developers model BPMN 20 CMMN 11 DMN 11 API support optional HTTP Basic Auth authentication JSON responses Camunda business process management BPM firm base Berlin"
+    },
+    {
+        "progweb_cat": "Business,Auto",
+        "api_name": "Unofficial TecDoc",
+        "id": 1602,
+        "progweb_descr": " This unofficial API allow developer interface TecDoc database search detail like Tecdoc KTypeId Make model Engine Size Fuel type TecDoc German supplier vehicle part data manage one comprehensive databases commercially available vehicle part"
+    },
+    {
+        "progweb_cat": "Business,Activity Streams",
+        "api_name": "WorkflowGen GraphQL",
+        "id": 1822,
+        "progweb_descr": " Workflow engine BPM operation operate via GraphQL API retrieve request action data status launch new request update request data complete assign workflow action manage delegation"
+    },
+    {
+        "progweb_cat": "Business,Analytics",
+        "api_name": "Pitchbook",
+        "id": 1978,
+        "progweb_descr": " Pitchbook REST API allow developer access integrate functionality Pitchbook application Public documentation available API access come account service Pitchbook business intelligence platform VC MA PE professional"
+    },
+    {
+        "progweb_cat": "Business,Analytics",
+        "api_name": "Omniata Content",
+        "id": 4339,
+        "progweb_descr": " Omniata customer data platform design marketer business data scientist Its feature include data source unification data model customization analytics market automation Omniata Content API use modify marketing content This API REST base support JSON content require API Keys authentication"
+    },
+    {
+        "progweb_cat": "Business,Analytics",
+        "api_name": "Omniata User State",
+        "id": 4340,
+        "progweb_descr": " Omniata customer data platform design marketer business data scientist Its feature include data source unification data model customization analytics market automation Omniata User State API use modify user information Information edit directly inject event stream edit This API REST base support JSON content require API Keys authentication"
+    },
+    {
+        "progweb_cat": "Business,Analytics",
+        "api_name": "Omniata Channel",
+        "id": 4341,
+        "progweb_descr": " Omniata customer data platform design marketer business data scientist Its feature include data source unification data model customization analytics market automation Omniata Channel API allow schedule specific content group user This API REST base support JSON content require API Keys authentication"
+    },
+    {
+        "progweb_cat": "Business,Analytics",
+        "api_name": "Omniata Event",
+        "id": 4342,
+        "progweb_descr": " Omniata customer data platform design marketer business data scientist Its feature include data source unification data model customization analytics market automation Omniata Event API use engage user track user acquisition This API REST base support JSON content require API Keys authentication"
+    },
+    {
+        "progweb_cat": "Business,Metadata",
+        "api_name": "Tokenly Music",
+        "id": 2228,
+        "progweb_descr": " This API allow register login user retrieve album song listing retrieve song download information authorize user Tokenly give acces Tokens digital representation exchange trading card song movie game loyalty point membership"
+    },
+    {
+        "progweb_cat": "Business,Accounting",
+        "api_name": "nip24.pl",
+        "id": 2409,
+        "progweb_descr": " nip24pl API NIP REGON KRS offer corporate information business Poland This data provide Central Statistical Office database GUS REGON Available information include company status invoice format data company detail contact detail This information available XML format API Keys require authentication Update Now nip24 API support VIES VAT number validation service httpeceuropaeutaxationcustomsviestechnicalInformationhtml Features 1 Automatyczne pobieranie danych formularza zamówienia oraz wystawienia faktury 2 Błyskawiczna aktualizacja danych dzięki połączeniu online z systemami referencyjnymi brak captcha 3 Integracja z głównymi platformami ecommerce WooCommerce PrestaShop itp 4 Dedykowane biblioteki dla środowisk developerskich PHP Net C Python oraz Java 5 Walidacja podatników VAT EU z systemu VIES 6 Możliwość sprawdzenia kontrahenta daty rozpoczęcia zawieszenia zakończenia działalności 7 Pobieranie danych po podaniu numeru NIP lub REGON lub KRS 8 Automatyczna akutalizacja danych kontaktowych 9 NEW Sprawdzanie podmiotu w rejestrze VAT"
+    },
+    {
+        "progweb_cat": "Business,Accounting",
+        "api_name": "easySYS",
+        "id": 6363,
+        "progweb_descr": " easySYS provide software service small business help manage customer supplier appointment warehouse order invoice account task easySYS entirely webbased offer free support update easySYS API allow user integrate easySYSs function application use REST call Although API documentation provide English much rest site provided German"
+    },
+    {
+        "progweb_cat": "Business,Cloud",
+        "api_name": "Oracle Service Cloud Knowledge Advanced",
+        "id": 2632,
+        "progweb_descr": " Oracle Service Cloud Knowledge Advanced API provide numerous functionality access develop knowledge resource API facilitate addition modification interaction cloudbased knowledge resource It allow user search make recommendation article addition access user information external apps This API allow developer customize Oracle Service Cloud application integrate thirdparty application Developers also use integrate Oracle ’ suit application include Siebel EBusiness Suite API send HTTPformatted request return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Business,Applications",
+        "api_name": "Orange Business Apps France",
+        "id": 2717,
+        "progweb_descr": " Orange Business Apps France API provide tool develop business application interact partner provide state art customer experience It help provide product order enhance overall customer experience Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Business,Bitcoin",
+        "api_name": "Tokenly BVAM Provider",
+        "id": 2731,
+        "progweb_descr": " This API add validates temporary BVAM document provide mechanism define detail information Counterparty asset Blockchain Validated Asset Metadata BVAM method allow Counterparty Token metadata store offblockchain yet still verifiable inalterable It allow buy sell trade rent tokens traditional currency digital currency tokens Tokenly give acces Tokens digital representation exchange trading card song movie game loyalty point membership"
+    },
+    {
+        "progweb_cat": "Business,Background",
+        "api_name": "Clearbit Webhooks",
+        "id": 2746,
+        "progweb_descr": " Clearbit Webhooks allow developer access Clearbit APIs Reveal webhooks connects service time response Developers link endpoint Clearbit APIs webhooks webhook IDs account setting Clearbit offer solution developer construct business intelligence APIs"
+    },
+    {
+        "progweb_cat": "Business,Background",
+        "api_name": "Clearbit Streaming",
+        "id": 2747,
+        "progweb_descr": " Clearbit Streaming REST API allow developer access integrate functionality Clearbit application stream rather webhooks stream API use retrieve various information people company data point Clearbit offer solution developer construct business intelligence APIs"
+    },
+    {
+        "progweb_cat": "Business,Background",
+        "api_name": "Clearbit Reveal",
+        "id": 3182,
+        "progweb_descr": " Clearbit Reveal API integrate retrieval company IP address information It aim useful analytics customize land page deanonymize traffic website Developers send HTTP request receive JSON response return interface available REST architecture SSL standard method"
+    },
+    {
+        "progweb_cat": "Business,Background",
+        "api_name": "Clearbit Prospector",
+        "id": 3183,
+        "progweb_descr": " Clearbit Prospector API integrate contact email fetch feature associate company employment role seniority job title Access REST interface Key send receive JSON response use SSL standard"
+    },
+    {
+        "progweb_cat": "Business,Background",
+        "api_name": "Clearbit Discovery",
+        "id": 3184,
+        "progweb_descr": " Clearbit Discovery API integrate company search customized criterion fund type technology similarity Developers access REST API Key send receive JSON response SSL standard"
+    },
+    {
+        "progweb_cat": "Business,Advertising",
+        "api_name": "Metamarkets",
+        "id": 3070,
+        "progweb_descr": " Metamarkets San Francisco base provider interactive analytics programmatic marketing Businesses take advantage service obtain information medium marketplace operate Metamarkets API offer realtime business data This API use JSON format request response"
+    },
+    {
+        "progweb_cat": "Business,Advertising",
+        "api_name": "KickFire",
+        "id": 4764,
+        "progweb_descr": " Kickfire API provide user business intelligence wide range application content personalization adtargeting form enhancement application CRMs Developers utilize KickFire service make RESTful call API KickFire provide sale automation data mining service business"
+    },
+    {
+        "progweb_cat": "Business,Advertising",
+        "api_name": "Owler",
+        "id": 5637,
+        "progweb_descr": " Owler REST API allow developer access integrate functionality Owler applications Some example API method include retrieve company information retrieve competitor information retrieve feed Owler business intelligence platform allow user company find information company competitor"
+    },
+    {
+        "progweb_cat": "Business,Addresses",
+        "api_name": "Clearbit Enrichment",
+        "id": 3185,
+        "progweb_descr": " Clearbit Enrichment API integrate person lookup feature include name location social handle It available REST architecture JSON format SSL standard"
+    },
+    {
+        "progweb_cat": "Business,Engagement",
+        "api_name": "Backstitch",
+        "id": 3556,
+        "progweb_descr": " Backstitch API intend allow developer build access backstitch topic page leverage Backstitch content curation engine apps Use API bulk build topic add source filter manage userspecific stream curated content"
+    },
+    {
+        "progweb_cat": "Business,Intelligence",
+        "api_name": "Vendasta",
+        "id": 3871,
+        "progweb_descr": " Vendasta API integrate sale market feature business application As platform protocols available JSON HTTP authentication require via Key Vendasta intelligent sale platform vendor target small medium size business"
+    },
+    {
+        "progweb_cat": "Business,Intelligence",
+        "api_name": "Clearbit Company Autocomplete",
+        "id": 4671,
+        "progweb_descr": " Clearbit Company Autocomplete API allow developer integrate API service application allow take partial company name return full company names domains logos API REST base return data JSON format Clearbit provider Business Intelligence APIs"
+    },
+    {
+        "progweb_cat": "Business,Intelligence",
+        "api_name": "ProcessMaker RESTful",
+        "id": 6744,
+        "progweb_descr": " ProcessMaker provide open source workflow software BPM Software Workflow simplify Programmers code less business analyst organization run well RESTful API ProcessMaker platform allow developer full control function designer runtime engine well ability embed ProcessMaker type system product"
+    },
+    {
+        "progweb_cat": "Business,Data",
+        "api_name": "Worldbox",
+        "id": 3885,
+        "progweb_descr": " Worldbox provide report company around world Information company credit report company profile management report legal status available Worldbox API use integrate company index information retrieval service This REST API use JSON data exchange API Keys API Secret authentication"
+    },
+    {
+        "progweb_cat": "Business,Data",
+        "api_name": "Better Business Bureau",
+        "id": 3978,
+        "progweb_descr": " Better Business Bureau API integrate business review feature application Available JSON protocol token interface allow search organization retrieve bulk data send push notification Users able apply BBB accreditation"
+    },
+    {
+        "progweb_cat": "Business,Internet of Things",
+        "api_name": "xMatters",
+        "id": 3921,
+        "progweb_descr": " xMatters API provide method access device device type device names group group calendar people shift site programmatically xMatters company offer business communication service It provide users intelligent twoway communication business continuity proactive communication streamline business operation internet thing infrastructure"
+    },
+    {
+        "progweb_cat": "Business,Collaboration",
+        "api_name": "Hoshinplan",
+        "id": 3964,
+        "progweb_descr": " Hoshinplan business management system monitor collaboration feature This system offer proactive alert send performance history chart health report Hoshinplan REST API use interact Hoshinplan share track business strategy This API exchange information JSON XML format"
+    },
+    {
+        "progweb_cat": "Business,Big Data",
+        "api_name": "stomt",
+        "id": 4459,
+        "progweb_descr": " stomt feedback platform business orient application It use build extension widget stomt API REST base return data JSON format Also use Tokens authentication stomt develop software tool let customer influence company use feedback validation system"
+    },
+    {
+        "progweb_cat": "Business,Big Data",
+        "api_name": "Sisense",
+        "id": 4849,
+        "progweb_descr": " Sisense provide big data business analytics service Sisense API allow integration Sisense server function include user management widget manipulation Use API implement widget service automate process implement UI Sisense Available REST JSON format accessible token"
+    },
+    {
+        "progweb_cat": "Business,Human Resources",
+        "api_name": "allProView",
+        "id": 4726,
+        "progweb_descr": " allProView API RESTful API provide tool Portfolio Project Program Management It also tool search user manage time sheet human resource resource assignment allProView software product company provide project focus organization accessible reliable Enterprise Portfolio Management EPM platform"
+    },
+    {
+        "progweb_cat": "Business,Payments",
+        "api_name": "MercadoPago",
+        "id": 5048,
+        "progweb_descr": " MercadoPago API allow developer exchange information Mercados platform Mercado Pago online payment company process payment business globally"
+    },
+    {
+        "progweb_cat": "Business,Logistics",
+        "api_name": "Dropoff",
+        "id": 5346,
+        "progweb_descr": " Dropoff REST API allow developer access integrate functionality Dropoff application Public documentation available API access come account service Dropoff sameday delivery service business deliver good variety merchant"
+    },
+    {
+        "progweb_cat": "Business,Images",
+        "api_name": "Clearbit Logo",
+        "id": 5359,
+        "progweb_descr": " Clearbit Logo REST API allow developer access integrate functionality Clearbit application main API method retrieve company logo Clearbit offer solution developer construct business intelligence APIs"
+    },
+    {
+        "progweb_cat": "Business,Identity",
+        "api_name": "Orange User Details",
+        "id": 5682,
+        "progweb_descr": " Orange User Details API let developer facilitate secure customer digital life This API REST base Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Business,Feeds",
+        "api_name": "FT Headline",
+        "id": 6469,
+        "progweb_descr": " Financial Times business intelligence service extract vital information critical business news FT Headline API enable developer create newsfeed relevant real time business news integration 3rd party website application These headline port exist CRM newsletter information portal"
+    },
+    {
+        "progweb_cat": "Business,Customer Relationship Management",
+        "api_name": "Odoo",
+        "id": 6526,
+        "progweb_descr": " Odoo platform 3000 free open source business apps company use build web presence integrate sale CRM system account internal business management marketing recruit employee productivity much Odoo platform integrate external application well Using Odoo API 3rd party application use specialized software interact Odoo apps transfer data JSONRPC XMLRPC protocols use OpenERP framework These trait make Odoo good companion eCommerce SaaS provider"
+    },
+    {
+        "progweb_cat": "Business,Data Mining",
+        "api_name": "Clearbit Company",
+        "id": 6737,
+        "progweb_descr": " Clearbit offer solution developer construct business intelligence APIs Using Clearbit Company API user lookup company information URLs retrieve public data company name amount funding acquire companys market sector number employee All call response Clearbit REST API do JSON format secure SSL connection Clearbit also offer service email lookup OFAC verification geolocation API able take 600 call per minute Webhooks offer call require processing time Clearbit also offer Ruby Nodejs binding API"
+    },
+    {
+        "progweb_cat": "Business,Design",
+        "api_name": "SiteKreator",
+        "id": 14693,
+        "progweb_descr": " SiteKreator web application design maintain host customerready web sit It offer fully customizable design templates image gallery ECommerce feature email marketing tool SEO online form community building tool SiteKreator API enable resellers licensee manage account use simple RESTful interface HTTP GETPOST request You open close update suspend account login others"
+    },
+    {
+        "progweb_cat": "Business,Dashboards",
+        "api_name": "StatsMix",
+        "id": 14758,
+        "progweb_descr": " StatsMix make easy track chart share application business metric custom dashboard API expose main functionality StatsMix service include stats metric resource profile resource come soon An API key require use obtain free developer account API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Business,Forms",
+        "api_name": "FormSite",
+        "id": 15014,
+        "progweb_descr": " FormSitecom site allow user build online html form web survey There 100 prebuilt form user customize site also provide functionality email analyze share download survey data RESTful API allow user interact form result Currently responses format XML JSON CSV may add base user demand"
+    }
+]

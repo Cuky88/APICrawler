@@ -1,0 +1,212 @@
+[
+    {
+        "progweb_cat": "Authentication,3D",
+        "api_name": "Autodesk Forge OAuth",
+        "id": 387,
+        "progweb_descr": " Autodesk Forge OAuth API return Token include subsequent Forge API call OAuth 2 JSON data format must use order successfully obtain Token Autodesk California base design business firm provide industry lead software AutoCAD Maya Fusion 360"
+    },
+    {
+        "progweb_cat": "Authentication,Cloud",
+        "api_name": "OneLogin WAM",
+        "id": 1687,
+        "progweb_descr": " OneLogin Web Access Management WAM APIs enable extend capability authentication access control session management agent It also enable integrate process business application OneLogin Identity Access Management IAM provider enterprise cloud legacy hybrid IT environment"
+    },
+    {
+        "progweb_cat": "Authentication,Cloud",
+        "api_name": "Virgil Security",
+        "id": 4577,
+        "progweb_descr": " Virgil Security cloud base encryption authentication platform It use easily add security layer exist application It feature rest transfer encryption identity verification When use within enterprise platform integrated business process protect internal external threat Cloud application secure paswordless authentication end end encryption device secure key"
+    },
+    {
+        "progweb_cat": "Authentication,England",
+        "api_name": "Bulletin Mobile Two-Factor Authentication",
+        "id": 1923,
+        "progweb_descr": " Bulletin ’ TwoFactor Authentication enable organization add another authentication factor application It provide customer request access application single pin number send user ’ mobile phone via SMS"
+    },
+    {
+        "progweb_cat": "Authentication,Content Management",
+        "api_name": "Stormpath Client",
+        "id": 1950,
+        "progweb_descr": " Stormpath Client API provide tools authentication authorization user management frontend mobile developer With endpoint developer incorporate task application retrieve current user account information trigger email verification workflow send verification email revoke user ’ OAuth tokens It basic user registration authentication without need admin key Stormpath Client API complement Stormpath REST API provide access point service Stormpath cloud service allow developer register user authenticate store information without implement encryption user database"
+    },
+    {
+        "progweb_cat": "Authentication,Accessibility",
+        "api_name": "Orange Mobile Connect Spain",
+        "id": 2515,
+        "progweb_descr": " Orange Mobile Connect Spain API give user tool connect Orange customer quickly authenticate user This do securely without need user name password Along benefit Customers Authentication API Mobile Connect help management signin consent user Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Authentication,Accessibility",
+        "api_name": "Orange Mobile Connect Spain-Limited",
+        "id": 2522,
+        "progweb_descr": " Orange Mobile Connect SpainLimited API base Mobile Connect standard provide developer tool Orange authentication use service It offer full power security Orange authentication Users get experience sign without login password user authentication identity service base OpenID ConnectOAuth2 standard Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Authentication,Authorization",
+        "api_name": "Orange Check ID Spain",
+        "id": 2517,
+        "progweb_descr": " With Orange Check ID Spain API customer access extra security identity doublechecked prior transaction validation Users benefit reduce fraud reduce cost faster transaction Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Authentication,Authorization",
+        "api_name": "Orange Network Info Spain",
+        "id": 2521,
+        "progweb_descr": " Orange Network Info Spain API give developer tool help business protect identity theft fraud By crosschecking user device information network detail API help reduce fraud speed transaction improve confidence security Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Authentication,Authorization",
+        "api_name": "Orange Check ID France",
+        "id": 3873,
+        "progweb_descr": " By use Orange Check ID API customer access extra security identity doublechecked prior transaction validation Users benefit reduce fraud reduce cost faster transaction Available HTTP JSON REST protocols OAuth2 Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Authentication,Authorization",
+        "api_name": "PingOne Directory",
+        "id": 5262,
+        "progweb_descr": " PingOne Directory REST API allow developer access integrate functionality PingIdentitys PingOne Directory application Public documentation available API access come account service PingOne Directory PingIdentity provide service allow developer store user account authentication information within application"
+    },
+    {
+        "progweb_cat": "Authentication,Authorization",
+        "api_name": "Seldon OAuth",
+        "id": 5486,
+        "progweb_descr": " Seldon OAuth API allow developer securely interact platform item user action order generate recommendation Seldons predictive platform us structure historical data generate recommendation different kind item eg music movie article It produce recommendation use variety algorithms create report contain assortment statistic"
+    },
+    {
+        "progweb_cat": "Authentication,Authorization",
+        "api_name": "Unloq",
+        "id": 5735,
+        "progweb_descr": " Unloq REST API allow developer access integrate functionality Unloq applications Some example API method include manage authentication authorization manage user account account information Unloq authentication authorization management platform application"
+    },
+    {
+        "progweb_cat": "Authentication,Authorization",
+        "api_name": "DigiCert Retail",
+        "id": 6905,
+        "progweb_descr": " DigiCert service grant SSL certificate host SSL management tool web authentication encryption digital trust Using RESTful DigiCert Retail API developer make headerbased URL call order SSL code sign wifi certificate Developers may implement API retrieve certificate edit detail exist one Their encryption service support 256bit 128bit AES HTTPS encryption SHA2 available Certificates 2048Bit DigiCert offer 247 phone email support customer"
+    },
+    {
+        "progweb_cat": "Authentication,Authorization",
+        "api_name": "AuthPilot",
+        "id": 7292,
+        "progweb_descr": " Protect site AuthPilot API twostep authentication help user access website use phone number This extra step valuable add security blog websites sensitive information Users could worry free hacker ’ attack since authorization ensures person enter site user AuthPilot feature RESTful official API PHP API In RESTful API site feature endpoints create user update user text user call user Packagist Github two source developer find additional documentation prefer use PHP API"
+    },
+    {
+        "progweb_cat": "Authentication,API Management",
+        "api_name": "TipsGO Member",
+        "id": 2790,
+        "progweb_descr": " TipsGo Member API allow work information know user Members Smart Wealth Tips SWT Platform A Member know user use service go registration process order become member platform Each Member typically identify system email address Within SWT Framework Platform service provide Member Service Provider Every Member unique association relationship Service Provider This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    },
+    {
+        "progweb_cat": "Authentication,Identity",
+        "api_name": "GrantedBy.Me",
+        "id": 2869,
+        "progweb_descr": " GrantedByMe offer additional layer security feature fingerprint scan face recognition gesture This platform replace traditional usernamepassword authentication third party network service GrantedBeMe feature AES256 sign HMAC SHA256 encryption enforce SSLTLS communication RSA public encryption GrantedByMe startup base Budapest Hungary"
+    },
+    {
+        "progweb_cat": "Authentication,Identity",
+        "api_name": "Confirm",
+        "id": 3543,
+        "progweb_descr": " Confirm authentication platform allow developer integrate government issue IDs verification functionality application This allow business certify client identity transaction benefit proof identity Confirm feature image optimizer forensic authentication advance pattern analysis ID data extraction Data transmit SSL AES 256 encryption standard"
+    },
+    {
+        "progweb_cat": "Authentication,Identity",
+        "api_name": "Orange Authentication France",
+        "id": 3868,
+        "progweb_descr": " With Orange Authentication France API developer benefit new innovative way authenticate user Automatically recognize Orange mobile Network ’ remember another password benefit utmost security API available HTTP JSON REST format OAuth2 authentication Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Authentication,Identity",
+        "api_name": "IdentiFlo Identity Verification",
+        "id": 7536,
+        "progweb_descr": " EVSs API incorporate identity verification fraud prevention solution user custom development project Features include agescreening agerestricted product point enrollment POE identity verification new account creation integration custom point sale POS system"
+    },
+    {
+        "progweb_cat": "Authentication,Security",
+        "api_name": "W3C Web Authentication",
+        "id": 3007,
+        "progweb_descr": " W3C Web Authentication API specification defines API create use strong attested cryptographic scoped credential authenticate user web application Credentials create stored authenticator user agent mediate access scoped credential Authenticators ensure operation perform application without consent user"
+    },
+    {
+        "progweb_cat": "Authentication,Security",
+        "api_name": "TextKey",
+        "id": 6660,
+        "progweb_descr": " TextKey omnifactor authentication API use sevenfactors authentication provide security device range mobile electronic door lock TextKey work use SMS service unique code cellular number UDID single use URL optional pin TextKey use Rest JSON response SOAP TextKey free ten user available monthly charge per user thereafter"
+    },
+    {
+        "progweb_cat": "Authentication,Mobile",
+        "api_name": "AimBrain",
+        "id": 3226,
+        "progweb_descr": " AimBrain API allow developer programmatically access biometric modality make AimBrains authentication platform These module use singly together depend intend use case Any module may use crosschannel context This API still development break change anticipate"
+    },
+    {
+        "progweb_cat": "Authentication",
+        "api_name": "AT&T Authentication Management",
+        "id": 3283,
+        "progweb_descr": " This API use RESTful ATT APIs authenticate wireless customer private customer relate information Customers authorize thirdparty apps provide detail user name password It require use APIs"
+    },
+    {
+        "progweb_cat": "Authentication",
+        "api_name": "eduroam",
+        "id": 12138,
+        "progweb_descr": " service register uniform resource name URNs European educational institution federation cooperate delivery share internet resource registry intend facilitate single signon function ease interaction local network GÃ‰ANT federation partner institution API method support retrieval registry listing URN description support resource within federation network Returned data become part authentication request fulfill resource share agreement"
+    },
+    {
+        "progweb_cat": "Authentication",
+        "api_name": "PBS Universal User Authentication",
+        "id": 12621,
+        "progweb_descr": " PBS Universal User Authentication UUA API provide developer system allow secure creation management user account withing application Once user account create PBS UUA API expose RESTful method access modify information authenticate user within application Access API grant casebycase basis method access modify user information work example new platform device support standardscompliant user service"
+    },
+    {
+        "progweb_cat": "Authentication",
+        "api_name": "Push Open Door",
+        "id": 12916,
+        "progweb_descr": " Push Entertainment provide platform let developer integrate variety feature user profile reward point user incentive registration login privacy management web sit Push Open Door API allow programmatic access much data functionality provide Push Platform via SOAP protocol functionality expose API include thing user login include Facebook connect Google login site specific login export user data report analytics various method track engage user behavior Push platform available tiered pricing option require account service access"
+    },
+    {
+        "progweb_cat": "Authentication,Browsers",
+        "api_name": "Chrome Credential Management",
+        "id": 3615,
+        "progweb_descr": " Chrome Credential Management API browserbased API design help end user authenticate developer website APIs function get credential store credential mediate user signin This enable websites let user sign one click remember account user sign sign user back session expires"
+    },
+    {
+        "progweb_cat": "Authentication,Passwords",
+        "api_name": "2Factor",
+        "id": 5168,
+        "progweb_descr": " 2Factorin API aim provide APIs implement 2Factor Authentication Phone verification 1 API Call API utilizes compliance security scalable platform"
+    },
+    {
+        "progweb_cat": "Authentication,Applications",
+        "api_name": "Clef",
+        "id": 5254,
+        "progweb_descr": " Clef API allow developer integrate Clefs twofactor authentication service application This authentication service use password token Instead end user simply hold smartphone front computer screen authenticate Clef also use Apples Touch ID technology identify user fingerprint If user device doesnt support Touch ID PIN substitute there always second authentication factor"
+    },
+    {
+        "progweb_cat": "Authentication,Open Source",
+        "api_name": "Jenkins Authentication Token",
+        "id": 5594,
+        "progweb_descr": " This plugin provide API convert credential authentication tokens Jenkins Jenkins Java base opensource continuous integration server plugin maintain Stephen Connolly currently version 11"
+    },
+    {
+        "progweb_cat": "Authentication,Application Development",
+        "api_name": "GitHub User Public Keys",
+        "id": 5939,
+        "progweb_descr": " GitHub User Public Keys API allow developer list public key user list public key well get create update delete public key Some information accessible anyone information available authenticate user This API use twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Authentication,Education",
+        "api_name": "Clever Identity",
+        "id": 6188,
+        "progweb_descr": " Clever Identity API allow developer access integrate Clevers authentication functionality application main API method authenticate user different authentication option OAuth 20 Clever login authentication platform school education platforms student login various application platform"
+    },
+    {
+        "progweb_cat": "Authentication,Accounts",
+        "api_name": "Id.net",
+        "id": 6596,
+        "progweb_descr": " Idnet allow user log website retain single login throughout experience Idnet host API programmatic integration website application Idnet also offer support JavaScript Actionscript Unity3D language specific SDKs interface Using Idnet API developer implement feature login registration save high score game store retrieve userspecific data"
+    },
+    {
+        "progweb_cat": "Authentication,Authentication",
+        "api_name": "BrowserID",
+        "id": 13733,
+        "progweb_descr": " BrowserID service allow easy sign website On website support BrowserID user click sign button enter prefer email sign without password BrowserID API allow developer integrate BrowserID website API method add BrowserID functionality websites identify user verify user identity"
+    }
+]

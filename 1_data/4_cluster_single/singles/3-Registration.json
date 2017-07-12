@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Registration,API Management",
+        "api_name": "TipsGO Register",
+        "id": 2766,
+        "progweb_descr": " TipsGO Register API register controller allow register new member create temporary member within Smart Wealth Tips SWT Platform This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    },
+    {
+        "progweb_cat": "Registration,Domains",
+        "api_name": "Verisign DomainView",
+        "id": 10833,
+        "progweb_descr": " Verisign DomainView web app visual tool show trend word within recently register com net domain name DomainView API allow developer integrate DomainView data website application"
+    },
+    {
+        "progweb_cat": "Registration",
+        "api_name": "NameCheap",
+        "id": 15380,
+        "progweb_descr": " NameCheap API arena developer wish build web desktop apps integrate NameCheap account It allow user access account data NameCheapcom offer feature like domain check registration renewal within application NameCheap platform offer domain name registration service developer"
+    }
+]

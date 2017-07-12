@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Climate,Energy",
+        "api_name": "Tomorrow CO2 Signal",
+        "id": 1882,
+        "progweb_descr": " Tomorrow organization promotes efficient use energy resource Tomorrow CO2 Signal API provide carbon footprint detection mechanism make possible smart device consume electricity carbon footprint lowest It provide access information source production procedure electricity supply well quantity carbon attributable production API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Climate,Education",
+        "api_name": "UC Berkeley CoolClimate",
+        "id": 5434,
+        "progweb_descr": " With CoolClimate API initiative create University California Berkeley developer create project calculate carbon footprint measurement assist individual management climate impact Available limit preview user access set parameter Excel document They also visit CoolClimate Calculator homepage available httpcoolclimateberkeleyeducarboncalculator"
+    },
+    {
+        "progweb_cat": "Climate,Data",
+        "api_name": "World Bank Climate Data",
+        "id": 6841,
+        "progweb_descr": " World Bank profile climate data site Climate Change World Portal organization also offer API developer interested access info upload website With API user create application feature information real time This could valuable report always recent API access climate information Some resource include REST basic request form variable support time precipitation temperature historical data statistic API Key require Developers use data support application long fulfill requirement state World Bank ’ term use"
+    }
+]

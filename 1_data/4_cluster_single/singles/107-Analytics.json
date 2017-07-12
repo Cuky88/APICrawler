@@ -1,0 +1,644 @@
+[
+    {
+        "progweb_cat": "Analytics,Social",
+        "api_name": "Klout",
+        "id": 131,
+        "progweb_descr": " Klout allow track impact opinion link recommendation across social graph include Twitter Facebook Google Plus network Klout collect data content create people interact content size composition network From analyze data find indicator influence provide innovative tool interact interpret data Klout API search identity return score 1 100 represent Klouts calculation user influence"
+    },
+    {
+        "progweb_cat": "Analytics,Social",
+        "api_name": "Seen",
+        "id": 7216,
+        "progweb_descr": " Seen hashtag analytics provider Seen provide information social medium hashtags retrieve social medium content hashtag user search Seen API allow developer access integrate functionality Seen application Some example API method include retrieve event hashtag manage event create event"
+    },
+    {
+        "progweb_cat": "Analytics,Social",
+        "api_name": "SharedCount",
+        "id": 9717,
+        "progweb_descr": " SharedCount tool provide social URL analytics Users simply enter URL track share like tweet variety common social service SharedCount API provide developer access SharedCount statistic simple HTTP call use JSON format JSONP callback support"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Google Analytics Managment",
+        "id": 278,
+        "progweb_descr": " Use Google Analytics Management API leverage Googles extensive website analytics tool API use GET request HTTPS JSON requestsreturns Some function available API List Account Property View Profile information user manage property goal manage user permission upload cost data Google Analytics nonGoogle pay campaign See extensive documentation code sample detail method description"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "New Relic",
+        "id": 825,
+        "progweb_descr": " New Relic provide web application monitor management service help developer troubleshoot tune production web apps New Relic API provide access data store within service well deployment notification"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Heap Analytics Custom Identify",
+        "id": 3029,
+        "progweb_descr": " This Javascript API manage custom event user allow tie mobile web session together single user identity Tag user email address payment plan total revenue age anything else need measure Heap capture user interaction track event automatically extra code need include click taps gesture form submission page view Heaps web iOS library work Google Analytics thirdparty service"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Inspectlet",
+        "id": 3577,
+        "progweb_descr": " Inspectlet service analyze user Heatmaps screen capture record actual visitor session Then search retrieve session recording online use JSONbased API inspectlet modify complex search name country tag IP browser device"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "GoSquared Trends",
+        "id": 6220,
+        "progweb_descr": " GoSquared Trends API provide developer historical analytics information give period sit history GoSquared realtime people analytics company provide customer information visitor website"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Google Analytics Provisioning",
+        "id": 7302,
+        "progweb_descr": " Google Analytics Provisioning API let qualified service provider allow user automatically create enable new Google Analytics account API intend integrate Google Management API programmatically configure account Google Adwords API optimize scalable ad campaign API walk end user Google account creation term agreement verification provision Google Analytics account service provider access via application"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Ranks.nl Page Analyzer",
+        "id": 8399,
+        "progweb_descr": " Ranksnl develop webmaster tool beginner experience professional Basic usage tool free subscriber access tool less restriction Ranksnlâ€™s feature tool Page Analyzer show web pageâ€™s keyword density prominence header page element outgo link Google Pagerank Page Analyzer API allow subscriber programmatically retrieve many toolâ€™s data type"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "OOcharts",
+        "id": 9509,
+        "progweb_descr": " OOcharts service allow developer retrieve Google Analytics data simple way service queue request would normally exceed Google Analytics API limit ensure data deliver fast reliably Use OOcharts API fetch data give Google Analytics profile Authentication via API key API Keys give access one Google Profiles Data return JSON JSONP format"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "PressTrends",
+        "id": 10557,
+        "progweb_descr": " PressTrends provide analytics illuminates trend developer designer content creator within WordPress beyond PressTrends API allow developer integrate PressTrends web mobile apps Available service include access WordPress theme data plugin data This RESTful API return JSON XML format response"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Bing Webmaster Tools",
+        "id": 12617,
+        "progweb_descr": " Bing Webmaster Tools API provide variety tool analysis data capture help web developer leverage data gather Bing programmatic fashion API give webmaster structure access data gather various Bing Webmaster Tools allow data use program application"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Parse.ly",
+        "id": 13243,
+        "progweb_descr": " Parsely provide specialized type analytics aim content publisher service extract term post let view traffic engagement new way Parsely start 499 per month level access come advanced API access"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Church Analytics",
+        "id": 13942,
+        "progweb_descr": " Church Analytics realtime web traffic analytics service Customers also customize analytics certain segment criterion They also provide Twitter analytics Church Analytics API allow developer get traffic analytics data variety format data retrieve numerous way segment time parameter chronological order"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Clickmap",
+        "id": 13958,
+        "progweb_descr": " Clickmap usability analytics service API allow user retrieve manipulate collect data report Functionality include ability read edit change profile data API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Woopra",
+        "id": 14881,
+        "progweb_descr": " Woopra realtime internet analysis service provide live traffic data give website Woopra API RESTful API allow developer read write data Woopra server Currently Analytics data port include API"
+    },
+    {
+        "progweb_cat": "Analytics",
+        "api_name": "Nuconomy",
+        "id": 15748,
+        "progweb_descr": " Use NuConomy API get website analytics ad impression number comment rating posting add friend medium uploads visitor geography video play time Use API define activity measure In addition standard metric number unique visitor pageviews NuConomy business provide analytics social feature eg Ajax Flash etc metric want measure"
+    },
+    {
+        "progweb_cat": "Analytics,Big Data",
+        "api_name": "Chartie",
+        "id": 381,
+        "progweb_descr": " Chartie free web API mine relevant trend pattern signal Thanks technololgy Charties output identifies relevant trend input data Chartie employ commonly use concept Rise Fall represent intuitive idea signal increment decrement Balanced armonious combination rise fall A constant signal extreme example case Rise fall word enrich adjective slight moderate strong strong To use Chartie API send data get output Example Request URL httpapichartieiokeyMyKeymodebasic Body 3080 3840 7060 7550 6550 Response msg OK msgNo 0 strength strong trend rise txt Overall behavior strong rise In first part large moderate fall observe"
+    },
+    {
+        "progweb_cat": "Analytics,Big Data",
+        "api_name": "Ambari",
+        "id": 2797,
+        "progweb_descr": " Ambari API userfriendly Hadoop management portal integrate developer ’ application It use provide manage monitor Apache Hadoop cluster installation cluster When use Apache Ambari platform provision involves installation configuration Hadoop service management involve manipulation Hadoop service across cluster As monitoring system administrator use platform ’ dashboard track performance cluster addition gather metric set system alert"
+    },
+    {
+        "progweb_cat": "Analytics,Big Data",
+        "api_name": "Mattermark",
+        "id": 6246,
+        "progweb_descr": " Mattermark API allow developer access integrate functionality data Mattermark Public documentation available interested developer contact Mattermark API access come enterprise account service Mattermark market research sale prospect platform Mattermark offer data research databases market business enterprise"
+    },
+    {
+        "progweb_cat": "Analytics,Big Data",
+        "api_name": "Tru Optik Tru",
+        "id": 7133,
+        "progweb_descr": " This basic access free API develop Tru Optik realtime predictive audience intelligence company specialize peertopeer analysis Using True Optik enterprises harness realtime historical peertopeer IP activity multicategory digital medium consumption enable developer personalize content give demographic data This RESTful API come rich number endpoint make user segmentation data privacy issue"
+    },
+    {
+        "progweb_cat": "Analytics,Big Data",
+        "api_name": "Soshio",
+        "id": 7228,
+        "progweb_descr": " Developers integrate Soshio Chinese Social Media Intelligence API customer relationship management 3rd party application social interaction create intelligent monitoring system It allow content creator ability integrate Chinese language seamlessly post social interaction implementation within popular CRM system This API great consumer good financial service marketing agency nonprofit organization want use big data identify track customer popular Chinese social network"
+    },
+    {
+        "progweb_cat": "Analytics,Dashboards",
+        "api_name": "Looker",
+        "id": 388,
+        "progweb_descr": " Looker RESTful API integrate data analytics business service via report dashboard It available HTTP request JSON response API Key authenticate SDK interact various parameter"
+    },
+    {
+        "progweb_cat": "Analytics,Dashboards",
+        "api_name": "Google Analytics Embed",
+        "id": 604,
+        "progweb_descr": " Embed API JavaScript library give one ability easily insert Google analytics dashboard 3rd party website Queries Embed API make invoke different component visual reporting display end result simple yet powerful interactive timeline chart integrate authorization display usage factor time API also give access client library contains Google Analytics APIs allow increase complexity"
+    },
+    {
+        "progweb_cat": "Analytics,Dashboards",
+        "api_name": "Pendo",
+        "id": 1795,
+        "progweb_descr": " Pendo API integrate data user behavior dashboard It available JSON format API Keys authentication factor With API developer implement feedback user experience segmentation retroactive analysis Pendo product experience platform enable software producer improve user exprience"
+    },
+    {
+        "progweb_cat": "Analytics,Keywords",
+        "api_name": "Real-time Rank Tracker",
+        "id": 634,
+        "progweb_descr": " Rank Tracker RT first Realtime search engine rank track application available market today Rank Tracker track keywords Google local search provide realtime ranking analysis competitor metric It also allow user create professional report include company branding logo"
+    },
+    {
+        "progweb_cat": "Analytics,Mobile",
+        "api_name": "Mixpanel",
+        "id": 789,
+        "progweb_descr": " Mixpanel web service track user engagement website realtime Mixpanel API allow user post access data Mixpanel analyze This RESTful API response return JSON format"
+    },
+    {
+        "progweb_cat": "Analytics,Mobile",
+        "api_name": "Mixpanel HTTP Tracking",
+        "id": 1977,
+        "progweb_descr": " This Mixpanel HTTP Tracking API It provide way analyze action people take application This include someone uploading picture play video share post return event property Mixpanel provide advanced analytics platform mobile web"
+    },
+    {
+        "progweb_cat": "Analytics,Mobile",
+        "api_name": "keen.io",
+        "id": 12756,
+        "progweb_descr": " Keen IO help app developer build custom analytics data science feature directly mobile apps web dashboard Keen IO provide infrastructure APIs collect data build analytics business"
+    },
+    {
+        "progweb_cat": "Analytics,Statistics",
+        "api_name": "Cownt Us",
+        "id": 1137,
+        "progweb_descr": " From site Cownter service allow website visitor see many people currently look different page within site This API design give website owner programmatic access data"
+    },
+    {
+        "progweb_cat": "Analytics,Statistics",
+        "api_name": "Tiny Stats",
+        "id": 1787,
+        "progweb_descr": " Tiny Stats API offer several web service include email forwarding SMS update web page traffic analysis Requests limit 1000 per hour 100 per minuteThe API free week monthly quarterly yearly plan available Tiny Stats A simple intuitive automate analytics solution"
+    },
+    {
+        "progweb_cat": "Analytics,Marketing",
+        "api_name": "KISSmetrics",
+        "id": 1333,
+        "progweb_descr": " KISSmetrics API enable developer add key metric application quickly easily KISSmetrics analytics solution provide visual representation user customer lifecycle APIs common function include record event take place within product set property person without record event set identity current person use product associate one identity another JavaScript API also extra provision Automatically track identity use variety technology Automatically aliasing user anonymous identity name identity provide Automatically track common web event eg search engine traffic AB Testing A REST API also available API key require use"
+    },
+    {
+        "progweb_cat": "Analytics,Marketing",
+        "api_name": "Agency Analytics",
+        "id": 4191,
+        "progweb_descr": " Agency Analytics marketing platform agency provide report SEO tool social medium web PPC analysis Agency Analytics REST API allow user access market analysis feature JSON output HTTP basic API Key require authenticate"
+    },
+    {
+        "progweb_cat": "Analytics,Engagement",
+        "api_name": "deltaDNA",
+        "id": 1503,
+        "progweb_descr": " deltaDNA API connect game analytics platform perform 2 operation generate unique user IDs obtaining trigger event API respond JSON format deltaDNA analytics platform F2P game social casino gamble feature dashboard tune different game benchmark text cloud analysis user alert direct access raw data user define segmentation data mining capability"
+    },
+    {
+        "progweb_cat": "Analytics,Artificial Intelligence",
+        "api_name": "ParallelDots Intent Analysis",
+        "id": 1855,
+        "progweb_descr": " Analyzing underlying intent associate textual data This classifier tell whether underlie intention behind sentence opinion news marketing complaint suggestion appreciation query This train proprietary dataset"
+    },
+    {
+        "progweb_cat": "Analytics,Data",
+        "api_name": "Chartbeat Live",
+        "id": 2107,
+        "progweb_descr": " This REST API give access data make Chartbeat Live platform This call return Top Pages Summary Referrers Chartbeat help understand audience connect content"
+    },
+    {
+        "progweb_cat": "Analytics,Data",
+        "api_name": "Chartbeat Video Metrics",
+        "id": 2127,
+        "progweb_descr": " This REST API give access data make Chartbeat platform return detail information specific video If video path specify metric reflect top result aggregate videos Chartbeat help understand audience connect content"
+    },
+    {
+        "progweb_cat": "Analytics,Data",
+        "api_name": "Chartbeat Top Video",
+        "id": 2128,
+        "progweb_descr": " This REST API give access data make Chartbeat platform return top video site Chartbeat help understand audience connect content"
+    },
+    {
+        "progweb_cat": "Analytics,Data",
+        "api_name": "Chartbeat Historical",
+        "id": 2129,
+        "progweb_descr": " This REST API give access data make Chartbeat platform It return snapshot engage second period time base set frequency limit interval Chartbeat help understand audience connect content"
+    },
+    {
+        "progweb_cat": "Analytics,Data",
+        "api_name": "TM Forum Service Quality Management",
+        "id": 2320,
+        "progweb_descr": " TM Forum Service Quality Management API enterprise solution access deploy service quality management application Developers use RESTful API build application generate informative metric different source data support dissemination digital service RESTful API send request URI Query StringCRUD JSON format return response JSON format API currently beta release"
+    },
+    {
+        "progweb_cat": "Analytics,Data",
+        "api_name": "Euclid Analytics",
+        "id": 4769,
+        "progweb_descr": " Euclid API allow integrate analytics feature location application Useful marketing project Euclid offer Metrics count visit measure time particular location predict opportunity calculate number transaction Requests response send receive via JSON Developers access API via token"
+    },
+    {
+        "progweb_cat": "Analytics,Data",
+        "api_name": "MOCA",
+        "id": 4829,
+        "progweb_descr": " MOCA API offer variety service access via MOCAs SDKs API use automate beacon fleet management connect CRM data schedule proximity campaign query analytics report MOCA API allow developer access MOCA ’ raw data custom analytics analysis MOCA contextaware platform use big data solution get indepth data analysis user behavior It help company make realtime datadriven decision This private API developer access documentation sign free trial httpsconsolemocaplatformcomsignup"
+    },
+    {
+        "progweb_cat": "Analytics,Data",
+        "api_name": "Deconstructed User",
+        "id": 6553,
+        "progweb_descr": " Deconstructed platform aggregate service user data system connect device use API platform help map user device segment audience base real time comprehensive data profile incorporate identify attribute event data logins Deconstructed User API read write user data source automatically aggregate user data single user profile This data include event identifier time location base data track anonymous unauthenticated user"
+    },
+    {
+        "progweb_cat": "Analytics,Chat",
+        "api_name": "Giosg",
+        "id": 2372,
+        "progweb_descr": " This API provide way access giosgcom It allow send new chat message list user ’ chat list chat message It provide way access Teams Customer Rooms Visitors Chat giosgcom allow use realtime analytics platform sell serve customer context build workflow reach customer across web"
+    },
+    {
+        "progweb_cat": "Analytics,Algorithms",
+        "api_name": "Linkpulse",
+        "id": 2699,
+        "progweb_descr": " Linkpulse REST API JSON format integrate website analytics service It allow dashboard customization algorithm creation 2legged OAuth 10 require authenticate Linkpulse specialize analytics news provider"
+    },
+    {
+        "progweb_cat": "Analytics,Algorithms",
+        "api_name": "Stride.ai TexSIE",
+        "id": 3825,
+        "progweb_descr": " Strideai TexSIE API allow user collect data text find social medium source base sentiment machine learn algorithms API method allow user get sentiment document keywords sentence entity tweet kind text blob API recognize people city organization within text determine whether text positive negative neutral generate short summary text"
+    },
+    {
+        "progweb_cat": "Analytics,Business",
+        "api_name": "Vendasta Brand Analytics",
+        "id": 2881,
+        "progweb_descr": " Vendasta Brand Analytics API available callback HTTP format JSON responses integrate brand analysis application Resources include endpoint parameter hierarchy"
+    },
+    {
+        "progweb_cat": "Analytics,Business",
+        "api_name": "GlimpseDash",
+        "id": 3319,
+        "progweb_descr": " GlimpseDash TV dashboard system create office purpose display motivational data Motivational Dashboard This SaaS offer theme dashboard motivation engagement within team Additionally system work computer mobile device Smart TVs GlimpseDash API respond JSON format"
+    },
+    {
+        "progweb_cat": "Analytics,Business",
+        "api_name": "Zoho Reports",
+        "id": 4453,
+        "progweb_descr": " Zoho Reports RESTful API allow user manage analyze business data Regardless field business user create dashboard spreadsheet synchronize data variety source create visual content facilitate understanding Zoho Reports HTTP web base API offer platform developer synchronize Zoho Reports preexisting platform third party application Language wrapper also provide"
+    },
+    {
+        "progweb_cat": "Analytics,Business",
+        "api_name": "RussianSentimentAnalyzer",
+        "id": 4643,
+        "progweb_descr": " RussianSentimentAnalyzer API language parser integrate exist application It analyse Russian text sentiment polarity exist It support input text long formal news article informal short tweet This API respond JSON format require API key"
+    },
+    {
+        "progweb_cat": "Analytics,Business",
+        "api_name": "Indicative",
+        "id": 6889,
+        "progweb_descr": " Visualize data Indicative service provide main value business analytics Even though API currently Beta stage document available website Github Indicative invite developer contact application creation API data analysis business Developers work large amount ecommerce information could benefit service aim provide smart dashboard segmentation versatile funnel cohort analysis effortless integration web mobile Indicative offer access API key along development best practice REST JSON protocols Developers contact Indicative via email ensure success application development"
+    },
+    {
+        "progweb_cat": "Analytics,Location",
+        "api_name": "Proximi.io REST",
+        "id": 3011,
+        "progweb_descr": " Proximiio unify API mobile position technology allow build locationaware application Access major mobile position technology simple platform use location data trigger action flow chain gain realtime analytics app user movement Manage beacon ’ position venue information define area geofences Geofences use trigger mobile external action collect analytics Mobile action – deliver location base advertisement coupon information change application layout External action – information visitor move indoors outdoors Proximity Platform provide experience apply various field include retail event health tourism construction advertising"
+    },
+    {
+        "progweb_cat": "Analytics,Bluetooth",
+        "api_name": "datasnap.io Event",
+        "id": 3046,
+        "progweb_descr": " datasnapio Event API allow developer send event want analyze datasnapio system apps Such event include beacon sighting beacon entry exit event campaign click etc Datasnap service provide insight base proximitytriggered engagement use careful measurement predictive analytics responsive visualization"
+    },
+    {
+        "progweb_cat": "Analytics,Bluetooth",
+        "api_name": "datasnap.io Analytics",
+        "id": 3048,
+        "progweb_descr": " datasnapio Analytics API allow developer pull data system It set preconfigured method slice filter data especially event return one metric Datasnap service provide insight base proximitytriggered engagement use careful measurement predictive analytics responsive visualization"
+    },
+    {
+        "progweb_cat": "Analytics,Bots",
+        "api_name": "Botlytics",
+        "id": 3071,
+        "progweb_descr": " Botlytics API REST API provide developer tool track message conversation bot send receive It allow count address context track specific query public RAML file use Botlytics API find athttpsapistoplightiov1versionsCjqeiPptrgWZD8as5exportramlyaml"
+    },
+    {
+        "progweb_cat": "Analytics,Accounts",
+        "api_name": "Nordigen",
+        "id": 3085,
+        "progweb_descr": " Nordigen transaction categorization API categorize bank account transaction 200 category It aim useful financial institution bank APIs eg Yodlee Instantor Kontomatik retrieve transaction data client credit score account aggregation PFM personal finance management"
+    },
+    {
+        "progweb_cat": "Analytics,Database",
+        "api_name": "PipelineDB Stride",
+        "id": 3134,
+        "progweb_descr": " Stride API function manage realtime analytics system This allow developer construct network base realtime stream application perform distincts count slidingwindow computation set fire webhooks run massive retroactive batch query Queries create use Stride SQL simplify SQL API exchange information JSON format"
+    },
+    {
+        "progweb_cat": "Analytics,Database",
+        "api_name": "ThinkUp",
+        "id": 6006,
+        "progweb_descr": " ThinkUp open source web application capture user post tweet reply retweets friends follower links social network like Twitter Facebook ThinkUp allow user store social activity database make easy search sort analyze publish display activity network ThinkUp ’ API expose data store give ThinkUp installation use application mashups API provide method retrieve information post reply retweets user mention hashtags It use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Analytics,Sentiment",
+        "api_name": "Microsoft Cognitive Services Text Analysis",
+        "id": 3251,
+        "progweb_descr": " Microsoft Cognitive Services Text Analysis REST API provide structure analysis sentiment analysis unstructured text This API built Azure Machine Learning capability Currently free plan available standard option price base Azure usage Text Analysis API use JSON data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Analytics,Campaigns",
+        "api_name": "shiftmail email analytics",
+        "id": 3537,
+        "progweb_descr": " shiftmail Email Analytics API useful solution capture track view store crucial data associate transmission delivery receipt share email API provide analytical feedback recipient interact send email include detail time receipt duration read recipient ’ geographic location well action print forward email"
+    },
+    {
+        "progweb_cat": "Analytics,Comparisons",
+        "api_name": "Fanpage Karma",
+        "id": 3564,
+        "progweb_descr": " Fanpage Karma API integrate social medium profile analysis application It provide callback interaction JSON REST protocols Developers authenticate token Fanpage Karma service help user compare social medium profile competitor order improve social reach"
+    },
+    {
+        "progweb_cat": "Analytics,Charts",
+        "api_name": "Mode Analytics",
+        "id": 3708,
+        "progweb_descr": " Mode API integrate analytics application create chart report data It available JSON architecture Ruby Python SDKs library provide token share secret authentication Mode Analytics provide SQL editor Python notebook visualization builder data analysis"
+    },
+    {
+        "progweb_cat": "Analytics,Collaboration",
+        "api_name": "Notion",
+        "id": 3720,
+        "progweb_descr": " Notion API enable easy report visualization historical realtime data Notion help team manage understand KPIs metric product team performance"
+    },
+    {
+        "progweb_cat": "Analytics,Applications",
+        "api_name": "Reflect.io",
+        "id": 3751,
+        "progweb_descr": " Reflect API aim offer developer data visualization API allow creation dashboard report view data database without build scale complex data visualization infrastructure library"
+    },
+    {
+        "progweb_cat": "Analytics,Applications",
+        "api_name": "Windows Store Analytics",
+        "id": 4262,
+        "progweb_descr": " Windows Store Analytics API offer data retrieval specific application relate Windows Dev Center account It use obtain data associate inapp product IAP acquisition error app rating review Windows Store Analytics API use Azure Active Directory Azure AD call authentication Developers must user account Azure AD directory associate Windows Dev Center account This API respond JSON format us Tokens authentication"
+    },
+    {
+        "progweb_cat": "Analytics,Applications",
+        "api_name": "adjust KPI Service",
+        "id": 4988,
+        "progweb_descr": " adjust KPI Service API allow developer retrieve statistic mobile application track adjust Adjust business intelligence platform design mobile app marketer It provide information user customer come well advanced analytics app store statistic"
+    },
+    {
+        "progweb_cat": "Analytics,Applications",
+        "api_name": "Flurry EventMetrics",
+        "id": 5801,
+        "progweb_descr": " Flurry EventMetrics API provide ability request event information application Requests make XML JSON format use API access code provide XML JSON response Flurry part Yahoo Developer Network mobile apps analytics platform serve 60000 company 150000 application across iOS Android BlackBerry Windows Phone JavaME HTML5 platform Flurry provide set APIs offer programmatic access data store platform"
+    },
+    {
+        "progweb_cat": "Analytics,Applications",
+        "api_name": "Flurry AppInfo",
+        "id": 5818,
+        "progweb_descr": " Flurry AppInfo API provide ability request specific data nameversion apiKey platform creation date application Requests make XML JSON format use API access code provide XML JSON response Flurry part Yahoo Developer Network mobile apps analytics platform serve 60000 company 150000 application across iOS Android BlackBerry Windows Phone JavaME HTML5 platform Flurry provide set APIs offer programmatic access data store platform"
+    },
+    {
+        "progweb_cat": "Analytics,Applications",
+        "api_name": "Flurry AppMetrics",
+        "id": 12879,
+        "progweb_descr": " Flurry AppMetrics API provide ability request metric data application Requests make XML JSON format use API access code provide XML JSON response Flurry part Yahoo Developer Network mobile apps analytics platform serve 60000 company 150000 application across iOS Android BlackBerry Windows Phone JavaME HTML5 platform Flurry provide set APIs offer programmatic access data store platform"
+    },
+    {
+        "progweb_cat": "Analytics,Content",
+        "api_name": "Nudge Analytics",
+        "id": 3933,
+        "progweb_descr": " Content analytics API provide metric content often distribute inside web application around web Metrics include People Social Shares Impressions Earned Impressions Virality Engagement Scroll Attention Minutes"
+    },
+    {
+        "progweb_cat": "Analytics,Content",
+        "api_name": "MaxMind GeoIP2 Precision Web Services",
+        "id": 6658,
+        "progweb_descr": " MaxMind GeoIP2 Precision Web Services API provide developer ability personalize content target ad right customer analyze customer traffic much This API also allow developer access user location base IP address"
+    },
+    {
+        "progweb_cat": "Analytics,Internet of Things",
+        "api_name": "MoBagel",
+        "id": 4228,
+        "progweb_descr": " MoBagel real time analytics platform design Internet Things device It feature machine learn predictive analytics triple encryption This API use JSON data format API Keys authentication MoBagel offer free test plan 2 price plan different request limit"
+    },
+    {
+        "progweb_cat": "Analytics,Advertising",
+        "api_name": "Appreciation Engine",
+        "id": 4618,
+        "progweb_descr": " Appreciation Engine REST API allow developer access integrate functionality Appreciation Engine application Public documentation available API access come account service Appreciation Engine provide service insight brand company base customer data"
+    },
+    {
+        "progweb_cat": "Analytics,Advertising",
+        "api_name": "Adlegant Article Analysis",
+        "id": 5078,
+        "progweb_descr": " With Adlegant Article Analysis API developer extract article feature title text summary main image keywords entity give URL Available JSON format response API Key authentication Adlegant service dedicate convert article structure data It offer article content extraction text summarization text classification sentiment analysis language detection"
+    },
+    {
+        "progweb_cat": "Analytics,Advertising",
+        "api_name": "Localytics Query",
+        "id": 5309,
+        "progweb_descr": " Localytics Query REST API allow developer access integrate functionality Localytics applications Some example API method include search user retrieve user activity retrieve event information Localytics marketing analytics platform web mobile application Some feature Localytics include engagement analysis segmentation acquisition management"
+    },
+    {
+        "progweb_cat": "Analytics,Advertising",
+        "api_name": "Katana Analytics",
+        "id": 5601,
+        "progweb_descr": " Katana NinjaMetrics social analytics engine measure social value user influence Katana Analytics API allow developer measure value social contribution application game This API also provide developer detailed projection outcomes matter developer offer tool determine effectively feature facilitate engagement social interaction Moreover API documentation give developer access send JSON directly Katana without use integration library"
+    },
+    {
+        "progweb_cat": "Analytics,Advertising",
+        "api_name": "Google Analytics Adwords",
+        "id": 7303,
+        "progweb_descr": " Google Adwords API give developer direct access Adwords Platform API give set tool allow developer access manage complex Google Adwords campaign Use case include add edit remove exist campaign create custom interface CRM integration bulk upload inventorybased ad management Google offer clientside library various language assist interact API"
+    },
+    {
+        "progweb_cat": "Analytics,Games",
+        "api_name": "Infinario",
+        "id": 4683,
+        "progweb_descr": " Infinario API provide analytics platform freemium game integrate exist application It offer feature real time statistic scenario builder Identify player track player event API This REST API respond JSON format request require HTTP basic authentication Infinario company base Slovakia provide tool obtain value game data"
+    },
+    {
+        "progweb_cat": "Analytics,Games",
+        "api_name": "Count.ly",
+        "id": 5119,
+        "progweb_descr": " Countly provide API HTTP format RESTful interface JSON responses interact mobile analytics software Countly mobile application analytics service offer push notification crash report user profile attribution track segmentation API use marketing game internet thing implementation mention option Countly ia available open source SaaS edition Enterprise edition"
+    },
+    {
+        "progweb_cat": "Analytics,Browsers",
+        "api_name": "Udger Cloud Parser",
+        "id": 4909,
+        "progweb_descr": " Udger Cloud Parser data analytics API This API detect connects variety device client SW operate system Udger server realtime data acquisition This RESTful API intend small volume detection operation"
+    },
+    {
+        "progweb_cat": "Analytics,Data-as-a-Service",
+        "api_name": "Domino",
+        "id": 5348,
+        "progweb_descr": " Domino API let developer integrate application Domino service enable user automate analysis report deploy scale infrastructure This API REST base API key require make API request Domino provide business way automate perform analysis"
+    },
+    {
+        "progweb_cat": "Analytics,Data-as-a-Service",
+        "api_name": "Stock Pulse Keyword Analysis",
+        "id": 6081,
+        "progweb_descr": " Stock Pulse Keyword Analysis API enable user explore association count keywords associate tag stock API search large dataset link bookmark count number occurrence keyword A call make view available tag return JSON serialize array arrange popularity word Searching tag apple return commonly associate keywords word stock money iphone mac etc API support Thinktag Example request include httpwwwstockpulsecomspringkeywordsstocks httpwwwstockpulsecomspringkeywordsfinance httpwwwstockpulsecomspringkeywordsinvesting"
+    },
+    {
+        "progweb_cat": "Analytics,Financial",
+        "api_name": "Sentdex",
+        "id": 5384,
+        "progweb_descr": " Sentdex specialize analysis finance politics geographical data company slogan Qualifying Quantitative offering sentiment analysis technology try predict result without guaranty take investment advice API offer financial trading signal raw data stock sentiment analysis database Contact founder Harrisonsentdexcom customize solution"
+    },
+    {
+        "progweb_cat": "Analytics,Financial",
+        "api_name": "Monitr Financial",
+        "id": 5841,
+        "progweb_descr": " Monitr Financial REST API allow developer access integrate functionality Monitr application Developers capture pull analytics market sentiment economic data financial news social medium Public documentation available developer request API key httpwwwmonitrcomdevelopers"
+    },
+    {
+        "progweb_cat": "Analytics,Cloud",
+        "api_name": "ShepHertz App42 Cloud App Analytics",
+        "id": 5687,
+        "progweb_descr": " ShepHertz App42 Cloud App Analytics API allow developer measure number API call analyze storage consume app ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Analytics,Cloud",
+        "api_name": "Gini",
+        "id": 6297,
+        "progweb_descr": " Gini information management company provide users way manage information cloud feature include information extraction storage backend search Gini API let developer integrate service application allow member utilize Ginis service directly application All API request require authenticate Gini user developer authorize use OAuth 20"
+    },
+    {
+        "progweb_cat": "Analytics,Cloud",
+        "api_name": "ArcGIS: Spatial Analysis Service",
+        "id": 7079,
+        "progweb_descr": " ArcGIS REST API Spatial Analysis Service help developer access create share map apps information become member cloudbased collaborative environment With Spatial Analysis service user summarize data find location enrich data analyze pattern use proximity manage data Each category contain license request URL request parameter response result support JSON As developer explore area find example detailed description"
+    },
+    {
+        "progweb_cat": "Analytics,Machine Learning",
+        "api_name": "IBM Watson Concept Expansion",
+        "id": 5772,
+        "progweb_descr": " IBM Concept Expansion API allow user quickly expand enrich concept set improve performance analytics use IBM Watson IBM Concept Expansion use machine learn take know concept set learn reveal similar additional terminology This service ideal use unstructured source text doesnt contain wellformed language email social medium post informal communication"
+    },
+    {
+        "progweb_cat": "Analytics,Machine Learning",
+        "api_name": "IBM Watson Tradeoff Analytics",
+        "id": 6289,
+        "progweb_descr": " IBM Watson Tradeoff Analytics API use visualization recommendation help user explore tradeoff try meet conflict goal Users specify objective preference priority service filter less attractive option leave best candidate choice This way decision maker need consider best option make final decision"
+    },
+    {
+        "progweb_cat": "Analytics,Human Resources",
+        "api_name": "GoSquared Tracking",
+        "id": 6206,
+        "progweb_descr": " GoSquared Tracking API allow developer send data GoSquared platform integrating service application GoSquared realtime people analytics company provide customer information visitor website"
+    },
+    {
+        "progweb_cat": "Analytics,Reporting",
+        "api_name": "SharedCount Bulk",
+        "id": 6397,
+        "progweb_descr": " SharedCount analytic service track analyze URLs SharedCount Bulk API let developer integrate feature application enable user request analytical data multiple URLs time Responses JSON API use API key authentication"
+    },
+    {
+        "progweb_cat": "Analytics,Media",
+        "api_name": "YouTube Analytics",
+        "id": 6623,
+        "progweb_descr": " YouTube Analytics allow retrieve data application relate statistic popularity metric demographic information This API particularly useful channel owner want quantify data YouTube video upload channel Some alternative benefit API include build custom report display YouTube Analytics data automate reporting task integrate YouTube Analytics data business application build mobile application integrate YouTube Analytics data"
+    },
+    {
+        "progweb_cat": "Analytics,Search",
+        "api_name": "Internet Archive Wayback CDX Server",
+        "id": 7356,
+        "progweb_descr": " Wayback Machine Internet Archive digital archive Internet Users see archived version web page Wayback Machine support multiple APIs enable retrieval information data capture Wayback CDX Server API enable complex query filter analysis data capture Wayback"
+    },
+    {
+        "progweb_cat": "Analytics,Models",
+        "api_name": "JSMon",
+        "id": 8995,
+        "progweb_descr": " JSMon website visitor analysis service JSMon analyze track report visit website user behavior JSMon API allow developer access integrate functionality JSMon applications Some example API method include create manage account retrieve user information offering promotion visitor base behavior"
+    },
+    {
+        "progweb_cat": "Analytics,Monitoring",
+        "api_name": "Rollbar",
+        "id": 9658,
+        "progweb_descr": " Rollbar error track service website application build Ruby Phython PHP Nodejs Javascript andor Flash Rollbar provide user realtime error track error report Rollbar API allow developer access integrate functionality Rollbar applications Some example API method include retrieve error retrieve report manage account information"
+    },
+    {
+        "progweb_cat": "Analytics,Monitoring",
+        "api_name": "Papertrail",
+        "id": 14292,
+        "progweb_descr": " Papertrail provide host log management server apps cloud service Papertrail help detect resolve avoid infrastructure problem use log message Papertrail provision search API let developer integrate realtime log access log search apps well control Papertrail account setting API consumer make HTTP request Papertrail search see tail recent syslog app log message Responses format JSON Apps also receive push notification new event use HTTP callback webhooks"
+    },
+    {
+        "progweb_cat": "Analytics,Semantics",
+        "api_name": "Segment.io",
+        "id": 10770,
+        "progweb_descr": " Segmentio provide web analytics focus user segmentation Segmentio API provide RESTful interface two simple method identify user track user event Results return JSON format Segment help thousand company collect leverage customer data"
+    },
+    {
+        "progweb_cat": "Analytics,Web Site Management",
+        "api_name": "GoSquared",
+        "id": 11553,
+        "progweb_descr": " GoSquared provide website real time analytics customizable dashboard GoSquareds RESTful API enable developer build application project top GoSquared platform Some functionality expose include ability aggregrate stats track campaign performance measure user engagement view notification"
+    },
+    {
+        "progweb_cat": "Analytics,Web Site Management",
+        "api_name": "whos.amung.us",
+        "id": 12839,
+        "progweb_descr": " whosamungus provide widget let web site owner know many visitor site real time well pages many past come widget use web site blog social network API allow user embed functionality application desktop web site Facebook elsewhere Additionally API use create live update widget visible widget offer much high user track resolution Full documentation publicly available developer contact provider information"
+    },
+    {
+        "progweb_cat": "Analytics,Web Site Management",
+        "api_name": "IntelligenceFocus",
+        "id": 12840,
+        "progweb_descr": " IntelligenceFocus user analytics service look beyond page view user interact brand online across web site also various medium IntelligenceFocus APIs provide access information store IntelligenceFocus Database Service open standardsbased SOAP Web Services With API developer query database pull push customer relate data create render chart report create custom analytics application Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Analytics,Web Site Management",
+        "api_name": "Infunl Web Analytics",
+        "id": 12846,
+        "progweb_descr": " Infunl web analytics service track service record event browser represent internally sequence unique visitor Collected event immediately available analysis query language API allow query execute programmatically Queries include metric unique visitor visit count page view count event data per visit API use HTTP call response format XML JSON JSONP CSV"
+    },
+    {
+        "progweb_cat": "Analytics,Tools",
+        "api_name": "ClickTale",
+        "id": 12075,
+        "progweb_descr": " ClickTale JavaScriptbased service allow user monitor behavior visitor websites minute detail Heatmaps provide depict mouse movement click attention pay visitor overall activity individual record full site owner see every mouse movement hover click scroll This allow observe firsthand visitor experience error abandon shop cart could find look With information site owner optimize page layout improve visitor experience"
+    },
+    {
+        "progweb_cat": "Analytics,Tools",
+        "api_name": "Trafic.ro",
+        "id": 15539,
+        "progweb_descr": " Traficro lead analytics site Romania provide real time audience data information 45k site API use either SOAP REST protocol return data websites user Responses XML format Authentication require"
+    },
+    {
+        "progweb_cat": "Analytics,Real Time",
+        "api_name": "Mapmyuser",
+        "id": 13049,
+        "progweb_descr": " MapMyUser service provide user web analytics site real time service track current online user activity well number visitor currently live website MapMyUser also show current geolocation online user Google Maps API give developer access analytic data website allow use data within application API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Analytics,Analytics",
+        "api_name": "chartbeat",
+        "id": 15322,
+        "progweb_descr": " chartbeatcom allow full access realtime historical analytics data receives domain We expose data series call return JSON chartbeatcom report traffic uptime search among metric"
+    },
+    {
+        "progweb_cat": "Analytics,Analytics",
+        "api_name": "WebTrends Data Extraction",
+        "id": 15326,
+        "progweb_descr": " WebTrends organization provide digital marketing solution company look expand Web presence social mobile arena well Web Their platform focus leverage analytics data collection empower client make informed decision digital marketing endeavor WebTrends Data Extraction API allow user programmatically retrieve WebTrends Analytics profile report data Furthermore web service expose function creation feed alert note monitor metric profile Finally RESTful API enable developer integrate WebTrends Data Mart system allow custom integration analytics data"
+    }
+]

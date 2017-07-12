@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Colors,Extraction",
+        "api_name": "Image Color Extraction",
+        "id": 5797,
+        "progweb_descr": " Use HTTPJSON API extract color image Image Color Extraction API return color multiple format RGB HEX HSL HSB RGBA Sign Mashape receive API Key app documentation contain code sample work JAVA NODE PHP RUBY"
+    },
+    {
+        "progweb_cat": "Colors,Accessibility",
+        "api_name": "AChecker",
+        "id": 13037,
+        "progweb_descr": " service provide analysis validation accessibility web resource user disability It perform automate review resource specify URL validation report cite accessible element issue potentially resolve It also log resource require evaluation human reviewer help target effort appropriate URLs API method support submission validation request include URL review guideline check resource Returned result provide summary count resource check issue find along detail issue type location error message generate guideline affect"
+    },
+    {
+        "progweb_cat": "Colors,Design",
+        "api_name": "Colorfy It",
+        "id": 13719,
+        "progweb_descr": " Colorfy It web application let user copy paste website URLs box return color CSS color ID information website color analysis Colorfy It API allow user access information functionality Colorfy It Current API method include discover return CSS listing discovery"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "progweb_cat": "Dictionary,History",
+        "api_name": "Oxford English Dictionary",
+        "id": 885,
+        "progweb_descr": " OED bill definitive record English language OED SRU service searchretrieve via URL provide mean automate basic query use standard syntax represent query standard protocol return result API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "RhymeBrain",
+        "id": 1359,
+        "progweb_descr": " RhymeBrain display best rhyme commonly use word search query API allow user include RhymeBraincom rhyme result web site It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "Words",
+        "id": 6118,
+        "progweb_descr": " WordsAPI RESTful API allow user query database definition 150000 word English language API also respond specific detail word include part speech derivative form antonym synonyms morphological wordspecific information JSON return response API communication API require token"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "Glosbe",
+        "id": 9425,
+        "progweb_descr": " Glosbe multilingual online dictionary translation memory translation memory database previously translate sentence phrase Glosbe API offer developer access dictionary translation translation memory API also use add translation Glosbe data XML JSON format response support include JSONP callback"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "Pearson Dictionaries",
+        "id": 9758,
+        "progweb_descr": " new Dictionaries API introduce provide simplified consistent API access content multiple different dictionary enhance ability find use data within dictionary Along new feature Dictionaries API include bestselling title aim nonnative speaker English Language Longman Dictionary Contemporary English Longman Active Study Dictionary Longman EnglishChinese Dictionary 100000 Words New 2nd Edition"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "MacMillan Dictionary",
+        "id": 9759,
+        "progweb_descr": " Macmillan reference work publisher whose primary product include encyclopedias dictionary Macmillan Dictionary API provide developer access Macmillanâ€™s online dictionary expose resource definition pronunciation grammar synonym"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "Collins Dictionary",
+        "id": 9760,
+        "progweb_descr": " Collins publisher dictionary reference work Collins Dictionary API provide developer access feature content collinsdictionarycom Exposed resource include definition synonyms pronunciation translation new word word game Data JSON format"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "Merriam-Webster Dictionary",
+        "id": 11931,
+        "progweb_descr": " MerriamWebster produce language informationâ€ ” include dictionary thesauri translation materialsâ€ ” 150 year MerriamWebster collection APIs provide developer access variety companyâ€™s prominent reference work Free access provide noncommercial website application Free access limit two reference work maximum 1000 query day per reference work Full access available commercial use"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "Acromine",
+        "id": 12855,
+        "progweb_descr": " service provide access dictionary abbreviation match longform term create automatic text mining whole MEDLINE abstract collection August 2009 text mining complete automated analysis natural language document detect document relationship pattern would difficult impossible human reader detect API allow lookup compilation 68000 acronym 450000 full term API method support submission either abbreviation full term Acromine dictionary return match include standard form term frequency occurrence text mine year first occurrence Returned data also provide variant similar term find frequency first occurrence"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "isiZulu",
+        "id": 13144,
+        "progweb_descr": " A free ZuluEnglish online dictionary isiZulunet offer service modern Zulu vocabulary dictionary let user standard bidirectional lookup well automatic morphological decomposition conjugation phonetic spelling Zulu word simple phrase translation spell check basic grammar pronunciation guide API let user query dictionary via RESTful call response JSON Documentation publicly available developer contact provider via email user account setup instruction"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "STANDS4 Definitions",
+        "id": 13312,
+        "progweb_descr": " service provide word definition provider online multilingual dictionary It allow application perform word lookup generate definition translation comparable provider abbreviation lookup service Possible application include term lookup within search result API method accept term define return definition along part speech noun verb adjective etc example word use"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "WordReference",
+        "id": 13313,
+        "progweb_descr": " service provide word lookup access provide Englishlanguage definition It also provide word pair match equivalent English Spanish French Italian German number European languages Some Asian language also support A thesaurus function also available match submit term synonyms API method support submission term look twoletter code national language dictionary consult API return English language definition equivalent word nonEnglish language specify request term provide alternative translation addition primary translation"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "NoSwearing",
+        "id": 13812,
+        "progweb_descr": " NoSwearing curseword dictionarythesaurus Enter swear word string word contain swear word filter cleanedup translation return An API available list dirty word censor dirty word replace dirty word define dirty word API access limit basis Requests access make please see contact email Public documentation available"
+    },
+    {
+        "progweb_cat": "Dictionary,Reference",
+        "api_name": "Kateglo",
+        "id": 14352,
+        "progweb_descr": " Kateglo online dictionary thesaurus glossary Indonesian language Kateglo API allow developer utilize data web site site application API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Dictionary,Application Development",
+        "api_name": "Oxford Dictionaries",
+        "id": 2656,
+        "progweb_descr": " Oxford Dictionaries API give access worldrenowned dictionary data evergrowing list language Based intensive language research programme – one large world – data uptodate accurate reliable first time quickly easily incorporate apps via one single API Oxford Dictionaries API include • Flexible endpoint include headword part speech synonyms audio example sentence • Data expertly preprocessed inhouse engineer ensure accuracy consistency format across datasets – many language first time • Continually update content give immediate access late word linguistic resource • Datasets multiple language include English Spanish Hindi isiZulu Latvian"
+    },
+    {
+        "progweb_cat": "Dictionary",
+        "api_name": "OwlBot Dictionary",
+        "id": 3336,
+        "progweb_descr": " OwlBot Dictionary API allow developer get definition case example sentence English word OwlBot search internet English vocabulary definition save database Dictionary API provide free public use"
+    },
+    {
+        "progweb_cat": "Dictionary,International",
+        "api_name": "SYSTRAN Dictionary",
+        "id": 4528,
+        "progweb_descr": " SYSTRAN Dictionary API enable search translation word additional contextual information grammatical information frequency meaning domains contexts expression example User also create personal dictionary search within SYSTRAN Platform collection REST APIs Client Libraries sample Text extraction Translation Multilingual dictionaries search Natural Language Processing Language Identification Segmentation Morphological analysis Speech text OCR"
+    },
+    {
+        "progweb_cat": "Dictionary,Tools",
+        "api_name": "English Dictionary",
+        "id": 4830,
+        "progweb_descr": " English Dictionary API simple RESTful API obtain dictionary definition English word Dictionary API base GNU Collaborative English Dictionary project"
+    },
+    {
+        "progweb_cat": "Dictionary,Tools",
+        "api_name": "Longdo Dict",
+        "id": 10540,
+        "progweb_descr": " Londo Dict branch londocom website center around word use language blog Longdo Dict API allow user embed Langdo Dict search bar third party website look word query Langdo Dict dictionary directly service use REST call return HTML XML JSON"
+    },
+    {
+        "progweb_cat": "Dictionary,Language",
+        "api_name": "Yandex Dictionary",
+        "id": 5765,
+        "progweb_descr": " Yandex European internet company provide dictionary API Yandex Dictionary use standard HTTP access via XML JSON interface Use API require API Key available request free Yandex app return translation word phrase definition Yandex Terms Use document recommend read get start API"
+    },
+    {
+        "progweb_cat": "Dictionary,Language",
+        "api_name": "Sprawk",
+        "id": 10853,
+        "progweb_descr": " Sprawk devote provide broad array online language translation service Freelance translator around globe contribute 39 million entry English well languages service allow websites check accuracy translation well define translation certain style Oxford Chicago AP automatically translate text 20 language Sprawk Language Detection Capitalization API allow detect language website text file write well probability language text might write API utilizes GET return JSON service allow 2000 free daily lookup premium tier 999month allows 10000 daily lookup"
+    },
+    {
+        "progweb_cat": "Dictionary,Search",
+        "api_name": "OneLook Dictionary Search",
+        "id": 8040,
+        "progweb_descr": " OneLook Dictionary Search search engine word phrase definition site index almost 19 million word one thousand free dictionary web site OneLook Dictionary Search API provide simple endpoint retrieve XML format result API delivers quick definition link definition external dictionary site"
+    },
+    {
+        "progweb_cat": "Dictionary,Japanese",
+        "api_name": "EAST Web Dictionary Search",
+        "id": 11392,
+        "progweb_descr": " EAST Tokyobased software developer specialize provide Windowsbased solution variety business EAST also lead developer Japanese language processing solution dictionaries font One solution web dictionary search service Using XMLbased SOAP call user get list available dictionary get dictionarys table content retrieve dictionary entry search one dictionary single entry website documentation provide Japanese Only part main website provide English translation"
+    },
+    {
+        "progweb_cat": "Dictionary,Education",
+        "api_name": "Cambridge Dictionaries Online",
+        "id": 11712,
+        "progweb_descr": " Provides RESTful access Cambridge Dictionaries Online search Word Day Thesaurus Pronunciations etc include several Learners Dictionaries British American English data Business Dictionary httpdictionarycambridgeorg"
+    },
+    {
+        "progweb_cat": "Dictionary,German",
+        "api_name": "OpenThesaurus",
+        "id": 13636,
+        "progweb_descr": " OpenThesaurus open source thesaurus German word synonym associate word Search result include definition partial word hit Wikipedia link OpenThesaurus API allow developer access integrate functionality data OpenThesaurus application Some example API method include search word synonyms return synonym return associate word"
+    },
+    {
+        "progweb_cat": "Dictionary,Video",
+        "api_name": "How do you pronounce and use...?",
+        "id": 14131,
+        "progweb_descr": " A multimedia pronunciation dictionary English word usage API Search word get audio pronunciation also tag timestamped videos real people real situation speak use word context EspaÃ±ol PronunciaciÃ³n de advertisement en InglÃ©s con vÃ­deo Â· Italiano Pronuncia di advertisement inglese con video PortuguÃªs pronÃºncia de advertisement em InglÃªs com vÃ­deo Â· FranÃ§ais Prononciation de advertisement en anglais avec la vidÃ©o"
+    },
+    {
+        "progweb_cat": "Dictionary,Spelling",
+        "api_name": "ProperSpell",
+        "id": 14723,
+        "progweb_descr": " ProperSpell API RESTful API provide Did mean style spell check suggestion currently English service integrate developer application API return data XML JSON JSONP PSER HTML format"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "ERP,Accounting",
+        "api_name": "Prophet 21",
+        "id": 1778,
+        "progweb_descr": " Prophet 21 API provide Grey Wolf allow developer integrate Prophet 21 P21 ERP solution system application P21 MSSQL serverbased ERP solution provide Epicor Grey Wolfs APIs one several integration solution available Grey Wolf start develop P21 2016 complete almost twenty APIs integrating service"
+    },
+    {
+        "progweb_cat": "ERP,Accounting",
+        "api_name": "SX.enterprise",
+        "id": 1783,
+        "progweb_descr": " SXenterprise API provide access Progressbased ERP Enterprise Resource Planning solution Although SXenterprise belongs Infor API develop Grey Wolf Appropriate Progress license crucial part project SX API consume host server data center"
+    },
+    {
+        "progweb_cat": "ERP,Accounting",
+        "api_name": "Fleet Manager Open",
+        "id": 6857,
+        "progweb_descr": " Fleet Manager ’ vehicle location performance engine diagnostic data available thirdparty system via Application Programming Interface API function web service This Open API enable manager resource planner maintenance technician use data within Fleet Manager enhance operation wide variety way This API related vehicle fleet management data consist mix landmark performance alert data alert generate vehicle location landmarks operate condition speed idle time rapid acceleration many others vehicle maintenance schedule unauthorized use"
+    },
+    {
+        "progweb_cat": "ERP,Monitoring",
+        "api_name": "Fleet Genius",
+        "id": 5585,
+        "progweb_descr": " Fleet Genius REST API provide developer access functionality vehicle data Fleet Genius integration application API use fleet management also use asset management accounting fuel use monitoring emission test API provide information vehicle speed RPM trip duration distance drive fuel burn GPS location check engine status light diagnostic trouble code Fleet Genius fleet management platform"
+    }
+]

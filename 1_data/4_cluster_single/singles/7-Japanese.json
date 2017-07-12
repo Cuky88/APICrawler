@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Japanese,Language",
+        "api_name": "Japanese Word Similarity",
+        "id": 4164,
+        "progweb_descr": " Japanese Word Similarity API allow developer integrate feature application enable application calculate return similarity score two Japanese word This API NTT Resonant provider Goo internet search engine crawl index Japanese website"
+    },
+    {
+        "progweb_cat": "Japanese,Language",
+        "api_name": "Japanese Morphological Analysis",
+        "id": 4172,
+        "progweb_descr": " Japanese Morphological Analysis API allow developer integrate Morphological Analysis service application By use API developer create application divide Japanese language string smallest unit word meaning call morpheme This API NTT Resonant provider Goo internet search engine crawl index Japanese website"
+    },
+    {
+        "progweb_cat": "Japanese,Language",
+        "api_name": "MECAPI",
+        "id": 11036,
+        "progweb_descr": " service provide web access MeCab language analysis tool break Japanese text part speech morphological element It seek analyze text passage base generalpurpose dictionary reference collection reveal structure word use embed sample It build Markov model word sequence attempt improve analytical performance introduce randomized element An opensource instal version available API method support submission Japaneselanguage text passage assume complete sentence filter select nouns unique word Methods return analysis breakdown passage accord word choice part speech imply inflection relate characteristic"
+    },
+    {
+        "progweb_cat": "Japanese,Extraction",
+        "api_name": "Japanese Named Entity Extraction",
+        "id": 4165,
+        "progweb_descr": " Japanese Named Entity Extraction API allow developer integrate name entity extraction feature application enable extract name entity person name location name Japanese string This API NTT Resonant provider Goo internet search engine crawl index Japanese website"
+    },
+    {
+        "progweb_cat": "Japanese,Extraction",
+        "api_name": "Japanese Keyword Extraction",
+        "id": 4170,
+        "progweb_descr": " Japanese Keyword Extraction API allow developer integrate keyword extraction feature application enable extract keywords input document This API NTT Resonant provider Goo internet search engine crawl index Japanese website"
+    },
+    {
+        "progweb_cat": "Japanese,Extraction",
+        "api_name": "Japanese Product Review Summarization",
+        "id": 4173,
+        "progweb_descr": " Japanese Product Review Summarization API allow developer integrate product review feature application enable summarize several review product extract order important sentence review This API NTT Resonant provider Goo internet search engine crawl index Japanese website"
+    },
+    {
+        "progweb_cat": "Japanese,Conversions",
+        "api_name": "Japanese Hiragana Conversion",
+        "id": 4171,
+        "progweb_descr": " Japanese Hiragana Conversion API allow developer integrate feature application enable application convert Japanese web page write Kanji character page write Hiragana character This API NTT Resonant provider Goo internet search engine crawl index Japanese website"
+    }
+]

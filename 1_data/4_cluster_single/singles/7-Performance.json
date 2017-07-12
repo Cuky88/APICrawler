@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Performance,Developers",
+        "api_name": "Raygun Sessions",
+        "id": 1728,
+        "progweb_descr": " Raygun provider web mobile software intelligence solution span crash report user track real user monitoring deployment track domain Raygun Pulse Sessions API support retrieval Pulse session applications Its functionality accessible two primary endpoint authentication endpoint Whereas first endpoint facilitates retrieval user session page list format cut session second endpoint ’ call facilitates use session ID retrieve full session description sessionbysession basis API readily accessible user Raygun enterprise plan"
+    },
+    {
+        "progweb_cat": "Performance",
+        "api_name": "W3C User Timing",
+        "id": 2353,
+        "progweb_descr": " W3C User Timing API define interface access high precision timestamps help developer measure performance application It define PerformanceMark PerformanceMeasure interfaces well extension Performance interface This stable document may cite use reference material without fear major alteration"
+    },
+    {
+        "progweb_cat": "Performance",
+        "api_name": "TM Forum Performance Management",
+        "id": 3571,
+        "progweb_descr": " TM Forum Performance Management API provide method manage resource involve performance management It also provide notification event related performance TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Performance,Standards",
+        "api_name": "W3C Resource Timing",
+        "id": 2358,
+        "progweb_descr": " W3C Resource Timing API specification interface allow web application access complete timing information resource document This enable developer measure user latency important quality benchmark web application This specification work progress may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Performance,Standards",
+        "api_name": "W3C Navigation Timing",
+        "id": 2359,
+        "progweb_descr": " W3C Navigation Timing API specification defines interface access complete time information navigation document This useful accurately measure performance web application This specification still work progress may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Performance,Monitoring",
+        "api_name": "Plumbr",
+        "id": 4277,
+        "progweb_descr": " Plumbr monitoring system design detect issue Java application It use discover problem memory leaks garbage collection pause slow HTTP operation Plumbr offer one plan bill annually monthly basis Plumbr API use retrieve data resource This API REST base exchange information JSON format require HTTP Basic authentication"
+    },
+    {
+        "progweb_cat": "Performance,Monitoring",
+        "api_name": "Probe Performance Monitoring",
+        "id": 5077,
+        "progweb_descr": " Probe Performance Monitoring test latency rout throughput Internet Service Providers API JSON format API Key authentication available access network monitoring tool Useful detect network outage eliminate false alert monitor cloud performance"
+    }
+]

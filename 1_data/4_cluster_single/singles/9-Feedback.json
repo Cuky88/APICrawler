@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Feedback,Customer Relationship Management",
+        "api_name": "Devoted Net Promoter Score",
+        "id": 1845,
+        "progweb_descr": " Devoted Net Promoter Score API use interact Devoted NPS SaaS offer instance helpful tool add contactspeople survey It useful aid get customer feedback increase retention Free version selection Paid version"
+    },
+    {
+        "progweb_cat": "Feedback,Analytics",
+        "api_name": "Qrvey",
+        "id": 2607,
+        "progweb_descr": " This API provide Full Cycle Feedback Platform Qrveys developer friendly APIs widget quickly embed within apps website Implement full cycle feedback platform collect information analyze data automate action anywhere Qrvey make data feedback accessible everyone ask collect analyze take action purpose integrate poll survey form"
+    },
+    {
+        "progweb_cat": "Feedback,eCommerce",
+        "api_name": "ReviewTrust",
+        "id": 3617,
+        "progweb_descr": " ReviewTrust API integrate consumer review aim increase trust purchase time It available JSON format Api Key Resources include URL endpoint parameter method ReviewTrust confirms product service review valid consumer provider"
+    },
+    {
+        "progweb_cat": "Feedback,Ratings",
+        "api_name": "Get Five Stars",
+        "id": 4378,
+        "progweb_descr": " Get Five Stars API allow integrate feedback recommendation survey feature web service mobile application It provide protocols JSON REST Client ID private Key available contact supportgetfivestarscom Get Five Stars customer feedback service help user organize streamline process request display customer review It integrate several review site include Google Yelp Facebook Tripadvisor Foursquare"
+    },
+    {
+        "progweb_cat": "Feedback,Customer Service",
+        "api_name": "FeedbackHub Invites",
+        "id": 4534,
+        "progweb_descr": " FeedbackHub Invites API API use access integrate FeedbackHub Core Services website API assist automatically send email invite customer request feedback business With also optionally include much data want eg Product Information Prices Customer ID Invoice FeebackHub technology company experience Website Design IT construction service focus customer relation building industry lead product"
+    },
+    {
+        "progweb_cat": "Feedback,Design",
+        "api_name": "Usabilla",
+        "id": 5239,
+        "progweb_descr": " Usabilla API allow developer integrate application Usabilla data service enable user access customer feedback websites Usabilla online service provide business way communicate customer via feedback"
+    },
+    {
+        "progweb_cat": "Feedback,Applications",
+        "api_name": "Doorbell",
+        "id": 6568,
+        "progweb_descr": " Doorbell allow receive feedback user interact websites iOS Android This service aim offer powerful search tagging option Also Doorbell intent fit exist workflow capture screenshots customize emails color notification Some popular site integrate Doorbell include Github TargetProcess Pivotal Tracker"
+    },
+    {
+        "progweb_cat": "Feedback,Conversions",
+        "api_name": "Bazaarvoice Conversations",
+        "id": 6814,
+        "progweb_descr": " Bazaarvoice network company connect brand retailer consumer ’ voice Bazaarvoice network provide business information customer ’ reviews opinion influence purchase decision Bazaarvoice Conversations previously know Bazaarvoice Platform API API allow developer access Bazaarvoice client data"
+    },
+    {
+        "progweb_cat": "Feedback,Testing",
+        "api_name": "BetaEasy",
+        "id": 15071,
+        "progweb_descr": " BetaEasy API Callback API allow user interact “ sync ” BetaEasy account web site application Every time event happen user BetaEasy forum userjoin useractivated etc BetaEasy make call user handler event process application BetaEasy customer feedback beta management service service help developer build community user cooperate contribute websitesoftware improvement All feedback collect one place priorities clearly identify feedback turn improvement There REST SOAP APIs libraries available PHP NET Java Ruby Python"
+    }
+]

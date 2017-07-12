@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Developers,Applications",
+        "api_name": "Amazon Web Services Lambda",
+        "id": 2230,
+        "progweb_descr": " Amazon Web Services Lambda REST API allow developer access integrate functionality Amazon Lambda applications Some example API method include manage function manage permission retrieve event manage event Amazon Lambda compute service execute code without manage server provision"
+    },
+    {
+        "progweb_cat": "Developers,Application Development",
+        "api_name": "Amazon Web Services X-Ray",
+        "id": 2714,
+        "progweb_descr": " Amazon Web Services XRay REST API allow developer access integrate functionality XRay applications Some example API method include retrieve debug trace manage bug analysis manage error error statistic Amazon Web Services XRay provide service developer analyze code application bug error tracking"
+    },
+    {
+        "progweb_cat": "Developers,Application Development",
+        "api_name": "Intersection Observer",
+        "id": 4061,
+        "progweb_descr": " Intersection Observer REST API allow developer access integrate functionality Intersection Observer application Intersection Observer API provide interface get position visibility DOM element relative container element browser top level viewport"
+    },
+    {
+        "progweb_cat": "Developers",
+        "api_name": "Bower",
+        "id": 5155,
+        "progweb_descr": " Bower API aim consolidate entire application development process track library frameworks utility API allow fetch instal package various resrouces Bower allow manage clientside programming package Bower keep track package manifest file bowerjson"
+    },
+    {
+        "progweb_cat": "Developers,Accounts",
+        "api_name": "Nexmo Developer",
+        "id": 5679,
+        "progweb_descr": " Nexmo Developer API REST base API developer use perform account management task This service return either JSON XML Nexmo cloud company provide enterprise connect customer via SMS Voice wherever world"
+    },
+    {
+        "progweb_cat": "Developers,Collaboration",
+        "api_name": "GitLab",
+        "id": 5847,
+        "progweb_descr": " GitLab REST API allow developer access integrate functionality GitLab application create new application Some example API method include retrieve manage user post retrieve issue manage project information GitLab opensource platform developer collaborate code cod project"
+    },
+    {
+        "progweb_cat": "Developers,Testing",
+        "api_name": "CasperBox",
+        "id": 7567,
+        "progweb_descr": " CasperBox allow user run CasperJS script online CasperBox API allow developer access integrate functionality CasperBox applications Some example API method include run script list script list status script"
+    }
+]

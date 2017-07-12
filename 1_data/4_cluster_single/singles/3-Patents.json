@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Patents,Business",
+        "api_name": "Unified Patent Court",
+        "id": 2051,
+        "progweb_descr": " Unified Patent Court API allow developer write data access data Unified Patent Court UPC content management system UPC single patent court cover 25 country consider part judicial system UPC Agreement available exclusively member state European Union"
+    },
+    {
+        "progweb_cat": "Patents,Data",
+        "api_name": "NASA Patents",
+        "id": 4169,
+        "progweb_descr": " NASAs Patents API give user access dataset NASA patent This include hold pending patent Possible query include search name status patent number patent expiration date application information case number NASA open data support NASA ’ scientist engineer information technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Patents,Licensing",
+        "api_name": "IFI Claims",
+        "id": 7279,
+        "progweb_descr": " IFI Claims Patent Services division Fairway Research organization dedicate health service Particularly IFI Claims protect intellectual property scientific discovery use methodological patent database That could valuable corporation want sync patent information uniform reliable system Developers scientific industry might find IFI Claims API suitable data need feature involve data embed workflow application connection tool big data repository Some covered resource RESTful web service search retrieval JSON XML output test console licensing without usage limit"
+    }
+]

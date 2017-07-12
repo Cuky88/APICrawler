@@ -1,0 +1,350 @@
+[
+    {
+        "progweb_cat": "Location,Accounting",
+        "api_name": "Garmin Communicator Plugin",
+        "id": 632,
+        "progweb_descr": " Garmin Communicator Plugin API provide developer ability integrate communicator plugin website It software program transfer data website Garmin GPS Devices This API many feature include auto detection device product information access reading fitness data support device geocode address save device"
+    },
+    {
+        "progweb_cat": "Location",
+        "api_name": "IP/Geo Data Lookup",
+        "id": 706,
+        "progweb_descr": " IPGeo Data Lookup API free service allow developer get IP Geolocation data site visitor Along IP address API return visitor city country well latitude longitude It include GeoLite2 data create MaxMind"
+    },
+    {
+        "progweb_cat": "Location",
+        "api_name": "W3C Proximity Sensor",
+        "id": 3075,
+        "progweb_descr": " W3C Proximity Sensor API specification defines sensor interface monitoring presence nearby object It design extend W3C Generic Sensor API provide proximity level information This information report distance sensor near visible surface give centimeter"
+    },
+    {
+        "progweb_cat": "Location",
+        "api_name": "Pitney Bowes GeoCode",
+        "id": 3094,
+        "progweb_descr": " This REST API allow convert address location coordinate vice versa It provide way develop deploy geocode desktop mobile Web application capable deliver location information It return latitude longitude coordinate input address vice versa 140 country contain follow four method Geocode Reverse GeoCode Capabilities Dictionaries Pitney Bowes global technology company offering product solution enable commerce area customer information management location intelligence customer engagement"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "Yext Webhooks",
+        "id": 1879,
+        "progweb_descr": " This API give ability set webhooks let receive Yext update change location listing It provide programmatic control brand knowledge people manage place appear consumer With endpoint able push update Reviews Listings Status Yexts expertise scalability support give developer tool leverage power knowledge project apps"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "Yext Location Cloud",
+        "id": 2401,
+        "progweb_descr": " Yext Location Cloud API allow developer programmatically add remove location well update field Yext support Yext service help business get discover customer It sync location hour data internally well external map apps GPS system search engines social network"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "TomTom Online Search",
+        "id": 2855,
+        "progweb_descr": " deployment TomTom Online Search API simplifies search address point interest POIs API use latitude longitude display description location address landmark feature POIs It send request HTTP format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "Google My Business",
+        "id": 4040,
+        "progweb_descr": " Google My Business API allow business enterprise create edit location purpose update publicize physical address API enhance visibility location business Google map search result make suitable integration online advertising apps RESTful API send parse request data HTTP format return responses JSON format Version 31 brings real time push notification listing update"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "Pitney Bowes Geo911",
+        "id": 4363,
+        "progweb_descr": " Pitney Bowes Geo911 API allow developer make call Geo911 API enable access information Public Safety Answering Points PSAP emergency call specific addresslocation get rout Pitney Bowes specialize customer information management location intelligence customer engagement ship mail ecommerce"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "Pitney Bowes GeoLife",
+        "id": 4365,
+        "progweb_descr": " Pitney Bowes GeoLife API allow developer make call GeoLife API enable access demographic segmentation information location address Pitney Bowes specialize customer information management location intelligence customer engagement ship mail ecommerce"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "Pitney Bowes GeoEnhance",
+        "id": 4366,
+        "progweb_descr": " Pitney Bowes GeoEnhance API allow developer make call GeoEnhance API enable access address place point interest timezone location Pitney Bowes specialize customer information management location intelligence customer engagement ship mail ecommerce"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "Burning Soul GeoIP",
+        "id": 5193,
+        "progweb_descr": " GeoIP API part independent project Burning Soul Data allow access database identify location IP address API display responses accord current remote address JSON data present output user send additional IP info via URL"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "GeoBytes IP Address Location Tool",
+        "id": 5591,
+        "progweb_descr": " GeoBytes IP Address Location Tool API allow developer determine geographic location person IP Address An example show API Home Page use visitor IP Address Visitors also enter different IP Address see result instead A code sample provide PHP"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "Geobytes GeoRemote",
+        "id": 5599,
+        "progweb_descr": " Geobytes GeoRemote API allow user get location IP Address format accord template define user This allow user organize data way like A standard template also available service accepts request HTTP format return page HTML"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "ShinyGeoip",
+        "id": 6488,
+        "progweb_descr": " ShinyGeoip free opensource IP geoloaction API API accept user IP address respond available information city country name specific latitude longitude coordinate correspond time zone ShinyGeoip support Simon Samtleben Nekudocom depend GeoLite2 Database API access via GET request HTTP respond JSONencoded string API view open source project GitHub"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "Orange Store Locator France",
+        "id": 6590,
+        "progweb_descr": " Orange Store Locator France API allow developer search Orange Orange affiliate use different search criterion locate Orange store information France criterion include city name postcode keyword area radius"
+    },
+    {
+        "progweb_cat": "Location,Addresses",
+        "api_name": "Unwired Labs Location",
+        "id": 6885,
+        "progweb_descr": " Unwired Labs geolocator service mobile telecommunication industry international scale Their Location API deploy accurate mapping across data center worldwide Location API require developer token use accept simple JSON request return physical address andor geographical coordinate API compatible standard cellular network protocol include GSM CDMA UMTS WCDMA 3G LTE 4G"
+    },
+    {
+        "progweb_cat": "Location,Application Development",
+        "api_name": "Radar",
+        "id": 2072,
+        "progweb_descr": " Radar REST API allow developer access integrate functionality Radar application create location Some example API method include manage user manage geofences retrieve query location manage event Radar provide location platform application offer various function base location location data application developer publisher"
+    },
+    {
+        "progweb_cat": "Location,Logistics",
+        "api_name": "Mapon",
+        "id": 2089,
+        "progweb_descr": " Mapon offer professional fleet management GPS service design remotely track business asset Mapon API provide method route fuel user management JSON prefer response format API Keys require authentication By use Mapon business benefit control fuel consumption digital tachograph reduce operation cost"
+    },
+    {
+        "progweb_cat": "Location,Data",
+        "api_name": "Esri ArcGIS Geometric Enrichment",
+        "id": 2194,
+        "progweb_descr": " ArcGIS geospatial solution develop map location application Esri ArcGIS GeoEnrichment Service API provide access locationspecific fact data API useful retrieve descriptive profile specific location neighbor area include people business geographic context geographic boundary Users access demographic breakdown choose location simply send point polygon ArcGIS GeoEnrichment Service API"
+    },
+    {
+        "progweb_cat": "Location,Data",
+        "api_name": "MapFruition Geocoder",
+        "id": 4098,
+        "progweb_descr": " MapFruition Geocoder API let developer transform address place names geographic coordinate 1100 Congress Ave Austin TX 78701 3027468797740405 Texas State Capitol 3027468797740405 reverse geocoder enable turn geographic coordinate pair meaningful address andor place name 3027468797740405 1100 Congress Ave Austin TX 78701 All valid result return GeoJSON format Data coverage currently include Contiguous US Alaska Hawaii Mexico Canada MapFruition provider geospatial GISGPS technical business solution"
+    },
+    {
+        "progweb_cat": "Location,Data",
+        "api_name": "MapFruition Travel Time",
+        "id": 4323,
+        "progweb_descr": " MapFruition Travel Time API provide developer ability generate service area polygon base mode travel drive bike walk timedistance Data coverage include Contiguous US Alaska Hawaii"
+    },
+    {
+        "progweb_cat": "Location,Data",
+        "api_name": "Spatial Operations",
+        "id": 4557,
+        "progweb_descr": " Using Spatial Operations API MapFruition add GIS base functionality spatial capability developer application websites This include operation buffer point geocoding address convert address point reverse geocoding point location convert point address point point travel time analysis travel time polygon generation Some refer service area drive time analysis Data coverage include Contiguous US Alaska Hawaii MapFruition provide geospatial GISGPS Technical analytical Business solution Federal State Local Governments commercial client"
+    },
+    {
+        "progweb_cat": "Location,Data",
+        "api_name": "Demographic Inquiry",
+        "id": 4558,
+        "progweb_descr": " Demographic Inquiry API MapFruition provide developer access current year estimate five year projection 700 demographic variable Categories include population summary income characteristic consumer expenditures educational attainment demographic profile API also provide multiple way GIS NonGIS Based method extract data interest Operations include inquiry point buffer proximity travel time Data coverage include Contiguous US Alaska Hawaii MapFruition provide geospatial GISGPS Technical analytical Business solution Federal State Local Governments commercial client"
+    },
+    {
+        "progweb_cat": "Location,Cloud",
+        "api_name": "Yext Administrative",
+        "id": 2201,
+        "progweb_descr": " Yext Administrative API allow Yext partner manage customer account subscription profileoptimization task programmatically They also use API update Yext account obtain login token grant Yext Location Cloud access agent adviser franchise Yext service help business get discover customer It sync location hour data internally well external map apps GPS system search engines social network"
+    },
+    {
+        "progweb_cat": "Location,Cloud",
+        "api_name": "Yext Live",
+        "id": 2400,
+        "progweb_descr": " Yext Live API allow developer integrate uptodate location data website mobile apps API also use keep custom store locator sync late location information Yext service help business get discover customer It sync location hour data internally well external map apps GPS system search engines social network"
+    },
+    {
+        "progweb_cat": "Location,Banking",
+        "api_name": "NAB Locations",
+        "id": 2218,
+        "progweb_descr": " NAB Locations API provide extensive access NAB National Australia Bank location information include ATM Branch location well detail location eg business hour accessibility option etc Searches perform address geographic location type"
+    },
+    {
+        "progweb_cat": "Location,Mobile",
+        "api_name": "Mylnikov Mobile Geo-Location database",
+        "id": 2406,
+        "progweb_descr": " Mylnikov Mobile GeoLocation database API implement geocoordinates aim resolve cell tower identifier Developers download information CSV format enable JSON interchangeable data"
+    },
+    {
+        "progweb_cat": "Location,Mobile",
+        "api_name": "Accelerite LaaS",
+        "id": 4273,
+        "progweb_descr": " Accelerite LaaS API allow developer access location information million mobile device include basic phone without GPS data connectivity order create application locationaware Accelerite LaaS Location Service service create contextaware business application use location customer employee asset"
+    },
+    {
+        "progweb_cat": "Location,Mobile",
+        "api_name": "Combain Positioning Service",
+        "id": 5911,
+        "progweb_descr": " Combain Positioning Service CPS API offer access mobile position API use POST JSON authenticate via API Key Using Combain database cellid wifi address data GPS API determine location device CPS API indicate location either indoor outdoor Request API Key free Combain"
+    },
+    {
+        "progweb_cat": "Location,Database",
+        "api_name": "Mylnikov Wi-Fi Geo-Location database",
+        "id": 2407,
+        "progweb_descr": " Mylnikov WiFi GeoLocation database API integrate WIFI MAC address reliable coordinate REST interface provide JSON protocols It work globally without encrypt connection"
+    },
+    {
+        "progweb_cat": "Location,Analytics",
+        "api_name": "BlueDot",
+        "id": 2459,
+        "progweb_descr": " BlueDot API integrate geofencing location marketing application aim increase user engagement customize analytics JSON format available perform callback previously authenticate Key HTTP verb include application zone fence beacon action condition checkin activity Use API retail event ad network hospitality additional integration idea visit httpsbluedotinnovationcommonetize"
+    },
+    {
+        "progweb_cat": "Location,Analytics",
+        "api_name": "Geoparser.io",
+        "id": 4310,
+        "progweb_descr": " Geoparserio web service intend disambiguate identified place mention text return GeoJSON detail metadata place find text"
+    },
+    {
+        "progweb_cat": "Location,Backend",
+        "api_name": "HyperTrack",
+        "id": 2814,
+        "progweb_descr": " HyperTrack API support integration location track feature apps API ’ call sufficient spare developer strenuous procedure develop complex tracking infrastructure scratch API deploy construction locationtracking feature different type need transportation logistics courier service It suitable variety intervention monitor metering cost driver generate automate realtime alert ontransit driver delay customer ’ live order track dashboard track view integration driver ’ incident audit among others HyperTrack API require API key authentication sends HTTPformatted request return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Location,Geography",
+        "api_name": "Open Postcode Geo",
+        "id": 3799,
+        "progweb_descr": " British postcode additional data optimise geospace application include easting northing latitude longitude postcode area postcode district postcode sector outcode incode This API provide GetTheData"
+    },
+    {
+        "progweb_cat": "Location,Geography",
+        "api_name": "EAN Geo Functions",
+        "id": 5982,
+        "progweb_descr": " EAN Geo Functions API allow developer integrate Expedia database application enable user search landmark name within location include museum school sport arenas neighborhood city transit station This RESTful API EAN stand Expedia Affiliate Network service provide Expedia"
+    },
+    {
+        "progweb_cat": "Location,Time",
+        "api_name": "Pingeolo",
+        "id": 3818,
+        "progweb_descr": " Pingeolo geolocation provider local data feature longitude latitude weather timezone It also offer IP geolocation database 170 country support application localize search result 4 price plan available free trial available well Developers need register access API documentation Pingeolo use API Keys authentication respond JSON format request make HTTP"
+    },
+    {
+        "progweb_cat": "Location,API",
+        "api_name": "ipapi.co",
+        "id": 3918,
+        "progweb_descr": " ipapico API location finder solution summarize geographic parameter map location API send HTTP request return response JSON format It also provide code sample Ruby Python Nodejs PHP jQuery languages ipapico offer free free pay access Free access restrict 1000 daily request without email support pay access provide email support charge 15 25 50 100 2000 5000 15000 50000 daily request respectively"
+    },
+    {
+        "progweb_cat": "Location,Healthcare",
+        "api_name": "Walgreens Store Locator",
+        "id": 4066,
+        "progweb_descr": " Walgreens Store Locator REST API allow developer access integrate store location data application main API method return store location Store location also retrieve various parameter zip code"
+    },
+    {
+        "progweb_cat": "Location,Advertising",
+        "api_name": "xamoom Consumer",
+        "id": 4094,
+        "progweb_descr": " Consumer API xamooms core api enduser application With API developer access xamoom location fatures well content delivery mechanism This API utilize location identifier Markers Spots also Content allow developer build custom apps mobile web application In addition also allow developer retrieve information customer system like style menu configuration Xamoom location focus content management service"
+    },
+    {
+        "progweb_cat": "Location,Advertising",
+        "api_name": "xamoom Integration",
+        "id": 4319,
+        "progweb_descr": " xamoom Integration API use integrate content manage xamoom Content Management Systems Websites even custom application It use location identifier Markers Spots This API purely design retrieve Content Xamoom location focus content management service"
+    },
+    {
+        "progweb_cat": "Location,Advertising",
+        "api_name": "Close To The Point",
+        "id": 6704,
+        "progweb_descr": " Close To Point CTTP provide geolocation data app provider well interact user location demographic CTTP REST API provide real time statistic point interest provider comprehensive monitor solution apps usage Location data come form real time historic provider may witness often users frequent certain location In addition REST API implementation developer add CTTP Android iOS library apps"
+    },
+    {
+        "progweb_cat": "Location,Bluetooth",
+        "api_name": "Kontakt.io",
+        "id": 4266,
+        "progweb_descr": " Kontaktio beacon hardware software platform Kontaktio API allow developer get information update beacon device Beacons small Bluetooth radio transmitter broadcast signal regular interval Bluetoothequipped device like smartphones detect beacon theyre range combination Kontaktio API Kontaktio beacon allow developer create proximitybased solution"
+    },
+    {
+        "progweb_cat": "Location,Bluetooth",
+        "api_name": "Proximi",
+        "id": 4324,
+        "progweb_descr": " Proximiio API aim allow aggregation indoor position technology APIs combine various position technology like WiFi triangulation WiFi fingerprinting beacon BlueTooth sensor magnetic field intention APIs exact location app user within indoor location REST Proximi APIs goal developer create locationaware apps"
+    },
+    {
+        "progweb_cat": "Location,Bluetooth",
+        "api_name": "BeaconsInSpace",
+        "id": 5407,
+        "progweb_descr": " BeaconsInSpace REST API provide developer access beacon across establishment major city integration application Some example API method include retrieve list beacon UUIDs retrieve information beacon retrieve beacon geographic coordinate BeaconsInSpace provide information access deploy beacon build Internet Things locationbased application"
+    },
+    {
+        "progweb_cat": "Location,Shipping",
+        "api_name": "Pitney Bowes GeoTax",
+        "id": 4362,
+        "progweb_descr": " Pitney Bowes GeoTax API allow developer make call GeoTax API enable access information tax taxrate location address Pitney Bowes specialize customer information management location intelligence customer engagement ship mail ecommerce"
+    },
+    {
+        "progweb_cat": "Location,eCommerce",
+        "api_name": "Pitney Bowes GeoSearch",
+        "id": 4364,
+        "progweb_descr": " Pitney Bowes GeoSearch API allow developer make call GeoSearch API enable local search capability application Pitney Bowes specialize customer information management location intelligence customer engagement ship mail ecommerce"
+    },
+    {
+        "progweb_cat": "Location,Activity Streams",
+        "api_name": "LotaData",
+        "id": 4673,
+        "progweb_descr": " LotaData API provide integration location feature aim target mobile advertising effort Protocols JSON Authorization API Key LotaData spatiotemporal intelligent service predict audience habit plan day attend social event shop favorite store"
+    },
+    {
+        "progweb_cat": "Location,Smartphone",
+        "api_name": "Pinlogic",
+        "id": 4832,
+        "progweb_descr": " Pinlogic API API location request Send oneoff location request smart phone via SMS Swipe Tap Tap Thats Pinlogic need end user return accurate location API provide latitude longitude application user via user click link"
+    },
+    {
+        "progweb_cat": "Location,Mapping",
+        "api_name": "W3C Geofencing",
+        "id": 5296,
+        "progweb_descr": " Geofencing API World Wide Web Consortium type geolocating API Geofencing API allow apps create geographic boundary around specific location receive notification device leave enters designate area This differs W3Cs Geolocating API power efficient receive notification boundary breach rather need continuously check refresh Geofencing API also receive notification even app close Developers note document work progress may change See project page detailed description current issue method"
+    },
+    {
+        "progweb_cat": "Location,Mapping",
+        "api_name": "SocialRadar LocationKit",
+        "id": 5667,
+        "progweb_descr": " SocialRadar LocationKit REST API allow developer access integrate functionality SocialRadar LocationKit applications Some example API method include initialize location service retrieve single point location stream location data SocialRadars LocationKit location manager application device"
+    },
+    {
+        "progweb_cat": "Location,Mapping",
+        "api_name": "Instamapper GPS Tracker",
+        "id": 6379,
+        "progweb_descr": " Instamapper real time GPS track service allow customer track share location Instamapper GPS tracker API let developer integrate functionality application This API integrate user application able use feature offer Instamapper include share location route overview track multiple device"
+    },
+    {
+        "progweb_cat": "Location,Mapping",
+        "api_name": "Esri ArcGIS Location-Allocation Service",
+        "id": 7077,
+        "progweb_descr": " ArcGIS REST API LocationAllocation service assist user choose location list facility base probable interaction site offer require parameter include demand point tokens facility website also show optional parameter include analysisregion targetmarketshare travelmode Users access data coverage page code examples JSON responses various request"
+    },
+    {
+        "progweb_cat": "Location,3D",
+        "api_name": "Nao Perca",
+        "id": 5382,
+        "progweb_descr": " Nao Perca API SaaS solution provide developer access thousand POIs point interest Portugal POI category include store restaurant museum infrastructure Users also add POIs area system Results provide list marker ready map presentation"
+    },
+    {
+        "progweb_cat": "Location,Collaboration",
+        "api_name": "Google Nearby",
+        "id": 5416,
+        "progweb_descr": " Google Nearby API allow discover device connect interact message As Google suggest API could useful collaboration use whiteboard local multiplayer game use network multiscreen game use device Android TV What API developer communicate nearby device real time This API associate Nearby Connections Soon Google release Nearby Messages Google Play Services 78 available More info httpsdevelopersgooglecomnearby"
+    },
+    {
+        "progweb_cat": "Location,Entertainment",
+        "api_name": "Findery",
+        "id": 6316,
+        "progweb_descr": " Findery destination discovery application Findery API allow developer integrate Findery database Features include ability create Findery note location gather note collection discover nearby place Findery API include endpoint note notemaps comment user follow"
+    },
+    {
+        "progweb_cat": "Location,Check-In",
+        "api_name": "Foursquare Real-time",
+        "id": 6366,
+        "progweb_descr": " Foursquare local search discovery service company provide customer information event restaurant tourist attraction moreThe Realtime API allow developer integrate Realtime information application There two sub APIs API one User Push API let application know whenever user check place Venue Push API let developer know action happen manage venue"
+    },
+    {
+        "progweb_cat": "Location,Business",
+        "api_name": "Locator Centric",
+        "id": 6858,
+        "progweb_descr": " Location RESTful API host Locator Centric supply business scale data specific consumer location 3 million location point may query search state city postal code specific coordinate well point interest JSON responses return data 40 different language dialect"
+    }
+]

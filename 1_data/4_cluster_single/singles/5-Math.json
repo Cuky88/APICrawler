@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Math,Graphics",
+        "api_name": "Mathpix",
+        "id": 1750,
+        "progweb_descr": " Mathpix API integrate math solve optic character recognition It available JSON format via API ID API Key With API developer implement image process system equation matrix long division problem number graph geometry diagram app download Android iOS"
+    },
+    {
+        "progweb_cat": "Math,Visualizations",
+        "api_name": "Pi",
+        "id": 1766,
+        "progweb_descr": " Pi API offer call Pi number operation Up 750 billion digit Pi available HTTP call API return digit specify range desire position stream digits page"
+    },
+    {
+        "progweb_cat": "Math,3D",
+        "api_name": "GeoGebraTube",
+        "id": 4234,
+        "progweb_descr": " GeoGebraTube API allow developer integrate GeoGebraTube material manager websites application GeoGebra graph calculator function geometry algebra calculus statistic 3D math GeoGebra offer free interactive educational material design use graph calculator"
+    },
+    {
+        "progweb_cat": "Math,Education",
+        "api_name": "Quatriceps",
+        "id": 6329,
+        "progweb_descr": " Quatriceps API Tetragy Limited enable developer make request receive instructional output various mathematical operation currently five operation support help xlop LaTeX package Setup kit Drupal WordPress simplify installation nondevelopers Tetragy software company focus mathematics education compute"
+    },
+    {
+        "progweb_cat": "Math,Education",
+        "api_name": "Caascade",
+        "id": 7764,
+        "progweb_descr": " Caascade ComputationasaService API run query computer algebra system Maxima Third party application pass HTTPS GET call variety mathematical operation API return JSON format object capture output optional PDF Free setup kit Drupal WordPress simplify installation nondevelopers"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "progweb_cat": "Software-as-a-Service,Cloud",
+        "api_name": "Cloud Elements Platform",
+        "id": 620,
+        "progweb_descr": " Cloud Elements cloud cloud API integration service Designed SaaS developer supply easy connectivity 3rd party apps via uniform APIs allow developer write single API construct Cooperative Apps ” access multiple cloud service Cloud Elements connect entire category cloud storage apps monitor API activity developer dont Cloud Elements offer Platform API allow developer edit account monitor individual API activity upload edit file"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Cloud",
+        "api_name": "Oracle Connect",
+        "id": 2032,
+        "progweb_descr": " Connect REST API provide customer partner way integrate Oracle Service Cloud platform It public API leverage Connect Common Object Model allow access web service include account asset contact mailbox Oracle Cloud public cloud service across software service SaaS platform service PaaS infrastructure service IaaS"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Business",
+        "api_name": "OSI Affiliate",
+        "id": 2233,
+        "progweb_descr": " Ossiaffiliate API integrate marketing feature web service aim increase user traffic increase sale Available REST architecture JSON format HTTP request API Key authentication PHP example language"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Business",
+        "api_name": "WhiteWorks",
+        "id": 3629,
+        "progweb_descr": " WhiteWorks API integrate business software feature calendar company contract employee invoice It available Dutch language JSON protocol Key token"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Business",
+        "api_name": "EZOfficeInventory",
+        "id": 4958,
+        "progweb_descr": " EZOfficeInventory API offer custom integration service It include fixed asset long term asset need check checked user Examples include laptops iPhones etc inventory member information reservation request location group custom field"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Business",
+        "api_name": "OnTime",
+        "id": 5378,
+        "progweb_descr": " OnTime courier software help business work cloud without internet connection API offer create update track order It feature SOAP XML service"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,DevOps",
+        "api_name": "OpenStack Messaging Service",
+        "id": 2445,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service organization provide standard APIs well suit multiple implementation include multitenant fast scalable Messaging Service implement simultaneous performance secure message distribution task deployment OpenStack Messaging Service API allow developer distribute message among different component SaaS mobile apps Developers implement different type communication pattern use API"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Management",
+        "api_name": "TM Forum Service Problem Management",
+        "id": 2629,
+        "progweb_descr": " TM Forum Service Problem Management API design use service provider require solution monitoring problem service area API respond service problem trigger partner event information notification send infrastructure provider Such event information notification may include alarm performance anomaly trouble ticket SLA violation maintenance prediction API conveys request responses JSON format It currently beta release"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Management",
+        "api_name": "Atlassian Stash Branch Permissions Rest",
+        "id": 6019,
+        "progweb_descr": " Atlassian Branch Permissions REST API allow manage repository branch permission Stash repository REST Resources This API allow integration script interaction application Atlasssian Stash Rest APIs Branch Permissions REST API interact language format HTTP query capabilityHTTP request make use URI path parse response JSON Preferred authentication OAuth HTTP however API support HTTP Cookies Trusted Application Atlassian create product software developer project manager include JIRA project management tool Confluence collaboration platform There product also include Bitbucket FishEye HipChat Australian company office Australia United States Netherlands Japan"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Management",
+        "api_name": "Atlassian Stash Core Rest",
+        "id": 6194,
+        "progweb_descr": " Atlasssian Stash Core REST API allow core management Stash functionality include server administration project repositories pull request user management REST resource This API allow integration script interaction application Atlasssian Stash Rest API Stash Core REST API interact language format HTTP query capabilityHTTP request make use URI path parse response JSON Preferred authentication OAuth HTTP however API support HTTP Cookies Trusted Application Atlassian create product software developer project manager include JIRA project management tool Confluence collaboration platform There product also include Bitbucket FishEye HipChat Australian company office Australia United States Netherlands Japan"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Management",
+        "api_name": "Atlassian Stash Audit Rest",
+        "id": 6201,
+        "progweb_descr": " Atlassian Stash Audit REST API allow query audit event subset store specific repository log REST resource When use API audit log file must use query full audit This API allow integration script interaction application Atlasssian Stash Rest API Stash Audit REST API interact language format HTTP query capabilityHTTP request make use URI path parse response JSON Preferred authentication OAuth HTTP however API support HTTP Cookies Trusted Application Atlassian create product software developer project manager include JIRA project management tool Confluence collaboration platform There product also include Bitbucket FishEye HipChat Australian company office Australia United States Netherlands Japan"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Telephony",
+        "api_name": "Nectar Desk",
+        "id": 2995,
+        "progweb_descr": " Nectar Desk API offer cloudbased interactive call center software feature inbound outbound call handle report analytics voicemail A REST base API available consumption integrates Nectar Desk platform via URI path Standard HTTP method allow response JSON HTML XML CSV Nectar Desk software development firm base Canada"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Compliance",
+        "api_name": "ServeManager",
+        "id": 3650,
+        "progweb_descr": " ServerManager API integrate time save software resource application specialize law compliance RESTful architecture available JSON responses Developers authenticate Key ensure security SSL"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Automation",
+        "api_name": "Puppet",
+        "id": 3713,
+        "progweb_descr": " Puppet API integrate software service functionality target developer IT team To access GET catalog use JSON protocol To authenticate use HTTP basic auth Puppet Enterprise provide IT automation DevOps software solution"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Data",
+        "api_name": "IP Find",
+        "id": 3766,
+        "progweb_descr": " IP Find API simple API use fetch location information IP Address Using API user receive instant JSON response desire location data"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Data",
+        "api_name": "ECMWF",
+        "id": 5040,
+        "progweb_descr": " ECMWF API allow outside developer access internal data feature ECMWF center This external access limit manage User Profile access Member State Commercial customer ECMWF staff member ECMWF European Center Medium range Weather Forecasting provide model mediumrange numerical weather prediction This API RESTful"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Content",
+        "api_name": "Redlink",
+        "id": 4290,
+        "progweb_descr": " Redlink API SaaS company intend enable app developer build application NLP technology entity extraction semantic analysis well link data across enterprise certain vocabulary cue"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Application Development",
+        "api_name": "stSoftware ReST",
+        "id": 4331,
+        "progweb_descr": " stSoftware API provide business application integration JSON REST format Methods include user service file transaction Developers access session Api Key HTTP basic auth stSoftware provide business technology solution small medium business base Australia"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Application Development",
+        "api_name": "Tapglue",
+        "id": 5157,
+        "progweb_descr": " Tapglue API allow developer create social product With Tapglue user aim integrate social graph news feed order foster user engagement API also allow user profile login realtime activity feed feature"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Application Development",
+        "api_name": "Stamplay",
+        "id": 6616,
+        "progweb_descr": " Stamplay allow build launch run web apps work frontend principal value service focus user experience instead serverside logic A secondary still useful benefit aim connect backend frontend design This work pick component similar building block add task use prebuilt backend service via REST APIs building app frontend"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Applications",
+        "api_name": "Polarion Web Services",
+        "id": 4532,
+        "progweb_descr": " Polarion API allow interact Web Services feature include tracker session security test management Polarion Software provide browserbased application lifecycle management ALM service capability developers implement automotive medical aerospace enterprise project"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Conversions",
+        "api_name": "giflayer",
+        "id": 4770,
+        "progweb_descr": " giflayer API build provide powerful userfriendly way perform Video GIF Conversion speed quality 30 Frames per Second FPS It support major video portal eg YouTube Vimeo Vine direct video link video file format Integrating giflayer API application enable automatically generate GIFs fullfeatured suite customization option Cropping Resizing create Trailers set Start End Duration parameter specify preferred FPS"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,eCommerce",
+        "api_name": "YaaS",
+        "id": 5105,
+        "progweb_descr": " Yaas API provide variety service developer From REST interface URI search aggregation join hybris YaaS build business service reach developer YaaS customer use hybris Front Office ie hybris Commerce hybris Marketing hybris PCM etc use YaaS build get faster YaaS developer portal contain APIs service developer need build anything YaaS commerce functionality need build storefront"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,eCommerce",
+        "api_name": "Synced.io",
+        "id": 8037,
+        "progweb_descr": " Syncedio API allow developer build loyalty reward cashback point content monetization tool application Individual developer use affiliate network credential aggregate offer report data affiliate network across 37 country transform transactional data reward Public documentation available API access API console access come account service Test account free request"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Enterprise",
+        "api_name": "Replicated Vendor",
+        "id": 5205,
+        "progweb_descr": " Replicated Vendor REST API allow developer access integrate vendor functionality Replicated application API documentation available interested developer contact contactreplicatedcom Vendor API information Replicated enterprise softwareasaservice provider allow company enable SaaS behind firewall"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Enterprise",
+        "api_name": "Replicated License",
+        "id": 5208,
+        "progweb_descr": " Replicated License REST API allow developer access integrate functionality Replicated application main API method retrieve license information manage license information Replicated enterprise softwareasaservice provider allow company enable SaaS behind firewall"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Enterprise",
+        "api_name": "Replicated Audit",
+        "id": 5214,
+        "progweb_descr": " Replicated Audit REST API allow developer access integrate functionality Replicated application main API method retrieve event log audit information Replicated enterprise softwareasaservice provider allow company enable SaaS behind firewall"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Enterprise",
+        "api_name": "Replicated Integration",
+        "id": 5216,
+        "progweb_descr": " Replicated Integration REST API allow developer access integrate functionality Replicated application main API method integrating Replicated container within Replicated application Replicated enterprise softwareasaservice provider allow company enable SaaS behind firewall"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Backup",
+        "api_name": "Replicated Backup",
+        "id": 5215,
+        "progweb_descr": " Replicated Backup REST API allow developer access integrate functionality Replicated application main API method retrieve status backup Replicated enterprise softwareasaservice provider allow company enable SaaS behind firewall"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Addresses",
+        "api_name": "METHIS",
+        "id": 5531,
+        "progweb_descr": " METHIS datamill API collection multiple function validate correct enrich personal information customer prospect API available secure connection use HTTP protocol response always JSON Some key feature check enrich postal address worldwide recognize gender base first name check spell mail server mailbox email address check unify phone number resolve information company within European Union split first name last name capitalization name"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Project Management",
+        "api_name": "Atlassian Bamboo",
+        "id": 6190,
+        "progweb_descr": " Bamboo REST API use basic HTTP request default response XML although JSON request instead Use Atlassians Bamboo API access Bamboo continuous integration CI server Bamboo facilitate automatic release management software application create continuous delivery pipeline"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Authentication",
+        "api_name": "Atlassian Crowd Remote",
+        "id": 6192,
+        "progweb_descr": " Crowd Remote API Atlassians Single Sign On Software API make basic HTTP request default response XML However API configure return JSON instead This REST API base open standard accept program language A feature Crowd Remote API offer user authentication retrieve add update remove user update user password request password reset retrieve add update remove group"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Plugins",
+        "api_name": "Atlassian Stash Comment Likes REST",
+        "id": 6193,
+        "progweb_descr": " Atlassian Stash Comment Likes REST API allow addition removal query comment like use REST resource This API allow integration script interaction application Atlasssian Stash Rest API Stash Comment Like API interacts language format HTTP query capabilityHTTP request make use URI path parse response JSON Preferred authentication OAuth HTTP however API support HTTP Cookies Trusted Application Atlassian create product software developer project manager include JIRA project management tool Confluence collaboration platform There product also include Bitbucket FishEye HipChat Australian company office Australia United States Netherlands Japan"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Forums",
+        "api_name": "Atlassian Stash SSH Rest",
+        "id": 6200,
+        "progweb_descr": " Atlassian SSH REST API allow management user SSH key REST resource Atlassian Stash SSH REST API allow addition removal query comment like use REST resource This API allow integration script interaction application Atlasssian Stash Rest API SSH REST API interact language format HTTP query capabilityHTTP request make use URI path parse response JSON Preferred authentication OAuth HTTP however API support HTTP Cookies Trusted Application Atlassian create product software developer project manager include JIRA project management tool Confluence collaboration platform There product also include Bitbucket FishEye HipChat Australian company office Australia United States Netherlands Japan"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Collaboration",
+        "api_name": "Atlassian Stash Branch Utilities REST",
+        "id": 6208,
+        "progweb_descr": " Atlassian Branch Utilities REST API allow manage repository branch Stash repository REST Resources This API allow integration script interaction application Atlassian Stash Rest APIs Branch Utilities REST API interact language format HTTP query capabilityHTTP request make use URI path parse response JSON Preferred authentication OAuth HTTP however API support HTTP Cookies Trusted Application Atlassian create product software developer project manager include JIRA project management tool Confluence collaboration platform There product also include Bitbucket FishEye HipChat Australian company office Australia United States Netherlands Japan"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Collaboration",
+        "api_name": "Atlassian Stash JIRA Integration",
+        "id": 6209,
+        "progweb_descr": " Atlassian JIRA Integration REST API allow query JIRA information Stash commit REST resource This API allow integration script interaction application Atlasssian Stash Rest API Atlassian JIRA Integration REST API interact language format HTTP query capability HTTP request make use URI path parse response JSON Preferred authentication OAuth HTTP however API support HTTP Cookies Trusted Application Atlassian create product software developer project manager include JIRA project management tool Confluence collaboration platform There product also include Bitbucket FishEye HipChat Australian company office Australia United States Netherlands Japan"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Collaboration",
+        "api_name": "Atlassian Stash Build Integration Rest",
+        "id": 6210,
+        "progweb_descr": " Atlassian Build Integration REST API allow update query build information Stash commit REST resource This API allow integration script interaction application Atlasssian Stash Rest API Build Integration REST API interact language format HTTP query capabilityHTTP request make use URI path parse response JSON Preferred authentication OAuth HTTP however API support HTTP Cookies Trusted Application Atlassian create product software developer project manager include JIRA project management tool Confluence collaboration platform There product also include Bitbucket FishEye HipChat Australian company office Australia United States Netherlands Japan"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Security",
+        "api_name": "Metasploit Remote",
+        "id": 6400,
+        "progweb_descr": " Metasploit penetration test software develop Rapid7 Metasploits main feature scan verify vulnerability manage security assessment Metasploit API let developer integrate application service enable user scan test applicationswebsites vulnerable security issue"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Browsers",
+        "api_name": "PhantomJs Cloud",
+        "id": 6921,
+        "progweb_descr": " With PhantomJs Cloud user collect visualize data Javascript website main value use PhantomJs Cloud API may variety format render webpage HTML PDF JPEG PNG JSON Developers work large amount data multiple sit benefit API require key confirm user access API screenscrape Some resource feature website include endpoint parameter response request demo model PhantomJs Cloud SaaS cost 10000 page day To connect support developer give feedback ask help website In community forum ask question request new feature"
+    },
+    {
+        "progweb_cat": "Software-as-a-Service,Analytics",
+        "api_name": "Meniscus Real Time Calculator",
+        "id": 7940,
+        "progweb_descr": " Meniscus Real Time Calculator calculation engine allow user create complex calculation turn raw data information meaningful actionable Meniscus Real Time Calculator API allow developer access integrate functionality Meniscus applications Some example API method include return group return subgroup send raw data calculator create updating calculation manage property Item More information find httpwwwmeniscuscoukdevelopersapicoreconcepts"
+    }
+]

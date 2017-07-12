@@ -1,0 +1,902 @@
+[
+    {
+        "progweb_cat": "Database,Platform-as-a-Service",
+        "api_name": "Amazon RDS Relational Database Service",
+        "id": 106,
+        "progweb_descr": " Amazon Relational Database Service aka Amazon RDS web service let set operate scale relational database cloud It provide costeffective resizable capacity Amazon RDS give access full capability MySQL database Thus code apps tool already use today exist MySQL database work asis Amazon RDS API provide"
+    },
+    {
+        "progweb_cat": "Database,Platform-as-a-Service",
+        "api_name": "BlankSlate",
+        "id": 519,
+        "progweb_descr": " BlankSlate platform service complete set building block access API use make kind web application"
+    },
+    {
+        "progweb_cat": "Database,Background",
+        "api_name": "IMSAS",
+        "id": 110,
+        "progweb_descr": " IMSAS LLC lead provider Web Service solution across range background screen data MVR record income medical license verification IMSAS product deliver use XML base languages ensure crossplatform compatibility suite search APIs give user access data range search solution meet vary need software application IMSAS criminal record database alone contain 400 million record accessible data include criminal record SSN screen sex offender record tenant background screen APIs use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "Amazon SimpleDB",
+        "id": 143,
+        "progweb_descr": " From site Amazon SimpleDB web service run query structure data real time This service work close conjunction Amazon Simple Storage Service Amazon S3 Amazon Elastic Compute Cloud Amazon EC2 collectively provide ability store process query data set cloud"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "Yahoo Query Language",
+        "id": 216,
+        "progweb_descr": " Yahoo Query Language YQL provide single endpoint service enable developer query filter combine data across Yahoo beyond YQL expose SQLlike SELECT syntax familiar developer expressive enough get right data"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "W3C Indexed Database",
+        "id": 3241,
+        "progweb_descr": " W3C Indexed Database API document defines APIs database record hold simple value hierarchical object API use locate database record either key use index If desire developer may layer query language API"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "TheBigDB",
+        "id": 9822,
+        "progweb_descr": " TheBigDB looselystructured database free open public It contain miscellaneous fact store statement simply array node anyone create upvote downvote TheBigDB datatypes namespaces list domains Users search node programmatically use REST call issue JSON format"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "BaseBear",
+        "id": 10057,
+        "progweb_descr": " BaseBear online tool tool allow create database directly web quickly without program API allow user view database information view table view field view record An account si required access API API key SSL use API authentication service use REST call return XML JSON"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "ThriftDB",
+        "id": 10351,
+        "progweb_descr": " ThriftDB documentoriented data storage service build top Thrift serialization protocol ThriftDB design flexible highly scalable extremely fast Its flexible schema allow user add delete modify attribute freely without need downtime Users also perform fulltext search faceted query across item ThriftDB offer hosted service accessible RESTful call communicate JSON"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "BigTable",
+        "id": 12508,
+        "progweb_descr": " BigTable sparse distribute scalable database create Google use many popular service Andrew Hitchcock expose BigTable interface public use via pseudoRESTful API Anyone register account gain free access service This unofficial API endorse support maintain Google"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "MyTaskHelper",
+        "id": 13778,
+        "progweb_descr": " Gives access data store within MyTaskHelper database give function currently offer default MTH UI Enables database function like create script form integrate desktop mobile application different platform like iPhoneAndroid"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "Evrythng",
+        "id": 14197,
+        "progweb_descr": " EVRYTHNG Web Things software company make product smart interactive trackable connect Web EVRYTHNG offer RESTful API toolkit allow developer share manage access realtime information object Restponses format JSON"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "FluidDB",
+        "id": 14493,
+        "progweb_descr": " FluidDB single web thing provide noquestionsasked writable social object represent every thing Using flexible underlying representation information new model control allow user application work information without constraint That include dynamically organize share combine augment information search way previously possible It also allow user choose exactly information share separate control read write FluidDB make possible data social It allow almost unlimited information personalization individual user application also This make simple build wide variety application benefit cooperation open unanticipated future enhancement Even importantly FluidDB facilitate encourages growth application leave user control data FluidDB API make possible developer create apps programmaticaly search FluidDB datbase"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "M/DB",
+        "id": 15291,
+        "progweb_descr": " MDB plugcompatible alternative Amazon SimpleDB Outwardly behave identically SimpleDB access REST APIs return identical response difference use REST request direct different domain name IP address"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "RdbHost",
+        "id": 15434,
+        "progweb_descr": " RdbHost create database use PostgreSQL engine exclusively use First need create account get database access via HTTP request regular SQL"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "gubb",
+        "id": 15559,
+        "progweb_descr": " From site gubb free webbased application easytouse interface enable create manage share unlimited number list gubb API exist help developer create noncommercial application browser plugins software interact data inside gubb Very Exciting Point gubb API offer ability filterquery item across list ability expose gubb web application All call format apiobjectclassmethodnameresponseformat"
+    },
+    {
+        "progweb_cat": "Database",
+        "api_name": "NextDB",
+        "id": 15781,
+        "progweb_descr": " NextDB host database accessible JavaScript Unlike traditional database NextDB require installation A NextDB account let create many database like Entire database apps write HTML JavaScript"
+    },
+    {
+        "progweb_cat": "Database,Tools",
+        "api_name": "Google Fusion Tables",
+        "id": 223,
+        "progweb_descr": " Google Fusion Tables free service share visualize data online It let upload data share mark data collaborator merge data multiple table create visualization chart map API let update query dataset Fusion Tables programmatically API let import data data source whether text file full database"
+    },
+    {
+        "progweb_cat": "Database,Tools",
+        "api_name": "Polar Bear Farm AirForms",
+        "id": 10060,
+        "progweb_descr": " Polar Bear Farm New Zealand base software development create native application Apple iPhone iPod touch Polar Bear Farm AirForms API allow user create cloud base table user enter data source URL tell Air Forms send request data API 8 function authenticate recordcount recordsatoffset newrecord deleterecord updaterecord valuesforlist dataformediacolumn"
+    },
+    {
+        "progweb_cat": "Database,Tools",
+        "api_name": "FoundationDB",
+        "id": 11588,
+        "progweb_descr": " FoundationDB NoSQL database It uniquely scalable provide multiple important customizable feature common NoSQL databases It allow ACID transaction high fault tolerance due elasticity spread multiple server cloud FoundationDB API expose much functionality database It RESTful return JSONencoded data"
+    },
+    {
+        "progweb_cat": "Database,Tools",
+        "api_name": "Freecode Data",
+        "id": 12097,
+        "progweb_descr": " Freecode database Linux Unix crossplatform software apps repository hold catalogue technical definition mostly opensource application history projectâ€™s release Freecode also publish content culture craft cod API expose siteâ€™s database developer wish access information release screenshots different application It RESTful API return JSON XML format data"
+    },
+    {
+        "progweb_cat": "Database,Reference",
+        "api_name": "Freebase",
+        "id": 277,
+        "progweb_descr": " Freebase open database 22 million real world entity like people place organizations much Its build community community free anyone query contribute build application top integrate website Freebase API aggregate HTTP APIs provide readwrite access data store Freebase APIs support different use case allow get access Freebase data many different way search API return freebase data give free text user query search service index freebase data give entity well source Wikipedia content"
+    },
+    {
+        "progweb_cat": "Database,Reference",
+        "api_name": "Open Responsibility",
+        "id": 8363,
+        "progweb_descr": " Open Responsibility open access database information sustainability work performance company institution It global database organization use share sustainability data Anyone view utilize sustainability information database research journalistic project academic purpose Open Responsibility offer REST API enable developer integrate sustainability data new application tool Methods include Organization Document Measure Fund An API key require"
+    },
+    {
+        "progweb_cat": "Database,Reference",
+        "api_name": "ArtFacts",
+        "id": 8964,
+        "progweb_descr": " ArtFacts provide database useful fact art world along special analysis tool help user understand art market It provide data artist exhibit exhibitor work art catalog There also chart graph cover auction result type show exhibition history artists international scope ArtFacts API still Beta It retrieve ArtFacts top rank artist get site list Up Coming artist search specific artist get detail specific artist"
+    },
+    {
+        "progweb_cat": "Database,Reference",
+        "api_name": "SureChemDirect",
+        "id": 11246,
+        "progweb_descr": " SureChemDirect API design allow occasional developer access complete collection SureChem chemistry patent full text relate metadata By use API developer perform search set alert enhance personal database relevant chemistry patent aim API allow developer access SureChem data le limitation access use data"
+    },
+    {
+        "progweb_cat": "Database,Reference",
+        "api_name": "Voicebox",
+        "id": 11826,
+        "progweb_descr": " Voicebox data visualization project Produced vInspired network connects young people volunteer opportunity UK Voicebox collect information young peoplesâ€™ opinion draw insightful visuals conclusion data set collect Voicebox project publically available interested party Voicebox API expose data retrieval functionality offer It RESTful API return XMLencoded data"
+    },
+    {
+        "progweb_cat": "Database,NoSQL",
+        "api_name": "Amazon DynamoDB",
+        "id": 336,
+        "progweb_descr": " Amazon DynamoDB scalable NoSQL database homegrown Amazon team Developers set write read capacity match number read write system need Like NoSQL databases DynamoDB relational So dont expect join complex query Amazon DynamoDB API contain method thing would expect database create update delete table create update delete retrieve item table Like NoSQL databases Amazon DynamoDB API RESTful data return JSON"
+    },
+    {
+        "progweb_cat": "Database,Search",
+        "api_name": "Google BigQuery",
+        "id": 353,
+        "progweb_descr": " Google BigQuery service allow user run SQLlike query large datasets potentially billion row BigQuery work best interactive analysis typically use small number large appendonly table Users access BigQuery use BigQuery browser bq commandline tool REST API Google Apps Script"
+    },
+    {
+        "progweb_cat": "Database,Search",
+        "api_name": "The Alife Database",
+        "id": 10025,
+        "progweb_descr": " Alife Database contain list website related Alife artificial life Entries automatically gather intelligent search bot scan web use specify keywords When suitable page find metatags analyze content insert appropriate field database Authors sit referenced database welcome edit update entry In addition anyone welcome add new entry Aliferelated site Alife Database fully searchable website well via API"
+    },
+    {
+        "progweb_cat": "Database,Enterprise",
+        "api_name": "SlashDB",
+        "id": 356,
+        "progweb_descr": " SlashDB automatically turn database online resource content become accessible authorized web mobile enterprise application read write standard data format Technically speak make REST APIs relational database Here generic use case SlashDB good choice Data publishing data exchange partnersclients Instant developer API exist databasedriven website Database search data discovery data scientist Enterprise database gateway webmobile application Enterprise data management federation ROA data virtualization What use case SlashDB currently available onpremise cloud installation We provide readytouse virtual machine AMI VMware VirtualBox etc make snap get start Once VM launch userfriendly web base admin GUI allow add remove reconfigure database service Pricing tailor business special offer qualify startup nonprofit institution high education"
+    },
+    {
+        "progweb_cat": "Database,Enterprise",
+        "api_name": "MarkLogic",
+        "id": 2563,
+        "progweb_descr": " MarkLogic API allow developer interface MarkLogic NoSQL database system application Users create read update delete document CRUD They also search document perform analytics content MarkLogic database platform design integrate store manage search data enterprise scale"
+    },
+    {
+        "progweb_cat": "Database,Products",
+        "api_name": "Factual",
+        "id": 577,
+        "progweb_descr": " Factual open data platform application developer leverage largescale data aggregation community exchange Our focus make data accessible ie cheap high quality less encumbered machine developer drive accelerate innovation unprecedented way We take dirty work data management data curation let developer focus high value productive task We provide clean structure data complete source transparency developer via download API access liberal term"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "Infogroup Infoconnect",
+        "id": 951,
+        "progweb_descr": " Infoconnect API super powerful way tap immense Infogroup Consumer Business databases It let search record database use huge number different criterion If try find company people might interested new product service data give list people Just try clean exist data fill miss field like phone email address Our API let integrate data CRM marketing tool almost product By use API data data"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "GitHub Projects",
+        "id": 3114,
+        "progweb_descr": " Projects API allow developer modify update create repository information within GitHub environment This API currently early access modification occur without advance notice Only 30 second available per occurrence During early access developer must custom medium type accept header"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "GitHub Git Data",
+        "id": 5863,
+        "progweb_descr": " GitHub Git Data API allow developer integrate Git Database service application give developer access read write raw Git object Git database GitHub This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "MNopedia",
+        "id": 6406,
+        "progweb_descr": " MNopedia service offer Minnesota Historical Society share information people place event thing Minnesota History MNopedia API let developer integrate database application allow user access information websites mobile application"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "IMVDb",
+        "id": 6875,
+        "progweb_descr": " Internet Music Video Database IMVDb large online collection music video artists credit Users create account IMVDb browse find new popular music video create playlist help expand database share find others IMVDb host API allow developer easily retrieve metadata database This information include artist name playcount year associate image entity names credit link external medium IMVDb also host API Sandbox allow demo test API without require API key IMVDb recommend developer stay tune release API currently Beta mode"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "Apperian Users",
+        "id": 7523,
+        "progweb_descr": " Apperian mobile app management platform set open APIs handle key element extend integrate create additional functionality value Users API use authenticate EASE server It provide unique token need HTTPS request send EASE web service API also use add user list user detail update user attribute delete user"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "KuroBase",
+        "id": 8375,
+        "progweb_descr": " KuroBase cloudbased Database Service DbaaS set quickly scale easily share dedicated instance KuroBase monitor database capacity software status continuously allocate patch updating instance without cause downtime compromise end user experience Users schedule automatic database backup frequency wish KuroBases web standard interface allow user develop deploy database across multiple platform without recode use client SDK Developers access database record use RESTful KuroBase API"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "Form Assembly",
+        "id": 8728,
+        "progweb_descr": " Form Assembly web form data collection service allow user build web form use simple GUI collect customer data efficiently Form Assembly APi use REST call return JSON XML Form Assembly API allow user interact user account export data An account required service SSL API Key OAuth20 use authentication"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "Exversion",
+        "id": 8855,
+        "progweb_descr": " Exversion data platform crawl index worldâ€™s open data make searchable single API Exversion API provide RESTful access data provide data management tool query join data post private data repository"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "Enigma",
+        "id": 8978,
+        "progweb_descr": " Enigma platform bring together thousand various public data source Enigma allow user view analyze data various data variable combine view datasets provide new insight analysis Enigma API allow developer access integrate functionality Enigma application create new application Public documentation available interested developer sign information httpdevenigmaio"
+    },
+    {
+        "progweb_cat": "Database,Data",
+        "api_name": "inome exchange",
+        "id": 10431,
+        "progweb_descr": " Inome platform look make information personcentric Their INXSearch bind user correspond profile inome return enrich user information Developers use API create application build information genome help people connect control publicly available information make inform decision API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Database,Storage",
+        "api_name": "Amazon Redshift",
+        "id": 1050,
+        "progweb_descr": " Amazon Redshift cloud base fully manage petabytescale data warehouse service Amazon Redshift manage work need set operate scale data warehouse cluster provision capacity monitoring back cluster apply patch upgrades Developers interested API contact Amazon limit preview service"
+    },
+    {
+        "progweb_cat": "Database,Storage",
+        "api_name": "StorageMadeEasy Cloud Data",
+        "id": 11189,
+        "progweb_descr": " StorageMadeEasy Cloud Data API enable user use one API work 35 public private storage information Clouds API aim solve key issue unify cloud information across different cloud service Functionality include access control permission file lock event audit use natively Cloud drive desktop mobile device It RESTful responses XML support kind authentication protocol differ Cloud service"
+    },
+    {
+        "progweb_cat": "Database,SQL",
+        "api_name": "Google Cloud SQL",
+        "id": 1079,
+        "progweb_descr": " Google Cloud SQL provide cloudbased MySQL database recommend small mediumsized application It offer ability function MySQL along additional feature RESTful Google Cloud SQL API provide method work instance retrieve information API use create delete restart restore instance well import export databases Users also get information instance backup run along list project instance available tier service"
+    },
+    {
+        "progweb_cat": "Database,API Management",
+        "api_name": "CKAN",
+        "id": 1196,
+        "progweb_descr": " CKAN Comprehensive Knowledge Archive Network opensource data portal platform provide box solution manage transfer access data CKAN operate SaaS model create help data publisher make data open available CKAN platform contain catalog system web interface data visualization analytics workflow support access control data storage federate structure web service break two distinct part Search Model Search API expose method search resource datasets revision well tag count Model API provide variety GET POST PUT operation manipulate create retrieve model resource platform"
+    },
+    {
+        "progweb_cat": "Database,Database-as-a-Service",
+        "api_name": "MongoLab",
+        "id": 1378,
+        "progweb_descr": " MongoLab fullymanaged cloud database service feature highlyavailable MongoDB database automate backup webbased tool 247 monitoring expert support By host MongoDB MongoLabâ€™s DatabaseasaService DBaaS platform developer IT professionals free focus attention product development instead operation MongoLab run major cloud platform include Amazon Joyent Rackspace Windows Azure partner major PlatformasaService PaaS provider enable seamless integration application tier Headquartered San Francisco MongoLab back premier venture angel investor include Foundry Group Baseline Ventures GRP Partners Freestyle Capital David Cohen TechStars Learn httpsmongolabcom"
+    },
+    {
+        "progweb_cat": "Database,Database-as-a-Service",
+        "api_name": "CloudBoost",
+        "id": 5290,
+        "progweb_descr": " CloudBoost API provide database service building apps REST API use JSON HTTP HTTP Basic Auth authentication Use CloudBoost add datastorage search graph realtime apps See extensive API documentation detail instruction set database"
+    },
+    {
+        "progweb_cat": "Database,Application Development",
+        "api_name": "Github GraphQL",
+        "id": 1460,
+        "progweb_descr": " Github GraphQL API allow developer request information Github match query format customized JSON call return relational JSON format response Available resource include commits deployment status language organization repository team user many Currently subscopes like useremail support GitHub GraphQL API early access"
+    },
+    {
+        "progweb_cat": "Database,Application Development",
+        "api_name": "Packagist",
+        "id": 4312,
+        "progweb_descr": " Packagist API allow developer list package organization search package tag search package name get package name Packagist default repository public PHP package installable Composer Dependency Manager PHP It help user find packages let Composer know get code"
+    },
+    {
+        "progweb_cat": "Database,Big Data",
+        "api_name": "Mozilla IndexedDB",
+        "id": 2153,
+        "progweb_descr": " Mozilla IndexedDB support development data storage application It particularly suit construction storage application capable accommodate bulk structure data file API operate objectoriented database support use indexed key storage recovery object"
+    },
+    {
+        "progweb_cat": "Database,Big Data",
+        "api_name": "Cloud Elements Database Hub",
+        "id": 3502,
+        "progweb_descr": " Cloud Elements Database Hub API provide developer RESTful access PostgreSQL MySQL SQL Server databases API transforms table within database collection resource developer easily interact It also generate API documentation automatically base information table"
+    },
+    {
+        "progweb_cat": "Database,Big Data",
+        "api_name": "HyperTable Thrift",
+        "id": 8908,
+        "progweb_descr": " HyperTable big data management service design help company organize manipulate analyze large data set company aim reduce cost utilize maximum efficiency require less datacenter space less electrical cost HyperTable Thrift API allow user add remove update manipulate large datasets HyperTable manages An account required service"
+    },
+    {
+        "progweb_cat": "Database,Big Data",
+        "api_name": "Boston Predictive Analytics",
+        "id": 8926,
+        "progweb_descr": " Boston Predictive Analytics business intelligence provider use data analytics statistical analysis provide target approach business problem user focus task Boston Predictive Analytics API big data application allow user integrate customer segmentation spam detection lead score message rout fraud analysis many function exist application An account required service API cost 99 per month access"
+    },
+    {
+        "progweb_cat": "Database,Analytics",
+        "api_name": "Kinetica",
+        "id": 2626,
+        "progweb_descr": " Kinetica API allow developer programmatically access database create table add row read row delete row API also include function filter visualization Kinetica GPUaccelerated database design perform realtime analyse large stream datasets It use ingest explore visualize streaming data"
+    },
+    {
+        "progweb_cat": "Database,Analytics",
+        "api_name": "restdb",
+        "id": 4871,
+        "progweb_descr": " restdb API RESTful API providing tool developer data collection medium content highlight quickly define data backends restdbio provide service user database need webbased data management data model without cod noSQL database backend"
+    },
+    {
+        "progweb_cat": "Database,Analytics",
+        "api_name": "Tuhunga",
+        "id": 10921,
+        "progweb_descr": " Tuhunga automate data collection analyze visualization share service service allow user identify online data store data want track include continually update realtime Tuhunga also integrate thirdparty data provider Tuhunga API available Power level membership require API key access API use SSL authentication"
+    },
+    {
+        "progweb_cat": "Database,Analytics",
+        "api_name": "TempoIQ",
+        "id": 12757,
+        "progweb_descr": " TempoIQ API formerly TempoDB allow developer integrate TempoIQs function analyze sensor data application API allow user perform variety analysis include summary rollups aggregation interpolation TempoIQ also store monitor incoming data anomaly push alert user something noteworthy happens"
+    },
+    {
+        "progweb_cat": "Database,Cloud",
+        "api_name": "Datomic Client",
+        "id": 2641,
+        "progweb_descr": " Datomic fully transactional cloudready distribute database let build flexible distribute system leverage entire history critical data current state With Datomic build databases exist infrastructure jump straight cloud Datomic Client API library interacting Datomic"
+    },
+    {
+        "progweb_cat": "Database,Cloud",
+        "api_name": "Xplenty",
+        "id": 7416,
+        "progweb_descr": " Xplenty cloud service process big data large small company Its platform provide system administration need use Hadoop business access data XPlenty dashboard without invest new infrastructure data personnel Xplenty REST API allow control management data processing job job cluster also provide ability monitor job cluster activity status"
+    },
+    {
+        "progweb_cat": "Database,Cloud",
+        "api_name": "Mydoorhandle",
+        "id": 7532,
+        "progweb_descr": " MyDoorHandle online locationsharing app us GPS technology mobile device create unique locationbased name aka DoorHandles A DoorHandle enable share location across platform device This allow people business find API provide website ability create private DoorHandles allow digitize customer location data store address locations customer online order It secure cloudbased repository data"
+    },
+    {
+        "progweb_cat": "Database,Cloud",
+        "api_name": "ObjectRocket",
+        "id": 10278,
+        "progweb_descr": " ObjectRocket cloud infrastructure databaseasaservice DBAAS share MongoDB provider environment ObjectRocket include database management feature backup service scale share environment ObjectRocket API allow developer access integrate functionality ObjectRocket application create new application Some example API method include add data database retrieve data database edit delete data database"
+    },
+    {
+        "progweb_cat": "Database,Cloud",
+        "api_name": "SpacialDB Layers",
+        "id": 12055,
+        "progweb_descr": " SpacialDB geospatial database service allow user create operate scale dedicate geospatial database cloud A SpacialDB database use transparently place cloudbased database Amazon RDS Rackspace Storage Heroku PostgreSQL SpacialDB Layers API allow user access geospatial data RESTfully either JSON JSONP format"
+    },
+    {
+        "progweb_cat": "Database,Cloud",
+        "api_name": "Caspio Web Services",
+        "id": 12385,
+        "progweb_descr": " Caspio Bridge cloud database platform use build interactive web application pointandclick wizard It aim allow user build web form databases enterprise management application without need program skill Caspio Bridge API allow thirdparty integration exist Caspio application cloud service"
+    },
+    {
+        "progweb_cat": "Database,Cloud",
+        "api_name": "ClearDB",
+        "id": 12578,
+        "progweb_descr": " ClearDB cloud database platform user back web site blog application Itâ€™s fully ACID compliant relational database accessible platform programming language It offer RESTful API allow user query database API also use automate backup operation get realtime status info database"
+    },
+    {
+        "progweb_cat": "Database,Cloud",
+        "api_name": "Xeround Cloud Database",
+        "id": 14182,
+        "progweb_descr": " Xeround company provide cloud database SaaS fully compatible MySQL store Xerounds server Amazon EC2 RackSpace Xeround Cloud Database API SOAP REST API allow developer build cloud database management softwareapplication integrate cloud management exist application Xeround API available register user Xerounds cloud database service"
+    },
+    {
+        "progweb_cat": "Database,Cloud",
+        "api_name": "Dydra",
+        "id": 14233,
+        "progweb_descr": " Dydra cloudbased RDF store databaseasaservice Users import data SPARQL endpoint make available application use Users perform account function Dydracom via standard REST API Some functionality include read update account information create repository download repository various RDF format Responses format XML JSON"
+    },
+    {
+        "progweb_cat": "Database,Cloud",
+        "api_name": "Database.com",
+        "id": 14822,
+        "progweb_descr": " Databasecom database service cloud Its service include database tool file storage social data model identification authentication developer API With Databasecom API developer create application variety languages variety platform include mobile social web desktop"
+    },
+    {
+        "progweb_cat": "Database,Movies",
+        "api_name": "Opensubtitles Universal",
+        "id": 4004,
+        "progweb_descr": " Opensubtitles Universal API movie identification platform allow user locate profile internet movie subtitle accord file size byte Internet Movie Database ID IMDBID name year series season episode API flexible node browser require authorized token access send request XMLRP format Although Opensubtitles Universal API impose restriction extension size videos accepts certain format subtitle file extension list documentation"
+    },
+    {
+        "progweb_cat": "Database,Movies",
+        "api_name": "AllSubs",
+        "id": 8925,
+        "progweb_descr": " AllSubsorg online database movie television series subtitle AllSubsorg expose subtitle collection simple API freely accessible API support episode movie search simple HTTP call return XML format result include title description language link"
+    },
+    {
+        "progweb_cat": "Database,Barcodes",
+        "api_name": "Bluesoft Cosmos",
+        "id": 4439,
+        "progweb_descr": " This JSON format API offer developer access Cosmos BlueSoft product Bluesoft ERP service contains variety function gear towards OMIS These function include ability manage sale inventory contract product collect information competitor contact supplier bank Bluesoft RESTful API offer real time cloud base data customer support"
+    },
+    {
+        "progweb_cat": "Database,Barcodes",
+        "api_name": "Open EAN/GTIN Database",
+        "id": 13338,
+        "progweb_descr": " Open EANGTIN barcode number database let user query barcode number online receive information relate product database contain EANGTINUPCJAN code provide detailed information product tag barcode number API let user query database web sit application It use HTTP call response format TXT"
+    },
+    {
+        "progweb_cat": "Database,Management",
+        "api_name": "ArchivesSpace",
+        "id": 4450,
+        "progweb_descr": " ArchivesSpace API allow developer edit archive record application ArchivesSpace webbased archive information management system It provide user collection management record event track administrative report It also function metadata author tool generate EAD MARCXML MODS Dublin Core METS format data"
+    },
+    {
+        "progweb_cat": "Database,Management",
+        "api_name": "Device42",
+        "id": 8752,
+        "progweb_descr": " Device42 infrastructure management provider offer data center management IP address management IT asset QR code management Device42 API allow user enter edit retrieve data API use REST call return JSON XML JSONP An account required service"
+    },
+    {
+        "progweb_cat": "Database,Content",
+        "api_name": "Fieldbook",
+        "id": 4520,
+        "progweb_descr": " Fieldbook API provide developer access tool assist read writing record view edit database It allow user store content configuration apps act quick back end prototyping workflows client apps It also glue together system process Fieldbook provide relational structure spreadsheet format offer data integrity protection"
+    },
+    {
+        "progweb_cat": "Database,Content",
+        "api_name": "Picturepark",
+        "id": 6494,
+        "progweb_descr": " Picturepark Database Activity Monitoring tool Digital Asset Management tool Picturepark service enable developer monitor lifecycle content use adaptive metadata Picturepark API handle SOAP offer read write capability read method free Picturepark basic account consume complete Picturepark Web API service enables write method require license"
+    },
+    {
+        "progweb_cat": "Database,3D",
+        "api_name": "Senvol Database",
+        "id": 4807,
+        "progweb_descr": " Senvol Database industrial additive manufacturing machine material database Benefits API include access raw data ability manipulate data automatic update new data add See companys website detail license option API"
+    },
+    {
+        "progweb_cat": "Database,3D",
+        "api_name": "ADL 3D Repository (3DR)",
+        "id": 14188,
+        "progweb_descr": " Advanced Distributed Learning ADL 3D Repository 3DR website upload find download 3D model file type fbx dae obj skp 3d Services also available extract metadata information convert model file type view model RESTful ADL 3DR API give developer access model expose function JSON XML"
+    },
+    {
+        "progweb_cat": "Database,Audio",
+        "api_name": "cuteRadio Data",
+        "id": 4865,
+        "progweb_descr": " cuteRadio Data API free internet radio service provide developer access large database internet radio station Some main feature API tool search station browse station country genre language access recently play station create edit station Some service open others require authentication cuteRadio allpurpose Internet Radio client"
+    },
+    {
+        "progweb_cat": "Database,Automation",
+        "api_name": "Vertabelo",
+        "id": 5116,
+        "progweb_descr": " Vertabelo API provide XML format integrate data automation feature application Developers access resource use API Token aim design databases distributed support effective user interface Vertabelo provide solution design refine online database model"
+    },
+    {
+        "progweb_cat": "Database,Annotations",
+        "api_name": "Rich Citations",
+        "id": 7037,
+        "progweb_descr": " PLOS Labss Rich Citations API automatically collect rich citation information PLOS article It accessible web API allow developer researcher use rich citation PLOS article build tool database"
+    },
+    {
+        "progweb_cat": "Database,Earthquakes",
+        "api_name": "Japan Seismic Hazard Information Station",
+        "id": 7359,
+        "progweb_descr": " Japan Seismic Hazard Information Station JSHIS part Japans National Research Institute Earth Science Disaster Prevention It help Japanese public prepare earthquake maintain map numerical data regard seismic activity allow public access data via RESTful API API documentation provide Japanese"
+    },
+    {
+        "progweb_cat": "Database,Animals",
+        "api_name": "Wildlife Rehabilitation MD Closed WRMD",
+        "id": 7361,
+        "progweb_descr": " Wildlife Rehabilitation MD WRMD online medical database It design wildlife rehabilitators collect manage analyze data patient It recordkeeping system store manage large amount data allows data mining quick data entry With Closed WRMD API developer extend capacity database Using action filter use create extension well user experience Metaboxes registration helper fuctions also available"
+    },
+    {
+        "progweb_cat": "Database,Government",
+        "api_name": "One Degree",
+        "id": 7398,
+        "progweb_descr": " One Degree provide way find manage share nonprofit service include review feedback Currently available San Francisco Bay area API enable access free public database social service agency This API still Beta"
+    },
+    {
+        "progweb_cat": "Database,Government",
+        "api_name": "LightingFacts",
+        "id": 7717,
+        "progweb_descr": " LED Lighting Facts program create US Department Energy encourages produce LED product test post performance result site site design provide information manufacturer retail distributer approval lab industry group LightingFacts API allow developer interact product list get product data perform Product Management perform function An account required service API use REST call return JSON use SSL authentication"
+    },
+    {
+        "progweb_cat": "Database,Government",
+        "api_name": "Openkvk",
+        "id": 7889,
+        "progweb_descr": " Openkvk database information handful resource include kvknl Dutch Chamber Commerce belastingdienstnl Dutch tax information rechtspraaknl Supreme Court Netherlands API allow access crossorigin resource share database"
+    },
+    {
+        "progweb_cat": "Database,French",
+        "api_name": "Firmapi",
+        "id": 7417,
+        "progweb_descr": " Firmapi collect information French business publicly available legal notice advertisement API allow user search ninedigit SIREN French company registration number company name postal code A successful match also return companys number establishment registration date basic financial activity"
+    },
+    {
+        "progweb_cat": "Database,Feeds",
+        "api_name": "VentureDeal",
+        "id": 7419,
+        "progweb_descr": " VentureDeal database provide late information venture capital firm transaction VentureDeal API provide customized XML data fee track activity venturebacked technology startup arena API allow user customize data feed region industry criterion Users set feed follow transaction watch active investor feed An account required service"
+    },
+    {
+        "progweb_cat": "Database,Statistics",
+        "api_name": "Apperian Applications",
+        "id": 7476,
+        "progweb_descr": " Apperian mobile app management platform set open APIs handle key element extend integrate create additional functionality value Applications API enable request statistical data metadata Android Blackberry native OS application store EASE database Data request native application organization available specific user Data also request specific application app catalog organization"
+    },
+    {
+        "progweb_cat": "Database,Statistics",
+        "api_name": "Statistics Sweden",
+        "id": 9819,
+        "progweb_descr": " Statistics Sweden administrative agency supply statistic decisionmaking debate research purpose It primarily serve government agency sometimes provide statistical data private researcher Statistics Sweden provide API access table part table Statistical Database API use without registration currently beta"
+    },
+    {
+        "progweb_cat": "Database,Applications",
+        "api_name": "Apperian Groups",
+        "id": 7524,
+        "progweb_descr": " Apperian mobile app management platform set open APIs handle key element extend integrate create additional functionality value Groups API use add edit list delete group EASE Users must member group application belong order view run application This API enable ability control organize application access group creation"
+    },
+    {
+        "progweb_cat": "Database,Applications",
+        "api_name": "Apperian Downloads and Installs",
+        "id": 7525,
+        "progweb_descr": " Apperian mobile app management platform set open APIs handle key element extend integrate create additional functionality value Downloads Installs API enable download install native application user device EASE server user must assign applicable group access application"
+    },
+    {
+        "progweb_cat": "Database,Art",
+        "api_name": "Europeana",
+        "id": 7614,
+        "progweb_descr": " Europeana provide online database cultural heritage object form book audio clip photo art etc It contain object pertain history fashion map natural history architecture Europeana REST API allow developer integrate ability search retrieve object database application"
+    },
+    {
+        "progweb_cat": "Database,Law",
+        "api_name": "Doxpop",
+        "id": 7656,
+        "progweb_descr": " Doxpop site provide public access court information without physically go courthouse Any person may use service particularly useful professional interact court regularly depend upon court information vital business Doxpop API provide programmatic access court record well allow people automate access court record API use REST call return XML JSON"
+    },
+    {
+        "progweb_cat": "Database,Law",
+        "api_name": "CourtListener",
+        "id": 8237,
+        "progweb_descr": " CourtListener legal database collect nearly 25M grow legal opinion rich meta data citation network Opinions sit archive date back 1700s make deep rich source data many research project CourtListener API allow user access legal data use REST call Users make query get opinion citation citation user cite jurisdiction search coverage An account required service"
+    },
+    {
+        "progweb_cat": "Database,Time Tracking",
+        "api_name": "Zenobase",
+        "id": 7754,
+        "progweb_descr": " Zenobase service provide user ability store data well aggregate visualize personal timeseries data Zenobase API allow user store retreive data API use REST call return JSON API expose 4 section API authentication bucket data event common data Each category include number resource An account required service"
+    },
+    {
+        "progweb_cat": "Database,Testing",
+        "api_name": "RandomProfile",
+        "id": 7796,
+        "progweb_descr": " RandomProfile profile generation service user create profile use test software creation RandomProfile API use REST call return XML CSV JSON On call API generate two random user profile country user select These profile design test database project date website social network forum professional network result include randomly generate name surname address zip code country occupation date birth bank account number credit card number height weight clothes size characteristic"
+    },
+    {
+        "progweb_cat": "Database,Engagement",
+        "api_name": "IsaaCloud",
+        "id": 7797,
+        "progweb_descr": " IsaaCloud cloudbased gamification stack IsaaCloud Engagement API public IsaaCloud API documentation public A developer IsaaCloud account limit compute bandwidth storage capacity free charge available follow simple registration process Supplied sample engagement scenario enable small project launch without cod"
+    },
+    {
+        "progweb_cat": "Database,Verification",
+        "api_name": "Have I been pwned",
+        "id": 7841,
+        "progweb_descr": " Have I Pwned database usernames email address appear breached website disclosure site contain breach data 16 website contain 161000000 account pwned Have I Pwned API use REST call return JSON use SSL security API allow user make call access data house Have I Been Pwned include get breach account get breach system call"
+    },
+    {
+        "progweb_cat": "Database,Media",
+        "api_name": "Danish Heritage Agency",
+        "id": 7896,
+        "progweb_descr": " Danish Heritage Agency database contain information artwork purchase supported Danish Arts Foundation Covering approximately 4800 work art documentation include image text interview API use registration data disseminate selection museum collection art index Data various source link present together"
+    },
+    {
+        "progweb_cat": "Database,Media",
+        "api_name": "My API Films",
+        "id": 8016,
+        "progweb_descr": " My API Films API provide unofficial access IMDB site REST search function API return XML JSON use query field IMDB site site restrict usage 2000 call per day user require get account use sort request authentication"
+    },
+    {
+        "progweb_cat": "Database,Backend",
+        "api_name": "Adlib",
+        "id": 7897,
+        "progweb_descr": " Adlib provide software manage share collection Thier system use open platform employ Microsoft SQL database technology ease integration ensure sustainability Adlib API command library access database create software command library organize six category Search Write Session Lock Utilities Select This API provide three method build application Url request AdlibData Windows dll jQuery plugin"
+    },
+    {
+        "progweb_cat": "Database,Backend",
+        "api_name": "Datalanche",
+        "id": 9217,
+        "progweb_descr": " Datalanche database server management service work structure data It design provide persistent data storage mobile web apps It also offer public data repository contain thing like directory information medical code This repository query via REST API download CVS file Datalanche also capable act central repository structure data multiple source REST API automate aggregation data access single point Datalanche user share structure data privately 3rd party share API endpoint let others read write data"
+    },
+    {
+        "progweb_cat": "Database,Religion",
+        "api_name": "Elvanto",
+        "id": 8144,
+        "progweb_descr": " Elvanto church platform management service aim provide organizational planning financial tool religious organization Elvanto API use REST call return JSON XML PHP API allow user make call access information people church member access group church calendar financial information An account required service"
+    },
+    {
+        "progweb_cat": "Database,Education",
+        "api_name": "ImageNet",
+        "id": 8160,
+        "progweb_descr": " ImageNet image dataset create intention provide researcher student educator around world easy access cleanly sort humancurated image dataset organize base WordNet hierarchys synset synonym set concept may describe multiple word phrase ImageNet average 500 image per synset would like provide 1000 image per synset future"
+    },
+    {
+        "progweb_cat": "Database,Education",
+        "api_name": "PSLC DataShop",
+        "id": 13854,
+        "progweb_descr": " DataShop service Pittsburg Science Learning Center PSLC DataShop repository research data also provide analysis reporting tool DataShop data may query retrieved via RESTful API Responses return XML tabdelimited text Future plan API include ability upload data well"
+    },
+    {
+        "progweb_cat": "Database,Social",
+        "api_name": "TechShaker",
+        "id": 8308,
+        "progweb_descr": " TechShaker open database tech ecosystem Europe project aim add value tech community Europe around world collect share relevant data Database entity include company startups incubator investor venture capitalists accelerator TechShaker offer REST API allow TechShaker data integrate website application An API key available upon connect Twitter account TechShaker"
+    },
+    {
+        "progweb_cat": "Database,Social",
+        "api_name": "Datownia",
+        "id": 10652,
+        "progweb_descr": " Datownia platform company organization share data make data available developer create application data Datownia API allow developer access integrate functionality data Datownia application create new application Public documentation available interested developer register httpwwwdatowniacomregister"
+    },
+    {
+        "progweb_cat": "Database,Social",
+        "api_name": "DiscoverText",
+        "id": 12298,
+        "progweb_descr": " service provide analytics tool monitor interpret traffic social medium site Text processing algorithms derive indication insights customer product business issue activelearning engine adapts combination text discover support interpretation decisionmaking API method support submission text query match retrieval file social medium site URLs resource related query Methods also support retrieval metadata resource rather addition resource"
+    },
+    {
+        "progweb_cat": "Database,Business",
+        "api_name": "SBA Content Share",
+        "id": 8751,
+        "progweb_descr": " US Small Business Administration SBA assist US small business contract loan loan guarantee counsel session service agency aim preserve competitive enterprise strengthen economy help business grow SBA Content Share API module design allow user initiate data transfer thirdapplication browser service use REST call return either XML JSON An account required service"
+    },
+    {
+        "progweb_cat": "Database,Advertising",
+        "api_name": "VigLink Catalog",
+        "id": 8853,
+        "progweb_descr": " VigLink service embeds affiliate link possible make publisher money referral purchase VigLink Catalog API allow user access searchable database product include price image descriptions additional information API use REST call return XML VigLink Catalogue API make possible create price search comparison engine third party application An account required service API key use user authentication"
+    },
+    {
+        "progweb_cat": "Database,Advertising",
+        "api_name": "Versium Analytics",
+        "id": 8902,
+        "progweb_descr": " Versium big data provider assemble date point 240 million consumer 20 million business Versium LIfeData service provide billion demographic information point generate predictive analysis These point allow company work product research purchasing interest Versium Analytics API allow user access Versium data predictive scoring service API use REST call return XML JSON"
+    },
+    {
+        "progweb_cat": "Database,Books",
+        "api_name": "Wisconsin Center for the Book",
+        "id": 8898,
+        "progweb_descr": " Wisconsin Center Book celebrate culture book encourage joy read write honor Wisconsinâ€™s literary heritage Through API Center provide simple way developer access information Wisconsin book author API free accessible anyone Responses may return JSONP XML PHP format"
+    },
+    {
+        "progweb_cat": "Database,Customer Relationship Management",
+        "api_name": "SquidAnalytics",
+        "id": 8909,
+        "progweb_descr": " Squid Solutions data collection transformation insight service site offer data management service data audit data reconciliation multilevel session analytics SquidAnalytics API allow user use standard Rest call access platform functionality able integrate thirdparty application API use REST call return JSON SSL OAuth 20 use authentication account create"
+    },
+    {
+        "progweb_cat": "Database,Language",
+        "api_name": "Hatebase",
+        "id": 9064,
+        "progweb_descr": " Hatebase international repository multilingual structure usagebased hate speech database develop help government agency NGOs organization use hate speech predictor regional violence Hatebase API provide authorized user developer access Hatebase data Supported query include data vocabulary sighting readonly API return XML JSON format response"
+    },
+    {
+        "progweb_cat": "Database,Language",
+        "api_name": "Factolex",
+        "id": 14924,
+        "progweb_descr": " Availiable English German Factolex communitypowered fact repository user create edit fact create lexicon Factolex API allow developer search retrieve term Factolex database well view individual user lexicon API RESTful API data return HTML XML JSON format No API key account require right use API"
+    },
+    {
+        "progweb_cat": "Database,eCommerce",
+        "api_name": "ItemMaster",
+        "id": 9073,
+        "progweb_descr": " ItemMaster source product image data site aim provide free detail information product vendor information available ItemMaster API allow user access ItemMaster database make call return list manufacturer list brand name list item API use REST call return JSON XML require SSL use call API"
+    },
+    {
+        "progweb_cat": "Database,Discounts",
+        "api_name": "DiscountMetrics",
+        "id": 9074,
+        "progweb_descr": " Discount Metrics data provider offer broad range service include promotion feed coupon feed search engine UPC database categorization engine product service Discount Metrics UPC Database API provide user programmatic access 600000 product contain searchable information UPC Brand Manufacturer Category Size Description Product Image NutritionProduct facts information information available paybyuse basis"
+    },
+    {
+        "progweb_cat": "Database,Science",
+        "api_name": "InterMine",
+        "id": 9219,
+        "progweb_descr": " InterMine let user create database integrate analyze complex biological data many source format InterMine come userfriendly customizable web interface well API access store data InterMine also provide JavaScript API make easy load JS CSS libraries This service load library base dependency skips library already exist pas specific check"
+    },
+    {
+        "progweb_cat": "Database,Domains",
+        "api_name": "DNSDB",
+        "id": 9253,
+        "progweb_descr": " DNSDB database passive authoritative DNS data Passive data come Farsight Securitys Security Information Exchange authoritative data provide various zone operator DNSDB allow user easily search individual RRsets provide additional metadata well It also perform inverse RDATA search Developers use DNSDBs REST API make automate bulk query DNSDB JSON format"
+    },
+    {
+        "progweb_cat": "Database,Spreadsheets",
+        "api_name": "Ragic",
+        "id": 9450,
+        "progweb_descr": " Ragic data management solution team company Ragic allow user manage share edit data Users create database spreadsheet style UI without program knowledge Ragic API allow developer access integrate functionality Ragic applications Some example API method include create form edit form retrieve data"
+    },
+    {
+        "progweb_cat": "Database,Project Management",
+        "api_name": "ONEIS",
+        "id": 9863,
+        "progweb_descr": " ONEIS system create curating collection information associate file It include function precise search browse discovery notification store information ONEIS design represent interrelate information rather highly structure data ONEIS also provide extensive API web application development framework JavaScript API enable user build application incorporate ONEIS function RESTful API use XML HTTP let system run server client application access object ONEIS object store"
+    },
+    {
+        "progweb_cat": "Database,Food",
+        "api_name": "FAOdata",
+        "id": 10111,
+        "progweb_descr": " mission Food Agriculture Organization United Nations FAO ensure people regular access enough quality food lead healthy live FAOdata FAOâ€™s webbased platform bring together statistic map picture document nutrition agriculture food throughout FAO FAOdata expose number resource REST SOAP APIs Developers automate add retrieve delete update search browsing resource within FAOdata catalog Other API service include automated translation FAO resource multidimensional query FAOdata warehouse Responses may return XML JSON JSONP format"
+    },
+    {
+        "progweb_cat": "Database,Food",
+        "api_name": "Food Security Data",
+        "id": 12182,
+        "progweb_descr": " Food Security Data API provide mean download data chart FoodSecurityPortalcom site aggregate monthly economic human wellbeing food security data various index API base around Query builder allow user create unique request return data set want This integrate exist application mashups simply use pull select data"
+    },
+    {
+        "progweb_cat": "Database,Healthcare",
+        "api_name": "Doctoralia",
+        "id": 10138,
+        "progweb_descr": " Doctoralia API let developer use Doctoralias database Medical Centers Doctors health professional complement website application idea API developer create application provide medical information people even medical help database 23 million doctor center combine"
+    },
+    {
+        "progweb_cat": "Database,Energy",
+        "api_name": "ERCOT MarkeTrak",
+        "id": 10174,
+        "progweb_descr": " service Electric Reliability Council Texas ERCOT monitor electrical power generation activity provide updates event likely affect electricity supply cost within service area ERCOT manage distribution approximately 85 percent electric power use state Its information service generate alert purchase utility power supplier alike trend Texas market API method support access press report estimate electricity supply demand specify time period notification plan unplanned service disruption relate information"
+    },
+    {
+        "progweb_cat": "Database,Nordic",
+        "api_name": "Nobel Prize",
+        "id": 10213,
+        "progweb_descr": " Nobelprizeorg website information Nobel Prizes recipient Nobel Prizes Noble Prizes award Nobel Prize API allow developer access integrate functionality data Nobelprizeorg application create new application Example API method include return Nobel Prizes winner return information Nobel Prize Laureates Nobel Prizes country"
+    },
+    {
+        "progweb_cat": "Database,Nordic",
+        "api_name": "Missatsamtal.se",
+        "id": 14937,
+        "progweb_descr": " Missatsamtalse communitydriven database caller Sweden Users post phone number telemarketers company unknown phone number Other user use data find unknown number Missatsamtalse API RESTful API two part Search part Post part Search part useful look number return data XML JSON format Post part use post number database comment exist number API Key require post data API use search feature API without Key"
+    },
+    {
+        "progweb_cat": "Database,Games",
+        "api_name": "The Archive",
+        "id": 10369,
+        "progweb_descr": " Designed central hub video game information metadata medium Archive database video game related information include game system data image article Archive API provide developer access Archiveâ€™s database series HTTP call Responses may XML JSON YAML format"
+    },
+    {
+        "progweb_cat": "Database,European",
+        "api_name": "mEDRA",
+        "id": 10878,
+        "progweb_descr": " mEDRA multilingual European Registration Agency Digital Object Identifiers DOI DOI standard persistently identify piece intellectual property digital network associate metadata structure extensible way Web service provide uploading file registry register file DOIs retrieve metadata file registry These service accessible use mEDRAs SOAPbased API mEDRA website provided German English Italian"
+    },
+    {
+        "progweb_cat": "Database,Security",
+        "api_name": "AgeTak",
+        "id": 11394,
+        "progweb_descr": " AgeTak Inc big data management solution provider They offer analytics security federation solution enterprisegrade database system Their flagship product ARC middleware solution securitized database integration ARC help manage data integration sensitive information web mobile apps example AgeTak API available affiliated partner want build apps use SaaS middleware"
+    },
+    {
+        "progweb_cat": "Database,Alcohol",
+        "api_name": "Systembolaget System",
+        "id": 11687,
+        "progweb_descr": " Systembolaget Swedish alcohol monopoly mandate Swedish state help control medical social harm cause alcohol release simple API retrieve product information idea API fill void monopoly create provide big XML XLS file user download entertain This API provide quick easy retrieval Systembolagets current sale record"
+    },
+    {
+        "progweb_cat": "Database,Email",
+        "api_name": "Xtenit Subscriber",
+        "id": 11708,
+        "progweb_descr": " Xtenit platform allow developer manage operation easily publish across medium type Xtenit Subscriber API facilitate AJAX style access article archive subscriber data subscriber data update function XML requestresponse mechanism This support flash integration javascript Web 20 site"
+    },
+    {
+        "progweb_cat": "Database,Predictions",
+        "api_name": "Prior Knowledge",
+        "id": 11938,
+        "progweb_descr": " Prior Knowledge run Veritable predictive database make inference data contains Veritable API let user upload data analyze generate insight prediction Resources include table row upload data analysis analyse represent collection analysis perform data table prediction let user generate prediction base complete analysis API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Database,Library",
+        "api_name": "The European Library",
+        "id": 11941,
+        "progweb_descr": " European Library consortium academic research libraries Their website portal large collection digitize artifact bibliographic record Users browse provider European national library special collection discipline API available member European Library Through API search functionality catalog expose It RESTful return XML JSONencoded data"
+    },
+    {
+        "progweb_cat": "Database,Hosting",
+        "api_name": "MongoHQ",
+        "id": 12015,
+        "progweb_descr": " MongoHQ database host platform MongoDB scalable NoSQL database MongoHQ API allow user create MongoDB databases MongoHQ platform interact programmatically API currently Beta phase RESTful employ JSON data format"
+    },
+    {
+        "progweb_cat": "Database,Charity",
+        "api_name": "Charities Commission",
+        "id": 12271,
+        "progweb_descr": " Charities Commission New Zealand publicly available database register charity serve build public trust confidence charitable sector Charities Commission API provide open data large amount charity annual return officer information It use RESTful OData URI query pull information database"
+    },
+    {
+        "progweb_cat": "Database,Keywords",
+        "api_name": "Qirina",
+        "id": 12362,
+        "progweb_descr": " Qirina database represent websitesâ€™ relation map matrix keywords This allow user submit websites database analysis SEO strength weaknesses Their RESTful API provide user access query Qirina database analysis particular website Neither API documentation available without permission"
+    },
+    {
+        "progweb_cat": "Database,Mapping",
+        "api_name": "PolicyMap",
+        "id": 12528,
+        "progweb_descr": " PolicyMap service nonprofit Reinvestment Fund provide data demographic crime rate housing geocoded mapped PolicyMap API allow developer access integrate functionality data PolicyMap application create new application Public documentation available interested developer contact PolicyMap access httpwwwpolicymapcomcontacthtml"
+    },
+    {
+        "progweb_cat": "Database,Mapping",
+        "api_name": "Urbarama",
+        "id": 14898,
+        "progweb_descr": " Urbarama online Atlas Architecture Humanbuilt Infrastructure Discover great project location browse category Urbarama API provide access search database Sort popularity date filter user"
+    },
+    {
+        "progweb_cat": "Database,Mobile",
+        "api_name": "appto.us",
+        "id": 12795,
+        "progweb_descr": " apptous database mobile web application apptous database search browsed variety mobile web application Developers add manage application apptous apptous API allow developer access integrate functionality data apptous application Some example API method include access application information manage account information list various application"
+    },
+    {
+        "progweb_cat": "Database,Semantics",
+        "api_name": "Lexaurus",
+        "id": 13788,
+        "progweb_descr": " REST API manage distribute control vocabulary taxonomy data set Suite product also include fully feature editor use create edit vocabulary This used stand alone tool tightly integrate Lexaurus Bank exist control vocabulary exist application encouraging consistency across related application"
+    },
+    {
+        "progweb_cat": "Database,Semantics",
+        "api_name": "Maiana",
+        "id": 14497,
+        "progweb_descr": " Maiana API allow user store query modify data Maiana Maiana social explorer structure data Maiana service host explore share Topic Maps source API allow user create update delete download topic map show list topic map It use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Database,Semantics",
+        "api_name": "Saffron Sierra",
+        "id": 15531,
+        "progweb_descr": " Saffron Sierra developer site use SaffronMemoryBaseSMB SMB store association link thing organize like relational database act information knowledge store RESTful API allow developer interface SMB application development All call authenticate API key response format JSON"
+    },
+    {
+        "progweb_cat": "Database,Transportation",
+        "api_name": "Edmunds.com Dealer",
+        "id": 13843,
+        "progweb_descr": " Edmunds publisher new used automotive pricing guide assist automobile buyer since 1966 In addition pricing information Edmundscom include car review vehicle maintenance guidance resource tip advice buyingselling vehicle insurance fuel economy user forum Edmundscom Dealer API RESTful API provide information automotive dealership associate give criterion include zipcode Make Style ID Responses return JSON"
+    },
+    {
+        "progweb_cat": "Database,Charts",
+        "api_name": "InfiniteGraph",
+        "id": 14026,
+        "progweb_descr": " InfiniteGraph offer data management alternative traditional relational database company product provide data management relationship analytics capability enterprise government large scale online venture depend massive volume data InfiniteGraph scalable distribute easy configure graph database Java API provide developer access InfiniteGraph graph distribution system"
+    },
+    {
+        "progweb_cat": "Database,Personal Information Management",
+        "api_name": "Trackingo",
+        "id": 14657,
+        "progweb_descr": " Trackingo website user track personal data generate graph information data Users track anything football score weight money free time anything else come Trackingo API XMLRPC API allow developer get data push data Trackingo currently methods edit data Developers develop basic application around Trackingo service Trackingo API"
+    },
+    {
+        "progweb_cat": "Database,Music",
+        "api_name": "TuneFind",
+        "id": 14938,
+        "progweb_descr": " TuneFind contain index music song appear popular television show movie Find song see artist music feature TuneFind API RESTful API allow developer create application access data TuneFinds database All data return JSON XML format Access API require permission licensing"
+    },
+    {
+        "progweb_cat": "Database,RDF",
+        "api_name": "Talis",
+        "id": 15857,
+        "progweb_descr": " Talis Platform open software developer easily program use Web API Data hold reliable safe environment API enable development vast range information rich application Platform work like share database capable store search content RDF metadata Because Platform infrastructure share every customer immediately benefit improvement make performance capacity We continually improve Platform release new version every month without disrupt degrade service application rely This mean application developer forget download upgrade concentrate user experience value Data hold platform organise store individually secure need Any kind content add store along arbitrary RDF metadata content metadata become immediately accessible Web discoverable use SPARQL free text search system build ranking result accord relevance search term RDF provide powerful flexible data model encourage link share data dramatically reduce complexity data integration Because store provide uniform Web API regardless type data hold Talis Platform give unparalleled opportunity reuse remixing data uniform Web API allow application easily search multiple store data use RDF enables application interpret use result little effort This mean developer use Talis Platform benefit immediately ecosystem data service enable rapid development application strategy continually evolve improve incorporate new type source data"
+    }
+]

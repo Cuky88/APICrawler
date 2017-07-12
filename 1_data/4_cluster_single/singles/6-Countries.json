@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Countries",
+        "api_name": "Country",
+        "id": 1490,
+        "progweb_descr": " Country API return basic information country world Available information include country name native name native language numeric code alpha 2 code alpha 3 code region subregion latitude longitude area currency name currency code currency symbol flag This API completely free opensource doesnt require form authentication service always available request limit"
+    },
+    {
+        "progweb_cat": "Countries,Financial",
+        "api_name": "TipsGO Country",
+        "id": 2793,
+        "progweb_descr": " TipsGO Country API global multi country API specific country geographic location A good example type API financial market information APIs tax information In order support multicountry feature Smart Wealth Tips SWT create Country API provide access Country information This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    },
+    {
+        "progweb_cat": "Countries,Data",
+        "api_name": "Country to ISO2",
+        "id": 2804,
+        "progweb_descr": " Country ISO2 API allow developer programmatically convert name country ISO2 standard designation If countrys name misspell API option return likely match designation This work example API"
+    },
+    {
+        "progweb_cat": "Countries,Data",
+        "api_name": "Protected Planet",
+        "id": 3146,
+        "progweb_descr": " Protected Planet API integrate biodiversity environmental data world area It available HTTP request JSON response Authentication require token"
+    },
+    {
+        "progweb_cat": "Countries,Data",
+        "api_name": "Lookup Country Information",
+        "id": 3472,
+        "progweb_descr": " Lookup Country Information API simplify search country profile use letter numeric ISO country code use twoletter threeletter code numeric code sufficient generate descriptive detail country include name continent well associate alpha numeric ISO code API send request URI Query StringCRUD format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Countries,Emergency",
+        "api_name": "United Nations Humanitarian Response",
+        "id": 3523,
+        "progweb_descr": " Humanitarian Response API provide United Nations Office Coordination Humanitarian Affairs available readonly document As method offer sector datasets event functional role indicator map location operation population Developers reference application create global relief assistance program"
+    }
+]

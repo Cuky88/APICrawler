@@ -1,0 +1,1028 @@
+[
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Heroku",
+        "id": 217,
+        "progweb_descr": " Heroku API use manually manipulate Heroku apps Heroku cloud application platform Ruby give developer new way building deploy web apps service let app developer spend 100 time application code manage server deployment ongoing operation scale RESTful API let user manage deploy Rails apps Heroku platform Responses format XML"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Reincubate Cloud Data",
+        "id": 1476,
+        "progweb_descr": " Reincubates Cloud Data API provide access application user data across various platform Apples iCloud Googles Android Microsofts Skype Cloud API make app data readily accessible developer integrator investigator It solve important APIled data connectivity integration challenge provide functionality extraction manipulation recovery data platform meaningful business"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Open Service Broker",
+        "id": 2290,
+        "progweb_descr": " Open Service Broker API interact Cloud Foundry manage cloud resource administer credential demand It available standard interface REST architecture HTTP method JSON protocol"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Acquia Lift File Import",
+        "id": 2363,
+        "progweb_descr": " File Import API allow import goal decision information Profile Manager It provide way import user information source Acquia Lift Acquia Lift include several interface use interact stored visitor data send information Acquia Lift service Acquia Cloud base solution allow create maintain digital experience Drupal It provide interface expose APIs use import export data Acquia Lift service"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Acquia Lift REST",
+        "id": 2364,
+        "progweb_descr": " This API enable integration Acquia Lift websites Subscribers access Omnichannel use REST API integrate website application Acquia Lift Acquia Lift include several interface use interact stored visitor data send information Acquia Lift service Acquia Cloud base solution allow create maintain digital experience Drupal It provide interface expose APIs use import export data Acquia Lift service"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Acquia Lift Decision",
+        "id": 2365,
+        "progweb_descr": " This API enable set review various administrative function decision content may show user Acquia Lift include several interface use interact stored visitor data send information Acquia Lift service Acquia Cloud base solution allow create maintain digital experience Drupal It provide interface expose APIs use import export data Acquia Lift service"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Acquia Lift JavaScript",
+        "id": 2366,
+        "progweb_descr": " This JavaScript API enable send additional information Acquia user activity Acquia Lift include several interface use interact stored visitor data send information Acquia Lift service Acquia Cloud base solution allow create maintain digital experience Drupal It provide interface expose APIs use import export data Acquia Lift service"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Amazon Web Services CodeBuild",
+        "id": 2726,
+        "progweb_descr": " Amazon Web Services CodeBuild REST API allow developer access integrate functionality CodeBuild applications Some example API method include retrieve codebuilds manage code project manage build specific project Amazon Web Services CodeBuild codebuild service host cloud run test compiles sourcecodes without need manage server provision"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Google Cloud Machine Learning",
+        "id": 2880,
+        "progweb_descr": " Google Cloud Machine Learning API ’ TensorFlow functionality affords developer great flexibility use cloud build apps Its integration support manipulation data training machine learn model deployment GCP resource prediction API currently beta release subject future change might alter architecture As developer caution use production purpose"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Reincubate iCloud",
+        "id": 3338,
+        "progweb_descr": " Reincubate iCloud API allow user access iCloud resource extract retrieve manipulate data different type iOS platform application API accommodate large data volume addition support arrangement event real time accessibility data It also operate RESTful API transmit response JSON format Reincubate iCloud API useful variety sphere include application development pointofsale integration corporate data management compliance well law enforcement forensics investigation This API compatible iCloud backup base iOS 9 iOS 10 beta CloudKit apps well backups build A9X chipsets"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Zeit Now",
+        "id": 3960,
+        "progweb_descr": " Zeit Now API allow developer programmatically orchestrate Nodejs deployment cloud Zeit project design make cloud compute easy accessible mobile compute entirety Zeits commandline deployment tool make available user remix"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Docker Cloud Rest",
+        "id": 4307,
+        "progweb_descr": " Docker Cloud Rest API API offer Docker Cloud use Web UI CLI API documentation contains operation platform provide example usage Docker Cloud help user build ship run application anywhere Docker opensource platform build deploy manage container application"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Docker Cloud Streaming",
+        "id": 4308,
+        "progweb_descr": " Docker Cloud Streaming API API offer Docker Cloud use Web UI CLI API documentation contains operation platform provide example usage Docker Cloud help user build ship run application anywhere Docker opensource platform build deploy manage container application"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Cloud Foundry",
+        "id": 4728,
+        "progweb_descr": " Cloud Foundry API allow developer upload run application cloud manage throughout lifecycles Cloud Foundry opensource multicloud multivendor standard cloud application Developers push application Cloud Foundry target Cloud Controller store raw application bit track application metadata stage run application"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "MODE",
+        "id": 5094,
+        "progweb_descr": " MODE API provide cloud platform develop IoT environment This REST API respond JSON format us API Key authorization type Features multiapp development access control available MODE found former Google Yahoo engineer serf virtual back end team IoT company MODE offer 2 service plan different production limit"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "ShepHertz App42 Cloud Recommendation",
+        "id": 5711,
+        "progweb_descr": " ShepHertz App42 Cloud Recommendation API allow developer find similarity among user base customer id item id preference customer particular Item ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "ShepHertz App42 Cloud Session Management",
+        "id": 5720,
+        "progweb_descr": " ShepHertz App42 Cloud Session Management API allow developer persistent session management native application ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "ShepHertz App42 Cloud Custom Code",
+        "id": 5721,
+        "progweb_descr": " ShepHertz App42 Cloud Custom Code API allow developer create deploy server side custom code extend app functionality ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "RedLine13 Load Testing",
+        "id": 5799,
+        "progweb_descr": " RedLine Load Testing API use basic HTTP request accommodate load test agent JMeter Gatling Node PHP Use API require RedLine Professional account API Key This RedLine API allow set load test instance Amazon Web Services account It offer almost free since set ups free user charge spot instance"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "getClouder Client",
+        "id": 6381,
+        "progweb_descr": " GetClouder cloud host platform offer customer bandwidth host Web App project GetClouder Client API let developer integrate application feature provide customer tool build automate application GetClouder service With API developer manage container getClouder minimal limitation All request response JSON format"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "ElasticBox",
+        "id": 7140,
+        "progweb_descr": " ElasticBox develop cloud application support business function It provide modular servicebased application development structure encapsulate Boxes component application architecture Boxes mobile across cloud environment reusable ElasticBox APIs encompass management security workspace box instance organization profile provider blob"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Crossrider",
+        "id": 11650,
+        "progweb_descr": " Crossrider multiplatform cloud base extension development tool creation interoperable extension variety online environment Utilizing jquery user able create extension minute rapidly grow developer base Monetize online experience customize browser button extension appAPI allow creation crossbrowser extension use simple Javascript Through API utilize feature cross domain request local database browser button In conjunction CrossriderAPI check status extension online ensure proper functionality"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "Acquia Cloud",
+        "id": 12582,
+        "progweb_descr": " Acquia commercial open source software company provide product service Drupal Acquias cloud base solution let user create Drupal base web site Acquia Cloud API allow developer extend customize Acquia Cloud API allow direct control Acquia Cloud sit support developer workflow database backup management It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Cloud,Application Development",
+        "api_name": "PiCloud",
+        "id": 12918,
+        "progweb_descr": " PiCloud allow user run computationally expensive operation cloud Developers deal local performance bottleneck upload project PiCloud take advantage thousand core ondemand process power Through use PiClouds RESTful API developer connect development environment PiCloud directly HTTP Their documentation contain request response example connect PiCloud web service use CURL API also support input binary data well batched query Clients choose variety plan rate determine CPU core type prorate millisecond"
+    },
+    {
+        "progweb_cat": "Cloud,Datacenter",
+        "api_name": "Amazon EC2",
+        "id": 285,
+        "progweb_descr": " Amazon Elastic Compute Cloud Amazon EC2 API web service enable launch manage LinuxUNIX Windows server instance Amazons data center Giving user ability compute cloud provide user complete control compute resource let run Amazons compute environment Amazon EC2 change economics compute allow user pay capacity actually use Amazon EC2 provide two APIs SOAP REST XML body return REST API SOAP API WSDL support API version available follow URI httpec2amazonawscomdoc"
+    },
+    {
+        "progweb_cat": "Cloud,Wearable",
+        "api_name": "Google Mirror",
+        "id": 613,
+        "progweb_descr": " Google Mirror API allow build webbased service interact Google Glass It provide functionality cloudbased API require run code Glass"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "Scalarium",
+        "id": 932,
+        "progweb_descr": " Scalarium cloud host service aim help fulfill client host need server management associate service Scalariums server host use Amazons EC2 cloud platform Scalarium offer autoscaling server monitor log report technical support A range pricing option available user pay per server per hour base server type Scalarium API RESTful web service expose functionality manage interact server Users list create clouds create run instance list deploy application gather status log per instance level"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "Rackspace Cloud Servers",
+        "id": 1390,
+        "progweb_descr": " Rackspace Cloud Servers cloud base platform demand virtualized server API use interact Cloud Servers instead use online control panel Features API include ability reboot rebuild server create custom image schedule backup server share IPs API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "Exoscale Apps",
+        "id": 3884,
+        "progweb_descr": " Exoscale cloud service provider base Switzerland feature SSD server object storage protection Swiss Federal Data Protection Act Exoscale offer 7 monthly plan different hardware specification accord developer need Apps REST API use plug continuation integration automation tool PaaS deployment This API exchange information JSON format use API Keys authentication"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "Google Cloud Pub/Sub",
+        "id": 5757,
+        "progweb_descr": " Google Cloud PubSub API provide access asynchronous messaging service onetomany manytoone manytomany This service use integrate system host Google Cloud platform well externally PubSub API decouple sender receiver enable secure highly available communication application"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "Google Cloud Deployment Manager",
+        "id": 6260,
+        "progweb_descr": " Google Cloud Deployment Manager API allow developer create deploy manage Google Cloud Platform resource programmatically Google Cloud Deployment Manager allow user create static dynamic template describe configuration Google Cloud environment resource create single deployment Deployment Manager support Google Cloud Platforms service"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "Hostway FlexCloud",
+        "id": 12802,
+        "progweb_descr": " Hostway internet host company specialize cloud host solution Their FlexCloud Servers demand cloud solution combine feature public cloud enterprise grade environment FlexCloud API let users access manage resell cloud computer internet access Users also remotely perform operation soft hard reboots look resource RAM disk size number CPU API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "Vexxhost Cloud Reseller",
+        "id": 12814,
+        "progweb_descr": " Vexxhost API reseller API provide developer access cloud server firewall rescale feature API use REST protocol data format XML It include high level security feature sign API request timestamped request expire automatically 2 minute prevent replay attack All API feature serve SSL protocol Currently API offer private beta select customer However developer apply receive API access account include documentation"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "The Buddy Platform",
+        "id": 13873,
+        "progweb_descr": " Buddy Platform service provide developer cloudbased solution application Buddy Platform offer host feature application user account message photo album geolocation service Buddy Platform API allow developer access various functionality Buddy Platform Some example API method include add edit user account add friend list access photo album implement push notification application"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "BareMetalCloud",
+        "id": 14039,
+        "progweb_descr": " BareMetalCloud delivers dedicate ondemand ï¿½Bare Metal Cloudï¿½ compute server infrastructure With Bare Metal Images user quickly build tear large environment like virtual server cloud BareMetalCloud API collection URLs use allocate manage NewServers resource development environment Functionality area include dedicated server disk disk image IP address load balance come soon API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "Rackspace Cloud Load Balancers",
+        "id": 14124,
+        "progweb_descr": " Rackspace Cloud Load Balancers let user automatically deploy scale ondemand load balance solution With API user define name protocol port algorithm server region need load balance API use RESTful call response format XML JSON ATOM"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "ElasticHosts Cloud Computing",
+        "id": 14395,
+        "progweb_descr": " ElasticHosts elastic cloud compute provider Users configure ElasticHosts sophisticated cloud infrastructure match need web browser They provide web host solution virtual server ElasticHosts API allow user create drive upload download drive image create control virtual server infrastructure"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "VPS.NET",
+        "id": 15045,
+        "progweb_descr": " VPSNET demand cloud host provider VPSNET API allow resellers integrator full access function VPSNET CP Users build Cloud offering manage thier VPS within application Users must register download API full documentation"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "Terremark vCloud Express",
+        "id": 15111,
+        "progweb_descr": " Terremark vCloud Express API provide secure RESTful access many feature function available within Terremark My Cloud User Interface RESTful API compatible program scripting language Since vCloud Express API extend control My Cloud User Interface additional security protect account unauthorized access Access RESTful API secure via SSL My Cloud user credential With vCloud Express API programmatically scale server invoke copy server feature simply reconfigure server add CPU memory storage scale Or use API manipulate load balancer Internet setting control traffic application"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "Windows Azure Service Management",
+        "id": 15114,
+        "progweb_descr": " Windows Azure Service Management API REST API manage service deploymentsWindows Azure cloud service operate system serve development service host service management environment Windows Azure Platform Service Management API provide programmatic access much functionality available Windows Azure Developer Portal Using Service Management API manage storage account host service service deployment affinity group Service Management API REST API All API operation perform SSL mutually authenticate use X509 v3 certificate management service may access within service run Windows Azure directly Internet application send HTTPS request receive HTTPS response Responses format XML"
+    },
+    {
+        "progweb_cat": "Cloud,Hosting",
+        "api_name": "GoGrid",
+        "id": 15735,
+        "progweb_descr": " Use GoGrid API everything programmatically UI GoGrid grid host platform get multitier Internet infrastructure demand use web control panel GoGrid user set scale server web browser GoGrid provide compute power root access standard OS installs would expect dedicate server Even blog Web app grow GoGrid provide service grow"
+    },
+    {
+        "progweb_cat": "Cloud,Database",
+        "api_name": "Google Cloud DNS",
+        "id": 1124,
+        "progweb_descr": " Google offer access Domain Name System DNS management service utilize Googles global infrastructure name server Google Cloud DNS API allow developer store look IP address offer service application without purchase additional DNS server software"
+    },
+    {
+        "progweb_cat": "Cloud,Database",
+        "api_name": "Rackspace Cloud Databases",
+        "id": 6150,
+        "progweb_descr": " Rackspace Cloud Databases manage database service base Openstack Rackspace Cloud Databases API let developer integrate service application API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Cloud,Platform-as-a-Service",
+        "api_name": "Nodester",
+        "id": 1341,
+        "progweb_descr": " Nodester provide NodeJS host platformasaservice platform base RESTful API run cloud service support NodeJS sandboxing user apps accord site let user install NPM module use Nodester APPNPM API Nodester use Git push update"
+    },
+    {
+        "progweb_cat": "Cloud,Platform-as-a-Service",
+        "api_name": "Nodejitsu",
+        "id": 12628,
+        "progweb_descr": " Nodejitsu cloud host platformasaservice nodejs developer platform let developer host scale application offer marketplace nodejs application let developer get train API let developer interact Nodejitsu platform programatically It expose data application user database It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Cloud,Business",
+        "api_name": "Rackspace RackConnect",
+        "id": 1501,
+        "progweb_descr": " RackConnect API design Rackspace cloud account Rackspaces hybrid connectivity solution connect dedicate cloud server Rackspace manage cloud company provide way create resilient environment businesscritical apps data build multiple layer redundancy Rackspace global public cloud infrastructure manage service provider specialize physical security power cool network least N1 redundant"
+    },
+    {
+        "progweb_cat": "Cloud,Business",
+        "api_name": "Oracle Monitoring Cloud Service",
+        "id": 3245,
+        "progweb_descr": " Oracle Monitoring Cloud Service API offer alert metric report related enterprise cloud solution provide Oracle Developers must install version cURL support SSL POST GET DELETE method support invoke Oracle Cloud object authentication API use HTTP Basic Auth JSON data exchange"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "Google Cloud Functions",
+        "id": 1511,
+        "progweb_descr": " Google Cloud Functions API allow developer access integrate functionality Google Cloud Some example API method include retrieve operation manage operation retrieve manage project function Google Cloud Functions API REST RPC reference currently beta"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "RightScale Self-Service",
+        "id": 5082,
+        "progweb_descr": " RightScale SelfService API give user access Designer API Catalog API Manager API Taken together allow user prepare launch manage CloudApps RightScale cloud provider cloud management service allow user link public private cloud provide selfservice cloud access control cloud visibility policy RightScale highly available come automate scale"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "ShepHertz App42 Cloud Gallery",
+        "id": 5702,
+        "progweb_descr": " ShepHertz App42 Cloud Gallery API allow developer manage app user albums photo cloud share uploaded photo app user ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "ShepHertz App42 Cloud Logging",
+        "id": 5703,
+        "progweb_descr": " ShepHertz App42 Cloud Logging API allow developer unify log app remotely debug app error ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "ShepHertz App42 Cloud Buddy Management",
+        "id": 5704,
+        "progweb_descr": " ShepHertz App42 Cloud Buddy Management API allow developer create social medium application mobile device ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "Rackspace Cloud Orchestration",
+        "id": 6156,
+        "progweb_descr": " Rackspace Cloud Orchestration Rackspace orchestration application architecture management service Rackspace Cloud Orchestration API let developer integrate service application API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "Rackspace Auto Scale",
+        "id": 6159,
+        "progweb_descr": " Rackspace Auto Scale web service automatically scale resource response increase decrease overall workload base userdefined policy Rackspace Auto Scale API let developer integrate service application API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "GREENCLOUDS",
+        "id": 11583,
+        "progweb_descr": " GREENCLOUDS provide IaaS Infrastructure Service use excess space large company datacenters It aggregate space one big cloud redistribute user local seller GREENCLOUDS API allow GREENCLOUDS customer manage monitor life cycle virtual machine use either SOAP REST call"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "CloudHarmony",
+        "id": 11953,
+        "progweb_descr": " service provide updated information availability network outage data transfer speed various cloud hosting platform Performance report specified time period type service specific service provider criterion It provide benchmark reflect monitor service comparison rating compete service API method support retrieval performance data cloud host service include availability statistic current outage data speed Methods also provide benchmark performance measure rating service benchmark API also list provider monitor category database host storage message DNS resolution etc"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "AT&T Synaptic Compute",
+        "id": 14365,
+        "progweb_descr": " ATT Synaptic Compute Service offer payasyougo cloud compute company developer allow user quickly obtain access virtual server ATT Synaptic Compute Service provide APIs allow developer enable customized cloud compute interface Internet Using APIs developer Design customize cloud compute management interface Enable additional authentication allow access specific function andor specific server image Allow service manage Internet via private networking Create customize report individual need Access function graphical user interface GUI Full documenation publicly available"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "Joyent Node",
+        "id": 14526,
+        "progweb_descr": " Joyent cloud compute software service company Joyent Node API provide developer serverside JavaScript use Joyents host Nodejs service API allow user manage cloud server programatically API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Cloud",
+        "api_name": "Heroku Provider",
+        "id": 15210,
+        "progweb_descr": " Heroku platform host Rails application provide API Cloud Service Providers REST API let provider create addons elegantly handle provision Heroku cloud service make technical integration easy"
+    },
+    {
+        "progweb_cat": "Cloud,Images",
+        "api_name": "DigitalGlobe Cloud Web Map Tile",
+        "id": 1552,
+        "progweb_descr": " DigitalGlobe Web Map Tile Service define set function return actual feature geometry attribute use type geospatial analysis WMTS Implementation Standard provide interface serve digital map use predefined image tile complement Web Map Service standard OGC DigitalGlobe WMTS support follow operation GetCapabilities GetTile GetFeatureInfo This fetch capability Web Map Tile Service respond form XML data It provide raster imagery data multiple resolution predefined imagery tile either PNG JPEG My DigitalGlobe webbased application quickly easily view analyze download DigitalGlobe data available via EnhancedView Web Hosting Service"
+    },
+    {
+        "progweb_cat": "Cloud,Images",
+        "api_name": "DigitalGlobe Cloud Web Feature",
+        "id": 1553,
+        "progweb_descr": " DigitalGlobe Web Feature Service provide vector metadata include imagery footprint GML format support follow OGCdefined operation GetCapabilities DescribeFeatureType GetFeature DigitalGlobe WFS define set function return feature geometry attribute use type geospatial analysis Requests conform OGC WFS specification interact DGCS WFS server request geographical feature across web use platformindependent call It allow query retrieval creation deletion update feature My DigitalGlobe webbased application quickly easily view analyze download DigitalGlobe data available via EnhancedView Web Hosting Service"
+    },
+    {
+        "progweb_cat": "Cloud,Images",
+        "api_name": "DigitalGlobe Cloud Tile Cache",
+        "id": 1554,
+        "progweb_descr": " DigitalGlobe Web Map Tile Service define set function client use return feature geometry attribute use geospatial analysis Any request conform OGC WMTS specification interact DGCS WMTS Server It provide raster imagery data multiple resolution predefined imagery tile PNG JPEG format My DigitalGlobe webbased application quickly easily view analyze download DigitalGlobe data available via EnhancedView Web Hosting Service"
+    },
+    {
+        "progweb_cat": "Cloud,Images",
+        "api_name": "DigitalGlobe Cloud Web Coverage",
+        "id": 1560,
+        "progweb_descr": " DigitalGlobe Web Coverage Service allow user directly download raster image data JPEG2000 GeoTIFF format support follow operation GetCapabilities DescribeCoverage GetCoverage WCS client application program communicate DGCS WCS server use three function support Keyword Value Pair request encode use SOAP My DigitalGlobe webbased application quickly easily view analyze download DigitalGlobe data available via EnhancedView Web Hosting Service"
+    },
+    {
+        "progweb_cat": "Cloud,Images",
+        "api_name": "DigitalGlobe Cloud Web Map",
+        "id": 1561,
+        "progweb_descr": " DigitalGlobe Web Map Service interoperable distribute web map system defines set function achieve WMS capability Requests conform OGC WMS specification interact DGCS WMS server client application request desire information web map server map server retrieve database appropriate layer geofeature data specify spatial domain client web map server interact use Hypertext Transfer Protocol Secure My DigitalGlobe webbased application quickly easily view analyze download DigitalGlobe data available via EnhancedView Web Hosting Service"
+    },
+    {
+        "progweb_cat": "Cloud,Security",
+        "api_name": "Cisco Umbrella",
+        "id": 1919,
+        "progweb_descr": " Cisco Umbrella Investigate API integrate cloud security It available REST architecture HTTP request JSON response Resources include domain status pattern search security information Cisco Umbrella company Secure Internet Gateway cloud"
+    },
+    {
+        "progweb_cat": "Cloud,Security",
+        "api_name": "Fastly",
+        "id": 10454,
+        "progweb_descr": " Fastly CDN platform allow user manage website architecture Fastly offer analytics report cache purge feature Fastly API allow developer access integrate functionality Fastly application websites Some example API method include manage cache setting manage customer account information retrieve analytics statistic"
+    },
+    {
+        "progweb_cat": "Cloud,Data",
+        "api_name": "Minio",
+        "id": 2078,
+        "progweb_descr": " Minio offer object cloud storage solution best suit store unstructured data photo videos log file backups VM image Minio Amazon S3 compatible support notification base Lambda function erasure code Bitrot protection maximum file size 5 TB Minio base Palo Alto CA"
+    },
+    {
+        "progweb_cat": "Cloud,Data",
+        "api_name": "Google Cloud Dataproc",
+        "id": 2534,
+        "progweb_descr": " This Rest API allow access manage Hadoopbased cluster job Google Cloud Platform It manage Apache Spark Apache Hadoop service let take advantage open source data tool batch processing query stream machine learn Google Cloud help developer build cloud tool infrastructure application map device"
+    },
+    {
+        "progweb_cat": "Cloud,Data",
+        "api_name": "Google Cloud Stackdriver Error Reporting",
+        "id": 2870,
+        "progweb_descr": " Google Cloud Stackdriver platform allow user log monitor trace report error diagnose operation run Google Cloud Platform GCP Amazon Web Services AWS application Developers use Google Cloud Stackdriver Error Reporting API identify error run cloud application API currently beta release subject future change might alter operational architecture As developer caution use production purpose"
+    },
+    {
+        "progweb_cat": "Cloud,Data",
+        "api_name": "pCloud",
+        "id": 3315,
+        "progweb_descr": " pCloud API development platform online storage solution API split HTTPJSON binary protocol HTTPJSON protocol deploy HTTP call support development web mobile application It return JSON formatted response HTTP request binary protocol hand design enhance performance cloudbased storage application"
+    },
+    {
+        "progweb_cat": "Cloud,Data",
+        "api_name": "ilandcloud",
+        "id": 3588,
+        "progweb_descr": " Configure multiple Virtual Machines locate across several data center Protect data manage disaster recovery option via access iland ’ console cloud infrastructure use REST API Simplify data footprint monitoring resource iland provide enterprise cloud hosting service"
+    },
+    {
+        "progweb_cat": "Cloud,Data",
+        "api_name": "RightScale Cloud Pricing",
+        "id": 4809,
+        "progweb_descr": " RightScale Cloud Pricing API service developer provide single source pricing data public cloud support RightScale private cloud register across RightScale account RightScale cloud provider cloud management service allow user link public private cloud provide selfservice cloud access control cloud visibility policy RightScale highly available come automate scale"
+    },
+    {
+        "progweb_cat": "Cloud,Data",
+        "api_name": "ShepHertz App42 Cloud Geo Spatial",
+        "id": 5685,
+        "progweb_descr": " ShepHertz App42 Cloud Geo Spatial API allow developer create Geo Spatial Database search nearby point within give radius insert geo point application App 42 Geospatial API provide storage retrieval query geospatial data ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Cloud,Analytics",
+        "api_name": "Google Cloud Stackdriver Trace RPC",
+        "id": 2240,
+        "progweb_descr": " Google Cloud Stackdriver platform allow user log monitor trace report error diagnose operation run Google Cloud Platform GCP Amazon Web Services AWS application Google Stackdriver Trace RPC API find collect analyzes latency data associate deployment App Engine application This API display latency data GCP console sends gRPCformatted request response It use Trace message functionality describe duration single application Spans functionality describe duration suboperation"
+    },
+    {
+        "progweb_cat": "Cloud,Analytics",
+        "api_name": "Google Cloud Stackdriver Trace REST",
+        "id": 2245,
+        "progweb_descr": " Google Cloud Stackdriver platform allow user log monitor trace report error diagnose operation run Google Cloud Platform GCP Amazon Web Services AWS application Google Stackdriver Trace REST API find collect analyzes latency data associate deployment App Engine application This API display latency data GCP Console send request JSON format return responses JSON format well RESTful Trace resource API describe duration single application Spans functionality describe duration suboperation"
+    },
+    {
+        "progweb_cat": "Cloud,Analytics",
+        "api_name": "Tago",
+        "id": 2297,
+        "progweb_descr": " Tago offer cloud base analytics share system allow easy connection electronic device Tago platform offer dashboard widget support share secure Tago account URLs 2way communication notification analytics Tago API allow full control management account data device dashboard script"
+    },
+    {
+        "progweb_cat": "Cloud,Analytics",
+        "api_name": "Google Cloud Stackdriver Logging",
+        "id": 2871,
+        "progweb_descr": " Google Cloud Stackdriver platform allow user log monitor trace report error diagnose operation deploy Google Cloud Platform GCP Amazon Web Services AWS run application Google Cloud Stackdriver Logging API synchronize programmatic storage search analysis data event log generate GCP AWS application current version API welldocumented full release"
+    },
+    {
+        "progweb_cat": "Cloud,Analytics",
+        "api_name": "RightScale Cloud Analytics",
+        "id": 5083,
+        "progweb_descr": " RightScale Cloud Analytics API allow developer get cost usage metric cloud account connect RightScale RightScale cloud provider cloud management service allow user link public private cloud provide selfservice cloud access control cloud visibility policy RightScale highly available come automate scale"
+    },
+    {
+        "progweb_cat": "Cloud,Analytics",
+        "api_name": "Rackspace Cloud Metrics",
+        "id": 6170,
+        "progweb_descr": " Rackspace Cloud Metrics software service enable user ingest condense query various kind metric Rackspace Cloud Metrics API let developer integrate application service enable user iterate data query set dashboard metric API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Cloud,Analytics",
+        "api_name": "Kandy",
+        "id": 6619,
+        "progweb_descr": " Kandy offer cloud service real time voice video cobrowsing SMS WebRTC mobile analytics conference API cloud service business In site developer find request format response format response code Authentication security also available facilitate integration"
+    },
+    {
+        "progweb_cat": "Cloud,Analytics",
+        "api_name": "Qloudstat",
+        "id": 6657,
+        "progweb_descr": " Qloudstat API enable developer analyze monitor access log Amazon S3 Amazon CloudFront Amazon ELB Google Cloud Storage Rackspace CloudFiles Akamai CDN This API also let developer choose type presentation statistic different format include chart timeline table geographical map"
+    },
+    {
+        "progweb_cat": "Cloud,Analytics",
+        "api_name": "Cisco Meraki CMX",
+        "id": 6723,
+        "progweb_descr": " Cisco Meraki CMX Connected Mobile Experience API display realtime location analytic data improve customer support engagement Data collect report dashboard reveals visitor traffic trend dwell time new repeat visitor loyalty This API easy setup flexible functionality delivers JSON data use 3rdparty custom application"
+    },
+    {
+        "progweb_cat": "Cloud,Analytics",
+        "api_name": "Sense",
+        "id": 6733,
+        "progweb_descr": " Sense API provide developer ability access data trigger job manage worker dashboard Sense cloud platform let user collaborate share data quick safe way It enable data connectivity Amazons S3 Redshift DynamoDB Hadoop EMR service"
+    },
+    {
+        "progweb_cat": "Cloud,Internet of Things",
+        "api_name": "Arrayent EcoAdaptor v3",
+        "id": 2244,
+        "progweb_descr": " Arrayent EcoAdaptor v3 API support cloudtocloud integration Arrayent cloud service eg Amazon Echo IFTT etc handle authentication authorization functional entry point API cover OAuth server along access user device Arrayent internet thing platform allow company deliver connect product customer"
+    },
+    {
+        "progweb_cat": "Cloud,Internet of Things",
+        "api_name": "Undagrid Admin",
+        "id": 2972,
+        "progweb_descr": " This API use check Undagrid cloud operational Undagrid wireless Internet Things network consist device organize connect selfexpanding network"
+    },
+    {
+        "progweb_cat": "Cloud,Internet of Things",
+        "api_name": "SIGFOX",
+        "id": 6668,
+        "progweb_descr": " Sigfox network connects Things Internet cover many sector include agriculture automotive construction electronics healthcare Sigfox API allow developer automate device management implement data integration application share message keep uptodate thing"
+    },
+    {
+        "progweb_cat": "Cloud,API Management",
+        "api_name": "Google Cloud Identity and Access Management",
+        "id": 2482,
+        "progweb_descr": " This Rest API manage identity access control Google Cloud Platform resource include creation service account use authenticate Google make API call It let administrator authorize take action specific resource give full control visibility manage cloud resource centrally Cloud IAM provide unified view security policy across entire organization use establish enterprise complex organizational structure hundred workgroups project Google Cloud help developer build cloud tool infrastructure application map device"
+    },
+    {
+        "progweb_cat": "Cloud,Storage",
+        "api_name": "Google Storage Transfer",
+        "id": 2524,
+        "progweb_descr": " This Rest API allow transfer data external data source Google Cloud Storage bucket Google Cloud Storage bucket It available use XML JSON format return Google Service Account Transfer Jobs Transfer Operations Google Cloud help developer build cloud tool infrastructure application map device"
+    },
+    {
+        "progweb_cat": "Cloud,Storage",
+        "api_name": "Google Cloud Storage",
+        "id": 6286,
+        "progweb_descr": " Google Cloud Storage API enable user access manipulate Google Cloud Storage project programmatically Google Cloud Storage service developer allow store retrieve amount data time It let use Googles networking infrastructure perform data operation securely low cost This infrastructure also highly scalable capable support expansion"
+    },
+    {
+        "progweb_cat": "Cloud,Storage",
+        "api_name": "Exosite",
+        "id": 13514,
+        "progweb_descr": " Exosite cloudbased data platform providing business solution manage communication device user run calculation transformation data store retrieve data processing rule send dispatch Users try Exosite platform free though full access feature platform require enrollment pay program Exosite API give user programmatic access many data storage manipulation feature provide Exosite platform This API operate REST JSON RPC use JSON data format"
+    },
+    {
+        "progweb_cat": "Cloud,Storage",
+        "api_name": "SMEStorage Multi Cloud",
+        "id": 13847,
+        "progweb_descr": " SMEStorage provide shared multicloud file system entry point multiple cloud With Open Cloud Platform sync file metadata file stay origianl storage platform API offer full functionality service RESTful interface response format XML Libraries also available language NET Ruby PHP PERL"
+    },
+    {
+        "progweb_cat": "Cloud,Applications",
+        "api_name": "Google Cloud Container Builder",
+        "id": 2530,
+        "progweb_descr": " This Rest API provide way build container image cloud It allow view manage data across Google Cloud Platform service Google Cloud help developer build cloud tool infrastructure application map device"
+    },
+    {
+        "progweb_cat": "Cloud,Applications",
+        "api_name": "Orange Flexible Datasync",
+        "id": 2728,
+        "progweb_descr": " With Orange Flexible Datasync API user boost realtime application development Orange backend adaptable IoT mobile social collaborative service Flexible Datasync API available special portal relevant resource access Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Cloud,Applications",
+        "api_name": "Orange Cloud OpenStack",
+        "id": 2729,
+        "progweb_descr": " Orange OpenStack API bring developer new digital opportunity build application platform It offer open source public cloud business service platform enhance performance Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Cloud,Data-as-a-Service",
+        "api_name": "Google Cloud Runtime Config",
+        "id": 2982,
+        "progweb_descr": " This API provide capability configuration coordination application run Google Cloud Platform You also set Watchers Waiters watch change data return base certain condition Runtime Configurator allow dynamically configure expose variable allow add variety service storage access machinelearningbased image analysis Cloud Platform application name It allow developer build cloud tool infrastructure application map device"
+    },
+    {
+        "progweb_cat": "Cloud,Big Data",
+        "api_name": "Google Cloud Bigtable Data",
+        "id": 2986,
+        "progweb_descr": " This RPC API Googles NoSQL Big Data database service Service name bigtablegoogleapiscom need create RPC client stub include Marketing data Financial data Internet Things You store cluster data solidstate drive SSD hard disk drive HDD Cloud Bigtable ideal store large amount singlekeyed data low latency support high read write throughput low latency ideal data source MapReduce operation It power many core Google service include Search Analytics Maps Gmail It sparsely populate table scale billion row thousand columns allow store terabyte even petabytes data"
+    },
+    {
+        "progweb_cat": "Cloud,Big Data",
+        "api_name": "Tervela Cloud FastPath",
+        "id": 4902,
+        "progweb_descr": " Tervela Cloud FastPath API data migration platform cloud management capability It use build integrated data pipeline allows group together data source application This API REST base use custom authentication method Tervela base Boston provide big data tool secure cloudtocloud migration system"
+    },
+    {
+        "progweb_cat": "Cloud,Big Data",
+        "api_name": "Mesosphere",
+        "id": 7152,
+        "progweb_descr": " Mesosphere cloud platform scale manage data big data cloud Mesosphere API allow developer access integrate functionality Mesosphere application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Cloud,DevOps",
+        "api_name": "Oracle Cloud Stack Manager",
+        "id": 3059,
+        "progweb_descr": " Oracle Cloud Stack Manager REST API allow developer access integrate functionality Oracle Cloud Stack Manager application websites Some example API method include create stack manage stack retrieve list stack account management Oracle Cloud Stack Manager provide cloud stack management service functionality"
+    },
+    {
+        "progweb_cat": "Cloud,Recognition",
+        "api_name": "Google Cloud Speech",
+        "id": 3290,
+        "progweb_descr": " Cloud Speech API speech recognition system apply powerful neural network model Speech API support 80 language transcribe text enable voice command This API REST base use JSON request require API Keys authentication Currently Speech API beta free try"
+    },
+    {
+        "progweb_cat": "Cloud,Recognition",
+        "api_name": "Sighthound Cloud",
+        "id": 4922,
+        "progweb_descr": " Sighthound API allow developer integrate application Cloud service Sighthound API allow realtime analysis video frame still image detect face whether people frame An API key require make request API API utilize HTTP POST request JSON body Sighthound provider computer vision developer OEMs home business They provide intelligent technology video surveillance"
+    },
+    {
+        "progweb_cat": "Cloud,Extraction",
+        "api_name": "Google Cloud Natural Language",
+        "id": 3322,
+        "progweb_descr": " Cloud Natural Language API use Googles machine learn integrate application text analysis system This API extract data place people event obtain intent conversation perform analysis specific text uploaded server Natural Language API REST base use JSON request API Keys authentication Currently API beta free try"
+    },
+    {
+        "progweb_cat": "Cloud,Engagement",
+        "api_name": "PureCloud Platform",
+        "id": 3504,
+        "progweb_descr": " PureCloud Platform API allow developer control PureCloud Environment Developers access system configuration conversation function PureCloud available four region North America AustraliaNew Zealand EU Ireland Japan request make use correct region customer locate This API use OAuth 2 authentication JSON responses Interactive Intelligence IT firm base Indiana"
+    },
+    {
+        "progweb_cat": "Cloud,Engagement",
+        "api_name": "PureCloud Web Services Data Dip Connector",
+        "id": 3505,
+        "progweb_descr": " PureCloud Web Services Data Dip Connector API use tie connector PureCloud web service provider thirdparty system example CRM database This API support creation connector group publication action rout request This connector work valid JSON schema Interactive Intelligence IT firm base Indiana"
+    },
+    {
+        "progweb_cat": "Cloud,Localization",
+        "api_name": "TelVue Connect",
+        "id": 3809,
+        "progweb_descr": " Connect API content management system support multi user distribution smooth video stream customizable video player It exchange information JSON format TelVue broadcast technology corporation base New Jersey enhance channel programming increase delivery TelVues service include live internet stream video demand"
+    },
+    {
+        "progweb_cat": "Cloud,Localization",
+        "api_name": "TelVue Princeton Server",
+        "id": 3810,
+        "progweb_descr": " Princeton Server API allow integration TelVues Princeton product Princeton allinone digital broadcasting system use schedule transmit full day program TelVue broadcast technology corporation base New Jersey enhance channel programming increase delivery TelVues service include live internet stream video demand"
+    },
+    {
+        "progweb_cat": "Cloud,Virtualization",
+        "api_name": "Exoscale Compute",
+        "id": 3846,
+        "progweb_descr": " Exoscale cloud service provider base Switzerland It feature SSD server object storage protection Swiss Federal Data Protection Act Compute REST API base Apache Cloud Stack exchange information JSON format use API Keys authentication Exoscale offer 7 monthly plan feature different hardware specification accord developer need"
+    },
+    {
+        "progweb_cat": "Cloud,Virtualization",
+        "api_name": "Tilaa",
+        "id": 6306,
+        "progweb_descr": " Tilaa cloud company offer business virtual private cloud virtual server With Tilaa API developer able integrate Tilaa cloud platform application manage virtual private cloud All endpoint require basic authentication"
+    },
+    {
+        "progweb_cat": "Cloud,Virtualization",
+        "api_name": "HP Cloud Compute",
+        "id": 12798,
+        "progweb_descr": " HP Cloud Compute allow user deploy scalable virtual server demand Users customize launch open sourcebased virtual server minute rapid time code quickly scale capacity base need"
+    },
+    {
+        "progweb_cat": "Cloud,Domains",
+        "api_name": "Exoscale DNS",
+        "id": 3883,
+        "progweb_descr": " Exoscale cloud service provider base Switzerland feature SSD server object storage protection Swiss Federal Data Protection Act Exoscale offer 7 monthly plan different hardware specification accord developer need DNS REST API use program host zone record This API exchange information JSON format use API Keys authentication"
+    },
+    {
+        "progweb_cat": "Cloud,Domains",
+        "api_name": "GoDaddy Cloud Server",
+        "id": 5717,
+        "progweb_descr": " GoDaddy Cloud Server API API developer create developer It currently Beta status simple API fast provision KVM Virtualization goal new GoDaddy Cloud Server API bring good cloud host solution improve speed scalability developer project application"
+    },
+    {
+        "progweb_cat": "Cloud,Domains",
+        "api_name": "HEXONET",
+        "id": 8304,
+        "progweb_descr": " HEXONET domain name registration service offer wide variety domain wholesale price They sell customer resellers HEXONET provide set APIs large resellers partner company These APIs allow developer integrate function handle domain registration DNS management domain alert account management account billing important task system application"
+    },
+    {
+        "progweb_cat": "Cloud,Domains",
+        "api_name": "Rackspace Cloud DNS",
+        "id": 14123,
+        "progweb_descr": " Rackspace Cloud DNS free BETA service offer set API operation manage user domain subdomains resource record API use create import domain Rackspace Cloud account Users also list add modify remove domain record need API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Cloud,Authentication",
+        "api_name": "Threat Stack Webhook",
+        "id": 3888,
+        "progweb_descr": " Threat Stack Webhook API cloudbased security solution enhances speed synchrony apps resolve crossplatform event Users customize configuration automatically prioritize detection specify security event RESTful API send request response JSON format access require API Key authentication Threat Stack Webhook API employ apps across different sector include financial technology education health care software service medium among others"
+    },
+    {
+        "progweb_cat": "Cloud,Authentication",
+        "api_name": "Rackspace Cloud Images",
+        "id": 6021,
+        "progweb_descr": " Rackspace Cloud Images service enable user create manipulate image image member associate metadata Rackspace Cloud Images API let developer integrate service application API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Cloud,Authentication",
+        "api_name": "eOptin Authorize Connect",
+        "id": 8531,
+        "progweb_descr": " eOptin endtoend platform authorize secure connection cloud kind electronic device appliance It also enable user manage connection securely anywhere world Users connect eOptins authorization service within application device via eOptin Authorize Connect API"
+    },
+    {
+        "progweb_cat": "Cloud,Monitoring",
+        "api_name": "Sysdig Cloud",
+        "id": 3908,
+        "progweb_descr": " Sysdig Cloud API allow developer access Sysdig Cloud apps monitor alert troubleshoot function programmatically This API still beta fully document Sysdig Cloud design specifically provide visibility containerize infrastructure It provide realtime dashboard historical replay dynamic topology alert"
+    },
+    {
+        "progweb_cat": "Cloud,Monitoring",
+        "api_name": "Google Cloud Monitoring",
+        "id": 6104,
+        "progweb_descr": " Google Cloud Monitoring provide access metric data Google Cloud Platform Developers access integrate functionality Google Cloud Monitoring application Some example API method include retrieve usage data cost manage user retrieve information issue"
+    },
+    {
+        "progweb_cat": "Cloud,Infrastructure-as-a-Service",
+        "api_name": "Open Telekom Cloud",
+        "id": 4303,
+        "progweb_descr": " Open Telekom Cloud API Deutsche Telekom aim provide developer way create manage Virtual Machines along side APIs VPC ELB IaaS service API intend include service Virtual Private Cloud VPC Elastic Cloud Server ECS Elastic Load Balancer ELB Elastic Volume Service EVS others"
+    },
+    {
+        "progweb_cat": "Cloud,Infrastructure-as-a-Service",
+        "api_name": "Scaleway",
+        "id": 5011,
+        "progweb_descr": " Scaleway API allow developer manage server resource programmatic way use conventional HTTP request All feature find web control panel also available API Scaleway laaS provider offer ARM base cloud"
+    },
+    {
+        "progweb_cat": "Cloud,Infrastructure-as-a-Service",
+        "api_name": "Brightbox",
+        "id": 6583,
+        "progweb_descr": " Brightbox company allow user build cloud server across 2 UK data center 30 second RESTful API enable full control Brightbox Cloud IaaS resource In site user find API tool client library endpoint URLs request attribute server information database material facilitate application development"
+    },
+    {
+        "progweb_cat": "Cloud,Testing",
+        "api_name": "Google Cloud Debugger",
+        "id": 4318,
+        "progweb_descr": " Google Cloud Debugger API allow developer integrate application Google Stackdriver Debugger backend API provide Debugger interface Controller interface Debugger allow user set delete breakpoints state data collect well read capture data Controller let user send state data Debugger application run"
+    },
+    {
+        "progweb_cat": "Cloud,Compliance",
+        "api_name": "Hyperglance",
+        "id": 4361,
+        "progweb_descr": " Hyperglance API allow developer integrate resource application data Hyperglance platform Hyperglance service monitor analyze manage IT resource It provide interactive 3D topology view public private cloud infrastructure This give user accurate current look cloud topology security compliance audit"
+    },
+    {
+        "progweb_cat": "Cloud,Compliance",
+        "api_name": "Qualys",
+        "id": 6663,
+        "progweb_descr": " Qualys provide cloud security compliance solution Qualys API allow developer support network integrate application With API developer able set network organize asset scan reporting"
+    },
+    {
+        "progweb_cat": "Cloud,Accounts",
+        "api_name": "Atlassian Bitbucket",
+        "id": 4447,
+        "progweb_descr": " Atlassian Bitbucket API REST API provide developer tool application access Bitbucket Cloud resource individual team account repository aspects resource change set comment With API base open standard user build third party application use web development language access API Atlassian offer product support strategic service team startup enterprise"
+    },
+    {
+        "progweb_cat": "Cloud,Accounts",
+        "api_name": "ShepHertz App42 Cloud User Management",
+        "id": 5657,
+        "progweb_descr": " ShepHertz App42 Cloud User Management API allow developer manage app user ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Cloud,Accounts",
+        "api_name": "Amazon Cloud Drive Account",
+        "id": 6330,
+        "progweb_descr": " Amazon Cloud Drive Account API provide developer ability get information customer account Amazon Cloud Drive APIs RESTbased APIs developer add web desktop mobile application main Amazon Cloud Drive API provide variety ability developer let customer access photo videos document save Amazon Cloud Drive Amazon Cloud Drive APIs free offer experience put creative spin developer user upload view edit download organize digital content use app Amazon Cloud Drive APIs offer confidence peace mind customer content safe accessible Amazon Cloud Drive"
+    },
+    {
+        "progweb_cat": "Cloud,Accounts",
+        "api_name": "Amazon Cloud Drive Nodes",
+        "id": 6331,
+        "progweb_descr": " Nodes primary part core function digital asset Amazon Cloud Drive Amazon Cloud Drive Nodes API give developer resource create read update content customer account Amazon Cloud Drive APIs RESTbased APIs developer add web desktop mobile application main Amazon Cloud Drive API provide variety ability developer let customer access photo videos document save Amazon Cloud Drive Amazon Cloud Drive APIs free offer experience put creative spin developer user upload view edit download organize digital content use app Amazon Cloud Drive APIs offer confidence peace mind customer content safe accessible Amazon Cloud Drive"
+    },
+    {
+        "progweb_cat": "Cloud,Accounts",
+        "api_name": "Amazon Cloud Drive Changes",
+        "id": 6332,
+        "progweb_descr": " Amazon Cloud Drive Changes API let developer sync get updates specific checkpoint Changes API provide ability keep change customer account Amazon Cloud Drive APIs RESTbased APIs developer add web desktop mobile application main Amazon Cloud Drive API provide variety ability developer let customer access photo videos document save Amazon Cloud Drive Amazon Cloud Drive APIs free offer experience put creative spin developer user upload view edit download organize digital content use app Amazon Cloud Drive APIs offer confidence peace mind customer content safe accessible Amazon Cloud Drive"
+    },
+    {
+        "progweb_cat": "Cloud,Accounts",
+        "api_name": "Amazon Cloud Drive Trash",
+        "id": 6333,
+        "progweb_descr": " Amazon Cloud Drive Trash API let developer trash node send recycle bin node get put bin also restore previous state Amazon Cloud Drive APIs RESTbased APIs developer add web desktop mobile application main Amazon Cloud Drive API provide variety ability developer let customer access photo videos document save Amazon Cloud Drive Amazon Cloud Drive APIs free offer experience put creative spin developer user upload view edit download organize digital content use app Amazon Cloud Drive APIs offer confidence peace mind customer content safe accessible Amazon Cloud Drive"
+    },
+    {
+        "progweb_cat": "Cloud,Accounts",
+        "api_name": "CenturyLink",
+        "id": 6985,
+        "progweb_descr": " CenturyLink telecommunication company offer cloud service business development SaaS resellers company offer API support REST base HTTP request XML JSON SOAP protocols goal display bill data center network usage upcoming event activity log This API may serve control portal could help developer monitor user ’ activity work cloud To start application development site show quick overview guide instructional video website also display 3 attribute Success Message StatusCode name show type response developer receive request"
+    },
+    {
+        "progweb_cat": "Cloud,Billing",
+        "api_name": "Google Cloud Billing",
+        "id": 4663,
+        "progweb_descr": " Google Cloud Billing API allow developer integrate Google Cloud Billing service application This API Rest base Developers use API retrieve bill account information list billing account list get information billing project"
+    },
+    {
+        "progweb_cat": "Cloud,Backup",
+        "api_name": "Backblaze B2 Cloud Storage",
+        "id": 4688,
+        "progweb_descr": " Backblaze B2Cloud Storage API cloud service tool store file cloud With B2 Cloud Storage API user manage configuration account create manage bucket hold file upload download delete file Backblaze provide userfriendly unlimited efficient storage back option service"
+    },
+    {
+        "progweb_cat": "Cloud,Backup",
+        "api_name": "Rackspace Cloud Backup",
+        "id": 6158,
+        "progweb_descr": " Rackspace Cloud Backup filebased backup application let user choose file folder back cloud server Rackspace Cloud Backup API let developer integrate feature application API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Cloud,Canadian",
+        "api_name": "Cloud at Cost",
+        "id": 4993,
+        "progweb_descr": " Cloud Cost API allow developer access cloud hosting service programmatically Cloud Cost allow user manage server even server network misconfigured disconnect Users add remove additional storage need move virtual driver server server They also add remove IPs server even set reverse DNS record"
+    },
+    {
+        "progweb_cat": "Cloud,Management",
+        "api_name": "RightScale Cloud Management",
+        "id": 5084,
+        "progweb_descr": " RightScale Cloud Management API allow developer speed application delivery control cloud usage expenditures ensure application SLAs RightScale cloud provider cloud management service allow user link public private cloud provide selfservice cloud access control cloud visibility policy RightScale highly available come automate scale"
+    },
+    {
+        "progweb_cat": "Cloud,Management",
+        "api_name": "Kaavo Web Services",
+        "id": 14941,
+        "progweb_descr": " Kaavo Web service allow user programmatically interact IMOD Kaavo provide solution manage distributed application workload cloud Kaavo ’ core product Infrastructure Middleware On Demand IMOD make easy individual business leverage ondemand infrastructure run secure scalable web service application cloud With API user programmatically deploy manage SaaS PaaS Custom application Public Private Hybrid IaaS layer eg Amazon EC2 Rackspace Cloud IBM Cloud vCloud Eucalyptus alt API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Cloud,Developers",
+        "api_name": "Platform9",
+        "id": 5122,
+        "progweb_descr": " Platform9 REST API allow developer access integrate functionality Platform9 application create new application Some example API method include manage resource access resource create new stack Platform9 provide solution build manage OpenStack private cloud"
+    },
+    {
+        "progweb_cat": "Cloud,Networking",
+        "api_name": "Rackspace Cloud Neutron",
+        "id": 5497,
+        "progweb_descr": " Rackspace Cloud Neutron API allow developer create isolate network provision instance Rackspace network networks create This RESTful API use aspect HTTP protocol"
+    },
+    {
+        "progweb_cat": "Cloud,Networking",
+        "api_name": "Rackspace Cloud Networks",
+        "id": 6147,
+        "progweb_descr": " Rackspace Cloud Networks give user way create isolate network provision server instance Rackspace network isolate network create Rackspace Cloud Networks API let developer integrate service application API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Cloud,Networking",
+        "api_name": "Juniper Configurations Management",
+        "id": 6816,
+        "progweb_descr": " Juniper Networks manufacturer network equipment specialize delivering product service related create maintain network Configuration Management Service let users view change request deploy device API allow developer create modify get change request present system"
+    },
+    {
+        "progweb_cat": "Cloud,Networking",
+        "api_name": "CradlePoint",
+        "id": 7728,
+        "progweb_descr": " CradlePoint provide networking solution mobile broadband service They offer highperformance router manage remotely Enterprise Cloud Manager server Developers enable application access server use CradlePoints RESTful API This open access kind information function include alert notification authorization log patch permission security token setting"
+    },
+    {
+        "progweb_cat": "Cloud,Open Source",
+        "api_name": "XAPI",
+        "id": 5737,
+        "progweb_descr": " Xen Project Management API XAPI give developer access tool optimize server workload hardware function provide interface remote management virtualized guest run Xenenabled host Xen Project opensource community develop service allow hardware concurrently execute multiple operate system"
+    },
+    {
+        "progweb_cat": "Cloud,Content",
+        "api_name": "Rackspace CDN",
+        "id": 6149,
+        "progweb_descr": " Rackspace CDN content Delivery Network give individual power accelerate content public resource Rackspace Rackspace CDN API let developer integrate service application API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Cloud,Content",
+        "api_name": "Amazon CloudFront CDN",
+        "id": 10787,
+        "progweb_descr": " Amazon CloudFront web service content delivery include dynamic static streaming content use global network edge location It integrate Amazon Web Services give developer business easy way distribute content end user low latency high data transfer speed commitment API let user distribute content Amazon S3 bucket Amazon EC2 instance origin server Amazon CloudFront network API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Cloud,Notifications",
+        "api_name": "Rackspace Cloud Queues",
+        "id": 6157,
+        "progweb_descr": " Rackspace Cloud Queues open source scalable message notification service Rackspace Cloud Queues API let developer integrate service application API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Cloud,Notifications",
+        "api_name": "Pushingbox",
+        "id": 12004,
+        "progweb_descr": " PushingBox cloud notification service It connect array usersâ€™ digital notification service email Twitter Toasty receive alert predetermine action These action call scenario link anything doorbell ring receive email Their API expose integrative functionality PushingBox service"
+    },
+    {
+        "progweb_cat": "Cloud,Feeds",
+        "api_name": "Rackspace Cloud Feeds",
+        "id": 6160,
+        "progweb_descr": " Rackspace Cloud Feeds software service enable customer public cloud access near realtime usage system event use analysis monitor automation Rackspace Cloud Feeds API let developer integrate application service API REST base us tokenbased authentication system"
+    },
+    {
+        "progweb_cat": "Cloud,Conversions",
+        "api_name": "Aspose.Cells",
+        "id": 6179,
+        "progweb_descr": " AsposeCells API program interface offer Apose let developer integrate service application enable customer create edit excel spreadsheet directly application API REST base use platform support REST Apose software company specialize file management cloud"
+    },
+    {
+        "progweb_cat": "Cloud,Conversions",
+        "api_name": "Aspose.Slides",
+        "id": 6183,
+        "progweb_descr": " AsposeSlides API program interface offer Apose let developer integrate service application enable customer create edit PowerPoint slide directly application API REST base use platform support REST Apose software company specialize file management cloud"
+    },
+    {
+        "progweb_cat": "Cloud,Accessibility",
+        "api_name": "Amazon Cloud Drive",
+        "id": 6313,
+        "progweb_descr": " Amazon Cloud Drive API RESTbased API developer add web desktop mobile application Amazon Cloud Drive API provide ability developer let customer access photo videos document save Amazon Cloud Drive Amazon Cloud Drive API free offer experience put creative spin developer user upload view edit download organize digital content use app Amazon Cloud Drive API offer confidence peace mind customer content safe accessible Amazon Cloud Drive"
+    },
+    {
+        "progweb_cat": "Cloud,Accessibility",
+        "api_name": "Apple CloudKit",
+        "id": 7166,
+        "progweb_descr": " Apples iCloud service include full automatic syncing file folder across device iOS 8 OS X Yosemite This mean everything accessible iCoudDrive Utilizing iCloud Apples CloudKit enable developer let user sign apps Apple ID without share personal information"
+    },
+    {
+        "progweb_cat": "Cloud,Audio",
+        "api_name": "Tevox",
+        "id": 6427,
+        "progweb_descr": " Tevox cloud communication platform provide business way communicate cloud It feature realtime audiovideo communication Tevox API let developer integrate service application allow client customer communicate one another"
+    },
+    {
+        "progweb_cat": "Cloud,Collaboration",
+        "api_name": "CloudFuze",
+        "id": 6498,
+        "progweb_descr": " CloudFuze cloud platform document file management enable user collaborate manage file remotely CloudFuze API let developer integrate service application allow user utilize CloudFuze ’ functionality It RESTful API utilize OAUTH security protocol"
+    },
+    {
+        "progweb_cat": "Cloud,Database-as-a-Service",
+        "api_name": "Joyent Manta Storage Service",
+        "id": 6651,
+        "progweb_descr": " Joyent API enable developer access modify store data cloud Joyent infrastrure Service let user store access process data cloud"
+    },
+    {
+        "progweb_cat": "Cloud,Customer Relationship Management",
+        "api_name": "ExactTarget Fuel REST",
+        "id": 6661,
+        "progweb_descr": " ExactTarget Fuel REST API provide developer tool develop Marketing Cloud application App Center developers able access via web API also allow developer establish ExactTarget permission application need Some available permission developer request include channel ie email message sms asset ie document image contact ie list audience data"
+    },
+    {
+        "progweb_cat": "Cloud,Customer Relationship Management",
+        "api_name": "ExactTarget Fuel SOAP",
+        "id": 6662,
+        "progweb_descr": " ExactTarget Fuel SOAP API provide developer tool develop Marketing Cloud application App Center developers able access via web API also allow developer establish ExactTarget permission application need Some available permission developer request include channel ie email message sms asset ie document image contact ie list audience data"
+    },
+    {
+        "progweb_cat": "Cloud,Customer Relationship Management",
+        "api_name": "HappyFox",
+        "id": 7442,
+        "progweb_descr": " HappyFox web base customer support ticket system host cloud HappyFox help track manage customer support request across multiple channel like email chat social medium centralize ticket support system HappyFox API support operation like create ticket add update ticket list ticket user Helpdesk API Uses REST call return JSON XML An account required service"
+    },
+    {
+        "progweb_cat": "Cloud,Reference",
+        "api_name": "Seattle Clearinghouse",
+        "id": 10642,
+        "progweb_descr": " Seattle name platform networking distribute system research Seattle Clearinghouse website use share resource user obtain resource one project Seattle network global distribution make useful work application cloud compute peertopeer network mobile compute distribute system client wish access Seattle Clearinghouses functionality without go website XMLRPC API available"
+    },
+    {
+        "progweb_cat": "Cloud,Reference",
+        "api_name": "BonFIRE",
+        "id": 11808,
+        "progweb_descr": " BonFIRE consortium dedicate research cloud compute It comprise academic nonacademic research institution business enterprise technology analyst others Their goal advance develop cloud service Internet Services community BonFIRE currently maintain six testbeds cloud service across Europe UK They offer RESTful API developer access testbeds query resource API return XMLencoded result"
+    },
+    {
+        "progweb_cat": "Cloud,Performance",
+        "api_name": "BlazeMeter",
+        "id": 11478,
+        "progweb_descr": " BlazeMeter 100 JMetercompatible selfservice load performance test cloud Load test create configured online Upon creation user run use BlazeMeter API With API user longer manually start test instead create automated script automatically run predefined test API also use get link generate report These report available online downloadable ZIP file"
+    },
+    {
+        "progweb_cat": "Cloud,Project Management",
+        "api_name": "Codesion",
+        "id": 11538,
+        "progweb_descr": " Codesion cloud management service company tech business They provide PCI level 1 compliant security product They feature provide include solution issue track Subversion Git CSV host well FTP software deployment Codesion API expose account project management functionality It RESTful API return XML JSON encode data"
+    },
+    {
+        "progweb_cat": "Cloud,Prices",
+        "api_name": "CloudVertical",
+        "id": 11871,
+        "progweb_descr": " CloudVertical cloud compute analytics platform platform integrate set service CloudVertical offer API provide information cost cloud infrastructureCloudVertical API push data Cloud CloudVerticals system cost usage data use standard data format describe infrastructure"
+    },
+    {
+        "progweb_cat": "Cloud,Korean",
+        "api_name": "KT Ucloud",
+        "id": 12739,
+        "progweb_descr": " KT South Koreas lead telecom company among product ucloud public cloud service KT ucloud public cloud service serve AsiaPacific region It deliver resource include infrastructre platform software demand elastic compute RESTful API use manage user creation storage information well creation management file box"
+    },
+    {
+        "progweb_cat": "Cloud,Social",
+        "api_name": "nimbits",
+        "id": 13358,
+        "progweb_descr": " Nimbits open source process data historian Google App Engine It provide data log calculation M2M communication sensor device Arduino It use record share data point cloud let user record change numeric text base GPS json xml value API let users access public server push pull data API also provide access chart image service generate PNG format image user data API use HTTP call response format JSON TXT"
+    },
+    {
+        "progweb_cat": "Cloud,Mashups",
+        "api_name": "itDuzzit",
+        "id": 13460,
+        "progweb_descr": " itDuzzit cloud integration platform exchange data cloud various application itDuzzit connect application application connect data manual entry require itDuzzit API allow developer access integrate functionality itDuzzit tool application Some example API method include retrieve contact information manage account run connection application retrieve report"
+    },
+    {
+        "progweb_cat": "Cloud,Financial",
+        "api_name": "Cloudability",
+        "id": 13842,
+        "progweb_descr": " Cloudability track manage 80 cloud SaaS provider give company ability monitor analyze complete cloud spend across multiple vendor Cloudability provide company run cloud service recommendation increase clouduse efficiency actionable insight unnecessary overage unused instance Cloudability offer API let cloud user access cloud billing usage data provider like AWS Rackspace Heroku connect data business financial system application API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Cloud,Accounting",
+        "api_name": "CloudSigma",
+        "id": 14168,
+        "progweb_descr": " CloudSigma InfrastructureasaService IaaS provider offering high availability flexible cloud server cloud host API provide access full feature set include user management drive management server management API use RESTful call response format TXT"
+    },
+    {
+        "progweb_cat": "Cloud,Marketplace",
+        "api_name": "AppDirect",
+        "id": 14227,
+        "progweb_descr": " AppDirect offer platform allow business find web base software solution need application marketplace AppDirect API allow developer integrate application Business Application Network distribution API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Cloud,Support",
+        "api_name": "LiveTime",
+        "id": 14915,
+        "progweb_descr": " LiveTimeï¿½s Web Services Interface enable third party application interact directly LiveTime application secure control fashion LiveTime Software vendor Cloud base ITIL Service Management Help Desk software API allow developer authenticate user retrieve user item organiztion info It use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Cloud,Mobile",
+        "api_name": "Funambol Cloud",
+        "id": 15250,
+        "progweb_descr": " Funambol Cloud API CAPI make easy developer create mobile cloud apps service use address book calendar data well picture store Funambol mobile cloud server It also use upload update data myFunambol This allow mobile device data rapidly integrate app service Funambol lead provider mobile cloud sync Its mobile open source platform use many type mobile application include push email PIM data synchronization device management API use RESTful protocol response format JSON API examples provide Ajax Java PHP"
+    }
+]

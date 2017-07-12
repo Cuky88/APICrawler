@@ -1,0 +1,134 @@
+[
+    {
+        "progweb_cat": "Sales,Analytics",
+        "api_name": "Liquid Data Collection",
+        "id": 1724,
+        "progweb_descr": " Liquid Data Collection API analytics platform sale orient application feature multivariate test audience segmentation mobile customization API REST base exchange data JSON format payment option base pay grow model Liquid Data Intelligence base Portugal delivers software tool improve sale performance"
+    },
+    {
+        "progweb_cat": "Sales,Analytics",
+        "api_name": "Liquid Data Analysis",
+        "id": 1725,
+        "progweb_descr": " Liquid analytics platform sale orient application feature multivariate test audience segmentation mobile customization Liquid Data Analysis API REST base exchange data JSON format Data Analysis API use read aggregate data Liquid server Liquid Data Intelligence base Portugal delivers software tool improve sale performance"
+    },
+    {
+        "progweb_cat": "Sales,Analytics",
+        "api_name": "MadKudu",
+        "id": 1861,
+        "progweb_descr": " MadKudu API allow lookup predictive information lead available customer MadKudu Pro plan This include Companies Persons Behavior MadKudu automatically analyze exist customer data find patterns indicate customer become best customer right time engage"
+    },
+    {
+        "progweb_cat": "Sales,Analytics",
+        "api_name": "Octiv",
+        "id": 2926,
+        "progweb_descr": " Octiv lead vendor integrative sale productivity solution integration Octiv REST API clientside application allow user monitor manage sale productivity API embed CRM CPQ ERP type system streamline sale operation gather analytical insight monitor customer engagement parameter RESTful API send HTTPformatted request return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Sales,Analytics",
+        "api_name": "Qymatix Predictive Sales Analytics",
+        "id": 4562,
+        "progweb_descr": " Qymatix Predictive Sales Analytics API let developer integrate Qymatix service application enable sale manager SMEs B2B get advanced predictive sale analytics API documentation available register user"
+    },
+    {
+        "progweb_cat": "Sales,Customer Relationship Management",
+        "api_name": "Freshsales",
+        "id": 1743,
+        "progweb_descr": " Freshsales API integrate sale feature customer relationship management application It available REST architecture JSON format Freshsales offer lead management event track email management sale analytics report mobile CRM"
+    },
+    {
+        "progweb_cat": "Sales,Customer Relationship Management",
+        "api_name": "Callinize",
+        "id": 4181,
+        "progweb_descr": " Callinize API allow developer retrieve call event information event programmatically Callinize provide Tenfold service connect user CRM phone system help enforce best practice user sale team It automatically log every call make CRM"
+    },
+    {
+        "progweb_cat": "Sales,Customer Relationship Management",
+        "api_name": "FutureSimple Sync",
+        "id": 5288,
+        "progweb_descr": " Base FutureSimple provide small medium sized business sale CRM service FutureSimple Sync API allow developer connect Base synchronization layer way mobile device allow keep data date Base"
+    },
+    {
+        "progweb_cat": "Sales,Contacts",
+        "api_name": "KnowThyCustomer",
+        "id": 2148,
+        "progweb_descr": " KnowThyCustomer API allow search detail People Phone Numbers Emails Properties KnowThyCustomer provide Identity Verification Consumer Data service customer lead marketing"
+    },
+    {
+        "progweb_cat": "Sales,Contacts",
+        "api_name": "LeadGenius MobileWorks",
+        "id": 6722,
+        "progweb_descr": " MobileWorks API provide user automate process create automate project MobileWorks platform structure feedback whether simple large scale project This API enable user create project provide instruction set data worker see Users check status project API provide callback URL account setting Every call return JSON response"
+    },
+    {
+        "progweb_cat": "Sales,Chat",
+        "api_name": "Zoho Sales IQ",
+        "id": 2165,
+        "progweb_descr": " Zoho Sales IQ API facilitate customization chat widgets web application This allow developer prescribe chat widget functionality suit user ’ scope exist web activity preference"
+    },
+    {
+        "progweb_cat": "Sales,Activity Streams",
+        "api_name": "Cognism",
+        "id": 3140,
+        "progweb_descr": " Cognism API integrate sale feature base algorithm It available HTTP request JSON CSV responses Authentication require via token Cognition sale lead generation tool"
+    },
+    {
+        "progweb_cat": "Sales,Conversions",
+        "api_name": "What Converts",
+        "id": 3145,
+        "progweb_descr": " What Converts API integrate call track lead report application websites It available HTTP format API Key authentication"
+    },
+    {
+        "progweb_cat": "Sales,Email",
+        "api_name": "PersistIQ",
+        "id": 3886,
+        "progweb_descr": " PersistIQ API integrate lead generation feature web service It specially design business application developer interact API via JSON access data via Key PersistIQ outbound sale platform"
+    },
+    {
+        "progweb_cat": "Sales,Email",
+        "api_name": "AeroLeads",
+        "id": 4355,
+        "progweb_descr": " AeroLeads provide lead generation software find potential customer email address phone number AeroLeads API integrate prospectgenerator application useful business marketing application Users access email phone number lead Available HTTP JSON format Api Key"
+    },
+    {
+        "progweb_cat": "Sales,eCommerce",
+        "api_name": "Pilot",
+        "id": 4526,
+        "progweb_descr": " Pilot Point Sale Web Store platform retailer sell part accessory It create marine supplier Crowley Systems support retail online sale Pilot API allow developer integrate sale feature application In particular order user Developers interact API JSON REST protocol Api access Key SSL support available"
+    },
+    {
+        "progweb_cat": "Sales,eCommerce",
+        "api_name": "Lightspeed Retail",
+        "id": 6010,
+        "progweb_descr": " Lightspeed Retail API allow developer integrate Lightspeed Retail system application enable user access everything available within account Lightspeed company provide business way manage inventory sell online connect supplier engage customer"
+    },
+    {
+        "progweb_cat": "Sales,Charity",
+        "api_name": "WealthEngine",
+        "id": 5586,
+        "progweb_descr": " WealthEngine REST API allow developer access integrate functionality WealthEngine application Public documentation available API access come developer account WealthEngine platform allow user look wealth net worth information people prospect sale fundraise"
+    },
+    {
+        "progweb_cat": "Sales,Customer Service",
+        "api_name": "LeadDesk",
+        "id": 5813,
+        "progweb_descr": " LeadDesk API allow developer access integrate functionality LeadDesk application Public documentation available API access come account service LeadDesk provide software tool call center telesales professional"
+    },
+    {
+        "progweb_cat": "Sales,Accounts",
+        "api_name": "OverDrive Retailer Account",
+        "id": 6506,
+        "progweb_descr": " OverDrive online company provide users way access eBooks electronic material computer mobile device OverDrive Retailer Account API let developer create manage retailer account integrate API application API use Oauth authentication retailer account ID require create new account"
+    },
+    {
+        "progweb_cat": "Sales,Algorithms",
+        "api_name": "Facten",
+        "id": 6701,
+        "progweb_descr": " Facten leadgenerating service focus connect sale team scientific community Companies seek increase pipeline may use Facten acquire additional potential customer biotech industry apply Factens machine learn algorithms research find specific clientele Facten API open Facten user implement 3rd party application use simple HTTP request straightforward name convention Calls API method make discover profile add contact All request validate user API key authentication"
+    },
+    {
+        "progweb_cat": "Sales,Marketing",
+        "api_name": "HubSpot Lead Nurturing",
+        "id": 13609,
+        "progweb_descr": " HubSpot internet company provide highquality internet marketing small internetbased business HubSpot transforms relatively static smallbusiness website modern marketing machine produce right lead help convert high percentage business qualify opportunity Lead Nurturing API provide access user lead nurture campaign lead Functionality include add remove lead nurture campaign look information leadbylead basis find lead currently receive particular lead nurture campaign API use RESTful call response format XML JSON"
+    }
+]

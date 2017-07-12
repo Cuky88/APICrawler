@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Spreadsheets,Conversions",
+        "api_name": "Sheetsu",
+        "id": 4651,
+        "progweb_descr": " Sheetsu API let developer integrate spreadsheet API conversion system exist application It support form survey mail list This let developer use spreadsheet database Sheetsu API REST base return data JSON format"
+    },
+    {
+        "progweb_cat": "Spreadsheets,API",
+        "api_name": "Blockspring",
+        "id": 5072,
+        "progweb_descr": " Blockspring REST API allow developer access integrate functionality Blockspring application create new application Some example API method include manage user manage form access web service import spreadsheet Blockspring service allow user access web service spreadsheet"
+    },
+    {
+        "progweb_cat": "Spreadsheets,Collaboration",
+        "api_name": "Airtable",
+        "id": 5844,
+        "progweb_descr": " Airtable REST API allow developer access integrate functionality Airtable application JSON Public documentation available API access come account service Airtable data organization platform allow user organize data spreadsheet data management tool"
+    },
+    {
+        "progweb_cat": "Spreadsheets,Collaboration",
+        "api_name": "SpreadSheetSpace",
+        "id": 6676,
+        "progweb_descr": " SpreadSheetSpace use REST API allow user link Excel sheet online This app allow transformation Microsoft Excel live data analysis tool link corporate data secure control way Due PKI encryption allow full privacy selective share Excel cell API serve HTTPS therefore HTTP support SpreadSheetSpace beta"
+    },
+    {
+        "progweb_cat": "Spreadsheets,Data",
+        "api_name": "Data Everywhere",
+        "id": 6748,
+        "progweb_descr": " Data Everywhere ordinary business user Excel Google Sheets addins allow user share data directly exist spreadsheet Data Everywhere allow access spreadsheet data programmatically API Display data developer feed mobile web application API also provide programmatic access view edit data feed use secure interface Developers access Excel REST API read write data house Excel database"
+    }
+]

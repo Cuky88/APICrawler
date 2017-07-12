@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Parking,Air Travel",
+        "api_name": "Lider Parking",
+        "id": 1479,
+        "progweb_descr": " Lider Parking REST API use HTTPs method RESTful endpoint structure API authorization framework token header API allow developer access integrate functionality Lider Parking application Some example API method include retrieve park airport book park show offer"
+    },
+    {
+        "progweb_cat": "Parking,Auto",
+        "api_name": "ParkWhiz",
+        "id": 15169,
+        "progweb_descr": " ParkWhiz API give developer access ParkWhizs parking garage POI data realtime rate ability purchase park API feature RESTful interface return data via JSON format Calls limited 1000 day authorize via API Key"
+    }
+]

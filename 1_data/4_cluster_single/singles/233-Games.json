@@ -1,0 +1,1400 @@
+[
+    {
+        "progweb_cat": "Games,Mapping",
+        "api_name": "SecondLife",
+        "id": 95,
+        "progweb_descr": " From site Second Life 3D virtual world entirely build own resident Since open public 2003 grown explosively today inhabit nearly 100000 people around globe Second Life Webmap API allow embed Second Life Maps onto web page Note A JavaScript model similar Google map APIs"
+    },
+    {
+        "progweb_cat": "Games,Mapping",
+        "api_name": "Traveller Map",
+        "id": 9254,
+        "progweb_descr": " Traveller science fiction roleplay game RPG character travel star system explore fight trade It fairly openended game player may choose whether seek wealth technology political power new discovery Traveller Map piece together several different official map Traveller universe map access view directly website retrieve programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Games,Mapping",
+        "api_name": "Opencaching.us",
+        "id": 10226,
+        "progweb_descr": " Opencachingus official Opencaching site North America US Territories Users add sit database cache include description instruction necessary find Users also organize favorite cache build custom search instantly notify new cache seek create cache type export GPX query This data access via API API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Games,Mapping",
+        "api_name": "Geocaching",
+        "id": 11857,
+        "progweb_descr": " Geocaching realworld outdoor treasure hunt game Geocaching API enable user access data set feed Geocachingcom API operate use REST protocol OAuth In order use API term service must accept formal request must submit gain access Advanced developer support available API forum"
+    },
+    {
+        "progweb_cat": "Games,Mapping",
+        "api_name": "WallaBee",
+        "id": 12889,
+        "progweb_descr": " WallaBee locationbased collectible game application mobile phone Users WallaBee collect item location build collection buy item WallaBee store complete collection play game friend WallaBee API allow developer access integrate functionality WallaBee application create new application Some example API method include search return item image display activity feed access store item"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Daybreak Game Company Census",
+        "id": 473,
+        "progweb_descr": " Daybreak Games DGC leader massively multiplayer online game Some popular title include EverQuest EverQuest II PlanetSide 2 Planetside 2 H1Z1 Landmark DC Universe Online Census Data API allow user request information directly Daybreak regard status game game entity eg character item spell etc API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Guild Wars 2",
+        "id": 1115,
+        "progweb_descr": " Guild Wars 2 popular MMORPG game API allow developer access game data use third party application API endpoint include dynamic event guild item map information world v world many others Data return JSON"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Hearthstone Card",
+        "id": 2392,
+        "progweb_descr": " Hearthstone Card API support query Hearthstone Cards use specify parametersIts integration make easy user apply specific parameter minimum maximum range query specific card API send request response JSON format"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "gStack",
+        "id": 3212,
+        "progweb_descr": " Purple Gators gStack API deploy trivia game survey without need build server database aim quickly efficiently costeffectively process It support Android iOS HTML platforms Contact Purple Gator additional information relate format authentication httpspurplegatornetCONTACT purplegatorpurplegatornet"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Pokemon TCG",
+        "id": 3415,
+        "progweb_descr": " Pokemon TCG API allow developer access indepth detail every card set Pokemon Trading Card Game TCG card user get names type subtypes supertypes weakness resistance etc set user get release date whether set still legal information This API make data Pokemoncom"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Unofficial PokemonGo Java",
+        "id": 3482,
+        "progweb_descr": " PokemonGo Java API allow developer build interactive player portal PokemonGo online game unofficial API best deploy official PokemonGo server run optimum capacity API provider also recommend use alternate account play API avoid detection Niantic This Java API capable clone official client perfectly"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "EveryMatrix Web",
+        "id": 4010,
+        "progweb_descr": " EveryMatrix Web API support deployment WebSocket protocol integration pool GM payment provider native apps Other support native mobile apps API afford developer flexibility customize frontend application optimize integrative functionality GM platform EveryMatrix maker CasinoEngine casino game engine Developers must contact API provider access technical documentation"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "EveryMatrix GM Server",
+        "id": 4011,
+        "progweb_descr": " EveryMatrix GM Server API RESTful game solution come two variation – one internal wallet external wallet EveryMatrix GM Server API Internal Wallet interserver builder platform developer deploy tailor frontend game solution simplify app development As EveryMatrix GM Server API External Wallet essentially channel integrate suite clientside game GM platform EveryMatrix maker CasinoEngine casino game engine This allow player access diverse selection game different provider CasinoEngine Developers must contact API provider access technical documentation"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Deck of Cards",
+        "id": 5680,
+        "progweb_descr": " Deck Cards API simple service allow developer simulate deck card Methods available allow user shuffle card draw card reshuffle card get brand new deck use partial deck This API make available MIT License"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Pokéapi",
+        "id": 6450,
+        "progweb_descr": " freetouse Pokémon RESTful API Pokéapi link extensive database Pokémonrelated information true virtual Pokédex Simple GET HTTP request send API access 54363 object source Pokémon video game cover Pokémon character abilities move attack life defensive statistic This readonly API authentication require use So far date API service 13000000 request Pokéapi independently support Paul Hallett Python Go API developer avid GitHub contributor In addition 5 language specific library make interface API Python NET Racket Java Ruby"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "CoolROM",
+        "id": 6916,
+        "progweb_descr": " CoolROM website host ROM file emulator visitor download play classic game PCs Macs mobile device website also provide game screenshots rating gameplay preview video CoolROM API allow user programmatically search website retrieve platform filter ROMs ROM download link"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Minecraft ID List",
+        "id": 7608,
+        "progweb_descr": " Minecraft ID List provide searchable list IDs item entity within Minecraft These IDs also know data value unique identification number provide block item within game All Minecraft ID Lists IDs metadata make available machinereadable format via API"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "CrazyGames",
+        "id": 7885,
+        "progweb_descr": " CrazyGames flash game provider provide variety game across category shoot puzzle action drive CrazyGames API allow user incorporate flash game website blog Users access API copy paste small HTML snippet load correct file display game"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Trade.tf",
+        "id": 8099,
+        "progweb_descr": " Tradetf product sale site steam user Users post sale buy item site include trading segregate quality spreadsheet price crate item Tradetf API allow us use REST call get spreadsheet display price user website API return JSON API Key require use An account required service"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "ZowPow Toys",
+        "id": 8386,
+        "progweb_descr": " ZowPow Toys bring together physical toy mobile technology ZowPow Toys allow child play physical toy mobile technology application bring physical toys life ZowPow Toys API SDK allow developer access integrate functionality ZowPow Toys application create new application Public documentation available interested developer email developerszowpowcom access"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Parallel Kingdom Trade Data",
+        "id": 9411,
+        "progweb_descr": " Parallel Kingdom online game use go quest fight monster interact user online world Parallel Kingdom Trade Data API allow user make request get trade post trade tent data API return information fro prior day include data price quantity pricetype itemtype itemsubtype itemquality itemHP service use REST call"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "SharkScope",
+        "id": 10329,
+        "progweb_descr": " SharkScope service provide users information poker tournament result SharkScope ’ database information player tournament win record time This service allow user compare evaluate rank poker tournament player By use SharkScope API developer able integrate information application"
+    },
+    {
+        "progweb_cat": "Games,Entertainment",
+        "api_name": "Kamcord",
+        "id": 11226,
+        "progweb_descr": " Kamcord application allow user record share play mobile web game Kamcord work game user dont leave game record share play Kamcord API allow developer access integrate functionality Kamcord applications Some example API method include record play share play view recording"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "EVE Online CREST Carbon RESTful",
+        "id": 554,
+        "progweb_descr": " CREST API read write API use EVE Online Universe game This API allow scalable cluster interaction use HTTP GET PUT DELETE request modify representation game specific resource Resources store hypermedia document JSON format EVE Online futuristic online game experience set space Players explore 7000 star system cast elite spaceship pilot Using sandbox gameplay skilled base progression EVE Online player wage cosmic war discover new world create new economic venture travel across galaxy"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Spore",
+        "id": 766,
+        "progweb_descr": " Spore API give access database game Spore Maxis Electronic Arts Millions custom content create share community player You select item make individual user group sporecasts customize search filter"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Mochi Media Flash Games",
+        "id": 819,
+        "progweb_descr": " Mochi Media Flash Games API fee free Flash game use integrate website feed parameter change pull less game pull game certain category rating level pull game certain language eg exclude Chinese language game game feed update day 12am PST"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "FlashGameDistribution",
+        "id": 1053,
+        "progweb_descr": " FlashGameDistribution international flash game distributor connect game developer flash game site owner FlashGameDistribution API provide RESTful interface site automate customized gamebroadcasts FlashGameDistribution server"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Magic: The Gathering",
+        "id": 1095,
+        "progweb_descr": " Magic Gathering card trading game player use set printed virtual card As 2011 official database list 11000 distinct card type Magic Gathering API unofficial web service provide simple API call allow developer programmatically access game card information Accessible card information include card ID name type statistic print information rating vote"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "TruckersMP Web",
+        "id": 2675,
+        "progweb_descr": " This API provide access game stats via TruckersMPcom Get information rule player game time TruckersMP allow user link steam account Euro Truck Simulator 2 American Truck Simulator"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "MineTools",
+        "id": 4144,
+        "progweb_descr": " MineTools collection APIs interacting Minecraft server programmatically ServerPing API retrieve server version favicon MOTD online player ServerQuery API allow developer retrieve name online player instal plugins UUID API allow developer retrieve user UUID Favicon API allow developer display favicon Minecraft server"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Mythic Spoiler",
+        "id": 5036,
+        "progweb_descr": " Mythic Spoilers API provide access fantasy trading card game Magic Gathering game information Mythic Spoiler REST API allow developer access integrate functionality Mythic Spoiler application API method include retrieve game information spoiler retrieve game set search information"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "EVE Online XML",
+        "id": 5491,
+        "progweb_descr": " EVE XML API HTTP readonly API let users access publicly accessible information private character corporation information EVE Online A futuristic online game experience EVE Online cast player elite spaceship pilot use sandbox gameplay skillbased progression"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Wurstmineberg",
+        "id": 6592,
+        "progweb_descr": " Wurstmineberg vanilla Minecraft server usually run late version Minecraft Wurstmineberg API allow user retrieve death game log item information IDs player complete achievement player data stats information map item scoreboard data kind game statistic know player session much"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "SWTOR Fan Managed",
+        "id": 7129,
+        "progweb_descr": " A collection Fan Managed APIs available help developer access data STAR WARS Old Republic SWTOR Currently people use APIs get information game event include Bounty Contract Week Relics Gree Rakghoul Outbreak Double XP Lifeday Future APIs allow user retrieve Leaderboard Data Server Status"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "SteamRank",
+        "id": 7145,
+        "progweb_descr": " SteamRank website user look information player Steam They also make information available SteamRank API API profile call retrieve available information give Steam ID ageEstimate call retrieves estimate age give Steam ID second"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "A3 Ultimate",
+        "id": 7867,
+        "progweb_descr": " A3 Ultimate online platform A3 player perform ingame task A3 short Art Alive Attraction MMORPG massivelymultiplayer online roleplay game A3 Ultimate REST API allow user access game craft guide item option item information system programmatically API still development additional feature improvement expect"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "DeckBrew Magic: The Gathering",
+        "id": 7901,
+        "progweb_descr": " DeckBrew website building Magic Gathering MTG deck Although website still development already functional API retrieve information MTG card This information include list MTG card list card give multiverse set color detail single card etc All textual information present API belongs Wizards Coast DeckBrew API still beta change may make time"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Red Frog Freight",
+        "id": 8131,
+        "progweb_descr": " Red Frog Freight ingame service MMORPG EVE Online Red Frog Freight API provide developer access Red Frogâ€™s haul service API expose Red Frog Jump Calculator delivers data Red Frog Queue"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "GGTracker",
+        "id": 8212,
+        "progweb_descr": " GGTracker tool allow player StarCraft 2 realtime strategy game track stats game It allow player see army unit location strength point game Users also measure win rate APM action per minute Spending Skill army composition metric GGTracker API allow player retrieve information StarCraft 2 player match well player APM Spending Skill This API experimental may shut without user support"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Crysis 3 Stats",
+        "id": 8219,
+        "progweb_descr": " Crysis 3 Stats provide user access statistic Crysis 3 multiplatform firstperson shooter video game Players use Crysis 3 Stats view progress time share game stats others Crysis 3 Stats API allow developer retrieve game statistic website integration application It note commercial use API discourage"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Starcraft II",
+        "id": 8549,
+        "progweb_descr": " Starcraft II scifi realtime strategy game create Blizzard Starcraft 2 community site expose RESTful API gather data individual profile ladder Ladders official rank system use show top player ranking game This data retrieve API via REST call"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "TappedOut",
+        "id": 8551,
+        "progweb_descr": " TappedOut Magic Gathering MTG deck build website It provide API validate format one MTG card retrieve card detail retrieve late deck post user get collection list detail API also return response similar opening booster pack MTG card get multiple simulated booster pack via Cube Booster function"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "World of Tanks Clan",
+        "id": 8553,
+        "progweb_descr": " World Tanks WoT MMO massively multiplayer online game revolve around WWIIera tank WoT Developer Wiki provide access technical information service relate WoT One tool offer Clan API allow user retrieve information World Tanks clans It retrieve clan name leader description member motto date creation"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "RealmEye",
+        "id": 8972,
+        "progweb_descr": " RealmEye website user view ranking statistic player profile guild information MMORPG massively multiplayer online roleplaying game call Realm Mad God This free browserbased game pixelated shooter player character transport realm must fight multitude monster order survive Access RealmEyes information ranking provide via unofficial REST API"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Miniplay",
+        "id": 9033,
+        "progweb_descr": " Miniplay AKA Minijuegos website host variety free Flashbased game It offer solo multiplayer game variety genre include action adventure race classic sport strategy board game While API documentation developer information give English rest Miniplay website Spanish Miniplay REST API allow developer retrieve user information high score well send retrieve reset user game stats It also provide function store retrieve three save game unlimited amount usercreated content Developers use REST API also manage game item purchase use Minicoins JavaScript ActionScript 3 APIs give internal game interoperability site allow user external game authenticate Miniplay account"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "##CsC e-Sim",
+        "id": 9417,
+        "progweb_descr": " ESim online modern world simulation wherein player become citizen one 50 virtual country Players take role soldier business owner order affect politics economics military stand country CsC developer group create unofficial REST API retrieve information ESim Available information relate citizen battle market tax party military unit region"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Android: Netrunner Card Database",
+        "id": 9441,
+        "progweb_descr": " Android Netrunner twoplayer card game set dystopian future In game player take role megacorporation hacker battle control data Android Netrunner Card Database online database card game Users search site directly sit main page programmatically use API Netrunner API operate via REST call issue JSON JSONP"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Warlight",
+        "id": 9624,
+        "progweb_descr": " Warlight customizable online strategy game world conquest Warlight API provide developer access Warlight feature API use automate multiplayer game creation customize map invite player query game data much Results JSON format"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Planets Nu",
+        "id": 9625,
+        "progweb_descr": " Planets Nu online version classic space strategy game VGA Planets Planets Nu API provide programmatic access Planets Nu functionality API call support load game data turn data list game Some call require API Key API responses JSON format"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "TF2 Backpack Explorer",
+        "id": 9705,
+        "progweb_descr": " TF2 Team Fortress 2 online teambased multiplayer firstperson shooter game develop Valve In TF2 backpack player personal inventory store ingame item Items keep individual slot view move deleted TF2 Backpack Explorer API service show item price data well content give player backpack"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Phoenix Minecraft",
+        "id": 9707,
+        "progweb_descr": " Phoenix Minecraft API allow user retrieve information Minecraft server time Available information include server status server information player list plugins use It provide Alex Tan aka IAmPhoenix application web developer Phoenix Minecraft APIs function accessible via REST call"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "PlanetSide 2 Census",
+        "id": 9710,
+        "progweb_descr": " Planetside 2 Massively Multiplayer Online First Person Shooter MMOFPS game offer Sony Online Entertainment It sequel earlier game PlanetSide Planetside Universe fansite Planetside franchise It offer Census API method access data pull directly Planetside 2 This include statistical characterspecific information player serverspecific territory status well name description icon item within game This API accessible via REST call issue JSON XML format"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Elophant",
+        "id": 9827,
+        "progweb_descr": " Elophant service League Legends LoL free online game player take role summoner summon champion fight Elophant provide information summoners player stats champion item within game Developers retrieve information Elophant database programmatically use REST call"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "NationStates",
+        "id": 10049,
+        "progweb_descr": " NationStates free nation simulation game inspire novel Jennifer Government Max Barry Players create manage country NationStates API provide developer interface automate game world data collection Available data include information nation region game world Developers may make standard call commonly seek information return request specific data type API may also use send ingame telegram player"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Buxville",
+        "id": 10070,
+        "progweb_descr": " Buxville fast longrunning Minecraft server They stable base reliable administrator moderator active continuouslyexpanding community Buxville use Roles system transform sandbox game RPG feature real economy encourage player interact Buxville XMLRPC API pull data directly Buxville database Any player good idea application interface request private API key"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Cheeseformice",
+        "id": 10332,
+        "progweb_descr": " Cheeseformice unofficial leaderboard multiplayer flash game Transformice Cheeseformice API provide developer access ranking stats individual player user group call tribes well map information Data return JSON format"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "NWN master server tracker",
+        "id": 10343,
+        "progweb_descr": " service provide listings server player access game Never Winter Nights It allow application display link game environment along indication number player currently active Players choose server access base preference activity level API method support access listing currently active game server current activity level indicate Server manager host instance game provide information environment list service poll server drop listing find outdated offline"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "AORecipeBook",
+        "id": 10347,
+        "progweb_descr": " AORecipeBook support tool Massively Multiplayer online roleplay game Anarchy Online build fill void ingame bot show tradeskill recipe AORecipeBook API provide variety HTTP call allow developer automate various function include search show recipe ingredient category Responses may format XML JSON JSONP PHP"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Glitch",
+        "id": 13671,
+        "progweb_descr": " Glitch webbased massivelymultiplayer game Glitch API allow user expand extend game API provide information player skills location time date It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Steam Web",
+        "id": 14407,
+        "progweb_descr": " This API allow user Steam game Team Fortress 2 include data game play player ranking stats site service allow user submit request use language OpenID library Steam Condenser language pack return XML JSON VDF"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Poszkole.pl",
+        "id": 14706,
+        "progweb_descr": " Poszkolepl API use give ActionScript game ability report score statistic main server API easy install ActionScript game simply copy code begin game script file implement service Scores submit later call PoszkoleAPIsubmitScorekeyvalue function"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "IActionable",
+        "id": 14718,
+        "progweb_descr": " IActionable gamification provider Their goal help company engage user use feedback technique learn game apply non gaming application API use application send event display reputation reward API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "eRepublik",
+        "id": 14995,
+        "progweb_descr": " Online strategy game eRepublik use 200000 active player internationally site call first massive online social strategy game invite change world rewrite history Over 1 million people already do accord eRepublik eRepublik APIor eAPI calledcan use retrieve game data developerfriendly format support XML JSON eAPI also offer function interact game ecosystem Your application access detail information within eRepublik game regard region country war company citizens You also learn market industry battle eAPI documentation cover 17 page PDF"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Fupa Games",
+        "id": 15284,
+        "progweb_descr": " This API allow user incorporate Fupa game site Content display dynamically specify site game display either prefabricate site make Fupa embed exist site"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Orion's Belt",
+        "id": 15304,
+        "progweb_descr": " Orions Belt API allow developer build custom aplications top game You create custom battle calculatores custom universe map battle bot use AI battle client etc"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Cubiculus",
+        "id": 15373,
+        "progweb_descr": " Cubiculus provide large set Lego building instruction lego set reference LEGO related information Registered user track LEGO collection Cubiculus API allow developer integrate Cubiculus LEGO resource application Example us include animate page build instruction LEGO set information create mobile application build instruction LEGO set information"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Goozex",
+        "id": 15681,
+        "progweb_descr": " Members Goozex community trade video game earn point Use Goozex API access user sell buy point value game top 10 game data Goozexs system"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Java Game Tome",
+        "id": 15698,
+        "progweb_descr": " Java Game Tome JGT API let access Java Game Tome provide game listing You get game topic count total number game search game REST interface well document PHP library provide"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Weewar",
+        "id": 15724,
+        "progweb_descr": " Weewar API allow create notifiers widgets display apps contain Weewarcom statistic user information open game map API come readonly flavor read write flavor suitable create bot play Weewarcom game others Weewarcom award win strategy game user take turn Maps scenario abound lead pixel army 5 user"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "LandGrab",
+        "id": 15727,
+        "progweb_descr": " LandGrab easytoplay game connect friends family complete stranger amiable game cutthroat world domination You create public private game API provide access functionality behind web interface"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "GamerDNA Helix",
+        "id": 15747,
+        "progweb_descr": " Use GamerDNA Helix API get information Warhammer character To get information return provide name character server GamerDNA allow communicate Twitter FriendFeed Tumblr Xbox Live Xfire Steam one unique gamer identity communicate discovery others enjoy game"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Giant Bomb",
+        "id": 15820,
+        "progweb_descr": " Giant Bomb worlds large editable video game database Giant Bomb API let access search across site database video game character creator company"
+    },
+    {
+        "progweb_cat": "Games",
+        "api_name": "Bunchball",
+        "id": 15845,
+        "progweb_descr": " From site Have web page somewhere Take game put game directly page Sometimes fun play Usually fun play people even youre compete best score Thats also provide backend infrastructure make easy create Macromedia Flashbased multiplayer network game You dont need worry manage user game databases server data storage rout presence chat stuff Write ActionScript API use one framework handle free Leaving concentrate create great game"
+    },
+    {
+        "progweb_cat": "Games,Video",
+        "api_name": "GamesRadar",
+        "id": 754,
+        "progweb_descr": " From site GamesRadar Developer API make Games Radars vast data set available everyone free charge Currently data include full game information well list review preview news feature screenshots videos cheat guide"
+    },
+    {
+        "progweb_cat": "Games,Robots",
+        "api_name": "Nabaztag",
+        "id": 1221,
+        "progweb_descr": " Nabaztag WiFi enable ambient electronic device shape rabbit Nabaztag API allow activate thirdparty application event Nabaztag example control movement ear command LEDs send message TTS text speach Nabcast With Nabaztag API user send text message rabbit send choregraphies rabbit send nabcast rabbit get ear position rabbit stream MP3 Nabaztagtag webradio podcast personal music retrieve information status rabbit account"
+    },
+    {
+        "progweb_cat": "Games,Robots",
+        "api_name": "Fight Code",
+        "id": 8944,
+        "progweb_descr": " Fight Code freetoplay online game challenge player code robot use javascript Players challenge robot compete online battle Fightcode offer javascript API cod robot API example method include Idle RobotCollision WallCollision ScannedRobot HitByBullet"
+    },
+    {
+        "progweb_cat": "Games,Automation",
+        "api_name": "Pokémon Go Rocket",
+        "id": 1726,
+        "progweb_descr": " Pokémon Go Rocket API return ingame information player statistic inventory map data Additionally automate Pokémon catch evolve"
+    },
+    {
+        "progweb_cat": "Games,Automation",
+        "api_name": "PoGoWoBo Pokémon Bot",
+        "id": 3302,
+        "progweb_descr": " PoGoWoBo Pokémon Bot use Pokémon Go automation feature egg incubation evolve catch multi account support Niantic soft ban user log bot mobile application time"
+    },
+    {
+        "progweb_cat": "Games,Data",
+        "api_name": "Eristica Game",
+        "id": 1836,
+        "progweb_descr": " Eristica Game API support integration interactive engagement functionality game application API allow developer provide player great flexibility share game social network participate challenge set bet preference Developers seek access API require email Eristica instruction"
+    },
+    {
+        "progweb_cat": "Games,Backend-as-a-Service",
+        "api_name": "Polynect",
+        "id": 1892,
+        "progweb_descr": " Polynect game platform provide multiplayer matchmaking functionality game integration Polynect API Beta allow developer integrate RESTful matchmaking interface realtime data stream capability game application API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Games,Backend-as-a-Service",
+        "api_name": "GameSparks",
+        "id": 6075,
+        "progweb_descr": " GameSparks cloudbased platform provide developer tool need build serverside component game manage service post launch GameSparks API allow developer access integrate functionality GameSparks application create new application Some example API method include manage social medium manage inapp purchase manage engagement"
+    },
+    {
+        "progweb_cat": "Games,Backend-as-a-Service",
+        "api_name": "PlayFab",
+        "id": 6536,
+        "progweb_descr": " PlayFab complete backendasaservice mobile game service alleviate backend work game team manage server come prebuilt database In addition PlayFab SDKs developer interact directly service set Web APIs All API call make HTTP POST request data format JSON Using PlayFab APIs developer perform authentication account data management matchmaking report track inventory friend well initiate platformspecific functionality More API function allow developer maintain server interact user data handle orchestration client connection manage title configuration receive user data"
+    },
+    {
+        "progweb_cat": "Games,Applications",
+        "api_name": "Google Cast Game Manager",
+        "id": 2332,
+        "progweb_descr": " Google Cast Game Manager API allow developer expedite construction game run Google Cast platform It make easy developer build sender application require channel request receiver application responsible communicate status player game This API compatible variety Cast sender receiver application Android iOS chrome"
+    },
+    {
+        "progweb_cat": "Games,Developers",
+        "api_name": "Screeps",
+        "id": 2525,
+        "progweb_descr": " Screeps API provide MMO video game environment JavaScript programmer JSON format Screeps allow create colony strategize script gameplay provide open world unit base territory control economy manufacture transport logistics Use API assist programmer develop script skill play endless video game online"
+    },
+    {
+        "progweb_cat": "Games,Developers",
+        "api_name": "Scriptfodder",
+        "id": 3004,
+        "progweb_descr": " Scriptfodder provide application interface integrate video game script available online marketplace Accurate access Key HTTP protocol allow upload script obtain script info purchase discount script via download"
+    },
+    {
+        "progweb_cat": "Games,Developers",
+        "api_name": "Apple Metal",
+        "id": 7169,
+        "progweb_descr": " Apples Metal allow developer get maximum performance A7 chip immersive console game port iPad Air It design multithreading tool put together Xcode CPU GPU work together achieve optimal performance"
+    },
+    {
+        "progweb_cat": "Games,Animation",
+        "api_name": "Unity Social",
+        "id": 2546,
+        "progweb_descr": " Unity develop proprietary game software web mobile application It provide developer platform create 2D 3D game Unity Social API provide access variety social parameter include user profile achievement friend list leader board player statistic Since API asynchronous developer deploy must make function call register callback signal completion function"
+    },
+    {
+        "progweb_cat": "Games,Animation",
+        "api_name": "Unity Scripting",
+        "id": 2547,
+        "progweb_descr": " Unity develop proprietary game software web mobile application It provide developer platform create 2D 3D game Developers use Unity Scripting API construct graphical effect impose control physical attribute object addition customize AI system game ’ character"
+    },
+    {
+        "progweb_cat": "Games,Hosting",
+        "api_name": "Nitrado NITRAPI",
+        "id": 2666,
+        "progweb_descr": " Nitrado NITRAPI allow thirdparty application integrate host service dedicate gaming response NITRAPI use JSON OAuth 2 authentication Additionally Nitrado offer voice server webspace package domain Nitrado host firm several datacenters available world include London Miami LA NYC"
+    },
+    {
+        "progweb_cat": "Games,Chat",
+        "api_name": "Discord",
+        "id": 3231,
+        "progweb_descr": " Discord API integrate voice text chat video gamers cost It available send HTTP request JSON responses implement channel guild invite user voice feature OAuth2 require authentication purpose"
+    },
+    {
+        "progweb_cat": "Games,Notifications",
+        "api_name": "Pokémon Go Slack Integration",
+        "id": 3373,
+        "progweb_descr": " Pokémon Go Slack Integration combine unofficial Pokémon Go Rocket API Slack deliver notification Pokémon Go This integration provide information distance Pokémon direction Pokémon despawn time lure data Developers need set incoming webhook integration Slack"
+    },
+    {
+        "progweb_cat": "Games,Statistics",
+        "api_name": "Riot Games League REST",
+        "id": 3544,
+        "progweb_descr": " This API allow access statistic League Legends It include recent game rank statistic rune mastery Riot Games provide League Legends developer community access game data secure reliable way"
+    },
+    {
+        "progweb_cat": "Games,Statistics",
+        "api_name": "Riot Games Tournaments REST",
+        "id": 3546,
+        "progweb_descr": " This Rest API allow create new tournament provider give region generate tournament code receive game result query pregame lobby player activity Riot Games provide League Legends developer community access game data secure reliable way"
+    },
+    {
+        "progweb_cat": "Games,Statistics",
+        "api_name": "Rocket League Stats",
+        "id": 3794,
+        "progweb_descr": " Rocket League Stats API provide information physic orient game Rocket League Information available include ranked leader board platforms player This API use JSON data exchange API Keys obtain contact page"
+    },
+    {
+        "progweb_cat": "Games,Statistics",
+        "api_name": "Halo Stats",
+        "id": 4153,
+        "progweb_descr": " Halo Stats API provide developer statistical data player match This API currently beta Halo first person shooter video game science fiction military theme"
+    },
+    {
+        "progweb_cat": "Games,Statistics",
+        "api_name": "Riot Games",
+        "id": 7924,
+        "progweb_descr": " Riot Games company create League Legends LoL multiplayer online battle arena game Riot Games website provide statistic LoL game rank rune mastery Developers access data securely reliably use Riot Games REST API developer website"
+    },
+    {
+        "progweb_cat": "Games,Statistics",
+        "api_name": "BF4 Stats",
+        "id": 8403,
+        "progweb_descr": " BF4 Battlefield 4 online multiplayer game create EA available PC PS3 PS4 Xbox 360 Xbox One BF4 Stats website allow BF4 player view game statistic online These stats come BF4 Battlelog social website BF4 BF4 Stats API allow user retrieve information site database API work progress feature come"
+    },
+    {
+        "progweb_cat": "Games,Statistics",
+        "api_name": "zKillboard",
+        "id": 9741,
+        "progweb_descr": " zKillboard zKB killboard service Eve Online sciencefiction MMORPG zKB website enable player post kill others see Visitors compare player base number kill theyve make ratio kill loss rank board zKB API allow developer game enthusiasts integrate zKB website application"
+    },
+    {
+        "progweb_cat": "Games,Statistics",
+        "api_name": "Battlefield 3 Stats",
+        "id": 13908,
+        "progweb_descr": " bf3statscom website provide uptodate crossplatform stats almost every facet Battlefield 3 modern combat game Electronic Arts bf3stats provide API retrieve stats database allow developer integrate BF3 stats software application Developers must create account site register application integrate app bf3stats Several API method available user register application though simple player global lookup possible without API key This API operate via HTTP POST return data JSON"
+    },
+    {
+        "progweb_cat": "Games,Statistics",
+        "api_name": "Battlefield Bad Company Stats",
+        "id": 14278,
+        "progweb_descr": " Battlefield Bad Company video game XBox 360 PlayStation 3 Battlefield Bad Company Stats website share player statistic score within game Battlefield Bad Company Stats API provide access statistic score within application Retrieve data team weapon vehicle gadget specialization insiginias pin achievement You also retrieve player online status progress rank kit star RESTful API provide response JSON include crossdomain file"
+    },
+    {
+        "progweb_cat": "Games,Streaming",
+        "api_name": "Beam",
+        "id": 3567,
+        "progweb_descr": " Beam APIs allow access possible achievement earn user progress well retriving list channel chat costreaming liveloading logs others within Beam Inactive game"
+    },
+    {
+        "progweb_cat": "Games,Funding",
+        "api_name": "Buycraft",
+        "id": 3657,
+        "progweb_descr": " Buycraft donation plugin Bukkit Minecraft servers customer HiveMC Hypixel Buycraft REST API use implement command execution Minecraft server custom client It use JSON data exchange HTTP Basic Auth authentication"
+    },
+    {
+        "progweb_cat": "Games,Database",
+        "api_name": "Poké",
+        "id": 3728,
+        "progweb_descr": " PokéAPI provide integration extensive Pokémon database Version 2 offer resource location visit within game Pokémon ability evolution chain This consumption RESTful API require authentication daily rate limit 300 request per resource per IP address"
+    },
+    {
+        "progweb_cat": "Games,Database",
+        "api_name": "WowGuild.co World of Warcraft Spell",
+        "id": 6726,
+        "progweb_descr": " WowGuildco World Warcraft Spell API unaffiliated tool provide rich spell data find Blizzards standard spell APIs Calls API return World Warcraft spell system maximum 1000 spell Calls make search query directory individual spell name Spell detail return include name icon usepurpose reagent require craft item available realm data API accept return JSON"
+    },
+    {
+        "progweb_cat": "Games,Database",
+        "api_name": "Doomworld idGames Archive Public",
+        "id": 8023,
+        "progweb_descr": " Doomworld website dedicate Doom classic scifi horror firstperson shooter It host idGames Archive serf frontend public Doom file archive host Gamersorg Archive readonly contain 15000 Doom mod WADs ie package file contain sprite level andor game data Public API allow user access content idGames database programmatically via REST call"
+    },
+    {
+        "progweb_cat": "Games,Database",
+        "api_name": "MtgDB",
+        "id": 8546,
+        "progweb_descr": " MtgDB simple opensource database API Magic Gathering MTG card game It allow user copy sync MTG databases Although MtgDB support basic filtering design full search API All information provide API copyright Wizards Coast company own MTG This API affiliate Wizards Coast way"
+    },
+    {
+        "progweb_cat": "Games,Database",
+        "api_name": "BukGet",
+        "id": 9703,
+        "progweb_descr": " BukkitDev repository plugins help people interact manage Minecraft server BukGet API interfacing repository programmatically While API design interact multiple plugin datastores primarily use interact BukkitDev BukGet API use RESTful call return data JSON format"
+    },
+    {
+        "progweb_cat": "Games,Database",
+        "api_name": "TheGamesDB.net",
+        "id": 11560,
+        "progweb_descr": " TheGamesDBnet online database video game fan enthusiasts site serf frontend service link database video game metadata high quality artwork database artwork metadata incorporate various home theatre PC HTPC software plugins API You search specific game broader list game retrieve artwork file location find game update favorite user rating request new updated content specify date Requests make GET request REST API responses XML future plan JSON"
+    },
+    {
+        "progweb_cat": "Games,Augmented Reality",
+        "api_name": "Unofficial Pokémon Go",
+        "id": 3736,
+        "progweb_descr": " Pokémon Go API unofficial API reverse engineer independent developer API integrates application augment reality multiplayer game Niantic Pokémon Go combine vector tile pool geotagged photo Google Maps popular franchise Nintendo Players customize trainer capture Pokémon participate gym battle designate place Currently API undocumented"
+    },
+    {
+        "progweb_cat": "Games,Competitions",
+        "api_name": "SRK FGC",
+        "id": 3855,
+        "progweb_descr": " SRK FGC API allow developer query database player ranking tournament result programmatically SRK Shoryuken provide world ranking popular fight video game include Street Fighter 5 Ultra SF4 Ultimate Marvel v Capcom 3 Mortal Kombat X Killer Instinct Skullgirls many"
+    },
+    {
+        "progweb_cat": "Games,Profiles",
+        "api_name": "Halo Profile",
+        "id": 4154,
+        "progweb_descr": " Halo Profile API provide developer profile data player This API currently beta Halo first person shooter video game science fiction military theme"
+    },
+    {
+        "progweb_cat": "Games,Metadata",
+        "api_name": "Halo Metadata",
+        "id": 4155,
+        "progweb_descr": " Halo Metadata API allow developer gain access Halo Metadata integrate API application This API currently beta Halo first person shooter video game science fiction military theme"
+    },
+    {
+        "progweb_cat": "Games,Application Development",
+        "api_name": "Stormancer",
+        "id": 4264,
+        "progweb_descr": " Stormancer game development platform base France This platform focus multiplayer support feature automation release management server script Raknet support scalability Stormancer API use automate task relate user application It support cluster operation account operation deployment management"
+    },
+    {
+        "progweb_cat": "Games,Application Development",
+        "api_name": "V-Play",
+        "id": 4628,
+        "progweb_descr": " Vplay developer tool 2D game variety apps business use API compatible various OS platform PC mobile device include Android iOS Linux Windows"
+    },
+    {
+        "progweb_cat": "Games,Application Development",
+        "api_name": "Absorbent",
+        "id": 5584,
+        "progweb_descr": " Absorbent API help developer connect Minecraft game server permission system able read change permission group securely use REST feature Absorbent API also helpful create new mobile application donation system example Absorbent project service"
+    },
+    {
+        "progweb_cat": "Games,Application Development",
+        "api_name": "ShepHertz App42 Cloud Gaming",
+        "id": 5719,
+        "progweb_descr": " ShepHertz App42 Cloud Gaming API allow developer persist user score Shephertzs cloud among function ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Games,Application Development",
+        "api_name": "Heroic Labs",
+        "id": 6182,
+        "progweb_descr": " Heroic Labs formerly GameUp AWS game developer API make easy developer rapidly add multiplayer social competitive feature game without need server backend goal enable game studio build beautiful social multiplayer game work massive scale Heroic Labs Y Combinator company"
+    },
+    {
+        "progweb_cat": "Games,Application Development",
+        "api_name": "Apple SpriteKit",
+        "id": 7167,
+        "progweb_descr": " SpriteKit provide enhancement development powerefficient 2D game iOS Developers generate new lighting effect add force field detect collision improve ingame movement"
+    },
+    {
+        "progweb_cat": "Games,Application Development",
+        "api_name": "Gamedonia",
+        "id": 8783,
+        "progweb_descr": " Gamedonia social game development platform aim help developer make good game offer scalable high availability backend solution reliable server support specialized gaming staff tool Gamedonia offer create well game include host website data storage game analytics social network integration push notification Gamedonia offer API programmatic access Gamedonia functionality API RESTful use JSON storage model An API key require"
+    },
+    {
+        "progweb_cat": "Games,Open Source",
+        "api_name": "Luxe Engine",
+        "id": 4358,
+        "progweb_descr": " Luxe Engine API offer video game integration Apple Linux Windows HTML5 Android iOS platform It provide JSON resource implement Luxe game feature cameras physic render sprite collision data shape object texture geometry"
+    },
+    {
+        "progweb_cat": "Games,3D",
+        "api_name": "Oculus",
+        "id": 4581,
+        "progweb_descr": " Oculus API provide everything necessary developer create virtual reality game application conjunction Oculus Rift headset This Standup API subsequent SDK ’ show developer install configure Oculus Rift create game use game engine create immersive audio supplement virtual reality game Developers must acquire developer signature Oculus publish temporary signature offer"
+    },
+    {
+        "progweb_cat": "Games,3D",
+        "api_name": "Internet Game Database",
+        "id": 5300,
+        "progweb_descr": " Internet Game Database API provide video game video game company employee information Internet Game Database comprehensive database dedicate provide information video game game consumer video game professional work towards build bridge gamer community industry"
+    },
+    {
+        "progweb_cat": "Games,3D",
+        "api_name": "Apple SceneKit",
+        "id": 7168,
+        "progweb_descr": " Apples SceneKit casual 3D game It enable developer render game 3D well 3D graphic separate physic engine particle generator quick object script SceneKit integrated SpriteKit allow developer include SpriteKit asset 3D game"
+    },
+    {
+        "progweb_cat": "Games,3D",
+        "api_name": "Virtuix Omni",
+        "id": 7560,
+        "progweb_descr": " Virtuix Omni virtual reality interface omnidirectional treadmill video game peripheral maneuver within virtual reality game Virtuix API come soon"
+    },
+    {
+        "progweb_cat": "Games,3D",
+        "api_name": "Digimi Gizmo",
+        "id": 14947,
+        "progweb_descr": " Digimi provide 3d avatar creation tool game personal use Users also create animate clip avatar Digimi Gizmo API allow developer use DigimiGizmo functionality application API use ServertoServer application ApplicationtoServer application BrowsertoServer application"
+    },
+    {
+        "progweb_cat": "Games,Gambling",
+        "api_name": "Blackjack",
+        "id": 4704,
+        "progweb_descr": " Blackjack API provide programmatic access playable blackjack game This API provide Betgidy company offer online casino solution user incorporate application Interested party either register get API credential start play download developer build game Betgidy open source game engine casino game"
+    },
+    {
+        "progweb_cat": "Games,Gambling",
+        "api_name": "Squirrel Tools",
+        "id": 9236,
+        "progweb_descr": " Squirrel Tools API let user calculate poker odds hand ranking It work regular poker hand 5 6 7 card well Texas holdem 3 4 5 card table It also determine winner group know hand return Sklansky group pair card Texas holdem"
+    },
+    {
+        "progweb_cat": "Games,Gambling",
+        "api_name": "GameStamper Graph",
+        "id": 10100,
+        "progweb_descr": " GameStamper casino game distribution platform Games set iFrame application host developer GameStamperâ€™s social graph defines link member GameStamper network relevant object include photos event page people GameStamper Graph API provide developer access object social graph Responses JSON format"
+    },
+    {
+        "progweb_cat": "Games,Gambling",
+        "api_name": "LottoCaptcha",
+        "id": 12069,
+        "progweb_descr": " service present CAPTCHA puzzle use verify submit data come human user rather automate script Users submit solution possibility win part prize pool submit site advertiser API method support present CAPTCHA challenge submit response If submission match predefined game number host application user solve challenge split prize"
+    },
+    {
+        "progweb_cat": "Games,Gambling",
+        "api_name": "Betfair Games",
+        "id": 12418,
+        "progweb_descr": " Betfair Games API allow developer integrate Betfair Games database application API use REST framework enable developer interact Betfair Games system use URLs standard HTTP method GET POST Requests responses XML format"
+    },
+    {
+        "progweb_cat": "Games,Gambling",
+        "api_name": "Reto Loser's Lotto Generator",
+        "id": 13039,
+        "progweb_descr": " Lotto Generator API create maintain Reto Loser randomly generate lottery number Users specify range possible number number number per lottery guess number guess desire Although API documentation available English much rest website along APIs web console provided German Lotto Generator API freely available via SOAP call"
+    },
+    {
+        "progweb_cat": "Games,Gambling",
+        "api_name": "OneWinner.Me",
+        "id": 13604,
+        "progweb_descr": " OneWinnerMe service let user check earn expectation lottery number register combination prevent player choose similar one API let developer integrate application check register combination service Currently Euro Millions lottery available come soon API use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Games,Gambling",
+        "api_name": "Texas Holdem",
+        "id": 13867,
+        "progweb_descr": " With API user create full Texas Holdem game create graphic associate result It one method allow user get readytoplay full Texas Holdem match Just choose many player go play 2 22 get card 2 hidden card player 5 face card flop turn river API use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Games,Gambling",
+        "api_name": "FairLuck",
+        "id": 15417,
+        "progweb_descr": " FairLuck software development company let user ‘ confidently ’ gamble online FairLuck API let developer integrate service applicationswebsites By use API casino software developer offer customer confidence trust FairLuck guaranteed"
+    },
+    {
+        "progweb_cat": "Games,Goals",
+        "api_name": "Habitica",
+        "id": 4722,
+        "progweb_descr": " Habitica gamification habitat productivity application help user achieve goal API allow integrate content user group challenge Players use Habitica work health school purpose Available JSON format access token Use API upscore downscore third party habit"
+    },
+    {
+        "progweb_cat": "Games,Authentication",
+        "api_name": "Wargaming.net Public",
+        "id": 4996,
+        "progweb_descr": " Wargamingnet Public API official set API method provide access Wargamingnet content Games include World Tanks World Warships World Warplanes World Tanks Blitz World Tanks Consoles This include ingame gamerelated content well player personal data achievement statistic"
+    },
+    {
+        "progweb_cat": "Games,Authentication",
+        "api_name": "PSN Sign In",
+        "id": 12764,
+        "progweb_descr": " This API allow people use Playstation Network SignIn sit If developer site URL allow Sony set site returnURL GET This allow bypass Sonys official External PSN Sign In page site forward developers site successful sign sessionId GET There official public API convert sessionId user specific value like PSNID API convert valid sessionID proper PSNID"
+    },
+    {
+        "progweb_cat": "Games,Integration",
+        "api_name": "Minecraft Server",
+        "id": 5099,
+        "progweb_descr": " Minecraft Server API RESTful API query Minecraft server status statistic playerlist pluginlist API return serialize array JSON object favicon It simple service integrate exist website"
+    },
+    {
+        "progweb_cat": "Games,Community",
+        "api_name": "Dota 2",
+        "id": 5376,
+        "progweb_descr": " Dota 2 multiplayer video game power Valve offer APIs display data Team Fortress 2 What developer integrate Steam information websites news stats user Obtain API Key start project Formats include JSON XML VDF"
+    },
+    {
+        "progweb_cat": "Games,Community",
+        "api_name": "Battle.net",
+        "id": 5961,
+        "progweb_descr": " Battlenet APIs offer developers several gaming feature character development game design Blizzard gaming community APIs provide many option game World Warcraft WoW Diablo 3 D3 Hearthstone Heroes Storm Overwatch StarCraft II SC2"
+    },
+    {
+        "progweb_cat": "Games,Community",
+        "api_name": "Heatmaps.tf",
+        "id": 6694,
+        "progweb_descr": " Heatmapstf use open data source supply heatmap visualization recent killing within Team Fortress online game community Using public Heatmapstf API developer may make GET HTTP request receive CSV data sheet realtime game statistic Different call use return list total kill map valid overview If query map response include kill denote map coordinate UNIX timestamps conjunction may utilize create heatmaps represent ingame combat Developers may also perform request custom kill type death flag order retrieve even specialized gamer data"
+    },
+    {
+        "progweb_cat": "Games,Community",
+        "api_name": "hitbox",
+        "id": 6755,
+        "progweb_descr": " hitbox live videostreaming service game community Individual user create profile broadcast live game Visitors site watch live stream popular user site browse game title user also follow game friend community open platform developer integrate 3rd party application hitbox API Calls API make retrieve information live event description user active team"
+    },
+    {
+        "progweb_cat": "Games,Community",
+        "api_name": "HammerWiki War",
+        "id": 10065,
+        "progweb_descr": " Warhammer online game user create character explore mythical realm War API allow user manipulate almost every aspect Warhammer Online User interface service use SOAP call account required service"
+    },
+    {
+        "progweb_cat": "Games,Media",
+        "api_name": "Bungie",
+        "id": 5886,
+        "progweb_descr": " Bungie develop state art game Halo Marathon Myth Bungies current new game venture Destiny This Bungie API Destiny Companion API To get API Key register Destiny API Registration Portal visit Bungie Net Platform API page also visit information group forum set fill much information"
+    },
+    {
+        "progweb_cat": "Games,Mobile",
+        "api_name": "Google Play Game Services",
+        "id": 5960,
+        "progweb_descr": " Google Play Game Services API allow developer add feature achievement leaderboards event quest multiplayer support web mobile game It also use analyze player behavior define event capture metric event Getting Started instruction provide iOS Android C webbased game"
+    },
+    {
+        "progweb_cat": "Games,Mobile",
+        "api_name": "Azukki",
+        "id": 9669,
+        "progweb_descr": " Azukki cloudbased platform serf backend online game It offer function creation management item ingame currency leaderboards metric timeframe Azukki also provide way keep player information synchronize move device platforms RESTful Azukki API use JSONformatted call make platform accessible integration"
+    },
+    {
+        "progweb_cat": "Games,Management",
+        "api_name": "Google Play Game Services Management",
+        "id": 5988,
+        "progweb_descr": " Google Play Game Services Management API allow developer reset achievement event quest room score turnbased match It also allow hide unhide player application This API part Google Play Game Services allow developer add service web mobile game"
+    },
+    {
+        "progweb_cat": "Games,Management",
+        "api_name": "GAMEhud",
+        "id": 12443,
+        "progweb_descr": " GameHUD video game monitor analysis service Game developer use track user statistic return new user unique machine player difficulty Their API package provide access functionality three different component GameHUD service machine game session game event API use HTTP call provide JSON response"
+    },
+    {
+        "progweb_cat": "Games,Management",
+        "api_name": "Z33K Tournament API",
+        "id": 12941,
+        "progweb_descr": " Z33K online platform facilitates organize competitive gaming site provide access thousand tournament gamers live stream video forum coach service Z33Ks free custom tool allow individual organization run aspect online tournament include player registration management match report live bracket generation API give developer programmatic access online tournament data It use HTTP call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Games,Monitoring",
+        "api_name": "ArcheAge Spy",
+        "id": 6401,
+        "progweb_descr": " ArcheAge MMORPG massively multiplayer online roleplaying game ArcheAge Spy allow user check status game service monitor server latency get schedule maintenance time get patch note Developers access information feed ArcheAge Spy API order integrate server guild site application This information update every 20 second feed cache oneminute interval"
+    },
+    {
+        "progweb_cat": "Games,Content Management",
+        "api_name": "Google Play Game Services Publishing",
+        "id": 6496,
+        "progweb_descr": " Game Services Publishing API part service developer publish game Google Play Using API developer retrieve update meta user data achievement give application ID upload image resource type configure return leaderboard list per application ID RESTful Game Services Publishing API accept GET POST DELETE PUT HTTP request"
+    },
+    {
+        "progweb_cat": "Games,England",
+        "api_name": "Games Department",
+        "id": 6781,
+        "progweb_descr": " Games Department video game retail service create group British gamers All preowned game sell website fully test unless otherwise state perfect work condition come original box manual All game feature website search name publisher platform barcode"
+    },
+    {
+        "progweb_cat": "Games,Ratings",
+        "api_name": "gw2stats.net",
+        "id": 6922,
+        "progweb_descr": " Guild Wars popular MMORPG gw2statsnet Giuld Wars community resource site contain graphical view share discussion Guild Wars realm statistic score ranking gw2statsnet API simplify dependent Guild Wars API offer real time insight global ingame statistic Their RESTful API currently offer 2 API call access HTTP use JSON protocol"
+    },
+    {
+        "progweb_cat": "Games,Ratings",
+        "api_name": "ExileStats",
+        "id": 8517,
+        "progweb_descr": " ExileStats track statistic online Role Playing Game Path Exile ExileStats expose data API support simple HTTP call return JSON format response Accessible data type include ladder ranking currency currency value ratio"
+    },
+    {
+        "progweb_cat": "Games,Ratings",
+        "api_name": "SC2Ranks",
+        "id": 10802,
+        "progweb_descr": " SC2Ranks part ZAM Network provide statistic Starcraft 2 player Battlenet network SC2Ranks API unofficial RESTful service allow developer easily retrieve data include user profile character information portrait team division data"
+    },
+    {
+        "progweb_cat": "Games,Plugins",
+        "api_name": "Sponge",
+        "id": 7087,
+        "progweb_descr": " Sponge Minecraft modding API implement top Forge run vanilla client well mixture plugins mod It combine strength server client modding community allow anyone mod game Anyone interested contribute Sponge provide MIT license"
+    },
+    {
+        "progweb_cat": "Games,Events",
+        "api_name": "EveryMatrix OddsMatrix",
+        "id": 7122,
+        "progweb_descr": " EveryMatrix software development company provide software solution iGaming industry These solution cater different geolocational market 15 available language 20 different currency OddsMatrix API push XML feed event creation price live bettings It provide web service place bet bet status bonus handle score live bet information It practically apply web browser mobile IPTV"
+    },
+    {
+        "progweb_cat": "Games,Events",
+        "api_name": "BinaryBeast",
+        "id": 9910,
+        "progweb_descr": " BinaryBeast offer tool run eSports tournament league event Services include tournament host bracket generation BinaryBeast API allow developer integrate tournament service websites application Requests require API Key Responses may JSON XML CSV format"
+    },
+    {
+        "progweb_cat": "Games,Tools",
+        "api_name": "Mozilla Gamepad",
+        "id": 7408,
+        "progweb_descr": " Gamepad API Mozilla provide new event Window object reading gamepad controller state It also enable ability query state connect gamepads add Gamepad object Per provider API specification yet stabilize"
+    },
+    {
+        "progweb_cat": "Games,Tools",
+        "api_name": "Roleplayer's Online Dice Roller",
+        "id": 10482,
+        "progweb_descr": " Roleplayers Online Dice Roller free tool roll dice roleplay game Roleplayerâ€™s Online Dice Roller API allow user integrate Dice Roller application RESTful interface Results may return JSON JSONP XML plain text format"
+    },
+    {
+        "progweb_cat": "Games,Tools",
+        "api_name": "Turbulenz",
+        "id": 11722,
+        "progweb_descr": " Turbulenz UK base social game developer Turbulenz offer ability build publish iterate monetise highquality game downloadable SDK contain API reference engine include SDK include example user guide major component"
+    },
+    {
+        "progweb_cat": "Games,Merchants",
+        "api_name": "PriceCharting",
+        "id": 7450,
+        "progweb_descr": " PriceCharting video game pricing database track historical current price 26000 game fro variety console site include price comparison multiple store chart every item show price change time downloadable game price customizable Game Price Guide service video game news price analysis Video Game Pricing blog PriceCharting API allow user access data user purchase part custom price guide API use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Games,Japanese",
+        "api_name": "osu!",
+        "id": 7685,
+        "progweb_descr": " Osu Tatakae Ouendan Nintendo DS game base use simple gesture match rhythms popular Japanese song This game adapt PC osu website player create profile gain level share beatmaps etc osu API allow developer retrieve general beatmap information general user information information top 50 score give beatmap information multiplayer match"
+    },
+    {
+        "progweb_cat": "Games,Japanese",
+        "api_name": "Wazap!",
+        "id": 15329,
+        "progweb_descr": " Wazap Japanese game information site With API access cheat game review question answer game release Japan"
+    },
+    {
+        "progweb_cat": "Games,Conversions",
+        "api_name": "Apportable",
+        "id": 7722,
+        "progweb_descr": " Apportable platform convert iOS game game work Android platform well Apportable allows developer create maintain game Android without change lot code Apportable API SDK allow developer access integrate functionality Apportable application Some example API method include manage account information transform game user management"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Shivtr",
+        "id": 7947,
+        "progweb_descr": " Shivtr service create online gaming community six game community website Shivtr support hundred game across many platform genres Its website mobile friendly come attractive customizable theme Users alter theme banner wallpaper font color even CSS code Shivtr API allow developer interact community site data programmatically create widget connect apps Shivtr"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Cubeia Social",
+        "id": 8564,
+        "progweb_descr": " Cubeia Social social poker network enable anyone create run social poker site use play money Cubeia Social handle technical aspect game operator focus build brand Cubeia Social expose REST API offer operator programmatic access system API resource include Account Leaderboard Lobby Operator PlayersOnline System Tester User An API key require"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Athletable",
+        "id": 8884,
+        "progweb_descr": " Athletable office sport track platform support creation leaderboards competitive statistic office sport ping pong foosball Users simply create organization profile add player update Athletable API allow user integrate platform application websites API require user ID API Key accept simple HTTP call A list support call available login"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Roll20",
+        "id": 8892,
+        "progweb_descr": " Roll20 webhosted platform tabletop game allow group penandpaper gamers play campaign entirely online It provide text video chat player journal turn track dice roll background music realtime share graphical tabletop Because Roll20 doesnt deal game mechanic use kind tabletop game include Dungeons Dragons Pathfinder Shadowrun FATE many others Roll20 design ease use require downloads installation Roll20 API allow user write piece JavaScript code tell Roll20 gameplay Some possible us include move piece add status marker tokens roll dice"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Heroes of Newerth Statistics",
+        "id": 9908,
+        "progweb_descr": " Heroes Newerth online multiplayer battle arena videogame S2 Games HoN Statistics API provide RESTful interface access player game statistic API support number GET request retrieve data hero item match All request require API token"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Path of Exile",
+        "id": 9911,
+        "progweb_descr": " Path Exile online action fantasy RPG Grinding Gear Games Path Exile API expose game metadata describe league league rule player rating"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "GameBanana",
+        "id": 10072,
+        "progweb_descr": " Game Banana pc game customization community user share code learn program tip trick participate development new video game technology Game Banana API use REST call allow user access Game Banana data active project user forum associated post"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "SmartBots",
+        "id": 10225,
+        "progweb_descr": " SmartBots tool manage Second Life SL bot group HTTP REST API enable user control SL group bots use query send SL object LSL script online These service divide two APIs Simple Groups API Bot Commands API Simple Groups API allow user send group invitation eject group member Bot Commands API provide extensive control bot API reply must decode use llParseString2List similar function"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "XfccBasic",
+        "id": 10394,
+        "progweb_descr": " XML web service correspondence chess Xfcc create Martin Bennedik define protocol exchange data correspondence chess organization server software protocol currently define XfccBasic use exchange game data correspondence chess server client software client software use query server list game give player submit move server XfccBasic protocol access programmatically use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Mobage",
+        "id": 10405,
+        "progweb_descr": " Mobage game platform power free social game iOS Android Mobage API provide RESTful API allow developer perform authentication bank social action URLs vary depend locale environment type response JSON format"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "XboxLeaders",
+        "id": 10406,
+        "progweb_descr": " XboxLeaders unofficial Xbox LIVE stat track site providing game session host community forum chat addition achievement stat track XboxLeaders Xbox LIVE API provide readonly access gamer data Results return JSON XML PHP format"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Habbo",
+        "id": 10471,
+        "progweb_descr": " Habbo online game user create profile play game others chat create thing within game Habbo API allow developer access Habbo publish new exist game Habbo Game developer run game server API give access Habboâ€™s social graph monetization Some example API method include manage account information retrieve player information score retrieve achievement information"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Everyplay",
+        "id": 10599,
+        "progweb_descr": " Everyplay application allow developer add feature game engage player allow player share play replay interact player Everyplay API allow developer access integrate functionality Everyplay game application Some example API method include manage account information retrieve information player retrieve game"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "SchemingMind",
+        "id": 10661,
+        "progweb_descr": " SchemingMind correspondence chess play website After sign user play game sit 600 active user around world Correspondence game usually last several week month While contemplate next move player free consult book try move chessboard home thing player ask refer chessplaying computer program SchemingMind member organization British Federation Correspondence Chess BFCC represent England International Correspondence Chess Federation ICCF All full member SchemingMind opportunity participate officially rat ICCF team event Developers integrate SchemingMind application use API let player retrieve game make move"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Clay.io",
+        "id": 11262,
+        "progweb_descr": " Clayio API allow developer enhance HTML5 game feature like leaderboards achievement data storage payment process social integration emphasis API payment feature give developer option require payment game access free game access Clayio offer javascript installation response format JSON"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Overwolf",
+        "id": 11305,
+        "progweb_descr": " Overwolf service allow user integrate social application Facebook Twitter IM client video mobile game Overwolf API allow developer access integrate functionality Overwolf application create new application Some example API method include resize window retrieve information game create file game"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "XboxSDK",
+        "id": 11551,
+        "progweb_descr": " XboxSDK community Xbox user share distribute Container CON file user This allow end user ability download utilize save well Xbox feature Recently partner xboxapicom XboxSDK provide usercentered API allow user developer ability interact XboxSDK account XboxSDK also provide simple clean easy way user exchange CON file REST API API provide developer user ability access well create third party apps within application A user account key require utilize service"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Chronicless for the Secret World",
+        "id": 11735,
+        "progweb_descr": " Secret World massively multiplayer online game create Funcom Chronicless API create allow player access character cabal data display 3rd party website integrate 3rd party application"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Scoreoid",
+        "id": 12080,
+        "progweb_descr": " Scoreoid server platform game development It intend developer host gamesâ€™ content provide additional feature game management Among feature leaderboards analytics ingame notification system Scoreoid also allow cross platform development content awareness Their RESTful expose data retrieval functionality three domain Player Game Score It provide XML JSON response"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Chess Pastebin",
+        "id": 12105,
+        "progweb_descr": " Chess Pastebin webservice share outcome chess game friends As pastebin anyone add documentation chess game without log submit additional personal information Players simply copy text documenting move chess wish share plug pastebin Each move become hyperlinked user see playersâ€™ position board RESTful API expose websiteâ€™s gameposting functionality It return unique ID game recall Developers must request API key site manager"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Ryzom",
+        "id": 12502,
+        "progweb_descr": " service provide information MMORPG game server include basic like server account status also game time statistic summary character profile In addition character information service provide access information image ingame guild detail game play API method support retrieval server status time version release note related detail Methods also access give title profile game character well banner image profile membership player guild"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "GamerCV",
+        "id": 12721,
+        "progweb_descr": " service log score history online game allow report comparison across individual game platforms It intend promote social interaction among player increase awareness game API method support update retrieve score log specific game API facilitate record report player history build reputation interaction around game"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Blizzard Community Platform",
+        "id": 13212,
+        "progweb_descr": " Blizzard developer publisher entertainment software include World Warcraft WoW Blizzard allow community gamers create extended community outside game expose key set data Blizzard Community Platform API provide number resource developer Wow enthusiasts gather data character guild arena team Users also retrieve information realm gather data current auction item API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Kongregate",
+        "id": 13486,
+        "progweb_descr": " web service log submit game statistic award badge player provide shared content Players interact game one another building achievement reputation within system Developers reach potential player build community around game A RESTful JSON API handle communication game server Kongregate server update player game data Client API method manage game statistic chat function virtual good Kreds share content Serverside API method handle user information achievement badge data item inventory"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Roar Engine",
+        "id": 13730,
+        "progweb_descr": " Roar Engine platform give user ability quickly build social game monetize It let users create social game mechanic use core building block combine build range popular custom gameplay system Roar API let users access metadata game logic API use HTTP call response format XML"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "Pwned.com",
+        "id": 13994,
+        "progweb_descr": " Pwned online community gamers build gamers Gamers interact learn new game well establish game Pwned API allow developer access Pwned information functionality Some example API method include access database game search retrieve member feed generate layout"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "360voice",
+        "id": 14746,
+        "progweb_descr": " 360voice API provide 360voicecom allows user request data Xbox Live gamertags 360voice user profile data API use RESTful protocol response format XML 360voice online community Xbox 360"
+    },
+    {
+        "progweb_cat": "Games,Social",
+        "api_name": "NewHaze",
+        "id": 15101,
+        "progweb_descr": " NewHaze API enable website able add game library website NewHaze game website provide every single flash game internet API also use software application enable software developer incorporate flash game application API access via HTTP POST return either JSON XML There also OpenAPI allow grab data system build creative implementation API"
+    },
+    {
+        "progweb_cat": "Games,Financial",
+        "api_name": "Eve-Central",
+        "id": 8101,
+        "progweb_descr": " EveCentral online marketplace user buy sell good EveCentral API allow user query retrieve aggregate statistic item specify within marketplace retrieve available market order include price station order IDs volume make call site API use REST call return XML JSON An account required service"
+    },
+    {
+        "progweb_cat": "Games,HTML5",
+        "api_name": "PlayCanvas",
+        "id": 8172,
+        "progweb_descr": " PlayCanvas platform building manage mobile web video game PlayCanvas provide JavaScript API building HTML5 video game Public documentation available API access come account service Interested developer email supportplaycanvascom information"
+    },
+    {
+        "progweb_cat": "Games,HTML5",
+        "api_name": "playMobi",
+        "id": 11628,
+        "progweb_descr": " playMobi appMobi HTML5 monetization socialization service mobile game playMobi API allow developer access integrate playMobi functionality application game Some example API method include integrate user authentication leaderboards badge social post cloud data HTML5 game"
+    },
+    {
+        "progweb_cat": "Games,Analytics",
+        "api_name": "GameAnalytics",
+        "id": 8260,
+        "progweb_descr": " GameAnalytics service help game developer learn player improve game monetize make game enjoyable It monitor wide range metric include long people play stretch part game player spend time item player buy many people play give time Game developer customize GameAnalytics dashboard show metric find important Developers integrate GameAnalytics game development platform use SDK via REST API"
+    },
+    {
+        "progweb_cat": "Games,Analytics",
+        "api_name": "Second Life Grid Survey",
+        "id": 10153,
+        "progweb_descr": " Second Life Grid Survey provide metric Second Life Grid platform online virtual world Through series HTTP call Second Life Grid Survey API allow developer query name region grid retrieve range Second Life metric"
+    },
+    {
+        "progweb_cat": "Games,Analytics",
+        "api_name": "Geosophic",
+        "id": 11287,
+        "progweb_descr": " Geosophic user engagement solution provider mobile game Their gaming platform allow developer take user behavior data turn user profile Developers use information segment player invite marketer target ad campaign Geosophic also include user engagement feature leaderboards Geosophic API expose platforms essential information gather integration functionality It RESTful API return JSONformatted data"
+    },
+    {
+        "progweb_cat": "Games,Analytics",
+        "api_name": "Playtomic Data Exporting",
+        "id": 12079,
+        "progweb_descr": " Playtomic player performance track service game developers It provide platform analyze playersâ€™ performance online game Intelligence report usersâ€™ performance use improve game play It also scalable different size aspect game They provide RESTful API developer import JSON XMLformatted analytical data directly apps dashboard"
+    },
+    {
+        "progweb_cat": "Games,Security",
+        "api_name": "Fishbans",
+        "id": 8346,
+        "progweb_descr": " Fishbans ban aggregator Minecraft retrieve store information global ban APIs servers It aggregate information McBans McBouncer Minebans McBlockIt Glizer order provide Minecraft server owner developer player full history give player Fishbans API allow developer retrieve information player lookup system quickly programmatically"
+    },
+    {
+        "progweb_cat": "Games,Security",
+        "api_name": "MineBans",
+        "id": 9826,
+        "progweb_descr": " MineBans global banning system Minecraft server Server admins publish player ban MineBans database help owner server decide whether allow player recently join server stay In MineBans ban system ban reason fix ban rat severity ban command short MineBans API allow developer retrieve list user moderator access give server list ban specific server make list ban support evidence"
+    },
+    {
+        "progweb_cat": "Games,Security",
+        "api_name": "gamerID",
+        "id": 14046,
+        "progweb_descr": " GamerID free gamer identity website social networking feature game friends A gamerID unique online identifier use log game website gamerID logo A gamerID public profile display game achievement trophy GamerID also library use organize manage track game one collection wish list watch list gamerID API allow website webenabled application secure remote authentication use gamerID account credential"
+    },
+    {
+        "progweb_cat": "Games,Rewards",
+        "api_name": "Play2Shop",
+        "id": 8485,
+        "progweb_descr": " Play2Shop service allow gamers collect point reward pay shopper cash back use discount 1000 retail partner Play2Shop API let developer integrate game Play2Shop Gaming Platform PGP keep track point accumulate player"
+    },
+    {
+        "progweb_cat": "Games,Military",
+        "api_name": "World of Tanks Unofficial",
+        "id": 8968,
+        "progweb_descr": " World Tanks MMO massively multiplayer online game revolve around WWIIera tank World Tanks unofficial API expose call WoT Assistant mobile app allow developer search player clan name show player statistic show clan information get detailed information tank game log receive notification view game global map"
+    },
+    {
+        "progweb_cat": "Games,Military",
+        "api_name": "FalconLog",
+        "id": 9529,
+        "progweb_descr": " Falcon 40 video game combat flight simulator provide realistic simulation pilot F16 Fighting Falcon jet fighter FalconLog website provide Falcon 40 pilot place upload logbook site store data online user see progress time along detailed statistic go beyond simulator show site support multiple version Falcon 40 include Allied Force Benchmarksim 4 BMS Free Falcon Open Falcon logbook service access programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Games,Engagement",
+        "api_name": "LoyaltyMatch OnDemand",
+        "id": 9141,
+        "progweb_descr": " Using LoyaltyMatch OnDemandâ€™s game loyalty mechanic brand reward user realtime action drive user behavior achieve business goal measure optimize user engagement LoyaltyMatch OnDemand API provide RESTful interface interact loyalty gamification platform Responses may JSON XML format"
+    },
+    {
+        "progweb_cat": "Games,Engagement",
+        "api_name": "Unofficial Fitocracy",
+        "id": 12945,
+        "progweb_descr": " Fitocracy site use gamification element social network encourage user engage fitness plan track progress This unofficial API develop use basic readonly API profile data Data provide include variable user progress group profile imagery follow count API use RESTful call response format JSON JSONP"
+    },
+    {
+        "progweb_cat": "Games,Real Time",
+        "api_name": "GoInstant",
+        "id": 9184,
+        "progweb_descr": " GoInstant platform building manage multiplayer application GoInstant provide tools resource developer create build multiplayer application web GoInstant API allow developer access integrate functionality GoInstant application create new application Some example API method include manage application run application manage account"
+    },
+    {
+        "progweb_cat": "Games,Bitcoin",
+        "api_name": "Block Chain Roulette",
+        "id": 9300,
+        "progweb_descr": " Block Chain Roulette Bitcoin game reward user correctly guess random number generate solve new Bitcoin block Block Chain Roulette API give user access URLS enable create roulette play bot API query get list possible bet get list best make table get list last 50 bet get list block process spin result"
+    },
+    {
+        "progweb_cat": "Games,Images",
+        "api_name": "Open Game",
+        "id": 9474,
+        "progweb_descr": " Open Game Database gamer community allow user find add edit information video game database cover major game platform Xbox 360 Playstation well Android iOS mobile platforms Users add metadata screen shot videos well contribute user review rating Open Game API allow download detail thousand game Open Game database Acquire game asset box art screenshots gameplay videos API call use REST access grate via API key"
+    },
+    {
+        "progweb_cat": "Games,Marketing",
+        "api_name": "PlayHaven Reporting",
+        "id": 9718,
+        "progweb_descr": " PlayHaven provide ingame market monetization service mobile game developer PlayHaven provide Reporting API grant developer access granular aggregate game relate data API call make HTTPS require authorization token"
+    },
+    {
+        "progweb_cat": "Games,Marketing",
+        "api_name": "AppLift",
+        "id": 11672,
+        "progweb_descr": " AppLift mobile game discovery market service Their goal mobile affiliate network soley focus game Advertising affiliate use API track analyze optimize mobile game app install post install event API SDK use track conversion traffic source marketing channel creative type variable"
+    },
+    {
+        "progweb_cat": "Games,News Services",
+        "api_name": "Newseum NewsMania",
+        "id": 10028,
+        "progweb_descr": " Newseum museum Washington DC offer visitor five century news history cuttingedge technology handson exhibit NewsMania news trivia game offer Newseum website Players give series multiplechoice trivia question cover variety topic current news Questions game retrieve programmatically use NewsMania API"
+    },
+    {
+        "progweb_cat": "Games,News Services",
+        "api_name": "Unofficial JeuxVideo",
+        "id": 12637,
+        "progweb_descr": " JeuxVideo French website dedicate video game PC console It offer news preview tip trick forums unofficial API provide users access information store site This information include search game detail game preview video footage game list tip mroe API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Games,Canadian",
+        "api_name": "Au DÃ©fi",
+        "id": 10133,
+        "progweb_descr": " Au DÃ©fi Frenchlanguage website feature educational online game Players compete high score publicly display site Au DÃ©fi gear toward Canadian child player invite register school site Au DÃ©fi API allow user interact site programmatically use add remove friend well retrieve player information ranking detail"
+    },
+    {
+        "progweb_cat": "Games,Publishing",
+        "api_name": "The Game Crafter",
+        "id": 10250,
+        "progweb_descr": " Game Crafter webtoprint demand game publishing service Game Crafter give game designer system make board game card game custom play card Built Wing API protocol Game Crafter API provide RESTful interface developer thing like create game uploaders use Game Crafter private label service integrate Game Crafter outside website create customized interface shop All result JSON format"
+    },
+    {
+        "progweb_cat": "Games,Campaigns",
+        "api_name": "Obsidian Portal",
+        "id": 10607,
+        "progweb_descr": " Obsidian Portal tool allow roleplaying game master create campaign website tabletop game Obsidian Portal API offer variety method design make easy developer make cool stuff use tabletop enhance game experience Responses JSON XML format"
+    },
+    {
+        "progweb_cat": "Games,eCommerce",
+        "api_name": "GW2Spidy",
+        "id": 10808,
+        "progweb_descr": " Guild Wars 2 MMORPG GW2Spidy online trading post player purchase item Players use game account login view item list An API available make site data available use website application Methods available include Type List Discipline List Rarity List Item List Item Data API use RESTful call response format JSON JSONP CSV"
+    },
+    {
+        "progweb_cat": "Games,eCommerce",
+        "api_name": "BringIt",
+        "id": 11222,
+        "progweb_descr": " BringIt app medium engagement solution They provide engagementasserviceplatform increase user retention monetization capacity BringIt integrate minigames challenge apps web medium Also include BringIt toolkit social feature gift give leaderboards BringIt offer three APIs expose integration customer service analytical functionality"
+    },
+    {
+        "progweb_cat": "Games,eCommerce",
+        "api_name": "Urbien",
+        "id": 12161,
+        "progweb_descr": " Urbien virtual world platform It allow user reconstruct neighborhood visit others Business individual register realworld location interact actual neighbor customer Urbien representation Users develop community earn Urbien mojo karmic reputation score system Urbien offer RESTful API allow developer receive data coupon offer business Urbien It return JSONformatted data"
+    },
+    {
+        "progweb_cat": "Games,Charity",
+        "api_name": "Playmob",
+        "id": 11227,
+        "progweb_descr": " Playmob charitable give integration platform It allow developer create mean player give charity apps Playmob network charity developer partner direct user traffic Developers integrate payment ingame object donation charity portion itemsâ€™ cost go generous cause rest integration completely invisible work appâ€™s UI store setup player account management system Playmob API expose entire functionality apptocharity functionality It RESTful API return JSONencoded result"
+    },
+    {
+        "progweb_cat": "Games,Business",
+        "api_name": "Innovation Games",
+        "id": 11249,
+        "progweb_descr": " Innovation Games provider game use company solve business problem encourage innovation company provide collaborative method tool understand customer market need Innovation Games also offer online realtime collaboration service An API available allow user create edit project create edit game definition play retrieve result party galas game play RESTful API require key retrieve register user"
+    },
+    {
+        "progweb_cat": "Games,Reference",
+        "api_name": "Diablo 3",
+        "id": 11288,
+        "progweb_descr": " Diablo 3 action roleplay video game Diablo 3 API provide programmatic access much data create play game Developers access character profile career detail item information artisan information follower information Among detail make available list complete quest character attribute stretch dexterity well kill separate monster type RESTful API return JSON"
+    },
+    {
+        "progweb_cat": "Games,Reference",
+        "api_name": "World of Warcraft",
+        "id": 14061,
+        "progweb_descr": " Blizzard maker popular online MMORPG World Warcraft provide API user interested gathering game statistic data Users gather data category realm profile item arena team This open API create service World Warcraft community There signup requirement fee use RESTbased API Users limit 3000 request per day however limit exceeded register application Applications register apisupportblizzardcom"
+    },
+    {
+        "progweb_cat": "Games,Humor",
+        "api_name": "Claude Hussenet Anagram",
+        "id": 11844,
+        "progweb_descr": " Anagrams type word play letter word phrase rearrange produce new word phrase use original letter exactly Claude Hussenet Anagram API allow user retrieve anagram This API poorly document"
+    },
+    {
+        "progweb_cat": "Games,Humor",
+        "api_name": "Quisque",
+        "id": 12191,
+        "progweb_descr": " Quisque website provide resource recreational treasure hunter In recreational treasure hunt player resolve puzzle enigmas create author order find planted treasure APIs provide Quisque design help player decipher clue Available APIs include decryption service variety cipher heraldry database image comparison service website documentation provide primarily French English language option available"
+    },
+    {
+        "progweb_cat": "Games,Humor",
+        "api_name": "TicTacToe",
+        "id": 12192,
+        "progweb_descr": " TicTacToe service allow user play game tictactoe It unclear available documentation whether game would play another person AI TicTacToe service access programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Games,Feeds",
+        "api_name": "Sapo Games",
+        "id": 12374,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide This API return RSS feed Sapp GameOver service feed include article article platform content related game sheet API use RESTful call response format RSS"
+    },
+    {
+        "progweb_cat": "Games,Monetization",
+        "api_name": "Viximo",
+        "id": 13010,
+        "progweb_descr": " Viximo social game distribution marketing service Viximo offer creator developer social game variety service distribute market monetize social gaming application integrate social network Facebook Viximo API allow developer access integrate functionality Viximo application create new application Some example API method include access game debit credit purchase information manage user"
+    },
+    {
+        "progweb_cat": "Games,Directories",
+        "api_name": "Game Jolt",
+        "id": 14177,
+        "progweb_descr": " Game Joltis web site community center free online video game API provide access site data Data include user session trophy score data store API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Games,Localization",
+        "api_name": "Spil Games",
+        "id": 14200,
+        "progweb_descr": " Spil Games game publisher online global gaming portal Spil Games focus reach local audience localize content encourage gamer loyalty social gaming strategy differentiate tailor gaming content playersï¿½ need API let developer implement strategy game use three main function 1 It enable game seamlessly integrate Spil portfolio websites 2 It handle implementation localization brand various Spil Games websites brand language display end user correct game list multiple website 3 It enable game interact social feature Spil Games sit include handle submission award high score social feature Full public documentation available developer contact licensingspilgamescom information"
+    },
+    {
+        "progweb_cat": "Games,Language",
+        "api_name": "Aonaware CountCheatService",
+        "id": 14245,
+        "progweb_descr": " Aonaware CountCheatService allow user find solution simple anagram problem example pose UK Channel 4 game Countdown It use SOAP protocol response format XML"
+    }
+]

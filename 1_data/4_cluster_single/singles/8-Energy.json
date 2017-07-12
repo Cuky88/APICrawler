@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "Energy,Data",
+        "api_name": "LED Lighting Facts",
+        "id": 4448,
+        "progweb_descr": " LED Lighting Facts API program US Department Energy permit developer access LED product list aim verify accuracy purchase 35173 product find either archive advance search lumen output input wattage lumen per watt color accuracy light color Protocols JSON REST HTTP basic auth allow send request receive response Access compatible programming language"
+    },
+    {
+        "progweb_cat": "Energy,Management",
+        "api_name": "Aquicore",
+        "id": 5132,
+        "progweb_descr": " Aquicore REST API allow developer access integrate functionality Aquicore application Public documentation available API access come account service Aquicore provide customized energy utility management system property management company"
+    },
+    {
+        "progweb_cat": "Energy,Algorithms",
+        "api_name": "Know Watt",
+        "id": 6022,
+        "progweb_descr": " Know Watt API use algorithms consider demand realtime pricing consumption indicator empower apps energy footprint information Know Watt aggregate data public private green meter energy feed consider real time energy pricing information allow developer create smart apps aim conserve energy cost sync home automation device Nest Apple Homekit Quirky Wink Currently documentation available developer request API access"
+    },
+    {
+        "progweb_cat": "Energy,Education",
+        "api_name": "Energy Periscope",
+        "id": 6760,
+        "progweb_descr": " Energy Matters offer Energy Periscope API dedicate organize project management professional energy industry This API offer resource key auth XML response parameter include job lead widget Some people benefit API include solar wind energy professional architects consultant designer educators student technician learn institution"
+    },
+    {
+        "progweb_cat": "Energy,Monitoring",
+        "api_name": "Fronius",
+        "id": 6761,
+        "progweb_descr": " Distinctive innovative value drive value Fronius company commit monitor solar energy system Fronius Solar API JSON protocol available one time registration This API base Ethernet integrated Fronius Galvo Fronius Symo inverter standard"
+    },
+    {
+        "progweb_cat": "Energy,Environment",
+        "api_name": "EcoSCADA",
+        "id": 9333,
+        "progweb_descr": " EcoSCADA webbased energy saving service use monitor energy consumption identify wasteful energy use EcoSCADA useful establish benchmark energy usage across multiple building monitor performance benchmark service record data gas electricity water consumption well relevant factor This data store EcoSCADAs online database access user directly via API"
+    },
+    {
+        "progweb_cat": "Energy,Environment",
+        "api_name": "NREL PVWatts",
+        "id": 10172,
+        "progweb_descr": " service estimate expect performance photovoltaic PV energy system suitable residential small commercial application Simulations estimate energy production PV cell give location operate condition along cost saving Cost data assume system connect exist electrical power grid rather freestanding API method support submission location specify address latitude longitude along system operate parameter generate capacity solar track function operate time include daily schedule Cost saving parameter include system initial cost maintenance cost deterioration time financing cost tax effect relate variable"
+    },
+    {
+        "progweb_cat": "Energy",
+        "api_name": "OpenADR",
+        "id": 10817,
+        "progweb_descr": " Open Automated Demand Response OpenADR open standardize way electricity provider system operator communicate Demand Response DR signal customer It use common language function IPbased communication network Internet Demand Response use ease severely constrain electrical grid postpone even avert energy crisis Automated Demand Response ADR reduce operating cost DR program increase reliability send receive DR signal automatically OpenADR provide programmatic access OpenADR specification developer may access implement grid management system This API employ SOAP call issue XML format"
+    }
+]

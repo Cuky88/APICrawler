@@ -1,0 +1,1622 @@
+[
+    {
+        "progweb_cat": "Advertising,Search",
+        "api_name": "Google AdWords",
+        "id": 266,
+        "progweb_descr": " Google AdWords API main revenue source Google AdWords offer payperclick advertising costperthousand advertising sitetargeted advertising text Google AdWords API let developer build application interact directly AdWords platform With application advertiser third party efficiently creatively manage large complex AdWords account campaign With API developer automatically generate keywords ad text destination URLs integrate AdWords data inventory system manage campaign base stock develop additional tool application help manage account AdWords API SOAP interface support popular programming language include Java PHP Python NET Perl Ruby"
+    },
+    {
+        "progweb_cat": "Advertising,Search",
+        "api_name": "Baidu",
+        "id": 327,
+        "progweb_descr": " Baidu Search Marketing Service API provide suite web service allow developer interact Baidu server directly API Based API developer build application manage search marketing account Baidu Search Marketing Service API mainly design major user third party include SEM agency online marketing expert manage multiple client account andor large campaign Please note Baidu extensive documentation English rest site Chinese"
+    },
+    {
+        "progweb_cat": "Advertising,Search",
+        "api_name": "Conductor Searchlight",
+        "id": 8270,
+        "progweb_descr": " Conductor search engine optimization firm help user increase site traffic increase revenue API use REST call return JSON allow user integrate Conductor service thirdparty apps user Integrate Searchlight data marketing channel include pay search Integrate web content management system provide feedback content author editor real time well Integrate Searchlight business process move away copypaste email errorprone spreadsheet An account required service"
+    },
+    {
+        "progweb_cat": "Advertising,Search",
+        "api_name": "Searchmetrics",
+        "id": 8910,
+        "progweb_descr": " Searchmetrics search analytics service offer SEO SEM social track analytics use management improvement scale search marketing campaign Searchmetrics API allow user create application utilize Searchmetric tool integrate SEOSEASocial data workflow report feature service use REST call return JSON An Account require service API key obtain log"
+    },
+    {
+        "progweb_cat": "Advertising,Search",
+        "api_name": "Fanggle QRazor",
+        "id": 11213,
+        "progweb_descr": " Fanggle provide cloud application across various industry include retail CPG Non Profits Automotive Libraries Media Publishing QRazor API provide Fanggle advertise marketing service design cover web delivery venue service generate QR code UPC EAN 13 Code 38 It build Redirector URL shortener analytics evaluate success enable user brand customize QR code Access API available join Licensing Partnership program"
+    },
+    {
+        "progweb_cat": "Advertising,Search",
+        "api_name": "cXense",
+        "id": 11283,
+        "progweb_descr": " cXense context compute solution provider This mean offer tools business meet web service user level expectation need product include software advertising analytics recommendation search solution Their product enterprise search engine come API search engine cloudhosted integrated via API API RESTbased allow developer create frontends"
+    },
+    {
+        "progweb_cat": "Advertising,Search",
+        "api_name": "Wordpot",
+        "id": 15737,
+        "progweb_descr": " Wordpotcom API provide function generate keywords base search word domain name It tell number search do word Internet provide suggestion similar word API provide direct access Wordpot database use Wordpot keyword data app"
+    },
+    {
+        "progweb_cat": "Advertising,Search",
+        "api_name": "Wordtracker",
+        "id": 15846,
+        "progweb_descr": " Wordtracker provide website keyword search research analysis Wordtracker provide keyword data 130 territory 300 million keywords update monthly Wordtracker API allow developer access integrate functionality Wordtracker applications Some example API method include search keywords retrieve detail keywords search specify certain parameter keywords"
+    },
+    {
+        "progweb_cat": "Advertising,SEO",
+        "api_name": "Google AdSense",
+        "id": 288,
+        "progweb_descr": " Google AdSense API ideal developer whose user create content blogging web publishing forumwikicommunity creation application substantial web content generate Using AdSense API developer let user sign AdSense site program generate detail performance report user choose AdSense revenue share revenue share program Additionally user create account store publisher website information generate ad code snippet filter unwanted ad A previous SOAP version deprecate favor REST responses format JSON"
+    },
+    {
+        "progweb_cat": "Advertising,SEO",
+        "api_name": "UrlTrends",
+        "id": 15837,
+        "progweb_descr": " UrlTrends API give SEO tool developer Access search engine data include search term find give url search metric tool research measure search engine optimization"
+    },
+    {
+        "progweb_cat": "Advertising,Referrals",
+        "api_name": "Google Affiliate Network",
+        "id": 331,
+        "progweb_descr": " Google Affiliate Network affiliate marketing network Advertisers use network increase online conversion monetize site traffic use affiliate ad With API publisher ability look advertiser well access order lead transaction Advertisers ability publisher data Developers access data network integrate system API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Advertising,Referrals",
+        "api_name": "Prosperent",
+        "id": 848,
+        "progweb_descr": " Prosperent provide platform affiliate marketer place dynamic targeted ad websites API provide access functionality platform Developers build apps API earn commission every sale driven system simply use API augment web site help monetize traffic documentation include complete detail parameter set describes detail extend query syntax extra functionality search endpoint Documentation available upon registration"
+    },
+    {
+        "progweb_cat": "Advertising,Referrals",
+        "api_name": "Invite Referrals",
+        "id": 8066,
+        "progweb_descr": " Invite Referrals online market campaign service allow customer referral program Invite Referrals allow user create manage customer referral campaign contest Invite Referrals API allow developer access integrate functionality Invite Referrals application main API method integrate Invite Referrals websites application"
+    },
+    {
+        "progweb_cat": "Advertising,Referrals",
+        "api_name": "RoundSky Lead-Seller",
+        "id": 8123,
+        "progweb_descr": " RoundSky US base advertising service specialize payday loan title loan installment loan product company provide service primarily direct payday loan lender installment lender title loan lender store front financial market vendor RoundSky LeadSeller API allow user integrate third party system lead sell service RoundSky API use REST call return JSON XML API allow user access multiple price point static revenue share price well get realtime lead response An account required service"
+    },
+    {
+        "progweb_cat": "Advertising,Referrals",
+        "api_name": "Yieldkit",
+        "id": 8404,
+        "progweb_descr": " Yieldkit asset website monetization service work company affiliate network Yieldkit API use Javascript allows advance integration design big website special integration need Content Networks Traffic Networks Mobile Apps Cashback Systems Coupon Sites An account required service API key use authentication"
+    },
+    {
+        "progweb_cat": "Advertising,Referrals",
+        "api_name": "Mirago Advertising Network",
+        "id": 8487,
+        "progweb_descr": " Mirago international advertising network provide text banner rich medium advertise All service provide white label basis highly scalable Publishers use Mirago earn revenue traffic ad network use run online ad platform Both publisher advertiser access online management reporting tool Users implement Mirago ad feed via API XMLbased request recommend serverside integration especially layout change involve JSON recommend use AJAX request"
+    },
+    {
+        "progweb_cat": "Advertising,Referrals",
+        "api_name": "Affiliate Spice",
+        "id": 11571,
+        "progweb_descr": " Affiliate Spice technology help affiliate monetize online content Affiliate Spice toolkit provide tool create content unit across multiple affiliate network tool automatically convert link affiliate link technology available JavaScript widget RESTful API Affiliate Spice API allow developer use technology application web apps mobile apps Android apps iPhone apps iPad apps Affiliates quickly build link inside application website thousand advertiser million product via API"
+    },
+    {
+        "progweb_cat": "Advertising,Referrals",
+        "api_name": "Digital River oneNetworkDirect",
+        "id": 13342,
+        "progweb_descr": " Digital Rivers oneNetworkDirect affiliate marketing network specialize software product It feature large selection digital product offer online today include world recognize title McAfee Big Fish Games SanDisk Logitech many API give user access functionality oneNetworkDirect account This include access reporting information well content visible user network account Methods include creativeTypes campaignInfo creativeInfo optionalInfo monthlyStatsInfo dailyStatsInfo getCCampaigns API use SOAP response XML Public documentation available Unofficial documentation view httpwwwcumbrowskicomCarstenCaffiliatemarketingwebservicesonenetworkasp"
+    },
+    {
+        "progweb_cat": "Advertising,Referrals",
+        "api_name": "Directtrack",
+        "id": 13837,
+        "progweb_descr": " DirectTrack affiliate marketing affiliate software track platform power large reputable affiliate network inhouse affiliate program API give developer interface platform Functionality include lookup retrieval creative type campaign info lead statistic API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Advertising,Referrals",
+        "api_name": "VigLink",
+        "id": 14217,
+        "progweb_descr": " VigLink service embeds affiliate link possible make publisher money referral purchase VigLink available JavaScript link update perform automatically RESTful API use redirects"
+    },
+    {
+        "progweb_cat": "Advertising,Financial",
+        "api_name": "Microsoft adCenter",
+        "id": 399,
+        "progweb_descr": " From site Microsoft adCenter application program interface API enable create application Create manage adCenter campaign order keywords ad Obtain status order keywords ad Pause resume order Generate keyword estimate Generate report campaign performance Perform order target"
+    },
+    {
+        "progweb_cat": "Advertising,Social",
+        "api_name": "Facebook Ads",
+        "id": 435,
+        "progweb_descr": " Provides method add edit manage advertising campaign run within Facebook Your ad management application work keywords ad group even generate report"
+    },
+    {
+        "progweb_cat": "Advertising,Social",
+        "api_name": "Visible Measures True Reach",
+        "id": 4914,
+        "progweb_descr": " Visible Measures True Reach API allow developer explore campaignlevel detail piece brand video content use YouTube Facebook URL detail available API include total number creative execution video uploads view comment rating Documentation API available upon request"
+    },
+    {
+        "progweb_cat": "Advertising,Social",
+        "api_name": "Glow",
+        "id": 9854,
+        "progweb_descr": " Glow social advertising platform Users build manage adjust Facebook advertising campaign Glow provide analytics insight track campaign progress Glow API allow developer access integrate functionality Glow application create new application Public documentation available interested developer email usasalesteamthisisglowcom information"
+    },
+    {
+        "progweb_cat": "Advertising,Social",
+        "api_name": "PosterOven",
+        "id": 10469,
+        "progweb_descr": " PosterOven online poster creation service PosterOven offer multiple template design user create PDF poster social medium information QR cod PosterOven API allow developer access integrate functionality PosterOven applications Some example API method include populate template create poster display poster"
+    },
+    {
+        "progweb_cat": "Advertising,Social",
+        "api_name": "InviteBox",
+        "id": 10518,
+        "progweb_descr": " InviteBox enable user design launch social referral program online business Users reward customer immediately share site social channel give coupon promo cod downloadable file access lock area feature customize reward Customers may offer reward meet certain numerical goal referral InviteBox use set promotional contest customer compete get referral InviteBoxs JavaScript API allow user create customized reward reward condition JSONbased Reward Callback API issue servertoserver call customer make post social channel referral visit site complete referral goal"
+    },
+    {
+        "progweb_cat": "Advertising,Social",
+        "api_name": "VK Ads",
+        "id": 11795,
+        "progweb_descr": " VK popular European social network website VK Ads API allow user advertise site Users create alter retrieve information campaign ad relevant statistic API also enable management information advertising agency client well performance administration task VK Ads API still Beta test mode functional nonetheless"
+    },
+    {
+        "progweb_cat": "Advertising,Social",
+        "api_name": "Spruce Media",
+        "id": 12160,
+        "progweb_descr": " SpruceMedia social advertising platform allow user manage advertisments Facebook SpruceMedia offer API allow advertiser provide scalable performance advertising Facebook customer within product API provide functionality across area include advertiser ad campaign group specs It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Advertising,Social",
+        "api_name": "GaggleAMP",
+        "id": 13660,
+        "progweb_descr": " GaggleAMP social medium social network amplification service With GaggleAMPs service client spread social medium message stakeholder amplify message send people trackable link get clickthrough rate analytics GaggleAMP API allow developer access functionality GaggleAMP Public documentation available website developer register free get access documentation Some example API method include post message access message status analytics access clickthrough data"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "Yahoo Ads",
+        "id": 483,
+        "progweb_descr": " From site Advertiser Web Services enable advertiser develop software interacts directly Yahoo Search Marketing campaign management system Advertisers use XML base transaction perform many feature available account access user interfacebe adapt efficiently manage Yahoo Search Marketing account listing bid report"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "Yahoo Search Marketing",
+        "id": 494,
+        "progweb_descr": " From site Yahoo Search Marketing API provide programmatic access functionality expose visually webbased interface You create manage campaign pull report set bid All capability expose via collection SOAPbased Web Services easy use thoroughly document"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "140 Proof",
+        "id": 1322,
+        "progweb_descr": " 140 Proof API give user programmatic access 140 Proof service 140 Proof delivers 140 character brand message postioned directly Twitter stream target user base interest use public Twitter data API use RESTful call response format either XML JSON HTML"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "ExoClick",
+        "id": 4800,
+        "progweb_descr": " ExoClick API allow developer create copy modify pause resume advertise campaign API also use get statistics browser carrier category country date device hour languages operate system sit variation ExoClick ad network offer service advertiser publisher web mobile channel"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "Yahoo APT",
+        "id": 12258,
+        "progweb_descr": " APT Yahoo allow developer interact Yahoo advertising platform ad exchangebased technology system mean allow advertiser publisher ad network agency buy sell advertise single environment With API developer build application integrate API take advantage platform functionality This functionality include create manage ad creatives add manage site retrieve geographical target behavioral target colocation information create manage account report create manage ad group order API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "BLAM Ads",
+        "id": 13226,
+        "progweb_descr": " BLAM Ads online advertise service implement monetize website use content lock advertising When BLAMs code paste website HTML visitor prompt content lock gateway display several offer user must interact gain access rest site This model ensure user make site use BLAMs content lock provide advertising revenue site owner BLAM ad API provide programmatic access exactly content lock service operate site give developer control type offer present endusers sit Other functionality expose API include statistic report account user management integration virtual currency example interact ad exchange certain amount virtual currency This RESTful API configure provide wide range response type include JSON JSONP XML PHP CSV HTML Access API dependent account service"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "ZEDO",
+        "id": 13440,
+        "progweb_descr": " ZEDO digital ad solution company provide ad network optimization ad serve behavioral data capture report market target service ZEDO API allow customer manage advertise account campaign via SOAP Specifically API contain set method advertiser campaign management site management report administration A description ZEDOs API service find via PDF httpwwwzedocomtechnologyPDFZEDOAPIServicepdf"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "AdJuggler",
+        "id": 14062,
+        "progweb_descr": " AdJuggler deal ondemand digital ad serve ad management AdJuggle API allow user integrate AdJuggle service house application 3rd party service Adjuggler offer customized integration facilitate optimal usage"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "LookSmart AdCenter",
+        "id": 14341,
+        "progweb_descr": " LookSmart provide search marketing via payperclick search advertising network LookSmart AdCenter API make data functionality available advertiser outside AdCenter website Developers manage large complex advertising campaign programmatically API allow developer create change campaign advertisement Further API use integrate internal reporting billing inventory management system API use SOAP Documentation available upon request"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "Fabulous",
+        "id": 14419,
+        "progweb_descr": " Fabulous specialize generate revenue pay per click PPC link traffic domain receive Fabulouscom API provide tool perform limit set feature currently available via Fabulouscom client admin suite It intend use customer want make bulk change account automate semiautomated basis software As API design support feature client interface likely use bulk situation Fabulouscom API allow user perform number task include Register Domains Renew Domains Transfer Domains Check Domain Availability Manage Domain Portfolio Get Domain Info Generate Revenue Reports Unlock domains set Auth code Set Nameservers Push Domains It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "Yandex Direct",
+        "id": 14454,
+        "progweb_descr": " Yandex large search engine Russia develop number Internetbased service product Yandex offer owner website blog tool apply functional service Yandex project Yandex Direct API allow developer create application directly interact Yandex contextual advertising service These application allow advertising agency well direct advertiser run complex largescaled advertising campaign It use SOAP protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "Shiny Ads",
+        "id": 14509,
+        "progweb_descr": " REST base Shiny Ads API allow developer integate operation application Shiny Ads provide selfserve advertise platform allow publisher control ad purchase process directly offer ad purchase system advertiser With API online publisher manage selfserve advertising offering well notified event new order Responses format either XML JSON Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "DoubleClick for Publishers",
+        "id": 14819,
+        "progweb_descr": " Googles DoubleClick Publishers API let developer interact DoubleClick online display advertising platform Whereas standard DoubleClick API provide advertiser way manage campaign Publishers API let site owner developer manage inventory aspect provide ad space example use DoubleClick Publishers API developer automate invoice connect bill DoubleClick report data integrate content management system update inventory content structure change API use SOAP protocol 11 WSDLs describe service Among function available create order generate report"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "IZEA Sponsored Tweets",
+        "id": 14889,
+        "progweb_descr": " Sponsored Tweets service provide IZEA company behind PayPerPost allows Twitter user sell tweet Those interested advertising pay user send tweet behalf Sponsored Tweets API provide access company database Twitter user willing sell tweet"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "MediaMind",
+        "id": 14951,
+        "progweb_descr": " MediaMind global provider digital advertising solution optimize use medium creative data enhance campaign performance MediaMind Trafficking API let developer build application interact directly MediaMind Platform With application advertiser medium agency creative shop third party manage large complex account campaign efficiently creatively With MediaMind Trafficking API user create update campaign placement advertiser ad without access MediaMind API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Advertising",
+        "api_name": "Right Media Exchange",
+        "id": 15598,
+        "progweb_descr": " From site Right Media Exchange API set web service enable developer access Right Media Exchange RMX data application Using API create manage advertiser publisher insertion order line item campaign creatives pixel target profile others"
+    },
+    {
+        "progweb_cat": "Advertising,eCommerce",
+        "api_name": "zanox",
+        "id": 510,
+        "progweb_descr": " zanox Web Services enable developer access zanox infrastructure service With API enhance advertising solution monetize application zanox company focus search engine marketing email marketing international campaign portalscontent sit zanox vision relate monetize Internet business alliance everyone winner"
+    },
+    {
+        "progweb_cat": "Advertising,eCommerce",
+        "api_name": "Zmags Publicator",
+        "id": 9046,
+        "progweb_descr": " Zmags digital publishing solution company want offer customer consistent brand commerce experience across digital channel A Zmag online catalog brochure magazine interactive publication deliver via todayâ€™s digital medium platform Zmags offer RESTful API CommercePro customer Product service provide access information product database Product Image service provide access image information product database An API key require request"
+    },
+    {
+        "progweb_cat": "Advertising,eCommerce",
+        "api_name": "Fanggle Qwoosh/Spreevo",
+        "id": 11214,
+        "progweb_descr": " Fanggle provide cloud application across various industry include retail CPG Non Profits Automotive Libraries Media Publishing QwooshSpreevo API coupon application use mobile social medias provide location base contextual coupon also combine web ecommerce channel get offer patron quickly Access API available join Licensing Partnership program"
+    },
+    {
+        "progweb_cat": "Advertising,Customer Service",
+        "api_name": "FanBridge",
+        "id": 866,
+        "progweb_descr": " FanBridge customer engagement reward service Clients FanBridge use tool interact customer fan reward customer fan make new customer fan FanBridge API allow developer access functionality FanBridge Some example API method include create send email campaign customer enable new customer fan join market list"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "BuyAds",
+        "id": 958,
+        "progweb_descr": " BuyAdscom large catalog Class 1 advertising It let web site TechCrunch Mashable create premium guarantee ad package user shop buy Everything BuyAds site specific guaranteedreserved campaign make programmatic future market premium ad inventory Through API user access catalog websites inventory see pricing availability submit order offer complete life cycle order include approval payment traffic API available public Select partner like DSPs RFP manager similar marketing solution invite access API Please contact provider info hellobuyadscom BuyAdscom power wwwisocketcom"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "OpenX",
+        "id": 1161,
+        "progweb_descr": " From site OpenX open source ad server API allow manage account banner inventory grab statistic generate banner tag Use new OpenX API write script control ad server Integrate OpenX application automate common administration task generate custom report"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "MediaMath",
+        "id": 3872,
+        "progweb_descr": " MediaMath API allow developer integrate reporting feature company TerminalOne Marketing Operating System medium marketing application Protocols available REST format API Key MediaMath provide digital marketing service"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Tyroo One",
+        "id": 4776,
+        "progweb_descr": " Tyroo One API compare ten thousand conversion pattern payment pattern network across affiliate ensure high level security affiliate network level fraud Developers access information integrate application API This API available upon register provider"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Uplette",
+        "id": 5201,
+        "progweb_descr": " Uplette REST API allow developer access integrate functionality Uplette application Public documentation isnt available API access come account service Uplette mobile advertising platform advertiser publisher"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "AdGear",
+        "id": 6732,
+        "progweb_descr": " AdGear Technologies Inc digital advertising technology company provide software digital medium industry In site AdGear present service publisher marketer mobile device platform Particularly customer benefit include advanced advertising analytics attribution measurement ad serve realtime bidding exchange technology developer AdGear API offer ability programmatically interact AdGear platform Ad Server DemandSide Platform SupplySide Platform Attribution Users contact AdGear authentication method developer support additional marketing solution"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Project Sunblock",
+        "id": 7711,
+        "progweb_descr": " Project Sunblock content verification tool offer brand safety digital advertiser web tool monitor protect online brand combine content analysis image recognition extensive database website relationship order safeguard harmful association client brand online content Project sunblock offer RESTful API delivery admin reporting API allow developer connect interact integrate directly Project Sunblock service API method include Organizations Campaigns Ads Rules Statistics An API key require"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "PFLlink Printing",
+        "id": 7838,
+        "progweb_descr": " Print Less print company offer ability send professionallooking mailer 500 customer print fullcolor side quickly produce 2000 product sell sheet trade show put together 7500 16page product catalog booklet upgrade newsletter full color create poster event cause PFLlink Printing API allow user send marketing material Users send single customize piece single client ten thousand prospective client API use REST account require service"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Performance Horizon",
+        "id": 7999,
+        "progweb_descr": " Performance Horizon brand marketing management service provide dashboard report advertiser agency publisher operate mark campaign around globe API use REST call return XML JSON An account required service API Key SSL use access authentication Performance Horizons API provide user access dashboard report functionality Performance Horizon platform well aspects site"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "EASY MARKETING",
+        "id": 8006,
+        "progweb_descr": " EASY MARKETING automate online advertising service optimize Google Google Shopping Facebook eBay It design clearly accurately show many new customer bring cost per new customer acquire number new customer acquire time EASY MARKETING API allow user retrieve information shop product product category track sale lead create Facebook like button push product EASY MARKETING special promotion Developers also embed ad campaign performance data analysis page quick chart webpage use iFrames website entirely German API documentation English"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Skycore",
+        "id": 8030,
+        "progweb_descr": " Skycore mobile marketing solution provider offer user SMS Short Message Service MMS Multimedia Message Service capability via REST API Users also create message template automatically customized recipient Skycore API include method send receiving message well get delivery report previously send message"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "MyDigitalClients",
+        "id": 8233,
+        "progweb_descr": " MyDigitalClients MDC provide marketing automation service small business It allow user identify site visitor develop profile visitor sort nurture lead contact qualify lead MDC also help user manage email marketing campaign social medium campaign web form email list Analytics alert report help user handle campaign effectively Paying user get access MDCs API allow create mashups integrate MDC system"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Hubba",
+        "id": 8315,
+        "progweb_descr": " Hubba brand management platform help retailer brand manage product data omnichannel commerce Hubba platform allow brand retailer manage share consumerready product information order ensure right message get right consumer exactly right moment purchase decision process Hubba offer REST API programmatic access Hubba service API endpoint include searchByTag listFolder listProducts getEntity updateEntity createProductEntity createFolder deleteEntity uploadMedia An API Key require"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "AvidMobile",
+        "id": 8717,
+        "progweb_descr": " AvidMobile company offer whitelabel mobile marketing advertising service AvidMobile provide SOAP API give developer programmatic access SMS marketing service Its function include send receive SMS create keywords response convert RSS feed text get usage data"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Adobe Marketing Cloud",
+        "id": 8718,
+        "progweb_descr": " Adobe Marketing Cloud comprehensive integrate market solution compose service Adobe Analytics Adobe Target Adobe Social Adobe Experience Manager Adobe Media Optimizer These allow marketer manage track optimize campaign promotional material Adobe Genesis service allow user consolidate online marketing tool central location Adobe Marketing Cloud also provide collaborative user interface dashboard update real time Adobe Marketing Cloud provide developer Enterprise API Partner API Enterprise API design use Adobe Marketing Cloud customer It provide programmatic method collect import export run report customer data Partner API design use Adobe Genesis partner allow use integrate data improve business"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "checkd.in",
+        "id": 8875,
+        "progweb_descr": " Checkdin marketing campaign launch management tool allow client leverage build upon current consumer relationship Checkedin technology allow client collect realtime historical user data social network websites set manage campaign client dashboard quickly deploy campaign microsite content generator Checkdin offer access data Checkdin management platform via RESTful API API method include client campaign reward promotion activity user An API key require"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "OneGo",
+        "id": 8948,
+        "progweb_descr": " OneGo customer engagement platform offer cloud base tool enable business create offer reward OneGo analytics target share facilitate creation personalize offer base customer demographic purchase history OneGo offer trio APIs allow integration OneGo service API resource include notification merchant benefit bims location statement redeem Data exchange handle via JSON HTTP An API key require"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "AzonMobile QR Code",
+        "id": 9420,
+        "progweb_descr": " AzonMobile QR Code Management Tracking platform product build help business generate manage track QR Codes AzonMobile QR Code API provide developer access full functionality AzonMobile platform Supported call include QR Code generation QR Code campaign management analytics API use generate QR Codes specify shape foregroundbackground image API accepts XML format HTTP Post call return XML format response"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Gravity R&D Recommendation",
+        "id": 9434,
+        "progweb_descr": " Gravity Rock Solid Recommendations enable customer increase revenue provide personalized recommendation user base Gravity API allow developer integrate Gravityâ€™s recommendation engine consist three main task user track item catalog import display recommendation API accessible via REST SOAP protocol"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Perfect Audience",
+        "id": 9659,
+        "progweb_descr": " Perfect Audience advertising marketing tool brand Perfect Audience allow user target potential lost customer web Facebook Perfect Audience API allow developer access integrate functionality Perfect Audience application Some example API method include retrieve track information retrieve report manage account information"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Commission Factory",
+        "id": 9667,
+        "progweb_descr": " Commission Factory provide affiliate network management service Users sign site affiliate earn money promote Commission Factory sign merchant use Commission Factory start affiliate program Commission Factorys feature include simple intuitive interface ability integrate almost cart secure encryption reliable consistent track knowledgeable support wide array detail report Commission Factory provide API expose functionality affiliate merchant user This API operate use REST call issue either XML JSON format"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "SiteScout",
+        "id": 9700,
+        "progweb_descr": " SiteScout selfserve advertising software small brand performance marketer digital agency It provide straightforward webbased platform allow user create manage banner video mobile ad campaign real time SiteScout API use REST call allow client application interact directly SiteScout system API implement wide range feature classify Reporting Audience Management Campaign Management come soon"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "CitizenNet",
+        "id": 9980,
+        "progweb_descr": " CitizenNet online advertising campaign management service CitizenNet allow user create manage monitor online advertising social medium network online venue CitizenNet API allow developer access integrate functionality CitizenNet applications Some example API method include retrieve campaign information manage campaign retrieve campaign stats"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "SpinChimp",
+        "id": 10052,
+        "progweb_descr": " SpinChimp article spin product article marketing SpinChimp API provide developer access SpinChimp functionality HTTP POST call Developers spin article specify parameter generate unspun document document Spintax calculate word density return query stats Result format may vary depend method response always return plain text HTTP response body"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Adform",
+        "id": 10183,
+        "progweb_descr": " service provide integrated advertising functionality application across Europe Functions include serve ad image medium content along medium campaign plan traffic management medium buy campaign reporting Features include customizable dynamic advertising personalization target message user group interactive bidding obtain desirable ad display slot API method support create update advertising campaign listing report clickthrough rate performance statistic Methods also support track user medium display allow placement service personalize delivery relevant message API manage delivery ad medium select placement method"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "E-goi",
+        "id": 10274,
+        "progweb_descr": " Egoi multichannel marketing service integrate Email SMS voice fax social medium Egoi API provide developer REST SOAP XMLRPC interface automate aspect Egoiâ€™s marketing service"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "SodaHead",
+        "id": 10462,
+        "progweb_descr": " One large opinion base social community SodaHead online platform provide aggregation online news story event Additionally SodaHead provide poll platform avenue marketer reach SodaHeads young active user group SodaHead provide online community people share interest thought respond poll SodaHead REST API offer access multiple poll single poll cast vote Poll ID Answer ID support data format JSON"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Sendori",
+        "id": 10477,
+        "progweb_descr": " service provide selective rerouting URLs directly enter catch common typo URL variant route correct address desire sit It prevent diversion traffic sit analogous variant URLs protect web user malware often promote site ensure traffic intend site actually arrive URL rerouting specific advertising campaign help direct traffic intend promotional messaging increase value pay advertising API method support target advertising campaign manage traffic campaignspecific URLs Methods also support group separate ad common management API provide extensive reporting ad performance relate traffic include key metric like average position average cost per click CPC well administrative function service budget advertising expense"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Cactus Media",
+        "id": 10694,
+        "progweb_descr": " service match advertise content post site publisher topical connection likely appeal site visitor It help target appeal potential customer probable interest help provide qualified sale lead base content user choose access In way improves accuracy efficiency marketing promotion effort API method support definition promotional offer title price product type description Methods also support identification potential sale lead base content type allow match offer lead"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Wired Marketing",
+        "id": 10697,
+        "progweb_descr": " Wired Marketing UK base firm offer Email marketing support Enterprises include campaign management consultative advice analytics Wiredâ€™s Email Marketing API allow client integrate Email marketing application core software system application"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "adFreeq",
+        "id": 10962,
+        "progweb_descr": " adFreeq advertising solution provider They provide website owner publisher related industry mutually supportive network adFreeq offer adPortals connect website owner business publisher need advertise space adPortals instal give web page allow seller dynamically insert ad realtime adFreeq also provide tool template ad creation adFreeq API expose uploading functionality allow developer sync download ad bulk"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "SEOlytics",
+        "id": 11047,
+        "progweb_descr": " SEOlytics provide SEO analytic software enable manager marketer analyze visibility website daily basis identify potential SEOlytics software provide RESTful interface access ranking visibility rank backlinks AdWords data within program Excel sheet shell prompt browser environment"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "ChartBoost",
+        "id": 11221,
+        "progweb_descr": " Chartboost app promotion platform It allow developer business wellranked apps promote apps increase revenue Developers also promote next app promotion customize resemble app improve ROI entire system promotion customizable frequency interstitials appear app us location Chartboost offer API developer It expose UDID analytics functionality"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Meteor Solutions",
+        "id": 11267,
+        "progweb_descr": " Meteor Solutions online advertise delivery platform Clients use increase social engagement monetize audience Features advertiser include power user engagement deal analytics Publishers use popularity open revenue optimize space advertiser Clients also use Meteorâ€™s Tag Trace engine track content across social medium platform Meteor Solutions API expose report functionality It retrieve data clientsâ€™ campaign It RESTful API return JSON JSONPencoded data"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Sign-Up.to",
+        "id": 11462,
+        "progweb_descr": " SignUpto create marketing tool help business grow engage audience SignUpto API provide RESTful interface customer automate process include manage subscription manage email SMS campaign analyze result gauge ROI"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "YUPIQ",
+        "id": 11496,
+        "progweb_descr": " YUPIQ social medium promotion platform increase sale brand awareness reward customer share videos link special offer friend Facebook Twitter Email With YUPIQ API developer develop third party application give away custom reward API also use track earn reward reward use It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "ShopLocal",
+        "id": 11498,
+        "progweb_descr": " ShopLocal provide brand promotional management include service circular distribution geographically specific advertise ShopLocal API allow developer display advertise instore content within application Documentation available login"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Linkable Networks",
+        "id": 11539,
+        "progweb_descr": " Linkable Networks advertising solution provider Their product direct toward consumer financial institution advertiser When registered customer see Linkable Networks logo advertisement click offer store credit card Linkable Networks API expose linkedoffers functionality It use embed ad Interested developer must contact mfuscolinkablenetworkscom register access"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "MixRank",
+        "id": 12401,
+        "progweb_descr": " MixRank spy tool track usersâ€™ competitorsâ€™ advertisement It provide analytics competitor buy traffic ad perform best API provide access onsite information ad advertiser traffic source This allow developer generate custom report query MixRankâ€™s entire historical database API currently private access request permission MixRank"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Inuvo PPC Search",
+        "id": 12423,
+        "progweb_descr": " Inuvo offer solution help advertiser drive transaction via click sale lead various marketing channel Inuvo Platform give advertiser ability create manage campaign allow web publisher way monetize advertise inventory Partners use API customize implementation platform PPC API let Inuvo partnership Yahoo provide sponsor search xml feed give publisher opportunity make money site application search Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Belboon",
+        "id": 12632,
+        "progweb_descr": " Belboon Affiliate Marketing Network base Europe They offer solution multichannel online mobile performance advertising belboon APIs allow user automate affiliate network via web site application APIs offer wide range functionality include ability create price comparison product search tools dynamic product advertising material access information Publisher Account list affiliate program individual partnership program specific criterion search specific advertising APIs use SOAP protocol response format XML CSV"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "TextHub",
+        "id": 12934,
+        "progweb_descr": " TextHub offer mass text message solution allow organization send unlimited personalize text message directly optin customer TextHubs SMS marketing platform allow client sign specific group schedule send time message personalize message recipient name allow user send reply twoway communication Clients use TextHubs web interface set customized auto reply send response customer action TextHub also also provide SMS base reminder service use internally part marketing service TextHubs API allow developer integrate TextHub functionality directly exist web site application allow automated interaction marketing platform"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "LiveDesigner",
+        "id": 13211,
+        "progweb_descr": " service allow creation design logo clothe personalize promotional product It accept input design parameter output production file control automate embroidery print machinery API method support generation graphic graphic template letter design either scale vector graphic SVG format format specific embroidery machine Methods also support creation management order fulfillment file complete production item bear specify design"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "UltraCart Affiliate Management",
+        "id": 13227,
+        "progweb_descr": " UltraCart online shop cart ecommerce service provide user functionality connect site UltraCarts host platform UltraCart also offer Affiliate Management software give user mean set affiliate marketing site provide affiliate specific market content control commission manage affiliate run report individual affiliate program whole SOAPbased Affiliate Management API expose method create new affiliate within account gather data exist affiliate establish relationship different affiliate"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Trafficspaces",
+        "id": 13354,
+        "progweb_descr": " Trafficspaces advertise platform publisher sell advertise space manage advertising content platform allow advertiser create ad within Trafficspaces platform Trafficspaces API allow developer access integrate functionality Trafficspaces applications Some example API method include manage user access account information manage ad content placement"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Spotzot",
+        "id": 13421,
+        "progweb_descr": " Spotzot deal target platform brand publisher reach customer deal offer loyalty program Their campaign tool customizable offer reporting tool assess market advertising campaign work Spotzot API allow developer access integrate Spotzot deal functionality application Some example API method include search listing deal location merchant category list top promotion merchant display relevant deal base customer information Public documentation available interested developer contact Businesszotspotzotcom API Key access"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "mBLAST",
+        "id": 13706,
+        "progweb_descr": " mBLAST marketing management tool softwareasaservice include database marketing resource mBLAST help user measure influence target influencers field assist medium outreach mBLAST API use RESTful protocol return responses XML"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Adknowledge",
+        "id": 13840,
+        "progweb_descr": " Adknowledge advertise marketing service help advertiser publisher reach target audience various advertise marketing technique Some example feature include email marketing optimize target social medium outreach Adknowledge API allow developer integrate Email Adstation functionality Adknowledge application Public documentation available API access limit customer Interested developer sign httpwwwadknowledgecompublisheremailsignup"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "dotMailer",
+        "id": 13863,
+        "progweb_descr": " dotMailer email marketing software target online direct mass bulk email marketing service include email newsletter dotMailer SOAP API allow developer integrate dotMailer service CRM system marketing database website purpose API allow subscriber automate interaction might dotMailer system backend A wide range feature expose API allow developer fit service need"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Knotice",
+        "id": 13975,
+        "progweb_descr": " Knotice digital direct marketing service Their service include email marketing mobile marketing search optimization website target Knotice API allow user access Knotice functionality information Some feature Knotices API include create update offer send SMS email access user profile information well overall summary marketing campaign activity"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "CrowdTwist",
+        "id": 14074,
+        "progweb_descr": " CrowdTwist customer loyalty platform offer company organization way reward customer loyal service brand With CrowdTwist company advertise people reward people customer analyze well campaign work CrowdTwist API allow developer access information CrowdTwist Example API method include retrieve user information user point reward information identify location specific user view user activity"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Pardot Marketing Automation",
+        "id": 14136,
+        "progweb_descr": " Pardot offer website analytics market automation service Pardot integrate customer relationship databases CRM API allow developer build track solution API use REST protocol"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "AWeber Email Marketing",
+        "id": 14799,
+        "progweb_descr": " AWeber company offer many email marketing tool include API customizable tool AWebers API RESTbased API allow developer construct application display manage AWeber customer account 10 release AWeber API first version system make available customer developer currently readonly access support"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "Sklik",
+        "id": 14925,
+        "progweb_descr": " Sklik advertising system display target ad search result page Seznamcz content network Sklik API XMLRPC base API allow developer create application access marketing advertisement tool provide Sklik"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "MyAds",
+        "id": 14957,
+        "progweb_descr": " MyAds API allow user develop application create manage MyAds advertising campaign Through API user gain access campaigns account performance moreMyAds self service ad platform let user build customize ad reach new customer API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "AdGooroo",
+        "id": 15430,
+        "progweb_descr": " AdGooroo API let developer access competitive intelligence data build virtually application meet need API base popular REST architecture support data transfer format JSON XML CSV You free develop language choice include NET Perl PHP virtually common language AdGooroo provider advertising intelligence search engine marketers Its proprietary technology track search advertising activity give industry empower sophisticated agency advertiser competitor keywords ad copy campaign statistic daily alert information need generate high possible return advertising investment"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "AdSpeed",
+        "id": 15740,
+        "progweb_descr": " Use AdSpeed API access zone ad campaign report programmatically AdSpeed exist client also option Web developers access AdSpeed platform send app AdSpeed showcase AdSpeed ad management solution enter ad system AdSpeed serve ad track impression click revenues conversion show realtime stats"
+    },
+    {
+        "progweb_cat": "Advertising,Marketing",
+        "api_name": "ClickAider",
+        "id": 15763,
+        "progweb_descr": " ClickAider analysis tool help publisher maximize revenue PayPerClick advertisement ClickAider API enable create application use data ClickAider account Build custom interface data visualisation report integrate ClickAider various system"
+    },
+    {
+        "progweb_cat": "Advertising,Email",
+        "api_name": "LaunchBit",
+        "id": 1023,
+        "progweb_descr": " LaunchBit email advertising service Users create email ad campaign send target audience LaunchBit API allow developer access integrate functionality LaunchBit applications Some example API method include access ad information retrieve adzones retrieve code status"
+    },
+    {
+        "progweb_cat": "Advertising,Email",
+        "api_name": "iPost",
+        "id": 9384,
+        "progweb_descr": " iPost provide digital marketing service document management system secure email business iPost API allow system import export control iPost iMM ondemand connect digital marketing platform XMLRPC API secure HTTPS encryption"
+    },
+    {
+        "progweb_cat": "Advertising,Email",
+        "api_name": "HaleyMail",
+        "id": 10760,
+        "progweb_descr": " HaleyMarketings HaleyMail service provide email print web marketing easy use platform HaileyMail function virtual sale rep company HaleyMarketing provide content newsletter eCards promotional email article write trained staff HaleyMail send material behalf manage track result Available various package contact HaleyMarketing estimate see package fit companys need HaleyMail API allow extract data input data HaleyMail platform If youre plan develop need contact HaleyMarketing client API Key API utilize REST protocol JSON response data format"
+    },
+    {
+        "progweb_cat": "Advertising,Email",
+        "api_name": "LiveIntent",
+        "id": 11266,
+        "progweb_descr": " LiveIntent email marketing platform It offer network programmatic display advertising Publishers use sell advertising space newsletter advertiser may use deliver relevant ad relevant newsletter LiveIntent API expose platformâ€™s report functionality This allow developer business see insightful data advertisement partner"
+    },
+    {
+        "progweb_cat": "Advertising,Email",
+        "api_name": "AdStack",
+        "id": 12038,
+        "progweb_descr": " AdStack realtime advertising platform optimize change advertise within email marketing campaign depend audience AdStack API allow developer access integrate functionality AdStack application Public documentation available interested developer sign httpadstackcomsignup"
+    },
+    {
+        "progweb_cat": "Advertising,Email",
+        "api_name": "eCoComa Marketing",
+        "id": 12457,
+        "progweb_descr": " eCoComa Marketing API provide user access method search engine marketing search engine optimization pay per click advertising banner advertising email marketing affiliate marketing interactive advertising email advertising This API accessible via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "Advertising,Email",
+        "api_name": "Informz",
+        "id": 12932,
+        "progweb_descr": " Informz offer email marketing solution SaaS platform They offer range service include customizable HTML templates form AB test social sharing tool email target realtime reporting Informz API enable developer set twoway AMS CRM database integration Informz email marketing platform After integrate service client take advantage automate data retrieval method automatic synchronization robust data gathering manipulation technique"
+    },
+    {
+        "progweb_cat": "Advertising,Jobs",
+        "api_name": "SimplyHired Jobs",
+        "id": 1097,
+        "progweb_descr": " SimplyHired online recruit solution serve 30 million people thousand employer across 24 country site offer extensive job search tool searchable job title location well allow additional filter refine search SImplyHired Job API allow developer web publisher create custom job search tool widget mashups use database 5 million job Select partner utilize API join affiliate program monetize thirdparty site"
+    },
+    {
+        "progweb_cat": "Advertising,Semantics",
+        "api_name": "Semantic Contextual Advertising",
+        "id": 1299,
+        "progweb_descr": " Semantic Engines Contextual Advertising API identify best match advertising category Web page API deploy compute cloud integrated client taxonomy ad category Semantic Engines LLC develop product field information search retrieval text mining semantic analysis sentiment analysis contextual advertising API give business affordable highquality contextual ad matching option use application Contextual Advertising API feature include analyze content page fly match relevant advertising category extraction key concept page document It use RESTful SOAP protocols Detailed API documentation available upon request"
+    },
+    {
+        "progweb_cat": "Advertising,Semantics",
+        "api_name": "ThinkGlue Semantic Video Analysis",
+        "id": 7650,
+        "progweb_descr": " ThinkGlue specialize semantic multimedia service utilizes text recognition recommend ad within video use realtime ad bidding provide service ThinkGlue Semantic Video Analysis API let automatically extract content video tag Video SEO envelope IAB Tagsadvertising video sentiment recognize entity An account required service API use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Advertising,Semantics",
+        "api_name": "Sociocast Prediction",
+        "id": 10006,
+        "progweb_descr": " service provide track application traffic analytics segment visitor market It aim help target advertising message strategy audiences user base prediction preference behavior Proprietary analytical algorithm â€œBig Dataâ€ process reference provider data repository compare event user pattern describe user characteristic predict effectiveness messaging API method support definition entity track log application event associated entity Methods support detection assignment attribute define entity development audience profile Methods also support assignment correspond content profile enable match user message"
+    },
+    {
+        "progweb_cat": "Advertising,Semantics",
+        "api_name": "Peer39",
+        "id": 12264,
+        "progweb_descr": " Peer39 help partner improve relevance online display advertising provide data base content structure web page Peer39 analyze page across three channel Quality Safety Category enable buyer use data make decision align page environment brand definied advertiser Peer39 offer SOAP base API let developer integrate service application Public documentation available"
+    },
+    {
+        "progweb_cat": "Advertising,Data",
+        "api_name": "Improvado",
+        "id": 1541,
+        "progweb_descr": " Improvado API allow developer access integrate functionality Improvado application Public documentation available API access come account service Improvado provide data visualization tool advertising data"
+    },
+    {
+        "progweb_cat": "Advertising,Data",
+        "api_name": "AdYapper",
+        "id": 8958,
+        "progweb_descr": " AdYapper mobile display advertising platform AdYapper track advertising display mobiles generate data user view user sentiment verification AdYapper API allow developer access integrate functionality AdYapper applications Public documentation available interested developer email contactadyappercom information AdYapper API"
+    },
+    {
+        "progweb_cat": "Advertising,Data",
+        "api_name": "SpotRight",
+        "id": 11437,
+        "progweb_descr": " SpotRight provide marketer social data actionable influence support multichannel marketing SpotRight provide RESTful interface developer look interact directly SpotRight function"
+    },
+    {
+        "progweb_cat": "Advertising,Content",
+        "api_name": "Revcontent",
+        "id": 2108,
+        "progweb_descr": " Revcontent REST API allow developer access integrate functionality Revcontent application Public documentation available API access come account service Revcontent native advertising platform provide content recommendation digital advertising"
+    },
+    {
+        "progweb_cat": "Advertising,Content",
+        "api_name": "Sonic Notify",
+        "id": 9919,
+        "progweb_descr": " Sonic Notify audience customer engagement platform Sonic Notify offer product let brand company reach audience home monetize ad content Sonic Notify API allow developer access integrate functionality Sonic Notify application Public documentation available interested developer email infosonicnotifycom information"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "AdStage Universal Data",
+        "id": 2408,
+        "progweb_descr": " Using single uniform feed AdStage Universal Data API provide developer tool import cross channel ad performance data BI system Marketing Automation system CRM AdStage crosschannel online advertising platform allow user create manage advertising campaign service offer crossnetwork ad tool flexible platform An account required service"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "iAd Workbench",
+        "id": 6376,
+        "progweb_descr": " Apples iAd Workbench API provide Advertisers access Workbench server manage account campaign API include method create campaign manage campaigns access campaign analytics A many function available iAd Workbench update campaign receive list product apps promote summary metric campaign iAd Workbench available iAd Workbench account user Admin access use Client Side SSL certificate authenticate user Access Token provide authorization API API support JSONRPC payload HTTP POST"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "AdRout",
+        "id": 6478,
+        "progweb_descr": " AdRout provide traffic quality score attribution metric advertiser ad network These metric allow optimize online marketing budget boost ROI improve ad campaign performance AdRout API allow user retrieve continuous report advertising campaign AdRout"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "AdStage Platform",
+        "id": 7859,
+        "progweb_descr": " AdStage crosschannel online advertise platform allow user create manage advertising campaign service offer crossnetwork ad tool flexible platform user focus campaign incorporate powerful resource Report Automate Create Manage AdStage Platform API user integrate new exist complementary apps AdStage Platform directly Google AdWords Facebook SnapChat DoubleClick Salesforce An account required service"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "RadiumOne",
+        "id": 8583,
+        "progweb_descr": " RadiumOne enterprise advertising platform RadiumOne offer platform advertiser publisher developer engage customer user web application RadiumOne API allow developer access integrate functionality RadiumOne platforms application Public documentation available interested developer contact RadiumOne httpradiumonecomcontactmobileteamhtml"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "Quantcast Measurement",
+        "id": 8631,
+        "progweb_descr": " Quantcast digital advertising company focus direct audience measurement realtime advertising Quantcast Measurement API provide customer programmatic access Quantcast audience traffic data REST API access data traffic network site subdomain well audience segment demographic"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "Oktopost",
+        "id": 8710,
+        "progweb_descr": " Oktopost social medium platform design specifically need B2B marketer allow large scale social medium distribution establish actual ROI social campaign API allow programmatic access powerful Oktopost feature This include make call list campaign get update create delete campaign get conversion list get create update delete message service use REST call require SSL authentication Please view Google doc complete documentation"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "Response Tap",
+        "id": 8827,
+        "progweb_descr": " Response Tap online SEO analytics company utilize proprietary software track user client website call company This approach design help track effectiveness marketing change Response Tap API use REST call return XML JSON allow user integrate number provision call feature report analytics thirdparty application"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "Simpli.fi",
+        "id": 9791,
+        "progweb_descr": " Simplifi realtime advertising platform help advertiser make use unstructured data Simplifi target predefined audience us unstructured data build custom audience refine time This give advertiser accurate picture customer allow target customer accurately Simplifi also allow advertiser monitor campaign performance indepth figure ROI specific advertising investment RESTful Simplifi API allow platform feature report function integrate application"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "MarketRuler",
+        "id": 11292,
+        "progweb_descr": " ConversionRuler online advertising campaign track report service It use track payperclick campaign email campaign banner advertising affiliatepartner link type online traffic ConversionRuler also extract keywords automatically see people reach site MarketRuler APIs include XMLRPC API JavaScriptbased Action API XMLRPC API provide programmatic method gather site report information well report creation statuschecking download Action API determine user identification ConversionRuler notify server outside user web session particular action take place This API useful commerce application perform transaction processing site"
+    },
+    {
+        "progweb_cat": "Advertising,Analytics",
+        "api_name": "Adigami Web Analytics",
+        "id": 14156,
+        "progweb_descr": " Adigami offer digital medium analytics monitor aggregation tool let user view data single dashboard REST API design jumpstart developer need access major web advertising analytics data Support include Google AdWords Analytics Microsoft adCenter Bing Yahoo search ad Facebook Ads Facebook Social Graph API Twitter DoubleClick display search result ReportCentral Yahoo APT display ad SendGrid MailChimp Verve Wireless It give user dozen standard call applicable across many platform Responses format JSON"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Hotmob",
+        "id": 2588,
+        "progweb_descr": " Hotmob advertising platform base Hong Kong delivers mobile portal innovative interaction Hotmob provide service advertiser app publisher advertisement design plan implementation serve track report Hotmobs proprietary adserving infrastructure Mobile Advertising Marketplace MAM offer multiplatform management measurement tool affiliate"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Go2mobi Programmatic Advertising",
+        "id": 2648,
+        "progweb_descr": " Go2mobi mobile programmatic advertising platform allow advertiser hypertarget ad banner video rich medium native JSTags VASTVPAID ad tag get display 100000 mobile apps mobile websites Go2mobis Ads API allow developer automate every aspect set report optimize ad campaign Go2mobis API allow target ad CityLatLong Phone Model Wireless Carrier Advertising DeviceID Lists Single Publishers Time DayWeek API also offer granular report programmatic bid change report industry allow developer automate even advanced campaign include building optimization algorithm Available REST API Ruby Javascript SDKs"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "mNectar Affiliate Data Reporting",
+        "id": 3605,
+        "progweb_descr": " Affiliate Data Reporting API use request performance information advertiser daily summary form JSON use data exchange API Keys authentication mNectar application stream firm base San Francisco focus mobile application distribution advertising mNectar platform allow user sample game application without download via stream technology"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "mNectar Publisher Data Reporting",
+        "id": 3606,
+        "progweb_descr": " Publisher Data Reporting API use request performance data publisher hourly daily summary form JSON use data exchange API Keys authentication mNectar application stream firm base San Francisco focus mobile application distribution advertising mNectar platform allow user sample game application without download via stream technology"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "PubNative",
+        "id": 4345,
+        "progweb_descr": " PubNative APIbased mobile publisher platform focus native advertising PubNative API allow developer request multiple building block order integrate native advertising application API design work serverside clientside application PubNative service allow developer integrate define fully customized native ad mobile application mobile website"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "AT&T Advertising",
+        "id": 6546,
+        "progweb_descr": " ATT Advertising API give web mobile application ability programmatically retrieve insert advertisement collect revenue share base user engagement Developers use Get Ads API parameter fetch advertisement place within application When present screen user forward link whenever ad click To increase conversion rate developer specify apps user demographic age area code city gender country etc API also use specify ad banner size placement ad type image text ad source inventory support Millenial Media Jumptap Mojiva advertising distributor order deliver balance ad portfolio"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Vectramind",
+        "id": 7666,
+        "progweb_descr": " Vectramind mobile marketing advertising service provide mobile CRM twoway SMS mobile ticket QR cod Users send SMS MMS USSD programmatically via API allow integrate ability send bulk marketing message application system use SOAP REST SMPP call"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Adtile",
+        "id": 8170,
+        "progweb_descr": " Adtile mobile advertising platform Adtile integrate advertise within mobile application build ad user experience Adtile API allow developer access integrate functionality Adtile application Public documentation available API access come account service publisher"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Smart AdServer",
+        "id": 8602,
+        "progweb_descr": " Smart AdServer allinclusive ad server allow user program rich medium video campaign deliver ad mobile site application Smart AdServer allow user gather data audience improve ad target It also monitor metric fill rate average CPM cost per thousand view sale real time Smart AdServer provide customer aroundtheclock support Users integrate Smart AdServer via SOAP API Smart AdServer website available English variety language API documentation primarily French"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Fosbury",
+        "id": 8901,
+        "progweb_descr": " Fosbury mobile coupon management service enable user design manage distribute coupon campaigns Fosbury API allow user create distribute pass mobile wallet potential customer service use REST call Fosbury provide sample SDKs RUBY Python PHP An account required service API key SSL use authentication"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Amobee",
+        "id": 8956,
+        "progweb_descr": " Amobee mobile advertising platform Amobee offer various mobile advertising solution mobile application publisher mobile operator advertiser Amobee API allow developer access integrate functionality Amobee application Public documentation available API access come account service mobile application publisher"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "TapCommerce",
+        "id": 9479,
+        "progweb_descr": " TapCommerce mobile tablet retargeting service TapCommerce allow brand company reach customer potential customer mobile phone tablet TapCommerce API allow developer access integrate functionality TapCommerce application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Mojiva",
+        "id": 10040,
+        "progweb_descr": " Mojiva develop mobile advertising campaign monetization strategy agency brand advertiser publisher worldwide It also allow developer adenable mobile application game SMS message WAP sit use REST JavaScript APIs deliver ad Mojiva server network Mojiva also provide REST APIs monitor result ad campaigns information statistic"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Celtra AdCreator",
+        "id": 10296,
+        "progweb_descr": " Celtra AdCreator mobile application advertising service Celtra AdCreator allow user create interactive advertising mobile device platform Celtra AdCreator API allow developer access integrate functionality Celtra AdCreator application Public documentation available API access come AdCreator account"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "MobPartner",
+        "id": 10308,
+        "progweb_descr": " MobPartner mobile affiliate marketing platform aim provide riskfree performancebased marketing campaign advertiser marketer publisher MobPartner API integrate use S2S HTTP Rest API return XML JSON XHTML XML feed service offer 247 realtime statistic 100 fill rate dedicate service support"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Aarki",
+        "id": 10354,
+        "progweb_descr": " Aarki mobile application game advertising monetization platform publisher advertiser developer Aarki API allow developer access integrate reporting functionality Aarki application fee report data metric advertise monetization Public documentation available interested developer sign information httpsportalaarkicomsignup"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Smadex",
+        "id": 10600,
+        "progweb_descr": " Smadex mobile advertising service Smadex offer advertiser publisher feature integrate advertising mobile application content Smadex API allow developer access integrate functionality Smadex applications Some example API method include integrate ad content retrieve ad information manage account information"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Hunt Mobile Ads Ad Request",
+        "id": 10987,
+        "progweb_descr": " Hunt mobile advertising network target Spanish speaking market throughout Latin America United States Hunt Mobile Ads Ad Request API provide RESTful interface allow customer automate ad request"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Tapit!",
+        "id": 11265,
+        "progweb_descr": " Tapit mobile advertising platform It offer solution feature advertiser well publisherdevelopers advertiser Tapit offer suite scalable strategic delivery option publisher developer Tapit provide network advertiser streamline delivery ad delivery solution Tapit API expose report functionality It return analytical information advertiser publisher statistic It RESTful API return JSONencoded data"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "madvertise",
+        "id": 11404,
+        "progweb_descr": " madvertise mobile advertising platform service Europe madvertise offer publisher developer advertise integration service application content offer advertiser place ad mobile application madvertise API allow developer access integrate functionality madvertise application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Chitika",
+        "id": 11518,
+        "progweb_descr": " Chitika user target ad network It provide service developer enhance revenue capacity websites application Chitika API REST base return JSON It allow user add Chitika map websites include ad pin add phone number ad generate revenue base per call basis per click basis An API key require use"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "MobFox",
+        "id": 11759,
+        "progweb_descr": " MobFox independent mobile advertising service It provide service publisher advertiser Through network MobFox find targeted outlet businessesâ€™ market campaign Businessesâ€™ advertisement integrate numerous application website MobFox API expose report data retrieval remote account management function It RESTful API return XMLformatted data"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "JumpTap",
+        "id": 11830,
+        "progweb_descr": " Jumptap lead target mobile advertising agency They help advertiser find engage customer mobile device help publisher use target display relevant ad sit Jumptap API let user request retrieve display ad Jumptap ad network API use RESTful call response format XHTML"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "SponsorPay",
+        "id": 11872,
+        "progweb_descr": " SponsorPay platform allow game publisher game developer get pay application advertise SponsorPay API allow application publisher developer access integrate functionality SponsorPay application create new application Public documentation available API access documentation come account service"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Nexage",
+        "id": 12124,
+        "progweb_descr": " Nexage mobile advertising platform user buy sell advertising mobile application Nexage provide service publisher advertiser Nexage API allow developer access integrate functionality Nexage application Public documentation available interested developer inquire httpwwwnexagecomcontactus"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Mocean Mobile",
+        "id": 12222,
+        "progweb_descr": " Mocean Mobile advertising service mobile device It offer publisher mobile ad network app store platform maximize mobile revenue platform use manage mobile ad campaign receive realtime report analytics support rich medium advertisement Mocean Mobile offer REST API allow developer retrieve report data programmatically"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Viocorp",
+        "id": 12265,
+        "progweb_descr": " Viocorp lead online video broadcaster Australia One main product Vioad online mobile video advertising engine Vioad include functionality ad target inventory management campaign manager sale manager ad server well metric report ad server API expose functionality make ad decision Public documentation available"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Pontiflex",
+        "id": 12651,
+        "progweb_descr": " Pontiflex digital content advertising platform Pontiflex offer advertiser service place ad digital application let publisher run ad make money Pontiflex API allow developer access integrate functionality data Pontiflex application Public documentation available API access come account sign"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "TagLabs ActiveTag",
+        "id": 12896,
+        "progweb_descr": " TagLabs create ActiveTag platform allow client integrate QR code mobile advertise marketing effort ActiveTag allow user generate QR code tie action content enable incentive promotion engage user pushoriented interaction Currently high Enterprise plan give access ActiveTag API associate analytics software In ActiveTag platform tag represent asset interest physical product website marketing campaign purpose ActiveTag platform connect asset customer use QR code allow user share asset easily others ActiveTag API design enhance ability integrate ActiveTag platform exist system expose method manage tags collection tag well create QR code"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "InMobi",
+        "id": 12897,
+        "progweb_descr": " InMobi world large independent mobile advertising network Publishers use network monetize inventory advertiser use reach audience InMobi API allow developer insert ad J2ME PSP platform With API user manage multiple platform API also use integrate mobile websites iOS Android apps mobile application It use HTTP call response format XML"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "inneractive",
+        "id": 12898,
+        "progweb_descr": " Inneractive mobile ad mediation provider 100 ad network local agency available click button Inneractive help developer monetize apps give tool let serve targeted ad user company offer SDKs Android J2ME Symbian Qt platforms developer use HTTP base API gain access multiple ad network Documentation API publicly available"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Vserv",
+        "id": 12987,
+        "progweb_descr": " Vservmobi lead mobile advertising network offer Mobile App Mobile Web advertise mobile developer publisher advertiser Vserv provide HTTP base API application developer fetch ad render within mobile application property like wap page Response format either image text"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "MdotM",
+        "id": 13259,
+        "progweb_descr": " MdotM mobile ad network provide application promotion monetization service advertising API let users access platform functionality track conversion event retrieve account history campaign performance data audience statistic update campaign parameter bid target cap API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Moolah Media",
+        "id": 13322,
+        "progweb_descr": " Moolah Media provide developer tool integrate mobile advertising mobile website application Moolahs advertisement track user interaction gather data interaction advertisement inbound call form submits interactive SMS message Moolahs advertising platform also provide service analytics intelligent ad serve lead generation addition SMS version mobile web advertising service Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "xAd",
+        "id": 13579,
+        "progweb_descr": " xAd mobile advertising service specialize locationaware ad Advertisers use xAd push ad local customer publisher integrate xAd ad application service xAd API allow developer integrate xAd functionality data web mobile application Public documentation available API access come publisher account"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Admob",
+        "id": 14956,
+        "progweb_descr": " AdMob API allow access campaign sit application data AdMob account secure programmatic interface You build custom application use AdMob API help well manage mobile business"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "Medialets Medialytics",
+        "id": 15070,
+        "progweb_descr": " Medialytics Application Management API allow programmatic bulk registration iPhone Blackberry Android apps Medialets Medialytics platform Medialets creative ad network analytics provider native mobile application primarily focus Apple iPhone Medialytics tool enables gain deep insight user interact apps Public documentation API available site"
+    },
+    {
+        "progweb_cat": "Advertising,Mobile",
+        "api_name": "GetMobile",
+        "id": 15790,
+        "progweb_descr": " Use Simple Ad GetMobile API build apps mobile ad network call GetMobile Network Sign obtain docs Monetization opportunity available"
+    },
+    {
+        "progweb_cat": "Advertising,Media",
+        "api_name": "The Trade Desk RTB",
+        "id": 2649,
+        "progweb_descr": " Trade Desks Enterprise APIs allow demandside partner construct realtime bidder buy programmatic advertising inventory 40 supply source across display mobile video audio connect TV information architecture format authentication visit httpwwwthetradedeskcomcontactus"
+    },
+    {
+        "progweb_cat": "Advertising,Media",
+        "api_name": "spotXchange",
+        "id": 8194,
+        "progweb_descr": " SpotXchange video advertise exchange ad buyer bid video ad inventory site service 400 million action per day spotXchange API allow user access report user account data include revenue report traffic report advertiser level report referrer level report API use REST call OData service structure An account required service"
+    },
+    {
+        "progweb_cat": "Advertising,Media",
+        "api_name": "MyAdMarket",
+        "id": 12262,
+        "progweb_descr": " MyAdMarket ad serve platform allow advertiser publisher trade online medium network MyAdMarket API allow user connect multiple platform together With API user connect platform exist CRMs application track tool bill system Developers contact provider information API"
+    },
+    {
+        "progweb_cat": "Advertising,Media",
+        "api_name": "MediaEquals",
+        "id": 13974,
+        "progweb_descr": " MediaEquals service buy sell trade advertise medium various platform include online medium MediaEquals represent medium owner advertise agency medium sell buying need MediaEquals API allow developer integrate MediaEquals functionality application Some feature API allow user import export medium plan book information access report monitor information remotely access MediaEquals account"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "Adform Inventory",
+        "id": 2700,
+        "progweb_descr": " Adform Orders API integrate inventory marketing application provide logos deal creative classifier available method Developers send HTTP request receive JSON response follow authenticate basic username password"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "Adform Orders",
+        "id": 2701,
+        "progweb_descr": " Adform Orders API integrate buyer order web service Developers include name start date end date budget campaign ID active status JSON format available perform HTTP request"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "Adform Campaigns",
+        "id": 2706,
+        "progweb_descr": " Adform Campaigns API integrate campaign JSON format HTTP request Budget duration viewability impression duration evaluate implementation interface"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "AdRoll",
+        "id": 4132,
+        "progweb_descr": " AdRoll advertising service offer crossplatform crossdevice ad placement AdRolls API give user access AdRoll data campaign ad advertiser Functionality also include tool organization invoice marketing data acquisition"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "DCM DFA Google Reporting and Trafficking",
+        "id": 4945,
+        "progweb_descr": " Google recently release DoubleClick CampaignDouble Click Advertisers Reporting Trafficking API aim manage create campaign report Accessed via JSON token get start guide offer instruction go Google Developers Console create new project select APIs choose credential Sample code NET Java JavaScript ObjectiveC PHP Python available familiarize API"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "DoubleClick Ad Exchange Buyer",
+        "id": 6264,
+        "progweb_descr": " DoubleClick Ad Exchange Buyer API allow developer access realtime bidding account information find available direct deal retrieve pretargeting configuration retrieve performance report submit creatives verification check status submit creatives DoubleClick Ad Exchange service allow user set manage ad campaign well bid inventory real time use RealTime Bidding RTB Protocol"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "Yahoo Gemini",
+        "id": 7067,
+        "progweb_descr": " Yahoo Gemini API bring native ad mobile search together allow advertiser manage campaign efficiently Working set RESTful object developer able automate campaign management target campaigns factor like location interest receive report measure effectiveness campaign After receipt API Key developer use example PHP code get start"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "Bing Ads",
+        "id": 7351,
+        "progweb_descr": " Bing Ads API make multiple web service together allow developer manage advertising campaign host Bing Using API developer create new advertising campaign manageedit exist campaign API also supply detailed report statistic developer understand ad perform"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "iSocket",
+        "id": 7736,
+        "progweb_descr": " iSocket platform ad buying sell iSocket offer automate advertise buy selling feature publisher advertiser iSocket API allow developer access integrate functionality iSocket application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "Way2traffic",
+        "id": 8945,
+        "progweb_descr": " Way2traffic platform tool manage online ad campaign create private ad network system allow advertiser control ad placement websites give publisher tool manage ad space Way2traffic offer customer access Way2traffice API Documentation available request"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "Ad Server Solutions",
+        "id": 10227,
+        "progweb_descr": " Ad Server Solutions provide ad serve solution publisher advertiser agency network An integrated platform ad campaign management advance ad serve manage platform allow user plan buy optimize analyze ad campaign one place Ad Server Solutions API expose via set RESTful APIs Documentation available customer"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "Google DoubleClick Ad Exchange Seller",
+        "id": 10768,
+        "progweb_descr": " Googles Ad Exchange support diverse ad buyer business model provide multiple way access buy impression Users set manage campaign automate action bid inventory real time automate real time bid Ad Exchange Seller REST API allow developer get report Ad Exchange earnings manage Ad Exchange inventory With API user retrieve exist ad client ad unit URL channel custom channel obtain report account performance API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "Epom",
+        "id": 11653,
+        "progweb_descr": " Epom provide creative solution publisher advertiser network namely integrated platform digital adcampaign management advance ad serve manage platform allow user plan buy optimize analyze ad campaign one place Epom API enable user retrieve campaign analytics data programmatically use REST call variety data format"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "Sapo Advertising",
+        "id": 12323,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide Advertising API allow user manage campaign Sapo Adverts without access platform API provide method create manage campaign well view report API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Advertising,Campaigns",
+        "api_name": "DoubleClick",
+        "id": 14818,
+        "progweb_descr": " DoubleClick large advertising network specialize online display ad company subsidiary Google provide API customer manage account DoubleClicks API SOAPbased provide helper library developer need interact directly service use XML There currently 19 separate WSDLs describing service command available include procedure log user organize advertising campaign"
+    },
+    {
+        "progweb_cat": "Advertising,Automation",
+        "api_name": "Sharethrough",
+        "id": 3043,
+        "progweb_descr": " Sharethrough advertising firm base San Francisco Sharethrough platform offer monetization management engagement analytics ondemand native advertisement supply Sharethrough Exchange Native advertising yield twice visual focus consumer attention nonnative counterpart Developers need register access API documentation"
+    },
+    {
+        "progweb_cat": "Advertising,Dashboards",
+        "api_name": "Perfect Audience Reporting",
+        "id": 3176,
+        "progweb_descr": " Perfect Audience Reporting API integrate performance data extraction social medium campaign It available JSON architecture Reporting service include campaign ad conversion segment size report"
+    },
+    {
+        "progweb_cat": "Advertising,German",
+        "api_name": "Roq.ad Cross-Device User Identification",
+        "id": 3599,
+        "progweb_descr": " Roqad CrossDevice User Identification API let user submit list device identifier get back list identifier belong user input list Roqads technology match device people people households This service comply Germanys consumer privacy law"
+    },
+    {
+        "progweb_cat": "Advertising,Games",
+        "api_name": "Wagawin",
+        "id": 3757,
+        "progweb_descr": " Wagawin German software development firm offer advertisement platform dedicate mobile application publisher Wagawin offer video advertisement interactive display advertisement audience optimization advertiser offer targetaudience analysis use form anonymous audience Registration need access API documentation"
+    },
+    {
+        "progweb_cat": "Advertising,Games",
+        "api_name": "MediaSpike",
+        "id": 10306,
+        "progweb_descr": " Using MediaSpike brand place relevant target ad social mobile game MediaSpike native monetization platform build game development team understands ingame advertise work MediaSpike JavaScript API provide lightweight interface MediaSpikes product placement service give application API fetch information active ad unit access displayed"
+    },
+    {
+        "progweb_cat": "Advertising,Games",
+        "api_name": "Tap.Me",
+        "id": 13232,
+        "progweb_descr": " Tap Me service introduces advertise game use gameification Players allow choose sponsor grant benefit game play offer reward real world TapMe contain custom ingame metric API With user track many time gameplay element many time gamers jump die use certain item Currently API close beta"
+    },
+    {
+        "progweb_cat": "Advertising,Applications",
+        "api_name": "VIDCOIN",
+        "id": 4382,
+        "progweb_descr": " VIDCOIN API video advertising platform mobile application It use monetize application game implement inapp content It feature direct response land clear interface publisher offer specialized video format smart video preloading global coverage US Europe LATAM VIDCOIN API employ direct response tool purpose acquire qualify lead This API require registration access developer resource"
+    },
+    {
+        "progweb_cat": "Advertising,Applications",
+        "api_name": "Drawbridge",
+        "id": 12217,
+        "progweb_descr": " Drawbridge service advertiser publisher mobile application advertising Advertisers target audience different ad different application publisher monetize application content Drawbridge Reports API allow developer access integrate functionality data Drawbridge application Some example API method include run report campaign statistic manage account information edit create report"
+    },
+    {
+        "progweb_cat": "Advertising,Applications",
+        "api_name": "Adfonic",
+        "id": 12767,
+        "progweb_descr": " Adfonic advertising marketplace mobile advertising Adfonics service allow mobile application developer publisher generate revenue advertising application Adfonic API allow developer access integrate functionality Adfonic application Some example API method include manage ad access user data information managing template"
+    },
+    {
+        "progweb_cat": "Advertising,Business",
+        "api_name": "Native Ads Advertiser",
+        "id": 4403,
+        "progweb_descr": " Native Ads API design help developer manage web advertisement campaign This APIs functionality offer modification tool create edit pull stats ad content It also offer host web widget ad format customize ad intent improve user experience"
+    },
+    {
+        "progweb_cat": "Advertising,Compliance",
+        "api_name": "Facebook Text Ratio",
+        "id": 4486,
+        "progweb_descr": " Facebook Text Ratio API allow developer determine text ratio image It intend determine whether give image conforms Facebooks text policy state ad sponsor story Facebooks news feed may include image comprise 20 text"
+    },
+    {
+        "progweb_cat": "Advertising,Accounts",
+        "api_name": "Twitter Ads",
+        "id": 4493,
+        "progweb_descr": " Twitter Ads API provide developer programmatic access advertising account With Advertising API partner able integrate solution promote Tweets Twitter account schedule campaign retrieve analytics manage audience much Twitter Developer Services provide three level Twitter Ads API access support partner development need developer basic standard level sequential partner permit skip stage"
+    },
+    {
+        "progweb_cat": "Advertising,Monetization",
+        "api_name": "Admitad",
+        "id": 4864,
+        "progweb_descr": " Admitad API available English Russian languages allow implementation affiliate marketing feature It useful analyze statistic publish Admitad app store Protocols JSON available Api Key Amitad affiliate marketing platform 700 advertiser 250K publisher"
+    },
+    {
+        "progweb_cat": "Advertising,Monetization",
+        "api_name": "PaeDae",
+        "id": 8424,
+        "progweb_descr": " PaeDae advertising solution turn ad application engage reward experience application user Advertisers use PaeDae place ad application developer use integrate ad application monetization user engagement PaeDae API allow developer access integrate functionality PaeDae application Public documentation available interested developer sign httppaedaecomdevelopers"
+    },
+    {
+        "progweb_cat": "Advertising,Monetization",
+        "api_name": "Burstly",
+        "id": 14152,
+        "progweb_descr": " Burstly monetization platform application developer It allow developer integrate ad application profit Burstly Download Tracking API allow developer track downloads application well ad conversion within application"
+    },
+    {
+        "progweb_cat": "Advertising,Monetization",
+        "api_name": "Miva",
+        "id": 14737,
+        "progweb_descr": " Miva offer user simple API XML fee access CPCmonetized text ad thousand advertiser network MIVA costperclick network part Adknowledge large independent ad network world company serve 150 million click per month It display text ad global distribution site include second tier search content publisher email domain connect advertiser potential customer site contain documentation API"
+    },
+    {
+        "progweb_cat": "Advertising,Contacts",
+        "api_name": "Google Partners",
+        "id": 5493,
+        "progweb_descr": " Google Partners API REST RPC API THe Google Partners API give developer tool help advertiser ability search certify company It also allow creation contact lead company This API also helpful audit monitor usage client"
+    },
+    {
+        "progweb_cat": "Advertising,Engagement",
+        "api_name": "Sticky",
+        "id": 5636,
+        "progweb_descr": " Sticky REST API allow developer access integrate functionality Sticky application Public documentation available API access come account service Sticky platform allow brand company measure visual engagement online content"
+    },
+    {
+        "progweb_cat": "Advertising,Publishing",
+        "api_name": "PubMatic Unified",
+        "id": 6225,
+        "progweb_descr": " PubMatic API monetize control distribute customize analyze configure publishing service web mobile application This API advertisement publishing effort Registration necessary work API Once user access obtain software read documentation interact community member"
+    },
+    {
+        "progweb_cat": "Advertising,Publishing",
+        "api_name": "AirPush",
+        "id": 7852,
+        "progweb_descr": " AirPush mobile advertising network AirPush offer variety feature tool advertiser mobile application publisher developer AirPush API allow developer access integrate functionality AirPush application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Advertising,Publishing",
+        "api_name": "Vungle",
+        "id": 8825,
+        "progweb_descr": " Vungle video advertising service mobile phone Vungle provide solution publisher integrate ad content application advertiser get ad application Vungle API allow developer access integrate functionality Vungle application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Advertising,Algorithms",
+        "api_name": "Merchenta RTB",
+        "id": 6334,
+        "progweb_descr": " Merchenta RTB API integration platform focus exchange trade medium campaign strategy API provide developer way setup display advertising campaign via programmatic interface Some feature include infrastructure support ad serve bidding algorithm content delivery integrate third party data geotargeting source ad inventory Provided resource include API documentation howtos code sample sample datasets assist integration"
+    },
+    {
+        "progweb_cat": "Advertising,Enterprise",
+        "api_name": "IAB OpenDirect",
+        "id": 6362,
+        "progweb_descr": " OpenDirect API support Interactive Advertising Bureau use streamline purchasing sell digital ad space API allow publisher programmatically track package pricing delivery reservation allow buyer reserve publish content various web medium API compile collaboration tech analyst AOL Yahoo Microsoft company API RESTful support JSON request handle user authentication OAuth"
+    },
+    {
+        "progweb_cat": "Advertising,Enterprise",
+        "api_name": "Adbeat",
+        "id": 8020,
+        "progweb_descr": " Adbeat service furnishes user useful information people ad campaign It find top display ad 50000 publisher find sitespecific ad copy uncover advertiser online strategy capture insight report Adbeat API enable developer access information use application service via REST call"
+    },
+    {
+        "progweb_cat": "Advertising,Machine Learning",
+        "api_name": "Decisive",
+        "id": 6779,
+        "progweb_descr": " Decisive New York base SaaS company empower app developer platform create manage analyze large scale app advertising campaign across multiple network Decisive Developer API implement access 10 billion daily impression API also integrate common tracking platform Decisive deploy machine learn algorithms optimize campaign success Currently public documentation Decisive Developer API available interested party submit email apply access Decisive Developer program"
+    },
+    {
+        "progweb_cat": "Advertising,Sales",
+        "api_name": "NextMark",
+        "id": 7673,
+        "progweb_descr": " NextMark marketing management company provide medium plan medium operation medium sale service user across country NextMark API design allow user integrate thirdparty system medium plan platform provide NextMark An account required service API use REST call return XML"
+    },
+    {
+        "progweb_cat": "Advertising,Sales",
+        "api_name": "LinkTrackr",
+        "id": 11206,
+        "progweb_descr": " LinkTrackr link track service LinkTrackr offer feature allow user track link online advertising effort see sale conversion effectiveness affiliate link LinkTrackr API allow developer access integrate functionality LinkTrackr applications Some example API method include retrieve link access user information get metadata link"
+    },
+    {
+        "progweb_cat": "Advertising,Messaging",
+        "api_name": "Digiadverts",
+        "id": 7732,
+        "progweb_descr": " Digiadverts market advertising service offer customer bulk sm service twoway sms service mobile coupon sms gateway Digiadverts API provide developer capability integrate 3rdparty software SMS Gateway API Using SMS Gateway API user enable website application software send SMS API provide revenue share model available developer integrator"
+    },
+    {
+        "progweb_cat": "Advertising,Messaging",
+        "api_name": "SendinBlue",
+        "id": 8044,
+        "progweb_descr": " SendinBlue platform manage online marketing campaign transactional email SMS message It include tool design custom email upload design elsewhere Users may send email SMS subscriber subset contact list SendinBlue provide user statistical report order track improve email marketing effort Many platform function make programmatically accessible via REST API SendinBlue website documentation available English French"
+    },
+    {
+        "progweb_cat": "Advertising,Messaging",
+        "api_name": "Universal SMS Advertising",
+        "id": 8135,
+        "progweb_descr": " Universal SMS Advertising enable user send Flash SMS Unicode SMS picture SMS customize SMS schedule SMS group SMS bulk It use send automate reminder notification bulk advertisement Delivery instant user get status report send message Developers integrate application website Universal SMSs message platform via REST API allow apps autogenerate SMS message"
+    },
+    {
+        "progweb_cat": "Advertising,Messaging",
+        "api_name": "SMSAPI",
+        "id": 8683,
+        "progweb_descr": " SMSAPIPL Polish base mobile marketing service aim inform customer company news well provide bulk sm market service SMSAPIPL API available REST SOAP format allow integration SMS notification commercially available software maintenance service premium rate ability conduct campaign form MMS multimedia message An account required service SSL use authentication"
+    },
+    {
+        "progweb_cat": "Advertising,Messaging",
+        "api_name": "ForWhereIAm",
+        "id": 10659,
+        "progweb_descr": " ForWhereIAm realtime localize shortlived information service notify user announcement deal base proximity ForWhereIAm API allow retrieval rating announcement make business user location API available clientside flow serverside flow use Javascript variety programming language"
+    },
+    {
+        "progweb_cat": "Advertising,Messaging",
+        "api_name": "Panelesms Send",
+        "id": 11847,
+        "progweb_descr": " Panelesms website provide service distribute short message service SMS advertisements Panelesms Send API allow user send SMS ad schedule send It use SOAP call XML format Panelesms website provide exclusively Persian Farsi"
+    },
+    {
+        "progweb_cat": "Advertising,Messaging",
+        "api_name": "CampusCash Mobile",
+        "id": 11962,
+        "progweb_descr": " CampusCash Mobile mobile marketing service combine SMS mobile text Email Myspace Facebook Instant Message Twitter CampusCash Mobile API allow user synchronize contact list database user account Functionality also include twoway SMS communication creation marketing keywords contact management API use HTTP POST GET return XML To obtain API key use user must full nontrial account CampusCash Mobile submit request support dashboard"
+    },
+    {
+        "progweb_cat": "Advertising,Messaging",
+        "api_name": "HipCricket",
+        "id": 12737,
+        "progweb_descr": " Hipcricket mobile marketing advertising company Hipcricket offer AD LIFE message platform let user create manage measure mobile marketing campaign platform give user ability send message via SMS MMS Hipcricket API allow developer integrate platform ability send receive mobile message exist system Documentation API publicly available"
+    },
+    {
+        "progweb_cat": "Advertising,TV",
+        "api_name": "iSpot.tv",
+        "id": 7913,
+        "progweb_descr": " iSpottv realtime TV advertising metric service iSpottv provide various TV advertising feature publisher advertiser developer access realtime TV advertising metric iSpottv API allow developer access integrate functionality iSpottv application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Advertising,Big Data",
+        "api_name": "4C",
+        "id": 8141,
+        "progweb_descr": " 4C big data social analytics platform 4C collect public social data provide insight analytics relationship consumer brand behavior 4C API allow developer access integrate functionality 4C application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Advertising,Feeds",
+        "api_name": "Adzuna",
+        "id": 8380,
+        "progweb_descr": " Adzuna UK base job property car advertising service Adzuna API allow user incorporate Adzunas uptotheminute employment data power user websites perform report data visualization API allow user query get ad get employment information get category check version currently use API use REST call return JSON JSONP XML An account API Key require service"
+    },
+    {
+        "progweb_cat": "Advertising,Video",
+        "api_name": "Teads",
+        "id": 8694,
+        "progweb_descr": " Teads platform video advertising Teads provide feature solution video advertise content publisher networks advertiser Teads API allow developer access integrate functionality Teads application Public documentation available interested developer contact Teads information httpteadstvcontact"
+    },
+    {
+        "progweb_cat": "Advertising,Video",
+        "api_name": "Adap.tv",
+        "id": 8824,
+        "progweb_descr": " Adaptv television video advertising platform Users buy sell advertising space content television video Adaptv API allow developer access integrate functionality Adaptv application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Advertising,Video",
+        "api_name": "Virool",
+        "id": 11224,
+        "progweb_descr": " Virool video advertising service allow advertiser promote video ad application game websites publisher Publishers monetize content allow advertiser integrate video ad content Virool API allow developer access integrate functionality Virool application API allow video publish integration mobile web content"
+    },
+    {
+        "progweb_cat": "Advertising,Video",
+        "api_name": "LiveRail",
+        "id": 11851,
+        "progweb_descr": " LiveRail company provide online video advertising service LiveRail AdServer lead online video platform 25 online video ad deliver platform It allow user manage target display track advertising online video Publishers advertiser use LiveRail manage monetization online video LiveRail API expose entire functionality platform developers account It use HTTP call response format XML Full documentation avaialable register user"
+    },
+    {
+        "progweb_cat": "Advertising,Video",
+        "api_name": "Social Video Bytes",
+        "id": 15078,
+        "progweb_descr": " socialVideobytes look address need integrate video across highly viral visible social applicationbased advertising network socialVideobytes social video distribution 100 million unique user per month Implementing socialVideobytes offer let App Developers cut paste code Apps approve socialVideobytes immediately begin servingup relevant video offer These offer let user watch share relevant video clip recommend favorite product friend incentivize gamers move next level Note public documentation API"
+    },
+    {
+        "progweb_cat": "Advertising,Reference",
+        "api_name": "WhatRunsWhere",
+        "id": 8811,
+        "progweb_descr": " WhatRunsWhere competitive intelligence service online advertising We help buy medium intelligently profitably exist future campaign discover new traffic source keep eye competition All one amazing feasible package We currently support 90 ad network 15 country display mobile"
+    },
+    {
+        "progweb_cat": "Advertising,Telephony",
+        "api_name": "Faxem",
+        "id": 8820,
+        "progweb_descr": " Faxem direct marketing provider offer company Australia fax email SMS marketing help reach client Faxem API allow user integrate Faxem data stream thirdparty application automate task directly perform operation add delete data API use JSONRPC return JSON An account API key secure port require service"
+    },
+    {
+        "progweb_cat": "Advertising,Telephony",
+        "api_name": "Ingenio",
+        "id": 11919,
+        "progweb_descr": " service provide phonebased access expert advice referral service It allow question concern contact someone expertise subject matter information advice It also provide advertising outreach venue service provider interact potential customer service API method support creation update provider listing include phone number access specialty topic price per call etc Other APIs provide control agency account record audio tracking contact system"
+    },
+    {
+        "progweb_cat": "Advertising,Telephony",
+        "api_name": "BlueVia Advertising",
+        "id": 14943,
+        "progweb_descr": " Display ad mobile user BlueVia Advertising API BlueVia developer initiative communication company Telefï¿½nica Advertising API provide text image ad via REST API Developers take element advertisement display method appropriate application"
+    },
+    {
+        "progweb_cat": "Advertising,Domains",
+        "api_name": "ZeroPark 0-Click Feed",
+        "id": 8942,
+        "progweb_descr": " ZeroPark domain traffic marketplace offer traffic solution ecommerce medium buyer lead generator affiliate ZeroParks 0Click domain feed allow owner large domain portfolio domain traffic aggregator query system domain traffic Users receive real time response link advertiser webpage top net bid visitor ZeroPark offer access 0Click domain feed service via API"
+    },
+    {
+        "progweb_cat": "Advertising,Domains",
+        "api_name": "Voodoo.com Domain Parking",
+        "id": 10207,
+        "progweb_descr": " Voodoocom domain park platform aim help user make money domain platform help user manage domain portfolio optimize domain display relevant landing page advertise visitor Some available tool include ad provider one two click lander customizable layout API API free customer provide programmatic access full functionality platform"
+    },
+    {
+        "progweb_cat": "Advertising,Classifieds",
+        "api_name": "Vivastreet",
+        "id": 9005,
+        "progweb_descr": " Vivastreet free local classify ad service available city country world Find hundred free classified local area everything rental property use car pet sale language class local event free personal Vivastreet implement REST API give developer third party content provider ability post listing website Use API create update delete list An API key require"
+    },
+    {
+        "progweb_cat": "Advertising,Classifieds",
+        "api_name": "Craigslist Bulk Posting",
+        "id": 11665,
+        "progweb_descr": " Craigslist website list classify ad divide section include job housing personal Bulk Posting API provide user interface allow submission multiple post single request Requests must include description post category city post submit reply email API use HTTP call response format XML"
+    },
+    {
+        "progweb_cat": "Advertising,Classifieds",
+        "api_name": "Friday-Ad",
+        "id": 11813,
+        "progweb_descr": " service post classify ad private sale wide range item service across long list location within UK It provide interactive form specify product category location display format variable generates iframe code insert another website SOAP APIs also provide integration possibility API method support retrieval information product advertise seller place ad location serve Methods also return category within service provide best match freetext keyword submit request"
+    },
+    {
+        "progweb_cat": "Advertising,Products",
+        "api_name": "Twenga affinitAD",
+        "id": 9090,
+        "progweb_descr": " Twenga shopping search engine list 300 million product single open shopping platform AffinitAD Twengaâ€™s publisher network Based contextual analysis affinitAD provide customer revenue source match editorial content affinitAD API provide programmatic access Twenga catalog offer user instant snapshot affinitAD performance figure API support HTTP call return JSON well XML format response"
+    },
+    {
+        "progweb_cat": "Advertising,Loyalty",
+        "api_name": "Push Entertainment",
+        "id": 9665,
+        "progweb_descr": " Push Entertainment delivers loyalty application consumer brand Services include loyalty reward program crowd reward app fanwalls Push API Push API provide developer access SOAP interface entire range Push functionality Endpoints available HTTP HTTPS"
+    },
+    {
+        "progweb_cat": "Advertising,Measurements",
+        "api_name": "Vizu",
+        "id": 9773,
+        "progweb_descr": " Vizu Nielsen company allow brand company gather realtime information customer audience Vizu offer tool measure track digital brand advertising Vizu API allow developer access integrate functionality data Vizu application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Advertising,Blogging",
+        "api_name": "Publisheer Text Rewrite",
+        "id": 10055,
+        "progweb_descr": " Publisheercomâ€™s social content generator tool allow user generate unique content replace word exist set text synonym Users customize synonym set specify rewrite option Publisheercom Text Rewrite API provide developer interface automate text rewrite POST call"
+    },
+    {
+        "progweb_cat": "Advertising,Mapping",
+        "api_name": "Vistarmedia",
+        "id": 10079,
+        "progweb_descr": " Vistarmedia placebased advertising platform Advertisers brand use Vistarmedia place ad application websites reach customer location Publishers use Vistarmedia monetize application content Vistarmedia API allow developer access integrate functionality Vistarmedia application Public documentation available interested developer contact infovistarmediacom information"
+    },
+    {
+        "progweb_cat": "Advertising,Mapping",
+        "api_name": "Geotoko",
+        "id": 14757,
+        "progweb_descr": " Geotoko platform allow brand business agency create brand locationbased promotion eg sweepstakes contest giveaways simultaneously publish multiple locationbased service like foursquare gowalla facebook place yelp twitter etc An API key require use Users search locationlatitude longitude radius foursquare gowalla IDs This API beta provide access Geotoko campaign data via HTTP request return data JSON format"
+    },
+    {
+        "progweb_cat": "Advertising,Transportation",
+        "api_name": "Strathcom",
+        "id": 10084,
+        "progweb_descr": " Strathcom aim help automotive dealer get inventory online share product across consumer search service Strathcom API allow user directly access vehicle data store site empower inhouse web presentation data integration Specific function facilitate data query inventory data allow user retrieve new vehicle feature option data leverage Strathcoms build price engine sync lead CRM service API use REST call return JSON require API Key use"
+    },
+    {
+        "progweb_cat": "Advertising,Transportation",
+        "api_name": "aRodar",
+        "id": 13356,
+        "progweb_descr": " aRodar web site user search post use motorcycle sale There also forum member community interact API allow user publish ad site application via affiliate network With API user look classified ad vehicle information ad status API use SOAP call XML response site documentation Spanish"
+    },
+    {
+        "progweb_cat": "Advertising,Customization",
+        "api_name": "Purlem",
+        "id": 10231,
+        "progweb_descr": " service provide custom URLs personalize marketing campaign individual user link custom landing page highlight content important user It intend allow highly target promotional campaign selective message delivery optimize specific user preference embed page editor facilitate design creation landing page display user follow custom URL define within system deliver marketing communication API method support creation marketing campaign reference individual user unique URL link personalized landing page create system Methods also support manage contact list create personalize promotional URLs reporting campaign result visit URL similar traffic statistic"
+    },
+    {
+        "progweb_cat": "Advertising,Management",
+        "api_name": "Ad-Juster",
+        "id": 10816,
+        "progweb_descr": " AdJuster online service consolidate user advertisingrelated service information one convenient location Data collect store local 3rd party ad server cover full rage advertising method AdJuster design integration system service use SOAP API Access API documentation require either signup email provider"
+    },
+    {
+        "progweb_cat": "Advertising,Management",
+        "api_name": "Microsoft Atlas",
+        "id": 11235,
+        "progweb_descr": " As part Microsoft Advertising Atlas suite tool publisher advertiser agency suite include console campaign planning delivery reporting management pay search campaign analytics optimization tool Microsoft Atlas APIs enable user programmatically access Atlas Media Console create manage advertising campaign generate report retrieve information ad campaign organization associate account"
+    },
+    {
+        "progweb_cat": "Advertising,B2B",
+        "api_name": "Optify",
+        "id": 11241,
+        "progweb_descr": " Optify B2B marketing platform It help generate lead track marketing program around web They offer CMS plugins SEO search marketing software social medium campaign software Using function integrate suite Optify yield insightful sale data Optify API expose market integration functionality Developers use create custom reporting dashboard betterinformed CRM"
+    },
+    {
+        "progweb_cat": "Advertising,Content Management",
+        "api_name": "Marketpath",
+        "id": 11286,
+        "progweb_descr": " Marketpath website solution provider Their product include feature CMS web design strategy With CMS feature user get blogging ecommerce storefront sitebuilding tool Their web design service include development resource SEO site development Marketpath also offer developer API API expose softwareasaservice functionality CMS system use development integration"
+    },
+    {
+        "progweb_cat": "Advertising,Drugs",
+        "api_name": "WeedDeals",
+        "id": 11330,
+        "progweb_descr": " WeedDeals provide daily deal local marijuana dispensary user Facebook email twitter feed WeedDeals API allow user search deal city retrieve information specific deal several function service use REST call return data JSON XML Access available API key"
+    },
+    {
+        "progweb_cat": "Advertising,API",
+        "api_name": "AppNexus",
+        "id": 11663,
+        "progweb_descr": " AppNexus world lead independent ad tech platform Building top AppNexus open platform customer maximize yield monetization campaign effectiveness As customer ’ technology requirement change power evolution help scale pivot grow This platform expose via set RESTful APIs Documentation open public"
+    },
+    {
+        "progweb_cat": "Advertising,Russian",
+        "api_name": "Clobucks",
+        "id": 11711,
+        "progweb_descr": " Clobucks Russian affiliate marketing platform Affiliates use platform select place promotional material statistic across wide range parameter use determine payment Clobucks API allow developer create online store conduct marketing effort API use XMLRPC call result XML"
+    },
+    {
+        "progweb_cat": "Advertising,Validation",
+        "api_name": "Adobe Project Adthenticate",
+        "id": 12257,
+        "progweb_descr": " Adobe Project Adthenticate host service ad validation optimization enable publisher agency test certify ad repository specification Adthenticate offer agency feature dynamic validation standardize CPU usage measurement detection request track pixel animation beyond specified duration set rich medium rule API allow developer integrate service publisherside order entry ad serve system API currently public beta interested developer contact Adthenticate team information"
+    },
+    {
+        "progweb_cat": "Advertising,Marketplace",
+        "api_name": "Bluefin Technology Partners",
+        "id": 12263,
+        "progweb_descr": " Bluefin publisherâ€™s community marketplace offering ability self service advertise print Web Bluefine give advertiser tools place review publish print online medium buy Bluefin API allow newspaper control brand online product integrate registration system Interested developer contact provider information"
+    },
+    {
+        "progweb_cat": "Advertising,Barcodes",
+        "api_name": "Esponce",
+        "id": 12885,
+        "progweb_descr": " Esponce mobile marketing platform allow user create QR code track analyze use integrate code mobile web apps Through mobile marketing platform Esponce also provide feature mobile content delivery include white label solution design give user optimize platform building deploy web apps without configure multiple mobile OSs Esponces RESTful API use XML JSON data format generate decode QR cod without API key With API key user take advantage robust feature manage campaign generate list campaign trackable QR code manage QR code gather usage statistic individual QR code"
+    },
+    {
+        "progweb_cat": "Advertising,Localization",
+        "api_name": "CityGrid Advertising",
+        "id": 12971,
+        "progweb_descr": " CityGrid network APIs give developer access premium local content include user review editorial content merchant message across 75K neighborhood nationwide CityGrid Media online medium company connect web mobile publisher local advertising organization link CityGrid local content advertising network CityGrid provide set local advertising APIs user request ad category geography CityGrid server generate advertisement advertise partner network Users choose CityGrid generate ad image simply obtain ad data CityGrid render image Users get ad information XML JSON make Ajax call image load directly page Users also get pay various impression referral certain business listing provide Places API add track code page referral parameter URLs"
+    },
+    {
+        "progweb_cat": "Advertising,Localization",
+        "api_name": "Rvolve Hyperlocal Ads",
+        "id": 14500,
+        "progweb_descr": " Rvolve hyperlocal ad platform let advertiser pinpoint target advert local audience publisher local content earn locally relevant deal service service offer payforperformance payperclick pay per weekmonth option advertiser directly XML feed Rvolve consist REST request return XML set advertisement There also option overlay advert Google map use JSON feed service currently beta"
+    },
+    {
+        "progweb_cat": "Advertising,Localization",
+        "api_name": "GeoReach Neighborhood",
+        "id": 15471,
+        "progweb_descr": " Neighborhood API provide boundary data define neighborhood throughout United States It act like location twitter feed post neighborhood request neighborhood stream It also provide simple Google Maps implementation You see map display interact neighborhood boundary"
+    },
+    {
+        "progweb_cat": "Advertising,HTML5",
+        "api_name": "Adzerk",
+        "id": 13567,
+        "progweb_descr": " Adzerk ad serve platform let developer build custom ad unit application Users Adzerk insert ad content create ad report base event integrate system Adzerk support HTML5 ad native ad Adzerk APIs allow developer access functionality data Adzerk integration application sit Some example API method include access manage account information create manage ad campaign uploading image make ad request There two endpoint one reporting ad management see one perform ad request httpengineadzerknetapiv2 documentation ad request host httphelpadzerkcomNativeAdsAPI"
+    },
+    {
+        "progweb_cat": "Advertising,Auto",
+        "api_name": "LotVantage",
+        "id": 13893,
+        "progweb_descr": " LotVantage provide web solution auto dealer expand enhance listing variety online platform eBay craigslist Backpage others LotVantage specialize help dealer entire process manage automotive sale web online inventory management customer interaction LotVantage API provide programmatic access many feature online portal include user dealership management This RESTful API return data XML format require API Key access"
+    },
+    {
+        "progweb_cat": "Advertising,Cloud",
+        "api_name": "Flite Advertising",
+        "id": 14253,
+        "progweb_descr": " Flite cloudbased ad platform Flite API allow developer integrate custom Flash content Flite ad Using API developer parameterize custom flash content define track event track automatically Flite orchestrate content render cloud ad create expandable ad add event trigger code API use ActionScript protocol"
+    },
+    {
+        "progweb_cat": "Advertising,Wine",
+        "api_name": "Cruvee Partner Link",
+        "id": 14790,
+        "progweb_descr": " Partner Link API use integrate site Cruvee web browser level allow winery ownersstaff web site “ claim ” winery Cruvee edit winery profile Cruvee addedit wine Cruvee Developers immediately pull updated information Cruvee use query APIs Cruvee provide business intelligence performance management service wine industry"
+    }
+]

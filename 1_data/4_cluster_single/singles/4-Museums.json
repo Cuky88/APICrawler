@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Museums,Art",
+        "api_name": "Auckland Museum",
+        "id": 2008,
+        "progweb_descr": " Auckland Museum display wide variety historical artifact collection addition provide education research resource Auckland Museum API operate webbased access portal collection data resource Its integration application allow user search query museum tremendous data resource collection include natural science cultural collection online cenotaph archive among others RESTful API send request URI Query String format return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Museums,Geology",
+        "api_name": "Natural History Museum",
+        "id": 5481,
+        "progweb_descr": " This REST API let users access data portal Londons Natural History Museum retrieve collection research datasets use software application datasets return JSON hold 27 million specimen record Museum ’ Zoology Botany Mineralogy Palaeontology Entomology collection"
+    },
+    {
+        "progweb_cat": "Museums,History",
+        "api_name": "The Portal to Texas History",
+        "id": 6834,
+        "progweb_descr": " Portal Texas History resource learn past event occur Texas organization offer APIs Corpus Cristi Museum Science History invite developer access data without special key They benefit API interested organize database science history content In addition developer choose two metadata format oaidc UNT With API museum user organize collection generic information specialize material review examples show main website Support available via email contact form"
+    },
+    {
+        "progweb_cat": "Museums,Data",
+        "api_name": "Balboa Park Commons",
+        "id": 7339,
+        "progweb_descr": " Balboa Park Commons API useful help developer interested categorize organize retrieve museum data In main page user find query result along image title culture item ID source institution In API build REST style Balboa Park Commons offer retrieval information JSON format organization also display example PHP No authentication key require Contact email available support"
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "progweb_cat": "Blogging,Forums",
+        "api_name": "Disqus",
+        "id": 4,
+        "progweb_descr": " From site Disqus provide API user interact Disqus backend Disqus webwide discussion community carry conversation Bloggers Plug experience best comment system back forum Everyone Claim track comment across blog"
+    },
+    {
+        "progweb_cat": "Blogging,Social",
+        "api_name": "WordPress.com",
+        "id": 20,
+        "progweb_descr": " WordPresscom host version popular open source blogging software WordPresscom expose site post comment like data via REST Application Programming Interface API JSON format OAuth2 protocol use authentication standard WordPress XMLRPC API also support WordPresscom use OAuth2 basic auth"
+    },
+    {
+        "progweb_cat": "Blogging,Social",
+        "api_name": "WordPress.org",
+        "id": 92,
+        "progweb_descr": " WordPressorg home installable version WordPress WordPressorg API provide series call expose various informational asset tool Available resource include stats system run WordPress contributor information Tools include secret key generator access WordPress plugins theme"
+    },
+    {
+        "progweb_cat": "Blogging,Social",
+        "api_name": "Plurk",
+        "id": 1157,
+        "progweb_descr": " Plurk site allow showcase event make life follow event people matter short message call plurks Plurk API provide standard way access implement application top Plurk platform API simple HTTP API access language support creation HTTP request"
+    },
+    {
+        "progweb_cat": "Blogging,Social",
+        "api_name": "Daum Today",
+        "id": 14372,
+        "progweb_descr": " Daum web portal South Korea offer many Internet service web user include popular free webbased email message service forum shop news Daum Today microblogging service API provide developer access functionality service Funtionality include add message view user profile check registration search post API use RESTful call response format XML JSON site documentation Korean"
+    },
+    {
+        "progweb_cat": "Blogging,Social",
+        "api_name": "Qaiku",
+        "id": 14412,
+        "progweb_descr": " Qaiku microblogging social networking service It allow user post short text image Qaiku support multiple language content search post user language Qaiku also mobile application Qaikus API base Twitter REST API Qaiku API allow developer various function Qaikus functionality data post message read stream read comment list friend follower"
+    },
+    {
+        "progweb_cat": "Blogging,Social",
+        "api_name": "Netalive",
+        "id": 14672,
+        "progweb_descr": " Netaliveorg social community allow user discussion topic user Users post topic post response post personal journal Netalive API allow developer access readonly data Netalive API pull data Posts Topics Recent Posts Netalive push data Netalive API two protocol XMLRPC REST REST API easy use consumes less bandwidth XMLRPC API however XMLRPC API standardize"
+    },
+    {
+        "progweb_cat": "Blogging,Social",
+        "api_name": "Publr",
+        "id": 14702,
+        "progweb_descr": " Publr free simple microblogging service let user upload text video audio post well several medium type Publr API allow developer create application interact Publr dataposts use either XMLRPC simple HTTP request"
+    },
+    {
+        "progweb_cat": "Blogging,Social",
+        "api_name": "F My Life",
+        "id": 15307,
+        "progweb_descr": " fmylifecom site recollection everyday anecdotes likely happen anyone They publish site write exclusively user This site place let unwind share little thing screw day allow realize alone Posts mean start Today end FML"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "LiveJournal",
+        "id": 23,
+        "progweb_descr": " Rooted tradition global participation LiveJournal forefront personal publishing community involvement individual expression LiveJournal continue deliver improved technology service member"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "Blogger",
+        "id": 258,
+        "progweb_descr": " Blogger Data API allow client application view update Blogger content form Google Data API feed Your client application use Data API create new blog post edit delete exist post query post match particular criterion"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "Weblogs",
+        "id": 395,
+        "progweb_descr": " From site Weblogscom ping service use automatically inform VeriSign whenever update content site service receive notification ping site add new content go well Weblogscom add site list recently change weblogs If youre use blogging software automatically ping Weblogscom youre look information ping page help get ping client run"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "Akismet",
+        "id": 398,
+        "progweb_descr": " From site Akismet basically big machine suck data possibly look pattern learn mistake Thus far highly effective stop spam adapt new technique attempt evade time tell stand Ive try keep API interaction simple possible To interact fully Akismet API program really put data back system well take If possible within framework application way user submit missed spam false positive otherwise Akismet never learn mistake"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "Tweet Press",
+        "id": 1363,
+        "progweb_descr": " Tweet Press free blogging service let user post update longer 140 character Twitter organize personal blog topic gather reply comment one place Tweet Press REST API allow user create new Tweet Press Posting correspond Tweet use HTTP request API use HTTP POST call response format XML"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "ThoughtStreams",
+        "id": 8812,
+        "progweb_descr": " ThoughtStreams microblogging service design let user write work unpolished idea Each new thought start stream user explore refine elaborate idea individually Thought stream share collaborated user ThoughtStreams still early stage development completely usable Developers still work improve organization allow stream branch etc"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "Epistlee",
+        "id": 10913,
+        "progweb_descr": " Epistlee blogging application provide simple blog Bloggers set manage blog Epistlee Epistlee API allow developer access integrate functionality Epistlee applications Some example API method include create blog manage blog create update blog entry"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "Crummy Downhill",
+        "id": 11259,
+        "progweb_descr": " Downhill online tool find short path two weblogs find weblogs match string prefix Users also lookups weblog ecosystem data Downhill base pick random weblogs dataset Downhill XMLRPC API allow user access functionality use programmatic interface"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "KBCafe PaSS",
+        "id": 12809,
+        "progweb_descr": " KBCafe PaSS Portable Simple Syndication API design fulfill need WSDLcompatible blog syndication edit API PaSS API may retrieve user blog category well retrieve set template It also allow user create edit delete blog post"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "Skyrock",
+        "id": 14499,
+        "progweb_descr": " Skyrock offer XMLRPC API let developer create apps manage blog API support method interact blog Blogger metaWeblog Skyrock Skyrock partner API Key use authentication developer nonpartners usernamepassword must send API call session string must create"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "HubSpot Blog",
+        "id": 14649,
+        "progweb_descr": " HubSpot internet company provide highquality internet marketing small internetbased business HubSpot transforms relatively static smallbusiness website modern marketing machine produce right lead help convert high percentage business qualify opportunity HubSpot Blog API RESTful API allow user developer create view access HubSpot Blog data outside normal HubSpot user interface HubSpot Blog API currently Beta complete mature yet"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "Teidu Mikroblog",
+        "id": 14674,
+        "progweb_descr": " Teidu micro blogging service provide simple API developer want access Teidu Mikroblogs data website application Teidu Mikroblog API RESTful API format SOAP XMLRPC Javascript come soon"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "Blake.lt",
+        "id": 14851,
+        "progweb_descr": " Blakelt Lithuanian social network microblogging service Blakelt API provide method access create member content status message well account detail reply"
+    },
+    {
+        "progweb_cat": "Blogging",
+        "api_name": "OnSugar",
+        "id": 14996,
+        "progweb_descr": " OnSugar free host blogging service You write post share medium create gallery integrate third party ad site OnSugar API provide readwrite access post six type text picture chat link quote video well read access user friend connection Interestingly since blog post public read method also public require authentication"
+    },
+    {
+        "progweb_cat": "Blogging,Search",
+        "api_name": "Zemanta",
+        "id": 71,
+        "progweb_descr": " Zemanta API bring contextually relevant content around web type web service API bring find related Articles Images Hyperlinks Tags right app Use API get custom preference query Zemanta contextual metadata give text There four main component response article keywords image intext link"
+    },
+    {
+        "progweb_cat": "Blogging,Feeds",
+        "api_name": "feedly",
+        "id": 369,
+        "progweb_descr": " feedly RSS blogfeed reader feedly allow user aggregate track blog RSS feed want follow one application web mobile tablet feedly API allow developer access integrate functionality feedly application create new application Some example API method include retrieve RSS subscription manage category RSS feed manage user information"
+    },
+    {
+        "progweb_cat": "Blogging,Feeds",
+        "api_name": "Google Reader Subscriber Statistics",
+        "id": 1281,
+        "progweb_descr": " Returns publicly available XML JSON JSONP response RSS feed show Google Reader stats fee Uses REST protocol"
+    },
+    {
+        "progweb_cat": "Blogging,Business",
+        "api_name": "TypePad",
+        "id": 479,
+        "progweb_descr": " TypePad Developer Program gateway TypePad Cloud Platform Build social application TypePad ’ data social graph object Grow scale social community new TypePad Motion microblogging application Customize TypePad blog layout design Advanced Templates"
+    },
+    {
+        "progweb_cat": "Blogging,Writing",
+        "api_name": "After the Deadline",
+        "id": 1201,
+        "progweb_descr": " After Deadline check spell misused word style grammar advance AI NLP technique"
+    },
+    {
+        "progweb_cat": "Blogging,Writing",
+        "api_name": "Writeapp.me",
+        "id": 8195,
+        "progweb_descr": " Writeapp text edit platform allow user create organize publish text service store note privately also allow make public Writeapp API use REST call allow user access data within Writeapp well build alternate user interface An account required service API key use authentication"
+    },
+    {
+        "progweb_cat": "Blogging,Romanian",
+        "api_name": "Cirip",
+        "id": 1209,
+        "progweb_descr": " With Cirip create network friends partner tell work web SMS IM You embed photo video audio clip monitor RSS feed Cirip API allow access platform group feed monitor"
+    },
+    {
+        "progweb_cat": "Blogging,Media",
+        "api_name": "Twitter Object Nest",
+        "id": 2789,
+        "progweb_descr": " Twitter Object Nest API allow developer programmatically upload medium asset Twitter social microblogging service content type upload must valid medium type define IANA This API support resumable nonresumable upload method file 64MB resumable uploads may use"
+    },
+    {
+        "progweb_cat": "Blogging,Media",
+        "api_name": "Scripted",
+        "id": 12400,
+        "progweb_descr": " Scripted service provide blog content pool register writer Business request blog post subject length Scripted match prompt freelance writer produce content Their RESTful API expose sit functionality business writer It respond JSON automatically users request XML instead"
+    },
+    {
+        "progweb_cat": "Blogging,Media",
+        "api_name": "MetaWeblog",
+        "id": 13575,
+        "progweb_descr": " MetaWeblog API program interface allow user get set text attribute weblog post It design build Blogger API limit could work text MetaWeblog API also work medium object embed weblog post"
+    },
+    {
+        "progweb_cat": "Blogging,Media",
+        "api_name": "Freewebs",
+        "id": 15574,
+        "progweb_descr": " From site Freewebs dedicate ensure everyone world create quality multimedia website anyone Internet connection something share Freewebs provide toolkit express voice Web versatile publish platform To date Freewebs member create 17 million comprehensive website include blog photo videos music ecommerce Founded 2001 Freewebs privately hold base Silver Spring MD"
+    },
+    {
+        "progweb_cat": "Blogging,Database",
+        "api_name": "charlieharvey.org.uk content",
+        "id": 8003,
+        "progweb_descr": " Charlieharveyorguk personal website individual fan program drink cider purse political activism In blog maintains include REST base API access blog content API return JSON XML YAML"
+    },
+    {
+        "progweb_cat": "Blogging,Video",
+        "api_name": "Jux",
+        "id": 8259,
+        "progweb_descr": " Jux service design help user showcase digital medium text photo videos without ad clutter medium share site Users extensively customize medium wish share present viewer fullscreen desktop computer iPad iPhone Jux allow developer retrieve information user post gallery Jux JSON JSONP CORS format"
+    },
+    {
+        "progweb_cat": "Blogging,Analytics",
+        "api_name": "WhatsNew?",
+        "id": 9124,
+        "progweb_descr": " WhatsNew service allow blogger automatically show reader new content andor feature add since last visit service work use blog RSS feed track user use cooky WhatsNew also provide analytics include overall number well breakdown post WhatsNew offer Javascript API allow customize WhatsNew widget Options include customize overlay content customize greeting customization notification style"
+    },
+    {
+        "progweb_cat": "Blogging,Japanese",
+        "api_name": "Flipnote Hatena",
+        "id": 9489,
+        "progweb_descr": " Flipnote Hatena Japanese blogging service It provide community space people share hobby interest converse exchange information Hatena also provide album service post share photo Additionally come bookmark service let user save favorite page publish comment tags Flipnote Hatena API allow user retrieve data associate account include flipnotes comment favorite creator fan Hatena website API documentation provide Japanese English However much Hatena site content available Japanese"
+    },
+    {
+        "progweb_cat": "Blogging,Art",
+        "api_name": "BLaugh",
+        "id": 9533,
+        "progweb_descr": " Blaugh web comic available free enjoyment blog browser BLaugh API allow user make query get list comic get data comic get comic title date purpose allow developer list retrieve comic integration thirdparty project API us XMLRPC call available noncommercial use"
+    },
+    {
+        "progweb_cat": "Blogging,Content",
+        "api_name": "Open Places",
+        "id": 11408,
+        "progweb_descr": " Open Places web content provider They offer write content photograph describe place Writers photographer submit piece site competition Open Placesâ€™ editor vet suitable content publication content make available nonprofit free Open Places API expose free content publication apps outlet It return article metadata API RESTful return JSONencoded data"
+    },
+    {
+        "progweb_cat": "Blogging,Hosting",
+        "api_name": "Pagely Partner",
+        "id": 11414,
+        "progweb_descr": " Pagely host management service WordPress sit Pagely host WordPress sit manages WordPress update technical aspect WordPress site management Pagely Partner API allow developer access integrate functionality Pagely applications Some example API method include manage account manage domain manage account billing information"
+    },
+    {
+        "progweb_cat": "Blogging,Big Data",
+        "api_name": "Twingly",
+        "id": 11881,
+        "progweb_descr": " Twingly API allow user query Twinglys blog search index commercial purpose API accessible use API key return XML query HTTP Twingly service allow user search content relevant across blogosphere desire display directly webpage"
+    },
+    {
+        "progweb_cat": "Blogging,Mobile",
+        "api_name": "Wishpot Publisher",
+        "id": 12406,
+        "progweb_descr": " Wishpot social shopping service let user save share thing find store online item organize use online list registry share others Wishpot publisher API enable publisher display monetize product web mobile property API provide access optimization top CPC CPA base product provider"
+    },
+    {
+        "progweb_cat": "Blogging,Science",
+        "api_name": "ScienceSeeker",
+        "id": 12447,
+        "progweb_descr": " ScienceSeeker collect article science blog around world allow user find late science news discussion topic database include 1000 blog 120000 post Search API let user query database use number sort option title summary number recommendation post talk specific peerreviewed article Developers integrate functionality API third party site application It use HTTP call response format XML"
+    },
+    {
+        "progweb_cat": "Blogging,Nature",
+        "api_name": "Nature.com Blogs",
+        "id": 12880,
+        "progweb_descr": " Nature Publishing Group NPG publisher scientific medical information print online NPG publish journal online database service across variety science clinical medicine Naturecom also host blog Nature Network publish blog write inhouse editor journalist Blogs API provide programmatic interface Blogs index aggregation service give developer tool search blogs post story collection aggregate blog post topic paper publish indexed Nature Network This API expose method support query base variety aspect content tag keyword index metadata This RESTful API return data JSON though query support AtomRSS CSV format"
+    },
+    {
+        "progweb_cat": "Blogging,News Services",
+        "api_name": "Bordom RPC (BRAX)",
+        "id": 13489,
+        "progweb_descr": " service aggregate blog post online content generate stream curiosity memes strange news trivia It aim summarize extend MetaWeblogAPI BloggerAPI MovableTypeAPI others allow user rate content deliver popular Methods provide summary content item group channel Data return item include subject tags rating along user comment favorites API also support add new item update exist one"
+    },
+    {
+        "progweb_cat": "Blogging,French",
+        "api_name": "EklaBlog",
+        "id": 13571,
+        "progweb_descr": " EklaBlog French blogging site adfree free use In addition textbased blog EklaBlog also support photoblogs vlogs EklaBlog API provide alternate way update one blog use mobile device site API documentation French"
+    },
+    {
+        "progweb_cat": "Blogging,Design",
+        "api_name": "Squarespace",
+        "id": 13694,
+        "progweb_descr": " Squarespace offer fully host software platform create maintain website blog portfolio It use WYSIWYG editor template let user create edit look functionality web sit Squarespace XMLRPC API let user post Squarespace use third party application"
+    },
+    {
+        "progweb_cat": "Blogging,Browsers",
+        "api_name": "My Opera",
+        "id": 14271,
+        "progweb_descr": " My Opera support community Opera Web browser With free account user access photo album blog group forum My Opera provide two APIs use blogging embed content Users embed photo My Opera content like avatar external site API It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Blogging,SEO",
+        "api_name": "Scribe",
+        "id": 14376,
+        "progweb_descr": " Scribe plugin subscription service analyze blogs post give user information make suggestion improve post SEO Perspective Scribe offer API let developer create custom application It use SOAP protocol public documentation available"
+    },
+    {
+        "progweb_cat": "Blogging,Russian",
+        "api_name": "Yandex Ya.ru",
+        "id": 14569,
+        "progweb_descr": " Yandex large search engine Russia develop number Internetbased service product Yandex offer owner website blog tool apply functional service Yandex project site documentation Russian Yaru API provide programmatic access Yaru blogging platform data service With access user develop application integrate Yaru platform Examples application include log client creation post graph user social rank statistic publish picture videos Yaru site mobile application API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Blogging,Chinese",
+        "api_name": "cnFOL",
+        "id": 14725,
+        "progweb_descr": " cnFOL service Chinese financial microblogging platform Users create message 140 character cnFOL API allow developer create microblogging application Create new status message view friend timeline see particular user message access public timeline"
+    },
+    {
+        "progweb_cat": "Blogging,Spanish",
+        "api_name": "Bitacoras.com",
+        "id": 15006,
+        "progweb_descr": " Bitacorascom large social network blogger exist Spanish 250000 user system collect information thousand blog organizes catalog distribute realtime become tool learn happen Hispanic blogosphere API use RESTful interface response XML JSON PHP RSS format Documentation Spanish"
+    },
+    {
+        "progweb_cat": "Blogging,Statistics",
+        "api_name": "WPAPI.org",
+        "id": 15436,
+        "progweb_descr": " WPapi API give access uptodate download stats WordPresshosted plugins theme use feed JSON XML CSV PHP You use data blog website display graph visualization"
+    },
+    {
+        "progweb_cat": "Blogging,Mapping",
+        "api_name": "PostMapper",
+        "id": 15612,
+        "progweb_descr": " From site PostMapper Web Service allow blogger display post PostMapper Map post title excerpt link back full post You use Wordpress Plugin geocode post submit service develop application Use RESTful query add delete update content"
+    },
+    {
+        "progweb_cat": "Blogging,Ratings",
+        "api_name": "IZEARanks",
+        "id": 15726,
+        "progweb_descr": " IZEARanks provide blog rank algorithm mean compare blogs service claim use actual traffic rather estimate"
+    },
+    {
+        "progweb_cat": "Blogging,Email",
+        "api_name": "FeedBlitz",
+        "id": 15867,
+        "progweb_descr": " From site FeedBlitz service monitor blog RSS feed Web URLs provide great reach feed publisher FeedBlitz take headache convert feed blog update email digest deliver daily subscriber inboxes FeedBlitz manages subscription circulation track test compatible major blogging platform service Blogger TypePad FeedBurner FeedBlitz API enable user access FeedBlitz feature programmatically allow innovative new application base include FeedBlitz data functionality API enable comprehensive integration data application layer use consistent easy understand interface"
+    }
+]

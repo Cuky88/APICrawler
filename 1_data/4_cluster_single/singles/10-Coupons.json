@@ -1,0 +1,62 @@
+[
+    {
+        "progweb_cat": "Coupons,Advertising",
+        "api_name": "Coupon",
+        "id": 380,
+        "progweb_descr": " Coupon API support Stage Life provide access large number discount US base brand partner hundred national company These coupon range anywhere 5 50 specific product store Stage Life merchant offer database database access via REST interface return XML fee enable developer integrate membership perk loyalty reward discount distribution program web mobile application system use smart way tag data increase segmentation marketing business goal Discounts group follow example category Entertainment Offers Student Offers Small Business Offers MobileFriendly Offers InStore Offers Family Offers Shopping Offers etc All category include API consumer may choose include certain category specific merchant"
+    },
+    {
+        "progweb_cat": "Coupons,Advertising",
+        "api_name": "Feeds4 Coupon",
+        "id": 6007,
+        "progweb_descr": " Feeds4 Coupon API allow developer integrate database application enable user access thousand affiliate marketing coupon discount Feeds4 XML coupon feed build publisher"
+    },
+    {
+        "progweb_cat": "Coupons,eCommerce",
+        "api_name": "Voucherify",
+        "id": 688,
+        "progweb_descr": " An APIfirst platform dissatisfy highmaintenance custom coupon software Our product coupon infrastructure API provide quick way build coupon generation distribution track Unlike legacy coupon software 1 APIfirst SaaS platform enable customisation aspect coupon campaign 2 management console help cut maintenance report overhead 3 infrastructure scale coupon activity time Use case promo code loyalty coupon voucher gift mobile apps Case study online marketplace discount loyalty program voucher send coupon MailChimp sell voucher gift Shopify"
+    },
+    {
+        "progweb_cat": "Coupons,Automation",
+        "api_name": "Coupomated Coupon DataFeed",
+        "id": 2650,
+        "progweb_descr": " Coupomated REST API available XML CSV JSON format automate coupon content distribution platform base India It provide coupon website development price comparison website affiliate product 2000 Indian merchant"
+    },
+    {
+        "progweb_cat": "Coupons,API",
+        "api_name": "iDealFeeds",
+        "id": 3409,
+        "progweb_descr": " iDealFeeds automate coupon feed provider content distribution platform dedicate Asian market This platform offer performance report customer insight base click sale iDealFeeds API provide coupon information expiry date title description merchant IDs This information available XML CSV JSON format API Keys use authentication"
+    },
+    {
+        "progweb_cat": "Coupons,API",
+        "api_name": "Vauchar",
+        "id": 3441,
+        "progweb_descr": " Vauchar fully manage voucher infrastructure API Vauchar allow organisation developer easily integrate use voucher discount offer service without much complexity Our ready play plugins allow write line code get start minute"
+    },
+    {
+        "progweb_cat": "Coupons,API",
+        "api_name": "LinkMyDeals",
+        "id": 4771,
+        "progweb_descr": " LinkMyDeals API offer coupon deal feed platform integrate exist application Feeds 1000 Indian Ecommerce store different file format available Full feed incremental feed generate This API return data JSON XML format Sellergize Web Technology Services new company base Mumbai focus develop coupon cashback application"
+    },
+    {
+        "progweb_cat": "Coupons,Discounts",
+        "api_name": "Redeem Local Mobile Coupons",
+        "id": 4650,
+        "progweb_descr": " Redeem Local Mobile Coupons API provide data integrate coupon validation scan feature mobile application With REST JSON responses developer receive discount coupon information implement webshop access mobile coupon software Redeem Local coupon platform feature social engagement scratch win digital coupon clip"
+    },
+    {
+        "progweb_cat": "Coupons",
+        "api_name": "PKPass",
+        "id": 4741,
+        "progweb_descr": " PKPass API offer Apple Wallet coupon generation system integrate exist application coupon ready use user avoid navigate Apple ’ security certificate This API SOAP base developer require API Key Open Merchant Account Ireland base company focus develop mobile application tool"
+    },
+    {
+        "progweb_cat": "Coupons",
+        "api_name": "Beevou",
+        "id": 6373,
+        "progweb_descr": " Beevou mobile couponvoucher platform It let users create couponsvouchers select businessescustomers Beevou API let developer integrate service application With API user application able use feature Beevou offer"
+    }
+]

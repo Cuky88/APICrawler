@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Semantic Web,Prices",
+        "api_name": "Explanatory Reasoning as a Service",
+        "id": 2735,
+        "progweb_descr": " Explanatory Reasoning Service API programmatically interpret explain abnormally high accommodation price anomalies 500 city It manipulate semantic web technology consume expose semantic representation This API embed Linked Open Data application Its core service already integrated product flag explain abnormal expense"
+    },
+    {
+        "progweb_cat": "Semantic Web,Media",
+        "api_name": "W3C CSS Object Model",
+        "id": 2751,
+        "progweb_descr": " W3C CSS Object Model CSSOM API document defines APIs handle Media Queries Selectors CSS document include rule generic parse serialization CSSOMs feature intend provide authordefined script basic capability access manipulating stylerelated state information process This document work progress may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Semantic Web,Semantics",
+        "api_name": "W3C CSS Properties and Values",
+        "id": 3192,
+        "progweb_descr": " W3C CSS Properties Values API document defines API register new CSS property These new property give parse syntax defines type inheritance behavior initial value This document work progress may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Semantic Web,Audio",
+        "api_name": "VoiceBase",
+        "id": 4563,
+        "progweb_descr": " VoiceBase API provide developer tool manage VoiceBase service http request These request specify various method customize use individual method base parameter An example one method uploadMedia use http POST http GET request available API populate user account audio video content Some method parameter restriction require special privilege run VoiceBase provide APIs speech recognition analytics insight"
+    },
+    {
+        "progweb_cat": "Semantic Web,Business",
+        "api_name": "FBOpen",
+        "id": 4686,
+        "progweb_descr": " FBOpen API design help small business find opportunities work US government Currently API allow user search content FedBizOpps Grantsgov Soon API able access SBIR State Department BIDS data well FBOpen project create 18F startup within GSA"
+    }
+]

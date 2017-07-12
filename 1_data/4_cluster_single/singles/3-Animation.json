@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Animation,Images",
+        "api_name": "Guggy",
+        "id": 2846,
+        "progweb_descr": " Guggy REST API integrate gifs text message It available make request receive JSON response return via endpoint Use Guggy generate emojis gifs target multilingual audience Contact apiguggycom retrieve API Key"
+    },
+    {
+        "progweb_cat": "Animation,Art",
+        "api_name": "Desktoppr",
+        "id": 6635,
+        "progweb_descr": " Desktoppr API use noncommercial application API provide user detailed information apply application Users entitle responsible application With Desktoppr user able integrate favorite wallpaper application upload find Desktoppr"
+    },
+    {
+        "progweb_cat": "Animation,Collecting",
+        "api_name": "MyAnimeList",
+        "id": 14169,
+        "progweb_descr": " MyAnimeListnet anime manga community introduce visitor people anime manga help organize collection API let user interact site data programatically Functionality include site search anime manga list account verification API use RESTful call response format XML"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Names,Bots",
+        "api_name": "FriendlyRobot Nickname",
+        "id": 1961,
+        "progweb_descr": " FriendlyRobot Nickname API provide exist chat bots personalization capability After call API transform name nicknames American nickname European nickname diminutive include Nickname API respond JSON format"
+    },
+    {
+        "progweb_cat": "Names,Intelligence",
+        "api_name": "Microsoft Cognitive Services Entity Linking Intelligence Service",
+        "id": 4036,
+        "progweb_descr": " Microsoft Cognitive Services Entity Linking Intelligence Service API offer entity recognition disambiguation capability exist third party application This API recognize entity base context example time may refer New York Times Times Square Currently free plan limit transaction 1000 per day available Entity Linking Intelligence Service API return information JSON format require API Keys authentication"
+    },
+    {
+        "progweb_cat": "Names,Contacts",
+        "api_name": "Nexmo Number Insight",
+        "id": 5821,
+        "progweb_descr": " Nexmo Number Insight API allow developer integrate application Nexmo Number Insight service enable user identify phone number Nexmo directly applications Nexmo one communication provider also let customer identify contact information"
+    },
+    {
+        "progweb_cat": "Names,Open Source",
+        "api_name": "Namey",
+        "id": 6871,
+        "progweb_descr": " Namey API access US Census Bureau combine last first name create randomize name API apply random user profile generation social network set request customize gender rarity name number name return consideration API accessible free use JSON request"
+    },
+    {
+        "progweb_cat": "Names,Demographics",
+        "api_name": "NamSor Gendre",
+        "id": 7511,
+        "progweb_descr": " NamSor design name recognition software specialize accurately extract information name Gendre API create NamSor design predict gender name take account names geographical location origin Currently API configure handle name US Europe Russia China Arab country Further work need cover Baltic Slavicorigin name"
+    },
+    {
+        "progweb_cat": "Names,Search",
+        "api_name": "UpName",
+        "id": 13835,
+        "progweb_descr": " UpName search comparison tool domain name Users search available domain names well domains sale UpName also display current domain name auction UpName API allow developer access integrate UpNames functionality application Some example API method include search domain name find similar domain name return domain name trade history return information domain name"
+    }
+]

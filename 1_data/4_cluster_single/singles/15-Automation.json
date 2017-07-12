@@ -1,0 +1,92 @@
+[
+    {
+        "progweb_cat": "Automation,Application Development",
+        "api_name": "Buildkite",
+        "id": 3238,
+        "progweb_descr": " Buildkite API integrate software automation process include organization pipeline job agent artifact emojis main component It available JSON architecture API Key authentication REST transfer"
+    },
+    {
+        "progweb_cat": "Automation,API",
+        "api_name": "SNAP PAC REST",
+        "id": 3320,
+        "progweb_descr": " A RESTful API Opto 22 industrial programmable automation controller PACs enable rapid Industrial Internet Things application development reduce time market machine system design faster automation control project deployment Through new RESTful API developer gain secure programmatic access new legacy physical asset control variable inputoutput IO data use programming language support JavaScript Object Notation JSON Available free update firmware release Opto 22 SNAP PAC programmable automation controller PACs RESTful API include HTTPS server accessible HTTPScompatible client"
+    },
+    {
+        "progweb_cat": "Automation,Data",
+        "api_name": "Lateral.io",
+        "id": 3481,
+        "progweb_descr": " Lateralio API integrate data intelligence notification aim automate company knowledge Available JSON architecture HTTPS URL base Methods include keywords tags user preference"
+    },
+    {
+        "progweb_cat": "Automation,Compliance",
+        "api_name": "Ansible",
+        "id": 3553,
+        "progweb_descr": " Ansible API integrate automation feature IT applications aim achieve security compliance JSON format available send request response along secret access authentication purpose Ansible IT automation platform"
+    },
+    {
+        "progweb_cat": "Automation,Monitoring",
+        "api_name": "Gemini Countersoft",
+        "id": 4254,
+        "progweb_descr": " Countersofts Gemini issue bug track system Gemini Countersoft API integrate monitor feature application company workflow automation report It available JSON REST protocols accessible Api Key"
+    },
+    {
+        "progweb_cat": "Automation,Business",
+        "api_name": "Pyrus",
+        "id": 4653,
+        "progweb_descr": " Pyrus API aim automate business task improve customer relation Developers register application obtain Client ID Secret Key Then access method implement SSL Available JSON REST protocols Pyrus help user automate workflow automate task"
+    },
+    {
+        "progweb_cat": "Automation,Contacts",
+        "api_name": "Wise",
+        "id": 4817,
+        "progweb_descr": " Wise API offer micro task automation system help complete repetitive task This API currently Beta It guarantee 95 accuracy rate task This REST API require API key API method include describe transcribe moderate video image fetch contact email social profile Wise base San Francisco delivers tool machine learning technology back office task"
+    },
+    {
+        "progweb_cat": "Automation,Data-as-a-Service",
+        "api_name": "DataCulture",
+        "id": 4900,
+        "progweb_descr": " DataCulture REST API allow developer access integrate functionality DataCulture applications Public documentation available API access come account service DataCulture provide datadriven automation service supply chain management"
+    },
+    {
+        "progweb_cat": "Automation,Energy",
+        "api_name": "IJENKO IoE² IoT",
+        "id": 4907,
+        "progweb_descr": " IJENKO IoE² API platform building B2B smart home management energy management application Build end user application variety function Smart home smart heat light music automation This RESTful API also use analytics data crunch create broad spectrum application sync smart device IoT"
+    },
+    {
+        "progweb_cat": "Automation,Backend",
+        "api_name": "Orange M2M",
+        "id": 5684,
+        "progweb_descr": " Orange M2M API let developer build service integrate information provide M2M SIM card allow manage SIM fleet realtime API currently available France This API REST base Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Automation,Extraction",
+        "api_name": "Crawlera",
+        "id": 6891,
+        "progweb_descr": " Extract web information program Crawlera This API web scraping could useful developer work website daily basis Crawlera display API redirect site user access endpoint request sample Curl Java Node PHP Python ObjectiveC Ruby NET languages protocol HTTP HTTPS SSL support offer along assistance app creation Developers might find API beneficial want download content webpage"
+    },
+    {
+        "progweb_cat": "Automation,Internet of Things",
+        "api_name": "Ubidots",
+        "id": 8306,
+        "progweb_descr": " Ubidots offer platform developer enables easily capture sensor data turn useful information Use Ubidots platform send data cloud Internetenabled device You Configure action alert base realtime data unlock value data visual tool Ubidots offer REST API allow read write data resource available data source variable value event insight API support HTTP HTTPS API Key require"
+    },
+    {
+        "progweb_cat": "Automation,Internet of Things",
+        "api_name": "SmartThings",
+        "id": 8856,
+        "progweb_descr": " SmartThings platform allow user control physical thing lock light smartphone SmartThings make possible control multiple device thing one application SmartThings API allow developer access integrate functionality SmartThings application create new application Some example API method include set reminder turn thing manage device thing"
+    },
+    {
+        "progweb_cat": "Automation",
+        "api_name": "Revolv",
+        "id": 8423,
+        "progweb_descr": " Revolv smart home automation service Revolv provide solution unify smart home device thing Sonos speaker Philips Hue Yale Lock Wemo Revolv API allow developer access integrate functionality Revolv application create new application Public documentation available interested developer sign httprevolvcomdeveloper"
+    },
+    {
+        "progweb_cat": "Automation,Cloud",
+        "api_name": "Integrify",
+        "id": 12016,
+        "progweb_descr": " Integrify provider Cloudbased workflow automation software software offer process definition workflow automation visibility area Information Technology Human Resources Finance Sales Marketing type service API allow developer integrate Integrify exist system allow customized process form workflows API available REST JavaScript"
+    }
+]

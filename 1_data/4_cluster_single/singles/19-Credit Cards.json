@@ -1,0 +1,116 @@
+[
+    {
+        "progweb_cat": "Credit Cards,Financial",
+        "api_name": "Amex Card Application Offers",
+        "id": 2234,
+        "progweb_descr": " This API enable serve personalize welcome offer Cards without impact credit score It provide necessary component need construct offer banner prospective customer American Express This include Default Offers API Targeted Offers API Offers Acknowledgement API American Express global service company provide customer access product insight experience build business"
+    },
+    {
+        "progweb_cat": "Credit Cards,Financial",
+        "api_name": "MasterCard Masterpass Merchant Onboarding",
+        "id": 3228,
+        "progweb_descr": " MasterCard Masterpass Merchant Onboarding API offer tool make onboarding setup easily available merchant service provider use Masterpass With Masterpass service single multimerchant option onboarding available Merchant Onboarding API tool get start integrated Merchant Onboarding API part MasterCards Masterpass APIs"
+    },
+    {
+        "progweb_cat": "Credit Cards,Financial",
+        "api_name": "MasterCard Masterpass Merchant Integration",
+        "id": 3234,
+        "progweb_descr": " MasterCard Masterpass Merchant Integration API checkout service API allow simple secure checkout Masterpass digital wallet Using API enable merchant get payment information consumer ’ digital wallet able process order website app store Details setup find documentation setup integrate merchant implement checkout option useful front end application Merchant Integration API part MasterCards Masterpass APIs"
+    },
+    {
+        "progweb_cat": "Credit Cards,Banking",
+        "api_name": "Amex ATM Locator",
+        "id": 2235,
+        "progweb_descr": " This REST API enable search ATM location support American Express product give area use locationbased search criterion address city ZIP code name financial institution It provide list available ATMs within provide search criterion build solution similar example use addressbased search option list ATMs thirdparty map American Express global service company provide customer access product insight experience build business"
+    },
+    {
+        "progweb_cat": "Credit Cards,Banking",
+        "api_name": "Confirm18.com",
+        "id": 7515,
+        "progweb_descr": " If website require ability verify user valid credit card without make purchase tool use Forward visitor Confirm18com verify authenticity credit card accept follow input first six digit name affiliate bank type card VISA Mastercard AMEX etc This make tool ideal situation need limit access user 18 If user pass confirmation test return original site 18confirmcom free service inculdes easy developer integration"
+    },
+    {
+        "progweb_cat": "Credit Cards,Payments",
+        "api_name": "CardConnect",
+        "id": 2897,
+        "progweb_descr": " CardConnect API integrate payment transactional web service It available REST architecture HTTP verb CURD function JSON response In addition provide endpoint authorize capture void inquire fund"
+    },
+    {
+        "progweb_cat": "Credit Cards,Payments",
+        "api_name": "Optimal Payments NETBANX Card Payments",
+        "id": 6407,
+        "progweb_descr": " Optimal Payments offer range online mobile alternative payment method use APIs design streamline payment integration application websites Card Payments API enable developer connect app directly payment engine handle purchase refund authorization reversal RESTful API use HTTP JSON format request response Optimal Payments offer test API endpoint demo API integration publication"
+    },
+    {
+        "progweb_cat": "Credit Cards,Accounts",
+        "api_name": "MasterCard BIN Table Resource",
+        "id": 3191,
+        "progweb_descr": " MasterCard BIN Table Resource API keep uptodate MasterCard issue account range use authorization rout fraud prevention purpose Incorporating BIN Table Resource API help challenge security issue powerful fraud prevention tool"
+    },
+    {
+        "progweb_cat": "Credit Cards,Accounts",
+        "api_name": "MasterCard rePower",
+        "id": 11432,
+        "progweb_descr": " MasterCard rePower API provide consumer convenient way add fund eligible MasterCard® Maestro® nonbranded payment account eg Debit Prepaid thousand participate retailer rePower network offer way issuer extend cash load capability card program use exist MasterCard process transaction code make participation easy support standard nextday settlement fund API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Credit Cards,Data",
+        "api_name": "MasterCard SpendingPulse",
+        "id": 3203,
+        "progweb_descr": " MasterCard SpendingPulse API offer near realtime anonymous transaction data source million Mastercardaccepting location Reports available subscription basis Some key feature offer API retail sale region US Brazil ecommerce trend US UK Canada Brazil US gasoline data SpendingPulse API part MasterCards Market Insight Services APIs"
+    },
+    {
+        "progweb_cat": "Credit Cards,Data",
+        "api_name": "MasterCard Sector Insights",
+        "id": 3204,
+        "progweb_descr": " MasterCard Sector Insights API take information MasterCard payment transaction data collect near realtime identifies trend give industry sector Some data include cumulative monthly well quarterly trend year year percent change sale transaction average ticket index Sector Insights API part MasterCards Market Insight Services APIs"
+    },
+    {
+        "progweb_cat": "Credit Cards,Data",
+        "api_name": "MasterCard Places",
+        "id": 5979,
+        "progweb_descr": " MasterCard Places API let developer build application use location intelligence service integrate dataset This API allow developer access location different place across US Places API power nearrealtime aggregate anonymous transaction data This API part Mastercard Location Services APIs"
+    },
+    {
+        "progweb_cat": "Credit Cards,Authorization",
+        "api_name": "Emburse",
+        "id": 3258,
+        "progweb_descr": " This API enable creation expense card scale custom Emburse business solution well thirdparty app integration It return account statement category Emburse expense management platform give business insight control corporate expense use vendor payment employee expense control fleet card management This allow business order virtual physical MasterCardnetwork brand expense card assign card employee contractor authorization preapproved business expense"
+    },
+    {
+        "progweb_cat": "Credit Cards,Analytics",
+        "api_name": "MasterCard Audiences",
+        "id": 3668,
+        "progweb_descr": " Audiences API MasterCard identify user segment higher probability make continuous purchase within category This API provide purchase insight form audience profile base annually aggregated transaction Audiences represent behavior number transaction frequency purchase location merchant category Audiences API follow REST architectural style XML use data exchange OAuth 1 authentication"
+    },
+    {
+        "progweb_cat": "Credit Cards,Analytics",
+        "api_name": "Ribbon BIN List",
+        "id": 6932,
+        "progweb_descr": " BIN List API Ribbon Bank Identification Number BIN lookup service API accept simple HTTP request first 6 digit credit debit card return information bake institution associate card BIN lookup service also assist distinguish debit credit track international payee process verification BIN List API host Ribbon mobile mobile payment provider"
+    },
+    {
+        "progweb_cat": "Credit Cards",
+        "api_name": "Capital One Credit Offers",
+        "id": 4204,
+        "progweb_descr": " Credit Offers API provide developer tool offer Capital One credit product credit card particular customer Currently API contains single resource endpoint list credit card tailor specific customer This API currently beta"
+    },
+    {
+        "progweb_cat": "Credit Cards,Rewards",
+        "api_name": "Capital One Rewards",
+        "id": 4205,
+        "progweb_descr": " Rewards API provide developer simple secure way obtain detailed information customer ’ Capital One reward program This API help customer access track Capital One reward account balance Developers leverage data improve engagement allow customer set saving goal help make informed shopping decision This API currently beta"
+    },
+    {
+        "progweb_cat": "Credit Cards,Identity",
+        "api_name": "Capital One SwiftID",
+        "id": 4206,
+        "progweb_descr": " SwiftID API let developer integrate application extra layer security API allow customer replace costly timeconsuming security question manage access secure record customize message recipient approve event notification realtime via webhooks This API currently beta"
+    },
+    {
+        "progweb_cat": "Credit Cards,Mobile",
+        "api_name": "Square",
+        "id": 6804,
+        "progweb_descr": " Square help consumer pay card mobile environment business prefers keep sale information settle location Square Stand choice In contrast enterprise mobile Square Reader alternative With aim ease commerce Square offer Connect API This application provide HTTP endpoint retrieve report user payment refund settlement It also allow manage merchant item Square Connect API point sale transaction card use iPad iPhone Android Additional resource transaction OAuth eCommerce available Square site"
+    }
+]

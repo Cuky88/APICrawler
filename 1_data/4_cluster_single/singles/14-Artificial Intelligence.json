@@ -1,0 +1,86 @@
+[
+    {
+        "progweb_cat": "Artificial Intelligence,Financial",
+        "api_name": "ForwardLane",
+        "id": 1489,
+        "progweb_descr": " ForwardLane API allow developer access integrate functionality ForwardLane application Public documentation available API access come account service ForwardLane artificial intelligence company help financial advisor AI tool"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Bots",
+        "api_name": "Initai",
+        "id": 1499,
+        "progweb_descr": " Initai REST API allow developer access integrate functionality Initai applications Some example API method include manage user send message access conversation clear message Initai platform help user build deploy intelligent conversational apps artificial intelligence"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Bots",
+        "api_name": "Amazon Web Services Lex",
+        "id": 2266,
+        "progweb_descr": " Amazon Lex REST API allow developer access integrate functionality Amazon Lex application create new application Amazon Lex currently available preview interested developer sign httpspagesawscloudcomAmazonLexPreviewLandingPagehtml Amazon Lex build deep learning technology Alexa allow developer create conversational interface conversational bot"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Analytics",
+        "api_name": "ParallelDots Multilingual Sentiment Analysis",
+        "id": 1854,
+        "progweb_descr": " ParallelDots Multilingual Sentiment Analysis API help understand underlie tone message sentence French Portuguese ParallelDots plan additional language support future Please sure check API page additional language update"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Analytics",
+        "api_name": "ParallelDots Emotion Analysis",
+        "id": 1856,
+        "progweb_descr": " Detecting emotion attach textual data social medium survey customer feedback Our Emotion Analysis classifier train proprietary dataset tell whether underlie emotion behind message Happy Sad Angry Fearful Excited Funny Indifferent"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Extraction",
+        "api_name": "ParallelDots Named Entity Recognition",
+        "id": 1858,
+        "progweb_descr": " ParallelDots Named Entity Recognition NER API identify individual company place organization city various type entity This API extract information type text web page social medium network"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Data",
+        "api_name": "ParallelDots Keyword Generator",
+        "id": 1859,
+        "progweb_descr": " ParallelDots Keyword Generator API powerful tool text analysis use index data generate tag cloud accelerate search time It generate extensive list relevant keywords phrase make research context focus"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Classification",
+        "api_name": "Vize Custom Vision",
+        "id": 1894,
+        "progweb_descr": " Vize Custom Vision API custom image recognition classification service use integrate artificial intelligence thirdparty apps API teach recognize anything developer want Developers need provide example image Vizeit use train custom neural network"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Classification",
+        "api_name": "Deepomatic Furniture Detection",
+        "id": 2601,
+        "progweb_descr": " Deepomatic Furniture Detection API support detection location furniture image A developer recognize different piece furniture present image simply send image ’ URL base64 API provide deep learn computer vision capability enable user identify bound box specify exact location piece furniture"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Monitoring",
+        "api_name": "ParallelDots Abusive Content Classifier",
+        "id": 1898,
+        "progweb_descr": " Detect abusive content present textual dataThe abusive content classifier API detect abuse help user filter abusive content"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Natural Language Processing",
+        "api_name": "Voysis",
+        "id": 2075,
+        "progweb_descr": " Voysis REST API allow developer access integrate functionality Voysis applications Some example API method include retrieve conversation retrieve texttospeech manage conversation Voysis artificial intelligence AI voice platform allow natural language speech processing voicecontrolled functionality application"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Images",
+        "api_name": "Deepomatic Urban Scene Detection",
+        "id": 2438,
+        "progweb_descr": " Deepomatic Urban Scene Detection API support recognition feature constitute image scene urban set A developer recognize different piece image present scene simply send image ’ URL base64 API provide deep learn computer vision capability enable user identify bound box specify description exact location piece feature scene"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Images",
+        "api_name": "Deepomatic Weapon Detection",
+        "id": 2439,
+        "progweb_descr": " Deepomatic Weapon Detection API support recognition position weapon image A developer recognize different type weapon present image simply send image ’ URL base64 API provide deep learn computer vision capability enable user identify bound box specify description exact location piece weapon image"
+    },
+    {
+        "progweb_cat": "Artificial Intelligence,Clothing",
+        "api_name": "Deepomatic Fashion Apparel Detection",
+        "id": 2603,
+        "progweb_descr": " Deepomatic Fashion Apparel Detection API support detection location clothes image A developer recognize different piece apparel present image simply send image ’ URL base64 API provide deep learn computer vision capability enable user identify bound box specify exact location piece apparel"
+    }
+]

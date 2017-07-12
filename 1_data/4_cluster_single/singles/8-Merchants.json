@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "Merchants,eCommerce",
+        "api_name": "Enter Financial",
+        "id": 2109,
+        "progweb_descr": " Enter Financial REST API allow developer access integrate functionality Enter Financial applications Some example API method include manage user user authentication retrieve application manage banking Enter Financial provide checkout service online eCommerce merchant"
+    },
+    {
+        "progweb_cat": "Merchants,Business",
+        "api_name": "StartupThreads",
+        "id": 2247,
+        "progweb_descr": " This REST API enable programmatically distribute merchandise customer Create customize marketing experience use automated API integrate physical item like tshirt part application Use brand product engage fan customer use loyalty brand reward incentives StartupThreads merchandise solution enables design print ship custom apparel"
+    },
+    {
+        "progweb_cat": "Merchants,Dashboards",
+        "api_name": "MXMerchant",
+        "id": 2310,
+        "progweb_descr": " MXMerchant API available invite code integrate payment merchant application aim simplify inventory reward order management dashboard view REST interface available HTTP request receive JSON XML format authenticate basic HTTP Sandbox cURL example accessible developer interested practice move production"
+    },
+    {
+        "progweb_cat": "Merchants,Credit Cards",
+        "api_name": "CMSOnline",
+        "id": 2523,
+        "progweb_descr": " CMSOnline API agreement USAePay Solutions integrate merchant payment application Developers access SOAP interface library PHP JavaScript ColdFusion Ruby NET Perl request HTTP GET call receive XML response return"
+    },
+    {
+        "progweb_cat": "Merchants,Credit Cards",
+        "api_name": "Merchant Warrior",
+        "id": 4455,
+        "progweb_descr": " Merchant Warrior API allow integrate credit card payment solution merchant application Documentation available download link provide PDF file developer find protocols HTTP XML SSL security Api Key access Merchant Warrior ecommerce service base Australia"
+    },
+    {
+        "progweb_cat": "Merchants",
+        "api_name": "delivery.com Merchant Admin",
+        "id": 3468,
+        "progweb_descr": " This Merchant API provide developer tool integrate search order function thirdparty application deliverycom Delivery APIs allow user search local restaurant liquor store laundries offer delivery pickup make purchase checkout API Deliverycom provide database restaurant fast food establishment dry cleaner liquor store provide delivery option"
+    },
+    {
+        "progweb_cat": "Merchants,Design",
+        "api_name": "Houzz",
+        "id": 4046,
+        "progweb_descr": " Houzz API allow developer access integrate merchant product service Houzz application Public documentation available interested developer contact Houzz API access httpinfohouzzcomAPIRequestsdeveloperhtml Houzz online platform home decoration remodelling offering product service homeowner"
+    },
+    {
+        "progweb_cat": "Merchants,Payments",
+        "api_name": "Shopwave",
+        "id": 6082,
+        "progweb_descr": " Shopwave pointofsale solution merchant Shopwave provide pointofsale function business accept payment Shopwave API allow developer access integrate functionality Shopwave application Some example API method include retrieve item data post payment manage user account"
+    }
+]

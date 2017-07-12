@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Russian,Competitions",
+        "api_name": "Codeforces",
+        "id": 3232,
+        "progweb_descr": " Codeforces API platform service integrate ranking program contest around world It available JSON architecture HTTP request API Key generate httpcodeforcescomsettingsapi If developer prefer work via JSONP receive JavaScript data return"
+    },
+    {
+        "progweb_cat": "Russian,Analytics",
+        "api_name": "Yandex Metrica",
+        "id": 9998,
+        "progweb_descr": " Yandex major Russiabased internet company search engine state mission answer question internet user may In 2012 Yandex handle majority search traffic Russia YandexMetrica free website metric service Metrica enable site owner analyze user behavior evaluate advertising efficiency monitor effectiveness indicator YandexMetrica API provide developer interface automate Metrica service acquire visitation statistic create counter set goal"
+    }
+]

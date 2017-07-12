@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Privacy,Standards",
+        "api_name": "W3C Confinement with Origin Web Labels",
+        "id": 2924,
+        "progweb_descr": " W3C Confinement Origin Web Labels API specification defines API specify privacy integrity policy data via origin label It also specify mechanism confine code accord policy This specification work progress may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Privacy",
+        "api_name": "TM Forum Privacy",
+        "id": 4077,
+        "progweb_descr": " TM Forum Privacy API allow developer handle privacy profile type privacy profile privacy agreement standardize interface TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Privacy,Compliance",
+        "api_name": "Data Privacy Compliance",
+        "id": 4974,
+        "progweb_descr": " Data Privacy Compliance API encode data privacy protection law around world return risk compliance assessment regard propose use person personal data This project may interest anyone regularly process publishes store delete transfer someone elses personal data personally identifiable information PII This REST web service API write Wolfram Language currently provide JSON responses This early stage open source project API endpoint host yet"
+    },
+    {
+        "progweb_cat": "Privacy,Data",
+        "api_name": "Personal",
+        "id": 13428,
+        "progweb_descr": " Personal personalcom enable user privately encrypt valuable information document cloud securely share trusted contact To protect user create new standard user right â€ “ user own data store Personal maintain ownership even give others temporary access export data time Personal Platform developerpersonalcom give developer easytoimplement REST API responsibly securely collect share user information Instead worry build secure scalable backend create business rule security use Personal Platform get back building app Moreover user favor apps receive Powered Personal badge validate use security privacy bestpractices Contact u devpersonalcom question"
+    }
+]

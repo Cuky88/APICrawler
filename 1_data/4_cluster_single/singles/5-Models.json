@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Models,3D",
+        "api_name": "Autodesk Forge Viewer",
+        "id": 617,
+        "progweb_descr": " Autodesk Forge Viewer API formerly View Data API allow application integrate browserbased 2D 3D view functionality It WebGLbased API feature include upload 3D 2D model API order generate view stream provide access model model component data without need CAD software Autodesk California base design business firm provide industry lead software AutoCAD Maya Fusion 360"
+    },
+    {
+        "progweb_cat": "Models,3D",
+        "api_name": "CAD Model Parameter Extraction",
+        "id": 2317,
+        "progweb_descr": " This API allow get information 3D file like boxarea volume xCenter yCenter zCenter This include dimension volume bound box It provide way 3D printing company calculate price would bill 3D print give design need calculate accurate pricing provide quote customer Cadai 3D file viewer professional viewer 3d industry smart CAD Platform CADCAM business"
+    },
+    {
+        "progweb_cat": "Models,3D",
+        "api_name": "CAD Model Repair",
+        "id": 2318,
+        "progweb_descr": " This API allow fix CAD file get ready additive subtractive manufacturing It allow repair exist CAD model create different CAD system This include Check STL Files Repair Degenerate Faces Repair Normal Values Cadai 3D file viewer professional viewer 3d industry smart CAD Platform CADCAM business"
+    },
+    {
+        "progweb_cat": "Models,3D",
+        "api_name": "CAD Model Viewer",
+        "id": 2319,
+        "progweb_descr": " This API allow embed widget website app view present visitor CAD design 3D model This include Preview Model Zoom Grid Helper Cadai 3D file viewer professional viewer 3d industry smart CAD Platform CADCAM business"
+    },
+    {
+        "progweb_cat": "Models,3D",
+        "api_name": "Sculpteo",
+        "id": 9327,
+        "progweb_descr": " Sculpteo online 3D print service Users upload 3D printed model Sculpteo ship 3D object Sculpteo support file 3D model software keep shape color texture design Objects available variety material Sculpteo API provide developer access Sculpteo functionality HTTP POST call Supported process include uploading file order design Responses progress track JSON format"
+    }
+]

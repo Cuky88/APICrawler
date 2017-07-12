@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Cities,Comparisons",
+        "api_name": "Numbeo Cost of Living",
+        "id": 3635,
+        "progweb_descr": " Numbeo Cost Living API integrate live condition comparison two city country Available JSON protocol interchange data Api Key authentication Methods include city price item currency exchange hotel price index crime healthcare pollution traffic climate Founded Mladen Adamovic"
+    },
+    {
+        "progweb_cat": "Cities,Location",
+        "api_name": "Citymapper",
+        "id": 3649,
+        "progweb_descr": " Citymapper API integrate city data application include transportation map Developers GET information transit time two point Sign Api Key receive information large quota apicitymappercom"
+    },
+    {
+        "progweb_cat": "Cities,Analytics",
+        "api_name": "Predix Parking Planning",
+        "id": 3676,
+        "progweb_descr": " Parking Planning API offer park metadata obtain light sensor park lot along public roadway Information real time occupancy status available This REST API return data JSON format use OAuth 2 Tokens authentication Predix industrial software platform develop General Electric Digital aim improve asset performance management APM operation business"
+    },
+    {
+        "progweb_cat": "Cities,Environment",
+        "api_name": "Predix Pedestrian Planning",
+        "id": 3677,
+        "progweb_descr": " Pedestrian Planning API offer metadata obtain intelligent light sensor locate along public roadway park lot Information return API include volume count region This REST API return data JSON format use OAuth 2 Tokens authentication Predix industrial software platform develop General Electric Digital aim improve asset performance management APM operation business"
+    },
+    {
+        "progweb_cat": "Cities,Environment",
+        "api_name": "Predix Public Safety",
+        "id": 3718,
+        "progweb_descr": " Public Safety API offer medium obtain intelligent light sensor locate along public roadway park lot This information provide local business city official insight purpose improve environment awareness This REST API return data JSON format use OAuth 2 Tokens authentication Predix industrial software platform develop General Electric Digital aim improve asset performance management APM operation business"
+    },
+    {
+        "progweb_cat": "Cities,Data",
+        "api_name": "US Census Bureau City",
+        "id": 5207,
+        "progweb_descr": " US Census Bureau City REST API allow developer access integrate city demographic information US Census applications Some example API method include retrieve population information retrieve income information integrate demographic information application US Census Bureau provide demographic information United States"
+    },
+    {
+        "progweb_cat": "Cities,Open Data",
+        "api_name": "iCity",
+        "id": 6087,
+        "progweb_descr": " iCity Project project develop intention build Linked Open Apps Ecosystem base upon vision Linked Open Data iCity API offer way obtain information device group device With API developer able interact iCity data develop application public interest focus"
+    }
+]

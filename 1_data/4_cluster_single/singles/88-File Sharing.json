@@ -1,0 +1,530 @@
+[
+    {
+        "progweb_cat": "File Sharing,Cloud",
+        "api_name": "MediaFire",
+        "id": 348,
+        "progweb_descr": " MediaFire cloudbased service store share file Users host share file type include document presentation videos image All account upload share unlimited number file maximum file size 200MB free account Users access manage MediaFire cloud use RESTful API"
+    },
+    {
+        "progweb_cat": "File Sharing,Cloud",
+        "api_name": "Copy.com",
+        "id": 857,
+        "progweb_descr": " Copy cloudbased file storage share service Users access file anywhere include mobile device still keep file sync Copy user share file publicly privately able decide whether let viewer sync share content computer view online Copy also design use company It come user group management function help maintain control proprietary content company data Copy RESTful API currently close Beta Any application build API current form probably break time API become stable"
+    },
+    {
+        "progweb_cat": "File Sharing,Cloud",
+        "api_name": "Ubuntu One Files",
+        "id": 963,
+        "progweb_descr": " Ubuntu One Files API use store file Ubuntu One cloud Users may choose sync stored file none machine device This API also use publish file public URL Ubuntu One Files API operate REST use GET PUT call"
+    },
+    {
+        "progweb_cat": "File Sharing,Cloud",
+        "api_name": "Livedrive",
+        "id": 13006,
+        "progweb_descr": " Livedrive cloud storage backup service Livedrive allow user upload file cloud storage share well sync Livedrive also offer backup service Livedrive API allow developer access integrate functionality Livedrive application Some example API method include manage user create backup manage backup manage account"
+    },
+    {
+        "progweb_cat": "File Sharing,Cloud",
+        "api_name": "OwnCloud",
+        "id": 13325,
+        "progweb_descr": " OwnCloud document data storage share application Documents data upload OwnCloud store cloud Users sync file share file encrypt file OwnCloud API allow developer access integrate functionality OwnCloud application create new application Some example API method include uploading file sync file share file"
+    },
+    {
+        "progweb_cat": "File Sharing,Cloud",
+        "api_name": "YouSendIt",
+        "id": 13869,
+        "progweb_descr": " Cloud folder free file storage 2GB accessible via mobile device web app instal desktop app Tiered pricing large capacity Plugin integration file edit application Security model allow share via URL electronic signature Note API home form submit receive email link PDF documentation"
+    },
+    {
+        "progweb_cat": "File Sharing",
+        "api_name": "OneDrive",
+        "id": 660,
+        "progweb_descr": " Allows developer integrate OneDrive apps store manage user data Features include ability keep file sync use minimal call retrieve new change file folder resumable uploads file 10 GB customizable file thumbnail image"
+    },
+    {
+        "progweb_cat": "File Sharing",
+        "api_name": "ShareFile",
+        "id": 927,
+        "progweb_descr": " Citrix ShareFile file share application ShareFiles file share transfer secure offer mobile access file folder sync Outlook plugin ShareFile API allow developer access integrate data functionality ShareFile applications Some example API method include create manage file folder manage account information add delete manage user"
+    },
+    {
+        "progweb_cat": "File Sharing",
+        "api_name": "PeerJS",
+        "id": 8771,
+        "progweb_descr": " PeerJS provide simple peertopeer data share API function wrap WebRTC It provide true binary data support preconnect client faster connection establishment Each peer wish share data simply provide identifier peer use API key connect PeerJS service deal WebRTC handshake handle NAT traversal user PeerJS broker connection connect PeerServer Users choose run PeerServer use free version host PeerJS This host server access programmatically via JavaScript API"
+    },
+    {
+        "progweb_cat": "File Sharing",
+        "api_name": "Zeta Uploader",
+        "id": 9649,
+        "progweb_descr": " Zeta Uploader service allow user send large file online freeofcharge Users enter one file email address Zeta Uploader send download link intend recipient Anyone know download URL download file unless user chooses passwordprotect maximum uploadable file size 500MB file remain downloadable 30 day Zeta Uploader API allow user access function programmatically via SOAP call"
+    },
+    {
+        "progweb_cat": "File Sharing",
+        "api_name": "KnpBundles",
+        "id": 10220,
+        "progweb_descr": " KnpBundles repository bundle Symfony2 PHP framework web project repository access directly KnpBundles website programmatically via HTTP REST API Functions available retrieve complete list bundle developer organization information individual category API user may also retrieve bundle provide give developer organization search entire repository This API accept GET request return response JSON When use API call return pageable list user may choose limit total number page number result per page"
+    },
+    {
+        "progweb_cat": "File Sharing",
+        "api_name": "GHNS Desktop Exchange Service",
+        "id": 11466,
+        "progweb_descr": " Get Hot New Stuff GHNS site allow user create data file share others provide evaluation download file installation Its various implementation carry different name Desktop Exchange Service DXS permit upload download customize information instance upload call would include data file preview metainformation one file A download list request could generate base parameter time last modification popularity data type DXS accessible programmatically use SOAP API Although DXS part Hotstuff WSDL endpoint still appear functional"
+    },
+    {
+        "progweb_cat": "File Sharing",
+        "api_name": "FileCatalyst",
+        "id": 12091,
+        "progweb_descr": " FileCatalyst rapid file transfer service It employ custom protocol design accelerate file transfer immune packet loss latency speed file transfer scale available line speed full 10 Gbps FileCatalyst JavaScript API offer ability implement accelerate file transfer application within web browser"
+    },
+    {
+        "progweb_cat": "File Sharing",
+        "api_name": "FileTrek",
+        "id": 12856,
+        "progweb_descr": " FileTrek software inc provider file share solution allow company transfer file easily track move company software also provide ability see open modify file FileTrek offer API put file track service use within current system"
+    },
+    {
+        "progweb_cat": "File Sharing",
+        "api_name": "RapidShare",
+        "id": 14927,
+        "progweb_descr": " RapidShare API let developer build application base rapidshare RapidShare online file share website API use RESTful protocol"
+    },
+    {
+        "progweb_cat": "File Sharing,Documents",
+        "api_name": "Issuu Search",
+        "id": 779,
+        "progweb_descr": " Issuu turn document online publication Features benefit Upload document turn professional online publication Explore living library webs publication Post embed publication anywhere online Facebook MySpace Blogger etc Create custom viewer design integrate publication website"
+    },
+    {
+        "progweb_cat": "File Sharing,Documents",
+        "api_name": "WeTransfer",
+        "id": 5753,
+        "progweb_descr": " WeTransfer API allow developer advertiser access integrate functionality WeTransfer application main API method integration WeTransfer functionality retrieve statistic WeTransfer file share storage platform"
+    },
+    {
+        "progweb_cat": "File Sharing,Documents",
+        "api_name": "Quip",
+        "id": 7543,
+        "progweb_descr": " Quip word processor enable document creation device Quip API enable document download uploaded HTML allow developer write custom document importer exporter Custom notification allow post message edit task list With account automation people add document share folder"
+    },
+    {
+        "progweb_cat": "File Sharing,Documents",
+        "api_name": "Droplr",
+        "id": 9553,
+        "progweb_descr": " Droplr file share service allow user share file size type Droplr enable share music note video document type file Droplr API allow developer access integrate functionality Droplr application Public documentation available interested developer email jdpr information"
+    },
+    {
+        "progweb_cat": "File Sharing,Documents",
+        "api_name": "Mover.io",
+        "id": 10714,
+        "progweb_descr": " Moverio service allow user move document data across online application cloud Users use Mover change cloudstorage provider back website file make sure document data one place Moverio API allow developer access integrate functionality Moverio application create new application Some example API method include manage account create manage collection access transferring file"
+    },
+    {
+        "progweb_cat": "File Sharing,Documents",
+        "api_name": "GroupDocs",
+        "id": 12280,
+        "progweb_descr": " GroupDocs online document management platform GroupDocs allow user organization manage revise document create digital signature collaborate document search document within group Various annotation option highlight underline strike text well leave comment textimages include make proofread process easy user GroupDocs Annotation API Kentico provide developer set annotation tool Text annotation Area annotation Point annotation Polyline annotation Strikeout text Functionality Annotation API Text image annotation collaboration export document allow developer ultimate document management experience Users upload PDF file share document colleague GroupDocs Annotation App Any review comment incorporate save user export annotate PDF document comment annotation place All note comment become part new export file view popular PDF reader Email address reviewer also highlight developer keep track comment different reviewer time Kentico Annotation API let user annotate document realtime well collect review comment individually Users th option collaborate colleague share idea via comment see reviews realtime GroupDocs Annotation API Kentico provide developer marker counter sidebar easily navigate comment Familiar edit tool highlight text insert shape strike text well draw freehand directly document available GroupDocs Annotation API Kentico enable user annotate image picture graphic easily text Users invite collaborator review add comment document simultaneously Users also keep offline well hardcopy annotate PDF document future reference Interested developer refer documentation RESTful API available online"
+    },
+    {
+        "progweb_cat": "File Sharing,Media",
+        "api_name": "4Shared",
+        "id": 838,
+        "progweb_descr": " 4shared online storage file share service found 2005 Users upload store share type file include music video photo document 4shared API provide developer access 100 API function include access web account uploaddownload file search file create delete folder"
+    },
+    {
+        "progweb_cat": "File Sharing,Media",
+        "api_name": "Ponyfac.es",
+        "id": 12541,
+        "progweb_descr": " Ponyfaces gallery My Little Pony avatars Users submit image animate GIFs My Little Pony cartoon show others copy paste expressive avatar API expose image access functionality collection Developers make request tag ID category define Poniesâ€™ name It RESTful API return JSON JSONP XML result"
+    },
+    {
+        "progweb_cat": "File Sharing,Torrents",
+        "api_name": "Fenopy",
+        "id": 872,
+        "progweb_descr": " Fenopy torrent share site Users upload download torrent music movie TV show application game book Fenopy API allow user access information functionality Fenopy API method include search torrent category data find fake torrent list fake torrent"
+    },
+    {
+        "progweb_cat": "File Sharing,Torrents",
+        "api_name": "Prodigem",
+        "id": 1622,
+        "progweb_descr": " Note As 73108 appear api longer available site"
+    },
+    {
+        "progweb_cat": "File Sharing,Torrents",
+        "api_name": "YIFY-Torrents",
+        "id": 9352,
+        "progweb_descr": " YIFIYTorrents movie piracy community know reencoding movie high quality HD small file size YIFYTorrents API provide RESTful interface automate interaction YIFYTorrents website Exposed resource include user account management movie list information request comment post Responses may JSON XML CSV format"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Egnyte",
+        "id": 1034,
+        "progweb_descr": " Egnyte allow enterprise store file right place base file size security compliance need unique solution cloud onprem synchronize cloud onprem storage Users get seamless access file share device regardless file store"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Torrage",
+        "id": 7667,
+        "progweb_descr": " Torrage allow user cache torrent file online free Users access cache torrent file already know infohash value file question Users search people file Torrage API allow user automatically cache new torrent file cache large number old file Code example provide PHP Perl"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "SparkleShare",
+        "id": 7934,
+        "progweb_descr": " SparkleShare provide space internet user store stuff SparkleShare Open Source product allow user store share sync file SparkleShare API allow developer programmatically manipulate resource user project user key"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "My Docs Online Secure File Delivery",
+        "id": 8038,
+        "progweb_descr": " My Docs Online file share storage application My Docs Online Secure File Delivery RESTful web API provide access file delivery service application In particular allows web mobile apps easily incorporate HIPAAcompliant file delivery secure configurable ad hoc file document delivery"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Seafile",
+        "id": 8816,
+        "progweb_descr": " Seafile file sync share service team Files organize library individually share synced device Users edit comment share file choose receive notification file alter Seafile compatible mobile device access file notification message go Developers access Seafiles function remotely via REST call"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Dropmark",
+        "id": 9014,
+        "progweb_descr": " Dropmark file document share storage collaboration service Dropmark allow user collaborate document organize file share file Dropmark API allow developer access integrate functionality Dropmark applictions Public documentation available interested developer email apidropmarkin information"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Netload",
+        "id": 9350,
+        "progweb_descr": " Netload file host share site Netload API provide developer access netload functionality Exposed resource include file upload file information request link status check API support HTTP GETPOST call require user account"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Onehub",
+        "id": 9457,
+        "progweb_descr": " Onehub file share solution allow store file collaborate coworkers communicate client place Use service quickly upload organize content share collaborate communicate securely access content location Onehub API enable access data Onehub service behalf client API design adhere REST Principals API use HTTPS return data JSON"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "4sync",
+        "id": 10924,
+        "progweb_descr": " 4sync file share file storage application web desktop mobile Users upload sync share store file document across multiple platform 4sync API allow developer access integrate functionality 4sync application create new application Some example API method include manage account add manage file retrieve file"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Plifk",
+        "id": 11457,
+        "progweb_descr": " Plifk service allow user upload share file Internet Upon signup user get Plifk URL file appear An API available let developer integrate service functionality third party application Available method include retrieve user information list user tag retrieve file information listing file belong user API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Ge.tt",
+        "id": 13632,
+        "progweb_descr": " Gett file share publish platform Users access 2 GB storage free Users use Gett share file publish file online Gett API allow developer access functionality Gett create application Some example API method include uploading file access file manage file Gett also offer live API allow realtime share"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "BrickFTP",
+        "id": 13872,
+        "progweb_descr": " Hosted file share service work via Web FTP Provides share FTP server allow send file receive file client vendor teammate Service allow control access part account repository via FTP program service web workspace"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Crocko",
+        "id": 13945,
+        "progweb_descr": " Crocko file host service Users upload organize share file Crocko Users also download file well file share Crocko API allow user access Easyshares functionality upload file get file detail move file folder get link file access account detail"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "SendSpace",
+        "id": 13978,
+        "progweb_descr": " SendSpace online file share service Any file type upload SendSpace limit number downloads per file SendSpace API allow embed SendSpace service application program script API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Fileslap",
+        "id": 14047,
+        "progweb_descr": " Fileslap service let user upload file share web download require view file Fileslap offer free trial 7mo plan free plan limit 1MB file 20 file max Fileslap API RESTful API let developer create program interact Fileslap API require HTTP Basic Authentication return result JSON format API also use retrieve data number view file size give file"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Let's Crate",
+        "id": 14149,
+        "progweb_descr": " Lets Crate file share service allow user create crate upload file generate link share others Lets Crate API allow developer access data Lets Crate Some example API method include list file upload file delete file add crate list crate delete crate"
+    },
+    {
+        "progweb_cat": "File Sharing,Storage",
+        "api_name": "Foldier",
+        "id": 15396,
+        "progweb_descr": " Foldier offer user tool search aggregate organize share personal content foldier API RESTful interface allow external application request service foldier"
+    },
+    {
+        "progweb_cat": "File Sharing,Search",
+        "api_name": "FilesTube",
+        "id": 1139,
+        "progweb_descr": " From site This API help put FilesTube Search web page FilesTubecom search engine design search file various file share uploading site FilesTube find file match search criterion among file see recently upload site search spider"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte User Management",
+        "id": 1968,
+        "progweb_descr": " Egnyte User Management API allow developer access integrate user management functionality Egnyte application Some example API method include create user manage user retrieve information user Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte Audit Reporting",
+        "id": 1969,
+        "progweb_descr": " Egnyte Audit Reporting API allow developer access integrate audit reporting functionality Egnyte application Some example API method include automatically create audit report retrieve report retrieve information report Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte Group Management",
+        "id": 1970,
+        "progweb_descr": " Egnyte Group Management API allow developer access integrate group management functionality Egnyte application Some example API method include create group manage group retrieve information group Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte File System",
+        "id": 1971,
+        "progweb_descr": " Egnyte File System API allow developer access integrate file share functionality Egnyte application Some example API method include create folder manage file retrieve information folder file Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte Metadata",
+        "id": 1972,
+        "progweb_descr": " Egnyte Metadata API allow developer access integrate metadata functionality Egnyte application Some example API method include define metadata manage metadata apply metadata file folder Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte Trash",
+        "id": 1973,
+        "progweb_descr": " Egnyte Trash API allow developer access integrate trash functionality Egnyte application Some example API method include list delete folder file restore deleted file permanently remove folder file Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte Folder Options",
+        "id": 1974,
+        "progweb_descr": " Egnyte Folder Options API allow developer modify folder option Egnyte folder Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte Permissions",
+        "id": 1979,
+        "progweb_descr": " Egnyte Permissions API allow developer access integrate permission functionality Egnyte application Some example API method include create permission manage permission retrieve information permission user Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte Embedded UI",
+        "id": 1981,
+        "progweb_descr": " Egnyte Embedded UI API allow developer embed start Web UI session web browser Authentication via API token Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte Comments",
+        "id": 1982,
+        "progweb_descr": " Egnyte Comments API allow developer access integrate comment functionality Egnyte application Some example API method include create comment show comment retrieve information comment Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Egnyte Links",
+        "id": 1983,
+        "progweb_descr": " Egnyte Links API allow developer access integrate deep linking functionality Egnyte application Some example API method include create deep link list link retrieve information link Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "SharePoint 2013",
+        "id": 6665,
+        "progweb_descr": " Sharepoint 2013 API allow developer interact remotely SharePoint data use technology support REST web request API provide developer access Sharepoint resource explore full functionality"
+    },
+    {
+        "progweb_cat": "File Sharing,Collaboration",
+        "api_name": "Chapoo",
+        "id": 9119,
+        "progweb_descr": " Chapoo cloudbased platform collaboration project information management service allow project manager designer engineer contributor improve productivity good collaboration communication coordination Chapoo offer fullfeatured RESTful API live query report Example function include get item contain binder get contact image contact get list form folder create new folder Results return JSON format"
+    },
+    {
+        "progweb_cat": "File Sharing,Bookmarks",
+        "api_name": "Egnyte Bookmarks",
+        "id": 1980,
+        "progweb_descr": " Egnyte Bookmarks API allow developer access integrate bookmark functionality Egnyte application Some example API method include create bookmark folder list bookmark folder retrieve information bookmark Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "File Sharing,Applications",
+        "api_name": "OpenStack Shared File Systems",
+        "id": 2442,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service organization provide standard APIs well suit multiple implementation OpenStack Shared File Systems API support construction apps manage share file system busy cloud environment Its deployment allow developer create operate share file system multitenant cloud environment addition manage functional property accessibility visibility"
+    },
+    {
+        "progweb_cat": "File Sharing,Email",
+        "api_name": "Andritz eParcel",
+        "id": 4892,
+        "progweb_descr": " Andritz eParcel SOAP API allow developer access integrate functionality Andritz eParcel application Some example API method include create eParcels send eParcels manage email access eParcels Andritz eParcel fileexchange platform"
+    },
+    {
+        "progweb_cat": "File Sharing,Accounts",
+        "api_name": "John Deere MyJohnDeere",
+        "id": 5344,
+        "progweb_descr": " John Deere MyJohnDeere API allow developer securely exchange file John Deere customer give digital approval API include method upload download file MyJohnDeere cloud transfer file MyJohnDeere cloud JDLinkenabled John Deere machine securely share file MyJohnDeere organization"
+    },
+    {
+        "progweb_cat": "File Sharing,Application Development",
+        "api_name": "GitHub Gists",
+        "id": 5868,
+        "progweb_descr": " GitHub GitHub Gists API allow developer integrate Github file share service application give developer access gist ’ content This API OAuth authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "File Sharing,Data",
+        "api_name": "Harvard DVN File Access",
+        "id": 5991,
+        "progweb_descr": " Harvard DVN File Access API allow developer integrate Harvard Dataverse Network DVN application allow user download digital objectsfiles Dataverse project dedicate share archive cite research data"
+    },
+    {
+        "progweb_cat": "File Sharing,Data",
+        "api_name": "FileAPI",
+        "id": 6641,
+        "progweb_descr": " FileAPI — set javascript tool work file Multiupload dragndrop chunk file upload"
+    },
+    {
+        "progweb_cat": "File Sharing,Data",
+        "api_name": "Varonis DatAnywhere",
+        "id": 7172,
+        "progweb_descr": " Varonis provide software platform enterprises map analyze manage migrate unstructured data Their product enable automation data management protection task allow business extract insight humangenerated data Enterprises increase productivity reduce risk low cost DatAnywhere API Varonis provide REST interface corporate file share File share integrate enterprise application databases Developers use API add secure file access application develop additional desktop mobile client web interface"
+    },
+    {
+        "progweb_cat": "File Sharing,Backup",
+        "api_name": "FileCloud Admin",
+        "id": 6338,
+        "progweb_descr": " FileCloud Dropboxlike solution allow business create private brandable cloud employee customer client These cloud provide file share sync mobile access service FileCloud also come number feature differentiate cloud service active directory integration searchable audit report remote mobile device management endpoint backup FileCloud Admin API enable user access administrative method handle alert audit check external object group user etc"
+    },
+    {
+        "progweb_cat": "File Sharing,Backup",
+        "api_name": "FileCloud User",
+        "id": 6341,
+        "progweb_descr": " FileCloud Dropboxlike solution allow business create private brandable cloud employee customer client These cloud provide file share sync mobile access service FileCloud also come number feature differentiate cloud service active directory integration searchable audit report remote mobile device management endpoint backup FileCloud User API allow user programmatically access favorite file image profile share option"
+    },
+    {
+        "progweb_cat": "File Sharing,Business",
+        "api_name": "Dropbox for Business",
+        "id": 6388,
+        "progweb_descr": " Dropbox Business API enable business manage lifecycle employee file share account Dropbox With ability perform Core API function across member team API use view team usage statistic check audit log perform admin function team management API allow access 4 basic parameter Team information – aggregation team data Team audit – team activity log Team member file access – admin functionality grant ability perform normal Dropbox action team member Team member management – function enable creation deletion edit team member API accept standard OAuth20 authentication accessible HTTP return JSON object"
+    },
+    {
+        "progweb_cat": "File Sharing,Business",
+        "api_name": "SmartFile",
+        "id": 13392,
+        "progweb_descr": " SmartFile filesharing FTP platform SmartFile allow user send receive manage file web email SmartFile API allow developer access integrate SmartFile functionality application Some example API method include create user account integrate online backup manage user account add file share application"
+    },
+    {
+        "progweb_cat": "File Sharing,News Services",
+        "api_name": "Collaboration Today",
+        "id": 7502,
+        "progweb_descr": " OpenNTF provide framework develop host open source project Collaboration Today API retrieve information OpenNTF include URLs project names project short project description project creation date date last release project owner contributor project GitHub name URL person upload give release"
+    },
+    {
+        "progweb_cat": "File Sharing,3D",
+        "api_name": "bimsync",
+        "id": 8878,
+        "progweb_descr": " Bimsync secure storage distribution service build information model Bimsync offer complete revision control building model project along intuitive 3D visualization cloud everyone involve project access model time A REST API available access bimsync service All API access HTTPS response return JSON Authentication base OAuth 20"
+    },
+    {
+        "progweb_cat": "File Sharing,3D",
+        "api_name": "Sketchfab",
+        "id": 12540,
+        "progweb_descr": " SketchFab medium platform host interactive 3D model Artists publish 3D modeling work share friends family perspective employer Others browse site look specific kind model like plane train automobile SketchFab API expose websiteâ€™s upload functionality Users upload image include descriptive metadata It RESTful API return JSON result"
+    },
+    {
+        "progweb_cat": "File Sharing,Hosting",
+        "api_name": "PutLocker",
+        "id": 9323,
+        "progweb_descr": " PutLocker file host share site PutLocker API allow developer automate file uploads simple POST call API support convert file stream allow user specify folder profile file uploads"
+    },
+    {
+        "progweb_cat": "File Sharing,Hosting",
+        "api_name": "Share-Online",
+        "id": 9325,
+        "progweb_descr": " ShareOnline file host share site build emphasis simple fast operation ShareOnline API provide HTTP POST call uploading file check filestatus link API may upload file singly chunk"
+    },
+    {
+        "progweb_cat": "File Sharing,Hosting",
+        "api_name": "Hotfile",
+        "id": 9326,
+        "progweb_descr": " Hotfile file host share site Hotfile API allow developer automate site function include file creationdeletion account management user file data retrieval Some method may call anonymously method require login require premium membership"
+    },
+    {
+        "progweb_cat": "File Sharing,Social",
+        "api_name": "AppAddict",
+        "id": 9344,
+        "progweb_descr": " AppAddict online collection crack application digital book mobile device AppAddict API allow user automate mass uploads via HTTP GETPOST call Users must AppAddict account mass upload permission Responses JSON format"
+    },
+    {
+        "progweb_cat": "File Sharing,Caching",
+        "api_name": "ZoinkIT",
+        "id": 9351,
+        "progweb_descr": " ZoinkIT free online service cache torrent file ZoinkIT API allow user automate cache newly create torrent file web service available SOAP API via HTTP POST call"
+    },
+    {
+        "progweb_cat": "File Sharing,Privacy",
+        "api_name": "Dropproxy",
+        "id": 9571,
+        "progweb_descr": " Dropproxy filesharing service hide user Dropbox ID public URL via proxy user safely share file Dropbox remain safe Dropproxy API allow developer access integrate functionality Dropproxy application main API method post file get proxy retrieve file retrieve stats file link"
+    },
+    {
+        "progweb_cat": "File Sharing,Mobile",
+        "api_name": "PushBullet",
+        "id": 10002,
+        "progweb_descr": " PushBullet API allow developer engage customer PushBullet Android application This service make easy write software push device PushBullet What would push PushButton provide tool This API utilize RESTful call JSON response"
+    },
+    {
+        "progweb_cat": "File Sharing,Mobile",
+        "api_name": "goo.im",
+        "id": 11706,
+        "progweb_descr": " Gooim formerly GooINsi file mirror site host mainly Androidrelated file It provide place user upload download file use mobile device free site mirror official CyanogenMod build hundred ROMs radio firmware update miscellaneous file use development root Android device gooim API provide JSON feed use show list select ROMs website provide continuously update Google apps listing"
+    },
+    {
+        "progweb_cat": "File Sharing,Monetization",
+        "api_name": "FileCopter",
+        "id": 11981,
+        "progweb_descr": " FileCopter free file host service also pay user people download user upload file When file upload download link generate owner file receive 20 every 10000 downloads file FileCopter API use REST call get file information upload file directly server An API key require access API interface"
+    },
+    {
+        "progweb_cat": "File Sharing,Images",
+        "api_name": "Lauerfac.es",
+        "id": 12003,
+        "progweb_descr": " Lauerfaces avatarhosting platform image Christopher Lauer prominent member Germanyâ€™s Pirate Party Users upload expressive image Christopher Lauerâ€™s face browser copy paste around web API allow developer access image metadata make request ID category tag It RESTful API provide JSON JSONP XML response"
+    },
+    {
+        "progweb_cat": "File Sharing,Images",
+        "api_name": "Ragefac.es",
+        "id": 12542,
+        "progweb_descr": " Ragefaces gallery facial meme avatars Users submit image popular expressive meme homepage repository Browsers select image want copy paste around web API provide access image retrieval functionality website Requests make ID tags category image It RESTful API return JSON format data UTF8"
+    },
+    {
+        "progweb_cat": "File Sharing,URL Shortener",
+        "api_name": "Mgnet.me shortener",
+        "id": 12270,
+        "progweb_descr": " Mgnetme shortener magnet URI scheme Magnet link primarily use referencing resource available download via peertopeer network API provide functionality XML JSON text output format"
+    },
+    {
+        "progweb_cat": "File Sharing,Tools",
+        "api_name": "Bimshare Upload",
+        "id": 12415,
+        "progweb_descr": " Bimshare share platform engineering architectural model Users upload 3D model design view angle Bimshare design work many browser professional student government Their API expose functionality generate URLs model host It RESTful API respond JSON"
+    },
+    {
+        "progweb_cat": "File Sharing,Reference",
+        "api_name": "Globus Online Transfer",
+        "id": 12816,
+        "progweb_descr": " Globus Online file transfer service design specifically researcher require access file locate multiple device RESTbased Transfer API allow user perform number Globus Onlines file transfer function programmatically RESTaccessible function include submit file transfer task monitor progress task manage file transfer endpoint list remote directory"
+    },
+    {
+        "progweb_cat": "File Sharing,Enterprise",
+        "api_name": "BlinkSend",
+        "id": 14552,
+        "progweb_descr": " BlinkSend webbased document solution It provide user stats analytics show whos reading particular document amount time read feedback one BlinkSend API allow developer access full functionality BlinkSend service API allow user show report traffic create account member site view create tag add retrieve contact add new member admins Documentation available upon signup"
+    },
+    {
+        "progweb_cat": "File Sharing,Photos",
+        "api_name": "Pando",
+        "id": 15610,
+        "progweb_descr": " From site Pando Web Services allow web site application present dynamic information Pando package format presentation suit site Pando Automation Toolkit allow desktop application integrate Pando example photo organizer could allow user send photo album use Pando There two complex APIs Pando Client Integration Toolkit Pando Server Integration Toolkit available deeper integration"
+    }
+]

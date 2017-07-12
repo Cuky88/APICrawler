@@ -1,0 +1,2006 @@
+[
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "KooKoo",
+        "id": 12,
+        "progweb_descr": " KooKoo act interface application telephony application allow user setup extra delivery channel web application It perform telephony application like place call receive call send smsgathering user input etc It act another web page application accessible phone rather browser With KooKoo user build telecom application IVRs Interactive Voice Response office PBX outbound campaign API let user take advantage exist web development skill build telephony apps API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "Tropo Scripting",
+        "id": 222,
+        "progweb_descr": " Tropo make simple build phone SMS Instant messaging application You use web technology already know Tropos powerful cloud API bring realtime communication apps If create web site make receive phone call use voice recognition interact SMS IM Twitter You even create conference call transcribe call Theres need learn new language wrestle VoIP software learn telephony Host code u use exist web server language choice Coverage usa canada australia austria belgium brazil bulgaria croatia Cyprus CzechRepublic Denmark Estonia Finland France Germany Greece HongKong Hungary Ireland Israel Italy Japan Latvia Lithuania Luxembourg Malta Mexico Netherlands NewZealand Norway Panama Peru Poland Portugal Romania Slovakia Slovenia Spain Sweden Switzerland uk"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "QuickFuse",
+        "id": 448,
+        "progweb_descr": " QuickFuse unique voice application editor platform ’ control web browser Voice application build QuickFuse platform assemble snap together component library visual application model cover requirement IVR message telephony application data management QuickFuse service provide cloud accessible developer nontechnical business user QuickFuse API use REST SOAP CSV upload download data Speech recognition texttospeech control various application module"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "Verizon ThingSpace Personal Cloud Storage",
+        "id": 3158,
+        "progweb_descr": " Verizon ThingSpace Personal Cloud Storage API integrate cloud service telephony application It available OAuth2 authentication method HTTP request JSON response API console experiment development"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "Afilnet Cloud Marketing",
+        "id": 3291,
+        "progweb_descr": " Afilnet Cloud Marketing API link Afilnet subscriber portfolio communication channel include email SMS voice call Each channel feature five functionality send message particular recipient send message group recipients send message template particular recipient send message template group recipient get notification delivery statuses sent message API ’ simple architecture readily accommodate app development program easily process JSON response Afilnet Cloud Marketing API generate call HTTP GET method return responses JSON format"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "Twilio Lookups",
+        "id": 3424,
+        "progweb_descr": " Lookups API offer information phone number regionspecific format carrier detail caller name information Each request obtain 1 type data This API return information JSON format require API Keys authentication Twilio San Francisco base telephony infrastructure provider"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "Twilio Client",
+        "id": 7076,
+        "progweb_descr": " Twilio Client allow browser device receive send voice call This API could valuable integrate softphones web conferencing clicktotalk service application site show quickstart guide PHP user make call browser receive call browser make call two browser Some prerequisite include browser support Twilio client account web server test sample code Twilio helper library library find redirect link code download zipfile"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "Exotel",
+        "id": 9385,
+        "progweb_descr": " Exotel provide user virtual phone number use customer service bulk SMS conference call These number come Interactive Voice Response IVR call record data collection analytics service Exotel provide RESTful API allow developer integrate IVR SMS system application website"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "SimpleVox",
+        "id": 10020,
+        "progweb_descr": " SimpleVox phone VoIP solution SimpleVox cloudbased offer variety telephony feature voicemail voice menu wait music multiple line various type phone cell landline etc SimpleVox API allow developer access integrate functionality SimpleVox application Public documentation available interested developer contact SimpleVox hellosimplevoxcom"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "RingCentral RingOut",
+        "id": 11634,
+        "progweb_descr": " RingCentral provide cloud base phone system allow company break legacy phone system utilize RingCentrals business phone system fax voice service A service offer include autoreceptionist functionality flexible extension structure multiple voicemail box intelligent call rout ability use extension dial transfer enhance smartphone integration API allow customer employ RingOut service third party application Through GET POST call four service list call status cancel accesible HTTP Cookies must store customer use future call"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "Alianza",
+        "id": 12645,
+        "progweb_descr": " service provide hosted broadband platform voice communication especially voiceoverIP VoIP Cloudbased service deliver via share network infrastructure distribute capital cost hardware network resource among user reduces risk VoIP implementation API method support creation update deletion user account control access platform Methods also handle call place user phone number use include extension device involve API allow control geographic area policy user account permission 911 access"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "M5 Connect",
+        "id": 12822,
+        "progweb_descr": " M5 cloudbased enterpriseclass phone system company company replace phone system telco provider provide customer one invoice service API support cloud premise base application API integrate business application M5 phone system It allow developer control manage phone system remote location phone system thirdparty vendor"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "Aculab Cloud",
+        "id": 14306,
+        "progweb_descr": " Aculab Cloud enable user create scalable voice SMS fax application It Communications platformasaservice CPaaS present high level APIs Python PHP Java Ruby NET make quick easy write range application developer account free wish run application simply pay per minute runtime application In addition purchase range international inbound number make use international carrier relationship place make outbound call send SMS message Users write application manage interaction call logic include transfer call play message add call together conference RESTful API provide programmatic access Cloud Filestore whereby suitable program may download upload delete rename medium file Multilanguage texttospeech TTS automatic speech recognition ASR include extra charge"
+    },
+    {
+        "progweb_cat": "Telephony,Cloud",
+        "api_name": "Genband A2",
+        "id": 14713,
+        "progweb_descr": " Genband telecommunication infrastructure service solution provider Genband A2 Converged Applications Server lead SIP IMS Applications platform give enterprise consumer user access voice video call instant messaging conferencing telephony service A2 API let user integrate IP telephony application Developers use Genband A2 APIs provide cloudbasedsocial multimedia service enterprise consumer VoIP telephony click call voice video call phonemobile presence instant messaging conferencing incomingoutgoing call friend list address book Genband APIs leverage common SOAPXML RESTful interface well triggerbased SCIM access SIP message Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Telephony,Media",
+        "api_name": "MyVox",
+        "id": 67,
+        "progweb_descr": " From site With MyVox voiceenable application imagine MyVox turn phone microphone hook application"
+    },
+    {
+        "progweb_cat": "Telephony,Media",
+        "api_name": "Evoca",
+        "id": 739,
+        "progweb_descr": " Offer customer audiences supporter easy way record play content comment reviews testimonial opinion online Let call website phone landline mobile Skype RESTful HTTP API integrate phonetoWeb feature exist web application Also include record use customizable Flash recorder Other customization selfservice configuration medium management feature part innovative highly scalable medium platform Access free developer version available httpwwwevocacomdevelopersdeveloperversionuseragreemephp"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Thrutu",
+        "id": 87,
+        "progweb_descr": " Thrutu application let users access realtime feature make call Android phone These feature use share information medium call Thrutu API enable developer build new feature integrate exist application platform API use JavaScript protocol currently Beta"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Burner Webhooks",
+        "id": 1749,
+        "progweb_descr": " Burner Webhooks API send text message via URL Messages define JSON authentication available OAuth2 Developers create webhooks connect console httpsappburnerappcomdeveloper"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Burner",
+        "id": 2021,
+        "progweb_descr": " Burner API enable programmatic access core telephony function like send receive message medium well business logic layer company spend year build Key Burner feature include perline configuration setting contact management block mute content filter text autoresponses Full API access Burner mean developer build integration enhance extend Burners message application capability way company believe represent future smart phone number Developers also take advantage API embed Burners basic enhance call message experience apps via OAuth Your user get benefit feature toprated voice message client support business function stand behind get benefit control phone number network level In effect treat Burner app service rather build last mile top barebones telephony API"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Truly",
+        "id": 2352,
+        "progweb_descr": " Truly REST API allow developer access integrate functionality Truly application Public documentation available API access come account service Truly provide phone service desktop mobile"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Microsoft Telephony",
+        "id": 6602,
+        "progweb_descr": " Microsoft Telephony Application Programming Interface TAPI offer API aim facilitate telephonic connection 2 device In site developer find Windows device application development registry setting reference setting configuration"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Number Portability Lookup",
+        "id": 7195,
+        "progweb_descr": " Number Portability Lookup service find network operator cell phone number around world It also identify number disconnect invalid nonmobile It query home location register HLR phone operator network Number Portability Lookup API allow user perform lookups access HLR data within application"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "StreamWIDE Call Screening",
+        "id": 7681,
+        "progweb_descr": " StreamWIDE company provide carriergrade Value Added Services VAS mobile service provider One service Call Screening allow user filter call use acceptance denial list timebased filter behaviorbased filter delay incoming outgo communication StreamWIDE provide user SOAP XMLRPC JSONRPC APIs enable integrate Call Screening service"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Talkray",
+        "id": 9687,
+        "progweb_descr": " Talkray mobile application allow user make free phone call send receive text message send receive photo Talkray API allow developer access integrate functionality Talkray applications Some example API method include make phone call send text manage account information Public documentation available interested developer sign httpdevelopertalkraycom"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Rebtel",
+        "id": 9778,
+        "progweb_descr": " Rebtel Voice Platform make easy add VoIP call Android iOS app Quick start Make first VoIP call within app minute Free start Easy use Add VoIP call app line code No need understand VoIP protocol like SIP WebRTC medium handle iOS Android Both platform support HD voice quality Excellent call quality 3G WiFi Well support Code example stepbystep instruction documentation iOS Android available httpdeveloperrebtelcom Proven Technology use million Rebtel user"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Rebtel Voice Platform",
+        "id": 9795,
+        "progweb_descr": " Rebtel Voice Platform international call platform Users use Rebtel mobile phone make international call various rate Rebtel Voice Platform API SDK allow developer access integrate functionality Rebtel applications Some example API method include make call manage call check call rate"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "8x8 Real Time Statistics Reporting",
+        "id": 11186,
+        "progweb_descr": " 8x8 company specialize service fit needs business area voice video mobile unify communication They offer suite APIs couple need Virtual Contact Center offer 8x8 Real Time Statistics Reporting API differs Statistical API return real time result instead consult historical database Data API refresh server every 10 second API display real time information agent queue It allow query agent queue specific agent queue provide ID Requests must make HTTPS authenticated token return XML JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Voice-Jump",
+        "id": 11606,
+        "progweb_descr": " VoiceJump offer VOIP service individual home developer build mobile application business web portal VoiceJump API include several service Voice2Click VoiceWebDialer VoiceCallBack APIs revolve around call internet VoiceRateSearch API allow user search call rate base tariff phone prefix criteria TopRates API list call cost region per minute call cost TopRatesNewsBar API provide information horizontal scroll bar"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Radish Systems ChoiceView",
+        "id": 11740,
+        "progweb_descr": " Radish Systems maker ChoiceView service allow business share visual information realtime smartphone conversation service capability send picture graphic text user smartphones talk With ChoiceView API developer create fully functional visual IVR integrate live assistance exist IVRs API available RESTful format full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Tweakker",
+        "id": 12021,
+        "progweb_descr": " service manages configuration OvertheAir OTA communication setting interaction mobile device include WAP Wireless Application Protocol IAPInternet Access Point MMS MMS Access Point It manage multitude devicespecific variable need provide user access advance online medium data service API method support determination device brand model well userspecific setting Methods also load setting device enable application function provide access help resolve user installation setting"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "DeviceIdentifier",
+        "id": 12118,
+        "progweb_descr": " service poll mobile device provide information capability desktop configuration It detect range 500 capability include operating system Javascript support support image size table support others API method support submission request specify mobile browser useragent desire format return data API respond detailed specification system submit request use configure display option maximize devicespecific compatibility"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "CallME Click-to-Call",
+        "id": 12195,
+        "progweb_descr": " CallME ClicktoCall webbased call service Users create account link phone number manage incoming outgo telephony function ClicktoCall use long distance call service regulate operational hour phone call make userâ€™s website They provide RESTful API expose ClicktoCallâ€™s essentially telephony function well data retrieval"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "PushBug",
+        "id": 12209,
+        "progweb_descr": " service allow application deliver notification call Tile Toast message mobile device run Windows Phone 7 operating system It centralize simplifies error problem report alert registered device error condition trigger time notify Microsoft bug problem uncover operate system API method support send either tile toast notification either immediately single device via queued delivery multiple device Queued delivery allow multiple retries device available receive message Methods also allow retrieval list device associate account"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "txtNation HLR Number Lookup",
+        "id": 12299,
+        "progweb_descr": " txtNation Mobile Billing SMS Messaging provider txtNation Gateway HLR Mobile Number lookup platform enable company retrieve accurate efficient network information directly GSM network real time API provide access platform functionality allow developer build various application Examples functionality provide API include validate integrity mobile subscriber database optimize message callrouting direct SMS message correct network prevent fraud implement ID verification"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "GSMA OneAPI Location",
+        "id": 12900,
+        "progweb_descr": " GSMA association mobile operator worldwide Representing 800 mobile operator 220 country GSMA support standardize deployment promotion GSM mobile telephone system GSMA also produce industryleading event Mobile World Congress Mobile Asia Expo GSMA OneAPI set APIs expose network capability HTTP OneAPI location interface allow Web application query location one mobile device connect mobile operator network It use REST SOAP protocola response XML JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "GSMA OneAPI Zonal Presence",
+        "id": 13014,
+        "progweb_descr": " GSMA association mobile operator worldwide Representing 800 mobile operator 220 country GSMA support standardize deployment promotion GSM mobile telephone system GSMA also produce industryleading event Mobile World Congress Mobile Asia Expo GSMA OneAPI set APIs expose network capability HTTP OneAPI Zonal Presence interface allow Web application query â€˜Zoneâ€™ A zone cluster one Femtocells end user phone may connect With Zonal Presence API determine number user zone notified entry toexits Zone user path take Femtocells Zone"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "AT&T Device Capabilities",
+        "id": 13169,
+        "progweb_descr": " ATT Device Capabilities API give developer way identify end user device capability order develop application best support user experience Developers customize apps match user device base information make model firmware release API currently beta us RESTful call response XML JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Verizon Terminal Status",
+        "id": 13820,
+        "progweb_descr": " Verizon Terminal Status API allow developer access Verizons service determine mobile device online offline Terminal Status API allow application intelligently direct traffic eg message make request eg location otherwise interact mobile device leverage Verizon network detect presence active device This API use REST SOAP protocol"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Mobyko",
+        "id": 14005,
+        "progweb_descr": " Mobyko service allow user access mobile phone information online Features include back information organize mobile information access address book calendar share information Users also send texts computer Mobyko offer APIs allow developer access address book text messaging feature Mobyko A calendar API come soon Public documentation limit developer encourage get touch Mobyko access APIs"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "SingTel WAP Push",
+        "id": 14455,
+        "progweb_descr": " SingTel expose set web service offer mixture telecom marketplace capability SingTel WAP Push API allow access WAP Push service provide SingTel At point time individual developer without company representation grant access APIs"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Vodafone Audio",
+        "id": 14520,
+        "progweb_descr": " Audio API Vodafone part suite JavaScriptbased widget APIs provide mobile web application access underlie hardware Audio API let developer play common audio format right mobile browser API provide basic player interface include play pause resume stop function allow repeat play support play local remote file ie audio streaming"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "AT&T WAP Push",
+        "id": 14524,
+        "progweb_descr": " Content Providers develop application use WAP Push access ATT Network Services Gateway offer virtual set ATTs network capability standardsbased network service APIs Developers use WAP Push send message alert deliver rich content image audio"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Telenor Click to Call",
+        "id": 14530,
+        "progweb_descr": " Telenor SOAPbased Click Call API one APIs related Telenor Service Gateway This APIs allow developer create application allow user initialize call phone number web either computer mobile phone"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Telenor Status Push",
+        "id": 14531,
+        "progweb_descr": " Telenor SOAPbased Status Push API one APIs related Telenor Service Gateway Status Push API allow developer create application see status busy free mobile phone belong network businesscorporation"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "SingTel Phone Type",
+        "id": 14547,
+        "progweb_descr": " SingTel mobile telephony company base Singapore SingTel expose set web service offer mixture telecom marketplace capability This API part webbased platform access network service provide SingTel let user query type phone use At point time individual developer without company representation grant access APIs"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Connection Software Ringtone",
+        "id": 14617,
+        "progweb_descr": " Connection Software supplier SMS MMS service include text messaging ringtones graphic Java application MMS relate software include J2ME It provide API let user upload RTTTL RTX ringtone string library API use HTTP protocol"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "detectmyPhone",
+        "id": 15147,
+        "progweb_descr": " detectmyPhone API enable Smartphone handset detection one line JavaScript You easily redirect user mobile website base handset detect You also add custom javascript code execute host page dont want redirect"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "SingTel Messaging",
+        "id": 15225,
+        "progweb_descr": " SingTel Singapore mobile telephony company SingTel Messaging API provide access core telco feature ability developer send SMS MMS message SingTel user"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Sprint",
+        "id": 15357,
+        "progweb_descr": " Sprint Developer Sandbox provide developer free access core enable capability Messaging Using Sprint Messaging API developer send SMS MMS message CDMA handset Sprint also provide developer resource Developer Tools Web cast Newsletters framework provide access geofencing presence location function Presence service determine device present Sprint cdma network Location determine location Sprint CDMA Device opt developer account"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Location-API.com",
+        "id": 15418,
+        "progweb_descr": " LocationAPIcom help developer mobile service provider locate mobile phone mobile device connect GSM WCDMA network Geographic coordinate latitude longitude provide database include cell IDs 200 country 4M cell"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Motime",
+        "id": 15476,
+        "progweb_descr": " Motime Open Access platform affiliate program base APIs Motime service allow partnersaffiliates advertise Motime content web andor mobile site earn money referral give Motime search API use REST protocol allow developer link content Motimes catalog ringtones"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Called.in Phone Verification",
+        "id": 15480,
+        "progweb_descr": " A RESTful API allow developer implement automate phone verification reverse phone number verification automate call click call service Users must purchase API credit use service"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Mobile Commons",
+        "id": 15491,
+        "progweb_descr": " Mobile Commons platform integrate SMS phone call Web application CRMs databases well Twitter Facebook application flash widget geolocation feature Mobile Commons API RESTbased let developer interact much functionality main site API use send text message schedule broadcast query group profile Responses format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Veriplace Developer",
+        "id": 15513,
+        "progweb_descr": " Veriplace Developer API provide access realtime historic user location It RESTbased expose location privacy operation standard HTTP request use OAuth OpenID standard authorization authentication"
+    },
+    {
+        "progweb_cat": "Telephony,Mobile",
+        "api_name": "Upside Wireless",
+        "id": 15565,
+        "progweb_descr": " From site Upside Wireless Inc lead North American company specialize provide global mobile messaging service application consumer enterprise market Upsides flexible twoway SMS platform enable enterprise customer efficiently connect exist corporate application global text message network convenience offer three connectivity option SOAP HTTP SMTP"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Jaduka",
+        "id": 116,
+        "progweb_descr": " From site Jaduka API give developer direct access inherent benefit world highestquality ubiquitous public switch telephone network PSTN Based common Web standard API facilitate quick easy development virtually limitless voiceenabled business application use exist telephone wire VoIP wireless"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Hoiio Voice",
+        "id": 182,
+        "progweb_descr": " Hoiio global communication service seek allow people around world communicate via telephone SMS rout Hoiio service Hoiio Voice API provide powerful APIs make call handle voice response IVR All service build top Hoiios cloud infrastructure app automatically scale need Hoiio also provide virtual number receive inbound call free TTS service No hardware need developer It payperuse model zero setup fee"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Twilio",
+        "id": 300,
+        "progweb_descr": " Twilio provide simple hosted API markup language business quickly build scalable reliable advanced voice SMS communication application Twilio provide telephony infrastructure web service cloud enable web programmer integrate realtime phone call application Twilios simple PayAsYouGo pricing model mean customer pay capacity need Voice application write Twilios cloud solution scale transparently eliminate program operational contractual headache frequently associate rapid growth traffic spike Twilio provide cloud API voice SMS communication leverage exist web development skill resource infrastructure It minimize learn curve require build advanced reliable voice communication application solve critical business need syntax program model focus make application development close requestresponse model web application development possible API use RESTful interface response format XML CSV"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Phono",
+        "id": 1371,
+        "progweb_descr": " Phono simple jQuery plugin JavaScript library turn web browser phone capable make phone call send instant message Users also connect SIP client Phono SDK provide objectoriented JavaScript API embed twoway audio chat onto web page"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Plivo Number",
+        "id": 5607,
+        "progweb_descr": " Plivo Number API allow developer list rent number get detail rent number add number carrier edit number unrent number Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Plivo Recording",
+        "id": 5615,
+        "progweb_descr": " Plivo Recording API allow developer list specific record delete specific record Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Sinch Calling Callback",
+        "id": 5901,
+        "progweb_descr": " Sinch Calling Callback API allow developer integrate Sinch callback service application enable make callback external application backend This API use HTTP Basic Authentication"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "CallFire Voice Broadcast",
+        "id": 8292,
+        "progweb_descr": " CallFire online text voice message platform design meet need variety user organization platform come APIs integrate function thirdparty application service Voice Broadcast API allow user upload broadcast record message file either WAV MP3 format"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "2600hz",
+        "id": 8969,
+        "progweb_descr": " 2600hz telephony voice video communication platform 2600hz provide variety communication feature organization company use voice video communication 2600hz API allow developer access integrate functionality 2600hz application create new application Some example API method include manage user access message manage call retrieve call log"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "VoiceShot",
+        "id": 9648,
+        "progweb_descr": " VoiceShot offer webbased voice broadcast text messaging appointment reminder virtual office phone system virtual receptionist XML voice alert notification service VoiceShot IVR Interactive Voice Response allow user automate incoming outgo phone call send receive text message via REST API This mean developer integrate IVR function application website send notification automate customer service convey order status"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Kazoo",
+        "id": 10001,
+        "progweb_descr": " Kazoo 2600hz telecommunication service solution Kazoo provide telecommunication infrastructure monitoring service Kazoo API allow developer access integrate functionality Kazoo applications Some example API method include retrieve manage webhooks manage account information retrieve log"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "foneAPI",
+        "id": 11273,
+        "progweb_descr": " service provide cloudhosted telephony function voice IP VoIP Its function include switch monitor customer phone number incoming call initiate call direct customer application It also execute predefined action response call trigger event base phone traffic API method support call answer dial hangup along multiple action response event generate phone traffic Actions include record call playback redirect another number join multiple caller conference call API also generate log call traffic system activity"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "RTCkit",
+        "id": 12074,
+        "progweb_descr": " RTCkit telephony service allow user embed component call Flash WebPhone websites This component allow visitor make phone call browser without instal additional software Flash WebPhone component control use RTCkit JavaScript API A separate HTTP API use manage setting bill usage statistic"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Nimbuzz",
+        "id": 12440,
+        "progweb_descr": " Nimbuzz mobile application allow user make receive call message contact share file free Nimbuzz mobile social connection application Nimbuzz API allow developer access integrate functionality Nimbuzz application Public documentation available interested developer sign access information"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "TradeHarbor VoiceSig Express",
+        "id": 12664,
+        "progweb_descr": " TradeHarbor make web service help prevent fraudulent online transaction Voice Signature Service VSS primary offering voice recognition service use transaction require authentication authorization VoiceSigExpress secure API format VSS use XML VoiceXML compare utterance Normalized Detector Scale return confidence score may grant authenticate user variety permission login verbally sign legally bind agreement"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Anveo Phone",
+        "id": 12766,
+        "progweb_descr": " Anveo interactive voice response service provider Anveo API provide way external application system make phone call initiate outbound IVR provision ContactMEClick Call button well order provision manage DIDs phone number Anveo Call Flows"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Teleku",
+        "id": 13443,
+        "progweb_descr": " Cloudbased RESTful web service API support build phone application answer inbound call initiate outbound call phone Skype SIP interact Web application sendreceive SMS text message XML JSON responses Web page HTTP trigger PhoneML TwiML VoiceML script deliver interactive voice response IVR telephony application Options include play MP3 WAV file speak texttospeech prompt collect digit speak command record audio dial number transfer call etc"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Direct Leap Technologies",
+        "id": 14361,
+        "progweb_descr": " Direct Leap Technologies support nonprofit communication campaign effort namely phonebank telemessaging campaign Direct Leap offer APIs two main service Popvox phonebank campaign technology telemessaging service Public documentation information API unavailable"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Angel OutBound",
+        "id": 14458,
+        "progweb_descr": " Angelcom provide interactive voice response system call ondemand customer experience solution company platform specifically address retail pharmaceutical financial high tech healthcare telecommunication travel industry However Angel OutBound API provide tool developer programatically instruct Angelcom place phone call behalf API support SOAP XMLRPC protocols return result XML"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Deutsche Telekom Conference Call",
+        "id": 14522,
+        "progweb_descr": " With Conference Call API several phone number fix mobile network link phone conference call simple web service Nonbinding simple fast No contract commitment monthly charge minimum revenue participant either automatically call start conference dialout dial dialin This way desktop web mobile application extend across platform include telephone conference function"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "FreebieSMS Auto Dialer",
+        "id": 14797,
+        "progweb_descr": " FreebieSMS Auto Dialer API let user send audio message landline mobile phone FreebieSMS offer bulk SMS provision business need send SMS message automatically Public documentation API available Coverage global payperuse europe usa southafrica malaysia russia australia reverse charge"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "PokeTalk",
+        "id": 14946,
+        "progweb_descr": " PokeTalk web service provide lowcost international phone call customer PokeTalk API allow developer use PokeTalks tool application Developers need API Key PokeTalks poketalkbasejs file web directory make application"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "4PSA VoipNow",
+        "id": 14974,
+        "progweb_descr": " 4PSA VoipNow Core deliver API enables integration thirdparty application 4PSA VoipNow Core Integrated Communications System service provider enterprises It integrate voice data single network infrastructure open standard software API allow execution basic management operation support type user account resellers client endpoint charge plan channel call rout rule API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Custom Toll Free Search",
+        "id": 15120,
+        "progweb_descr": " Custom Toll Frees toll free number search ability return vanity use English language dictionary algorithm rank result return top vanity match When search term enter Custom Toll Free attempt match term many word make logical sense create full vanity word oppose mix word number Studies find full vanity much easy remember search algorithm design optimize result base number memorable tool also search prefix 800 866 877 888 determine best match true 800 number currently available"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Plum Voice",
+        "id": 15218,
+        "progweb_descr": " Plum Voice provider telephony platform support VoiceXML speech recognition texttospeech Developers use Plum API create advance voice application include IVR automate phone survey call rout system"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "Deutsche Telekom Voice Call",
+        "id": 15302,
+        "progweb_descr": " Via simple web service call Voice Call connect two phone number fix mobile communication network Nonbinding simple fast No contract commitment monthly charge minimum revenue Using Telekom Voice Call API CMS ERP system desktop software various application enhance telephony function crossplatform basis Use case callback button inboundoutbound call directly within CRM system implement quickly automation system via Voice eg order reset password"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "NuGram Runtime",
+        "id": 15493,
+        "progweb_descr": " NuGram Hosted Server speech grammar share site base NuGram Server technology NuGram generate speech recognition grammar may use VoiceXML application Those grammar dynamic content NuGram Hosted Server offer RESTful HTTPbased runtime API access service dynamic grammar instantiation grammar generation textbased semantic interpretation etc"
+    },
+    {
+        "progweb_cat": "Telephony,Voice",
+        "api_name": "PhoneDog",
+        "id": 15563,
+        "progweb_descr": " Research compare price shop wide array phone product service"
+    },
+    {
+        "progweb_cat": "Telephony,Chat",
+        "api_name": "Skype",
+        "id": 245,
+        "progweb_descr": " Skype API provide mechanism 3rd party script application control Skype UI function implement additional improve feature complement Skype Skype worlds fastestgrowing Internet communication offer allow unlimited free voice video instant messaging communication user Skype Software API two layer Communication Layer set method external application establish connection Skype client communicate Command Protocol Layer textbased language external application use speak Skype client communication channel establish Communication Layer"
+    },
+    {
+        "progweb_cat": "Telephony,Chat",
+        "api_name": "Twilio Programmable Chat",
+        "id": 1884,
+        "progweb_descr": " Twilio Programmable Chat API provide RESTful interface integrate cloudbased server side chat functionality apps It support addition chat capabilities web mobile apps without necessarily construct realtime backend service API ’ webhook event functionality provide mechanisms monitor filter specific backend service event use chat event callback"
+    },
+    {
+        "progweb_cat": "Telephony,Chat",
+        "api_name": "Twilio Notify",
+        "id": 4059,
+        "progweb_descr": " Twilio Notify REST API allow developer access integrate notification functionality Twilio application API allow user send notification message application SMS push Twilio provide telephony infrastructure web service cloud enable web programmer integrate realtime phone call application"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "TelAPI",
+        "id": 345,
+        "progweb_descr": " TelAPI platform telephony application TelAPI allow user add voice SMS telephony feature applications Some feature include send receive SMS message phone call add voice feature application buy phone number TelAPI allow developer access integrate functionality TelAPI application create new application Some example API method include list call make call manage recording add audio effect"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "IntelePeer",
+        "id": 1207,
+        "progweb_descr": " IntelePeer AppworX platform integrate voice telephony capability deliver communication device Open Communications Platform allow functional telephonypowered application preintegrated offer complete manage service"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CM Telecom SMS Campaign",
+        "id": 1392,
+        "progweb_descr": " CM Telecom SMS Campaign API enable developer manage send campaign It available JSON format token authentication method CM Telecom platform capable handle facet mobile ecosystem include SMS push apps payment voice message CM Telecom also provide SMS status report real time log message delivery"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "SMS Fusion",
+        "id": 1409,
+        "progweb_descr": " SMS Fusion API add several message capability 2Way SMS automate sequence realtime report URL optout personalize message API allow developer queue SMS message perform HLR lookup SMS Fusion offer 4 prepaid plan vary accord developer need"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CM Telecom AutoCollect",
+        "id": 1604,
+        "progweb_descr": " CM Telecom AutoCollect API return data collect scheduled payment automatically It available OAuth2 authentication method perform callback CM Telecom provide mobile message telephony payment service"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CM Telecom Authenticator",
+        "id": 1605,
+        "progweb_descr": " CM Telecom Authenticator API allow identify online user add extra layer authentication mobile phone It available JSON format token authentication factor CM Telecom provide mobile message telephony payment service"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CM Telecom Conversions",
+        "id": 1606,
+        "progweb_descr": " CM Telecom Conversions API return data enable conversion detail per message CM Telecom It available XML format HTTP basic authentication CM Telecom provide mobile message telephony payment service"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CM Telecom iDIN",
+        "id": 1607,
+        "progweb_descr": " CM Telecom iDIN API enable customer verify website use method bank It available JSON format HTTP basic auth CM Telecom provide mobile message telephony payment service"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CM Telecom Number Verifier",
+        "id": 1608,
+        "progweb_descr": " CM Telecom Number Verifier API return data verify phone number include format carrier It available JSON format token authentication method CM Telecom provide mobile message telephony payment service"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CM Telecom One Time Passwords",
+        "id": 1609,
+        "progweb_descr": " CM Telecom One Time Passwords API allow developer generate onetime password deliver via SMS Push verify response It available JSON format token authentication factor CM Telecom provide mobile message telephony payment service"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CM Telecom Payments",
+        "id": 1614,
+        "progweb_descr": " CM Telecom Payments API return data online payment support iDEAL Credit Cards Afterpay Bancontact method It available JSON format OAuth1 CM Telecom platform capable handle facet mobile ecosystem include SMS push apps payment voice message CM Telecom also provide SMS status report real time log message delivery"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "DIDForSale DID Management",
+        "id": 2103,
+        "progweb_descr": " DIDForSale DID Management API allow developer get list phone number available purchase well detail number buy API break two function list DID buy DID This service also allow user configure newlypurchased DID number"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Voice2Phone Outbound Calling",
+        "id": 2802,
+        "progweb_descr": " Voice2Phone Outbound Calling API RESTbased system allow developer integrate voice IP functionality application This API require API Keys authentication use HTTPS JSON XML data exchange Outbound Calling API support landline cellphone call"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Zang",
+        "id": 3154,
+        "progweb_descr": " With Zang REST API initiate call buy phone number send SMS message get detailed list information account activity create conference call API allow interact Zangs telephony function almost simple visit website A deep knowledge regard REST useful develop Zang require Requests Zang always return response regard resource request create modify These response different format XML JSON CSV This fully support well documented release"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Verizon ThingSpace Device Messaging",
+        "id": 3157,
+        "progweb_descr": " Verizon ThingSpace Device Messaging API integrate communication service mobile device It available HTTP request JSON response use API Key authenticate"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "RingCentral",
+        "id": 5826,
+        "progweb_descr": " Use RingCentral API manage business phone system Their cloudbased phone system interfaces Public Switched Telephone Network allow business customer access phone system via web mobile apps API RESTful use standard HTTP request JSON app authenticate OAuth 20 See extensive documentation API home page detailed instruction get start RingCentral API"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Sipcentric PBX",
+        "id": 6951,
+        "progweb_descr": " Sipcentric PBX enable business create virtual Private Branch Exchange PBX system These system suitable business size scale needed Sipcentric PBX Developer API enable user access platform core feature initiate call send text message integrate application"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "3seventy",
+        "id": 7051,
+        "progweb_descr": " 3seventy text messaging platform design enterprise user want distribute news alert promotion etc It provide access 55 billion wireless subscriber 990 mobile carrier operator 3seventys SMS campaign function include coupon code keyword association true dialogue schedule message Users integrate email marketing application 3seventy platform use RESTbased API"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "SMS On Tips",
+        "id": 7052,
+        "progweb_descr": " SMS On Tips provide bulk SMS service include short code long code SMS Users schedule future message save predefined message templates Users also retrieve detailed delivery report send message export CSV sheet SMS On Tips API enable developer integrate bulk SMS service application"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "TV Bulk SMS",
+        "id": 7054,
+        "progweb_descr": " TV Bulk SMS SMS advertising platform use contact customer friends family team member etc platform also resold user Developers integrate platform message gateway use TV Bulk SMS API Through gateway user send single bulk SMS check account balance"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Pixiebulksms",
+        "id": 7055,
+        "progweb_descr": " Pixiebulksms Nigerian bulk SMS marketing platform company private individual It enable user send SMS mobile phone worldwide resell SMS service Developers use Pixiebulksms API add interface website send SMS manage user admin link resellers"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Telekom Tropo",
+        "id": 7298,
+        "progweb_descr": " Telekom Tropo service make easy build application process incoming outgo phone call Provided Developer Garden developer ecosystem Deutsche Telekom Telekom Tropo found robust teleco structure increase reliability scalability allow Telekom Tropo dynamically change accord use case"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Lleida ENUM",
+        "id": 7472,
+        "progweb_descr": " Lleida service turn email SMS communication legally bind contract also provide ENUM service use DNS query map phone number internet communication server responsible service Lleida ENUM API allow user find operator own give telephone number check number status network see many time number port one operator another"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Nimblevox Voice Announcement",
+        "id": 7499,
+        "progweb_descr": " Nimblevox cloud communication service Hosted IVR Automatic Speech Recognition TexttoSpeech Answering Machine Detection Outbound Dialing SMS Solution Service Creation Tool Out box APIs With Voice Announcement API place phone call play message This used send alert broadcast message customer send reminder"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "MessageBird Messaging",
+        "id": 8007,
+        "progweb_descr": " MessageBird Messaging API allow developer send receive SMS message country world Each message identify unique random ID use always check status message use give endpoint MessageBird SMS marketing notification communication service allow user send receive personalize text message"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CallFire Postbacks",
+        "id": 8291,
+        "progweb_descr": " CallFire online text voice message platform design meet need variety user organization platform come APIs integrate function thirdparty application service CallFire Postbacks API allow developer get information sent message phone call via postbacks Developers need website capable host PHP file order accept postbacks"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Sendega",
+        "id": 10328,
+        "progweb_descr": " service provide text medium message phone mobile device Norway via SMS MMS protocols It handle either single message individual number bulk message number list service route reply message sends process routine response optout request Messaging option combine complex function sell event ticket via SMS message deliver result ticket image phone via MMS API method support send specify text message body medium resource image etc single number number list provide request Methods also support variation recipient number type format date encode similar detail"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CloudTalk",
+        "id": 10981,
+        "progweb_descr": " CloudTalk platform communication mobile web application CloudTalks platform allow voice communication application CloudTalk APIs allow developer access integrate functionality CloudTalk platform application create new application Some example API method include manage user account send text message transcribe voice retrieve notification Public documentation available interested developer email bizdevcloudtalkcom information"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Deutsche Telekom Tropo",
+        "id": 11108,
+        "progweb_descr": " Telekom Tropo cloud base voice platform use create communication application include speechdriven Interactive Voice Response IVR VoIP solution voice mashups SMS application Functionality include 50 member conference call make receive call websites application support speech recognitionThe API RESTful send JSON response"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Alcatel-Lucent New Conversation",
+        "id": 11138,
+        "progweb_descr": " AlcatelLucent New Conversation APIs suite APIs give developer access rich Service Provider IMS capability APIs give developer exposure allow integration AlcatelLucents IMS application server include Converged Telephony Server Presence Server Multimedia Instant Messaging RESTful New Conversation APIs give developer ability build communicationenabled apps consumer enterprise vertical market Functionality include assign control active call 3rdparty application call conference control interactive voice video management call progress notification add call monitoring apps retrieve call log send receive SMS retrieve presence information contact network address book chat file transfer capability Interested developer register httpdeveloperimsalcatellucentcom information APIs associate sandbox fast prototyping environment prevalidate app AlcatelLucent IMS test platform"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Sent.ly",
+        "id": 11207,
+        "progweb_descr": " Sently text SMS send receive service Android phone Sently API allow developer access integrate functionality Sently application create new application API method send receive view text message"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Across Communications",
+        "id": 12434,
+        "progweb_descr": " Across Communications webbased service provide platform infrastructure deliver message computer connect Internet wide variety communication device This allow user integrate phone call fax SMS ICQ MSN numeric pager email Across Communications SOAPbased APIs allow user access many service programmatically"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Parlay X",
+        "id": 12587,
+        "progweb_descr": " Parlay X offer array telephony APIs provide service manage third party call send multimedia message determine user location provide short message service SMS They also offer APIs manage user account statuses payment Parlay X APIs design enable creation telephony application well telecomenable IT applications These APIs intend stimulate development network application IT developers necessarily expert telephony telecommunication"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "SureVoIP",
+        "id": 12594,
+        "progweb_descr": " SureVoIP internet telephony service provider supply host VoIP solution SIP trunk inbound number relate VoIP product service UK SureVoIP API let user automate interaction SureVoIP platforms With API developer create script application mashups create customer send SMS message fax search number provision number generate VoIP call manage account API use RESTful call response format XML JSON Text HTML others"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "YouMail",
+        "id": 12769,
+        "progweb_descr": " YouMail offer visual voicemail application use BlackBerry Android iPhone WebOS Windows Phone 7 platform With YouMail user organize voicemail access computer email connect social service Facebook Twitter much Functionality expose API include ability manipulate contact retrieve message update account API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Textlocal",
+        "id": 12931,
+        "progweb_descr": " Textlocal offer service mobile market campaign allow client execute SMS MMS campaign use individual bulk message Organizations upload contact list use short code allow people join campaign via text Textlocal offer report statistic service allow message send instantly schedule later date time Textlocal API use connect email application internal system Textlocal service API expose method send receive SMS MMS message check credit balance add number campaign list API require purchase credit send receiving message rate determine number credit purchase This API operate HTTP use JSON data format"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "DialMyCalls",
+        "id": 13324,
+        "progweb_descr": " DialMyCalls service call texts phone number usercreated voice message text message DialMyCalls use variety message needs emergency political call school update DialMyCalls API allow developer access integrate functionality DialMyCalls applications Some example API method include add manage contact retrieve call history place call create managing message"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "InVox",
+        "id": 13444,
+        "progweb_descr": " Cloudbased service support business phone system small mediumsized company webbased phone designer tool allow user build business telephone system advance IVR system without instal new software hardware use visual draganddrop interface without program Data integration capability include realtime data exchange Applications scale handle tens simultaneous call"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "iVisionMobile",
+        "id": 13451,
+        "progweb_descr": " iVisionMobile provide mobile message marketing solution company look address message need webbased software platform Their software handle individual batch message depend user need iVisionMobile SOAP RESTbased APIs include service interact SMS gateway data import export message report Their APIs also provide service mobile content delivery allow user deliver message set SMS poll send inline link"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "CALLR REST",
+        "id": 13773,
+        "progweb_descr": " CALLR efficient simple way bring voice center customer relationship Make customer happy life easy CALLR delivers communication service CaaS cloudbased smart voice service let connect business customer web mobile SMS landline We pride allow get close customer measure optimize investment increase ROI"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "ZNISMS DND Checker",
+        "id": 13894,
+        "progweb_descr": " ZNISMS one SMS provider India provide number service send standard bulk SMS message ZNISMS DND Checker API allow user check number Indias national Do Not Disturb registry This RESTbased API enable user check single phone number per query return code indicate number DND registry Users must API key use service allow 1000 query hour per user"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "46elks",
+        "id": 14034,
+        "progweb_descr": " Phone call SMS MMS one easy API Our cloud communication platform enable web developer integrate telephony technlogy application And thing control incoming phone call build IVRs send receive SMS text message much We bridge gap web world telephony API consist 4 major part Phone number Phone call SMS message MMS picture video message API RESTful responses JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "SMSConCuba",
+        "id": 14231,
+        "progweb_descr": " SMSConCuba provide feature send message specify script use HTTPPOST request email It also provide method know message status Full documentation either unavailable found Site Spanish"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Bluevia MMS",
+        "id": 14340,
+        "progweb_descr": " BlueVia developer initiative communication company Telefï¿½nica MMS API enable application send MMS behalf user check delivery status send MMS Receive MMS API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Verizon Messaging",
+        "id": 14475,
+        "progweb_descr": " Verizon Wireless provide authorized application developer network base Messaging API service offer interactive service customer use MO MT message Authorized application developer may act integration point support Verizon Wireless interactive messaging include television voting infoondemand real time stock quote premium content service API use REST SOAP protocol"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Telenor SMS Alert",
+        "id": 14533,
+        "progweb_descr": " Telenor SMS Alert API SOAPbased API consist four different part Alert API Area API Status API International Alert API Admin API subsection From Whitepaper SMS Alert use population alert disaster etc corporate usage send message employee within specified area country relation contentmarketing service SMS Alert service transmission MT SM GSM3G terminal within specify area SMS Alert limit Telenor subscriber MS roam Telenors Norwegian GSM3G Network"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Telenor SMS",
+        "id": 14534,
+        "progweb_descr": " Telenor mobile carrier base Norway Telenor SMS API provide access company text message service businesstobusiness businesstoconsumer bulk message need company provide short whole number send receive text MMS message There various option use API include SOAP XMPP protocols No public documentation available Coverage norway message send foreign subscriber available country list"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "fastDove",
+        "id": 14570,
+        "progweb_descr": " SMS management service fastDove let add SMS communication easily quickly applications Its host cloud accord company run message dove access communication anywhere device fastDove API allow developer create new application around fastDove service Developers access contact group create template associate device account course send SMS message 107 country fully support"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Call-Em-All",
+        "id": 14583,
+        "progweb_descr": " Callemall website allow user place automate phone call send text CallEmAll offer ability developer integrate service application Access API offer approve application API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Jajah",
+        "id": 14833,
+        "progweb_descr": " Jajah unify IP communication platform Send SMS message initiate phone conference two party phone call Jajah SOAP web service provide backend integration call application user interface build developer"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Esendex Spain SMS",
+        "id": 14850,
+        "progweb_descr": " Esendex SMS text message service base Spain Using service application send receive message include bulk message Esendex Spain offer suite SMS APIs include REST SOAP Post Form API This site spanish"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "BlueVia SMS",
+        "id": 14944,
+        "progweb_descr": " Send receive SMS message BlueVia SMS API BlueVia developer initiative communication company Telefï¿½nica SMS API help include twoway SMS functionality application To receive message register keyword one BlueVia short code differ country Free SMS credit available test"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "developergarden.com",
+        "id": 15038,
+        "progweb_descr": " Developer Garden wwwdevelopergardencom developer ecosystem Deutsche Telekom It central hub software developer business partner easily access advanced technology core service Developer Garden offer broad product portfolio premium component web service tool APIs Application Programming Interfaces smart efficient software development It provide developer partner new way distribute monetize software Integrating Developer Gardenâ€™s service offer infinite way unlock new business potential drive revenue customer loyalty reduce timetomarket Built network strong global alliance Developer Garden address worldwide software development community"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "babyTEL Telephone",
+        "id": 15105,
+        "progweb_descr": " Telephone VOIP system develop babyTEL social network Telephone API allow 3rd party developer access Telephones feature enable social site Telephone API allow developer create user Telephone system allow user start eggphone use make call"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "Matrix SMS Gateway",
+        "id": 15166,
+        "progweb_descr": " Matrix SMS Gateway API allow integration various frontend legacy system Matrix SMS Gateway group message provide business host message platform add SMS capability system application website APIs offer user choice connection option HTTP HTTPS SMTP flexible fit many kind usage API functionality include send SMS voice message query message status cellular carrier lookup Responses format XML JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Messaging",
+        "api_name": "HummingBytes Q&A",
+        "id": 15780,
+        "progweb_descr": " HummingBytes QA allow communicate via Voice SMS allow store later retrieve communication Service feebased mostly focus health care finance retail medium"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Spy Dialer",
+        "id": 532,
+        "progweb_descr": " Spy Dialer let user identify miss call mystery number go directly US base cell phone outgo voicemail hear whose cell phone With Spy Dialer API user integrate service web site application Spy Dialer API use SOAP message HTTP POST GET method accept request return result via XML Full documentation available registration"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "SpokenBuzz",
+        "id": 738,
+        "progweb_descr": " From site SpokenBuzz innovative voice portal give voicemail call forwarding call screen outbound call many service Many feature free use web interface make call time must pay want Custom inbound telephone number You access voice message service free API Currently one service available allows make request initiate phone call number allow recipient phone call record short voice message We return URL webpage link play back message You may use link way want enhance service build mashups"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "OpenCNAM",
+        "id": 1031,
+        "progweb_descr": " OpenCNAM provide access Caller ID information base simple access comprehensive data OpenCNAM REST API allow developer integrate realtime query application Responses return data variety format"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "CheckDND",
+        "id": 5260,
+        "progweb_descr": " CheckDNDcom provide free DND Do Not Disturb check API To check DND status phone number use API check 1000 number per hour Responses format JSON"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Plivo PhoneNumber",
+        "id": 5608,
+        "progweb_descr": " Plivo PhoneNumber API allow developer search new number buy number Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Plivo Call DTMF",
+        "id": 5610,
+        "progweb_descr": " Plivo Call DTMF API allow developer send DTMF tone call It usually use automate sending DTMF tone outbound call Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Plivo Call Request",
+        "id": 5620,
+        "progweb_descr": " Plivo Call Request API allow developer perform action call request call answer Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Freedom800",
+        "id": 8897,
+        "progweb_descr": " Freedom800 cloudbased provider tollfree number service design help user create professional image business without purchase additional phone line Freedom800 provide customizations service change automate greeting base time day allow caller enter information via keypad provide confirmation number caller leave voicemail message Freedom800 provide SOAP API integration purpose No public documentation currently available API"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "CallFire Direct Connect",
+        "id": 12166,
+        "progweb_descr": " CallFire provide VoIP platform power voice broadcast call center call track text message campaign direct connect service give user control CallFire dialer use bypass predictive logic Typical usage include set system agent need make targeted call old customer Functionality include log agent return agent IDs play back prerecorded message call land answer machine start stop campaign API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "PATLive",
+        "id": 12915,
+        "progweb_descr": " PATLive provide hosted communication associate service support local tollfree number host receptionist fax PATLive offer client 247 call center fulfill live communication need business In addition Caller Insight program grant access caller demographic information age gender financial status PATLive API allow developer integrate call data local reporting CRM service also expose functionality manage phone number message service programmatically This REST API return data XML JSON RSS require account service access"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "NALENND Basic NPA NXX Validation",
+        "id": 13087,
+        "progweb_descr": " NALENND Basic NPA NXX Validation API allow user validate North American telephone area code exchange NPA NXX combination This API also identify exchange service area local access transport area LATA operating company number OCN COMMON LANGUAGE Location Identifier Code CLLI code carrierdefined line type"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "iPing",
+        "id": 13924,
+        "progweb_descr": " iPing service bring together internet telephony provide variety function include wake call reminder volume call message broadcast play voicemail web iPing API allow developer integrate iPings functionality perform variety task include trigger phone call web application access user call information get notification list outbound call item"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Mobikwik",
+        "id": 14229,
+        "progweb_descr": " Mobikwikcom provide free mobile recharge API use provide topup service prepay mobile phone India API allow user recharge phone give number retrieve recharge status check balance retrieve discount coupon It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Speek",
+        "id": 15051,
+        "progweb_descr": " Speek free Webbased teleconferencing system dial cell phone landline voiceoverInternet application like Skype GoogleTalk Speek REST API allow user empower application voice conferencing technology Responses format XML JSON"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Globe Labs",
+        "id": 15343,
+        "progweb_descr": " Globe Labs focus include different partner across future telecommunication compliment technology identify develop application across fix wireless network Globe Labs network technology allow develop innovative application solution service Using API integrate messaging locationbased service application"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Callfire Campaign Service",
+        "id": 15623,
+        "progweb_descr": " Campaign Voice Broadcast Service API let user create manage campaign Functionality include add number call list add number exist campaign create broadcast campaign without answer machine detection send broadcast specify phone number return statistic campaign API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Callfire Hosted Call Center",
+        "id": 15624,
+        "progweb_descr": " Virtual Call Center API let user run call center connect campaign With API user connect agent prompt log system AgentID connect number give campaign Users control type popup screen want way data collect move next call API function collect information call connect immediately put Agent queue next available call Dialer apps might use API"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "Fonolo",
+        "id": 15699,
+        "progweb_descr": " Use Fonolo API access Fonolos phone tree database Deep Dialing feature With Fonolo bypass cumbersome touchtone menu Press 1 English popular company instead traverse visual menu online Then Fonolo dial number save history call company Use API access phone tree data"
+    },
+    {
+        "progweb_cat": "Telephony",
+        "api_name": "PhoneGnome",
+        "id": 15730,
+        "progweb_descr": " PhoneGnome hardwaretointernet service provide voice IP service internet connection PhoneGnome API provide application access service include configure hardware make call manage contact"
+    },
+    {
+        "progweb_cat": "Telephony,Tools",
+        "api_name": "Plivo",
+        "id": 534,
+        "progweb_descr": " Plivo telephony platform integration apps It build integrative take desire call making receive function developersâ€™ hand It provide capacity conferencing call track record This API HTTPbased SSL support expose service essential functionality It return JSON response Pricing detail forthcoming developer"
+    },
+    {
+        "progweb_cat": "Telephony,Tools",
+        "api_name": "Mozilla Telephony",
+        "id": 7411,
+        "progweb_descr": " Web Telephony API Mozilla enable web content handle phone call Javascript code Web content able manage follow call function dial answer reject hold resume Per provider API specification yet stabilize"
+    },
+    {
+        "progweb_cat": "Telephony,Tools",
+        "api_name": "Schedulr",
+        "id": 10870,
+        "progweb_descr": " Schedulr JSON web service invoke URL schedule time In callback implementation user either put logic complete task online time consume one user queue background consumer finish"
+    },
+    {
+        "progweb_cat": "Telephony,Tools",
+        "api_name": "ClickMeeting",
+        "id": 12131,
+        "progweb_descr": " ClickMeeting web conferencing platform It allow user create virtual meeting space conference include geographically distant party Users select different feature customize virtual conference space They choose video andor audio moderate andor private chat ClickMeeting API allow developer generate meeting room access tokens It RESTful API return data format JSON JS XML PHP much"
+    },
+    {
+        "progweb_cat": "Telephony,Tools",
+        "api_name": "OnTime Outbound Calling",
+        "id": 12147,
+        "progweb_descr": " OnTime Telecom telephony solution service Their mass communication solution help business correspond audience voice message SMS Users prerecord greeting send group call entire call list With SMS solution user plan text message base marketing campaign Their API expose outbound call making functionality Developers use design entire voice recordingbased marketing campaign specify call list specify message play"
+    },
+    {
+        "progweb_cat": "Telephony,Tools",
+        "api_name": "Plivo Framework",
+        "id": 12456,
+        "progweb_descr": " Plivo Framework communication framework developer build telephony apps It libraries Java Ruby Python PHP developer need change web development integration API RESTbased return XML responses It expose frameworkâ€™s functionality toward develop voice apps include make receive call record call set group call It also support broad integration social network databases external APIs"
+    },
+    {
+        "progweb_cat": "Telephony,Tools",
+        "api_name": "NewAer",
+        "id": 12703,
+        "progweb_descr": " NeuAer platform allow user automate action digital live detect thing happen thing around user physical life Using proximity application NeuAer allow user connect phone device item NeuAer API allow developer access integrate functionality NeuAer application create new application Some example API method include connect device manage device manage account information"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Broadsoft Xtended",
+        "id": 752,
+        "progweb_descr": " From site Broadsoft Xtended provide developer access lead VoIP host platform BroadSoft Xtended Developers Program support third party development extend value BroadWorks platform BroadWorks application offering include Hosted PBX IP Centrex Business Trunking Mobile PBX Residential Broadband"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "TringMe",
+        "id": 1158,
+        "progweb_descr": " From site Create rich webbased standalone mobile voice application recreate lot TringMe ’ functionality example Social networking Dating site easily integrate voice mean communication innovative way VoIP provider quickly deploy offer service use TringMe ’ easy use AdobeFlash base webphone mobile device enable via cheap use MobileVoIP Game developer virtual world creator enable make phone call virtual world real world viceversa"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Gradwell Call",
+        "id": 8077,
+        "progweb_descr": " Gradwell communication technology company provide variety service include broadband internet access business phone service email host web host computer hardware store Call API let user add call button websites allow visitor ask call user system visitor provide phone number one users extension make call number visitor answer call rout internal destination"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "EuroIAX",
+        "id": 8950,
+        "progweb_descr": " EuroIAX VoIP service provider offer global AZ VoIP termination ITSPs corporate customer EuroIAX API allow customer application trigger control call party send digitally record message This REST API return JSON format response"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Sippy SoftSwitch",
+        "id": 9248,
+        "progweb_descr": " Sippy Softswitch provide complete network management platform VoIP Voice IP carriers Its callcontrol software allow developer build VoIP network scalable reliable This software base Session Initiation Protocol SIP handle thousand client network around world Developers integrate Sippy Softswitch software application via XMLRPC API"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "MumbleBoxes",
+        "id": 9362,
+        "progweb_descr": " Mumble open source voice IP system specifically design game MumbleBoxes Mumble server host service design gamers MumbleBoxes API provide RESTful interface developer automate account management Exposed resource include list channel server user server detail server management message set management JSON XML format response support API Key require"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Digium Swithchvox",
+        "id": 9456,
+        "progweb_descr": " Digium communication technology company specialize business phone system custom telephony solution Switchvox Digiums Asteriskbased unify communication system design small medium business Digium Switchvox API let query information Switchvox PBX This allow perform multitude task download XML call log get list extension download user voicemail message APIs call creation method allow build autodialers add clicktocall function application"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Voicebuy VoIP",
+        "id": 10420,
+        "progweb_descr": " Voicebuy wholesale VoIP Voice IP provider offering Internet Telephony service carriers provider corporate customer With Voicebuy API developer create manage user account manage bill discount system API use SOAP protocol response XML Public documentation available"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "innovaphone PBX",
+        "id": 10726,
+        "progweb_descr": " service provide hosted platform voiceoverIP VoIP telephone communication It interact network hardware like private branch exchange PBX device route telephony traffic use inexpensive internet protocol connection preserve call quality flexible scalable configuration API method support designation call group device within network along device configuration rout call Methods manage descriptive information recipient description call number time call etc Methods also support designation availability receive call reason unavailability handle voice mail message"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Setu Infocom",
+        "id": 10888,
+        "progweb_descr": " service provide voiceoverIP VoIP telephony number feature design give lowcost voice communication Applications schedule send mass phone call recipient list play message record file uploaded request Applications initiate VoIP call button control web page initiate callback service reconnect local call remote recipient via inexpensive VoIP connection API method support Voice Blast deliver record voice message specify recipient one long list Methods also support voice call function initiate control embed web page HTML SetuBilling API support resellers develop clicktocall solution A callback API allow voice call local number trigger new call party local remote one another via VoIP"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "SIPmly",
+        "id": 10969,
+        "progweb_descr": " SIPmly provide inbound outbound VoIP phone service build around control panel allow customer search provision route phone number instantaneously SIPmly RESTful API allow user remotely access SIP origination termination service incorporate website mobile application advance telephony equipment"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "MyDivert",
+        "id": 10989,
+        "progweb_descr": " service provide incoming VoIP telephony function accept answer international call It establish virtual telephone number local caller forward call via voiceoverIP VoIP remote call center costeffective response Users answer call anywhere world provide local number without international call charge API method support list country local number service available area within country Methods also support account management include call history current balance API report direct inward dial DID number establish account session session initiation protocol SIP status"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Azuralis",
+        "id": 10990,
+        "progweb_descr": " Norwaybased service provide telecommunication functionality via voiceoverIP VoIP Services include multiparty call voicemail text notification texttospeech conversion clicktocall anonymous bridge call connect two number call join call Services also provide international call forward caller dial number local call answer remote call center Functionality available either hosted service instal software API method support connect manage conference call multiparty contact bulk notification via SMS text message SMS gateway service anonymous bridge call Speech synthesis message allow delivery text content via voice call API also support sirect inward dial DID session initiation protocol SIP costeffective international call"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "DIDx",
+        "id": 10991,
+        "progweb_descr": " service provide wholesale exchange register direct inbound dial DID number seller extra capacity buyer need additional number It list available block local number within particular market area acquisition provider need local number API method support list country area within country DID number available along number offer area Methods also support retrieval information available DID number cost free minute offer etc API enable completion purchase transaction buyer release purchase DID list seller"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "MorrisComGroup",
+        "id": 11025,
+        "progweb_descr": " Morris Communications Group provide business ability switch SIP trunking service broadband connection communication service MorrisComGroup API support Retrieving voicemail information mailbox play delete save voicemail message Controlling phone pair control forward several feature Service use REST call communication fully encrypt direction 1024bit encryption SSL"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "8x8 CRM",
+        "id": 11180,
+        "progweb_descr": " 8x8 company specialize service fit needs business area voice video mobile unify communication They offer suite APIs couple need Virtual Contact Center offer 8x8 Customer Relationship Management CRM API allow manage contact center interactions customer Contactual Integration Suite With API develop application interact Virtual Contact Centers data customer case followup FAQ data API utilize HTTPHTTPS support GET MODIFY ADD DELETE LIST action XML format"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "8x8 Reporting",
+        "id": 11181,
+        "progweb_descr": " 8x8 company specialize service fit needs business area voice video mobile unify communication They offer suite APIs couple need Virtual Contact Center offer 8x8 8x8 Statistics Reporting API establishes request statistical data Historical Reporting Database use simple HTTP request security purpose type request accept HTTPS Historical Reporting database supply information event aggregate agent interaction status outbound call queue interaction Responses come XML CSV format"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "8x8 Recordings",
+        "id": 11182,
+        "progweb_descr": " 8x8 company specialize service fit needs business area voice video mobile unify communication They offer suite APIs couple need Virtual Contact Center offer 8x8 Recordings API allow identification request record information Virtual Contact Center Database record data assessable API include file name phone number dial customer ANI information All querier make securely HTTPS use GET response XML CSV"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "8x8 Web Callback",
+        "id": 11183,
+        "progweb_descr": " 8x8 company specialize service fit needs business area voice video mobile unify communication They offer suite APIs couple need Virtual Contact Center offer 8x8 Web callback allow embed button website allow visitor request callback application Utilizing callback customer wait support queue interact directly application Features API include call call certain delay call agent available All callback request GET POST make use HTTPS"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "8x8 Click to Dial",
+        "id": 11184,
+        "progweb_descr": " 8x8 company specialize service fit needs business area voice video mobile unify communication They offer suite APIs couple need Virtual Contact Center offer 8x8 Click Dial API simple HTTP API let log agent create outbound call external URL window This allow clickable hyperlink creation user record dial customer phone number Requests make securely HTTPS use GETPOST"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "8x8 External IVR",
+        "id": 11185,
+        "progweb_descr": " 8x8 company specialize service fit needs business area voice video mobile unify communication They offer suite APIs couple need Virtual Contact Center offer 8x8 This API allow client ability interact external interactive voice response IVR system This feature presently embed 8x8 IVR Server Once request make 8x8 IVR Server administrator may configure IVR script relay request external server Requests make use HTTPS authenticate issue action request token"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Speap",
+        "id": 11196,
+        "progweb_descr": " Speap online phone company goal offering cheap reliable global phone service simple usable format Speap API allow developer integrate Speap function thirdparty application Functions include check server status initiate call send message request account balance data"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Synergy-IPV",
+        "id": 11291,
+        "progweb_descr": " Morris Communications Group provide Voice Internet Protocol service SynergyIPV custom build VOIP platform telephone feature controllable directly userâ€™s phone computer SynergyIPV API web drive API allow developer write application directly control userâ€™s station include voicemail button map call log contact management"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "woopla",
+        "id": 11642,
+        "progweb_descr": " Woopla provide telecommunication solution business residential client Services include low cost international call SIPVoIP termination service number Among value add service woopla provide Alert Call API allow application web service execute outgoing voice call Woopla create customized voice dialogue automatically execute side pick phone Suggested us include PIN query phone number verification appointment reminder"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "DIDWW",
+        "id": 13682,
+        "progweb_descr": " DIDWW service provide local phone number numerous country city DIDWW also provide call forward VoIP mobile phone phone around world DIDWW API allow developer access integrate DIDWW functionality information application Some example API method include retrieve region rate create edit order get service detail"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "VoiceMeUp",
+        "id": 13783,
+        "progweb_descr": " VoiceMeUp VoIP service provider VoiceMeUP internationally country Features include caller ID voicemail call forward call return VoiceMeUp API allow developer integrate VoiceMeUps functionality application Some example API method include retrieve DID information call information manage account information"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "PennyTel Open",
+        "id": 14094,
+        "progweb_descr": " PennyTel provide VoIP service Australia Services provide include ANI SMS Web Callback Options Fax To Email Mobile Broadband Mobile VoIP Shared Access Numbers SmartDial SMS Visual Voicemail WebBased Soft Phone Application PennyTel API let developer integrate PennyTel functionality web sit application Users access address book send SMS account It use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "grnVoIP",
+        "id": 14355,
+        "progweb_descr": " grnVoIP Voice Internet Protocol VoIP focus VoiptoPSTN termination service grnVoIPs main customer include enterprise internet telephony service provider ITSPs grnVoIP offer service business level wholesale level With grnVoIP API developer create retail account ecommerce shop cart create agent program monitor call metric well access download account user detail client relationship management system API use SOAP protocol"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "3NGNetworks",
+        "id": 14722,
+        "progweb_descr": " 3NGNetworks API allow developer intergate existng application 3NG VoIP Platform 3NG provider private label VoIP solution API expose entire VoIP platform functionality It use SOAP protocol response format XML Full API documentation publicly available"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Junction Networks Web Services",
+        "id": 14960,
+        "progweb_descr": " Junction Networks offer variety business VoIP service They also offer RESTful Web Services API currently beta form developer use create application Junction Networks tool"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Sipgate",
+        "id": 15573,
+        "progweb_descr": " From site one large networkautonomous Internet phone service Great Britain VoIP service allow consumer business client make international call cost via basic plan without basic fee minimum rate Their integration commercial software offer telephony telephony administration user directly also feasible Website operator find callback button phone number feature Click2Dial particularly helpful"
+    },
+    {
+        "progweb_cat": "Telephony,VoIP",
+        "api_name": "Voxbone",
+        "id": 15826,
+        "progweb_descr": " VoxAPI provide SOAP REST Web Services enable Voxbone customer automate order configuration phone number channel Customers integrate number order configuration function front backoffice application Communications customer application Voxbones API secure HTTP basic authentication SSL"
+    },
+    {
+        "progweb_cat": "Telephony,Social",
+        "api_name": "Bump",
+        "id": 881,
+        "progweb_descr": " Uses device match technology identify another mobile phone creates message channel two handset exchange data SDK provide concise code include mobile app communicates Bump API establish connection exchange data authenticate interaction device Sample task include start multiplayer game add friend connection exchange content device"
+    },
+    {
+        "progweb_cat": "Telephony,Social",
+        "api_name": "Massphoning",
+        "id": 10567,
+        "progweb_descr": " Massphoning voiP base call technology allow user schedule wave hundred automate call service design emergency warning poll survey encouragement message attendant confirmation Massphoning API allow user integrate multicalling capability apps websites service use REST call OAuth security"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "Gecko Landmarks",
+        "id": 973,
+        "progweb_descr": " Landmark API allow mobile company use landmark data allow customer consume location information text format It take user current position express latitude longitude return closest landmark API use HTTP call response format JSON KML KMZ CSV"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "Vodafone Geolocation",
+        "id": 1334,
+        "progweb_descr": " Geolocation API Vodafone part suite JavaScriptbased widget APIs provide mobile web application access underlie hardware Geolocation API provide access device location likely use GPS cell tower WiFi"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "Offline Geolocation",
+        "id": 8378,
+        "progweb_descr": " Offline Geolocation allow cellphone derive location without connect internet data network service design failover system user Internet connection due roam coverage issue GPS turn available indoors Offline Geolocation developer kit allow user access global database mobile phone cell tower location along data MCC MNC LAC cellid information service free use"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "Cellid",
+        "id": 10593,
+        "progweb_descr": " service provide geolocation information detect near cellular phone access point mark location It develop provide location phone system without need access global positioning system GPS signal After identify antenna consults constantly update database exact antenna location provide coordinate phone approximate location API method support submission parameter identify mobile country code MCC mobile network code MNC local area code API return latitude longitude coordinate along value indicate antennas coverage area proxy location accuracy"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "JetSetMe",
+        "id": 11051,
+        "progweb_descr": " JetSetMe application display realtime roam O2 mobile SIM card Europe mobile go abroad return home JetSetMe API allow developer access integrate functionality data JetSetMe application create new application Some example API method include retrieve customer status get roam notification"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "Rogers Location",
+        "id": 12982,
+        "progweb_descr": " Rogers lead provider Wireless Digital Cable TV High Speed Internet mobile phone data service throughout Canada Catalyst third party developer program give developer space build product use Rogers asset include SMS LBS Carrier Billing APIs Location Services API allow developer use application request geographic position subscriber use network base position method API use REST SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "WiLocate Indoor Location",
+        "id": 13509,
+        "progweb_descr": " WiLocate indoor location API integrate new exist application provide indoor location within 5 meter iPhone Android Full documentation publicly available developer contact provider detail"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "OpenCellID",
+        "id": 13623,
+        "progweb_descr": " service part open source project log GSM CellIDs cellular network service location worldwide It provide free public noncommercial access CellID database include cell location Applications use data geolocate device crossreferencing broadcast data location specify database API method include uploading data cell location optionally include signal measurement Methods also support retrieval information log cell list cell within specify area"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "Bluevia Location",
+        "id": 14339,
+        "progweb_descr": " BlueVia developer initiative communication company Telefï¿½nica Location API enable application get user handset location API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "Verizon Location",
+        "id": 14476,
+        "progweb_descr": " Verizon Wireless LBS API allow developer create application use subscriber location part delivery service An increase number mobile application build provide information service base current physical location subscriber While application base completely XY coordinate mobile user others benefit greatly use location additional feature enrich user overall experience API use REST SOAP protocol Documentation provide"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "AT&T Location",
+        "id": 14518,
+        "progweb_descr": " Location API return longitude latitude coordinate also support AGPS thereby speed time take pinpoint device location Knowing location customer crucial service provide Whether want simplify social interaction support locationbased advertising search give direction enhance number activity ATT Location API make simple know customer"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "Deutsche Telekom IP Location",
+        "id": 14521,
+        "progweb_descr": " IP Location API let find easily cost region user come An Internet user automatically assign specific region user dial network via one Deutsche Telekomâ€™s 73 access node This way website content automatically match visitorâ€™s region follow usage scenario cater example Where near party relation user Where user find good offer PC equipment closeby Where user catch lift nearby"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "Telenor Location",
+        "id": 14532,
+        "progweb_descr": " SOAPbased Telenor Location API part Telenor Positioning Access System Location API allow client locate mobile phone Telenors network mobile phone switch coverage except foreign mobile phone accuracy GSM3G position varies different area depend among thing distance antennas A general assumption 90 mobile phone locate within 500 meter inside city 90 mobile phone locate within 10 km rural area"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "IW Location",
+        "id": 14794,
+        "progweb_descr": " RESTful Location API enable user locate provide application permission Alternatively use IW Location API retrieve cell tower location use mcc mnc cellid mobile device"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "BlueVia User Context",
+        "id": 14919,
+        "progweb_descr": " BlueVia developer initiative communication company Telefï¿½nica BlueVia User Context service aim help developer access networkbased information Developers permission user access location device information user profile data"
+    },
+    {
+        "progweb_cat": "Telephony,Mapping",
+        "api_name": "ktailab Mobile Country Code",
+        "id": 15402,
+        "progweb_descr": " MCCMNC API return coarse location base Mobile Country Code Mobile Network Code World wide roam capable mobile phone cell phone display mobile country code MCC mobile network code MNC screen This API decode combination MCC MNC back name country operator name capital city capital city location latitude longitude"
+    },
+    {
+        "progweb_cat": "Telephony,Language",
+        "api_name": "Maluuba Natural Language",
+        "id": 1038,
+        "progweb_descr": " Maluuba phone assistant app use natural voice recognition technology turn user command action It work feature calendar reminder weather search voice call email Maluuba API work across two main functionality interpret meaning phrase find normalized value date time API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Analytics",
+        "api_name": "Call Tracking Metrics",
+        "id": 1060,
+        "progweb_descr": " service provide telephone call track market promotional campaign It associate phone number campaign rout call properly link caller campaign distribution list representative receive full information person handle call Call log also help campaign performance analysis measurement ROI marketing expenditure API method support link incoming phone call marketing campaign initiate individual caller Methods return customer information data relate call campaign guide representative interact caller Reporting function support retrieval call log relate data measure campaign effectiveness"
+    },
+    {
+        "progweb_cat": "Telephony,Analytics",
+        "api_name": "Humbug Analytics",
+        "id": 9071,
+        "progweb_descr": " Humbug Telecom Labs offer enterpriseclass telecommunication traffic analysis fraud detection Their service allow get realtime traffic insight security alert telecom networkPBX Humbug Analytics API allow connect application PBX service indepth report fraud alert Use API authenticate phone number call setup submit PBX event analysis submit call detail record analysis Advanced integration enable remotely configure alert add remove subAPI key drilldown report"
+    },
+    {
+        "progweb_cat": "Telephony,Analytics",
+        "api_name": "VoodooVox Caller Analytics",
+        "id": 13427,
+        "progweb_descr": " VoodooVox provide detailed demographic information phone number They source information map number numerous 3rd party database typically use direct mail industry This data feed available developer via API Developers pass phone number demographic info return Users access city state zip code cell carrier phone number query API 200 field available Caller Analytics submit call record realtime API give user analytics portal call activity API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Enterprise",
+        "api_name": "Ifbyphone",
+        "id": 1142,
+        "progweb_descr": " Ifbyphone enable develop formsbased web application create sophisticate IVR system example create simple application trigger outbound call build complex voice application chain together series SurVo voice form Use API build custom ClicktoCall reminder call wakeup call well orderstatus eventnotification anonymouscalling automate dialers customer service application Ifbyphone API conjunction SurVo voice form provide full access automate speech recognition textï¿½tospeech multiple voice DTMF processing audio record audio playback"
+    },
+    {
+        "progweb_cat": "Telephony,Enterprise",
+        "api_name": "Mobile Automated System",
+        "id": 6881,
+        "progweb_descr": " Mobile Automated Systems mobile telecommunication provider automate process send receive bulk text alert With Mobile Automated Systems API developer interface Mobile Automated Systems message gateway application website Using API access portal SMS campaign create schedule launch API parameter include name recipient sender ID display text message send Basic account maintenance perform API allow ability check account balance Users authenticate accord username password send correspond parameter"
+    },
+    {
+        "progweb_cat": "Telephony,Enterprise",
+        "api_name": "China Telecom",
+        "id": 10233,
+        "progweb_descr": " China Telecom state own telecom operator China service 600 thousand customer China Telecom transition promote development information application specifically enterprise use bring new way public enterprise access use information China Telecom API require developer first apply access go application process application idea approve Once approve developer create application enterprise public use goal spread technology information rural part China"
+    },
+    {
+        "progweb_cat": "Telephony,Enterprise",
+        "api_name": "Simwood eSMS",
+        "id": 14464,
+        "progweb_descr": " This API enable authorise wholesale customer Simwood ï¬nd allocate manage inbound number DDIDID nongeographic well control aspect account It intend enable control issue number integrate customer software website design direct end user use Users API also able send Faxes SMS message"
+    },
+    {
+        "progweb_cat": "Telephony,Enterprise",
+        "api_name": "SoundBite",
+        "id": 15757,
+        "progweb_descr": " SoundBite web service let organization send automated voice text email message directly application accord business rule standardsbased API use language support SOAP appropriate security framework"
+    },
+    {
+        "progweb_cat": "Telephony,Text-to-Speech",
+        "api_name": "Voxeo",
+        "id": 1230,
+        "progweb_descr": " Voxeo offer SIP voice platform ondemand service power VoiceXML CCXML API standard Voxeo support IVR speech recognition DB integration CTI call control record conferencing Voxeo API provide programmatic access voice text speech service TTS"
+    },
+    {
+        "progweb_cat": "Telephony,Text-to-Speech",
+        "api_name": "CDYNE Phone Notify!",
+        "id": 4890,
+        "progweb_descr": " CDYNE Phone Notify API allow developer deliver voice call programmatically API provide method implement phone number voice call conference call Users send receive 10000 phone call per minute use texttospeech record file use CDYNEs network geographically disperse server farm"
+    },
+    {
+        "progweb_cat": "Telephony,Text-to-Speech",
+        "api_name": "VoiceForge",
+        "id": 15387,
+        "progweb_descr": " VoiceForge online speech service allow user high quality text speech audio TTS With VoiceForge API developer simply send text voice type receive audioequivalent content"
+    },
+    {
+        "progweb_cat": "Telephony,Business",
+        "api_name": "Handset Detection",
+        "id": 1258,
+        "progweb_descr": " Handset Detection real time self update database thousand mobile phone RESTful API allow user query service XML JSON retrieve information list vendor device system Libraries available PHP Python Java ASPNET"
+    },
+    {
+        "progweb_cat": "Telephony,Business",
+        "api_name": "Phone.com",
+        "id": 1893,
+        "progweb_descr": " Phonecom API integrate virtual business phone functionality HD Voice conferencing chat call group message SMS Fax API use make local long distance international call clear connection Phonecom API REST base return information JSON format 3 pricing option available plan include tollfree number integrate mobile app unlimited user"
+    },
+    {
+        "progweb_cat": "Telephony,Business",
+        "api_name": "Firmafon",
+        "id": 6419,
+        "progweb_descr": " Firmafon provide small business inexpensive cloudbased telefony service It offer automatic greeting phone menu customer ability transfer call whomever receive Firmafon also provide mobile service use within company include data offering smart phone wirelessenabled mobile device They HTTP API access user Firmafon data history iFrame API display custom content Firmafons interface user receive call"
+    },
+    {
+        "progweb_cat": "Telephony,Business",
+        "api_name": "Netfuse Synthesis",
+        "id": 6763,
+        "progweb_descr": " Netfuse Synthesis API enable licensee Synthesis platform integrate exist system device rout configuration platform This API allow manage billing balance Users access live call data well Some main benefit Synthesis include automate performance monitoring alert Docs available request"
+    },
+    {
+        "progweb_cat": "Telephony,Business",
+        "api_name": "FullCourt Voice",
+        "id": 11791,
+        "progweb_descr": " FullCourt telephony app connects mobile device web service It transmit voice webbased message system apps FullCourt service RESTful API scale recombined fit developerâ€™s particular need API expose serviceâ€™s entire telephony functionality Developers use API send call request retrieve user information API return XMLencoded data"
+    },
+    {
+        "progweb_cat": "Telephony,African",
+        "api_name": "Fonenode",
+        "id": 1446,
+        "progweb_descr": " Fonenode API integrate voice feature telephony application It available REST architecture JSON response code format provide share secret authentication method Fonenode company base Africa offer voice message interactive voice response telephony service"
+    },
+    {
+        "progweb_cat": "Telephony,African",
+        "api_name": "Pearl SMS",
+        "id": 7053,
+        "progweb_descr": " Pearl SMS Ugandabased SMS delivery service send 5000 text per second Its feature allow user send personalized SMS schedule future SMS store manage unlimited contact Pearl SMS API enable developer integrate SMS service directly application"
+    },
+    {
+        "progweb_cat": "Telephony,Customer Relationship Management",
+        "api_name": "UpCall",
+        "id": 1582,
+        "progweb_descr": " UpCall REST API allow developer access integrate functionality UpCall application API allow management programmatically make humanpowered phone call scale Some example API method include manage call manage number retrieve call data UpCall platform make outbound human call API promise Programmatically make humanpowered phone call scale Send u number call"
+    },
+    {
+        "progweb_cat": "Telephony,Customer Relationship Management",
+        "api_name": "Nimblevox Fast Lane",
+        "id": 7496,
+        "progweb_descr": " Nimblevox cloud communication service Hosted IVR Automatic Speech Recognition TexttoSpeech Answering Machine Detection Outbound Dialing SMS Solution Service Creation Tool Out box APIs Fast Lane API allow company give customer access portion IVR Call Center web page selection When invoke API dial phone number include additional need digits A message inform agent caller play request call acceptance When agent accept system call customer back This decrease customer hold time reduces communication cost"
+    },
+    {
+        "progweb_cat": "Telephony,Customer Relationship Management",
+        "api_name": "Nimblevox serviceStart",
+        "id": 7497,
+        "progweb_descr": " Nimblevox cloud communication service Hosted IVR Automatic Speech Recognition TexttoSpeech Answering Machine Detection Outbound Dialing SMS Solution Service Creation Tool Out box APIs serviceStart API use invoke custom application It receive request start phone line pass request data application"
+    },
+    {
+        "progweb_cat": "Telephony,Customer Relationship Management",
+        "api_name": "Next Caller",
+        "id": 8823,
+        "progweb_descr": " Next Caller free priority customer service membership service call center efficiency platform platform allow user skip customer service hold queue enable call center securely retrieve identification data process call efficiently Authorized third party application use Next Caller API integrate platform REST API authenticate OAuth 20 support JSONP XML F9XML format response"
+    },
+    {
+        "progweb_cat": "Telephony,Customer Relationship Management",
+        "api_name": "Ringio CRM",
+        "id": 14528,
+        "progweb_descr": " Ringio SaaSbased rich call service route call phone along background information caller ï¿½ inform every conversation relevant information realtime improve interaction customer Ringio CRM API RESTful API allow user read write Ringio data contact note phone call user Using data developer connect CRM system Ringio phone solution With API user develop integration CRM system Ringio user get phone call caller identify information store CRM system Developers also enrich CRM data capture Ringio log phone call interaction record CRM API response format JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Teleconferencing",
+        "api_name": "Cloud Answering Machine",
+        "id": 1824,
+        "progweb_descr": " Cloud Answering Machine API allow developer integrate inbound call SMS handle CRM system Cloud Answering Machine service create manage second phone number host cloud receive inbound voice message SMS Users choose number anywhere world retain local presence create international one"
+    },
+    {
+        "progweb_cat": "Telephony,Teleconferencing",
+        "api_name": "Anonochat",
+        "id": 3091,
+        "progweb_descr": " Anonochat API free teleconferencing solution support creation temporary call conference room Conference participant require pin telephone callin number gain unrestricted access Anonochat platform API allow developer integrate Anonochat functionality application Anonochat API send request return response HTTP format JSON format respectively"
+    },
+    {
+        "progweb_cat": "Telephony,Fax",
+        "api_name": "Twilio Programmable Fax",
+        "id": 1883,
+        "progweb_descr": " Twilio Programmable Fax API support integration fax transmission functionality apps fax machine It allow user send faxes access past fax record RESTful API send HTTP request require HTTP basic authentication"
+    },
+    {
+        "progweb_cat": "Telephony,Audio",
+        "api_name": "Orange Business Talk",
+        "id": 1975,
+        "progweb_descr": " Orange Business Talk API enable customer programmatically manage voice site DID number emergency zone portability etc Business Talk enterprise solution carry domestic international voice call This include call make corporate site well offnet access 150 country territory around world"
+    },
+    {
+        "progweb_cat": "Telephony,Audio",
+        "api_name": "Mozilla Web Telephony",
+        "id": 2159,
+        "progweb_descr": " Mozilla Web Telephony API ideal integrate voice phone call capability web content It allow developer build application control telephony capability Firefox OS API compatible Firefox Mobile Gecko Firefox OS Gecko browser mobile device"
+    },
+    {
+        "progweb_cat": "Telephony,Audio",
+        "api_name": "Klingelring Ringtones",
+        "id": 6920,
+        "progweb_descr": " With Klingelring user create new ringtones music library download press kit principal value API could easiness create ringtones user connect creator around world Developers work phone apps benefit API support JSON format API might target youth culture app creator To start developer visit resource link see sample parameter response request"
+    },
+    {
+        "progweb_cat": "Telephony,Audio",
+        "api_name": "CallFire Record",
+        "id": 12164,
+        "progweb_descr": " CallFire provide VoIP platform power voice broadcast call center call track text message campaign This API let user create record campaigns Functionality include retrieve recording retrieve sound file caller ID playback recording API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Audio",
+        "api_name": "TurboBridge",
+        "id": 12232,
+        "progweb_descr": " TurboBridge highdefinition audio conferencing service TurboBridge offer conference call feature conference room dedicate phone line multiple conference IDs TurboBridge API allow developer access integrate functionality TurboBridge applications Some example API method include manage call manage account information retrieve call detail"
+    },
+    {
+        "progweb_cat": "Telephony,Audio",
+        "api_name": "Liquid11 Conferencing",
+        "id": 14508,
+        "progweb_descr": " There two APIs user choose HTTP JavaScript Both APIs design allow user create conference display conference detail eg phone number call pin number enter etc little 2 line code Liquid11 specialize B2B telecom provide free telecom solution aim small medium size enterprise Revenue split opportunity available large volume user promoter platform"
+    },
+    {
+        "progweb_cat": "Telephony,Artificial Intelligence",
+        "api_name": "CALLR JSON-RPC",
+        "id": 2149,
+        "progweb_descr": " CALLR JSON RPC API allow developer access integrate functionality CALLR applications Some example API method include make call send message retrieve message manage campaign CALLR global voice SMS service build help brand create automate personalized contextual communication API cover 220 country"
+    },
+    {
+        "progweb_cat": "Telephony,Robots",
+        "api_name": "YouMail Spam Risk",
+        "id": 2568,
+        "progweb_descr": " YouMail Spam Risk API filter incoming call detect spamming number RESTful API return approval cautionary signal confirm whether number spam likely spam spam This way user conveniently block robocallers spamming number Its lightweight architecture support highspeed analysis processing request return JSON XMLformatted response"
+    },
+    {
+        "progweb_cat": "Telephony,Data-as-a-Service",
+        "api_name": "IDICIA CNAM CallerID",
+        "id": 3102,
+        "progweb_descr": " IDICIA CNAM CallerID caller identification solution compatible SOAP REST platforms API support convenient accurate verification identification detail caller It deploy different user include app developer network carrier VOIP service provider call center API ’ provider Idicia lead telecommunication brand collaborate wireline wireless carrier provide proprietary caller identification verification service different industry"
+    },
+    {
+        "progweb_cat": "Telephony,Developers",
+        "api_name": "DIDForSale",
+        "id": 3143,
+        "progweb_descr": " DIDforSale API design provide comprehensive tool set make API development breeze didML acronym DIDforSale Mark Language put together set instruction use program inbound call These instruction lay step step process someone call DIDforSale DFS phone number As soon number dialed DFS read instruction URL didML list action perform These action define didML verb Some example Say caller name play music prompt user input press key"
+    },
+    {
+        "progweb_cat": "Telephony,Management",
+        "api_name": "Verizon ThingSpace Connectivity Management",
+        "id": 3156,
+        "progweb_descr": " Verizon ThingSpace Connectivity Management API integrate telephony connection feature mobile device It available HTTP request JSON response API token Resources include parameter live API try session"
+    },
+    {
+        "progweb_cat": "Telephony,Management",
+        "api_name": "Teleco.IO",
+        "id": 6480,
+        "progweb_descr": " TelecoIO offer API telecommunication service help manage industry API allow asset management report enable provider search order provision telecom asset throughout entire data lifecycle across multiple network Currently private beta interested party request API access TelecoIO website"
+    },
+    {
+        "progweb_cat": "Telephony,Semantics",
+        "api_name": "Gridspace Sift",
+        "id": 3492,
+        "progweb_descr": " Gridspace Sift API allow developer perform deep language process live call record speech order build voice analysis communication system This API use build analysis workflow trigger action base call event supply data business intelligence system Gridspace Sift use semantic processing figure say signal layer processing figure say"
+    },
+    {
+        "progweb_cat": "Telephony,Accounting",
+        "api_name": "PBXDom",
+        "id": 3697,
+        "progweb_descr": " PBXDom API analyze enterprise account report telephony sale call manage phone system activity It available JSON architecture API Key As service PBXDom allow capture business interaction via real time dashboard report chart"
+    },
+    {
+        "progweb_cat": "Telephony,Syncing",
+        "api_name": "Twilio Sync",
+        "id": 3808,
+        "progweb_descr": " Sync API use build inapp collaboration across platform Its basic function include document retrieval map creation list retrieval Additionally Sync API improve realtime presence add remote collaboration integration This RESTful API exchange information JSON format Twilio voice SMS technology provider base San Francisco"
+    },
+    {
+        "progweb_cat": "Telephony,Syncing",
+        "api_name": "ObexCode",
+        "id": 15545,
+        "progweb_descr": " ObexCode AS innovative software company focus host service mobile synchronization backup personal content management data mobilization social medium integration ObexCode Sync API RESTbased API mobile sync server allow user configure synchronize integrate device application API use content handle synchronization mobile device Create custom mobile sync solution SyncML ActiveSync mobile phone web service Google Facebook Responses format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Monitoring",
+        "api_name": "MiaRec",
+        "id": 3940,
+        "progweb_descr": " MiaRec API allow developer integrate call recording quality monitoring function application system MiaRec call record interaction management service contact center It provide realtime dashboard web interface provide overview callsperday call duration active call total number record call etc"
+    },
+    {
+        "progweb_cat": "Telephony,Monitoring",
+        "api_name": "AlertGrid",
+        "id": 15202,
+        "progweb_descr": " AlertGrid online service help developer easily integrate alert event filter functionality system application With multiple alert type history track data visualization aim become real alternative heavyweight monitoring tool SMS feature available globally170 country"
+    },
+    {
+        "progweb_cat": "Telephony,German",
+        "api_name": "Nexxt Mobile Voice & SMS",
+        "id": 4101,
+        "progweb_descr": " Nexxt Mobile Voice SMS API allow developer implement voice sm service application enable user use service directly application Nexxt Mobile German mobile communication service provider"
+    },
+    {
+        "progweb_cat": "Telephony,German",
+        "api_name": "42com",
+        "id": 7865,
+        "progweb_descr": " 42com telecommunication company offer range service virtual network operator use design product 42com come online authentication API late version use keyedhash message authentication code HMAC rather usernamepassword combination login 42com website available English German"
+    },
+    {
+        "progweb_cat": "Telephony,Applications",
+        "api_name": "Keyyo",
+        "id": 4356,
+        "progweb_descr": " Keyyo Manager API integrate telephony feature application include VoIP call redirection call retrieval Available RESTful interface OAuth2 authentication Keyyo API instruction write English although main site display French main language"
+    },
+    {
+        "progweb_cat": "Telephony,Applications",
+        "api_name": "Plivo Application",
+        "id": 5609,
+        "progweb_descr": " Plivo Application API allow developer perform action Plivo application Each application set Answer Hangup Message URL help manage incoming call message Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Telephony,Applications",
+        "api_name": "RealPhoneValidation",
+        "id": 9414,
+        "progweb_descr": " Real Phone Validation ’ API allow user identify disconnect invalid number realtime API use live telco data ping phone switch minute accuracy stale database lookup Allowing user determine whether number collect accurate contactable service also identify number landline mobile provide phone carrier callerID information"
+    },
+    {
+        "progweb_cat": "Telephony,Applications",
+        "api_name": "NovelASPect",
+        "id": 10383,
+        "progweb_descr": " NovelASPect lead application host provider small mediumsized business NovelASPect offer everything QuickBooks Hosting Business VoIP service Their host VoIP service include access number APIs These APIs include functionality create PBX feature provision new customer buy phone number originate fax Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Telephony,Localization",
+        "api_name": "Apico Numbers",
+        "id": 4664,
+        "progweb_descr": " Apico Numbers REST API allow obtain number anywhere world Features API include simultaneous voice session inexpensive call without expired balance number across world request"
+    },
+    {
+        "progweb_cat": "Telephony,Accounts",
+        "api_name": "Twilio Pricing",
+        "id": 4862,
+        "progweb_descr": " Twilio Pricing API REST API provide tools developer pull real time accountspecific pricing Twilios voice phone number product Some resource offer API Pricing Voice Country Instance Pricing Voice Country List Pricing Voice Number Instance Pricing Phone Numbers Country Instance Pricing Phone Numbers Country List Twilio provide telephony infrastructure web service cloud enable web programmer integrate realtime phone call application"
+    },
+    {
+        "progweb_cat": "Telephony,Accounts",
+        "api_name": "Plivo Account",
+        "id": 5611,
+        "progweb_descr": " Plivo Account API allow developer perform action Plivo account Using API user access information ie email available cash credit name time zone Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Telephony,Marketing",
+        "api_name": "Message Hero SMS",
+        "id": 4917,
+        "progweb_descr": " Message Hero SMS aim provide way business integrate SMS website app software use Message Heros RESTful SMS API Message Hero UK Irishbased text message marketing bulk SMS solution service allow user send special offer urgent alert reminder news SMS PC customer mobile phone"
+    },
+    {
+        "progweb_cat": "Telephony,Marketing",
+        "api_name": "Lime Cellular",
+        "id": 10889,
+        "progweb_descr": " service provide service outbound market promotion campaign include mass email SMS text messaging Applications use service communication optin form deliver advertising manage advertiser relationship trigger communication base user click selection keywords API method support oneway outbound SMS message message body recipient mobile device number specify request Methods also support send poll survey message process response recipient API provide function advertiser account manage optin optout request update communication preference"
+    },
+    {
+        "progweb_cat": "Telephony,Marketing",
+        "api_name": "CallFire Cloud",
+        "id": 13547,
+        "progweb_descr": " Callfire provide variety service call center voice broadcast Customer Relationship Management Interactive Voice Response telephonyrelated business campaign operation Callfire Cloud API provide programmatic access number Callfire service include send reply SMS message area code validation call record report find order tollfree number campaign management This RESTful API return data XML An API key account service require use"
+    },
+    {
+        "progweb_cat": "Telephony,Forms",
+        "api_name": "Real Phone Validation",
+        "id": 4960,
+        "progweb_descr": " Real Phone Validation API provide tool ping phone company switch analyze data return determine status number Real Phone Validation also give standard result Connected Disconnected Restricted Busy Invalid Number score system interpret In addition Connected Disconnected Real Phone Validation also provide Phone Type mobile landline Caller ID Carrier It available US Canadian phone number validation"
+    },
+    {
+        "progweb_cat": "Telephony,Forms",
+        "api_name": "DeviceMagic",
+        "id": 13479,
+        "progweb_descr": " Device Magic build application mobile device smartphones help user reduce reliance paper form data capture application checklists todo list survey allow rapid creation distribution electronic form mobile device API let developer build workflow rout application integrate current backoffice system API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Validation",
+        "api_name": "Byteplant Phone Number Verification",
+        "id": 5096,
+        "progweb_descr": " Byteplant Phone Number Verification API allow recognize valid phone number part world With JSON format Key authentication API useful identify telephony data customer database aim clean space avoid disconnection update contact list Byteplant provide email management security solution"
+    },
+    {
+        "progweb_cat": "Telephony,Validation",
+        "api_name": "Data8 Telephone Services",
+        "id": 14559,
+        "progweb_descr": " Data8 UKs premier data solution provider range data cleanse postcode lookup data validation service ultimately improve way business communicate customer Data8 offer suite service use offer telephone service use BT OSIS telephone data These service integrate website business process use owner contact customer API provide method telephone number capture directory service telephone validation It use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,International",
+        "api_name": "CallDirek",
+        "id": 5709,
+        "progweb_descr": " CallDirek REST API allow developer access integrate functionality CallDirek applications Some example API method include manage account retrieve balance information top voice credit make call CallDirek web mobile application pinless international call make voice phone call"
+    },
+    {
+        "progweb_cat": "Telephony,International",
+        "api_name": "Byte Plant Phone Number Validation",
+        "id": 8341,
+        "progweb_descr": " Byte Plant provide email process management service offer software service International Phone Number Validation API allow user check Status Valid invalid Line type Fixed line mobile VoIP pager etc Geolocation Region city Phone number correction reformatting accord national international standard service use REST call return JSON use SSL API Keys authentication"
+    },
+    {
+        "progweb_cat": "Telephony,International",
+        "api_name": "Voxofon",
+        "id": 8532,
+        "progweb_descr": " Voxofon lowcost international call SMS service It use business make lot international call employee customer overseas use resellers want create market international call service Wholesale resellers take advantage white label licensing customizable rate margin SOAP XMLRPC APIs integration"
+    },
+    {
+        "progweb_cat": "Telephony,International",
+        "api_name": "CallWithUs",
+        "id": 13442,
+        "progweb_descr": " Webbased API allow service user check account balance get call rate specify phone number retrieve call history DID minute initiate web callback specify phone number Click call service intend give web visitor free way contact site provider Also provide SMS send service"
+    },
+    {
+        "progweb_cat": "Telephony,Search",
+        "api_name": "SearchBug Reverse Phone Search",
+        "id": 6802,
+        "progweb_descr": " SearchBug Reverse Phone Search allow access name address phone number API search business people directory yellow page white page unlisted source"
+    },
+    {
+        "progweb_cat": "Telephony,Verification",
+        "api_name": "SearchBug Verify Phone Number",
+        "id": 6803,
+        "progweb_descr": " SearchBug provide Phone Number Verification API application aim verify validate check wireless phone VoIP number land line phone This application could useful identify phone number active disconnect"
+    },
+    {
+        "progweb_cat": "Telephony,Data",
+        "api_name": "Everyone",
+        "id": 6869,
+        "progweb_descr": " RESTful EveryoneAPI give developer way access collect cellular data make simple HTTP request API accept phone number return applicable demographic data user name gender location address Usage pricing EveryoneAPI determine per successful lookup basis make API scalable small enterprise business situation To begin EveryoneAPI require account ID access token authorization"
+    },
+    {
+        "progweb_cat": "Telephony,Data",
+        "api_name": "Experian Data Quality Phone Validation",
+        "id": 7149,
+        "progweb_descr": " Experian Data Quality ’ realtime phone validation solution help user determine whether collect accurate phone number service also identify number mobile landline ensure compliance TCPA This SOAPbased Web service source data 200 telecommunication cable provider integrate application web site Reverse phone append available"
+    },
+    {
+        "progweb_cat": "Telephony,Advertising",
+        "api_name": "TTNC Call Management",
+        "id": 6950,
+        "progweb_descr": " TTNC API allow user manage call phone number integrate TTNCs service Features include view call data record number set number call management service make change suspend service settng number forward single multiple destination"
+    },
+    {
+        "progweb_cat": "Telephony,Advertising",
+        "api_name": "Enterprise Communications Dialer",
+        "id": 8125,
+        "progweb_descr": " Enterprise Communications call center service provider offer client qualified staff VoiP call redundant infrastructure emergency call monitoring many feature Enterprise Communications Dialer API allow user integrate predictive dialer system third party application An account required service"
+    },
+    {
+        "progweb_cat": "Telephony,Advertising",
+        "api_name": "Freespee",
+        "id": 13675,
+        "progweb_descr": " Freespee mobile advertising company business whose customer want connect representative make purchase Freespees smartphone ad placement optimization technology track analytics make mobile display advertising convert well search Founded VoIP voice Internet protocol executive 2008 Freespee headquarter Sweden"
+    },
+    {
+        "progweb_cat": "Telephony,Software-as-a-Service",
+        "api_name": "WannaSpeak",
+        "id": 7101,
+        "progweb_descr": " WannaSpeak APIs allow developer provision inbound number redirect final destination phone number WannaSpeak currently cover 40 country National geographical special DIDs All WannaSpeak APIs accessible use JSON XML protocol"
+    },
+    {
+        "progweb_cat": "Telephony,Australian",
+        "api_name": "Telstra",
+        "id": 7135,
+        "progweb_descr": " Telstra Australian telephony company internet service provider Telstra provide various plan personal business mobile tablet phone internet need Telstra API allow developer access integrate functionality Telstra application create new application Some example API method include access contact manage message access location"
+    },
+    {
+        "progweb_cat": "Telephony,Australian",
+        "api_name": "Eftel",
+        "id": 10256,
+        "progweb_descr": " Eftel one Australias large Internet Service Providers ISPs Their customer come residential small medium business corporate sector Eftels service include ADSL SHDSL Fibre EoC Ethernet Copper web host colocation IP transit mobile broadband mobile phone telephony service Eftel make API available customer online account This API provide programmatic mean user retrieve logs error information administer connection setting"
+    },
+    {
+        "progweb_cat": "Telephony,Video",
+        "api_name": "Call2API",
+        "id": 7516,
+        "progweb_descr": " Call2API allow user integrate voice message capability contact platforms An online editor help user quickly build call flow voice message use predefined component Users send voice broadcast form template personalize recipient Voice broadcast report available website via API call"
+    },
+    {
+        "progweb_cat": "Telephony,Video",
+        "api_name": "Ismuser",
+        "id": 8294,
+        "progweb_descr": " Ismuser allow user embed realtime videoconferencing service websites application use JavaScript This allow user engage live crossplatform communication 10 people time Developers customize appearance Ismuser application service online dashboard provide detailed usage statistic Additional application embed service enable user share videos image etc If live chat need Ismuser provide well"
+    },
+    {
+        "progweb_cat": "Telephony,Video",
+        "api_name": "Cisco Jabber Voice & Video",
+        "id": 10280,
+        "progweb_descr": " service provide integrated voice video communication via broswerbased telephony Basic telephone call function include make receiving voice call hold resume funtions multiparty teleconference muteunmute transfer call In addition service support send receive highdefinition HD quality video enhance voice communication API method implement service JQuery library manage call function communication interaction A browser plugin interact Javascripts duplicate function provider instal client software"
+    },
+    {
+        "progweb_cat": "Telephony,Video",
+        "api_name": "Utribo Connect",
+        "id": 12895,
+        "progweb_descr": " Utribo Connect softwareasaservice offer clicktocall clicktovideo Businesses use Utribo route web user live person use voice video use link appear button web page Users try Connect free however API access require monthly fee API use connect Utribo Connect telecom backend Documentation publicly available"
+    },
+    {
+        "progweb_cat": "Telephony,eCommerce",
+        "api_name": "Recharge My",
+        "id": 7655,
+        "progweb_descr": " Recharge My online mobile recharge bill payment eCommerce platform Users pay bill manage payment recharge mobile phone airtime data Recharge My API allow developer access integrate functionality Recharge My application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Telephony,eCommerce",
+        "api_name": "WURFL",
+        "id": 15504,
+        "progweb_descr": " WURFL XML configuration file contain information capability feature many mobile device WURFL Web Service provide RESTful interface WURFL database If user write web application mobile phone need know capability specific device use service query exact capability device without build implementation WURFL Responses return JSON format"
+    },
+    {
+        "progweb_cat": "Telephony,Sales",
+        "api_name": "CallRail",
+        "id": 8015,
+        "progweb_descr": " CallRail phone call track record analytics service help company understand marketing source drive phone call online offline CallRail API provide access data call place CallRail call track platform Some example API method include list call retrieve call information retrieve company information"
+    },
+    {
+        "progweb_cat": "Telephony,Indian",
+        "api_name": "JOLO Recharge",
+        "id": 8075,
+        "progweb_descr": " JOLO Indiabased provider message web host mobile recharging service JOLOs Recharge service allow user recharge mobile phone DTHs data card online Developers want offer service end user website application integrate JOLO Recharge API In exchange annual API access fee get pay commission every recharge"
+    },
+    {
+        "progweb_cat": "Telephony,Indian",
+        "api_name": "DNCIndia",
+        "id": 11195,
+        "progweb_descr": " DNCIndia offer client web base platform perform Do Call Scrub NCPR database service enable telemarketers remove number illegal call call list focus viable lead DNCIndia API integrate exist call platform perform single scrub multiple scrub account management function API use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Testing",
+        "api_name": "NuBot",
+        "id": 8737,
+        "progweb_descr": " NuBot fully automate IVR application test service NuBot help automate test process range situation include functional load regression performance balance backend test well telephony infrastructure NuBot offer RESTful API programmatic access NuBot service Example use case API include collect information send thirdparty component gather metric display web dashboard launch test session build process get raw test session data provide trend analysis time"
+    },
+    {
+        "progweb_cat": "Telephony,Notifications",
+        "api_name": "Dial2Verify",
+        "id": 9407,
+        "progweb_descr": " Dial2Verify free cloudbased miss call notification service build around API enable user build call verification base application Dial2Verify API allow miss call forward CRM application remote URLs Email address much API accept HTTP call contain telephone number verify respond JSON object image response"
+    },
+    {
+        "progweb_cat": "Telephony,Notifications",
+        "api_name": "Xtify",
+        "id": 15091,
+        "progweb_descr": " Xtify developed unique push notification platform allow developer deliver push locationtriggered message directly usersï¿½ device use SDK message engine ï¿½ even application close"
+    },
+    {
+        "progweb_cat": "Telephony,Satellites",
+        "api_name": "Globalstar OSAT",
+        "id": 10300,
+        "progweb_descr": " service provide aid schedule satellite telephone call Its resource specific user provider satellite phone hardware intend help user identify window available bandwidth base location place call Programmatic access provide function available provider interactive interface API method support programmatic access schedule access time satellite telephone communication Methods allow designation terrestrial location latitude longitude along desired time period make call Returned data provide period project minimal compete traffic support decision make call scheduling"
+    },
+    {
+        "progweb_cat": "Telephony,Wi-Fi",
+        "api_name": "OpenSignal",
+        "id": 11119,
+        "progweb_descr": " OpenSignal application allow user find best cell phone wifi mobile coverage location OpenSignal provide database cell phone tower cell phone signal strength reading WiFi access point around world OpenSignal API allow developer access integrate functionality data OpenSignal application create new application An example API method retrieve coverage information location"
+    },
+    {
+        "progweb_cat": "Telephony,Security",
+        "api_name": "SAINTlogin",
+        "id": 11175,
+        "progweb_descr": " SAINTlogin allow user login website private network dial number cell phone rather use password userIDs call free since system hang first ring If caller recognized private session establish access request page grant SAINTlogin API enable developer integrate SAINTlogin website Doing require use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Telephony,Security",
+        "api_name": "Tossable Digits",
+        "id": 14326,
+        "progweb_descr": " Tossable Digits service allow user purchase private disposable phone number Tossable Digits API allow customer access create cancel service offer Tossable Digits API accessible use two method SOAP HTTP Responses format JSON PHP Serial"
+    },
+    {
+        "progweb_cat": "Telephony,Security",
+        "api_name": "SingTel Single Sign On",
+        "id": 14545,
+        "progweb_descr": " SingTel mobile telephony company base Singapore SingTel expose set web service offer mixture telecom marketplace capability SingTel offer Saas customer myBusiness Single Sign On capability API At point time individual developer without company representation grant access APIs"
+    },
+    {
+        "progweb_cat": "Telephony,Referrals",
+        "api_name": "CallPixels",
+        "id": 11594,
+        "progweb_descr": " CallPixels service let user add phone number call track exist affiliate offer number automatically screen caller forward customer inbound call center API allow developer integrate CallPixels add paypercall track exist affiliate management software API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Telephony,Prices",
+        "api_name": "NumberLaundry",
+        "id": 11619,
+        "progweb_descr": " NumberLaundry website service provide whatcheercom provide useful information phone number submit API use REST call return JSON submit phone number return clean dash space number country icon Twilio call rate API available free charge"
+    },
+    {
+        "progweb_cat": "Telephony,Recommendations",
+        "api_name": "Clarity",
+        "id": 11673,
+        "progweb_descr": " Clarity app individual network phone It mean connect people seek impart receive advice Clarity feature allow individual schedule conversation time subject person Speakers also use inbuilt payment function charge client time Others also use URL link usersâ€™ account schedule conversation Clarityfm API expose user information profile functionality It RESTful API return JSONencoded data"
+    },
+    {
+        "progweb_cat": "Telephony,Contacts",
+        "api_name": "CallFire List Service",
+        "id": 12167,
+        "progweb_descr": " CallFire provide VoIP platform power voice broadcast call center call track text message campaign This API allow account holder create manage personal phonebook entry Consumers view add remove entry API let user retrieve account list associate ID create new contact list validate list API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Billing",
+        "api_name": "txtNation Payforit",
+        "id": 12300,
+        "progweb_descr": " txtNation Mobile Billing SMS Messaging provider Payforit API allow developer bill user phone without make leave WAP site API one payment version Payforit system access use txtNation Gateway Once user chosen pay particular product WAP site developer pas variable describe product transaction initiate transaction These variable send either GET POST method"
+    },
+    {
+        "progweb_cat": "Telephony,Government",
+        "api_name": "Robotalker",
+        "id": 12572,
+        "progweb_descr": " service provide robocalling political campaign broadcast 911 announcement bill reminder debt collection similar bulk telephone communication Calls complete via ATT network extensive geographic coverage service estimate call completion rate average 98 API method support create delete message schedule call message delivery specify recipient list manage verification reporting Methods also allow management mp3 wav file contain call content"
+    },
+    {
+        "progweb_cat": "Telephony,Real Time",
+        "api_name": "Telsolutions",
+        "id": 12665,
+        "progweb_descr": " Telsolutions multichannel communication company offer voice email text message analysis security service Telsolutions Web Services API module allow user integrate select Telsolutions service custom business application API module provide solution automate data exchange realtime message Computer Telephony Integration CTI capability like call rout call pacing"
+    },
+    {
+        "progweb_cat": "Telephony,Hosting",
+        "api_name": "Synety CloudCall",
+        "id": 12928,
+        "progweb_descr": " CloudCall cloudbased demand communication service develop provide small medium size organization phone base communication system without onsite equipment purchase installation Beyond basic phone system CloudCalls service include support call center call record host VoIP call reporting analysis call queue CloudCall API enable organization programmatically integrate internal system CloudCalls service API expose method configure endpoint call application program retrieve call information individual call make call This API use REST JSON require account service access"
+    },
+    {
+        "progweb_cat": "Telephony,Profiles",
+        "api_name": "Rogers User Profile",
+        "id": 12981,
+        "progweb_descr": " Rogers lead provider Wireless Digital Cable TV High Speed Internet mobile phone data service throughout Canada Catalyst third party developer program give developer space build product use Rogers asset include SMS LBS Carrier Billing APIs User Profile API allow developer build system determine user active Rogers Fido subscriber An Enhanced User Profile EUP API allow thirdparty application access Rogersâ€™ subscriber profile information use either customer telephone number IMSI API return subscriberâ€™s class service mobile phone number attribute API use REST SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,Nordic",
+        "api_name": "Vemringde",
+        "id": 13011,
+        "progweb_descr": " Vemringde service list phone number unwanted caller With vemringdese API user search information issue database use application An example use would help block sale call IP phone mobile phone API consist two part List API list common number vemringdese Search API provide information number database work much like normal number lookup API use RESTful call response format XML JSON Text Vcard"
+    },
+    {
+        "progweb_cat": "Telephony,Nordic",
+        "api_name": "Sweden PTS",
+        "id": 13383,
+        "progweb_descr": " PTS National Post Telecom Agency Sweden Post och telestyrelsen PTS offer online directory service compare price telephone internet service computer diagnostic tool A SOAPbased API available search operator service identifies operator particular phone number belongs"
+    },
+    {
+        "progweb_cat": "Telephony,Domains",
+        "api_name": "Siter",
+        "id": 13262,
+        "progweb_descr": " Siter service allow user make phone call base domain name rather phone number Users assign phone number domain name people call Siter offer web mobile application Siter API allow developer access functionality Siter API method allow user add site name domain name email address related phone number Documentation available downloadable pdf"
+    },
+    {
+        "progweb_cat": "Telephony,Demographics",
+        "api_name": "Wireless Applications Services",
+        "id": 14008,
+        "progweb_descr": " Wireless Applications Services provide RF engineering consulting service national international wireless telecommunication industry API allow user integrate telecom analysis design software function application It allow developer perform telecom infrastructure analysis within site Areas analysis include design RF eCoverage propagation telecom structurestowers Powersearch microwave path eMwave radio spectrum ownership demographic information It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Telephony,TV",
+        "api_name": "MegaPhone Labs",
+        "id": 14048,
+        "progweb_descr": " MegaPhone offer platform let audience interact screen realtime use phone call mobile website mobile application platform receive phone call translate key press control command These command use help make television video interactive MegaPhone Labs ActionScript SDK allow user create realtime social interactive video content screen household anywhere"
+    },
+    {
+        "progweb_cat": "Telephony,Customer Service",
+        "api_name": "CallZing Voice Broadcast",
+        "id": 14085,
+        "progweb_descr": " CallZing hosted voice broadcast virtual call center solution With CallZing user Send thousand phone call allow recipient easily transfer call center office SOAP API allow user quickly send voice broadcast database system Full documentation yet publicly available"
+    },
+    {
+        "progweb_cat": "Telephony,Text",
+        "api_name": "GroupFlier",
+        "id": 14166,
+        "progweb_descr": " GroupFlier platform set group communication Users set group share text message voicemail conference call GroupFlier API allow developer integrate functionality GroupFlier applications Some example API method include create manage group find manage group member manage create message access account information"
+    },
+    {
+        "progweb_cat": "Telephony,Reference",
+        "api_name": "NeuStar Port PS",
+        "id": 14335,
+        "progweb_descr": " Port PS Basic combine industry data allow determine telephone number ownership rout information give pool port activity Port PS API automate retrieval ownership rout data large volume telephone number without manual data entry developer integrate back office system"
+    },
+    {
+        "progweb_cat": "Telephony,Reference",
+        "api_name": "youcantcall.us",
+        "id": 14705,
+        "progweb_descr": " Youcantcallus provide webservice reject manage unwanted caller Developers webbased telephony service like Twilio Cloudvox Tropo easily add tool exist platform API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,England",
+        "api_name": "Data8 Live Number Testing",
+        "id": 14556,
+        "progweb_descr": " Data8 UKs premier data solution provider range data cleanse postcode lookup data validation service ultimately improve way business communicate customer Live Number Testing service method validate UK landline number live By use telephone network realtime user tell number available dial without make ring It use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,England",
+        "api_name": "Data8 Preference Services",
+        "id": 14560,
+        "progweb_descr": " Data8 UKs premier data solution provider range data cleanse postcode lookup data validation service ultimately improve way business communicate customer Data8 offer suite service use search various preference service make available Direct MArketing Association DMA Telephone Preference Service TPS Web Service check realtime number register TPS allow user screen TPS moment place call Corporate Telephone Preference Service CTPS Web Service check realtime number register CTPS necessary placing unsolicited sale call company We also Mailing Preference Service MPS web service check realtime person register MPS allow user screen MPS moment print mail All service use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Telephony,England",
+        "api_name": "Data8 Mobile Validation",
+        "id": 15452,
+        "progweb_descr": " Data8 UKs premier data solution provider range data cleanse postcode lookup data validation service ultimately improve way business communicate customer Data8 Mobile Telephone Number Validation service fast efficient method validate mobile cell number still live We also tell network country even country phone currently"
+    },
+    {
+        "progweb_cat": "Telephony,Blogging",
+        "api_name": "Phweet",
+        "id": 15353,
+        "progweb_descr": " A Phweet make conversation conference call possible Twitter friend across social network Phweet enables voice conversation unique hyperlink expire session end A Phweet link external directory list Phweets simply enables voice conversation two profile without share additional information party Phweet API enable application developer quickly integrate ï¿½talkï¿½ put ï¿½callsï¿½ speed dial without need complicate coding infrastructure"
+    },
+    {
+        "progweb_cat": "Telephony,Belgian",
+        "api_name": "Mobile Vikings API",
+        "id": 15461,
+        "progweb_descr": " Mobile Vikings Belgian internet mobile virtual network operator top base network Mobile Vikings offer API monitor current credit balance call history top history This REST API use basic HTTP authentication response format either json xml"
+    },
+    {
+        "progweb_cat": "Telephony,Books",
+        "api_name": "Feedbooks",
+        "id": 15711,
+        "progweb_descr": " Use Feedbooks API search Feedbooks database book author list available download mobile device Feedbooks site use download free ebooks compatible mobile device You also publish content read content customize RSS feed Use API access cover image PNG format well content match search query PDF Mobi XHTML ePub format"
+    }
+]

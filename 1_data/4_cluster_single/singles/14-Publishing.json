@@ -1,0 +1,86 @@
+[
+    {
+        "progweb_cat": "Publishing,Social",
+        "api_name": "lknSuite UTM Builder",
+        "id": 1558,
+        "progweb_descr": " This Rest API provide way build URL lknSuites Google Analytics URL Builder Simply fill require field URL automatically generate Some parameter need Campaign Source Campaign Term Campaign Name lknSuites suite online productivity tool communication platform multitasking gateway manage network"
+    },
+    {
+        "progweb_cat": "Publishing,Bookmarks",
+        "api_name": "Issuu Viewer JavaScript",
+        "id": 2993,
+        "progweb_descr": " Issuu Viewer JavaScript API integrate user perspective view provide HTTP request JSON XML responses REST architecture With API developer implement page view page scan page flip reading service Issuu digital publication platform"
+    },
+    {
+        "progweb_cat": "Publishing,Books",
+        "api_name": "Issuu oEmbed",
+        "id": 2994,
+        "progweb_descr": " Issuu oEmbed API integrates embed feature via URL HTTPS GET request available url iframe maxwidth maxheight format parameter JSON XML responses display return Issuu digital publication platform"
+    },
+    {
+        "progweb_cat": "Publishing,Books",
+        "api_name": "Gitbook",
+        "id": 5417,
+        "progweb_descr": " Gitbook API allow user list book get detail book get detail author proofread text spellcheck list word access OPDS catalog Gitbook publishing toolchain design help take user work idea finish book Users publish finish book use Git GitHub sell main marketplace price want"
+    },
+    {
+        "progweb_cat": "Publishing,Actors",
+        "api_name": "Submittable",
+        "id": 3195,
+        "progweb_descr": " This REST API let access submission organization data allow start accept text audio video image link submission It return submission category submitter organization staff payment Submittable cloudbased online submission platform use publisher organization It useful writer filmmaker musician artist entrepreneurs provide submission application process contest competition academic apps grant fund internal application"
+    },
+    {
+        "progweb_cat": "Publishing,Advertising",
+        "api_name": "HeyZap Publishers",
+        "id": 3239,
+        "progweb_descr": " HeyZap Publishers API integrate report advertise data developer integrate via mobile With API Key authentication method URL API developer access statistic filter grouping feature"
+    },
+    {
+        "progweb_cat": "Publishing,Advertising",
+        "api_name": "Google AdSense Host",
+        "id": 3939,
+        "progweb_descr": " Google AdSense Host API revenue share platform web traffic browse activity attributable usergenerated content It send request return response HTTP JSON format respectively However automate generation HTTP request require deployment client library API suitable developer client delegate publish market web content blog SEO article wikis Eligibility restrict website daily traffic excess 100000 page view"
+    },
+    {
+        "progweb_cat": "Publishing,Content",
+        "api_name": "W3C Micropub",
+        "id": 3262,
+        "progweb_descr": " W3C Micropub API open standard create update delete post user domain via thirdparty client This API use web mobile application post content note photo event website This standard provide W3C IndieWeb Community"
+    },
+    {
+        "progweb_cat": "Publishing,Catalogs",
+        "api_name": "FlowPaper Web PDF Viewer",
+        "id": 3493,
+        "progweb_descr": " FlowPaper web PDF viewer API enhance view publish onlinecontent brochure catalog magazine API provide developer variety method option integrate viewer functionality application website page"
+    },
+    {
+        "progweb_cat": "Publishing,Blogging",
+        "api_name": "Ghost",
+        "id": 4203,
+        "progweb_descr": " Ghost collaborative publishing blogging platform Ghost API provide access publish data Developers work blogger could benefit API available JSON REST format accessible via OAuth"
+    },
+    {
+        "progweb_cat": "Publishing,Content Management",
+        "api_name": "WP REST",
+        "id": 5602,
+        "progweb_descr": " WP REST API allow developer access Wordpress sit data RESTful way Developers get site data JSON format include user post taxonomy"
+    },
+    {
+        "progweb_cat": "Publishing,Art",
+        "api_name": "Omeka",
+        "id": 6012,
+        "progweb_descr": " Omeka API allow developer freely integrate application Omekas web publish platform specifically display library museum archive scholarly collection exhibition Omeka free flexible open source webpublishing platform display library museum archive scholarly collection exhibition"
+    },
+    {
+        "progweb_cat": "Publishing,Collaboration",
+        "api_name": "Overleaf",
+        "id": 6140,
+        "progweb_descr": " Overleaf offer API allow developer programmatically publish work unique endpoint Overleaf distribution publishing channel gear toward scientific research scholarly document use LaTeX editor highquality typeset system industry standard Overleaf publishing resource also collaborative environment support cloud real time multiuser edit document store Overleaf URIs"
+    },
+    {
+        "progweb_cat": "Publishing,Medicine",
+        "api_name": "BioMed Central",
+        "id": 7344,
+        "progweb_descr": " BioMed Central publishes peerreviewed article medical content With BioMed Central API developer retrieve specific data use HTTP REST JSON format With API user retrieve medical information main value developer might add credibility new web application since BioMed Central aim include authoritative source Users find sample result sample response feature late article editor pick check article access search"
+    }
+]

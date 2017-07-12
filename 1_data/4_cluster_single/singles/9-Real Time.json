@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Real Time,Cloud",
+        "api_name": "Kynetx",
+        "id": 450,
+        "progweb_descr": " Kynetx eventdriven application platform help build contextaware apps cloud Kynetx apps look event user context like geolocation session behavior weather fire action base condition across URL"
+    },
+    {
+        "progweb_cat": "Real Time,eCommerce",
+        "api_name": "Freight",
+        "id": 5399,
+        "progweb_descr": " Freight API combine realtime small package common carrier API web site sale It allow drop shipper resellers option provide good rate small package LTL item It provide developer web base XML transfer respond quickly accurately plugin Using tool UPS Fedex Freightquotecom integrate one solution use account carrier"
+    },
+    {
+        "progweb_cat": "Real Time,WebRTC",
+        "api_name": "AT&T Enhanced WebRTC",
+        "id": 6103,
+        "progweb_descr": " ATT Enhanced WebRTC Web Real Time Communication API let developer build real time Web browserbased communication application discover party communication API call use standard offerandanswer model exchange message There 3 feature available API developer use ATT Mobile Numbers Virtual Numbers Account IDs"
+    },
+    {
+        "progweb_cat": "Real Time,England",
+        "api_name": "TfL Live Bus & River Bus Arrivals",
+        "id": 6117,
+        "progweb_descr": " TfL London base transportation company provide customer way find travel relate information within city London TfL Live Bus River Bus Arrivals API enable developer integrate service data application This API allow endusers direct access realtime bus arrival information"
+    },
+    {
+        "progweb_cat": "Real Time,Analytics",
+        "api_name": "GoSquared Now",
+        "id": 6251,
+        "progweb_descr": " GoSquared Now API provide developer access realtime concurrent information sit application GoSquared realtime people analytics company provide customer information visitor website"
+    },
+    {
+        "progweb_cat": "Real Time,Analytics",
+        "api_name": "Google Real Time Reporting",
+        "id": 8740,
+        "progweb_descr": " Google Real Time Reporting API provide access realtime report Google Analytics API allow developer access integrate data Google Real Time Reporting API application create new application main API method return real time data Google Analytics"
+    },
+    {
+        "progweb_cat": "Real Time,Data",
+        "api_name": "Bobik",
+        "id": 11823,
+        "progweb_descr": " Bobik web service scrap website realtime Bobik allow user collect retrieve information websites automatically realtime Bobik API allow developer access integrate functionality Bobik application create new application Some example API method include create set scrap job manage account information retrieve scrape"
+    },
+    {
+        "progweb_cat": "Real Time,Sports",
+        "api_name": "Meridix LiveID",
+        "id": 14436,
+        "progweb_descr": " Meridix Network allow create live audio video webcasts ability include game tracker live score As event complete automatic score alert go fan via email text message Meridix LiveID API allow pull data Meridix account external website web service example might want incorporate live score game ticker website create widget display upcoming game"
+    },
+    {
+        "progweb_cat": "Real Time",
+        "api_name": "Echo StreamServer",
+        "id": 14539,
+        "progweb_descr": " Echo StreamServer real time API give company ability aggregate control content activity sit social network application one realtime database This information use output dynamic web page social content With API user capture process remix stream realtime activity data API use RESTful protocol response format XML JSON"
+    }
+]

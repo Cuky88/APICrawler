@@ -1,0 +1,338 @@
+[
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "MediaTemple",
+        "id": 1297,
+        "progweb_descr": " Web host company MediaTemple provide API access many service add temporary disk space reboot server With API user access statistic reboot server check bill status API method focus two area Service info control Performance Stats Some functionality include Provision new Server dv 40 Server Access realtime historical server status info Reboot user server List IPï¿½s List primary access domains hostservers Securely set root password Securely set Plesk password applicable Flush firewall rule iptables Instantly add temporary disk space List mt host addon service Check user account billing status API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "InterServer",
+        "id": 4131,
+        "progweb_descr": " InterServer offer web hosting dedicate server cloud VPS service Their API give user access InterServer service storage email data program development support Access require InterServer account InterServer API SOAP format"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "HostNine",
+        "id": 7603,
+        "progweb_descr": " HostNine H9 provide domain registration host service include host service available resale H9 API allow user integrate access Reseller Central online reseller gateway application Developers use API access module allow interact account location package migration script tool"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "SensorLogic",
+        "id": 10299,
+        "progweb_descr": " service provide remote monitoring server network resource via platformasaservice PAAS model It offer asset track log performance application support resource report result time service target network operation engineer sysadmins also original equipment manufacturer OEMs interested performance product IT manager responsible contractual application host arrangement API method support remote monitoring system resource via service platform Tracking routine periodically access functionality provide remote network record response performance parameter method report log data"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "VentraIP Wholesale",
+        "id": 10703,
+        "progweb_descr": " VentraIP Australian domain name provider webhosting service also offer additional business service wholesale domain host reseller program VentraIP Wholesale API allow wholesale resellers automate interaction VentraIP account"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "WorldwideDNS",
+        "id": 11248,
+        "progweb_descr": " WorldwideDNS provide comprehensive DNS service thousand business developer consumer include reseller program WorldwideDNS API offer variety HTTP call allow customer control account within integrated system"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "TransIP",
+        "id": 11261,
+        "progweb_descr": " TransIP domain provider focus primarily need power user domain resellers TransIP API allow user fully automate interaction TransIP include service check register domain change domain setting order web host look domain detail"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "BuycPanel",
+        "id": 11355,
+        "progweb_descr": " BuycPanel cPanel license vendor emphasis instant license activation price match guarantee exclusive addons BuycPanel API organize use industry best practice allow customer access order function automate process"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "MyCloudPortal.NET",
+        "id": 11874,
+        "progweb_descr": " MyCloudPortalNET let anyone create web page portal MyCloudPortalNET API allow remote application connect interact portal API connects follow web portal webpage blog newsletter social email SMS API utilize REST protocol"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "Voxel",
+        "id": 13984,
+        "progweb_descr": " Voxel Cloud host company offer service entire online include content delivery public private hosting dedicate host private service Voxel API allow access infrastructure service provide well report bill monitoring ancillory service"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "WebPeep",
+        "id": 14751,
+        "progweb_descr": " Webpeep small web utility try show technology web server programming language etc power web site It use RESTful call response format JSON Documentation minimal site"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "Fasthosts Reseller Hosting",
+        "id": 15046,
+        "progweb_descr": " Fasthosts UK base web host provide online service home home office SME market Reseller Hosting API allow user integrate functionality Reseller hosting service websites API available REST SOAP architectures response format XML Test script available C ASPNET PHP Documentation publicly available web site"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "LogicBoxes",
+        "id": 15117,
+        "progweb_descr": " LogicBoxes API fullcontrol set programming interface developers resellers create Website Control Panels integrate LogicBoxes OrderBox LogicBoxes OrderBox core component LogicBoxes Hostex platform It Customizable Brandable multilingual multicurrency multitier platform provide Billing AutoProvisioning User Management comprehensive API LogicBoxes Products API base SOAPWSDL client side kit available PHP Perl ASPNET Java"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "WebFaction",
+        "id": 15198,
+        "progweb_descr": " WebFaction API XMLRPC interface manage many control panel account task With WebFaction API user automate application installation email address configuration WebFaction internet host service WebFaction API allow user write script automate certain task would normally accomplish via control panel SSH API set method available via XMLRPC call"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "Quantact",
+        "id": 15245,
+        "progweb_descr": " Quantact API allow control Quantacts service standard http without log Quantact Control Panel QCP Most function available QCP currently support come Quantact provide Virtual Private Server host To use Quantact API user need Quantact account API must enable QCP profile page generate API password must supply every API call API use RESTful call response formattted XML"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "DreamHost",
+        "id": 15327,
+        "progweb_descr": " DreamHost web host provider domainname registrar DreamHost API provide access site mail list functionality addremove subscriber make announcement get usage"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "Resellers Panel",
+        "id": 15505,
+        "progweb_descr": " Reseller API v20 provide user interface combine option custom webdesign reseller store possibility centralize management web host offer Reseller Control Panel Communication Reseller API make via RESTful query responses format either XML PHP format"
+    },
+    {
+        "progweb_cat": "Hosting",
+        "api_name": "OpenSRS",
+        "id": 15528,
+        "progweb_descr": " OpenSRS API intend Resellers offer domains support service customer You provide functionality customer integrate API command website send XML request HTTPS Post You also use API command run query automate task would otherwise perform manually use Domain Name Control Panel"
+    },
+    {
+        "progweb_cat": "Hosting,Cloud",
+        "api_name": "Scalr",
+        "id": 1305,
+        "progweb_descr": " Scalr cloud host system allow developer scale application quickly time traffic surge Scalr API provide access much functionality Scalr platform Use API programmatically update DNS zone file create Apache virtual host provide detail server farm launchterminate farm Additionally control individual server launch reboot terminate copy image execute script access various log analytics"
+    },
+    {
+        "progweb_cat": "Hosting,Cloud",
+        "api_name": "Vultr",
+        "id": 6910,
+        "progweb_descr": " Vultr provide user access cloudbased server deploy virtual machine Once order place instance spun within 60 second Users choose wide range operate system templates upload Vultrs control panel offer oneclick access important function restart reboot reinstall Users bill hour longterm contract Vultr API enable user manage infrastructure third party system"
+    },
+    {
+        "progweb_cat": "Hosting,Cloud",
+        "api_name": "Codero",
+        "id": 6972,
+        "progweb_descr": " Codero cloud host service infrastructure service They offer API help developer integrate Codero service cloudbased development architecture API display server information edit server login access reset server delete server use All request API make HTTP basic HTTP authentication return jSON object"
+    },
+    {
+        "progweb_cat": "Hosting,Cloud",
+        "api_name": "Stackdriver",
+        "id": 8479,
+        "progweb_descr": " Stackdriver cloud host monitoring service Stackdriver provide monitoring service DevOps include AWS OpenStack Rackspace Stackdriver API allow developer access integrate functionality Stackdriver application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Hosting,Cloud",
+        "api_name": "Meebox Cloud Server",
+        "id": 9042,
+        "progweb_descr": " Meebox offer payasyougo virtual server Maintain many server want Servers base Meebox library OS appliance image image make clone exist server Meebox API provide SOAP interface allow Meebox customer manipulate virtual asset Meebox platform object type include server virtual machine disk IP address VDCs VLANs firewall image snapshot disk clone"
+    },
+    {
+        "progweb_cat": "Hosting,Cloud",
+        "api_name": "Atlantic.Net Cloud Servers",
+        "id": 10968,
+        "progweb_descr": " AtlanticNet provide cloud host solution include cloud server colocation virtualization host AtlanticNet Cloud Servers API provide customer RESTful querybased Interface access AtlanticNet service"
+    },
+    {
+        "progweb_cat": "Hosting,Cloud",
+        "api_name": "Hosting.com VMware vCloud Express",
+        "id": 15110,
+        "progweb_descr": " As HMS customer vCloud Express REST API allow browse virtual infrastructure Hostingcom provide enterprise colocation cloud compute dedicate host manage host disaster recovery business continuance service global customer base API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "exana DNS HTTP",
+        "id": 2620,
+        "progweb_descr": " Query full spectrum DNS data via neatly structure REST API This include Host Address IPv6 Host Address Canonical Name Using exanaio provide platform service help build Monitoring Status Pages Phabricator Logging Backends Mail"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "Amazon Web Services Lightsail",
+        "id": 2702,
+        "progweb_descr": " Amazon Web Services Lightsail REST API allow developer access virtual private server Web Services Some example API method include manage host domain retrieve data Lightsail managing server function Lightsail offer developer virtual private server VPS associate feature virtual machine storage DNS management data transfer"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "LeaseWeb",
+        "id": 6045,
+        "progweb_descr": " LeaseWeb host company global InfrastructureasaService IaaS provider offer cloud baremetal server well domain host LeaseWeb REST web API offer user programmatic control suite LeaseWeb service API access HTTP GET POST PUT request order list manage edit domain image bareMetals private network operate system IP address licensee thing associate user account"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "Conexim DNS",
+        "id": 8274,
+        "progweb_descr": " Conexim offer manage DNS host enterprise Conexium specialize manage host dedicate manage server virtual server highavailability cluster internet web application host Conexim offer REST API enable application developer build integration tool work DNS Potential use case API include provision automation integration monitor system An API key require"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "namebay",
+        "id": 8725,
+        "progweb_descr": " Namebay provide domain name registration service include reseller program namebay API allow developer programmatically manage reseller service API expose user account domains contact name server HTTP POST command API also support several SOAP command"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "Internet.bs",
+        "id": 8865,
+        "progweb_descr": " Internetbs Bahamasbased internet domain registration service provider Internetbs also support reseller program expose mostly RESTful API API allow programmatic management aspect domain resell API accepts HTTPS GET POST call require user account return plain text JSON XML format response"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "easyDNS",
+        "id": 9204,
+        "progweb_descr": " EasyDNS manage DNS provider specialize domain name registration DNS host DNS service Additional service include security account management email URL tool EasyDNS offer REST base API connect easyDNS platform API available user currently active domain service API access documentation available request"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "GSLB.me",
+        "id": 9386,
+        "progweb_descr": " GSLBme complete DNS hosting service also dynamic DNS fully qualify domain name It high availability capable failover disaster recovery business continuity application GSLBme monitor application availability performance alert user event service failure degradation GSLBme also capable CDN offload geographical balance rout GSLBme come REST API allow developer manage DNS service add disable domain manage geohosts More feature expect future release"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "NiceNic",
+        "id": 9459,
+        "progweb_descr": " NiceNic Hong Kong base company provide domain name host internet service NiceNic API provide developer access NiceNicâ€™s domain reseller program Based HTTP POST call API expose aspect domain registration management process API available register NiceNic resellers"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "India.dj Reseller",
+        "id": 12668,
+        "progweb_descr": " Indiadj Reseller whitelabel platform allow individual buy resell asset customer use readymade privately label website platform include service domains host email site building allow user focus exchange good rather establish business process platforms ground Reseller API provide programmatic access many platform feature service Some example relevant piece platform access manipulate API include domain contact customer resellers product email web service This API available HTTP SOAP use either JSON XML response format define user"
+    },
+    {
+        "progweb_cat": "Hosting,Domains",
+        "api_name": "Nettica",
+        "id": 14066,
+        "progweb_descr": " API provide method manage domain programmatically API allow user programmatically Create Primary Zones Create Secondary Zones Delete Zones Users also update IP address host It use REST SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Hosting,Datacenter",
+        "api_name": "Amazon Web Services OpsWorks for Chef Automate",
+        "id": 2715,
+        "progweb_descr": " Amazon Web Services OpWorks REST API allow developer access integrate functionality OpWorks Chef Automate application Some example API method include create manage backup manage event manage server Amazon Web Services OpWorks Chef Automate provide service configure manage configuration management server"
+    },
+    {
+        "progweb_cat": "Hosting,Datacenter",
+        "api_name": "ReliableSite Dedicated Server",
+        "id": 5109,
+        "progweb_descr": " ReliableSite Dedicated Server API provide developer server management interface integrate exist application Developers implement server function DDoS protection This SOAP API require developer generate API key password access API ReliableSite offer infrastructure service data center New York Miami"
+    },
+    {
+        "progweb_cat": "Hosting,Web Site Management",
+        "api_name": "Microsoft IIS",
+        "id": 3063,
+        "progweb_descr": " Microsoft IIS REST API allow developer access integrate functionality Microsoft IIS application websites Some example API method include create website manage website retrieve website Microsoft IIS provide web server website host service functionality"
+    },
+    {
+        "progweb_cat": "Hosting,Billing",
+        "api_name": "We Fact Hosting",
+        "id": 4201,
+        "progweb_descr": " We Fact Hosting bill automation service host company We Fact Hosting API allow developer access data implement billing service application API method include add client send invoice PHP knowledge require interact API Other Features include client estimate order SSL certificate available"
+    },
+    {
+        "progweb_cat": "Hosting,Billing",
+        "api_name": "Ubiquity Hosting",
+        "id": 4210,
+        "progweb_descr": " Ubiquity Hosting API allow access host platform business purpose API method include verify user add license billing listing client PHP knowledge necessary In addition full documentation Ubiquity provide example automation billing cloud bare metal"
+    },
+    {
+        "progweb_cat": "Hosting,Billing",
+        "api_name": "WHMCS",
+        "id": 5287,
+        "progweb_descr": " WHMCS API provide developer interface access perform action WHMCS external application script well internal module addons WHMCS host domain management recur billing integrated support company"
+    },
+    {
+        "progweb_cat": "Hosting,Data",
+        "api_name": "Internap",
+        "id": 4231,
+        "progweb_descr": " Internap API integrate host feature application use JSON XML format Api Key authentication Targeting enterprises use baremetal harware Internap API offer interaction server cloud firewall within company service Internap provide Internet infrastructure service"
+    },
+    {
+        "progweb_cat": "Hosting,Accounts",
+        "api_name": "Netissime Web Services",
+        "id": 5277,
+        "progweb_descr": " Netissime Web Services API allow developer integrate application Netissime service enable user get domain name host Netissime Netissime French web host company"
+    },
+    {
+        "progweb_cat": "Hosting,Accounts",
+        "api_name": "CloudFlare Client Interface",
+        "id": 13541,
+        "progweb_descr": " CloudFlare content delivery network increase website performance faster load time provide security It provide developer Client Interface API use check modify setting CloudFlare account Developers use API update CloudFlare Settings like DNS record threat control list Security Level Cache Purge Development Mode It also allow user retrieve basic statistic website retrieve setting feature security level toggle development mode feature temporarily bypass CloudFlare cache change current security level request purge CloudFlare cache check whether particular websitedomain associate account API use HTTP call response format JSON JSONP"
+    },
+    {
+        "progweb_cat": "Hosting,Accounts",
+        "api_name": "CloudFlare Hosting Provider",
+        "id": 13562,
+        "progweb_descr": " CloudFlare content delivery network increase website performance faster load time provide security It provide developer Hosting Provider API allow host provider enable CloudFlare client API let user register user CloudFlare system also register user domain host CloudFlare system API use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Hosting,Application Development",
+        "api_name": "Containership Applications",
+        "id": 5739,
+        "progweb_descr": " Containership Applications REST API allow developer access integrate application functionality Containership application API documentation currently available Interested developer email developerscontainershipio API information Containership host application management platform solution"
+    },
+    {
+        "progweb_cat": "Hosting,Application Development",
+        "api_name": "Containership Hosts",
+        "id": 5740,
+        "progweb_descr": " Containership Hosting REST API allow developer access integrate host functionality Containership application API documentation currently available Interested developer email developerscontainershipio API information Containership host application management platform solution"
+    },
+    {
+        "progweb_cat": "Hosting,Registration",
+        "api_name": "Networking4all",
+        "id": 7898,
+        "progweb_descr": " Networking4all company Netherlands provide SSL certificate domain name registration website hosting service It permit company individual retailer IT manager purchase agent consultant act resellers service With API Networking4all allow resellers manage client contact information access product information make SSL Certificate order domain name request"
+    },
+    {
+        "progweb_cat": "Hosting,Tools",
+        "api_name": "EuropeanNIC",
+        "id": 11487,
+        "progweb_descr": " EuropeanNIC offer domain registrar Services internet provider domain wholesaler company Domain registration process API use customize interface offer customer It accredit ICANN EURid Registrar"
+    },
+    {
+        "progweb_cat": "Hosting,Mobile",
+        "api_name": "appMobi",
+        "id": 12718,
+        "progweb_descr": " service support creation delivery mobile application iOS Android operate system base HTML5 Applications develop host within platform take advantage authentication service inapp payment function richmedia message user analytics report API method support combine functional module implement code develop application delivery via platform Applications upload code imagery implement message richmedia element along user authentication payment processing"
+    },
+    {
+        "progweb_cat": "Hosting,Management",
+        "api_name": "Hetzner",
+        "id": 13317,
+        "progweb_descr": " Hetzner Online web host provider data center operator Robots API give developer programmatic access server host functionality offer service This include retrieval entry information server IP address reset LANs API use RESTful call response format JSON YAML"
+    },
+    {
+        "progweb_cat": "Hosting,Management",
+        "api_name": "InterWorx License",
+        "id": 14099,
+        "progweb_descr": " InterWorx Hosting Control Panel Linux base dedicate server VPS control panel InterWorx allow user easily build load balance cluster server expand web hosting option InterWorx License API use manage InterWorx license Both SOAP XMLRPC API interface available"
+    },
+    {
+        "progweb_cat": "Hosting,Games",
+        "api_name": "LSG Lightspeed Reseller",
+        "id": 13768,
+        "progweb_descr": " LightSpeed Gamings Reseller Program allow user resell voice server worldwide location Reseller Program design establish business exist customer base look add another valueaddedservice product offering To use API user must sign reseller API use control voice communication service integrate user web site application API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Hosting,French",
+        "api_name": "OVH.com",
+        "id": 14749,
+        "progweb_descr": " OVH No 1 web host company France second large Europe SoAPI webservice let user buy configure OVH product without need connect Manager web interface With WSDL technology developer use OVH method remotely script line number popular programming language SoAPI currently 487 method divide 20 group Solutions entrylevel high availability solution OVH accompanies change need term high availability hosting"
+    },
+    {
+        "progweb_cat": "Hosting,England",
+        "api_name": "RapidSwitch",
+        "id": 14774,
+        "progweb_descr": " RapidSwitch UKbased host company It offer many type host include dedicated server manage dedicated server include control panel API perform much report management functionality available control panel Access bandwidth data IP request reverse DNS reboots KVMoIP session monitoringalerts Developers include data customerfacing control panel offer full service client More information API include documentation access RapidSwitch client MyServers account"
+    }
+]

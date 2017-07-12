@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Hardware,Applications",
+        "api_name": "IBM QISKit",
+        "id": 1908,
+        "progweb_descr": " IBM develop Quantum Experience provide student professional scientific community interactive interface access company ’ cloudenabled quantum compute portal hardware component IBM QISKit API come handy tool interact Quantum Experience ’ hardware It allow developer deploy OPENQASM code"
+    },
+    {
+        "progweb_cat": "Hardware,Customization",
+        "api_name": "MBX Systems",
+        "id": 4983,
+        "progweb_descr": " MBX Systems offer REST base API Hashbased message code authentication Developers get shipment notification obtain tracking information push purchase order streamline billing reconciliation pull inventory data real time application MBX Systems design applicationoptimized hardware appliance"
+    },
+    {
+        "progweb_cat": "Hardware,Internet of Things",
+        "api_name": "HPE Haven OnDemand Start Connector",
+        "id": 5967,
+        "progweb_descr": " Start Connector API offer HP IDOL OnDemand let developer retrieve information external system update IDOL OnDemand APIs This API trigger run connector accord configuration developer create Create Connector API HP IDOL OnDemand offer array data process APIs audiovideo analytics connector format conversion image analysis index search prediction text analysis user management"
+    },
+    {
+        "progweb_cat": "Hardware,Augmented Reality",
+        "api_name": "OpenVX Hardware Acceleration",
+        "id": 7011,
+        "progweb_descr": " OpenVX Hardware Acceleration API provide programmatic access Khronos Groups Computer Vision application libraries These integrate user application optimize computer vision algorithm gesture track object recognition smart video surveillance augment reality OpenVX API test extensively ensure consistent reliable performance across multiple vendor platform"
+    }
+]

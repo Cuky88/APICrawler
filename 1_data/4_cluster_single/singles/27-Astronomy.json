@@ -1,0 +1,164 @@
+[
+    {
+        "progweb_cat": "Astronomy,Analytics",
+        "api_name": "CANFAR batch processing web service",
+        "id": 1940,
+        "progweb_descr": " This API provide RESTful web service interface CANFAR condor processing system CANFAR consortium Canadian university astronomer Compute Canada National Research Council Canada ’ Canadian Astronomy Data Centre support CANARIE Canadian Space Agency"
+    },
+    {
+        "progweb_cat": "Astronomy,Analytics",
+        "api_name": "CANFAR access control web service",
+        "id": 1941,
+        "progweb_descr": " This CANFAR Access Control AC web service API provide follow operation Group Management Group Searching User Management User Login CANFAR consortium Canadian university astronomer Compute Canada National Research Council Canada ’ Canadian Astronomy Data Centre support CANARIE Canadian Space Agency"
+    },
+    {
+        "progweb_cat": "Astronomy,Analytics",
+        "api_name": "CANFAR TAP web service",
+        "id": 1942,
+        "progweb_descr": " This service implement IVOA TAP10 recommendation expose Common Archive Observation Model CAOM20 content CADC CAOM table part schema call caom2 main table caom2Observation caom2Plane In addition CAOM TAP service also provide access standard data model via follow database table caom2SIAv1 ivoaObsCore CANFAR consortium Canadian university astronomer Compute Canada National Research Council Canada ’ Canadian Astronomy Data Centre support CANARIE Canadian Space Agency"
+    },
+    {
+        "progweb_cat": "Astronomy,Analytics",
+        "api_name": "CANFAR VOSpace web service",
+        "id": 2469,
+        "progweb_descr": " This API VOSpace International Virtual Observatory Aliance standard interface distribute storage web service access point distribute storage network provide three main function VOSpace service Add replace delete data object tree data structure Manipulate metadata data object Obtain URIs content data object access CANFAR consortium Canadian university astronomer Compute Canada National Research Council Canada ’ Canadian Astronomy Data Centre support CANARIE Canadian Space Agency"
+    },
+    {
+        "progweb_cat": "Astronomy,Data",
+        "api_name": "Auroras.live",
+        "id": 3202,
+        "progweb_descr": " Auroraslive API allow obtain key aurora hunt information access extensive data archive Its also system use auroraslive website Pebble watch app mobile apps With retrieve current space weather condition weather skycams satellite image chart graph archive information past 15 year"
+    },
+    {
+        "progweb_cat": "Astronomy,Data",
+        "api_name": "NASA Heliocentric Trajectories",
+        "id": 3932,
+        "progweb_descr": " NASA ’ Heliocentric Trajectories API web service offer user access HelioWeb software HelioWeb interface operator access calculate heliocentric trajectory information number object This include information observational data objectspecific coordinate radial distance direction angle etc"
+    },
+    {
+        "progweb_cat": "Astronomy,Data",
+        "api_name": "NASA's Asterank",
+        "id": 4104,
+        "progweb_descr": " Nasa ’ Asterank API give user access NASAJPL Small Body Database relevant astronomical data This include information orbital element physical parameter discovery circumstance mass data calculation orbit diagrams 600000 asteroid meteorite comet"
+    },
+    {
+        "progweb_cat": "Astronomy,Data",
+        "api_name": "NASA BeXRB Monitor Data",
+        "id": 4119,
+        "progweb_descr": " NASA ’ BeXRB Be Xray Binaries API provide user BeXRB monitor data Data acquire SwiftBAT MAXI FermiGBM instrument This data include information BeXRB flux orbit size relevant calculation"
+    },
+    {
+        "progweb_cat": "Astronomy,Data",
+        "api_name": "NASA Fireball And Bolide Reports",
+        "id": 4184,
+        "progweb_descr": " NASA ’ Fireball And Bolide Reports API give developer access database Fireballs Bolides Fireballs meteor Bolides combust meteor record approximately ten micron meter size database complete list Fireballs Bolides include provide US Government sensor Some possible query include date time peak brightness latitude longitude altitude velocity"
+    },
+    {
+        "progweb_cat": "Astronomy,Data",
+        "api_name": "NASA Meteorite Landings",
+        "id": 4189,
+        "progweb_descr": " NASA ’ Meteorite Landings API give user access comprehensive dataset know meteorite landing Meteorite Landings dataset contain information 34000 meteorite include place land type meteorite size meteorite coordinate discover whether meteorite valid relict weather damage meteorites This API REST format"
+    },
+    {
+        "progweb_cat": "Astronomy,Data",
+        "api_name": "Minor Planet Center (MPC)",
+        "id": 4207,
+        "progweb_descr": " Minor Planet Center MPC API web service user access data minor planet MPC database include information asteroid comet name type observational data orbital calculation MPC database also regularly update incorporate new discovery observation"
+    },
+    {
+        "progweb_cat": "Astronomy,Data",
+        "api_name": "NASA WISE NEA/COMET DISCOVERY STATISTICS",
+        "id": 4225,
+        "progweb_descr": " NASA WISE NEACOMET DISCOVERY STATISTICS API give user access data Near Earth Asteroids NEAs Potentially Hazardous Asteroids PHAs derive NASA ’ WISE satellite Possible query include search discover date designation orbit class period year This API RESTful format JSON CSV XML"
+    },
+    {
+        "progweb_cat": "Astronomy,Images",
+        "api_name": "NASA Vesta Trek REST",
+        "id": 3401,
+        "progweb_descr": " This API part collection APIs power Vesta Trek NASA webbased portal exploration Map layer available OGC RESTful WMTS protocol NASA open data support NASA ’ scientist engineer information technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Astronomy,Images",
+        "api_name": "NASA SkyMorph/NEAT",
+        "id": 4218,
+        "progweb_descr": " Nasa ’ SkyMorphNEAT API wrapper SkyMorph database SkyMorph database include information variety astronomical object well provide access image Near Earth Asteroid Tracking NEAT database This API wrapper RESTful JSON format platform"
+    },
+    {
+        "progweb_cat": "Astronomy,Screenshots",
+        "api_name": "Helioviewer Screenshots",
+        "id": 3927,
+        "progweb_descr": " Helioviewer Screenshot API give user ability create custom screenshots image data Helioviewer project Helioviewer project consist one million image Sun span past 15 year Screenshots compile video include marker pin text label region polygon scale indicator Up three image layer use generate video Default response JSON object"
+    },
+    {
+        "progweb_cat": "Astronomy,Movies",
+        "api_name": "Helioviewer Movies",
+        "id": 3928,
+        "progweb_descr": " Helioviewer Movies API enable user generate videos image Helioviewer database Helioviewer Movies API JSON format create movie assemble solar image specific date coordinate define user Movies may contain 10300 frame Movies format include mp4 webm flv"
+    },
+    {
+        "progweb_cat": "Astronomy,Geology",
+        "api_name": "NASA Planetary Content",
+        "id": 3943,
+        "progweb_descr": " NASA Planetary Content API complimentary extension upgrade visibility feature imagery crucial geospatial information astronomical scientist access Google Maps API NASA develop Planetary Content API increase quality standard webbased framework map type Moon map Mars map RESTful API beta release Google Maps API key sufficient authentication"
+    },
+    {
+        "progweb_cat": "Astronomy,Climate",
+        "api_name": "NASA CO2 Virtual Data Environment",
+        "id": 4118,
+        "progweb_descr": " CO2 Virtual Data Environment API design facilitate research atmospheric CO2 This API give user access host datasets concern atmospheric research include calculation algorithms data model etc In addition user access tool aid manipulation transformation atmospheric data"
+    },
+    {
+        "progweb_cat": "Astronomy,Climate",
+        "api_name": "NASA's Mars Atmospheric Aggregation System (MAAS)",
+        "id": 4219,
+        "progweb_descr": " NASAs Mars Atmospheric Aggregation System MAAS API interface user access weather weather relate data Mars weather data provide NASAs Curiosity Rover currently Mars include information temperature atmospheric pressure humidity wind direction weather status This API opensourced REST format"
+    },
+    {
+        "progweb_cat": "Astronomy,Science",
+        "api_name": "NASA Near-Earth Comets",
+        "id": 4176,
+        "progweb_descr": " NASA ’ NearEarth Comets API provide user dataset pertain 170 near earth comet dataset include information heliocentric orbital element This API RESTful"
+    },
+    {
+        "progweb_cat": "Astronomy,Mapping",
+        "api_name": "NASA Satellite Situation Center",
+        "id": 4200,
+        "progweb_descr": " NASA ’ Satellite Situation Center SSC API give user access wide variety tool data related space science include space physic data data rocket satellite data concern heliophysics several others SSC API create NASAGSFC Space Physics Data Facility SPDF National Space Science Data Center NSSDC express intent help promote collaborative research across discipline SSCs primary purpose track predict geocentric spacecraft location also provide variety relevant empirical data mapping data analysis"
+    },
+    {
+        "progweb_cat": "Astronomy,Audio",
+        "api_name": "NASA Space Sounds",
+        "id": 4223,
+        "progweb_descr": " NASA ’ Space Sounds API give user access audio file derive variety space phenomenon NASA ’ audio file also SoundCloud music share website API serf make access raw audio data easier"
+    },
+    {
+        "progweb_cat": "Astronomy,Database",
+        "api_name": "Launch Library",
+        "id": 4292,
+        "progweb_descr": " Launch Library API intend provide developer list upcoming launch space space program across Earth API allow send HTTP GET request Launch Library receive information launch type pad rocket mission information specific location country origin launch status"
+    },
+    {
+        "progweb_cat": "Astronomy,Museums",
+        "api_name": "Star",
+        "id": 6364,
+        "progweb_descr": " Star API allow user programmatically access American Museum Natural Historys Digital Universe Data This data include position luminosity color information 100000 star It also offer information constellation exoplanets cluster etc Star API free use"
+    },
+    {
+        "progweb_cat": "Astronomy,Nordic",
+        "api_name": "Time and Date Astronomy",
+        "id": 6979,
+        "progweb_descr": " Time Date company base Norway offer time zone calendar weather world clock astronomy information This service provide free clock free countdown APIs cost One application feature site Astronomy API valuable establish time sun moon day length moon phase This API astronomy could useful developer work JSON XML format example language find site Besides sample developer find response location recognize parameter Packages additional request available purchase"
+    },
+    {
+        "progweb_cat": "Astronomy,Astrology",
+        "api_name": "Cerridwen",
+        "id": 7148,
+        "progweb_descr": " Cerridwen provide planetary data focus solar system suitable astronomical astrological us This data include sunrise time phase moon tropical position sun etc Cerridwens primary data source Swiss Ephemeris library algorithm calculate phase rise time set time moon"
+    },
+    {
+        "progweb_cat": "Astronomy,Random",
+        "api_name": "Astrocast",
+        "id": 7266,
+        "progweb_descr": " Astrocast API communicate small bite astronomical knowledge application use GET method JSON protocol These detail include astronomical planetary name taxonomy related organization APIs JavaScript component selects return astronomy factoid random “ Solar flare sun throw large amount charge particle ” It also generate clickable Google search link additional information"
+    }
+]

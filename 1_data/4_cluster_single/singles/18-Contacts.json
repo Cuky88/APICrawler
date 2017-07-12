@@ -1,0 +1,110 @@
+[
+    {
+        "progweb_cat": "Contacts,Addresses",
+        "api_name": "Mozilla Contacts",
+        "id": 2185,
+        "progweb_descr": " Mozilla Contacts API support management contact store address book mobile devise Developers use API integrate tool allow user access manipulate contact address book API ’ mobile browser compatibility currently restrict Chrome Android Firefox Mobile Gecko"
+    },
+    {
+        "progweb_cat": "Contacts,Addresses",
+        "api_name": "SocialInviter Contact Importer",
+        "id": 5333,
+        "progweb_descr": " Want import contact contact list well great service Using service import contact second We use oAuth authentication authenticate user use phishing technique SociallInviter Contact Importer API provide developer way promote user website marketing content send message invite people mail server Gmail Yahoo windows live This API support several different language include php net javascript"
+    },
+    {
+        "progweb_cat": "Contacts,Addresses",
+        "api_name": "FullContact Batch Process",
+        "id": 6684,
+        "progweb_descr": " FullContact place keep contact multiple address book one place FullContact Batch Process API allow developer group several API request single request This mainly improve application performance would eliminate excess network overhead"
+    },
+    {
+        "progweb_cat": "Contacts,Addresses",
+        "api_name": "WhitePages PRO",
+        "id": 7616,
+        "progweb_descr": " WhitePages PRO give user access big database contact information North American people business It cover 91 US adult include name household member address age phone number WhitePages PRO API include Person API Business API reverse phone lookup reverse address lookup entity retrieval capability"
+    },
+    {
+        "progweb_cat": "Contacts,Addresses",
+        "api_name": "FullContact Card Reader",
+        "id": 11452,
+        "progweb_descr": " FullContact provide suite tool support individual business developer manage enhance contact data FullContact Card Reader API provide application access humanbased business card transcription service Developers send front back image business card transcribe receive back structure data via webhook To get started sign free API Key"
+    },
+    {
+        "progweb_cat": "Contacts,Customer Relationship Management",
+        "api_name": "HubSpot Contact Lists",
+        "id": 2388,
+        "progweb_descr": " HubSpot Contact Lists API allow developer get create update delete contact list include static dynamic contact list Unlike static list dynamic list automatically update whenever data change contact update manually HubSpot provide stack product include customer relationship management marketing sale service"
+    },
+    {
+        "progweb_cat": "Contacts,Customer Service",
+        "api_name": "act!",
+        "id": 3496,
+        "progweb_descr": " act RESTful API Essentials available JSON architecture available integrate sell customer contact management feature Resources include API console OData query option HTTP status cod Developers access Api Key Act make software manage contact"
+    },
+    {
+        "progweb_cat": "Contacts,Email",
+        "api_name": "Act-On Contact",
+        "id": 4938,
+        "progweb_descr": " ActOn Contact API allow developer integrate application API service enable user manage contact information Add delete update contact API ActOn marketing automation software provider"
+    },
+    {
+        "progweb_cat": "Contacts",
+        "api_name": "W3C Contacts Manager",
+        "id": 5247,
+        "progweb_descr": " W3C Contacts Manager API specification defines API provide interface manage user contact address book This draft document may update replace declared obsolete time If developer find problem specification file bug GitHub This document make available term W3C Software Document License"
+    },
+    {
+        "progweb_cat": "Contacts",
+        "api_name": "FullContact Company",
+        "id": 5258,
+        "progweb_descr": " FullContact provide suite tool support individual business developer manage enhance contact data FullContact Company API allow find information company domain Successful response return JSON XML HTML vCard depend response format request To get started sign free API Key"
+    },
+    {
+        "progweb_cat": "Contacts",
+        "api_name": "HubSpot Contact Properties",
+        "id": 5992,
+        "progweb_descr": " HubSpot Contact Properties API allow developer integrate Hubspot Contacts data application enable user create new custom property contact HubSpot inbound marketing software platform provide company way attract visitor convert lead close customer"
+    },
+    {
+        "progweb_cat": "Contacts",
+        "api_name": "HubSpot Contacts",
+        "id": 6009,
+        "progweb_descr": " HubSpot Contacts API allow developer integrate Hubspot Contacts data application enable user create get contact information application HubSpot inbound marketing software platform provide company way attract visitor convert lead close customer"
+    },
+    {
+        "progweb_cat": "Contacts,API",
+        "api_name": "FullContact Email",
+        "id": 5362,
+        "progweb_descr": " FullContact Disposable Email API aim augment security block disposable email restrict fraudulent email address API feature RESTful format JSON XML responses Responses include value indicate know disposable email domain email subaddressing characteristic To get started sign free API Key"
+    },
+    {
+        "progweb_cat": "Contacts,Personal Information Management",
+        "api_name": "DOCOMO Phonebook",
+        "id": 6358,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development Phonebook API use export contact information DOCOMO Phonebook cloud storage center interface also use send notification post message timelines add image obtain user ID friend share contact information user Phonebook API implement via REST protocol DOCOMO also offer API console easily demo many APIs"
+    },
+    {
+        "progweb_cat": "Contacts,Business",
+        "api_name": "Wild Apricot",
+        "id": 6845,
+        "progweb_descr": " Wild Apricot cloud service offer solution nonprofit small organization well manage store contact membership information website event service cater small business clubs charity smallscale community organization Wild Apricot RESTful API allow user edit contact event information well receive data option export XLSX document ACCDB database use plugin programmatically update web display"
+    },
+    {
+        "progweb_cat": "Contacts,Content Management",
+        "api_name": "Office 365 Contacts",
+        "id": 7072,
+        "progweb_descr": " Office 365 Contact API give full access user contact contact group log Exchange Online Contact API retrieve personal contact information email address name phone number API also allow developer add new contact edit exist contact In order access Office 365 APIs developer must first register apps Microsoft All APIs use JSON Auth0 protocol authentication Azure AD authorization"
+    },
+    {
+        "progweb_cat": "Contacts,Big Data",
+        "api_name": "Contactive Identity Platform",
+        "id": 7628,
+        "progweb_descr": " Contactive Identity Platform come RealTime Telephone Number API enable user turn phone number full contact profile include photo name address company API generate profile use data 100 directory cover 600 million phone number This include number fix mobile business line"
+    },
+    {
+        "progweb_cat": "Contacts,Enterprise",
+        "api_name": "Copy2Contact",
+        "id": 15527,
+        "progweb_descr": " Copy2Contact allow user paste single block freeform text intelligently parse contact event form reduce data entry time frustration Copy2Contact reduce bounce rate improve data accuracy eliminate error Copy2Contact Technology embed online mobile web application via standard REST SOAP web service call Supported NET Java PHP ASP"
+    }
+]

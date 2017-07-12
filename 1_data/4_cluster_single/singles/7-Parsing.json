@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Parsing,Bots",
+        "api_name": "Parsebot",
+        "id": 675,
+        "progweb_descr": " Parsebot API allow developer extract content website API useful embed article image video audio directly developer application Responses JSON authentication API Key Guides available maximize API call embed data send receive response"
+    },
+    {
+        "progweb_cat": "Parsing,Algorithms",
+        "api_name": "WhoisJson",
+        "id": 2578,
+        "progweb_descr": " Whois API JSON XML format aim simplify complex data form access public information specific domains Sample code PHP NodeJS Java available main site"
+    },
+    {
+        "progweb_cat": "Parsing,Algorithms",
+        "api_name": "Parsed JSON WHOIS",
+        "id": 3375,
+        "progweb_descr": " JSON WHOIS API provide fetch parse feature Users receive 1000 request cost every month life account PAYG start 0002 HTTP available make call JSON receive response Authentication method include Api Key App ID basic HTTP auth"
+    },
+    {
+        "progweb_cat": "Parsing,Documents",
+        "api_name": "W3C DOM Parsing and Serialization",
+        "id": 3273,
+        "progweb_descr": " W3C DOM Parsing Serialization API specify collection APIs allow web application programmatically access HTML generic XML parser parse serialize DOM node This specification base DOM Parsing Serialization Living Specification Its work progress may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Parsing,Spreadsheets",
+        "api_name": "XLS Parser",
+        "id": 6876,
+        "progweb_descr": " XLS Parser REST API read parse large xl file save data MySQL database API read 10000 row work share host read xls file Excel 97"
+    },
+    {
+        "progweb_cat": "Parsing",
+        "api_name": "EnClout Phone Parser",
+        "id": 7606,
+        "progweb_descr": " EnCloutPhone number parser API help developer translate Google phone number JSONXML format EnClout also support phone extension To see example user type phone number site result show analysis phone number validity possibility type country extension format It valuable developer want simplify long list phone library API require sign free access seven day If developers interest business plan access html json xml txt format along exist nonexisting data lookup real time A contact form available site developer support"
+    },
+    {
+        "progweb_cat": "Parsing",
+        "api_name": "EnClout URL Parser",
+        "id": 10559,
+        "progweb_descr": " EnClout interested bring data together multiple source solve data silo business EnClout provide suite domain related APIs URL Parser API take URL domain input return parse IDN internationalize domain name record JSON XML HTML format"
+    }
+]

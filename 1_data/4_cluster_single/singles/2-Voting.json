@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Voting,Campaigns",
+        "api_name": "OpenFEC",
+        "id": 3907,
+        "progweb_descr": " Open Federal Election Commission API beta stage provide access data present candidate committee fund government campaign Data include information candidate leadership PACs electioneer communication lobbyist committee statement committee summary much Available HTTP method GET response protocol JSON Developers apply Key httpsapidatagovsignup"
+    },
+    {
+        "progweb_cat": "Voting,Campaigns",
+        "api_name": "Voter's Edge",
+        "id": 6593,
+        "progweb_descr": " Voters Edge provide nonpartisan voter information 2014 US election It generate custom view user ballot base address Voters Edge provide coverage congressional election statelevel political campaign primary general election midterms presidential election year Voters Edge API return data available site"
+    }
+]

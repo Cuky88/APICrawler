@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "QR Codes,API",
+        "api_name": "CricAPI QR Code Generator",
+        "id": 5177,
+        "progweb_descr": " Wherrelz provide IT web development CRM solution business Wherrelz QR Code Generator API Cloud base keep data private Use API quickly generate QR Codes business"
+    },
+    {
+        "progweb_cat": "QR Codes,Images",
+        "api_name": "Burning Soul QRCode",
+        "id": 5422,
+        "progweb_descr": " QRCode API part independent project Burning Soul What API developers convert data QR code provide output store server static file Generate code script call image type date URL Resources include data convert QRCode size output image error connection data"
+    },
+    {
+        "progweb_cat": "QR Codes,Barcodes",
+        "api_name": "Unitag",
+        "id": 11901,
+        "progweb_descr": " Unitag free QR code generator Through use generator tool user customize QR code choice color size quietzone redundancy API allow user integrate functionality code generator system use RESTful call"
+    },
+    {
+        "progweb_cat": "QR Codes,Barcodes",
+        "api_name": "QR4 QR Code",
+        "id": 12506,
+        "progweb_descr": " QR4 specialize QR Code generation context QR code use API simple QR code generate tool use simple URL call return readytouse QR cod It currently support four type code text direct call SMS message direct Wifi access"
+    }
+]

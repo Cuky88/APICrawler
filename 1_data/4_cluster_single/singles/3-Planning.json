@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Planning,Collaboration",
+        "api_name": "10,000ft",
+        "id": 3219,
+        "progweb_descr": " 10000ft REST API provide developer access 10000ft resource project user time entries account API regular HTTP REST pattern allow developer authentication create read manage delete project user time entry API access come account service 10000ft 10K provide collaboration tool project management planning functionality team organization project"
+    },
+    {
+        "progweb_cat": "Planning,Project Management",
+        "api_name": "PlanGrid",
+        "id": 3384,
+        "progweb_descr": " PlanGrid construction planning platform design enterprise application PlanGrid platform feature sheet comparison measurement markup support team permission PlanGrid API use build integration base PlanGrid software This API REST base use JSON call API Keys authentication"
+    },
+    {
+        "progweb_cat": "Planning,Scheduling",
+        "api_name": "BackSolver",
+        "id": 8756,
+        "progweb_descr": " BackSolver cloudbased service solve complicate industrial problem activity schedule finite capacity schedule project portfolio plan workforce plan transport optimization Send BackSolver problem standard agnostic format Internet BackSolver resolve problem use optimization algorithm provide solution BackSolver offer access service via REST AI Use API submit problem BackSolver check computation status retrieve solution Responses return XML format"
+    }
+]

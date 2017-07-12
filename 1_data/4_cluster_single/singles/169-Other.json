@@ -1,0 +1,1016 @@
+[
+    {
+        "progweb_cat": "Other,Books",
+        "api_name": "SharedBook",
+        "id": 64,
+        "progweb_descr": " From site SharedBook technology company create demand reverse publishing platform allow user extract data content multiple source manipulate distribute unique new creation online Its different APIs instead write interface extract data u youll create new way introduce data private secure book creation system"
+    },
+    {
+        "progweb_cat": "Other,Books",
+        "api_name": "Goodreads",
+        "id": 163,
+        "progweb_descr": " Use Goodreads API get book shelf get friend updates link book ISBN method get url book author get member friend look member email address get reviews ISBN Goodreads API allow developer access Goodreads data order help websites application deal book personalize social engage API use many way include Review Syndication Goodreads 10 million review across 700000 title API let user display review website Goodreads Connect Members connect Goodreads account developer full access book rating review member shelf well member friends This used personalize ecommerce store power recommendation show widget member favorite book build mobile desktop client app API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Other,Books",
+        "api_name": "BookMooch",
+        "id": 502,
+        "progweb_descr": " From site BookMooch community exchange use book BookMooch let give away book long need exchange book really want All API call support XML output add oxml GET url line"
+    },
+    {
+        "progweb_cat": "Other,Books",
+        "api_name": "HarperCollins Open Book",
+        "id": 959,
+        "progweb_descr": " HarperCollins large book publisher HarperCollins publish wide variety genre include fiction memoir business book biography cookbooks childrens book HarperCollins API allow developer access integrate HarperCollins book information author title preview application create new application Some example API method include retrieve author information retrieve book preview retrieve book information"
+    },
+    {
+        "progweb_cat": "Other,Books",
+        "api_name": "PaperBack Swap",
+        "id": 1374,
+        "progweb_descr": " PaperBack Swap free book trading service Books also available purchase website PaperBack Swap API allow retrieval information member wish list recently add item recently trade item API use RESTful protocol return format XML JSON"
+    },
+    {
+        "progweb_cat": "Other,Books",
+        "api_name": "txtr Reaktor",
+        "id": 12196,
+        "progweb_descr": " txtr eBook digital content read application eBook store Europe Reaktor txtr service infrastructure access txtrs digital content reader service Reaktor API allow developer access integrate functionality content txtr application create new application There SOAP REST APIs Some example API method include uploading eBooks access eBook catalog download content"
+    },
+    {
+        "progweb_cat": "Other,Media",
+        "api_name": "Microsoft Silverlight Streaming",
+        "id": 65,
+        "progweb_descr": " Silverlight Streaming service REST protocol use upload Silverlight application use web page"
+    },
+    {
+        "progweb_cat": "Other,Media",
+        "api_name": "VoiceBunny",
+        "id": 12861,
+        "progweb_descr": " VoiceBunny online platform voiceovers voice talent Customers VoiceBunny search voice talent upload project voiceovers run voiceover contest VoiceBunny API allow developer access integrate functionality VoiceBunny application create new application Some example API method include manage voiceover project list voice talent information retrieve account balance"
+    },
+    {
+        "progweb_cat": "Other,Media",
+        "api_name": "Oxygen.next",
+        "id": 15024,
+        "progweb_descr": " Oxygennext free web service allow build digital signage network size eg instoreTV Oxygen REST API method allow developer access core Oxygen feature This include upload edit schedule content category get statistic feature"
+    },
+    {
+        "progweb_cat": "Other,Media",
+        "api_name": "Voices.com",
+        "id": 15655,
+        "progweb_descr": " Voicescom online marketplace business connect voice actor voice talent Voicecom use radio television station advertising agency market executive cast director voice talent agency easily search hire language service provider translator narrator professional voice talent Voicecom API version 4 allow 3rd party integrate Voicecom functionality embed application ondemand voice capability API allow customizable pricing faster project completion timeline All request send HTTP API key access Voicecom offer API partner program"
+    },
+    {
+        "progweb_cat": "Other,Fonts",
+        "api_name": "Google Font",
+        "id": 108,
+        "progweb_descr": " Google Font API help developer add web font web page advantage Google Font API include choice high quality open source font work browser easy use Include add special stylesheet link HTML document refer font CSS style A library font available Google Font Directory WebFont Loader JavaScript library give control font load Google Font API provide WebFont Loader also let use multiple webfont provider It codeveloped Google TypeKit"
+    },
+    {
+        "progweb_cat": "Other,Fonts",
+        "api_name": "Font Squirrel",
+        "id": 13549,
+        "progweb_descr": " Font Squirrel collection free typeface license commercial work Font Squirrel API allow user retrieve font fontface ready API expose multiple functionality include retrieve list font category family output family detail download fontface kit It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Other,Crowdsourcing",
+        "api_name": "Amazon Mechanical Turk",
+        "id": 155,
+        "progweb_descr": " From site Amazon Mechanical Turk provide web service API computer integrate Artificial Artificial Intelligence directly process make request human Developers use Amazon Mechanical Turk web service API submit task Amazon Mechanical Turk web site approve complete tasks incorporate answer software application To application transaction looks much like remote procedure call application send request service return result In reality network human fuel Artificial Artificial Intelligence come web site search complete task receive payment work"
+    },
+    {
+        "progweb_cat": "Other,Crowdsourcing",
+        "api_name": "CrowdFlower",
+        "id": 1304,
+        "progweb_descr": " CrowdFlower cloud comptuting service use crowdsourcing harness roundtheclock workforce span 70 country multiple language access halfamillion worker dispatch diverse task provide nearreal time answer API let developer build application interact use CrowdFlower automate fashion generate task order work track data judgment"
+    },
+    {
+        "progweb_cat": "Other,Contacts",
+        "api_name": "Google Contacts",
+        "id": 200,
+        "progweb_descr": " From site Google Contacts Data API allow client application view update Contacts content form Google Data API feed Your client application request list user contact edit delete content exist contact query content exist contact"
+    },
+    {
+        "progweb_cat": "Other,Mobile",
+        "api_name": "iTunes and iTunes Connect",
+        "id": 228,
+        "progweb_descr": " A simple REST web service access iTunes App Store iTunes Connect data Get information apps review rating rank iTunes Connect sale data"
+    },
+    {
+        "progweb_cat": "Other,Mobile",
+        "api_name": "Layar",
+        "id": 433,
+        "progweb_descr": " Layar augment reality application mobile phone show around display real time digital information top reality though camera mobile phone Content Layers equivalent web page normal browser A layer digital view add camera view Layar API allow developer create new layer A layer consist three part layer definition list POIs Points Interest individual POI"
+    },
+    {
+        "progweb_cat": "Other,Mobile",
+        "api_name": "Easy Recharge Solution",
+        "id": 7537,
+        "progweb_descr": " Easy Recharge Solution Indian service recharge mobile device DTHs data card People use service resell Easy Recharge Solution offer white label service resellers brand Users access service personal use resale via API"
+    },
+    {
+        "progweb_cat": "Other,Mobile",
+        "api_name": "Zypr",
+        "id": 13874,
+        "progweb_descr": " Zypr application API design work across variety platform include mobile web application electronic device Zyprs API collect numerous APIs like Facebook Twitter weather APIs Amazon categorize base function turn APIs one API Zyprs API like Apples Siri allow developer write voice activate command integration application Some example API method include add appointment calendar post Facebook Twitter check weather"
+    },
+    {
+        "progweb_cat": "Other,Visualizations",
+        "api_name": "Google Visualization",
+        "id": 244,
+        "progweb_descr": " Google Visualization JavaScript API let access structure data visualize data use JavaScript web page Google Visualization API also enable creation gadget"
+    },
+    {
+        "progweb_cat": "Other,Visualizations",
+        "api_name": "The Noun Project",
+        "id": 8360,
+        "progweb_descr": " Noun Project collection visual icon image cross language culture Users upload share download image icon Noun Projects collection Noun Project API allow developer access integrate functionality Noun Project applications Some example API method include return icon return collection retrieve user information"
+    },
+    {
+        "progweb_cat": "Other,Visualizations",
+        "api_name": "ThingSpeak Charts",
+        "id": 14304,
+        "progweb_descr": " ThingSpeak platform user share information network device Users post real time information device ThingSpeak channel Charts API allow user create instant visualization data chart display properly browser mobile device chart also show dynamic data load new data automatically API use RESTful call response format XML JSON CSV"
+    },
+    {
+        "progweb_cat": "Other,Feeds",
+        "api_name": "FriendFeed",
+        "id": 250,
+        "progweb_descr": " FriendFeed API enable developer interact FriendFeed web site programmatically via simple HTTP request FriendFeed service make easy share friends online It offer fun interactive way discover discuss information among friend API use RESTful call support method download reading feed Its design make possible anyone improve FriendFeed integrate FriendFeed application Users develop FriendFeed interface mobile phone build FriendFeed widget blog develop application make easy post photo fee iPhone API support XML JSON output format"
+    },
+    {
+        "progweb_cat": "Other,Feeds",
+        "api_name": "activeRenderer",
+        "id": 15833,
+        "progweb_descr": " activeRenderer outline publish tool Radio UserLand bring power outline blogging web publishing experience"
+    },
+    {
+        "progweb_cat": "Other,Art",
+        "api_name": "Behance",
+        "id": 357,
+        "progweb_descr": " Behance website creative professional share work Popular photographer artists designer site allow user create portfolio work show current project Behance API make available much site content Developers search browse Behance user discover name location keyword Completed project work progress also searchable via API use REST call return JSONP"
+    },
+    {
+        "progweb_cat": "Other,Art",
+        "api_name": "We Feel Fine",
+        "id": 412,
+        "progweb_descr": " From site Since August 2005 We Feel Fine harvest human feeling large number weblogs Every minute system search world newly post blog entry occurrences phrase I feel I feel When find phrase record full sentence period identifies feel expressed sentence eg sad happy depress etc result database several million human feeling increase 15000 20000 new feeling per day"
+    },
+    {
+        "progweb_cat": "Other,Art",
+        "api_name": "Comic Vine",
+        "id": 15821,
+        "progweb_descr": " This API let access search Comic Vines list comic book character creator publisher API follow organization Comic Vine user accustom category character concepts location power object"
+    },
+    {
+        "progweb_cat": "Other,Wi-Fi",
+        "api_name": "Skyhook Wireless",
+        "id": 397,
+        "progweb_descr": " From site Skyhook WiFi Positioning System APIs let quickly locationenable application service device reach addressable market 100 million WiFi enable laptop device PDAs Using open standard simple web service format generally implement less day make WPS simple easy use location position technology"
+    },
+    {
+        "progweb_cat": "Other,Wi-Fi",
+        "api_name": "openBmap",
+        "id": 14786,
+        "progweb_descr": " openBmap API return GPS coordinate polygon consider cellular zone openBmap free open map wireless communicate object eg cellular antenna WiFi Bluetooth It provide tools mutualize data create access map With API user get GPS position cellular network Cell id If cell find database return LAC data If LAC find database return MNC data API use RESTful protocol response format either XML JSON TXT"
+    },
+    {
+        "progweb_cat": "Other,Wi-Fi",
+        "api_name": "Geomena",
+        "id": 15094,
+        "progweb_descr": " Geomena open geo database WiFi access point mean use geolocation database open Wikipedia editable downloadable anyone use however want API provide way able add data programmatically It enable application sniff WiFi combine location either grab via GPS address method"
+    },
+    {
+        "progweb_cat": "Other,Design",
+        "api_name": "Kuler",
+        "id": 413,
+        "progweb_descr": " From site kuler color inspiration explore create share color theme"
+    },
+    {
+        "progweb_cat": "Other,Design",
+        "api_name": "Dribbble",
+        "id": 452,
+        "progweb_descr": " Dribbble API provide access webdesign showcases dribbblecom You access individual shot player comment detail Note As Dec 2010 API key require accord site likely change well API call limit"
+    },
+    {
+        "progweb_cat": "Other,Design",
+        "api_name": "Autodesk Freewheel",
+        "id": 736,
+        "progweb_descr": " From site Autodesk Freewheel Ajax Asynchronous JavaScript XML base web serviceapplication build provide CAD model view print collaboration dynamic render DWF file data graphic information You think Freewheel set componentized Web Services JavaScript frameworks Together component make Interactive Ajax DWF Viewer"
+    },
+    {
+        "progweb_cat": "Other,Design",
+        "api_name": "Colr.org",
+        "id": 13969,
+        "progweb_descr": " Colrorg online service allow user search image color color scheme Users edit color color scheme tag download Users also search similar color color scheme base color color scheme Colrorg API allow user retrieve color color scheme see information color color scheme retrieve random color scheme add tags color color scheme"
+    },
+    {
+        "progweb_cat": "Other,Design",
+        "api_name": "Fonts.com",
+        "id": 13973,
+        "progweb_descr": " Fontscom font web font store offer many font available download purchase Fontscom also offer typographic resource designer Fontscom Web Fonts API allow developer integrate functionality Fontscom Web Fonts With API developer create retrieve project Web Fonts well access Web Fonts library font"
+    },
+    {
+        "progweb_cat": "Other,Design",
+        "api_name": "Paspartout",
+        "id": 14409,
+        "progweb_descr": " Paspartout online service allow user create maintain online portfolio work Paspartout API allow developer Paspartout site owner create widget andor use public data Paspartout Some data accessible API include page category price image"
+    },
+    {
+        "progweb_cat": "Other,Design",
+        "api_name": "CSS Mania",
+        "id": 14830,
+        "progweb_descr": " API provide access CSS showcases submit CSS Mania It provide search access various CSS showcases screenshots url rating vote top 5 color use"
+    },
+    {
+        "progweb_cat": "Other,Design",
+        "api_name": "Quotes on Design",
+        "id": 14931,
+        "progweb_descr": " Quotes Design provide free tool developer embed random quote Quotes Design database website This do embed JavaScript code website use HTTP call parsing return JSON object"
+    },
+    {
+        "progweb_cat": "Other,Events",
+        "api_name": "Adobe on AIR Bus Tour",
+        "id": 553,
+        "progweb_descr": " From site You use APIs feed keep late news content Adobe AIR tour build web AIR base application mashups Adobe Integrated Runtime AIR previously refer codename Apollo crossoperating system runtime allow web developer leverage exist web development skill Flash Flex HTML JavaScript build deploy web application content desktop"
+    },
+    {
+        "progweb_cat": "Other,Community",
+        "api_name": "Social Actions",
+        "id": 566,
+        "progweb_descr": " Use Social Actions Open API search SocialActionscom database volunteer philanthropy opportunity call social action useful interested peertopeer social change database aggregate opportunity 20 organization result include title description location action type source URL opportunity Some organization aggregate Democracy Action MicroGiving VolunteerMatch Helpalot You narrow request follow action type Group Fundraiser Campaign Pledged action Event Affinity group Volunteer Microcredit loan Petition"
+    },
+    {
+        "progweb_cat": "Other,Charts",
+        "api_name": "Sparklines",
+        "id": 720,
+        "progweb_descr": " Sparklines define Tufte intense simple wordsized graphic I find fascinate useful needed way generate At first I publish simple Python script produce Sparklines since I add page interactively design web service use add site finally source code web service"
+    },
+    {
+        "progweb_cat": "Other,Charts",
+        "api_name": "GXchart",
+        "id": 13906,
+        "progweb_descr": " GXchart API web service allow user automatically generate graph chart When user provide GXchart API data want visualized service return URL image chart data Data pass GXchart API either URL use SOAP Charts create GXchart delete server 10 minute user must save copy later use Use GXchart free signup requirement"
+    },
+    {
+        "progweb_cat": "Other,Humor",
+        "api_name": "bLaugh Comics",
+        "id": 728,
+        "progweb_descr": " From site MAD Magazine Blogosphere"
+    },
+    {
+        "progweb_cat": "Other,Humor",
+        "api_name": "ItsThisForThat",
+        "id": 13991,
+        "progweb_descr": " ItsThisForThat fun site randomly generate idea startup API let user integrate service application It use RESTful call response format JSON TXT"
+    },
+    {
+        "progweb_cat": "Other,Sustainability",
+        "api_name": "Carma",
+        "id": 742,
+        "progweb_descr": " From site Carbon Monitoring Action CARMA massive database contain carbon emission data 50000 power plant 4000 power company worldwide CARMA first global inventory major emissionsproducing sector economy"
+    },
+    {
+        "progweb_cat": "Other,Sustainability",
+        "api_name": "Brighter Planet Climate Data",
+        "id": 15261,
+        "progweb_descr": " Brighter Planet fetch correct par dozen datasets daily inform emission calculation service This data present public use service community Additional datasets post regularly Brighter Planet delivers cloudbased web service provide ondemand carbon information fraction cent per query meant enhance exist operational data environmental intelligence matter API use RESTful Taps protocol response format XML JSON CSV SQL"
+    },
+    {
+        "progweb_cat": "Other,Publishing",
+        "api_name": "Lulu Publishing",
+        "id": 743,
+        "progweb_descr": " Lulu Publication API let user create new breed Web application enable ondemand publish Lulu market brand name Lulu Publication API design allow individual publisher use Lulu backend publish ondemand book programatically It work via RESTJSON interface example REST client library Python provide"
+    },
+    {
+        "progweb_cat": "Other,Publishing",
+        "api_name": "Leanpub",
+        "id": 8832,
+        "progweb_descr": " Leanpub free online publishing service author Users publish inprogress complete book allow get reader feedback early version Authors write use preferred tool publish manuscript PDF iPad Kindle format Users choose minimum suggested price earn 90 royalty minus 50Â¢ per sale Users maintain right book choose deal publisher time"
+    },
+    {
+        "progweb_cat": "Other,Environment",
+        "api_name": "WiserEarth",
+        "id": 777,
+        "progweb_descr": " WiserEarth free online community space connect people work toward sustainable world WiserEarth include large international directory NGOs 110000 record Organizations community worldwide use WiserEarth group coordinate effort API offer access organization except email address solution group About Page metadata resource job event Currently Read access available Inquire Write access"
+    },
+    {
+        "progweb_cat": "Other,Environment",
+        "api_name": "OpenEco",
+        "id": 15772,
+        "progweb_descr": " OpenEco API allow track greenhouse gas production"
+    },
+    {
+        "progweb_cat": "Other,Weather",
+        "api_name": "Brighter Planet Emission Estimates",
+        "id": 810,
+        "progweb_descr": " This web service part Brighter Planets carbon middleware suite enable developer build flexible realtime carbon footprint estimate source car flight house business application Brighter Planet delivers cloudbased web service provide ondemand carbon information fraction cent per query meant enhance exist operational data environmental intelligence matter emission calculation service provide greenhouse gas emission estimate variety emitter arbitrary description API use RESTful protocol response format XML JSON YAML HTML Text JS"
+    },
+    {
+        "progweb_cat": "Other,Feedback",
+        "api_name": "eBay Feedback",
+        "id": 879,
+        "progweb_descr": " eBay Feedback API provide developer mean monitor accountlevel Feedback data specifically Detailed Seller Ratings DSRs Feedback Service generate DSR summary report seller base variety criterion time period list category transaction information specific shipping detail Feedback Service use asynchronous program model There create call specify criterion generate report single get call getDSRSummary retrieve generate report since report take much time generate return response create call XML response create call contains job ID use input get call check completion status andor retrieve DSR summary report"
+    },
+    {
+        "progweb_cat": "Other,Feedback",
+        "api_name": "Saygent",
+        "id": 12006,
+        "progweb_descr": " Saygent inapplication feedback service Saygent integrate mobile application websites instore POS gather customer feedback Saygent API allow developer access integrate functionality Saygent applications Some example API method include make call retrieve feedback access response respondent manage account information Provider contact answerssaygentcom"
+    },
+    {
+        "progweb_cat": "Other,Monitoring",
+        "api_name": "Climate Counts",
+        "id": 1003,
+        "progweb_descr": " Climate Counts nonprofit organization score corporation effort towards mitigate climate change Corporations score whether reviewed emission set goal towards reduce global warming impact policy stance climate legislation public reporting action API give user access corporation score database Data available include year business sector company brand yearly score aggregate score API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Other,Cities",
+        "api_name": "Block Avenue Neighborhood Reviews",
+        "id": 1065,
+        "progweb_descr": " BlockAvenue APIs RESTful APIs user retrieve neighborhood BlockScores BlockReviews lifestyle attribution regard nearby street intersection BlockAvenue also BlockScore every block United States user generate BlockReviews many major city heavy concentration Boston NYC DC Chicago Austin San Francisco Developers access integrate Block Avenue APIs application create new application Public documentation available interested developer contact apiblockavenuecom API access"
+    },
+    {
+        "progweb_cat": "Other,Bluetooth",
+        "api_name": "Pebble",
+        "id": 1070,
+        "progweb_descr": " Pebble smart wristwatch enable Bluetooth technology connect smartphones Pebble API SDK allow developer create application Pebble alone Pebble connect smartphones Some example API function include send receive text image manage account information send retrieving data"
+    },
+    {
+        "progweb_cat": "Other,3D",
+        "api_name": "Google O3D",
+        "id": 1208,
+        "progweb_descr": " O3D new shaderbased lowlevel graphic API create interactive 3D application web browser O3D run multiple operate system browser perform well JavaScript offer capability developer need create diverse set rich application O3D opensource JavaScript API create interactive 3D graphic application run browser windowï¿½games ad 3D model viewer product demo virtual world"
+    },
+    {
+        "progweb_cat": "Other,Non-Profit",
+        "api_name": "All for Good",
+        "id": 1218,
+        "progweb_descr": " Use All Good API retrieve view content allforgoodorg All Good collect present volunteer opportunity post numerous disparate site Mashup apps use All Good API request list volunteer opportunity use RESTful service"
+    },
+    {
+        "progweb_cat": "Other,Non-Profit",
+        "api_name": "CorpWatch",
+        "id": 1260,
+        "progweb_descr": " CorpWatch nonprofit organization use investigative research journalism expose corporate malfeasance advocate multinational corporate accountability transparency CorpWatch API use automated parser extract subsidiary relationship information Exhibit 21 company 10K filing SEC provide free wellstructured interface program query process data Using API user access hundred thousand formal name public corporation consistent ID system company location associated company subsidiaryparent relationship company alternate former name company link SEC filing API use RESTful interface response format either XML JSON"
+    },
+    {
+        "progweb_cat": "Other,Non-Profit",
+        "api_name": "Convio",
+        "id": 15581,
+        "progweb_descr": " From site Convio Internet software service company provide online Constituent Relationship Management eCRM solution nonprofit organization As trusted Internet partner 1200 organization Constituent Management API RESTbased API allow method invocation Internet use HTTP POST request API communicate directly Convio Constituent360 database"
+    },
+    {
+        "progweb_cat": "Other,Non-Profit",
+        "api_name": "Kintera",
+        "id": 15615,
+        "progweb_descr": " Kintera Sphere software service technology platform social CRM Constituent Relationship Management system enable organization quickly easily reach people raise money run efficiently API enable extend Kintera Sphereï¿½s capability build custom Kintera Connect Applications"
+    },
+    {
+        "progweb_cat": "Other,Semantics",
+        "api_name": "Subj3ct",
+        "id": 1224,
+        "progweb_descr": " Subj3ct new registry clearinghouse service Semantic Web subject identifier Subj3ct provide user capability enable web application define exchange subject definition Subj3ct API allow user access online service store subject identifier identifier equivalence link resource web contain information subject"
+    },
+    {
+        "progweb_cat": "Other,Internet of Things",
+        "api_name": "Pachube",
+        "id": 1234,
+        "progweb_descr": " Pachube enable store share discover realtime sensor energy environment data building device Pachube provide functionality API rather web site Plugin participate project real time example building interactive environment network energy meter virtual world mobile sensor device talk Realtime data available Pachube make use Extended Environments Markup Language EEML extend construction industry protocol IFC"
+    },
+    {
+        "progweb_cat": "Other,Internet of Things",
+        "api_name": "TalkBack",
+        "id": 7394,
+        "progweb_descr": " ThingSpeak facilitate collection data sensor actuator connect device Internet Things Sensors monitor device condition actuator allow control device change condition TalkBack API take data collection step provide channel user give connect device command series queue command"
+    },
+    {
+        "progweb_cat": "Other,Internet of Things",
+        "api_name": "yetu",
+        "id": 8383,
+        "progweb_descr": " yetu smart home platform yetus platform connect smart device home one place ease use standard monitoring control yetu API allow developer access integrate functionality yetu application create new application Public documentation available interested developer contact yetu information infoyetucom"
+    },
+    {
+        "progweb_cat": "Other,Internet of Things",
+        "api_name": "BITalino",
+        "id": 8957,
+        "progweb_descr": " BITalino solution allow user develop project application use body movement physiological sensor control application andor device BITalino API allow developer access integrate functionality BITalino application create new application Some example API method include manage device create function call response"
+    },
+    {
+        "progweb_cat": "Other,Internet of Things",
+        "api_name": "ThingSpeak",
+        "id": 14275,
+        "progweb_descr": " ThingSpeak API allow build Internet Things application Use API create cloud application interact sensor control anything support HTTP protocol ThingSpeak API able interface device Arduino ioBridge iPhone Android mobile device home automation system robot thermostat industrial control etc ThingSpeak also support integration external web service Twitter Prowl Twilio WeatherBug Foursquare use ThingHTTP app In addition free host API ThingSpeak API open source available GitHub download private server"
+    },
+    {
+        "progweb_cat": "Other,Referrals",
+        "api_name": "ShareASale Affiliate",
+        "id": 1301,
+        "progweb_descr": " ShareASale API allow merchant advance method interact realtime transaction well report ShareASale affiliate network provide paypersale payperlead payperclick program webmaster ShareASale service two customer set affiliate marketing affiliate merchant Using API follow report generate Activity Details Timespan Reports Today ’ Stats Void Trails Merchant Status along several others Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Other,Licensing",
+        "api_name": "Creative Commons",
+        "id": 1617,
+        "progweb_descr": " Creative Commons provide free tool let author scientist artist educator easily mark creative work freedom want carry You use CC change copyright term All Rights Reserved Some Rights Reserved"
+    },
+    {
+        "progweb_cat": "Other,Spreadsheets",
+        "api_name": "voo2do",
+        "id": 1626,
+        "progweb_descr": " voo2do alwaysaccessible webbased time management spreadsheet track task project note deadline"
+    },
+    {
+        "progweb_cat": "Other,Religion",
+        "api_name": "Living Stones",
+        "id": 1629,
+        "progweb_descr": " Living Stones web service website able search three Bible translation public domain KJV AKJV ASV lookup passage translation"
+    },
+    {
+        "progweb_cat": "Other,Religion",
+        "api_name": "Bible Gateway",
+        "id": 1655,
+        "progweb_descr": " From site This service allow display Verse Day Verse Day use SOAP protocol"
+    },
+    {
+        "progweb_cat": "Other,Religion",
+        "api_name": "getBible",
+        "id": 7485,
+        "progweb_descr": " getBible API allow user retrieve Bible verse websites version translation want If version specify Englishlanguage King James Version Bible use default Some language available include French German Hebrew Greek Afrikaans Finnish Swahili Arabic Esperanto"
+    },
+    {
+        "progweb_cat": "Other,Religion",
+        "api_name": "ChurchApp",
+        "id": 8005,
+        "progweb_descr": " ChurchApp cloudbased church management system design church sizes denomination UK service provide module handle contact child small group donation volunteer calendar event attendance administrative task Many though module access programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Other,Religion",
+        "api_name": "Athey Creek Developer",
+        "id": 8841,
+        "progweb_descr": " Athey Creek Christian Fellowship nondenominational fellowship locate Wilsonville Oregon group base warehouse favor casual rather dressy clothes Athey Creek provide Childrens Ministry host variety social event Developers retrieve information event teach website via REST API"
+    },
+    {
+        "progweb_cat": "Other,Religion",
+        "api_name": "Fellowship One",
+        "id": 15383,
+        "progweb_descr": " Fellowship One API RESTbased web allow user access use information available Fellowship Ones database church member API feature OAUTH protocol authentication search filter address occupation"
+    },
+    {
+        "progweb_cat": "Other",
+        "api_name": "Tutorials Garden",
+        "id": 1639,
+        "progweb_descr": " From site Tutorials Garden ultimate place tutorial world use tool software Users find free tutorial article author get target visitor website submit tutorial Tutorials Garden"
+    },
+    {
+        "progweb_cat": "Other",
+        "api_name": "BACnet Help",
+        "id": 11897,
+        "progweb_descr": " BACnet data communication protocol build automation control network It design allow network communicate heat ventilation airconditioning light access fire detection system associate equipment BACnet Help assist user make full use BACnet network let take snapshot network immediate future reference BACnet Helps function accessible use REST call JSON format"
+    },
+    {
+        "progweb_cat": "Other",
+        "api_name": "Prefinery",
+        "id": 15050,
+        "progweb_descr": " Prefinery beta program invitation management service web apps desktop software Prefinery API implement XML HTTP use four verbs GETPOSTPUTDELETE Every resource like Beta Tester URL manipulate isolation API follow REST principle much possible"
+    },
+    {
+        "progweb_cat": "Other,Statistics",
+        "api_name": "ChurchMetrics",
+        "id": 7686,
+        "progweb_descr": " ChurchMetrics webbased church management service help church keep track important information Trackable information include attendance donation baptisms Historical data review form chart report This data access computer internet access via iOS Android application Data also programmatically accessible via REST API"
+    },
+    {
+        "progweb_cat": "Other,Application Development",
+        "api_name": "TopCoder",
+        "id": 7689,
+        "progweb_descr": " TopCoder bring developer together competition field Design Development Data Science Competitors encourage collaborate learn within TopCoder community TopCoder provide several APIs access data contest member marathon match contest Users explore play APIs browser use API Playground"
+    },
+    {
+        "progweb_cat": "Other,Application Development",
+        "api_name": "Testcover.com",
+        "id": 13145,
+        "progweb_descr": " Testcovercom provide software test case design efficient reduce number test case need improve test case ability find defect Testcovercom API available use service generates pairwise test case configuration input value database table state model transition etc API tool â€ “ test automation model test management example"
+    },
+    {
+        "progweb_cat": "Other,Application Development",
+        "api_name": "BugHerd",
+        "id": 13655,
+        "progweb_descr": " BugHerd visual bug track project management app build web developer designer It let report issue directly website simple point click BugHerd automatically grab browser data even take screenshots make ideal working remote team client QA tester BugHerd API allow developer access integrate data functionality BugHerd Some example API method include list create manage project list user list create comment list create manage task"
+    },
+    {
+        "progweb_cat": "Other,Application Development",
+        "api_name": "Sonatype Nexus",
+        "id": 14863,
+        "progweb_descr": " Sonatype open source community focus create well tools developer Its Nexus product repository manager organize software artifact require development deployment provision Sonatype Nexus API provide access query database repositories An account require full documentation"
+    },
+    {
+        "progweb_cat": "Other,Application Development",
+        "api_name": "Snipplr",
+        "id": 15596,
+        "progweb_descr": " Snipplr API give access public source code repository Snipplr give developer place store organize little piece code use day You share code snippet coder designer"
+    },
+    {
+        "progweb_cat": "Other,Management",
+        "api_name": "meQuilibrium",
+        "id": 7879,
+        "progweb_descr": " meQuilibrium stress monitor management service Users use meQuilibrium monitor cognitive stress indicator manage stress level Employers offer employee reduce stress employee meQuilibrium API allow developer access integrate functionality meQuilibrium application create new application Public documentation available interested developer contact meQuilibrium information"
+    },
+    {
+        "progweb_cat": "Other,Rewards",
+        "api_name": "Kiip",
+        "id": 8330,
+        "progweb_descr": " Kiip reward application reward user use application Kiip integrate application reward user help brand build loyalty incentive reward Kiip API SDK allow developer access integrate functionality Kiip application create new application Some example API method include retrieve reward customize message manage account information"
+    },
+    {
+        "progweb_cat": "Other,Applications",
+        "api_name": "kudosKit by ironSource",
+        "id": 8345,
+        "progweb_descr": " kudosKit user appreciation platform application developer publisher integrate application kudosKit provide different appreciation option like boost social network get feedback user get financial contribution user improve application rating kudosKit API SDK allow developer access integrate functionality kudosKit application Some example API method include manage account set appreciation module manage setting"
+    },
+    {
+        "progweb_cat": "Other,Applications",
+        "api_name": "Rogerthat",
+        "id": 11110,
+        "progweb_descr": " Rogerthat bring single A2P solution type apps web service Rogerthat MEAP mobile enterprise application platform business process automation allow developer create native smartphone frontends exist new system application Rogerthat API aim make application creation relatively easy incorporate powerful message gateway strong application development framework Limiting hassle developer go Calls make HTTP response JSON"
+    },
+    {
+        "progweb_cat": "Other,QR Codes",
+        "api_name": "Pingeborg",
+        "id": 8431,
+        "progweb_descr": " Project Ingeborg pingeborg design promote local artist use sample work Artists put sticker flyer QR code passersby scan use Pingeborg app mobile device This open link iTunes Amazon artist mobile website Users query information QR code use tag object downloads associate use RESTful API"
+    },
+    {
+        "progweb_cat": "Other,QR Codes",
+        "api_name": "Visualead",
+        "id": 8497,
+        "progweb_descr": " Visualead QR code generator Visualead allow user create design manage QR cod QR code also track edited dashboard Visualead API allow developer access integrate functionality Visualead QR code application Public documentation available interested developer email apivisualeadcom API access"
+    },
+    {
+        "progweb_cat": "Other,Fitness",
+        "api_name": "Preva",
+        "id": 8475,
+        "progweb_descr": " Preva network fitness solution fitness operator service provider Preva provide interactive data solution fitness equipment display Preva API allow developer access integrate functionality Preva application create new application Sign require access API"
+    },
+    {
+        "progweb_cat": "Other,Content",
+        "api_name": "PublishThis Content Platform",
+        "id": 8632,
+        "progweb_descr": " PublishThis content creation management distribution platform Brands retailer medium company trade association use PublishThis Content Platform discover curate distribute content across digital channel PublishThis API allow developer access integrate functionality PublishThis applications Public documentation available interested developer contact infopublishthiscom information"
+    },
+    {
+        "progweb_cat": "Other,Nordic",
+        "api_name": "Code for Europe Aura",
+        "id": 8817,
+        "progweb_descr": " Code Europe bring together team developer solve local technical problem way reuse European city Developers work closely endusers civil servant IT expert develop solution Aura RESTful API make Code Europe developer name Juha YrjÃ¶lÃ¤ It allow user query location snowplows Helsinki area A demo application source code available"
+    },
+    {
+        "progweb_cat": "Other,Printing",
+        "api_name": "Printful",
+        "id": 9178,
+        "progweb_descr": " Printful printing fulfillment company Printful allow user design upload design Printful select medium designs print tshirts canvas paper poster Printful API allow developer access integrate functionality Printful application Public documentation available interested developer sign httpswwwtheprintfulcomapi"
+    },
+    {
+        "progweb_cat": "Other,Printing",
+        "api_name": "Newspaper Club",
+        "id": 13999,
+        "progweb_descr": " Newspaper Club website help user make printed newspaper Visitors use online tool upload arrange word picture use site send PDF Users add story picture newspaper use appropriate API request API functionality include work story picture entire newspaper Additionally user track job API API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Other,Booking",
+        "api_name": "Booker",
+        "id": 9754,
+        "progweb_descr": " Booker online platform allow company service provider offer online booking appointment reservation service Booker API allow developer access integrate functionality Booker applications Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Other,Language",
+        "api_name": "Isis-Forensics",
+        "id": 10014,
+        "progweb_descr": " Isis Forensics specialise obtain actionable insight digital communication Its technology allow company extract Language DNA interaction characteristic individual group conversation digital format Isis Forensics API provide capability customer partner allow technology rapidly integrate text analysis access contact Isis Forensics"
+    },
+    {
+        "progweb_cat": "Other,Gestures",
+        "api_name": "Leap Motion",
+        "id": 10021,
+        "progweb_descr": " Leap Motion offer motion controller allow user connect controller computer control computer touch controller sens hand finger motion user Leap Motion API allow developer access integrate functionality Leap Motion application create new application Public documentation available interested developer sign developer account httpswwwleapmotioncomdevelopers"
+    },
+    {
+        "progweb_cat": "Other,Music",
+        "api_name": "Club Log",
+        "id": 10089,
+        "progweb_descr": " Club Log free webbased tool produce DXCC league table expedition tool log search service mostwanted list ham radio It also analyze radio amateur log file offer wide range report individual user identify largescale trend base activity database Signedin user upload track refine log DXing progress closely Each participant increase usefulness database result help expedition plan future activity Developers access Club Logs information service programmatically use REST API"
+    },
+    {
+        "progweb_cat": "Other,Weddings",
+        "api_name": "wedjinni",
+        "id": 10319,
+        "progweb_descr": " wedjinni wed plan website service Couples create wed plan website account use feature available plan wed wedjinni API allow developer access integrate functionality wedjinni application Public documentation available interested developer email apiwedjinnicom information"
+    },
+    {
+        "progweb_cat": "Other,Marketplace",
+        "api_name": "TemplateCloud",
+        "id": 10719,
+        "progweb_descr": " TemplateCloud online marketplace buy sell design template variety material like business card flyer stationary postcard TemplateCloud API allow developer access integrate marketplace function application Some example API method include manage template set information template create instance"
+    },
+    {
+        "progweb_cat": "Other,Testing",
+        "api_name": "CPP Score Request",
+        "id": 10941,
+        "progweb_descr": " CPP company offer personality personal strength test business world Although best know MyersBriggs Type IndicatorÂ® assessment CPP also provide Strong Interest InventoryÂ® ThomasKilmann Conflict Mode Instrument TKI Fundamental Interpersonal Relations OrientationTM FIROÂ® California Psychological Inventoryâ„¢ CPIâ„¢ Users score various test retrieve programmatically use SOAP API This service return request score PDF base64 encode"
+    },
+    {
+        "progweb_cat": "Other,Testing",
+        "api_name": "Online Talent Manager",
+        "id": 11788,
+        "progweb_descr": " Online Talent Manager provide workplacefocused personality test model employ create specifically workplace design find best personality fit candidate position Online Talent Manager available integration HR system yearly review system recruitment site job board mobility center etc"
+    },
+    {
+        "progweb_cat": "Other,Testing",
+        "api_name": "Litmus",
+        "id": 15603,
+        "progweb_descr": " NOTE registration require view api From site Litmus show precisely designs see customer See screenshots web page dozen different browser within second Web page test email test bug track let see exactly compatibility issue We deliver screenshots web site email newsletter second across popular platform Use full API email web site testing service"
+    },
+    {
+        "progweb_cat": "Other,Library",
+        "api_name": "SirsiDynix Symphony",
+        "id": 12469,
+        "progweb_descr": " SirsiDynix provide library automation system 23000 library 70 country around world SirsiDynix offer APIs allow library gain full access information hold within system Symphony API include tool perform batch transaction give user ability gather edit load export format data within system Functionality include access library catalog ability verify account logins access user account information retrieval system information policy much Interested developer contact provider information"
+    },
+    {
+        "progweb_cat": "Other,Energy",
+        "api_name": "ISO New England",
+        "id": 12470,
+        "progweb_descr": " ISONE oversee operation New Englands bulk electric power system It seek ensure daytoday reliable operation New Englands bulk power generation transmission system oversee ensure fair administration region wholesale electricity market manage comprehensive regional planning process ISONE API give user access energy market data API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Other,Energy",
+        "api_name": "Powershop",
+        "id": 13175,
+        "progweb_descr": " service provide information electrical power consumption access electrical service multiple provider within New Zealand area option available consumer Information supply help user monitor power use understand provider option residential business customer In way service promote conservation conscious choice among electricity supplier API method support retrieval customer account information include electrical meter reading Provider service information also available offer pricing available service provider"
+    },
+    {
+        "progweb_cat": "Other,Energy",
+        "api_name": "Wattvision",
+        "id": 14903,
+        "progweb_descr": " Wattvision API allow developer create product wattvisionenabled Wattvision service give user live view energy use computer mobile device Wattvision work sensor connects home electricity meter wireless internet connection Upload API allow user upload home energy use data wattvisions server storage comparison share visualization Download API allow user access data house API use RESTful protocol response formattted JSON"
+    },
+    {
+        "progweb_cat": "Other,Customization",
+        "api_name": "CloudFab",
+        "id": 13022,
+        "progweb_descr": " CloudFab 3D printing platform allow user create customize print 3D object Users upload file edit customize print 3D version CloudFab API allow developer access integrate functionality CloudFab application Example API method include automate 3D printing manage order account information Public documentation available interested developer email infocloudfabcom information"
+    },
+    {
+        "progweb_cat": "Other,Social",
+        "api_name": "Ponoko",
+        "id": 13023,
+        "progweb_descr": " Ponoko online platform allow user create edit manage make product share sell print Users also buy product Ponoko user make share Ponoko API allow developer access integrate functionality Ponoko application create new application Some example API method include access design material uploading product manage product manage order"
+    },
+    {
+        "progweb_cat": "Other,Tools",
+        "api_name": "Thingiverse",
+        "id": 13024,
+        "progweb_descr": " Thingiverse online platform people create share edit produce digital design Users share design get feedback connect resource create design Thingiverse API allow developer access integrate functionality Thingiverse application create new application available API method uploading file"
+    },
+    {
+        "progweb_cat": "Other,Tools",
+        "api_name": "MuseStorm",
+        "id": 15827,
+        "progweb_descr": " From site MuseStorm provide Web developer service retrieves data multiple Web APIs clientside component manage data handle clientserver interaction service free developer deal AJAX learn APIs write code parse XML data manage"
+    },
+    {
+        "progweb_cat": "Other,Stocks",
+        "api_name": "BusinessRadar",
+        "id": 13187,
+        "progweb_descr": " BusinessRadar Italian company provide international online portal discover facilitate business deal Users interested buying selling leverage free site post lead business trade partnership BusinessRadar API allow developer search retrieve post business lead programmatically Queries search retrieve data keyword nation date number lead business category This SOAPbased API require BusinessRadar account access otherwise free use"
+    },
+    {
+        "progweb_cat": "Other,Robots",
+        "api_name": "MyRobots",
+        "id": 13191,
+        "progweb_descr": " MyRobots cloud robotics hub connect robot intelligent device internet allow remotely monitor control cloudbased robotics provide MyRobots enables realtime monitor robot public robot provide wide range possibility data share used interactively different machine Registering robot MyRobots provide unique channel robot interact exchange data web service let begin send receive data device via cloud Additionally API expose functionality create public status message robot also enable generation custom chart instantly visualize robotic data"
+    },
+    {
+        "progweb_cat": "Other,eBooks",
+        "api_name": "Unglue.it",
+        "id": 13206,
+        "progweb_descr": " UnglueIt service currently alpha give individual institution place join together free ebooks type digital content pay right holder relicense work Creative Commons license Among thing allows print book make available consumption free legal manner Via web site user discover book add personal wishlist comment share Additionally user pledge support campaign fund relicensing work API make data site available developer integrate application Full documentation RESTJSON API available upon registration"
+    },
+    {
+        "progweb_cat": "Other,Auto",
+        "api_name": "Benchmark Automotive Data",
+        "id": 13267,
+        "progweb_descr": " Benchmark provide automotive data intelligence They build application base data also make feed data available client This data provide via API let client integrate automotive data web site application Available data include Vehicle Identification Data Vehicle Specification Data Vehicle Technical Data Insurance Group Rating Data Vehicle History Data Vehicle Finance Data Vehicle Valuation Data Vehicle Statistical Data API return data XML format Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Other,Charity",
+        "api_name": "OpenAid",
+        "id": 13380,
+        "progweb_descr": " OpenAid aim reduce poverty OpenAidcom website track aid within Sweden partner country goal open data use make beneficial efficient aid decision An API available access data OpenAid project It RESTful API return result JSON"
+    },
+    {
+        "progweb_cat": "Other,Charity",
+        "api_name": "Sparked",
+        "id": 13885,
+        "progweb_descr": " Sparked microvolunteering platform allow people volunteer small amount time money online Nonprofits offer challenge Sparked volunteer sign complete online Sparked API allow developer access data Sparked XML fee open challenge This data integrate application site"
+    },
+    {
+        "progweb_cat": "Other,Charity",
+        "api_name": "Network for Good Donation",
+        "id": 13910,
+        "progweb_descr": " Network Good organization mission make easy donate volunteer online shop online They make simple affordable nonprofit size recruit donor volunteer via Internet Network Goodâ€™s web service enable site user search donate online 12 million charity within website Users connect web service include charity search credit card transaction donor tax receipt payment nonprofit reporting nonprofit Users contact provider full detail API"
+    },
+    {
+        "progweb_cat": "Other,Charity",
+        "api_name": "Charity Navigator",
+        "id": 15761,
+        "progweb_descr": " Charity Navigator Charity Search API interface allow incorporate Charity Navigator search result directly site This service provide ability construct search return charity record match certain set criterion base attribute value This API use real time lookup"
+    },
+    {
+        "progweb_cat": "Other,Charity",
+        "api_name": "Dropcash",
+        "id": 15847,
+        "progweb_descr": " From site There many way interact Dropcash system without connect directly browser official Dropcash API currently work however people take advantage XML feed build language platform specific plugins"
+    },
+    {
+        "progweb_cat": "Other,Data",
+        "api_name": "MetaLayer",
+        "id": 13535,
+        "progweb_descr": " MetaLayer data visualization service allow user drag drop data various type include imagery analysis data visualization MetaLayer use variety industry include research journalism MetaLayer API allow developer access integrate functionality data MetaLayer application service Some example API method include retrieve data information metadata accessing image information image upload data image"
+    },
+    {
+        "progweb_cat": "Other,Family",
+        "api_name": "AppleTree",
+        "id": 13594,
+        "progweb_descr": " AppleTree web application create family tree AppleTree also feature world family tree user add Users also upload share photo family tree well create event share family tree AppleTree API allow developer access integrate data functionality AppleTree application create new application Some example API method include search people return profile information people search uploading photo"
+    },
+    {
+        "progweb_cat": "Other,Family",
+        "api_name": "GenealogyCloud OneGreatFamily",
+        "id": 13595,
+        "progweb_descr": " GenealogyCloud OneGreatFamily webbased genealogy family tree service Users build family tree add family member tree service GenealogyCloud API allow developer access integrate data functionality GenealogyCloud OneGreatFamily applications Some example API method include search individual create edit profile information create updating family upload file"
+    },
+    {
+        "progweb_cat": "Other,Family",
+        "api_name": "Family Photoloom",
+        "id": 13596,
+        "progweb_descr": " Family Photoloom online family tree service allow user create family tree photos family member Users also import family data document family tree Family Photoloom API allow developer access integrate data functionality Family Photoloom Some example API method include maintain user account retrieve record profile information manage photo"
+    },
+    {
+        "progweb_cat": "Other,Family",
+        "api_name": "FamilySearch",
+        "id": 13597,
+        "progweb_descr": " FamilySearch online service allow user search family record names life event create family tree browse family record location FamilySearch API allow developer access integrate functionality data FamilySearch integration application Some example API method include search contribution certain people retrieve image information access category record profile"
+    },
+    {
+        "progweb_cat": "Other,Family",
+        "api_name": "Family Echo Family Tree",
+        "id": 14347,
+        "progweb_descr": " Family Echo API allow desktop web application display family tree use online Family Echo display engine Your application send family description GEDCOM FamilyScript format receive back URL use browse family interactively next 7 day API use HTTP POST call response format XML JSON API free unlimited require developer registration"
+    },
+    {
+        "progweb_cat": "Other,Customer Relationship Management",
+        "api_name": "PunchTab",
+        "id": 13772,
+        "progweb_descr": " PunchTab service allow website owner company blogger add customeruser loyalty program site application PunchTab premade loyalty program like giveaway well customizable loyalty program option PunchTab API allow developer integrate access PunchTab functionality sit application Some example API method include access user activity information redeem offer create editing reward"
+    },
+    {
+        "progweb_cat": "Other,Transactions",
+        "api_name": "eBay Resolution Case Management",
+        "id": 13776,
+        "progweb_descr": " eBays Resolution Case Management service allow user retrieve track manage resolve complaint case open buyer eBay Resolution Center API primarily use seller retrieve track manage resolve eBay Buyer Protection Item Not Received Significantly Not As Described case open buyer Resolution Center API call allow seller issue full refund partial refund buyer provide ship information buyer return"
+    },
+    {
+        "progweb_cat": "Other,Mail",
+        "api_name": "Zumbox",
+        "id": 13923,
+        "progweb_descr": " Zumbox service allow user receive postal paper mail digital format Zumbox connect large mailer financial transactional governmental consumer household allow traditional paper mail deliver electronically instead Zumbox API provide functionality mailer allow creation digital postal mail item exist paper mail Functionality API include handle secure transaction enable delivery digital content user information reporting information"
+    },
+    {
+        "progweb_cat": "Other,Mail",
+        "api_name": "ViaPost",
+        "id": 15283,
+        "progweb_descr": " This API allow user send physical post directly computer address UK electronic document mail print location close need go physical mailing"
+    },
+    {
+        "progweb_cat": "Other,Open Source",
+        "api_name": "PGXN",
+        "id": 13950,
+        "progweb_descr": " PGXN central distribution system opensource PostgreSQL extension library PGXN API index API distribute metadata PostgreSQL extension distribution mirror sit use JSON All mirror site provide set API function include browse distribution tag user well retrieve list mirror sit among information relate distribution central API server one specific functionality include fulltext search source view access list PGXN user"
+    },
+    {
+        "progweb_cat": "Other,Ratings",
+        "api_name": "MyShows",
+        "id": 13987,
+        "progweb_descr": " MyShows Russian site allow user view rate television show online MyShows API allow developer access search show name id genre popularity Developers also authenticate MyShows user provide ability browse rate show individual episode within application API authenticate basic auth return data JSON Documentation Russian"
+    },
+    {
+        "progweb_cat": "Other,Sales",
+        "api_name": "ThankThank Notes",
+        "id": 14055,
+        "progweb_descr": " ThankThank Notes service sends handwritten thank note client customer thank note customizable send individually bulk ThankThank Notes API alternative ThankThank Notes web form Instead fill web form thank note batch API allow client integrate ThankThank Notes functionality website andor CRM system ThankThank Notes go automatically determine client Public documentation available"
+    },
+    {
+        "progweb_cat": "Other,Postal",
+        "api_name": "PC2Paper Letter Pricing",
+        "id": 14093,
+        "progweb_descr": " PC2Paper website enable user send actual letter card Internet PC2Paper also provide user real letterbox mail arrive letterbox scan make available user read online Letter Pricing API enable user calculate price letter send It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Other,Writing",
+        "api_name": "MediaPiston",
+        "id": 14109,
+        "progweb_descr": " MediaPiston service provide write content ondemand Through pool writer variety subject MediaPiston provide content product description websites article blogposts MediaPiston API allow user integrate content functionality MediaPiston application content publish system Public documentation available interested API contact infomediapistoncom"
+    },
+    {
+        "progweb_cat": "Other,Law",
+        "api_name": "NHXS",
+        "id": 14241,
+        "progweb_descr": " NHXS provider contract compliance pointofservice adjudication workflow automation NHXS API provide programmatic access NHXS business intelligence API RESTful web service allow company utilize platform programming language submit web request data return standard JSON CSV format integrate thirdparty application Full documentation publicly available This allow practice management system vendor clearinghouses data aggregator healthcare delivery system add claim scrub receivable valuation real time adjudication denial management contract compliance contract model value stream"
+    },
+    {
+        "progweb_cat": "Other,Law",
+        "api_name": "Copyscape",
+        "id": 15767,
+        "progweb_descr": " Copyscape Premium API allow search web website copy content API specification available account"
+    },
+    {
+        "progweb_cat": "Other,Science",
+        "api_name": "Grid5000",
+        "id": 14256,
+        "progweb_descr": " Grid5000 scientific instrument study large scale parallel distribute system suite APIs design ease script provide good access grid functionalities A description APIs follow Metrology API Provides key metric Grid5000 node memory cpu usage bytes byte Jobs API Allows user submit job Grid5000 site Monitoring API Provides status Grid5000 nod Reference API Provides reference data Grid5000 list sit cluster node environment Deployments API Allows user deploy specific environment Grid5000 nod Users API Offers functionality manage Grid5000 user account API use RESTful call response format XML JSON PDF HTML Full documentation require registration"
+    },
+    {
+        "progweb_cat": "Other,Science",
+        "api_name": "XNAT",
+        "id": 14871,
+        "progweb_descr": " XNATs API enable external application easily access XNAThosted data XNAT open source image informatics platform design facilitate management exploration medical imaging relate data API use RESTful protocol response format XML JSON CSV HTML"
+    },
+    {
+        "progweb_cat": "Other,Science",
+        "api_name": "GenomeQuest",
+        "id": 15068,
+        "progweb_descr": " GenomeQuest biological sequence data management platform particularly useful investigator use next generation sequence technology Using live version GenomeQuest available mygenomequestcom use URL API HTx access GenomeQuest object method"
+    },
+    {
+        "progweb_cat": "Other,Customer Service",
+        "api_name": "LogMeIn Rescue",
+        "id": 14317,
+        "progweb_descr": " LogMeIn Rescue provide solution remote control file share system management data backup business collaboration ondemand customer support PCs server Macintosh computer smartphones connect device LogMeIn Rescue API allow get account information real time control session manage user"
+    },
+    {
+        "progweb_cat": "Other,Billing",
+        "api_name": "Guidewire",
+        "id": 14771,
+        "progweb_descr": " Guidewire Software exclusively serve PC insurance industry They build implement core system insurance carrier run business Guidewire provide variety integration mechanism include web service API Data exchange format include ACORD XML IAA These flexible option enable one hundred live production integration current customer site include integration dozen legacy mainframe system Public documentation available API"
+    },
+    {
+        "progweb_cat": "Other,Genealogy",
+        "api_name": "Geni",
+        "id": 14885,
+        "progweb_descr": " Geni website center around genealogy Users create family tree invite relative help Geni API provide API user access Genis data If data public API key require access Only private data require authentication access Data return JSON XML format"
+    },
+    {
+        "progweb_cat": "Other,Text-to-Speech",
+        "api_name": "Voice Delivery System",
+        "id": 15040,
+        "progweb_descr": " Voice Delivery System provide voice synthesis API text speech application API use JavaScript require API key free registration Flash use play result audio page documentation Japanese"
+    },
+    {
+        "progweb_cat": "Other,Collaboration",
+        "api_name": "Twiddla",
+        "id": 15047,
+        "progweb_descr": " Twiddla realtime online collaboration tool Twiddlas API let user host Twiddla meeting website Users create new meeting fly embed page like Users disable bit dont want see show logo instead This RESTful API return result XML CSV"
+    },
+    {
+        "progweb_cat": "Other,Addresses",
+        "api_name": "Data8 Country Detection",
+        "id": 15057,
+        "progweb_descr": " Data8s Country Detection service quickly identify country address optionally email telephone number API allow get correctly format country name without force customer select country list"
+    },
+    {
+        "progweb_cat": "Other,Blogging",
+        "api_name": "Wordy",
+        "id": 15063,
+        "progweb_descr": " With Wordy publish confidence Wordy provide standardized edit service include check grammar spell punctuation structure Wordy API allow developer interact programmatic way Wordyï¿½s website It build seamless integration professional copyediting platform"
+    },
+    {
+        "progweb_cat": "Other,Gambling",
+        "api_name": "Smarkets",
+        "id": 15108,
+        "progweb_descr": " Smartkets API allow user get live price political market either JSON XML Smartkets prediction market provied social way bet sport TV show politics Smarkets fill fan set odds bet API give user access Smartkets data Full documentation available"
+    },
+    {
+        "progweb_cat": "Other,Games",
+        "api_name": "Airbana",
+        "id": 15113,
+        "progweb_descr": " Airbana database contain information Airsoft Skirmish Retail sit globally also event listing live weather report live price information From Wikipedia Airsoft recreational activity replica firearm shoot plastic round use personal collection game like Paintball professional training purpose Military Simulations Police training exercise Airbana API offer developer access database application RESTful interface Data return via XML JSON PHP"
+    },
+    {
+        "progweb_cat": "Other,Games",
+        "api_name": "BigDoor",
+        "id": 15158,
+        "progweb_descr": " BigDoor API offer web developer help building gamelike mechanic loyalty program sit application point badge level leaderboards virtual currency virtual good"
+    },
+    {
+        "progweb_cat": "Other,Avatars",
+        "api_name": "SitePal Server",
+        "id": 15133,
+        "progweb_descr": " SitePal service allow user create speak avatar website empower online communication This API allow user remotely manage user account avatar medium asset account setting achieve integration application functionality SitePal Server API Capabilities include Account Authentication function Account Management function User Management function scene management Functions Background Audio Management function TTS creation Management function It use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Other,Personal Information Management",
+        "api_name": "Zeo Sleep Measurement",
+        "id": 15134,
+        "progweb_descr": " Zeo API set web service allow third party develop application allow user full access individual sleep record A set operation provide use HTTP return data either JSON XML format All API operation must authorize authenticated use OAuth Using Zeo API developer ability access nightly sleep data include ZQ score total sleep time number time woken amount REM light deep sleep Additionally developer able display sleep graph show user slept 5minute increment throughout night"
+    },
+    {
+        "progweb_cat": "Other,Personal Information Management",
+        "api_name": "mecanbe",
+        "id": 15796,
+        "progweb_descr": " mecanbe API let set goal track progress With API set start end date set update frequency track historical success rate much"
+    },
+    {
+        "progweb_cat": "Other,Barcodes",
+        "api_name": "Stickybits",
+        "id": 15138,
+        "progweb_descr": " Stickybits API enable developer write read bit code barcode QR code etc Stickybits platform enable anybody build application connect digital physical world Stickybitscom allow people attach digital content barcodes When barcodes scan via iPhone Android apps ’ see content attach Users also notify barcode scan new attachment even change location Using API developer upload digital content bit barcode sequence character view bit attach barcode sequence character generate unique barcodes use system call almost entire API enable interact stickybits system view user friending scan etc API use RESTful architecture"
+    },
+    {
+        "progweb_cat": "Other,Mapping",
+        "api_name": "OpenGeoTracker",
+        "id": 15152,
+        "progweb_descr": " This API let user monitor GPSphone Users full control data Both client software phone server software free open source OpenGeoTracker open source platform client server log retrieve display GPS data It open source client server allow user set server control data It use RESTful call response format CSV KML"
+    },
+    {
+        "progweb_cat": "Other,Magazines",
+        "api_name": "EzineArticles",
+        "id": 15165,
+        "progweb_descr": " EzineArticles provide array user submit article From website EzineArticles Application Programming Interface API allow developer connect application EzineArticles database API give programmer ability retrieve article information author category They also create account submit new article"
+    },
+    {
+        "progweb_cat": "Other,Business",
+        "api_name": "Cacoo",
+        "id": 15185,
+        "progweb_descr": " Cacoo user friendly online draw tool allows create variety diagram site map wire frame UML network chart"
+    },
+    {
+        "progweb_cat": "Other,Business",
+        "api_name": "Wufoo",
+        "id": 15875,
+        "progweb_descr": " From site Wufoo Internet application help anybody build amazing online form When design form Wufoo automatically build database backend script need make collect understand data easy fast fun"
+    },
+    {
+        "progweb_cat": "Other,Accounts",
+        "api_name": "AWS Identity and Access Management",
+        "id": 15207,
+        "progweb_descr": " AWS Identity Access Management IAM web service enables Amazon Web Services AWS customer manage Users User permission AWS Account With user access feature list user retrieve document specify user create access key AWS Identity Access Management IAM enable developer create manage Users umbrella AWS Account IAM use conjunction AWS product control access AWS resource within AWS Account It use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Other,Diagrams",
+        "api_name": "Gliffy",
+        "id": 15371,
+        "progweb_descr": " Use Gliffy flowcharting diagram API include flowchart diagram edit feature software After user create diagram typically want show image diagram somewhere app Document Entity enable get copy diagram JPEG PNG format Use Account entity organizational entity primarily bill track usage Use Document entity access single Gliffy document diagram User entity give access name user member account Use Folder entity organize document control user permission"
+    },
+    {
+        "progweb_cat": "Other,Graphics",
+        "api_name": "Straight-Street",
+        "id": 15437,
+        "progweb_descr": " This RESTful API straightstreetcom symbol set It allow program search access symbol user use interactive gallery web page"
+    },
+    {
+        "progweb_cat": "Other,Enterprise",
+        "api_name": "Sourcemap",
+        "id": 15501,
+        "progweb_descr": " Sourcemap project MIT Media Lab It tool producer business owner consumer understand impact supply chain service let simulate impact manufacture transport use throw away product use LifeCycle Assessment calculator This webbased tool us link data geological geographic resource Each Sourcemap use help market socially environmentally conscious product buy carbon offset"
+    },
+    {
+        "progweb_cat": "Other,Health",
+        "api_name": "SweetSpot",
+        "id": 15535,
+        "progweb_descr": " SweetSpot online daibetes management program SweetSpot allow user upload blood sugar reading meter email cell phone Once blood sugar uploaded information accessible internet RESTful API allow user pull information SweetSpot directly excel spreadsheet view recent blood suger high low news reader Default response format XML JSON RSS Atom"
+    },
+    {
+        "progweb_cat": "Other,B2B",
+        "api_name": "Bizo BizAudience",
+        "id": 15542,
+        "progweb_descr": " Bizo BizAudience API provide realtime insight business audience visit website By query API receive anonymous business demographic user site realtime site This information include industry company size job function seniority information"
+    },
+    {
+        "progweb_cat": "Other,Astrology",
+        "api_name": "The Astrologer",
+        "id": 15560,
+        "progweb_descr": " Founded online astrology pioneer Kelli Fox Astrologer offer APIs complete range astrological content service daily monthly horoscope text audio video format fulllength astrology report"
+    },
+    {
+        "progweb_cat": "Other,Shipping",
+        "api_name": "Pathfinder",
+        "id": 15856,
+        "progweb_descr": " From site PathfinderXML enable improve effectiveness air cargo information system Web Services integration With PathfinderXML Leverage proprietary rout notification aggregation intelligence technology"
+    },
+    {
+        "progweb_cat": "Other,Database",
+        "api_name": "TeamDesk",
+        "id": 15865,
+        "progweb_descr": " From site TeamDesk host webbased system empowers team easytodesign web base database application predefined solution effective management share business information"
+    }
+]

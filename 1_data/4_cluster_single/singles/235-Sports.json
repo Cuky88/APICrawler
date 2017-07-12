@@ -1,0 +1,1412 @@
+[
+    {
+        "progweb_cat": "Sports,Mapping",
+        "api_name": "RunKeeper Health Graph",
+        "id": 19,
+        "progweb_descr": " RunKeeper online health fitness track service build top Health Graph Health Graph allow user keep track workouts nutrition information sleep body measurement data blood glucose level much one place Users authorize large grow number health fitness partner apps device read write data Health Graph behalf This allow user see every aspect health correlate others RunKeepers Health Graph API provide developer access Health Graph information include thing user profile fitness activity nutrition information weight information"
+    },
+    {
+        "progweb_cat": "Sports,Mapping",
+        "api_name": "Garmin MotionBased",
+        "id": 410,
+        "progweb_descr": " From site MotionBased web application translates GPS data functional analysis online map endurance outdoor athlete Coming Fall 2007 Currently Web Services API development We want get word since perfect match Garmin Communicator Plugin API We post announcement component become available test"
+    },
+    {
+        "progweb_cat": "Sports,Mapping",
+        "api_name": "WindOnTheWater.com",
+        "id": 8885,
+        "progweb_descr": " WindOnTheWatercom mashup data realtime public wind sensor Google Maps It build resource kiteboarding windsurf sail windbased activity WindOnTheWatercom expose mash data free API Through simple HTTP call developer automate access wind data tide webcams filterable region specify location"
+    },
+    {
+        "progweb_cat": "Sports,Mapping",
+        "api_name": "nNetis Tennis Database",
+        "id": 11425,
+        "progweb_descr": " nNetis provide database tennis court tennis club tennis shop around country data present map form detail include number court location court light indoor type court location pro shop service shop offer nNetis Tennis Database API enable user utilize facility database thirdparty websites Examples usage include add search box find local court add localized facility map API JSON base free charge within reasonable usage limit"
+    },
+    {
+        "progweb_cat": "Sports,Mapping",
+        "api_name": "OpenCaching",
+        "id": 11867,
+        "progweb_descr": " OpenCaching API give user ability query data store OpenCachingcom database service also authorize user update write database API use REST call return JSON XML plain text depend data request send OpenCaching service community base geocaching service user generate content site subsidiary Garmin Ltd"
+    },
+    {
+        "progweb_cat": "Sports,Mapping",
+        "api_name": "Alpinaut",
+        "id": 14894,
+        "progweb_descr": " Alpinaut route diagram search engine It contain usercontributed adventure sport route organize sport example find place rock climb snow shoe Using Alpinaut API application search location find nearby point interest"
+    },
+    {
+        "progweb_cat": "Sports,Mapping",
+        "api_name": "RunSaturday",
+        "id": 15098,
+        "progweb_descr": " RunSaturday website design assist achieve training exercise fitness goal whether new personal best time half marathon lose weight create track wonderful walk mountain You use wide range GPS enable track device phone log activity benefit lot tool analyze share data across blog online train log website"
+    },
+    {
+        "progweb_cat": "Sports,Mapping",
+        "api_name": "Map My Tracks",
+        "id": 15369,
+        "progweb_descr": " Map My Tracks easy way accurately track share sport activity sport event live In realtime friend spectator coach sponsor follow action happen Map My Tracks turn mobile phone personal realtime GPS track device Using mobile phone builtin GPS external GPS receiver map track location realtime Map My Tracks bring new insight sporting activity provide competitive edge make train fun Map My Tracks let friend competitor parent know right Map My Tracks provide simple interface allow developpers access update activity data You use API make widget application seamlessly integrate Map My Tracks service"
+    },
+    {
+        "progweb_cat": "Sports,News Services",
+        "api_name": "ESPN",
+        "id": 21,
+        "progweb_descr": " ESPNcom online platform multiple sport news statistic team information player information ESPNcom offer sport score standing statistic variety sport ESPNcom API allow developer access integrate data ESPNcom application create new application Some example API method include retrieve sport information team information league information Interested developer sign API key httpdeveloperespncommemberregister"
+    },
+    {
+        "progweb_cat": "Sports,News Services",
+        "api_name": "XML Team FlexSport",
+        "id": 956,
+        "progweb_descr": " XML Team Solutions sport news data provider offering various solution business need syndicate content These solution include sport feed fantasy game player analysis well local content creation XML Team Solutions offer syndicate feed cover major North American sport league event FlexSport API let user query site database available XML feed Documentation publicly available"
+    },
+    {
+        "progweb_cat": "Sports,News Services",
+        "api_name": "Sportradar Content",
+        "id": 4933,
+        "progweb_descr": " Sportradar Content API let developer integrate application Sportradar Content database enable access information news injury relate news team trade rumour use RESTful method Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports,News Services",
+        "api_name": "DancesportInfo",
+        "id": 8622,
+        "progweb_descr": " DancesportInfo international dance information website available visitor around world 19 language It provide current news interview professional dancer coach along active forum contribution thousand register user DancesportInfo maintain extensive database couple individual dancer dancer look partner competition result competition photograph Developers access much sit ample information programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Sports,News Services",
+        "api_name": "Who's Hurt",
+        "id": 11171,
+        "progweb_descr": " Whoâ€™s Hurt injury report service professional sport league include football baseball basketball hockey soccer league Whoâ€™s Hurt SOAP API allow developer embed injury report websites ability customize response return league team specific data"
+    },
+    {
+        "progweb_cat": "Sports,News Services",
+        "api_name": "Washington Post NFL Statistics",
+        "id": 12215,
+        "progweb_descr": " Washington Post newspaper Washington DC Washington Post NFL Statistics API allow developer access integrate statistic National Football League NFL application create new application Example API method include retrieve player player information retrieve team statistic information retrieve information game"
+    },
+    {
+        "progweb_cat": "Sports,News Services",
+        "api_name": "USA Today Sports Salaries",
+        "id": 14826,
+        "progweb_descr": " USA Todays sport databases contain information salary baseball football basketball hockey player past year since 1988 baseball around 2000 others In addition salary extensive information MLB NFL NBA NHL available include player position team dataThe USA Today Salaries API allow developer programmatically access USA TODAY Sports Salaries database"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Active.com",
+        "id": 84,
+        "progweb_descr": " Activecom API provide readonly access data produce system within Active Network This include thing like run event tennis tournament triathlons high school sport rank data campground availability data 97 US Canadas national stateprovincial park Assets include event race tournament facility class league Several site include livestrongcom ESPN active consumer API All Activecom APIs readonly return public data As result security measure SSL Oauth require API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "TeamSnap",
+        "id": 1126,
+        "progweb_descr": " TeamSnap online service manage organize team sport group Services include event schedule track payment fee area team photo file share capability TeamSnap API provide access site functionality API currently private Developers interested contact TeamSnap email provide TeamSnap currently develop new API private beta No public documentation available"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "MapMyRun",
+        "id": 1179,
+        "progweb_descr": " Use MapMyRun API connect directly MapMyRuncom access data account Use Contact form sign obtain doc"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Nike Plus",
+        "id": 1356,
+        "progweb_descr": " Nike service let users track run statistic improvement time track individual goal along way Users share train information others setup virtual race friend compare time course Developers use API access raw data run It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Sports Open Data League Details",
+        "id": 3303,
+        "progweb_descr": " League Details REST API provide soccer information italian league Serie A It allow retrieve league detail like identifier slug nation federation Sports Open Data provide access information season detail round match available player"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket ISL Football Season",
+        "id": 3547,
+        "progweb_descr": " This REST API allow get information Indian Super league Football Soccer season include match team player round Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Player Stats",
+        "id": 3740,
+        "progweb_descr": " This REST API allow access stats player specify league board Roanuz Cricket APIs provide real time data metric various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Schedule",
+        "id": 3741,
+        "progweb_descr": " This REST API allow get schedule give month give season Roanuz Cricket APIs They provide real time data stats metrics various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Recent Seasons",
+        "id": 3742,
+        "progweb_descr": " This REST API allow get list recent season It include season last two month current month next month Roanuz Cricket APIs provide real time data stats metrics various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Recent Matches",
+        "id": 3743,
+        "progweb_descr": " This REST API allow get list world wide recent match It also provide recent match specific season Roanuz Cricket APIs provide real time data stats metrics various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Ball By Ball",
+        "id": 3744,
+        "progweb_descr": " This REST API allow get detail ball request response equal 1st 1st inning key provide request Roanuz Cricket APIs provide real time data stats metrics various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Match",
+        "id": 3745,
+        "progweb_descr": " This REST API allow get full detail match include venue status player team Roanuz Cricket APIs provide real time data stats metrics various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket",
+        "id": 3746,
+        "progweb_descr": " This REST API allow get live cricket score various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz Cricket APIs provide real time data stats metric Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket News Aggregation",
+        "id": 3759,
+        "progweb_descr": " This REST API allow get information season match team player round group Roanuz Cricket APIs provide real time data metric various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Match Over Summary",
+        "id": 3760,
+        "progweb_descr": " This REST API allow get summary over match TEST match response may big Its useful showing comparison score worm chart Roanuz Cricket APIs provide real time data metric various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Season Team",
+        "id": 3761,
+        "progweb_descr": " This REST API allow get information team player season team Roanuz Cricket APIs provide real time data metric various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Season Points",
+        "id": 3762,
+        "progweb_descr": " This REST API allow get point table give season Roanuz Cricket APIs provide real time data metric various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Season Stats",
+        "id": 3768,
+        "progweb_descr": " This REST API allow access stats give season series Responses Fielding Batting Bowling Total Number Fours Sixes Runs score season Roanuz Cricket APIs provide real time data metric various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Season",
+        "id": 3769,
+        "progweb_descr": " This REST API allow get information season match team player round group Roanuz Cricket APIs provide real time data metric various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Authentication",
+        "id": 3770,
+        "progweb_descr": " This REST API allow authenticate Roanuz Cricket APIs real time data metric various league include International ICC Indian Premier League IPL T20 Big Bash League Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket Football Match",
+        "id": 3795,
+        "progweb_descr": " This REST API allow get full detail Indian Super league Football Soccer match Roanuz Match API provide real time data stats metric Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Roanuz Cricket ISL Football",
+        "id": 3796,
+        "progweb_descr": " This REST API allow get live Football Soccer score Roanuz Football API provide real time data stats metric Indian Summer League 2015 Roanuz software company specialize AI web mobile apps"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Cric Ball By Ball",
+        "id": 3804,
+        "progweb_descr": " This JSON base API allow retrieve list Cricket Ball By Ball play Wherrelzs Cric Ball By Ball Restful API live data update"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Cric Match List",
+        "id": 3806,
+        "progweb_descr": " This JSON base API allow retrieve list late cricket match Wherrelzs Cric Match Restful API live data update"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Sportradar WNBA",
+        "id": 4927,
+        "progweb_descr": " Sportradar WNBA API allow developer integrate application Sportradar WNBA Womens National Basketball Association database use RESTful method Developers access data game boxscores playbyplay league information schedule player information API Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Sportradar NCAA Football",
+        "id": 4928,
+        "progweb_descr": " Sportradar NCAA Football API let developer integrate application Sportradar NCAA National Collegiate Athletic Association football database use RESTful method Available data include weekly schedule season schedule game statistic rank roster Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Sportradar NBA",
+        "id": 4931,
+        "progweb_descr": " Sportradar NBA API let developer integrate application Sportradar NBA database use RESTful method Retrieve schedule standing box score game summaries National Basketball Association event Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Sportradar NCAA Women's Basketball",
+        "id": 4935,
+        "progweb_descr": " Sportradar NCAA Womens Basketball API allow developer integrate application NCAA Womens Basketball database use RESTful method Developers retrieve data team player league statistic Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Sportradar NCAA Men's Basketball",
+        "id": 4936,
+        "progweb_descr": " Sportradar NCAA Mens Basketball let developer integrate application Sportradar NCAA database enable access information eh NCAA mens Basketball include team schedule player profile rank tournament information use RESTful method Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Sportradar MLB",
+        "id": 5453,
+        "progweb_descr": " Sportradar MLB API let developer integrate application Sportradar MLB database use RESTful method MLB API provide developer daily baseball box score league team player statistic playbyplay information schedule Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Sportradar NHL",
+        "id": 5458,
+        "progweb_descr": " Sportradar NHL API allow developer integrate application Sportradar NHL database use RESTful method Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Sportradar MMA",
+        "id": 5465,
+        "progweb_descr": " Sportradar MMA Mixed Martial Arts API allow developer integrate application Sportradar MMA database use RESTful method Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Kimono World Cup",
+        "id": 7180,
+        "progweb_descr": " World Cup API provide Kimono collect data across internet provide uptodate information soccer football team player match 2014 World Cup It also include past player performance information player club team Users get unlimited access API log Kimono Labs account"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "World Cup in JSON",
+        "id": 7202,
+        "progweb_descr": " World Cup JSON API scrap current match result World Cup API retrieve information current day soccer match match progress match give country result team list team participate World Cup data football match"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Club Speed",
+        "id": 8164,
+        "progweb_descr": " Club Speed provide race time facility management system Kart race facility Services include time HR financial report schedule social network integration online management portal Club Speed API expose serviceâ€™s rental karting data allow facility programmatically access data Exposed resource include racer information race result track information"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Jamaica Sports Data",
+        "id": 8165,
+        "progweb_descr": " SportsDataorg home Jamaica Sports Data API REST web service capable deliver Jamaican sport information API deliver data cricket track field football netball Datasets include information describe event performance institution athlete infrastructure"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Cricscore",
+        "id": 8166,
+        "progweb_descr": " Cricscore free API delivers near real time cricket score API accept GET call return JSON format content Cricscore able deliver list available match well score"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Scorescard",
+        "id": 8169,
+        "progweb_descr": " Scorescard free API provide programmatic access live sport score APIâ€™s initial launch include cricket score score football tennis sport expect added soon API able deliver list current match score specify match"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "liftie.info",
+        "id": 10031,
+        "progweb_descr": " service provide updated lift status ski resort across North America Europe It aggregate number separate data feed report lift operation service select resort along detail lift ticket price discount offer resort Data feed resort add API method support submission request specify resort name US state Canadian province jurisdiction Methods return list operating status report lift specify resort resort specify location Data refreshes every 65 second"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "SpeedskatingResults.com",
+        "id": 10873,
+        "progweb_descr": " SpeedskatingResultscom provide long track metric competition result oval worldwide SpeedskatingResultscom API provide developer access result data include skaterâ€™s personal record season best competition list seed time Results XML format"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Track & Field Results Reporting System",
+        "id": 11407,
+        "progweb_descr": " Track Field Field Results Reporting System TFRRS official home college track field performance list meet result season best athlete track API allow meet manager connect TFRRS login submit performance It also allow user download entry With API developer integrate TFRRS meet management software API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "ESPN ALPS",
+        "id": 11861,
+        "progweb_descr": " ESPN ALPS score API Basketball Lacrosse allow user submit live scoring data ESPN API hold competition developer 10k cash prize service use SOAP call return JSON API authentication use access key share secret"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Disc Golf Course Review",
+        "id": 11864,
+        "progweb_descr": " DGcoursereviewcom provide extensive database disc golf course across United States accessible DGCourseReview API This REST API allow user build course detail rating hole information data site application An API key require use display requirement must meet API use grant API usage limit set 100 call per day beta development app finalize plan must select governing usage"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Global Sports Media",
+        "id": 13640,
+        "progweb_descr": " GSMâ€™s data feed allows easily store content within system platform Our feed provide uniform structure across different sport provide allow easy integration API provide large collection football soccer coverage market 850 leaguescups offer Additional sport include American Football Baseball Basketball Ice Hockey Golf Cricket Rugby Tennis Motorsports Handball Volleyball Australian Football Along fixturesschedules live score result also offer team player statsprofiles historical datastats odds 200 bookmaker newsvideo feed data syndicate web pull use Akamai CDN A variety dynamic XML call parameter available content retrieval base data file need file size minimize required Customers give access Client Portal provide indepth documentation DTDâ€™s sample code examples Additional overview content available view realtime along coverage competition cover globally easy plan future event coverage Our support staff duty 247365 help issue test integration golive"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Global Tennis Network",
+        "id": 14020,
+        "progweb_descr": " Global Tennis Network online community network tennis player Global Tennis Network help tennis player tennis fan set tennis tournament tennis league base network tennis ladder well find resource tennis like court location information tennis equipment Global Tennis Network API allow developer access functionality information within Global Tennis Network Some example API method include find tennis tournament ladder user submit challenge user access ladder standing"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "FishingBuddy",
+        "id": 14042,
+        "progweb_descr": " FishingBuddy website devote fishing huntingrelated article guide water level report photos video FishingBuddy content limit North Dakota FishingBuddy part Total Outdoor Network TON offer API thirdparty developer access FishingBuddy content well publish site API use HTTP protocol return responses REST JSON"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Team Cowboy",
+        "id": 14543,
+        "progweb_descr": " Team Cowboy free web site let users manage organize sport team Team Cowboy offer REST API allow developer create mobile desktop software application interact Team Cowboy platform These application leverage Team Cowboys extensive functionality manage access social sport team group API comprise various method retrieve create update delete information user team Team Cowboy Responses format JSON PHP"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "FFindr",
+        "id": 14948,
+        "progweb_descr": " FFindr web service contain data upcoming Frisbee event tournament Frisbee team player link FFindr API allow developer access FFindrs data application"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Challonge",
+        "id": 14950,
+        "progweb_descr": " Challonge service create tournament bracket Users make single elimination double elimination roundrobin bracket addition FIDEbased Swiss system Challonge API expand tournament creation control programmatic level You create tournament fly report score directly application This allow define score reporting permission fit user model provide seamless tournament experience user"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "openfooty",
+        "id": 15082,
+        "progweb_descr": " Openfooty offer late football soccer video community proprietary dreamfooty fantasy football game user profile fan trait fan valuation leaderboards openfooty API make footytube technology platform available developer editor publisher footy addict want dig deep world football soccer API offer via RESTful protocol return data JSON PHP format"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Dilogs",
+        "id": 15743,
+        "progweb_descr": " Use Dilogs API get dive post dive get event get user profile generally thing programmatically main site Some method require authentication getSitesNear Dilogs keep track dive easily well socialize others enjoy water You access profile anywhere use PC mobile device Internet connection In addition API KML option also available access user public information dive site Also file visualize Google Earth"
+    },
+    {
+        "progweb_cat": "Sports",
+        "api_name": "Cypress Golf",
+        "id": 15848,
+        "progweb_descr": " From site httpwwwcypressgolfsolutionscom Cypress Golf Solutions Website operator golf travel industry look new way attract retain customer grow revenue time Cypress offer popular private label tee time reservation engine available pay high net commission provider Access Cypress API design custom website page layout book process Our API allow maintain total control tightly integrate system"
+    },
+    {
+        "progweb_cat": "Sports,Auto",
+        "api_name": "Ergast",
+        "id": 427,
+        "progweb_descr": " Ergast Motor Racing Data API provide historical record motor race data noncommercial purpose API provide data Formula 1 Formula E series start World Championships 1950 2014 respectively New Now provide Formula One lap time pit stop data 2011 season onwards"
+    },
+    {
+        "progweb_cat": "Sports,Auto",
+        "api_name": "MotorsportReg.com",
+        "id": 442,
+        "progweb_descr": " MotorsportRegcom membership management event registration service motorsport drive social event organize club racetrack sanction body around world We make easy fun organizer manage event automate task improve accuracy save time help enthusiast find great event attend Events include autocross drive school HPDE club race test day rally organize group like SCCA BMW CCA PCA Audi Club Miller Motorsports Park Circuit Americas"
+    },
+    {
+        "progweb_cat": "Sports,Auto",
+        "api_name": "braapDB",
+        "id": 3078,
+        "progweb_descr": " braapDB API gateway database various extreme offroad sport include ATV Dirt Bike Jeep4x4 Side Side SxS well Snowmobile park It facilitate share usergenerated crowdsourced data offroad park braapDB support HTTP JSONformatted request well JSON XMLformatted response"
+    },
+    {
+        "progweb_cat": "Sports,Games",
+        "api_name": "Yahoo Fantasy Sports",
+        "id": 444,
+        "progweb_descr": " Yahoo Fantasy Sports world large fantasy sport provider allow user compete use statistic realworld competition Yahoo Fantasy Sports API provide rich data league team player information This data use build noncommercial tool application help analyze draft result review free agent optimize current roster apps Yahoo Fantasy Sports API utilize Yahoo Query Language YQL mechanism access Yahoo Fantasy Sports data return data XML JSON format"
+    },
+    {
+        "progweb_cat": "Sports,Games",
+        "api_name": "Leaguevine",
+        "id": 10460,
+        "progweb_descr": " Leaguevine online mobile platform allow user create personalized sport profile add statistic interact Leaguevine user Leaguevine API allow developer access integrate functionality Leaguevine application create new application Some example API method include retrieve manage league player information manage account information retrieve information team league game"
+    },
+    {
+        "progweb_cat": "Sports,Entertainment",
+        "api_name": "Italy SerieA League Live and Historical Results",
+        "id": 662,
+        "progweb_descr": " Italy SerieA League Live Historical Results API allow developer retrieve live Serie A result data include goal score lineup substitute substitution yellow red card statistic Developers get result every match occur since 198687 season"
+    },
+    {
+        "progweb_cat": "Sports,Entertainment",
+        "api_name": "Euro Cup 2016 Live Scores",
+        "id": 3992,
+        "progweb_descr": " Euro Cup Live Scores API provide realtime track Euro Cup 2016 ’ match result statistic Users view live statistic score ontarget goal attempt offtarget goal attempt corner kick free kick penalty kick yellow card red card player substitution playtime countdown API welldocumented full release conveys request response JSON format It also accompany repository write Curl Net Java ObjectiveC PHP Node Python Ruby language"
+    },
+    {
+        "progweb_cat": "Sports,Entertainment",
+        "api_name": "Athlinks",
+        "id": 11599,
+        "progweb_descr": " service compiles result endurance race access athlete others interested outcome It accumulate race completion time result competitor provide complete listing along athlete profile social networking function interaction API method support stream race result either race whole race enter specified athlete Methods also support retrieval result specify competitor rival include headtohead matchup athlete specify name email address system ID value API also allow retrieval result specify race unclaimed result competitor track system"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Sportradar",
+        "id": 668,
+        "progweb_descr": " Sportradar API allow developer integrate application Sportradar service use RESTful method Sportradar provider sport data content 40 different sport They also official partner NBA NFL NHL NASCAR"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Premier League Live Scores",
+        "id": 677,
+        "progweb_descr": " Premier League Live Scores API allow developer retrieve historical data well current season result scorer lineups substitute event statistic much live update Premier League professional English football league This service provide independent developer"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "La Liga Live Scores",
+        "id": 678,
+        "progweb_descr": " La Liga Live Scores API allow developer retrieve either live result current season scorer league table More feature add near future La Liga top professional division Spanish football league system This service provide independent developer"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Bundesliga Live Scores",
+        "id": 690,
+        "progweb_descr": " Bundesliga Live Scores API allow developer integrate service application enable user retrieve either live result current season scorer league table Bundesliga top professional division German football league system This service provide independent developer"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Enetpulse Sports Data",
+        "id": 1914,
+        "progweb_descr": " Enetpulse Sports Data API integrate live score 30 sport include soccer American football baseball basketball cycle horse race motor sport swim volleyball Data available XML JSON format With API developer optimize need medium game automate data filter content integrate 17 language"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Gracenote On Entertainment Sports Data",
+        "id": 2294,
+        "progweb_descr": " This API design ingestion extend sport event data link Gracenote program IDs SportsDirect Livescores feed statistical data It design enable initial database population subsequent ondemand update referential sport data This include Major League Baseball NFL NCAA Football NCAA Basketball NHL NBA MLS Gracenote provide Music TV Movie Sports data tech power entertainment product"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Champions League Live Scores",
+        "id": 3016,
+        "progweb_descr": " Champions League Live Scores REST API allow developer access integrate Europa League Live Scores application main API method retrieve current season result scorer lineups substitute event statistic live update EUFA Champions League"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Cricket [Unofficial]",
+        "id": 4525,
+        "progweb_descr": " Cricket Unofficial API project dedicate provide easy use RESTful Cricket API application developer Currently Match API run Player API available soon This API provide live Cricket score along detailed information particular cricket match"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Sportradar Olympics",
+        "id": 4946,
+        "progweb_descr": " Sportradar Olympics API allow developer integrate application Sportradar Olympics database use RESTful method Developers access data country event result schedule medal count Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Sportradar NFL",
+        "id": 4948,
+        "progweb_descr": " Sportradar NFL API let developer integrate application Sportradar NFL database use RESTful method Sportradar official data provider NFL Data include player team league statistic playbyplay realtime game event distance penalty time remain much Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Sportradar Golf",
+        "id": 4949,
+        "progweb_descr": " Sportradar Golf API let developer integrate application Sportradar Golf database use RESTful method Get player tournament information scorecard tee time golfer statistic API Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Sportradar Soccer",
+        "id": 4950,
+        "progweb_descr": " Sportradar Soccer API allow developer integrate application Sportradar Soccer database use RESTful method Data provide include team profile player ranking standing match summary Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Sportradar NASCAR",
+        "id": 4951,
+        "progweb_descr": " Sportradar NASCAR API allow developer integrate application Sportradar NASCAR database use RESTful method Sportradar official data provider NASCAR Data provide include driver track schedule entry list race leaderboard driver rookie owner manufacturer standing qualify leaderboard Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Kart Laps - Club Speed Customer",
+        "id": 6309,
+        "progweb_descr": " Providing access local karting raceway Club Speed time data machinereadable format"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "TipGin",
+        "id": 7854,
+        "progweb_descr": " TipGin service catalogue soccer preview odds live score across web We offer collection soccer XML data feed include Live Score Schedules Odds Comparison Match Previews Predictions All feed update every 5to10 second fully integrable guaranteed 9999 server uptime"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "America's Cup Data",
+        "id": 8484,
+        "progweb_descr": " Americas Cup Data API provide access live stream race data developer race data include live race information various instrument reading boat Developers access boat location boat status race status mark round Interested developer must request API key send email opendataamericascupcom"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "Infostrada Sports",
+        "id": 12216,
+        "progweb_descr": " Infostrada Sports online service provide variety data information various sport Information include sport publish right distribute sport content general sport information include information 2014 Winter Olympics Infostrada Sports API allow developer access integrate functionality data Infostrada Sports application create new application data retrieve various language Some example API method include retrieve sport list retrieve match game information retrieve sport score"
+    },
+    {
+        "progweb_cat": "Sports,Data",
+        "api_name": "The Sports Network",
+        "id": 13054,
+        "progweb_descr": " Sports Network TSN sport information service cover popular league NFL MLB sport Rugby Cricket Ther service offer user sport news score injury weather report well actually take place Sports Network offer two basic feed option XML SportsML may parse display web site mobile application platform"
+    },
+    {
+        "progweb_cat": "Sports,API",
+        "api_name": "Sports Data",
+        "id": 939,
+        "progweb_descr": " We provider realtime accurate sport statistic sport content Sportradars data coverage include major US sport plus hundred league throughout world Data retrieve Sportsradar via API This data include schedule standing statistic play play live imagesetc API use RESTful call response format XML JSON respectively"
+    },
+    {
+        "progweb_cat": "Sports,API",
+        "api_name": "CricAPI Cricket Score",
+        "id": 5178,
+        "progweb_descr": ""
+    },
+    {
+        "progweb_cat": "Sports,European",
+        "api_name": "XML Soccer",
+        "id": 960,
+        "progweb_descr": " XMLSOCCERcom web service collect soccer data make information available XML subscriber service All functionality web service require unique API key free register API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Sports,European",
+        "api_name": "Visual DataFlex Football Pool",
+        "id": 972,
+        "progweb_descr": " Visual DataFlex Football Pool API provide access information European football soccer team player game Users discover name player team play position red yellow card Users may also retrieve information game result well city stadium game play"
+    },
+    {
+        "progweb_cat": "Sports,European",
+        "api_name": "StatsFC Dugout",
+        "id": 4966,
+        "progweb_descr": " Stats FC Dugout REST API allow developer access integrate functionality Stats FC Dugout applications Some example API method include retrieve footballsoccer match result retrieve league standing retrieve top scorer Stats FC Dugout service provide data footballsoccer across European English Spanish German Italian French league cup competition"
+    },
+    {
+        "progweb_cat": "Sports,Time",
+        "api_name": "Live Scoreboards",
+        "id": 1117,
+        "progweb_descr": " Live Scoreboards provide API delivers realtime football data include live score future fixture team lineups historical statistic Leagues cover include Barclays Premier League League One League Two La Liga Championship"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "Fantasy Football Nerd",
+        "id": 1135,
+        "progweb_descr": " From site API draft ranking FantasyFootballNerdcom Want add fantasy football content Nerd offer 2 different integration option add fantasy football content website Quick easy Javascript integration simply add quick Javascript snippet page site show fantasy football content Experts XML integration little technical knowhow utilize XML API within fantasy football application mash create Nerd database whatever creative idea Create account view instruction"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NBA",
+        "id": 1404,
+        "progweb_descr": " FantasyData NBA API intend provide real time coverage NBA game score team stats player stats Other feature include odds project statsfantasy point FanDuelDraftKings salary well others"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NFL Play-By-Play",
+        "id": 2483,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include PlayByPlay API FantasyData NFL PlayByPlay API conveys weekly seasonal NFL data game Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NFL Projections",
+        "id": 2484,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include NFL Projections API FantasyData NFL Projections API transmit weekly seasonal NFL prediction include projection fantasy defense season stats player game stats player player game stats team player stats week season Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NFL Stats",
+        "id": 2485,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include NFL Stats API FantasyData NFL Stats API support real time transmission daily weekly seasonal NFL statistic include player team game stats player profile box score daily fantasy player fantasy defense game stats fantasy defense season stats fantasy player ADP player team injuries Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NFL Scores",
+        "id": 2486,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include NFL Scores API FantasyData NFL Scores API provide weekly seasonal NFL data score team game stats news player news team team table standing stadium Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NASCAR",
+        "id": 2507,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include NASCAR API FantasyData NASCAR API support real time conveyance weekly seasonal race data include driver driver profile race result race schedule Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData PGA Golf",
+        "id": 2508,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include PGA Golf API FantasyData PGA Golf API support real time conveyance weekly seasonal data PGA Golf tour include player profile stats injury news player news date tour schedule Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData Soccer",
+        "id": 2509,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include Soccer API FantasyData Soccer API support real time conveyance weekly seasonal soccer data include active team player profile box score match day fixture match day stats table standing stadium Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NHL",
+        "id": 2510,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include NHL API FantasyData NHL API support real time conveyance weekly seasonal NHL data include active team player profile box score match day fixture match day stats table standing stadium Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NCAA Basketball",
+        "id": 2520,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include NCAA Basketball API FantasyData NCAA Basketball API support real time conveyance weekly seasonal soccer data include active team player profile team box score box score date match day fixture match day stats table standing stadium Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NCAA Football Stats",
+        "id": 2966,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include NCAA Football Stats API FantasyData NCAA Football Stats API support real time transmission weekly seasonal NFL statistic include player team game stats player profile box score player game stats player player game stats team Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NCAA Football Scores",
+        "id": 2967,
+        "progweb_descr": " FantasyDatacom provide developer fantasy community medium client around world realtime content statistical data different sport discipline Its product portfolio feature variety fantasy sport web application host RESTful APIs include NCAA Football Scores FantasyData NCAA Football Scores API provide weekly seasonal NCAA data include current week season game week match day fixture schedule team table standing stadiums Developers deploy API website automation application integration API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "Europa League Live Scores",
+        "id": 3034,
+        "progweb_descr": " Europa League Live Scores REST API allow developer access integrate Europa League Live Scores application main API method retrieve current season result scorer lineups substitute event statistic live update EUFA Europa League"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData MLB Live",
+        "id": 3310,
+        "progweb_descr": " FantasyData MLB API provide real time coverage MLB game include playbyplay pitchbypitch detail Other feature include odds weather probable pitcher projectedofficial start lineup project statsfantasy point FanDuelDraftKings salary"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "ProBasketBall NBA",
+        "id": 6482,
+        "progweb_descr": " ProBasketBall host database late statistic NBA game Updated daily ProBaseketBall API call retrieve NBA statistic DraftKings salary info SportsVU player track data HTTP call ProBasketBall API retrieve data Teams Players Games Team Stats Player Stats Shot Charts Draft Kings Contests Draft Kings Players Accounts create obtain API key use There current limit request ProBasketBall offer 7 day free trial per month pay subscription afterward"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "NFL",
+        "id": 6776,
+        "progweb_descr": " NFL API provide user access database current past NFL football statistic game information database update every minute even game play Data available go back 2009 NFL API provide answer simple query return large data set indepth use Users get unlimited API call 10 per month"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "FantasyData NFL",
+        "id": 8626,
+        "progweb_descr": " FantasyDatacom provide NFL statistical data fantasy football professional developer fan Products include web service historical team fantasy database download RESTful API FantasyData NFL API provide developer access NFL data include live score season information team stats box score API deliver Apiphany platform offer four subscription level depend data need"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "CBSSports.com",
+        "id": 13304,
+        "progweb_descr": " CBSSportscom offer fantasy sport platform user create manage fantasy team football baseball sport Users create join league competition draft player make player transaction season compete playoff CBSSportscom API allow developer access integrate data functionality CBSSportscom application create new application developer offer CBSSportscom community Some example API method include return draft information status player information team information score standing"
+    },
+    {
+        "progweb_cat": "Sports,Fantasy Sports",
+        "api_name": "MyFantasyLeague",
+        "id": 15760,
+        "progweb_descr": " Use MyFantasyLeaguecom developer program access raw XML RSS data MyFantasyLeaguecoms fantasy football repository American NFL football Get live scoring player score draft result top starter practice report free agent team schedule"
+    },
+    {
+        "progweb_cat": "Sports,Social",
+        "api_name": "Dailymile",
+        "id": 1321,
+        "progweb_descr": " Dailymile social training log runner triathletes cyclist let user create post workouts map workout rout compete user Dailymile provide RESTful API let developer access Dailymile data application"
+    },
+    {
+        "progweb_cat": "Sports,Social",
+        "api_name": "Kimono Sochi Olympics",
+        "id": 7774,
+        "progweb_descr": " Kimono API creator turn websites APIs extract data base pattern screen scrap Kimono Sochi Olympics API allow user access uptodate athlete country sport medal data API use REST call allow user query get information country sport well specific data like age birth date gender height id image name weight medal gold medal silver medal bronze medal total sport country"
+    },
+    {
+        "progweb_cat": "Sports,Social",
+        "api_name": "Oobgolf",
+        "id": 13904,
+        "progweb_descr": " Oobgolf virtual representation social golfer network It provide golfer access proven tool concept social networking consumer submit edited content RESTful API provide user access site data data cover golfer course score"
+    },
+    {
+        "progweb_cat": "Sports,Statistics",
+        "api_name": "Baseball History",
+        "id": 1518,
+        "progweb_descr": " Baseball History API allow developer query SQL Baseball Statistics Database programmatically data MLB player team 1873 2016 This RESTful API create use OData ASPNET Web API 22 Both API database host Windows Azure"
+    },
+    {
+        "progweb_cat": "Sports,Statistics",
+        "api_name": "Cric Player Stats",
+        "id": 3805,
+        "progweb_descr": " This JSON base API allow retrieve list late cricket player stats Wherrelzs Cric Player Stats Restful API live data update"
+    },
+    {
+        "progweb_cat": "Sports,Statistics",
+        "api_name": "StatTrackr",
+        "id": 9397,
+        "progweb_descr": " StatTrackr service design compliment Basketball Shot Tracker HD app allow user record shot replica basketball court track statistic StatTrackr design help user share basketball stats world easily record stats player team StatTrackr API allow developer integrate record statistic website application API platform independent use back statistical data cloud"
+    },
+    {
+        "progweb_cat": "Sports,Statistics",
+        "api_name": "xmlstats",
+        "id": 9743,
+        "progweb_descr": " Xmlstats straightforward API obtain MLB Major League Baseball NBA National Basketball Association statistic either XML JSON format Using RESTful API user retrieve list event give date current standing table box score game team result current season MLB NBA"
+    },
+    {
+        "progweb_cat": "Sports,Statistics",
+        "api_name": "NFLData.com",
+        "id": 10287,
+        "progweb_descr": " NFLDatacom provide pro football statistical data personal professional use Products include weekly seasonal data player team level NFLDatacom API allow developer automate website application integration API return JSON XML format data"
+    },
+    {
+        "progweb_cat": "Sports,Statistics",
+        "api_name": "StatsFC Premier League",
+        "id": 12228,
+        "progweb_descr": " StatsFC Premier League service provide English Premier League statistic soccerfootball Statistic feature include table fixture result form top scorer StatsFC Premier League API allow developer access integrate functionality data StatsFC service application create new application Some example API method include retrieve League table retrieve top scorer retrieve result"
+    },
+    {
+        "progweb_cat": "Sports,Statistics",
+        "api_name": "iScore Sports Team Website",
+        "id": 13515,
+        "progweb_descr": " iScore sport create ESPN affiliate apps baseballsoftball basketball football Additionally iScore also provide website statrecording service individual team level iScore Sports Team Website API provide purchase iScore Team Website variety method retrieve information website API allow user get information team roster individual game playerspecific statistic This API operate HTTP return data XML Access restrict Team Website account user create password use iSports account must include API call"
+    },
+    {
+        "progweb_cat": "Sports,TV",
+        "api_name": "Are You Watching This",
+        "id": 1660,
+        "progweb_descr": " From site Get free alert televise game get good Doing Laundry Raking leave Went sleep early Are worthwhile reason miss next instant classic No think either Sign free alert RUWTbot hit email text message score time leave channel need turn catch game"
+    },
+    {
+        "progweb_cat": "Sports,Gambling",
+        "api_name": "Live Odds",
+        "id": 1666,
+        "progweb_descr": " Live Odds API offer realtime information UK Australian sport Odds old second minute Developers need request API Key use obtain JSON formatted information Google Sheets Excel compatible data Available bookmaker include Unibet William Hill Ladbrokes Betfair Pinnacle Sports Bet Victor Von Bets Nordic Bet Paddy Power 1xBet UK Australias Sportsbet TAB William Hill Crownbet Ladbrokes Betfair Unibet Ubet Pinnacle Sports cover"
+    },
+    {
+        "progweb_cat": "Sports,Gambling",
+        "api_name": "JsonOdds",
+        "id": 3951,
+        "progweb_descr": " JsonOdds API allow developer integrate odds data MLB NBA NCAA Basketball NCAA Football NFL NHL MMA soccer tennis websites application JsonOdds sport bet odds service design specifically provide developer data need create application"
+    },
+    {
+        "progweb_cat": "Sports,Gambling",
+        "api_name": "Sportradar Odds",
+        "id": 5455,
+        "progweb_descr": " Sportradar Odds API let developer integrate application Sportradar Odds database use RESTful method Odds available NFL football MLB baseball NBA basketball NHL hockey NCAA football NCAAMB Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports,Gambling",
+        "api_name": "Odds24",
+        "id": 7809,
+        "progweb_descr": " Odds24 provide sport bet line major bookmaker across internet Odds24 API provide programmatic access update odds live score standing match API initially cover 100 soccer league odds 27 bookmaker"
+    },
+    {
+        "progweb_cat": "Sports,Gambling",
+        "api_name": "StatPlat",
+        "id": 8584,
+        "progweb_descr": " StatPlat professional football data analysis platform deliver value add data service aid club bettor medium group StatPlat API provide programmatic access platform content Data type include information competition fixtures team rating"
+    },
+    {
+        "progweb_cat": "Sports,Gambling",
+        "api_name": "TXODDS",
+        "id": 9801,
+        "progweb_descr": " TXODDS Londonbased sport bet odds comparison service deliver pregame inrunning odds bookmaker bet exchange handicapper TXODDS API provide developer access dynamically updated odds data via customizable XML feed Data fill data type market segment"
+    },
+    {
+        "progweb_cat": "Sports,Gambling",
+        "api_name": "GG.com Tipzone Pro",
+        "id": 10895,
+        "progweb_descr": " GGcom online community horse race enthusiast Tipzone Pro provide professional tipster proof service collect professional tipster information GGcom user GGcom Tipzone Pro SOAP API allow tipster automate selection"
+    },
+    {
+        "progweb_cat": "Sports,Gambling",
+        "api_name": "Pinnacle Sports",
+        "id": 12214,
+        "progweb_descr": " Pinnacle Sports online service offer information bet multiple sport ie football soccer baseball rugby Pinnacle Sports API allow developer integrate functionality Pinnacle Sports application Some API method include retrieve list sport retrieve list league retrieve sport feed"
+    },
+    {
+        "progweb_cat": "Sports,Gambling",
+        "api_name": "Don Best Sports",
+        "id": 12727,
+        "progweb_descr": " Don Best Sports web site provide real time odds information news various sport Don Best Sports API allow user access site data via web call available data include schedule message injury bet line score team league SportsBooks API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Sports,Gambling",
+        "api_name": "WinTheTrophy",
+        "id": 15170,
+        "progweb_descr": " WinTheTrophy offer developer BetBot API give access make sport bet API feature RESTful protocol return data via JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Reporting",
+        "api_name": "CrowdScores",
+        "id": 1910,
+        "progweb_descr": " CrowdScores API collect live score football game It available GET request JSON response generate data team match competitor round season league table API work count event report fan stadium via mobile app people watch game home TV use website deep mining Twitter"
+    },
+    {
+        "progweb_cat": "Sports,Reporting",
+        "api_name": "World DanceSport Federation",
+        "id": 7376,
+        "progweb_descr": " As international govern organization DanceSport World DanceSport Federation provide regulation standard advice competition Latin Standard Acrobatic Line New Vogue Salsa Wheelchair type dance WDSF API allow third party application create authorized competition scrutineer transmit share competition result score WDSF standardize format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Squash",
+        "id": 1930,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Squash API provide RESTful method integrate application Sportradar Squash statistic feed database It provide endpoint retrieve competitor result schedule daily result schedule head head stats season sport event probability timeline tournament standing among others API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Motorsport",
+        "id": 1936,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Motorsport API provide RESTful method integrate application Sportradar Motorsport statistic feed database It convey analytical feed various parameter NASCAR race include daily change log race information schedule start grid driver standing qualify leaderboard rookie standing owner standing race leaderboard well player seasonal statistic driver entry list manufacturer standing API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar NFL Next Generation Stats",
+        "id": 2023,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar NFL Next Generation Stats API provide RESTful method integrate application Sportradar NFL NGS statistic feed database It convey analytical feed various parameter NFL game include game leader game statistic league leader play statistic play track statistic well player seasonal statistic team leader team seasonal statistic weekly leader A Gold package subscription provide access parameter subscription Silver Bronze package provide access select parameter API return response either JSON XML format access Official NFL API"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Aussie Rules Football",
+        "id": 2024,
+        "progweb_descr": " Sportradar US provider sport bettingrelated live data odds solution fraud detection service Sportradar Aussie Rules Football API provide RESTful method integrate application database Australian football statistic feed It provide primary feed form daily result daily schedule turn provide competitor match tournament id competitor feed sport event tournament parameters Its player venue id accessible via feed specific match This API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Nippon Professional Baseball",
+        "id": 2025,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Nippon Professional Baseball API provide RESTful method integrate application NPB statistic feed database It provide daily schedule daily boxscore day month year well schedule stand league hierarchy season API format response either JSON XML"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar NCAA Men’s Hockey",
+        "id": 2026,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar NCAA Men ’ Hockey API provide RESTful method integrate application NCAA Men ’ Hockey statistic feed database Its primary feed consist schedule daily schedule standing daily change log ranking league hierarchy analytical parameter These feed helpful generate game boxscore team profile feed well tournament schedule summary API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Global Basketball",
+        "id": 2027,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Global Basketball API provide RESTful method integrate application Global Basketball statistic feed database It provide primary feed form daily result daily schedule turn provide competitor match tournament id generate match tournament team feed This API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Global Baseball",
+        "id": 2028,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Global Baseball API provide RESTful method integrate application Global Baseball statistic feed database It provide primary feed form daily result daily schedule turn provide competitor match tournament id generate sport event tournament competitor feed Its player venue id accessible via feed specific match This API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Field Hockey",
+        "id": 2029,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Field Hockey API provide RESTful method integrate application NHL Field Hockey statistic feed database It provide primary feed form daily result daily schedule turn provide competitor match tournament id competitor feed sport event tournament Its player venue id accessible via feed specific match This API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Classic NFL",
+        "id": 2030,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Classic NFL API provide RESTful method integrate application Sportradar Classic NFL statistic feed database 201617 season It generate analytical feed various parameter classic NFL game include season schedule weekly schedule weekly league leader weekly boxscore standing ranking API break detail primary feed game roaster game boxscore team depth chart team roaster game team This API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar eSports",
+        "id": 2031,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar eSports API provide RESTful method integrate application eSports statistic feed database It provide primary feed form daily result daily schedule turn provide competitor match tournament id generate sport event tournament competitor feed Currently API provide data CounterStrike Global Offensive League Legends DOTA 2 Its player venue id accessible via feed specific match This API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Global Ice Hockey",
+        "id": 2034,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Global Ice Hockey API provide RESTful method integrate application Global Ice Hockey statistic feed database It provide primary feed form daily result daily schedule turn provide competitor match tournament id generate match tournament team feed This API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Tennis",
+        "id": 2035,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Tennis API provide RESTful method integrate application Sportradar Tennis statistic feed database It generate analytical feed various parameter tennis game include daily schedule daily result player headtohead Player profile player result double headtohead double team ranking tournament tournament season tournament result match timeline among others API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Rugby",
+        "id": 2036,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Rugby API provide RESTful method integrate application Sportradar Rugby statistic feed database Its primary feed consist schedule daily schedule standing daily summary ranking league hierarchy analytical parameter These feed helpful generate match boxscore team profile feed API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Bandy",
+        "id": 2038,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Bandy API provide RESTful method integrate application Bandy statistic feed database It provide primary feed form daily result daily schedule turn provide competitor match tournament id generate sport event tournament competitor feed This API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Curling",
+        "id": 2039,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Curling API provide RESTful method integrate application Curling statistic feed database It provide primary feed form daily result daily schedule turn provide competitor match tournament id generate sport event tournament competitor feed This API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Waterpolo",
+        "id": 2168,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Waterpolo API provide RESTful method integrate application Sportradar Waterpolo statistic feed database It provide endpoint retrieve competitor result schedule daily result schedule head head stats season sport event probability timeline tournament standing among others API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Handball",
+        "id": 2169,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Handball API provide RESTful method integrate application Sportradar Handball statistic feed database It provide endpoint retrieve competitor result schedule daily result schedule head head stats season sport event probability timeline tournament standing among others API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Pesapallo",
+        "id": 2170,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Pesapallo API provide RESTful method integrate application Sportradar Pesapallo statistic feed database It provide endpoint retrieve competitor result schedule daily result schedule head head stats season sport event probability timeline tournament standing among others API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Snooker",
+        "id": 2171,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Snooker API provide RESTful method integrate application Sportradar Snooker statistic feed database It provide endpoint retrieve competitor result schedule daily result schedule head head stats season sport event probability timeline tournament standing among others API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Darts",
+        "id": 2172,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Darts API provide RESTful method integrate application Sportradar Darts statistic feed database It provide endpoint retrieve competitor result schedule daily result schedule head head stats season sport event probability timeline tournament standing among others API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Indoor Volleyball",
+        "id": 2173,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Indoor Volleyball API provide RESTful method integrate application Sportradar Indoor Volleyball statistic feed database It provide endpoint retrieve competitor result schedule daily result schedule head head stats season sport event probability timeline tournament standing among others API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Sportradar Beach Volleyball",
+        "id": 2174,
+        "progweb_descr": " Sportradar provider sport bettingrelated live data odds solution fraud detection service Sportradar Beach Volleyball API provide RESTful method integrate application Sportradar Beach Volleyball statistic feed database It provide endpoint retrieve competitor result schedule daily result schedule head head stats season sport event probability timeline tournament standing among others API return response either JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Russian League Live Scores",
+        "id": 3330,
+        "progweb_descr": " Russian League Live Scores API provide access analytical summary previous ongoing upcoming match Russia ’ topflight league API generate team player profile well live update match result league table standing It useful reference prematch postmatch analyse user seek record team player Russian football soccer league Such information include seasonlong match day detail start lineup substitute player player fitness match event match day scorer league ’ top scorer Russian League Live Scores API generate request response JSON format It fully release welldocumented version support Curl Java Nodejs PHP Python ObjectiveC Ruby NET wrapper It mesh Basic Pro Ultra Mega subscription plan charge fix monthly cost 0 600 plus prorated cost extra content exceed fix limit"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Ligue 1 Live Scores",
+        "id": 3335,
+        "progweb_descr": " Ligue 1 Live Scores API provide access analytical summary previous ongoing upcoming match Frances topflight football soccer league API generate team player profile well live update match result league table standing It useful reference prematch postmatch analyse user seek record team player French football league Such information include seasonlong match day detail start lineup substitute player player fitness match event match day scorer league ’ top scorer Ligue 1 Live Scores API generate request response JSON format It fully release welldocumented version support Curl Java Nodejs PHP Python ObjectiveC Ruby NET wrapper It available Basic Pro Ultra Mega subscription plan charge fix monthly cost 0 600 plus prorated cost extra content exceed fix limit"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Eredivisie Live Scores",
+        "id": 3390,
+        "progweb_descr": " Eredivisie Live Scores API provide access analytical summary previous ongoing upcoming match topflight league Netherlands API generate team player profile well live update match result league table standing It useful reference prematch postmatch analyse user seek record team player Dutch football league Such information include seasonlong match day detail start lineup substitute player player fitness match event match day scorer league ’ top scorer Eredivisie Live Scores API generate request response JSON format It fully release welldocumented version support Curl Java Nodejs PHP Python ObjectiveC Ruby NET wrapper It available Basic Pro Ultra Mega subscription plan charge fix monthly cost 0 600 plus prorated cost extra content exceed fix limit"
+    },
+    {
+        "progweb_cat": "Sports,Analytics",
+        "api_name": "Soccermetrics Connect",
+        "id": 7566,
+        "progweb_descr": " Soccermetrics datadriven research organization conduct share research soccer football Soccermetrics Connect API allow developer access integrate functionality Soccermetrics application create new application Some example API method include retrieve match statistic retrieve match event retrieve soccer football player detail"
+    },
+    {
+        "progweb_cat": "Sports,Algorithms",
+        "api_name": "Versus Sports Simulator",
+        "id": 2270,
+        "progweb_descr": " Versus Sports Simulator API delivers team ranking conferencedivisional ranking team report card game prediction game simulation college professional sport HTTP request available request response produce mathematical algorithm REST architecture"
+    },
+    {
+        "progweb_cat": "Sports,Content Management",
+        "api_name": "SportsEngine Leagues",
+        "id": 2355,
+        "progweb_descr": " SportsEngine Leagues API offer programmatic access association team site POST GET PUT DELETE method support obtain diverse information team instance division league list This information available JSON format SportsEngine suite application design local national sport organization help manage website tournament league player registration"
+    },
+    {
+        "progweb_cat": "Sports,Content Management",
+        "api_name": "SportsEngine Sitebuilder",
+        "id": 2554,
+        "progweb_descr": " Sports Engine design webbased software mobile apps suit use amateur youth professional sport domain SportsEngine SiteBuilder API simplify management web content Its integration allow developer create new section websites add edit content upload photo videos target page news article implement content syndication among function API return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Sports,Bitcoin",
+        "api_name": "SuredBits",
+        "id": 2498,
+        "progweb_descr": " SuredBits API integrate sport bitcoin data real time It useful NFL stats cryptocurrency payment Endpoints available send request receive response return currently support sport data team player game score statistic additional information format contact supportsuredbitscom"
+    },
+    {
+        "progweb_cat": "Sports,African",
+        "api_name": "KiniScore",
+        "id": 2514,
+        "progweb_descr": " KiniScore provide realtime accurate sport statistic sport content data coverage focus major African league player throughout continent Data retrieve via API include schedule league table statisticsThe API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Sports,Management",
+        "api_name": "SportsEngine Registration",
+        "id": 2553,
+        "progweb_descr": " Sports Engine design webbased software mobile apps suit use amateur youth professional sport domain SportsEngine Registration API make easy developer use application MS Excel extract registration data profile respondent API provide access particular respondent register sport website Developers use API update registration field add remove field extract realtime registration result among function API return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Sports,Management",
+        "api_name": "Holdsport",
+        "id": 9435,
+        "progweb_descr": " Holdsport German website help coach organization manage team club kind sport site provide useful tool like online calendar registration due collection system free texting service let coach contact player Holdsport also use keep track player contact information game statistic Additionally people buy sportswear gear make company like Hummel website Users interact site function programmatically via REST API Although Holdsport API documentation provide English Holdsport website give solely German"
+    },
+    {
+        "progweb_cat": "Sports,Sports",
+        "api_name": "Football / Soccer Livescore",
+        "id": 2887,
+        "progweb_descr": " Football Soccer Livescore API allow developer integrate information football soccer game websites Information available API include livescores team time API include livescores football league cup international match major football federation around world well many minor league You receive major football league include Premiership Premier league Championship Seria A La Liga Bundesliga many national league National cup tournament like FA Cup League Cup Cope del Rey DB Pokalen All international competition major football association UEFA Champions League UEFA Europe League AFC Champions league Copa Libertadores All national team qualifier final stage tournatems UEFA UERO FIFA World Cup AFC Cup Copa America Golden Cup Confederations Cup African Nations Cup"
+    },
+    {
+        "progweb_cat": "Sports,Countries",
+        "api_name": "MedalBot",
+        "id": 3359,
+        "progweb_descr": " Medalbot API track total number medal bag different country participate 2016 Olympics Rio Brazil It generate summary table Gold Silver Bronze medal country well total count medal award competition Medalbot API RESTful platform return responses JSON format Developers access credential API ’ independent developer along additional operational parameter Github"
+    },
+    {
+        "progweb_cat": "Sports,Advertising",
+        "api_name": "Stattleship",
+        "id": 3566,
+        "progweb_descr": " Stattleship API design provide brand data need connect sport fan via social medium Stattleships data scientist help determine sport team player give brand customer passionate They automate creation social medium asset use engage customer game"
+    },
+    {
+        "progweb_cat": "Sports,Big Data",
+        "api_name": "Armchair Analysis NFL Data",
+        "id": 3826,
+        "progweb_descr": " A comprehensive API focus game American Football Data cover every facet game perspective individual player stats game career teambased statistic Data simply offer service include Yardsaftercatch drop pass team formation play Data update daily season"
+    },
+    {
+        "progweb_cat": "Sports,Big Data",
+        "api_name": "MySportsFeeds",
+        "id": 5342,
+        "progweb_descr": " MySportsFeeds API let developer access game schedule play integrate MySportsFeeds application MySportsFeeds crowdsourced sport data provider NHL NFL NBA MLB sport event A wide range postgame realtime feed available XML JSON even CSV format Developers pull information via RESTful method PUSHed via email FTP"
+    },
+    {
+        "progweb_cat": "Sports,Big Data",
+        "api_name": "Sportradar Cricket",
+        "id": 5457,
+        "progweb_descr": " Sportradar Cricket API allow developer integrate application Sportradar Cricket database use RESTful method Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports,Crowdsourcing",
+        "api_name": "Fastest Live Scores",
+        "id": 3988,
+        "progweb_descr": " Fastest Live Scores API allow developer integrate live historical football statistic score website application available realtime event data include goal scorer state event Fastest Live Scores collect data via crowdsourcing fan rather individual reporter They currently cover 110 league"
+    },
+    {
+        "progweb_cat": "Sports,Customization",
+        "api_name": "Data Sports Group",
+        "id": 4929,
+        "progweb_descr": " Data Sports Group API allow clientsdevelopers access integrate functionality data Data Sports Group application create new application Data Sports Group provide live historical sport data football event worldwide data retrieve various language get customize customer need make integration easy possible"
+    },
+    {
+        "progweb_cat": "Sports,Images",
+        "api_name": "Sportradar Images",
+        "id": 4934,
+        "progweb_descr": " Sportradar Images API let developer integrate application Sportradar Images database use RESTful method Developers get player team coach image API Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports,Images",
+        "api_name": "Sportradar Live Images",
+        "id": 5460,
+        "progweb_descr": " Sportradar Live Images API allow developer integrate application Sportradar Live Images database use RESTful method Sportradar provider sport bettingrelated live data odds solution fraud detection service"
+    },
+    {
+        "progweb_cat": "Sports,Crime",
+        "api_name": "NFL Arrest Data",
+        "id": 5125,
+        "progweb_descr": " NFL Arrest API provide user access database 15 year arrest record NFL Players Using open API user query desire data broken team player crime position NflArrestcom online database NFL arrest statistic include graph list well arrestometer"
+    },
+    {
+        "progweb_cat": "Sports,Open Data",
+        "api_name": "football data",
+        "id": 6491,
+        "progweb_descr": " RESTful footballdataorg API use retrieve data European football soccer league data return JSON format include information fixture schedule game soccer season team API intend hold accurate data site state may lag change data completely real time footballdataorg API develop maintain Daniel Freitag independent software developer base Germany Developers register free API key visit link httpwwwfootballdataorgregister"
+    },
+    {
+        "progweb_cat": "Sports,Location",
+        "api_name": "Swing by Swing",
+        "id": 6500,
+        "progweb_descr": " Swing Swing Golf GPS Rangefinder scorecard software It provide users access information golf course golfer round Swing Swing API let developer integrate feature application provide customer access Swing Swing database"
+    },
+    {
+        "progweb_cat": "Sports,Database",
+        "api_name": "International Flipper Pinball Association",
+        "id": 6882,
+        "progweb_descr": " International Flipper Pinball Association IFPA group aim increase exposure pinball legitimate competitive sport They endorse tournament league establish World Pinball Player Rankings first official pinball rank system world They open RESTful API allow access database player information stats player ranking score record game competition Currently GET operation support retrieve say information"
+    },
+    {
+        "progweb_cat": "Sports,Database",
+        "api_name": "Skimap.org",
+        "id": 9556,
+        "progweb_descr": " Skimaporg online database ski area map database include map resort worldwide well historical map Skimaporg API provide developer access website resource include region data ski area data map file RESTful API return XML JSON format response"
+    },
+    {
+        "progweb_cat": "Sports,Database",
+        "api_name": "Trail",
+        "id": 11739,
+        "progweb_descr": " Trail API allow developer get access thousand outdoor recreation point interest include trail campground ski resort Developers also pull photo rating description mobile app website Trail API use Javascript request receive callback JSON option use JSONP"
+    },
+    {
+        "progweb_cat": "Sports,Database",
+        "api_name": "OpenLigaDB",
+        "id": 12728,
+        "progweb_descr": " OpenLigaDB open community operate database enter retrieve sport information This information primarily center football result use creation run league API provide access data store site This data include date time game group information name URL team game outcomes late updates game data API also use manage league include add edit team schedule enter game result It use SOAP protocol response format XML site documentation German"
+    },
+    {
+        "progweb_cat": "Sports,Applications",
+        "api_name": "2PEAK",
+        "id": 7030,
+        "progweb_descr": " 2PEAK help user create stick training plan cycle run swim triathlons MTB crosscountry ski service respond dynamically change user plan help calculate appropriate training load 2PEAK also include nutrition app specifies much user eat base activity 2PEAK API enable developer access entirety 2PEAKs Dynamic Training Platform application"
+    },
+    {
+        "progweb_cat": "Sports,Feeds",
+        "api_name": "Football",
+        "id": 7449,
+        "progweb_descr": " FootballAPI provide live score service variety football league include english premier league 15 European league 50 major world league 350 competition include world cup FootballAPI allow user make REST call get current tournament standing get schedule match list get live score An account required service"
+    },
+    {
+        "progweb_cat": "Sports,Fitness",
+        "api_name": "RunningAHEAD",
+        "id": 7676,
+        "progweb_descr": " RunningAHEAD collection free online run tool include run log map train plan RunningAHEAD API able programmatically access user information enable developer manage workout train plan"
+    },
+    {
+        "progweb_cat": "Sports,Fitness",
+        "api_name": "SportTracks",
+        "id": 7953,
+        "progweb_descr": " SportTracks fitness track service aim work many device application sensor web service possible It pull user fitness data fitness track device application bring together one location SportTracks focus deliver clear useful data fitness training rather social networking SportTracks design meet need runner swimmer cyclist support athlete add continuously"
+    },
+    {
+        "progweb_cat": "Sports,Fitness",
+        "api_name": "73 Summits ErgDB",
+        "id": 9646,
+        "progweb_descr": " ErgDB create 73 Summits provide place user create share PowerAgent Erg bicycle training workout Workouts use percentage FTP watt allow user use FTP generate workout ErgDB API provide developer interface search export workout Workouts export erg format Support MultiRider PowerAgent expect forthcoming Search response may JSON CSV format"
+    },
+    {
+        "progweb_cat": "Sports,Fitness",
+        "api_name": "Fleetly",
+        "id": 10541,
+        "progweb_descr": " Fleetly fitness website hope increase user participation achievement make activity social competitive service include list workout list challenge user attempt accomplish API available free charge give user access Fleetly workout data An account required access service"
+    },
+    {
+        "progweb_cat": "Sports,Fitness",
+        "api_name": "ProFit",
+        "id": 10647,
+        "progweb_descr": " ProFit online personal training service Users may design follow training plan track process ProFit website Data record user review whenever wish ProFits function access programmatically use SOAP API ProFit website provide solely German"
+    },
+    {
+        "progweb_cat": "Sports,Fitness",
+        "api_name": "FitnessWizard",
+        "id": 11066,
+        "progweb_descr": " FitnessWizardcom website provide fitness software software development service FitnessWizard API provide user programmatic access tool perform physical fitness assessment These tool account heart rate metabolic rate blood pressure body mass index skinfold measurement hydrostatic weigh body measurement Calculations perform use SOAP call give WSDL endpoint"
+    },
+    {
+        "progweb_cat": "Sports,Fitness",
+        "api_name": "BodyMedia",
+        "id": 14294,
+        "progweb_descr": " BodyMedia FIT system include wearable Armband collect user data point day online Activity Manager user input body parameter set personal goal log food intake API give developer ability interact data user grant access Developers use data third party product application service API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Sports,Nordic",
+        "api_name": "Everysport",
+        "id": 7682,
+        "progweb_descr": " Everysport Swedish website provide visitor information service relate kind sport Site member create user profile participate discussion create group They follow game live people track match result Members report match official result provide Everysport Media Service AB Everysport API allow developer access information 90000 team 1500000 match Although Everysport website give Swedish API documentation give English"
+    },
+    {
+        "progweb_cat": "Sports,Canadian",
+        "api_name": "WhyJustRun",
+        "id": 7692,
+        "progweb_descr": " WhyJustRun Canadian run group include orienteering race Runners pick rout checkpoint navigate aid map compass WhyJustRun API allow user retrieve entry list start list result list organization list event list iCal calendar feed"
+    },
+    {
+        "progweb_cat": "Sports,Content",
+        "api_name": "Sport Ngin",
+        "id": 7808,
+        "progweb_descr": " Sport Ngin delivers web software mobile application youth amateur professional sport league Sport Ngin platform sport specific content management system allow league provide online registration schedule roster statistic member management tournament software much Sport Ngin API allow developer programmatically manage resource within platform Examples expose resource include roster statistic league organization standing news article much"
+    },
+    {
+        "progweb_cat": "Sports,Content",
+        "api_name": "Xegesis",
+        "id": 9281,
+        "progweb_descr": " Xegesis sport content generation system build allow expansion set data narrative Xegesis currently focus soccer intend create need text analysis support multiple sport multiple languages Xegesis API provide RESTful interface automate access publishing Xegesis generate content Responses may JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Predictions",
+        "api_name": "Scoresight.io",
+        "id": 7857,
+        "progweb_descr": " Scoresightio football prediction API use crowd prediction social sentiment historical result predict score soccer football match Scoresightio API allow developer access integrate functionality Scoresightio application create new application Public documentation available interested developer sign httpwwwscoresightio"
+    },
+    {
+        "progweb_cat": "Sports,Health",
+        "api_name": "Lumo BodyTech",
+        "id": 7878,
+        "progweb_descr": " Lumo BodyTech wearable technology help people posture stand tall straight lift correctly Lumo BodyTech API allow developer access integrate functionality Lumo BodyTech application create new application Public documentation available interested developer email developerslumobodytechcom information"
+    },
+    {
+        "progweb_cat": "Sports,Health",
+        "api_name": "Life Fitness",
+        "id": 10980,
+        "progweb_descr": " Life Fitness exercise equipment company Life Fitness make exercise fitness equipment find gym school across country Life Fitness API LFopen allow developer access integrate data Life Fitness product application create new application interact Life Fitness product Public documentation available interested developer email developerslifefitnesscom information"
+    },
+    {
+        "progweb_cat": "Sports,Health",
+        "api_name": "HeiaHeia",
+        "id": 11359,
+        "progweb_descr": " HeiaHeia web mobile application track fitness health workout HeiaHeia use individually business group HeiaHeia API allow developer access integrate functionality HeiaHeia application create new application Some example API method include retrieve list sport retrieve sport information manage workout log manage account information"
+    },
+    {
+        "progweb_cat": "Sports,Health",
+        "api_name": "Willpath",
+        "id": 12144,
+        "progweb_descr": " Willpath service allow user track healthy choice Users register fitness tracking sensor device FitBit Willpath They also keep track diet via Willpath healthful choice make credit user receive This credit redeem participate charity retailer Users also gain credit attain sponsor Willpath API expose aggregate data user performance entirety credit system It RESTful API return JSONencoded data"
+    },
+    {
+        "progweb_cat": "Sports,Health",
+        "api_name": "Walker Tracker",
+        "id": 15729,
+        "progweb_descr": " Walker Tracker site pedometer enthusiast share step compete high count API provide access user step friend group data revisualized included application"
+    },
+    {
+        "progweb_cat": "Sports,Real Time",
+        "api_name": "GoalAPI.com",
+        "id": 8162,
+        "progweb_descr": " GoalAPIcom provide realtime football score league standing via API Data available UEFA league national league World Cup Available data include kick date time team current score current match status brief match metadata"
+    },
+    {
+        "progweb_cat": "Sports,Real Time",
+        "api_name": "GymFlow",
+        "id": 8556,
+        "progweb_descr": " GymFlow application let user know busy gym go Gym traffic varies significantly day day even course hour GymFlow partner local gyms access card swipe information order get realtime data many people gym give moment GymFlow application also use historical data predict crowd gym near future allow user plan schedule accordingly"
+    },
+    {
+        "progweb_cat": "Sports,Weather",
+        "api_name": "MSW Forecast",
+        "id": 8197,
+        "progweb_descr": " MSW Magic SeaWeed provide detailed long range surf forecast almost 3000 beach 180 country MSW Forecast API offer programmatic access core weather ocean data specifically purpose surf RESTful API provide access data type break wave height wind temperature sea level pressure"
+    },
+    {
+        "progweb_cat": "Sports,Weather",
+        "api_name": "ClimbingWeather.com",
+        "id": 10053,
+        "progweb_descr": " ClimbingWeathercom provide pinpoint weather data climb site Weather data pull National Weather Service National Digital Forecast Database ClimbingWeathercom API provide RESTful interface interact siteâ€™s area forecast data API return JSON format response"
+    },
+    {
+        "progweb_cat": "Sports,Weather",
+        "api_name": "SnoCountry",
+        "id": 10576,
+        "progweb_descr": " SnoCountry exists highlight disseminate snow condition mountain weather snowsport event ski resort information SnoCountry API provide developer access snow condition resort data Responses may return JSON HTML format"
+    },
+    {
+        "progweb_cat": "Sports,Weather",
+        "api_name": "SpitCast",
+        "id": 11773,
+        "progweb_descr": " SpitCast API allow user access SpitCasts surf prediction algorithm API use REST protocol return JSON surf prediction service provide surf data region along California coast To see example us visit SpitCast API home page"
+    },
+    {
+        "progweb_cat": "Sports,Widgets",
+        "api_name": "MCLA",
+        "id": 8208,
+        "progweb_descr": " MCLA Mens Collegiate Lacrosse Association United States organization nonvarsity college lacrosse program MCLA website offer two APIs Expert API Widget API Expert API allow developer obtain MCLA Boards approval access roster schedule final game score player statistic Widget API allow developer quickly post information upcoming game standing team schedule team roster website use JavaScript"
+    },
+    {
+        "progweb_cat": "Sports,German",
+        "api_name": "Comunio",
+        "id": 8639,
+        "progweb_descr": " Comunio fantasy European football soccer service let user create manage Bundesliga team league friend Bundesliga professional German football league Comunio site member manage teams lineup tactic transfer Although much website available many language part site eg news available German"
+    },
+    {
+        "progweb_cat": "Sports,Events",
+        "api_name": "Exposure Basketball Tournaments",
+        "id": 9168,
+        "progweb_descr": " Exposure Basketball Tournaments provide youth basketball tournament management tool include feature online registration payment pool generation bracket design schedule event dashboard Exposure Basketball Tournaments API expose platformâ€™s full functionality allow application add retrieve delete otherwise manage resource Responses may JSON XML format"
+    },
+    {
+        "progweb_cat": "Sports,Events",
+        "api_name": "RTRT.me",
+        "id": 10644,
+        "progweb_descr": " RTRTme provide realtime race track timing service run event RTRTme API provide developer RESTful access event detail participant data realtime result information include runnersâ€™ pace speed Responses JSON format"
+    },
+    {
+        "progweb_cat": "Sports,Events",
+        "api_name": "RunSignUp",
+        "id": 10699,
+        "progweb_descr": " RunSignUp service runner race director provide race website creation runner registration support RunSignUp API provide RESTful interface developer integrate 3rd party application service time result participant management function"
+    },
+    {
+        "progweb_cat": "Sports,Streaming",
+        "api_name": "HockeyStreams",
+        "id": 9346,
+        "progweb_descr": " HockeyStreams web service stream hockey game NHL AHL OHL QMJHL WHL Features include DVR capability XBOX Playstation 3 compatibility HockeyStreams API provide RESTful interface automate user authentication live stream ondemand stream full game condense game highlight score data API require user account API Key Responses JSON format"
+    },
+    {
+        "progweb_cat": "Sports,Booking",
+        "api_name": "GolfNow",
+        "id": 9477,
+        "progweb_descr": " GolfNow offer book service tee time 5000 golf course resort across US Canada Bermuda Mexico Ireland Scotland GolfNow RESTful API allow perform function find golf course find tee time create tee time reservation Search golf course tee time base various criterion create customer make tee time reservation view exist reservation related task"
+    },
+    {
+        "progweb_cat": "Sports,Music",
+        "api_name": "Follow The Game",
+        "id": 9552,
+        "progweb_descr": " Follow Game service find radio station cover Big Game Users may enter single location route road trip receive back station station cover game area Query result view directly Follow Game website retrieve programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Sports,Government",
+        "api_name": "Open New York Recommended Fishing Rivers and Streams",
+        "id": 9557,
+        "progweb_descr": " Open New York collect expose local state federal data site host catalogue datasets organize location subject area Open New York Recommended Fishing Rivers Streams API display access location river stream suitable fishing Suitability determine fishery biologists New York state Department Environmental Conservation API access HTTPS Responses may JSON XML CSV format"
+    },
+    {
+        "progweb_cat": "Sports,Australian",
+        "api_name": "AFL Mobile Web Services",
+        "id": 9972,
+        "progweb_descr": " AFL Australian Football League Mobile Web Services collection API function allow user access AFL information medium mobile device Users get information current sport season fixture refer US match player team ranking ladder Users may also retrieve medium object announcement news article comment online video These function accessible integration use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Sports,Cycling",
+        "api_name": "My Cycling Log",
+        "id": 12026,
+        "progweb_descr": " My Cycling Log online tool track cyclist rid It also support team group ride track API allow user post stats new ride retrieve list save ride enter bike model information retrieve save bike"
+    },
+    {
+        "progweb_cat": "Sports,Cycling",
+        "api_name": "Trailforks",
+        "id": 12223,
+        "progweb_descr": " Trailforks userpowered mountain biking trail database Canada It include information trail location 3D map trail feature current condition Trailforks also serve platform rid association rider log work do trail monitor trail issue A RESTbased API enable user add retrieve trail information programmatically"
+    },
+    {
+        "progweb_cat": "Sports,Cycling",
+        "api_name": "Bikko",
+        "id": 13275,
+        "progweb_descr": " service provide training tool social interaction bicycle hobbyist It development avid cyclist Austin Texas help others track ride record performance plan route guidance suggestion Social networking tool interaction among cyclist also anticipate API method currently support retrieval route information location altitude well speed power rating Returned data support interaction mapping application"
+    },
+    {
+        "progweb_cat": "Sports,Cycling",
+        "api_name": "CycleStreets",
+        "id": 15088,
+        "progweb_descr": " CycleStreets UKwide cycle journey planner system let plan rout A B bike It design cyclist cyclists caters need less confident less confident cyclist"
+    },
+    {
+        "progweb_cat": "Sports,Video",
+        "api_name": "Meridix",
+        "id": 12729,
+        "progweb_descr": " Meridix service let user webcast sport event live audio video webcasts ability launch game tracker live score When event complete user send automatic text email alert Meridix API allow user retrieve data Meridix account use web site application This include live data webcasts score news photo poll content It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Sports,Education",
+        "api_name": "MileSplit",
+        "id": 13995,
+        "progweb_descr": " MileSplit online network high school track field crosscountry sport MileSplit provide statebystate coverage sport Coverage track field crosscountry include result ranking article videos statistic MileSplit API allow website application interact MileSplit website Public documentation limit documentation provide user sign API Key"
+    },
+    {
+        "progweb_cat": "Sports,Application Development",
+        "api_name": "2011 International Computational Billiards Championships",
+        "id": 14312,
+        "progweb_descr": " 2011 International Computational Billiards Championships goal promote development aid evaluation novel artificial intelligence technique computational pool pool competition physic server include web service API API use request task submit shots access database physic library It use XMLRPC protocol"
+    }
+]

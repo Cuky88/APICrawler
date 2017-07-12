@@ -1,0 +1,152 @@
+[
+    {
+        "progweb_cat": "Stocks",
+        "api_name": "US Stocks Fundamentals",
+        "id": 546,
+        "progweb_descr": " US Stocks Fundamentals API offer access stock data base US Securities Exchange Commission Over 12000 company support 8000 indicator Developers need register obtain free authentication Token Requests make use HTTPS API return CSV data"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Intrinio US Insider Transactions and Ownership",
+        "id": 1512,
+        "progweb_descr": " Insiders publicly trade company executive others unique knowledge require SEC disclose certain purchasessales stock This Rest API track transaction allow developer view holding specific stockholder holding insider specific firm It report insider transaction owner company provide transaction detail nonderivative derivative transaction owner Ownership holding aggregate owner company value holding previous trading day This data valuable want monitor stock trade individual inside information company enable developer automatically filing make SEC Intrinio Fintech Marketplace financial data feed apps"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Intrinio US Sector and Industry Financial Data",
+        "id": 1513,
+        "progweb_descr": " This REST API provide aggregated financial benchmark 500 United States Sectors Industries group SIC code It allow view average 25th 75th percentile mode data PE revenue employee count EBITDA hundred industry Oil Gas Pharmaceuticals Technology This include pull time series data view historical financial metric US industry well recent value compare single stock industry peer gauge performance across industry Intrinio Fintech Marketplace financial data feed apps"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "GuruFocus",
+        "id": 1535,
+        "progweb_descr": " GuruFocus API return stock data JSON format It available REST architecture API personal token With API developer access company financial data company key statistic data stock quote data stock historical price data guru financial aggregate data"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Intrinio US Institutional Holdings",
+        "id": 1544,
+        "progweb_descr": " Intrinio US Institutional Holdings API provide programmatic access recent historic time series data detail institution stock holding Available information include location stockholding business number hold share value share additional information holding Responses give JSON CSV"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Intrinio Global Public Company Security Master",
+        "id": 1546,
+        "progweb_descr": " Intrinio Global Public Company Security Master API allow developer get unique identifier security company always know entity theyre deal This especially useful work multiple country exchange security may identify multiple symbol This service also provide basic information entity know alias"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Intrinio Trade Alert Options Prices",
+        "id": 1568,
+        "progweb_descr": " Intrinio Trade Alert Options Prices API allow developer get recent historical time series data end day option price US stock go back 2008 API response give JSON CSV include close price closing big closing ask imply volatility open interest count trade security"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Intrinio Global Corporate Actions",
+        "id": 1569,
+        "progweb_descr": " Intrinio Global Corporate Actions API allow developer track 45 type corporate action relate 130000 global security Such action include announcement annual shareholder meeting stock split stock buy back dividend pay date bankruptcy note takeover Responses provide JSON CSV format"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "DriveWealth REST",
+        "id": 3277,
+        "progweb_descr": " DriveWealth REST API allow developer integrate ability trade US stock mobile apps business system DriveWealth investment platform allow investor buy fraction share let spend amount money want rather amount money determine company share price"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "DriveWealth FIX",
+        "id": 3474,
+        "progweb_descr": " DriveWealth FIX API allow developer trade equity use Financial Information Exchange FIX interface This interface base version 42 FIX Protocol Specification DriveWealth investment platform allow investor buy fraction share let spend amount money want rather amount money determine company share price"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Market Prophit",
+        "id": 4640,
+        "progweb_descr": " MarketProphit API social medium base financial management platform MarketProphit compiles data financial pundit blogger tweet etc create rank score financial trading guidance MarketProphit ’ API give developer access MarkeProhit ’ database include information historical daily crowd sentiment market sentiment tweet volume buzz ticker score"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Snowflake Widget",
+        "id": 6281,
+        "progweb_descr": " Snowflake Widget API allow 3rd party site display Simply Wall Sts Snowflake ’ company Simply Wall St database display another company random fit specific criterion ‘ Snowflake ’ generate Simply Wall St associate infographic company NYSE Nasdaq LSE ASX also generate daily"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Jive Data",
+        "id": 6846,
+        "progweb_descr": " JiveData provide access financial data SEC US Securities Exchange Commission report company JiveData API allow developer retrieve update user detail get recent filing look ticker give company get financial detail ticker get economic update"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Stock Quote",
+        "id": 6914,
+        "progweb_descr": " Markit Demands Stock Quote API useful find current value company ’ stock response API contain price information company trade BATS Exchange United States result set include BATS ’ current trading price share volume company ’ stock change change percent since previous day ’ close"
+    },
+    {
+        "progweb_cat": "Stocks,Financial",
+        "api_name": "Interactive Chart",
+        "id": 6915,
+        "progweb_descr": " Markit Demands Interactive Chart API display historical value company ’ stock response contains endofday historical price information company trade BATS Exchange US response include datasets contain openhighlowclose OHLC value volume Simple Moving Average SMA label helper coordinate"
+    },
+    {
+        "progweb_cat": "Stocks,Analytics",
+        "api_name": "Intrinio US Public Company Financials",
+        "id": 1514,
+        "progweb_descr": " This REST API provide standardized report balance sheet income statement statement cashflow publicly traded stock United States It return company list information company cover Intrinio Json format This include Companies Securities Indices Securities SearchScreener Data Point 10Q 10K data available asreported standardized version enable cross equity comparison even statement item tag properly Statements available back 2007 update near real time file SEC 1030 mins Historical stock price high low open close volume adjust price well current intraday price available along company news Intrinio Fintech Marketplace financial data feed apps"
+    },
+    {
+        "progweb_cat": "Stocks,Analytics",
+        "api_name": "MAS Table III.7 SGX-ST: Price Index, Number of Listed Companies, Turnover and Capitalisation, Yearly",
+        "id": 2910,
+        "progweb_descr": " MAS Table III7 SGXST Price Index Number Listed Companies Turnover Capitalisation Yearly API provide summary annual trading activity Singapore Stock Exchange SGX API show SGX ’ proceeding reference Straits Times Index Singapore Regional Index list company market capitalization turnover value This API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Stocks,Analytics",
+        "api_name": "MAS Table III.7 SGX-ST: Price Index, Number of Listed Companies, Turnover and Capitalisation, Monthly",
+        "id": 2911,
+        "progweb_descr": " MAS Table III7 SGXST Price Index Number Listed Companies Turnover Capitalisation Monthly API provide summary monthly trading activity Singapore Stock Exchange SGX API show SGX ’ proceeding reference Straits Times Index Singapore Regional Index list company market capitalization turnover value This API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Stocks,Feeds",
+        "api_name": "FeedSyndicate Stocks and Markets",
+        "id": 4488,
+        "progweb_descr": " FeedSyndicate Stocks Markets API allow developer get delay quote data update minute trading hour delay accord individual exchange requirement This API derive FeedSyndicate Stocks Markets Indices Data feed provide access continuously updated stock market index data one hundred major market around world FeedSyndicate provide full news entertainment content feed websites application"
+    },
+    {
+        "progweb_cat": "Stocks,Algorithms",
+        "api_name": "Vetr",
+        "id": 4555,
+        "progweb_descr": " Vetr API give developer access Vetrs crowdsourced investment research data Vetr calculate star rating target price stock algorithms news user input Vetr API RESTful access obtain API key via contact contactvetrcom"
+    },
+    {
+        "progweb_cat": "Stocks,Algorithms",
+        "api_name": "QuantConnect",
+        "id": 5146,
+        "progweb_descr": " QuantConnects REST API v 10 aim increment version rout JSON variable mapping change API allow developer map endpoint JSON use perform basic process QuantConnect via REST API Requests rate limit one request every 3 second QuantConnect financial data algorithm platform"
+    },
+    {
+        "progweb_cat": "Stocks,Accounting",
+        "api_name": "Xignite GlobalHistoricalFile",
+        "id": 4624,
+        "progweb_descr": " Xignite GlobalHistoricalFile equity ETF trading API This API give user access stock analysis data endofday price trading currency cod split ratio etc GlobalHistoricalFile sync account stock analysis application Documentation access via contact provider"
+    },
+    {
+        "progweb_cat": "Stocks,Search",
+        "api_name": "Company Lookup",
+        "id": 6837,
+        "progweb_descr": " Markit Demands Company Lookup API use find stock ticker symbol company ’ stock trade API response include company ’ symbol full name exchange ’ trade"
+    },
+    {
+        "progweb_cat": "Stocks,African",
+        "api_name": "NSEFinance - Nigerian Stock Exchange",
+        "id": 6848,
+        "progweb_descr": " NSEFinance provide user API access Nigerian Stock Exchange NSE NSE found 1960 200 list company NSEFinance offer unofficial API make use publicly available data include NSEs daily pricelist This experimental API developer require something concrete contact NSE"
+    },
+    {
+        "progweb_cat": "Stocks,Data",
+        "api_name": "ActiveTick Market Data",
+        "id": 7341,
+        "progweb_descr": " ActiveTick Market Data API provide program interface query market data historical chart tick data manage stream subscription receive stream update API cover variety instrument stock option index currency exchange stream update"
+    }
+]

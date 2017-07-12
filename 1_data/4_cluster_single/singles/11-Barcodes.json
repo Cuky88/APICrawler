@@ -1,0 +1,68 @@
+[
+    {
+        "progweb_cat": "Barcodes,Images",
+        "api_name": "Inlite's Barcode Reader",
+        "id": 3460,
+        "progweb_descr": " Inlites Barcode Reader API read barcodes PDF TIFF JPEG PNG format image locate Web locally It recognize 1D barcodes Code39 Code128 etc 2D barcodes PDF417 DataMatrix QR postal barcodes In addition decode driver license barcode data Developers send request HTTP JSON REST XML format receive response JSON XML"
+    },
+    {
+        "progweb_cat": "Barcodes,Images",
+        "api_name": "Barcodesoft",
+        "id": 13445,
+        "progweb_descr": " SOAP web service stream bar code one follow format BMP GIF JPeg TIFF PNG It support linear 2D barcode symbology Code39 Code128 UPCA UPCE EAN13 EAN8 Bookland ISBN POSTNET Code93 Code25 Interleaved 25 Codabar MSI Plessey Data Matrix PDF417 QR Code Aztec Code"
+    },
+    {
+        "progweb_cat": "Barcodes,Products",
+        "api_name": "Barcode Finder",
+        "id": 3706,
+        "progweb_descr": " Barcode Product Search API provide useful source product data fill database It provide access UPC EAN ISBN search publicly available easy search Developers request data XML JSON format"
+    },
+    {
+        "progweb_cat": "Barcodes,Cloud",
+        "api_name": "Aspose.Barcode",
+        "id": 6198,
+        "progweb_descr": " AsposeBarcodes API program interface offer Apose let developer integrate service application enable customer generate scan barcodes directly application API REST base use platform support REST Apose software company specialize file management cloud"
+    },
+    {
+        "progweb_cat": "Barcodes,Recognition",
+        "api_name": "HPE Haven OnDemand Barcode Recognition",
+        "id": 7316,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Barcode Recognition API accepts scan image detect barcode present If detects barcode API return associate number well coordinate describe position barcode within frame Barcode Recognition API accurate accept horizontally vertically orient barcodes accepts comprehensive repertoire barcode language type"
+    },
+    {
+        "progweb_cat": "Barcodes,QR Codes",
+        "api_name": "QRickit QR Code",
+        "id": 13238,
+        "progweb_descr": " service generates QR code encode web URLs email address text access scannerequipped device An application interact service submit HTTP request URL variables specify parameter code generate Parameters designate web URL text string encode plus footer text desire along size color image generate API generates image return PNG format"
+    },
+    {
+        "progweb_cat": "Barcodes,QR Codes",
+        "api_name": "QRdvark",
+        "id": 14043,
+        "progweb_descr": " QRdvark QR scan app Android phone QRdvark API allow developer use QRdvark scan functionality thirdparty application"
+    },
+    {
+        "progweb_cat": "Barcodes,QR Codes",
+        "api_name": "QR and DMX Barcode Generator",
+        "id": 15460,
+        "progweb_descr": " This API let dynamically generate QR DMX cod With implement two dimensional code web page use tag img appropriate attribute You set alternate image size default suitable"
+    },
+    {
+        "progweb_cat": "Barcodes",
+        "api_name": "RACO Barcode",
+        "id": 13626,
+        "progweb_descr": " service accept parameter input return barcode image encode data request request specify image symbology list five 1D option five 2D option include Aztec QR code Output format choice include gif jpg png eps vary DPI resolution API accept specification symbology barcode unit bar width height data encode parameter whether display data barcode image"
+    },
+    {
+        "progweb_cat": "Barcodes",
+        "api_name": "CodeREADr",
+        "id": 13627,
+        "progweb_descr": " service enables barcode scan mobile phone use builtin camera without additional hardware It resolve validates scan barcodes real time collect user data every scan code use service Hosted service include management scan metric database create scan log API method support retrieval XML data barcode scan return list service access device access location scan occur Methods also allow creation questionnaire display response barcode scan"
+    },
+    {
+        "progweb_cat": "Barcodes,Mobile",
+        "api_name": "QReate.me",
+        "id": 14805,
+        "progweb_descr": " QReateme API allow user create tags access tag image data directly app QReateme online service API generate use QR DataMatrix tag Users use create tag freely commercial application personal project With API user create update tag get tag image list tag scan tag API use RESTful protocol response format XML JSON"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "progweb_cat": "Data-as-a-Service,Contacts",
+        "api_name": "ZoomInfo",
+        "id": 497,
+        "progweb_descr": " Integrate ZoomInfos justverified B2B data advance search tool directly application Put profile 135 million business people 85 million business right user fingertip"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Accounting",
+        "api_name": "OIPA: Openaid IATI",
+        "id": 1020,
+        "progweb_descr": " OIPA extract publish IATI XML file IATI Registry store PostgreSQL database access use RESTful API"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Aggregation",
+        "api_name": "uProc",
+        "id": 1576,
+        "progweb_descr": " uProc offer tool enhance enrich database field Organizations benefit improved internal data flow well campaign classification cost reduction uProc validate email phone add several field database good segmentation Also uProc improves form unifies databases uProc API support JSON response"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Aggregation",
+        "api_name": "Spinn3r",
+        "id": 15586,
+        "progweb_descr": " Spinn3r web service index blogosphere We provide raw access every blog post publish real time We provide data focus building application mashup Spinn3r handle difficult task run spidercrawler include spam prevention language categorization ping index trust ranking"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Data",
+        "api_name": "GetData.IO - DataSource",
+        "id": 1899,
+        "progweb_descr": " This API allow developer define web crawler format simple JSON definition Developers able consume API via GetDataIOs DataExport API Getdataio provide way harvest public private data webpage"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Data",
+        "api_name": "Rest Ipsum",
+        "id": 1927,
+        "progweb_descr": " Rest Ipsum API aim provide web service endpoint return dynamically generate sample data model"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Applications",
+        "api_name": "GetData.IO DataExport",
+        "id": 1904,
+        "progweb_descr": " DataExport API allow use data application two support method data export Pagination Streaming Pagination useful would like use GetDataIOs platform backend frontend application whereas Streaming typically useful sync relatively large dataset database Getdataio provide way harvest public private data webpage"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Analytics",
+        "api_name": "BitScoop Platform Data",
+        "id": 2130,
+        "progweb_descr": " bitScoop Data API Provider Map use configure individual endpoint call directly Outbound inbound data transformation configure perendpoint basis Each configure endpoint becomes available dynamically provision Data API Provider Map data return endpoint call dependent configuration URL headers parameter follow general format BitScoop® Platform simplify API integration streamlines data service development process unify access APIs bitScoop support common authorization negotiation API structure data protocol data format throttle pagination scheme It provide simple API management service create developer bitScoop provide API integration software development powerful middleware consume APIs microservices"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Authentication",
+        "api_name": "BitScoop Connections",
+        "id": 2131,
+        "progweb_descr": " BitScoop Connections API link customer make data provider way Provider Maps It keep track connection information include status authentication authorization key It build around interact data provider Facebook Twitter Google APIs provide It make request behalf data provider operate data accord configuration specify transparently relay result BitScoop API Toolbox set tool help developer deal data provider intricacy inconsistency annoyance pervade app development BitScoop provide way connect interact data provider important work project"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Authentication",
+        "api_name": "BitScoop Auth",
+        "id": 2132,
+        "progweb_descr": " Auth API simple tool allow user 3legged application finish grant permission Once permission grant Connection appropriate authentication authorization tokens start make request data provider specify associate Provider Map It build around interact data provider Facebook Twitter Google APIs provide It make request behalf data provider operate data accord configuration specify transparently relay result BitScoop API Toolbox set tool help developer deal data provider intricacy inconsistency annoyance pervade app development BitScoop provide way connect interact data provider important work project"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Metadata",
+        "api_name": "Knoema",
+        "id": 2526,
+        "progweb_descr": " Knoema REST API integrate metadata statistic visual report web service authentication client uniqueID request URL response It target agricultural educational demographic economy energy environment foreign trade industry Contact Knoema authentication request responses detail"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Cloud",
+        "api_name": "Google Cloud User Account",
+        "id": 2991,
+        "progweb_descr": " This API create manage user group access Google Compute Engine virtual machine Google Cloud Platform allow add variety service storage access machinelearningbased image analysis Cloud Platform application name It allow developer build cloud tool infrastructure application map device"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Geography",
+        "api_name": "Fencer",
+        "id": 3090,
+        "progweb_descr": " Fencer API geofence web service mobile apps web apps IoT It offer geofencing service Quickly easily developers create manage geofences application device In addition query user device location relative geofence use REST API"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Air Travel",
+        "api_name": "Laminar Data",
+        "id": 3467,
+        "progweb_descr": " Laminar Data API cloudbased platform manage aeronautical weather flight data It available request HTTP call receive XML GeoJSON response"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Air Travel",
+        "api_name": "Laminar Reference Data",
+        "id": 3469,
+        "progweb_descr": " Laminar Reference Data API integrate airline list ICAO prefix flight information region Available HTTP request XML GeoJSON responses Developers access via Api Key interact REST architectural style"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Air Travel",
+        "api_name": "Laminar NOTAM Data",
+        "id": 3470,
+        "progweb_descr": " Laminar NOTAM Data API integrate note airman aim alert possible danger flight Data replace cancelled depend situation Available REST architecture HTTP request XML GeoJSON response"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Air Travel",
+        "api_name": "Laminar Regulation Data",
+        "id": 3476,
+        "progweb_descr": " Laminar Regulation Data API integrate regulation particular ICAO region It also implement summary aerodynamic regulation Available REST architecture HTTP request XML GeoJSON response"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Air Travel",
+        "api_name": "Laminar Aeronautical Data",
+        "id": 3477,
+        "progweb_descr": " Laminar Aeronautical Data API integrate aerodrome name ICAO code positional information It available REST architectural style HTTP request XML GeoJSON responses Users access Api Key"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Air Travel",
+        "api_name": "Laminar Weather Data",
+        "id": 3490,
+        "progweb_descr": " Laminar Weather Data REST API integrate forecast information accord visibility wind cloud climate change Developers send HTTP request receive XML GeoJSON responses Authentication require Api Key"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Air Travel",
+        "api_name": "Laminar Flight Data",
+        "id": 3491,
+        "progweb_descr": " Laminar Flight Data API integrate airline flight status geography schedule data It available REST architecture HTTP format receive XML GeoJSON responses Users access Api Key"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Classification",
+        "api_name": "Skill Search",
+        "id": 3945,
+        "progweb_descr": " Skills Search Plugin API useful utility developer develop job site HR application instance add job site user site job seeker job provider search add skill either profile job post By add plugin well engage user ensure able easily add skill autoprompt eliminate error spelling Skills Search API fetch skill exhaustive Skills Library Its Your Skills manage This skill library cover skill industry function This library constantly update This another benefit use Skills Search plugin user see recent current skill"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Religion",
+        "api_name": "Bibler",
+        "id": 3953,
+        "progweb_descr": " Bibler API provide fulltext access information search English translation comparison Holy Scripture Requests submit RESTful API generate JSONformatted responses Developers freely integrate Bibler API platform use pilot program apps long submit reasonable number request time"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Comparisons",
+        "api_name": "Ciiva",
+        "id": 5316,
+        "progweb_descr": " Ciiva API provide programmatic access Ciiva Cloud Database Queries Ciiva API return one data object contain information manufacturer supplier component lifecycle compliance pricing availability substitutesalternatives datasheets"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Food",
+        "api_name": "MasterCard Local Favorites",
+        "id": 5506,
+        "progweb_descr": " MasterCard Local Favorites API let developer integrate API service application allow user search local restaurant area Information return request include restaurant name address cuisine type traffic rate"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Data Mining",
+        "api_name": "Sites XRay",
+        "id": 6442,
+        "progweb_descr": " Sites XRay data mining service make web backends searchable enable user search website base technology use Sites XRay also offer alert notification monitor site adopt different technology API specifically provide technical data technology use build website CMS analytics eCommerce JavaScript framework OS IP address location City Country Lattitude Longitude predominant language use site"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Addresses",
+        "api_name": "NetImpact",
+        "id": 7068,
+        "progweb_descr": " NetImpact provide realtime IP location data set easy use format Available data set include ISP city state province country zip code postal code area code latitude longitude Using WYSIWYG API builder user create JSON application enhance ecommerce security provide localize content"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,Compliance",
+        "api_name": "EnClout Pacer",
+        "id": 7294,
+        "progweb_descr": " Pacer service provide online access document related appellate bankruptcy civil criminal multidistrict litigation United States This API public access court electronic record provide easytouse JSONXML Pacer Case Locator When developer visit site see demo data log yet system Once create Pacer account developer admission API key Support available contact form"
+    },
+    {
+        "progweb_cat": "Data-as-a-Service,B2B",
+        "api_name": "Lead411",
+        "id": 14740,
+        "progweb_descr": " With Lead411 user search download database company business people news main value API populate lead form email Some result include access name title company size type technology use address phone number Another benefit Lead411 automation CRM solution marketing strategy"
+    }
+]

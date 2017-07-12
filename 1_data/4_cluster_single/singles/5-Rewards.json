@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Rewards,Community",
+        "api_name": "Joysticket",
+        "id": 4575,
+        "progweb_descr": " Joysticket reward platform loyalty program integrate exist application It use recommendation platform acquire user retention option exist user Joysticket feature community user real time retention Joysticket API REST base respond JSON format"
+    },
+    {
+        "progweb_cat": "Rewards,Business",
+        "api_name": "Tango Card RaaS",
+        "id": 4804,
+        "progweb_descr": " Tango Card RaaS offer incentive platform integrate exist application It use send digital gift card demand specific business This RESTful API respond JSON authorization make HTTP Basic auth Tango Card base Seattle develop technology improve business reward program"
+    },
+    {
+        "progweb_cat": "Rewards,Mobile",
+        "api_name": "Lootsie",
+        "id": 5785,
+        "progweb_descr": " Lootsie REST API allow developer access integrate functionality Lootsie application create new application Public documentation available developer account require Lootsie mobile reward service allow advertiser brand publisher reward user"
+    },
+    {
+        "progweb_cat": "Rewards,Customer Relationship Management",
+        "api_name": "Paytronix",
+        "id": 5933,
+        "progweb_descr": " Paytronix API manage customer loyalty program This RESTful API accept call JSON XML authenticate OAuth Token Use Paytronix create reward program email club manage giveaway analyze customer data documentation include detailed instruction get start Paytronix well practice console experiment API"
+    },
+    {
+        "progweb_cat": "Rewards,Customer Relationship Management",
+        "api_name": "Ifeelgoods",
+        "id": 10695,
+        "progweb_descr": " Ifeelgoods digital promotion platform help marketer engage convert audience gift fulfillment reward Ifeelgoods API allow marketer integrate automate customer reward third party system"
+    }
+]

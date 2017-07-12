@@ -1,0 +1,92 @@
+[
+    {
+        "progweb_cat": "Wiki,Reference",
+        "api_name": "DBpedia",
+        "id": 215,
+        "progweb_descr": " From site DBpediaorg community effort extract structure information Wikipedia make information available Web DBpedia allow ask sophisticated query Wikipedia link datasets Web Wikipedia data"
+    },
+    {
+        "progweb_cat": "Wiki,Reference",
+        "api_name": "WikiMatrix",
+        "id": 15829,
+        "progweb_descr": " From site WikiMatrix provide access Wiki info simple XML API This allow pull interest data Matrix system create customize analysis eg ï¿½Which popular programming language Wikisï¿½ ï¿½What mostused syntax boldï¿½"
+    },
+    {
+        "progweb_cat": "Wiki",
+        "api_name": "MindTouch Deki Wiki",
+        "id": 744,
+        "progweb_descr": " RESTbased API 99 method expose MindTouch Deki Wikis complete functionality Deki Wiki also mashup platform Download source code VMware certify package"
+    },
+    {
+        "progweb_cat": "Wiki",
+        "api_name": "JSPWiki",
+        "id": 13117,
+        "progweb_descr": " JSPWiki Javabased Wiki site JSPWiki XMLRPC interface It allow user retrieve content information wiki page Possible us include provide automatic email wiki page change print page wiki inclusion portable device remotely back wiki transfer page one wiki another"
+    },
+    {
+        "progweb_cat": "Wiki",
+        "api_name": "Wikispaces",
+        "id": 13708,
+        "progweb_descr": " Wikispaces API use advanced management Wikispace wikis This SOAP API compose six WSDL file WSDL file provide authentication user space page tag message service WIkispaces API fully compatible PHP PERL Python ASP C"
+    },
+    {
+        "progweb_cat": "Wiki",
+        "api_name": "Socialtext",
+        "id": 15439,
+        "progweb_descr": " Socialtext provide enterprise social software business goal improve knowledge management share Socialtext REST API include set functionality allow programmer create read update delete much data Socialtext system This include tags page attachment workspace user Signals search result There also SOAP interface content host Socialtext workspace"
+    },
+    {
+        "progweb_cat": "Wiki",
+        "api_name": "PBwiki",
+        "id": 15866,
+        "progweb_descr": " From site PBwiki worlds large consumer wiki farm PBwiki go roll API let developer access update wikis programmatically"
+    },
+    {
+        "progweb_cat": "Wiki,Search",
+        "api_name": "WikiLocation",
+        "id": 1336,
+        "progweb_descr": " WikiLocation API developer wish search Wikipedia article location data gather download Wikipedia database weekly basis parse geocoded entry This data store database able accessed via API WikiLocation support 36 language total 38 million article At present 1 million entry enwikipediaorg alone In addition search via location user also search via venue spot IDs two popular geolocation network Foursquare Gowalla well Yahoo WOEID API use RESTful protocol response format XML JSON JSONP"
+    },
+    {
+        "progweb_cat": "Wiki,Search",
+        "api_name": "Dandelion Wikisearch",
+        "id": 7042,
+        "progweb_descr": " With experimental API user could find Wikipedia page cant recall exact title Dandelion Wikisearch useful developer work Internet data interested add service particular website application site display parameter text lang require addition limit offset query include optional JSON response available along code sample Developers receive support via email community forum"
+    },
+    {
+        "progweb_cat": "Wiki,Open Source",
+        "api_name": "MediaWiki Swagger",
+        "id": 3026,
+        "progweb_descr": " MediaWiki Swagger API allow developer access integrate functionality MediaWiki application websites Some example API method include retrieve wiki content edit wiki content manage content MediaWiki provide functionality wikis include Wikipedia text HTML content creation edit"
+    },
+    {
+        "progweb_cat": "Wiki,News Services",
+        "api_name": "LocalWiki",
+        "id": 11342,
+        "progweb_descr": " LocalWiki online platform allow user community create share local knowledge news content community LocalWiki API allow developer access integrate functionality LocalWiki application create new application Some example API method include manage user add delete edit wiki content retrieve file map image"
+    },
+    {
+        "progweb_cat": "Wiki,Business",
+        "api_name": "EditMe",
+        "id": 13992,
+        "progweb_descr": " EditMe wiki website service EditMe specialize collaborative wiki website allow user collaborate create edit share web content document EditMe API allow developer integrate access EditMes functionality Some example API method include access edit page email group attachment user account information"
+    },
+    {
+        "progweb_cat": "Wiki,Blogging",
+        "api_name": "Wikidot",
+        "id": 14192,
+        "progweb_descr": " Wikidot web application service people create collaborative web space look like traditional wiki forum blog Users use mix forum wiki page template module custom theme addin package reusable site template create almost collaborative web project Wikidot API way computer program automate system access interact Wikidot user User script use API access Wikidot data like site belong user page meta data like title tag parent actual content page information attach file"
+    },
+    {
+        "progweb_cat": "Wiki,Enterprise",
+        "api_name": "Cogmap",
+        "id": 15570,
+        "progweb_descr": " From site Organization Chart Data accessible XOXO document call URL xoxophp return nest set unordered list describe organization Each list item also contain several piece metadata associate list"
+    },
+    {
+        "progweb_cat": "Wiki,Social",
+        "api_name": "Wetpaint Injected",
+        "id": 15648,
+        "progweb_descr": " Wetpaint Injected allow website incorporate Wetpaint feature website Implementing Wetpaint Injected require access server page basic web API programming skill Wetpaint Injected APIs RESTful access many programming language"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "progweb_cat": "Data Mining,Extraction",
+        "api_name": "import.io",
+        "id": 365,
+        "progweb_descr": " importio service allow user find data source web extraction use connect remix data website application importio API allow developer access integrate functionality importio application Some example API method include retrieve data import data extract data manage account information"
+    },
+    {
+        "progweb_cat": "Data Mining,eCommerce",
+        "api_name": "Fetchee Product",
+        "id": 2256,
+        "progweb_descr": " Fetchee Product API support extraction demand ecommerce data online store different part world It extract product price description image different currency languages API accepts HTTP request return JSON response proprietary API currently beta release documentation accessible upon subscription"
+    },
+    {
+        "progweb_cat": "Data Mining,eCommerce",
+        "api_name": "Diffbot Product",
+        "id": 7002,
+        "progweb_descr": " Diffbot Product API analyze shop ecommerce product page return full information product identify include price information product ID UPC image description automatically product page site Developers interested test Diffbot view documentation page insert product page URL see API retrieves product detail return JSON object"
+    },
+    {
+        "progweb_cat": "Data Mining",
+        "api_name": "Luminati Proxy Manager",
+        "id": 2447,
+        "progweb_descr": " Luminati Proxy Manager API forward HTTPHTTPS proxy accelerate compress rotate distribute manage monitor report log debug traffic proxy locate around world Luminatis P2P network include 17 million residential IPs identify proxiesTor This API require Git version 17 Nodejs version 6"
+    },
+    {
+        "progweb_cat": "Data Mining",
+        "api_name": "PageMunch",
+        "id": 9836,
+        "progweb_descr": " Page Munch simple API allow turn webpage rich structure JSON Easily extract photos videos event author metadata page internet millisecond"
+    },
+    {
+        "progweb_cat": "Data Mining,Authorization",
+        "api_name": "W3C Credential Management",
+        "id": 4012,
+        "progweb_descr": " W3C Credential Management API gather personal profile website user intermediary platform generally user agent assist intermediary secure proper storage data future reference API design track store user credential usernames password able prompt autofilling detail login signin form W3C Credential Management API transmit request response HTTP XML format"
+    },
+    {
+        "progweb_cat": "Data Mining,Big Data",
+        "api_name": "Proxy-Spider",
+        "id": 4284,
+        "progweb_descr": " Proxy Spider Proxy API service provide access thousand proxy address check every 2 minute Proxy Spider API integrate data mining open data application Services include HTTP sock proxy update daily IP PORT TXT JSON CSV XML format"
+    },
+    {
+        "progweb_cat": "Data Mining,Content",
+        "api_name": "NewsData",
+        "id": 5184,
+        "progweb_descr": " Trooclick ’ WhoSaidWhatNews API create structure data text news article use NLP technology data deliver include automatically extract quote uniquely capable extract BOTH direct indirect quote speech anaphora resolution speaker speaker picture available story headline story summary company involve company logos available related article URLs duplicate article detection This JSON API RESTful information available contacting Trooclick apitrooclickcom"
+    },
+    {
+        "progweb_cat": "Data Mining,Analytics",
+        "api_name": "AlchemyData News",
+        "id": 5363,
+        "progweb_descr": " AlchemyDataNews API allow user query daily news index 250 300 thousand English language blog new article API also allow historical query previous 60 day Responses JSON XML use API Key authentication AlchemyAPI text mining platform It provide set semantic analysis capability natural language processing field Customers able perform social medium monitor target advertisement track sentiment medium automate content aggregation recommendation etc"
+    },
+    {
+        "progweb_cat": "Data Mining,Analytics",
+        "api_name": "AlchemyAPI Web Taxonomy",
+        "id": 7531,
+        "progweb_descr": " Taxonomy API allow user classify content topic category five level deep Content filter grouped analysis track topic Narrow classification enable user target decision finer resolution AlchemyAPI text mining platform It provide set semantic analysis capability natural language processing field Customers able perform social medium monitor target advertisement track sentiment medium automate content aggregation recommendation etc"
+    },
+    {
+        "progweb_cat": "Data Mining,Images",
+        "api_name": "AlchemyAPI Image Tagging",
+        "id": 5661,
+        "progweb_descr": " AlchemyAPI Image Tagging API perform tag image internetaccessible URLs image file This API allow extract metadata return XML JSON format Requests JSON response JSON RDF XML Authentication unique private API Key AlchemyAPI data mining platform It provide set semantic analysis capability natural language processing field Customers able perform social medium monitor target advertisement track sentiment medium automate content aggregation recommendation"
+    },
+    {
+        "progweb_cat": "Data Mining,Documents",
+        "api_name": "Overview Project",
+        "id": 6687,
+        "progweb_descr": " Overview Project API allow manipulate document set analyze search visualize data singularity service workflow aim accelerate data mining process In 90 second user learn use Overview Some affordances include recognize data pattern read interface analyze social medium conversation Researchers developer journalists user benefit Overview Project site offer additional number option use API"
+    },
+    {
+        "progweb_cat": "Data Mining,Application Development",
+        "api_name": "MonkeyLearn",
+        "id": 6831,
+        "progweb_descr": " MonkeyLearn cloud base text mine semantic processing service Developers integrate MonkeyLearn app natural language processing machine learn customize uploaded text Users extract classify content use MonkeyLearns web interface APIs MonkeyLearn host web API wrapper major program language compatibility application"
+    },
+    {
+        "progweb_cat": "Data Mining,Data",
+        "api_name": "80legs",
+        "id": 15419,
+        "progweb_descr": " 80legs service platform web crawl process web content 80legs API give developer simple programmatic interface access functionality 80legs provide outside web portal This fee base service"
+    }
+]

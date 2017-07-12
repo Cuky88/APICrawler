@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Transactions,Currency",
+        "api_name": "FXCM FIX",
+        "id": 1734,
+        "progweb_descr": " FXCM FIX API provide message standard realtime global trading transaction Developers use offtherack Trading Station develop custom institutional interface API deliver ups 250 price update per second cover full range trading order type available FXCM"
+    },
+    {
+        "progweb_cat": "Transactions,Currency",
+        "api_name": "Uphold",
+        "id": 5274,
+        "progweb_descr": " Previously name Bitreserve Uphold API integrate transaction application JSON format available send request receive response Developers require token access API Methods include currency ticket account card contact user statistic"
+    },
+    {
+        "progweb_cat": "Transactions,Data",
+        "api_name": "Continuum Connect",
+        "id": 2940,
+        "progweb_descr": " Continuum Connect API offer developer lowlatency access realtime stream quote historical data well stock trading gateway Continuum Connects gateway access seventyfive source market data forty exchange order rout This API provide via ASP model"
+    }
+]

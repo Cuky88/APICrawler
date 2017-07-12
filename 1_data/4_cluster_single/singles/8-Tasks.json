@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "Tasks,Applications",
+        "api_name": "Mozilla Web Activities",
+        "id": 2181,
+        "progweb_descr": " Mozilla Web Activities API allow application delegate performance task image selection email forward another application choose user Developers use API provide interface implement seamless transfer task app delegate activity one handle task API currently compatible Firefox OS"
+    },
+    {
+        "progweb_cat": "Tasks,Applications",
+        "api_name": "Google App Engine Task Queue",
+        "id": 6000,
+        "progweb_descr": " Google App Engine Task Queue API allow application execute background work create task These task small discrete unit work add task queue execute later This API still Alpha may subject backwardsincompatible change As result recommend production use"
+    },
+    {
+        "progweb_cat": "Tasks,API",
+        "api_name": "API2Task",
+        "id": 4328,
+        "progweb_descr": " API2Task API intend provide way access manage data task management platforms It enable developer retrieve add delete update follow resource project user issue comment priority tag status task data API2Task API aim facilitate scalable architecture user handle various add platform"
+    },
+    {
+        "progweb_cat": "Tasks,Scheduling",
+        "api_name": "TaskCluster AWS Provisioner",
+        "id": 4441,
+        "progweb_descr": " TaskCluster AWS Provisioner API allow developer perform basic instance management task well maintain internal state workertype configuration information AWS Provisioner design provision instance EC2 use TaskCluster TaskCluster set component manage task queue schedule execution resource provision"
+    },
+    {
+        "progweb_cat": "Tasks,Automation",
+        "api_name": "Workflow",
+        "id": 5221,
+        "progweb_descr": " Workflow REST API allow developer access integrate functionality Workflow application create new application Some example API method include create workflow manage workflow retrieve workflow Workflow task automation application"
+    },
+    {
+        "progweb_cat": "Tasks,Cloud",
+        "api_name": "Aspose.Tasks",
+        "id": 6171,
+        "progweb_descr": " AsposeTasks API program interface offer Apose let developer integrate service application enable customer manipulate Microsoft Project document directly application API REST base use platform support REST Apose software company specialize file management cloud"
+    },
+    {
+        "progweb_cat": "Tasks,Cloud",
+        "api_name": "Agilefant",
+        "id": 7609,
+        "progweb_descr": " Agilefant simple agile backlog management service design adapt user team structure rather force change match structure It also scale use anyone individual freelancer large organization It handle personal todo list multiteam project management everything inbetween"
+    },
+    {
+        "progweb_cat": "Tasks",
+        "api_name": "OrganiTask",
+        "id": 7236,
+        "progweb_descr": " OrganiTask webbased task management application allow user create manage task anywhere browser Users edit multiple task create template task organize task calendar upload file task download file time Tasks categorize filter use context folder tag criterion Users pro account use OrganiTask API create retrieve task programmatically"
+    }
+]

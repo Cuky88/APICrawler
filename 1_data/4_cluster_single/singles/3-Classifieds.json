@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Classifieds,Customer Service",
+        "api_name": "LostAndFound",
+        "id": 3066,
+        "progweb_descr": " LostAndFound API allow developer programmatically access webbased lose found service include report search capability These service cover kinds public venue include airport hotel car rental stadiums restaurant Users add venue page use report display lose find information location Alternatively user retrieve information exist venue page use elsewhere"
+    },
+    {
+        "progweb_cat": "Classifieds,Classification",
+        "api_name": "YClas",
+        "id": 3621,
+        "progweb_descr": " YClas API integrate classified service website It available JSON protocol API Key Users integrate category location custom field ad listing"
+    },
+    {
+        "progweb_cat": "Classifieds,Advertising",
+        "api_name": "Slamby",
+        "id": 3910,
+        "progweb_descr": " Slamby advertisement categorization platform feature automation 99 accuracy level recommendation result filter document management It focus classified ad This platform adequate text analysis customer service task Slamby API integrate application data management center help improve data analysis This API REST base exchange information JSON format require API Keys authentication"
+    }
+]

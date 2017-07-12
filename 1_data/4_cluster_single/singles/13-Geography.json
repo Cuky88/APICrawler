@@ -1,0 +1,80 @@
+[
+    {
+        "progweb_cat": "Geography,Location",
+        "api_name": "W3C Geolocation",
+        "id": 2277,
+        "progweb_descr": " W3C Geolocation API define specification API provide access geolocation information host device form latitude longitude coordinate It allow oneshot repeat position update well query cache position This document stable recommendation may cite use reference material"
+    },
+    {
+        "progweb_cat": "Geography,Location",
+        "api_name": "Elevation Return",
+        "id": 2655,
+        "progweb_descr": " With Elevation API get elevation geographic point use Python lib elevation API data provide come ASTER GDEM dataset product NASA METI It smooth output data filter high inconsistency void"
+    },
+    {
+        "progweb_cat": "Geography,Location",
+        "api_name": "Elevation",
+        "id": 3306,
+        "progweb_descr": " By use latitude longitude developer obtain land elevation 56°S 60°N resolution 1 arcsecond around 30 meter This API use JSON request"
+    },
+    {
+        "progweb_cat": "Geography,Location",
+        "api_name": "New York Times Geographic",
+        "id": 6305,
+        "progweb_descr": " New York Times Geographic API let developer get access location people place organization descriptor make control vocabulary find New York Timess metadata API 5 key concept latitude longitude value query term range bound box nearby API accessibly API key"
+    },
+    {
+        "progweb_cat": "Geography,Content",
+        "api_name": "Geobytes GeoIf",
+        "id": 5511,
+        "progweb_descr": " GeoIf API allow user get location associate visitor IP Address display location detail webpage Integrating API webpage simple copypasting code snippet placeholder position placeholder determines visitor geographic information appear page"
+    },
+    {
+        "progweb_cat": "Geography,Cities",
+        "api_name": "GeoBytes Get Nearby Cities",
+        "id": 5578,
+        "progweb_descr": " GeoBytes Get Nearby Cities API allow developer retrieve information city near give location API return name bear direction latitude longitude distance nearby city Locations distance calculate base give IP Address Fully Qualified City Name FQCN Geobytes Location Code"
+    },
+    {
+        "progweb_cat": "Geography,Cities",
+        "api_name": "Geobytes Get City Details",
+        "id": 5592,
+        "progweb_descr": " Geobytes Get City Details API allow developer retrieve city attribute location give IP Address latitudelongitude Fully Qualified City Name FQCN Geobytes Location Code It also optional parameter let user set default location API return unable determine location IP Address This API free version Geobytes legacy IP Locator API"
+    },
+    {
+        "progweb_cat": "Geography,Localization",
+        "api_name": "Geobytes GeoDirection",
+        "id": 5579,
+        "progweb_descr": " GeoBytes GeoDirection API allow developer detect website visitor IP Address redirect base geographic location Developers use API redirect visitor base city region country insert localized content webpage Developers use service without instal special software web server"
+    },
+    {
+        "progweb_cat": "Geography,Localization",
+        "api_name": "Geo Services",
+        "id": 7262,
+        "progweb_descr": " Geo Services provide collection place locator function return information single location distance two location location find within give city zip code place near give location Supported location include US zip cod city Canadian post code city userdefined place Developers integrate Geo Services locationbased function application use Geo Services API"
+    },
+    {
+        "progweb_cat": "Geography,Data",
+        "api_name": "Geobytes Get Distance",
+        "id": 5580,
+        "progweb_descr": " Geobytes Get Distance API allow developer get bear direction distance two city road air crow fly It also provide map drive direction Distance calculate great circle distance method use city latitudes longitude Users distance return either mile kilometer"
+    },
+    {
+        "progweb_cat": "Geography,Data",
+        "api_name": "Peace Corps Countries & Regions REST",
+        "id": 6433,
+        "progweb_descr": " Peace Corps Countries Regions REST API allow access geographical information Peace Corps volunteer service history statuses around globe API accept specific geographic location return plethora associate data include number active past volunteer type service work perform link additional information relevant date regional population API allow free access 15 request per second operate XML JSON format Documentation additional information open source GitHub"
+    },
+    {
+        "progweb_cat": "Geography,Addresses",
+        "api_name": "GeoBulk Reverse Geocoding",
+        "id": 6141,
+        "progweb_descr": " GeoBulk offer simple reverse geocoding API API accept longitude latitude coordinate HTTP GET request return specific address JSON serialize object API offer support throughout United States However international coverage currently support API service free 1000 Reverse Geocodes per day increase usage require monthly subscription"
+    },
+    {
+        "progweb_cat": "Geography,Countries",
+        "api_name": "Time and Date Places",
+        "id": 6987,
+        "progweb_descr": " Time Date Places API retrieve name place geographically identify list Recognized parameter include geo lang response element consist place Developers find example XMLJSON format This API place useful developer want locate information related country state latitude longitude Time Date base Norway Some resource cost clock countdowns APIs Packages additional request available purchase"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Grocery,Aggregation",
+        "api_name": "Perfect Scraper",
+        "id": 4564,
+        "progweb_descr": " Perfect Scraper API enable developer retrieve information Walmart purchase available consumer saving catcher account This API Rest base"
+    },
+    {
+        "progweb_cat": "Grocery,Advertising",
+        "api_name": "MasterCourses",
+        "id": 4885,
+        "progweb_descr": " MasterCourses REST API design developer want access hyperlocalized grocery recipes data MasterCourses API currently support French grocery retailer Auchan Leclerc Carrefour Monoprix Casino Some example API method include retrieve product information listing product location listing store location MasterCourses provide product store information hyperlocal advertising shopping retailer brand"
+    },
+    {
+        "progweb_cat": "Grocery,Database",
+        "api_name": "InteliChoice",
+        "id": 5925,
+        "progweb_descr": " InteliChoice Database comprehensive database nutrition attribute It built Foxfire Printing keep uptodate maintain registered dietician They offer database form InteliChoice API give grocer ability utilize developer tool create storebrand shopping tool continue promote healthy eat InteliChoice API many feature provide detailed information package fresh food offer smart tool help shopper make personalized shopping list meal plan health condition nutrition information find UPC code much much"
+    }
+]

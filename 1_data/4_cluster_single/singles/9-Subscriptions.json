@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Subscriptions,Banking",
+        "api_name": "Cardlife",
+        "id": 1947,
+        "progweb_descr": " Cardlife REST API allow developer access integrate functionality Cardlife application Public documentation available API access come account service Cardlife platform allow user find track manage business subscription"
+    },
+    {
+        "progweb_cat": "Subscriptions,Business",
+        "api_name": "Cratejoy",
+        "id": 3687,
+        "progweb_descr": " Cratejoy API integrate subscription feature applications Customers pay monthly fee receive gift box accord personal preference It available JSON architecture basic authentication Cratejoy ecommerce subscription marketplace"
+    },
+    {
+        "progweb_cat": "Subscriptions,Business",
+        "api_name": "ChartMogul Import",
+        "id": 4018,
+        "progweb_descr": " ChartMogul Import API integrate data source customer plan invoice business application It available JSON protocol secure HTTPS Authentication require via account token secret key ChartMogul subscription revenue analytics platform integrate Stripe Braintree Recurly Chargify others"
+    },
+    {
+        "progweb_cat": "Subscriptions,Business",
+        "api_name": "ChartMogul Enrichment",
+        "id": 4019,
+        "progweb_descr": " ChartMogul Enrichment API integrate enrichment feature application web service It available JSON protocol secure HTTPS Authentication require via account token secret key ChartMogul subscription revenue analytics platform integrate Stripe Braintree Recurly Chargify others"
+    },
+    {
+        "progweb_cat": "Subscriptions,Business",
+        "api_name": "ChartMogul Metrics",
+        "id": 4020,
+        "progweb_descr": " ChartMogul Metrics API integrate metric application web service It available JSON protocol secure HTTPS Authentication require via account token secret key ChartMogul subscription revenue analytics platform integrate Stripe Braintree Recurly Chargify others"
+    },
+    {
+        "progweb_cat": "Subscriptions,Billing",
+        "api_name": "Zuora REST",
+        "id": 3817,
+        "progweb_descr": " This REST API allow get information ID account subscription status Zuora subscription management system cloud platform library reusable apps native developer console build APIs They provide access pointandclick workflow engine prebuilt integration CRM gateway tax engines general ledger"
+    },
+    {
+        "progweb_cat": "Subscriptions,Billing",
+        "api_name": "Zoho Subscriptions",
+        "id": 6145,
+        "progweb_descr": " Zoho Subscriptions online bill subscription management application provide business way manage subscriptionbased product easily ZOho Subscriptions API let developer expand build platform allow developer integrate manipulate service application This API REST base"
+    },
+    {
+        "progweb_cat": "Subscriptions,Billing",
+        "api_name": "Zuora SOAP",
+        "id": 15300,
+        "progweb_descr": " Zuora leader subscription bill recur payment Our ZBilling ZPayments product make fast easy launch new product scale operation automate recur billing subscription payment one solution"
+    },
+    {
+        "progweb_cat": "Subscriptions,Automation",
+        "api_name": "Chargebee",
+        "id": 10163,
+        "progweb_descr": " Chargebee subscription billing service recur charge software service SaaS subscription Chargebee API allow developer access integrate functionality Chargebee applications Some example API method include manage customer information manage subscription retrieve information subscription"
+    }
+]

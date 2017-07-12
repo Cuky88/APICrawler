@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "Taxes,Business",
+        "api_name": "Canadian Sales Tax",
+        "id": 2774,
+        "progweb_descr": " Canadian Sales Tax API allow developer integrate sale tax information application use postal abbreviation Canada follow method available Get current GST global sale tax Get current HST harmonize sale tax province Get current HST province Get current GST province Get current PST provincial sale tax province Get total applicable tax province Get total applicable tax province Currently API support JSON response"
+    },
+    {
+        "progweb_cat": "Taxes,Documents",
+        "api_name": "India Goods and Service Tax (GST)",
+        "id": 2962,
+        "progweb_descr": " India Goods Service Tax GST API RESTful API provide service taxpayer related functionality This include service Information Payment Filling Returns Registration Ledger Viewing Using GST Developer portal content provide help application developer understand use consume GST APIs application"
+    },
+    {
+        "progweb_cat": "Taxes,International",
+        "api_name": "Pitney Bowes DutyCalculator",
+        "id": 3095,
+        "progweb_descr": " This API enable merchant charge accurate import duty tax checkout offer total land cost international customer It allow merchant classify product catalog create require documentation like commercial invoice pack list This include 10 digit HS cod country destination Pitney Bowes global technology company offering product solution enable commerce area customer information management location intelligence customer engagement"
+    },
+    {
+        "progweb_cat": "Taxes,Accounting",
+        "api_name": "Avalara TaxRates",
+        "id": 6056,
+        "progweb_descr": " Free Sales Tax Rates Developers Our Tax Rates API easy way use sale tax rate project Our API power tax rule content rate updated tax rule change stay current You use API Get sale tax rate five digit zip code United States Get sale tax rate specific street address United States Avalara online tax filing solution integrate QuickBooks MSDun Magento 3dcart others Avalara Tax Rates API accept country postal code input retrieve correspond sale tax rate area API also accept address along country state zip code order determine specific location tax rate Tax Rates API return JSON response list individual jurisdiction summary corresponding tax rate return decimal equivalent percentages Avalara Tax Rates API limit 15 tax rate request per minute"
+    },
+    {
+        "progweb_cat": "Taxes,Accounting",
+        "api_name": "TaxCloud",
+        "id": 13429,
+        "progweb_descr": " TaxCloud sale tax management service online retailer API use HTTP method API Key authentication Use TaxCloud handle aspect tax management include calculate collect remit sale tax assign tax category handle exemption certificate APIs also access JSON WSDL SOAP"
+    },
+    {
+        "progweb_cat": "Taxes,Government",
+        "api_name": "Taxee",
+        "id": 6935,
+        "progweb_descr": " Taxee RESTful API accept income amount filing status calculate tax amount owe This filing preparation service take federal state mandate well deduction consideration prepare amount Taxee API also retrieve information deduction tax bracket state give certain year API open source available download GitHub"
+    },
+    {
+        "progweb_cat": "Taxes,Compliance",
+        "api_name": "Taxamo",
+        "id": 7095,
+        "progweb_descr": " Taxamo service make easy online retailer comply EU VAT tax law take care EU VAT calculation evidence collection EU MOSS settlement audit service Taxamo REST API enable user integrate compliance service shopping cart ecommerce software Integrating Taxamo affect customer purchase experience"
+    },
+    {
+        "progweb_cat": "Taxes,Financial",
+        "api_name": "ActiveFrequency PyAvaTax",
+        "id": 7118,
+        "progweb_descr": " Active Frequency web mobile development group specialize Android Django platforms They provide web mobile software project across various industry include healthcare education ecommerce politics game PyAvaTax Active Frequencys Sales Tax API Library Avalara SaaS provider help navigate tax PyAvaTax python client library integrate Avalaras REST AvaTax API"
+    }
+]

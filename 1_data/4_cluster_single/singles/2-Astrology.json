@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Astrology,Astronomy",
+        "api_name": "Mercury Retrograde",
+        "id": 3067,
+        "progweb_descr": " Mercury Retrograde API allow developer determine whether Mercury retrograde give date When Mercury retrograde appear move backwards sky relative Earth due orbital difference In astrology commonly believe Mercury retrograde breakdown communication technology likely"
+    },
+    {
+        "progweb_cat": "Astrology,Dating",
+        "api_name": "Vedic Rishi Astro",
+        "id": 5442,
+        "progweb_descr": " Vedic Rishi company base India offer mantras horoscope astrology matchmaking service It also provide API read write data mobile application API feature include REST principle API endpoint Api Key authentication official PHP client library With package developer access basic astro detail horoscope chart pachang vimshottari dasha matchmaking numerology prediction"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "progweb_cat": "Networking,Browsers",
+        "api_name": "Mozilla Network Information",
+        "id": 2154,
+        "progweb_descr": " Mozilla Network Information API conveys data connectivity statuses device network WiFi cellular network This allow user determine whether connection support highdefinition lowdefinition content access API currently support mobile browser Android Firefox Mobile Gecko It still beta release subject future change"
+    },
+    {
+        "progweb_cat": "Networking,Mobile",
+        "api_name": "Mozilla Mobile Connection",
+        "id": 2182,
+        "progweb_descr": " Mozilla Mobile Connection API useful building tool determine connectivity status mobile device provide access functionality within Integrated Circuit Card ICC It certify API due sensitive nature information contain ICC API use prescribe appropriate method handle ICC functionality include card lock MMI message call forwarding option"
+    },
+    {
+        "progweb_cat": "Networking",
+        "api_name": "TM Forum NFV Entity Provisioning",
+        "id": 2323,
+        "progweb_descr": " Network service product one multiple physical virtual network function TM Forum NFV Entity Provisioning API allow developer manage lifecycle network service RESTful API send request URI Query StringCRUD JSON format return response JSON format API currently beta release"
+    },
+    {
+        "progweb_cat": "Networking",
+        "api_name": "WebKnox Proxies",
+        "id": 8590,
+        "progweb_descr": " Begun research project Royal Melbourne Institute Technology University Technology Dresden WebKnox ontologydriven fact extraction engine build provide direct fast complete answer question topic user think To answer question WebKnox use external service might previously provide answer compute answer use knowledge base If option fail WebKnox try find answer fly WebKnox host suite REST APIs deliver range web service WebKnox Proxies API allow application website retrieve public proxy API deliver proxy batch individually allow user report dead proxy"
+    },
+    {
+        "progweb_cat": "Networking,Caching",
+        "api_name": "OpenStack Domain Name Server",
+        "id": 2343,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service It provide standard APIs well suit multiple implementationsThe OpenStack Domain Name Server API network solution build update domain name application Developers use API deploy OpenStack ’ Nova platform manage DNS apps API mainly conveys HTTPformatted request response"
+    },
+    {
+        "progweb_cat": "Networking,Applications",
+        "api_name": "OpenStack Networking",
+        "id": 2444,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service organization provide standard APIs well suit multiple implementation include OpenStack Networking API RESTful API allow network service provider implement variety HTTP protocols include cache connectivity content compression API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Networking,Brazilian",
+        "api_name": "Vitortec Consult IP and Reverse",
+        "id": 4067,
+        "progweb_descr": " IP e Reverso API use obtain IP website information free This API return information JSON format Vitortec software development firm base Brazil provide application Android Facebook Chrome Windows Linux Also offer web development service CMS WordPress Bootstrap"
+    },
+    {
+        "progweb_cat": "Networking,Security",
+        "api_name": "IP2Proxy Proxy Detection Web Service",
+        "id": 4151,
+        "progweb_descr": " IP2Proxy Proxy Detection Web Service API allow instant detection anonymous proxy VPN TOR exit node IP address Credits need perform query purchase online httpwwwip2locationcomip2proxywebservice"
+    },
+    {
+        "progweb_cat": "Networking,Automation",
+        "api_name": "Global Caché",
+        "id": 5213,
+        "progweb_descr": " Global Caché API provide developer standard interface control monitoring Global Caché unit associate device API available iTach Flex product Flex Link Cables Global Caché company create WiFi IPenabled product residential commercial educational us These product design connect formerly unconnected device network"
+    },
+    {
+        "progweb_cat": "Networking,Tools",
+        "api_name": "Daily-Proxies.com",
+        "id": 10558,
+        "progweb_descr": " DailyProxiescom service provide user welltested functional proxy use many different Internet application An API provide let user import test fresh proxy several time per day directly application without manual effort API use HTTP call response format HTML Text"
+    },
+    {
+        "progweb_cat": "Networking,Management",
+        "api_name": "OiDViEW MIB",
+        "id": 10560,
+        "progweb_descr": " OiDViEW MIB API allow user query online SNMP MIB database anywhere world There thousand public domain MIBs hundred Network Management vendor MIB database These MIBs usually update weekly To use API user need key must include request It freely available noncommercial use developer may license commercial use API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Networking,Monitoring",
+        "api_name": "Uptrends",
+        "id": 11363,
+        "progweb_descr": " service provide monitoring website online resource continuous uptime alert case resource become unresponsive It allow creation probe interact specify URLs preset interval report back response status service Probes set criterion notification include contact method address condition trigger notification frequency message etc API method support basic operation create read update delete monitoring rule CRUD operation include resource monitor response status detect Methods also support retrieve reporting data uptime statistic history alert"
+    },
+    {
+        "progweb_cat": "Networking,Monitoring",
+        "api_name": "ESnet OSCARS",
+        "id": 11482,
+        "progweb_descr": " service provide indicator management fundtions traffic Energy Sciences Network ESnet It supplement network infrastructure dynamically assign secure circuit guarantee bandwidth need support computationintensive process large data transfer This traffic management help prevent disruption researcher process task due limit network capacity API method support create list review updating reservation network capacity within ESNet infrastructure Methods also provide information available network topology allow definition datatransfer path"
+    },
+    {
+        "progweb_cat": "Networking,Monitoring",
+        "api_name": "Nimsoft CloudMonitor",
+        "id": 12119,
+        "progweb_descr": " service provide data chart report uptime availability performance designate online server service Available web dashboard via API accepts designate URLs test periodically log response time effectiveness API method support submission URL test retrieval performance report generate test perform different server locate around world API also give access historical report designate service ability update performance log trace route contact specific IP address geolocation IPs"
+    },
+    {
+        "progweb_cat": "Networking,Monitoring",
+        "api_name": "cTuning",
+        "id": 12240,
+        "progweb_descr": " cTuning collaborative opensource repository computer system performance information service collect voluntary report system configuration performance data attempt consolidate profile technique tool enable efficient selftuning computer system It establish free opensource repository describe system architectures performance characteristic data provide basis optimize system depend task need operate environment API method support submit performance configuration report service Methods also allow access collaborative database predict optimum configuration base system task requirement submit request"
+    },
+    {
+        "progweb_cat": "Networking,Monitoring",
+        "api_name": "Binary Canary",
+        "id": 12642,
+        "progweb_descr": " service monitor specify online resource include website email address domain name generates message specify user contact problem find It intend provide rapid detection downtime slow system response immediate alert trigger corrective action Alert event notification contact data configure user account monitoring check conduct automatically API method support account creation configuration creation monitor basic server ping HTTP response FTP uptime Methods also allow update delete exist monitor retrieve contact setting monitor report event detection history"
+    },
+    {
+        "progweb_cat": "Networking,Domains",
+        "api_name": "Amazon Route 53",
+        "id": 11504,
+        "progweb_descr": " Amazons service provide management DNS record include register domain name assign domain specific server IP address generally manage domainlevel access subset storage location within AWS cloud API method support create update domain resource record set route traffic specify Hosted Zones within application storage platform Methods also allow definition functional control Hosted Zones include name server start authority SOA aliases load balancer distribute traffic relate specification"
+    },
+    {
+        "progweb_cat": "Networking,Wireless",
+        "api_name": "Anyfi.net",
+        "id": 11916,
+        "progweb_descr": " service detects wireless network access redirect attempts internet connection user home network login credential supply Upon successful authentication user access internet resource via home network connect wireless network need credential home network API method support submission login credential access home network along radio resource request give access reach network via remote wireless access point Methods automatically throttle traffic new connection ensure doesnt interfere primary function access point serve home network"
+    }
+]

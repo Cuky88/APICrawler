@@ -1,0 +1,194 @@
+[
+    {
+        "progweb_cat": "Translation,Language",
+        "api_name": "Google Translate",
+        "id": 268,
+        "progweb_descr": " From site University Research Program Google Translate provide researcher field automatic machine translation tool help compare contrast build top Googles statistical machine translation system Participation program allow researcher programmatic access Googles translation service A translation request return either A single translation high score output Google Translate As detailed word alignment information A list nbest translation detail score information Google Translate API second version"
+    },
+    {
+        "progweb_cat": "Translation,Language",
+        "api_name": "Microsoft Translator",
+        "id": 428,
+        "progweb_descr": " Microsoft Translator AJAX API provide automated translation web page portion web page different language"
+    },
+    {
+        "progweb_cat": "Translation,Language",
+        "api_name": "LangId",
+        "id": 1229,
+        "progweb_descr": " LangID fast way retrieve information sort language without specify language Give service piece text provide English name language ISO code image flag one country language speak API extend LangID developer build"
+    },
+    {
+        "progweb_cat": "Translation,Language",
+        "api_name": "Transltr",
+        "id": 2502,
+        "progweb_descr": " Transltr API provide translation feature JSON format Developers GET POST translate request include query parameter type string data type"
+    },
+    {
+        "progweb_cat": "Translation,Language",
+        "api_name": "IBM Watson Language Translation",
+        "id": 4713,
+        "progweb_descr": " IBM Watson Language Translation API use statistical machine translation technique provide domainspecific translation They currently offer three domain translate total seven language Conversational News domains provide translation English Arabic Brazilian Portuguese French Spanish Patent domain provide translation English Brazilian Portuguese Chinese Korean Spanish"
+    },
+    {
+        "progweb_cat": "Translation,Language",
+        "api_name": "KantanMT",
+        "id": 8851,
+        "progweb_descr": " KantanMT provide solution build machine translation engine integrate workflow project management system KantanMT API allow developer access integrate functionality KantanMT applications Some example API method include search job manage job upload document file"
+    },
+    {
+        "progweb_cat": "Translation,Teleconferencing",
+        "api_name": "Cadence Translate Call Booking",
+        "id": 1611,
+        "progweb_descr": " Cadence Translate Call Booking REST API allow developer access integrate call book functionality Cadence Translate application main API method book call Cadence Translate Cadence Translate provide translation business meeting livestreams use realtime simultaneous UNstyle translation"
+    },
+    {
+        "progweb_cat": "Translation,Reference",
+        "api_name": "WSBE Machine Translation",
+        "id": 2226,
+        "progweb_descr": " WSBE Machine Translation API allow user translate text one language another This API support 70 language Developers contact WSBE custom plan intend translate large number text"
+    },
+    {
+        "progweb_cat": "Translation,Documents",
+        "api_name": "Elanex Translation",
+        "id": 2497,
+        "progweb_descr": " Elanex provide translation service RESTful API feature JSON format data exchange nocodingrequired authentication mechanism webhooks file storage 256bit AES encryption Elanex offer automate translation network 36000 translator editor meet demand OData Version 40 support Translation API order ask dataspecific question How many complete translation project I source language Spanish"
+    },
+    {
+        "progweb_cat": "Translation,Documents",
+        "api_name": "WritePath Translation",
+        "id": 5371,
+        "progweb_descr": " WritePath Translation REST API allow developer access integrate functionality WritePath applications Some example API method include retrieve word count post document translation retrieve translated document text WritePath provide translation service translate content language"
+    },
+    {
+        "progweb_cat": "Translation,Books",
+        "api_name": "ABBYY Lingvo",
+        "id": 2587,
+        "progweb_descr": " big collection Russian dictionary establish brand 27 year history 140 dictionary 15 language General professional thematic dictionary thesauruses Examples use collocation pronunciation"
+    },
+    {
+        "progweb_cat": "Translation,Chat",
+        "api_name": "Zeply Human Translation",
+        "id": 3056,
+        "progweb_descr": " Zeply Human Translation API allow developer translate content real time use human translator around world This service use translate user generated content chat message feedback customer support communication Developers configure service automatically translate best review useful comment"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "Bablic",
+        "id": 3645,
+        "progweb_descr": " Bablic API integrate web translation localization application It available JavaScript enable user implement widget languages locale Bablic provide machine human translation service"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "Tolq",
+        "id": 4095,
+        "progweb_descr": " Tolq API allow developer integrate human translation application Users send Tolq content content divide sentence send professional translator Users charge per unique sentence matter many time sentence submit After translation content put back together send back user"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "Unbabel",
+        "id": 4109,
+        "progweb_descr": " Unbabel REST API allow developer access integrate functionality Unbabel applications Some example API method include manage language retrieve topic report post word count report Unbabel online translation service translate content language"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "Text United",
+        "id": 4130,
+        "progweb_descr": " Text United REST API allow developer access integrate functionality Text United application Some example API method include manage account list view project manage project detail Text United online translation service allow content translate language"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "TranslateMedia",
+        "id": 4135,
+        "progweb_descr": " TranslateMedia SOAP API allow developer access integrate functionality TranslateMedia applications Some example API method include retrieve translation post manage job project track order job TranslateMedia offer online translation service web content"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "SYSTRAN Translation",
+        "id": 4531,
+        "progweb_descr": " SYSTRAN Translation API enable developer translate text webpage document one language another available 100 language pair SYSTRAN Platform collection REST APIs Client Libraries sample Text extraction Translation Multilingual dictionaries search Natural Language Processing Language Identification Segmentation Morphological analysis Speech text OCR"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "YYZ Translations",
+        "id": 4880,
+        "progweb_descr": " YYZ Translations REST API allow developer access integrate functionality YYZ Translations application Public documentation available API access come account service YYZ Translations content translation provider"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "SpeechTrans",
+        "id": 5284,
+        "progweb_descr": " SpeechTrans speechtospeech translator offer translation software automatic speech recognition text speech service From starter plan custom plan developers access API feature REST interface machine translation 44 language human translation text text speech automatic speech recognition optical character recognition Useful consumer military education medical industry"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "IBM Watson Machine Translation",
+        "id": 5773,
+        "progweb_descr": " IBM Machine Translation API enable developer translate text one language another This beta release may support new beta release service leave beta As result API recommend production use IBM Machine Translation part Watson Developer Cloud"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "Localize",
+        "id": 6261,
+        "progweb_descr": " Localize API allow developer access integrate functionality Localize application websites Some example API method include set language retrieve translation manage account information Localize web application translation service"
+    },
+    {
+        "progweb_cat": "Translation,Languages",
+        "api_name": "Lionbridge onDemand",
+        "id": 6817,
+        "progweb_descr": " Lionbridge provider translation development test solution Lionbridge onDemand allow customer upload file translation service API let developer create onDemand buyer account find different translation quality level content create translation project get notification upon completion project"
+    },
+    {
+        "progweb_cat": "Translation",
+        "api_name": "Memsource",
+        "id": 3660,
+        "progweb_descr": " Memsource API allow developer integrate translation management service thirdparty software develop translator workbench create new tool service Memsource provide webbased desktopbased service connect translation project translation memory term base store cloud Memsources analytics allow user analyze language volume file type cost translation quality real time"
+    },
+    {
+        "progweb_cat": "Translation",
+        "api_name": "Smartling",
+        "id": 14608,
+        "progweb_descr": " Smartling developer API enable organization specify exactly content translate identify languagespecific localization design characteristic take advantage many custom feature Full documentation publicly available Smartling provider realtime crowdsourced translation Internet base business Its cloudbased software platform streamlines localization web mobile application professional crowdsourced machine translation"
+    },
+    {
+        "progweb_cat": "Translation,Project Management",
+        "api_name": "LingoHub",
+        "id": 3832,
+        "progweb_descr": " LingoHub API allow developer access translation project resource programmatically LingoHub service let users manage text developer marketer language coordinator translators one central interface Users integrate text LingoHubs browserbased translation environment file format framework like"
+    },
+    {
+        "progweb_cat": "Translation,International",
+        "api_name": "MotaWord",
+        "id": 4719,
+        "progweb_descr": " MotaWord API provide translation 70 language API also let developer get quote documentfile submit translation project along document style guide track progress translation project get activity feed real time MotaWord provide translation service power human"
+    },
+    {
+        "progweb_cat": "Translation,Software-as-a-Service",
+        "api_name": "Weglot Translation",
+        "id": 4888,
+        "progweb_descr": " Weglot Translation API website translation platform instant delivery It feature automate translation website integration professional translation It currently support 20 language This API require API key obtain registration respond JSON format Weglot provide translation service help company reach internationally"
+    },
+    {
+        "progweb_cat": "Translation,Crowdsourcing",
+        "api_name": "Hablaa Dictionary Translation",
+        "id": 6637,
+        "progweb_descr": " Hablaa offer multilanguage translation service complete team native speaker review professional translator ensure quality Hablaa Dictionary Translation API allow developer integrate free translation application feature 160 language This API base REST use URL query JSON response"
+    },
+    {
+        "progweb_cat": "Translation,Content Management",
+        "api_name": "Lingo24 Translation",
+        "id": 7089,
+        "progweb_descr": " Lingo24 translation API able process 600 language language combination Lingo24 specialize professional linguistics host Business Documents API well verse financial marketing legal terminology across language API sync standard CRM CMS system enable developer automate translation large volume content within Drupal Wordpress FatWire Joomla others Interested party may visit lingo24s home site call service line quote use API compatible JSON XML format"
+    },
+    {
+        "progweb_cat": "Translation,Applications",
+        "api_name": "OneSky",
+        "id": 7113,
+        "progweb_descr": " OneSky translation service websites game apps It provide cloudbased translation platform extensive file format support advance tool memory OneSky Platform API provide programmer access OneSkys platform management Developers integrate API automate importation exportation file"
+    },
+    {
+        "progweb_cat": "Translation,Asia",
+        "api_name": "BizEditors Translation",
+        "id": 7300,
+        "progweb_descr": " BizEditors Translation API Proofreading API allow developer access 10000 translator editors 120 different language pair integrate system"
+    }
+]

@@ -1,0 +1,1562 @@
+[
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "Yahoo Traffic",
+        "id": 219,
+        "progweb_descr": " From site Traffic Web Services Yahoo enable get traffic alert information give location Use Traffic REST API customize request many parameter include indicate location base city state zip code combination thing latitudelongitude whether include map image search radius mile Traffic Web Services also available httpdeveloperyahoonettrafficrssV1indexhtml dynamic RSS feed"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "Kiri",
+        "id": 6135,
+        "progweb_descr": " Kiri API provide programmatic interface Kiri Indonesian rideshare platform Using API key developer implement POST GET request HTTP JSON serialization access public transportation option data service recommend local citizen also tourists Users enter travel destination Kiri automatically suggest route use angkots minibus transportation Kiris general mission help reduce carbon footprint collaborate share transportation effort In addition live API Kiri offer sandbox API environment test purpose additional information developer view API documentation link"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "RouteXL",
+        "id": 6187,
+        "progweb_descr": " RouteXL API provide basic multi stop route optimization It reorder point fast itinerary Given list coordinate determine quick route visit destination Great delivery collection service location"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "Routific",
+        "id": 7467,
+        "progweb_descr": " Routific tool schedule optimized route fleet vehicle It design help reduce number truck driver need complete route well total distance travel Users input data let Routific optimize schedule already use another system integrate Routifics rout engine via API"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "BlinkMap",
+        "id": 8199,
+        "progweb_descr": " Blink Network electric vehicle charge infrastructure compose charge station spread 16 major metropolitan area throughout US BlinkMap API provide RESTful interface receive network information charger location operation hour rate network status API able retrieve information geographical area search geographical area object data type match specify term retrieve detail information describe specify single location"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "VRPSolver",
+        "id": 8883,
+        "progweb_descr": " VRPSolver web service address Vehicle Routing Problem Specifically VRPSolver design part delivery planning system address capacitate rout single depot service build around genetic algorithm VRPSolver implement SOAP web service Access free require client key"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "The Transit App",
+        "id": 9139,
+        "progweb_descr": " Transit App application help commuter traveller plan rout get direction various city Transit App API allow developer access integrate functionality Transit App application main API method retrieve route retrieve direction"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "Walk Score Travel Time",
+        "id": 9577,
+        "progweb_descr": " Walk Score website allow user search neighborhood information local place service determine walkable neighborhood generate walk score Walk Scores Travel Time API calculate travel time origin set destination API visualize travel time map support walk public transit drive biking time"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "ThinkGeo Cygnus Track",
+        "id": 11033,
+        "progweb_descr": " ThinkGeo LLC provider GIS Geographic Information Systems GPS asset track technology Their Cygnus Track solution GPS track platform It use business track fleet vehicle store vehicle information Cygnus Track web application let user view vehicle location spped route history host version API allow user add support new track device custom sensor data Public documentation available"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "Swiss Public Transport",
+        "id": 11516,
+        "progweb_descr": " Swiss public timetable data may utilize build application map station arrival time plan rout establish travel connection This information use transmit data mean web desktop mobile application API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "LogVRP",
+        "id": 11618,
+        "progweb_descr": " LogVRP multiple stop multiple destination route planner design make transportation logistics easier It calculate cheap route short route plan entire fleet complete pickup delivery customer request LogVRP API enable user upload destination fleet information well download performance data"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "Air-Trak",
+        "id": 11903,
+        "progweb_descr": " AirTrak provide organization Automatic Vehicle Location AVL Mobile Resource Management MRM solution These solution deploy across organization waste management first responder delivery service system manage work order rout reporting AirTrak API available partner look ability retrieve update AirTrak service data automatically Public documentation API available"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "Viamente Route Planner",
+        "id": 12597,
+        "progweb_descr": " Italian service map optimal route maximize efficiency delivery transportation service It develop route coverage multiple destination vehicle schedule turnbyturn direction adaptable mobile phone GPS device API method support list destination include route creation rout matrix include efficiency optimization function Methods also support track update vehicle inventory fleet operation"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "INRIX",
+        "id": 12844,
+        "progweb_descr": " service provide traffic information location US Europe algorithm route selection optimization It integrate map road system congestion report estimate travel time suggest quick route API method allow retrieval mapbased traffic information specify location destination use continuously update database traffic condition Methods support webbased mobile application Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "TransLoc",
+        "id": 13025,
+        "progweb_descr": " TransLoc transportation information system mass transportation rider Features TransLoc include realtime display transit system detailed map view bus realtime estimate arrival time TransLoc API allow developer access integrate functionality TransLoc application create new application Some example API method include retrieve transportation agency information access information base geolocation manage user account"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "ParkingInMotion",
+        "id": 13131,
+        "progweb_descr": " ParkingInMotion application provide park data information realtime ParkingInMotion cover park information around 500 city US Canada Europe Parking information include location rate hour operation entrance point park location ParkingInMotion API allow developer access integrate data functionality ParkingInMotion application Public documentation available interested developer email salesparkinginmotioncom API information access"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "RouteSavvy",
+        "id": 13161,
+        "progweb_descr": " service accepts list location generate map efficient sequence route reach either roundtrip return start place one way first last stop designate It help delivery transit rout function reach require stop efficiently possible avoid unnecessary backtracking API method accept route type roundtrip one way start end location specify latitude longitude along stop must include service return location specify list optimal sequence"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "NZTA Location Referencing",
+        "id": 13482,
+        "progweb_descr": " web service give access data describe location along New Zealand State Highway Network It give standard KML vector data state highway support validation query verify logical structure highway network Conversion method allow translation linear route data spatial representation accuracy le 1 meter API method provide data logical network structure spatial centerline map linearspatial translation directionally tolerant location search"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "jakdojade.pl",
+        "id": 14856,
+        "progweb_descr": " Jakdojade Polish site transit direction within Polands large city Jakdojade API provide access list city metadata specific city transit route time schedule"
+    },
+    {
+        "progweb_cat": "Transportation,Mapping",
+        "api_name": "HopStop",
+        "id": 15557,
+        "progweb_descr": " From site HopStop city transit guide We provide doortodoor subway bus direction map New York City You also search place eat drink sleep see City Guide Use API integrate masstransit walk direction website"
+    },
+    {
+        "progweb_cat": "Transportation,Payments",
+        "api_name": "Limo Anywhere",
+        "id": 344,
+        "progweb_descr": " Limo Anywhere reservation account management system design small midsize limo operator Limo Anywhere provide ability check availability schedule respond quote request accept online farmin reservation desktop laptop mobile phone Customers ability book online request price quote access historical data directly website Limo Anywhere provide open API thirdparty developer API allow developer integrate third party application Limo Anywhere service Developers need request access API documentation"
+    },
+    {
+        "progweb_cat": "Transportation,Geography",
+        "api_name": "Uber",
+        "id": 543,
+        "progweb_descr": " Using Uber API developer integrate power Uber 3rd party application Calls API make request information available car type driver location express geocoordinates time estimate estimate price include currency conversion applicable well user account history activity Uber API documentation describe deep link technique programmatically launch native app iOS Android Uber mobile site mobile web API come detailed style guide asset package implement licensed branding Uber API Affiliate program grant cash issue Uber credit new user onboarding 3rd party app"
+    },
+    {
+        "progweb_cat": "Transportation,Geography",
+        "api_name": "TripGo",
+        "id": 2473,
+        "progweb_descr": " TripGo API allow plan doortodoor trip use large variety public private transport It integrate realtime information select provider allow user book pay transport"
+    },
+    {
+        "progweb_cat": "Transportation,Prices",
+        "api_name": "Taxi Fare Finder",
+        "id": 605,
+        "progweb_descr": " value Taxi Fare Finder API find rate two location As fee might vary accord every place site feature list 20 entity include United States UK Australia Netherlands Belgium New Zealand India Spain China This API secure connection via SSL Some property JSON protocol cover name locale distance To get taxi fare require parameter key origin destination optional parameter callback traffic More property encompass initial fare total fare currency percentage rate area Support available developer find taxi calculation main page site"
+    },
+    {
+        "progweb_cat": "Transportation,Prices",
+        "api_name": "TaxiMe",
+        "id": 10022,
+        "progweb_descr": " TaxiMe cost estimate service use Google Maps calculate cab fare site base Canada provide cost trip information major US city TaxiMe API allow user get cab contact rate different city service use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Transportation,Prices",
+        "api_name": "TaxiFareFinder",
+        "id": 10522,
+        "progweb_descr": " TaxiFareFinder taxi fare calculation ser ice use proprietary algorithm use data 150 locality distance duration possible trip factor like traffic drive speed urban density wait time determine rate pay ride TaxiFareFinder API use REST call return JSONP service allow user embed FareFinder technology website application"
+    },
+    {
+        "progweb_cat": "Transportation,Prices",
+        "api_name": "MyGasFeed",
+        "id": 11563,
+        "progweb_descr": " service provide frequently update report automotive fuel price gasoline three grade diesel specify location region It also provide location gas station near specify location along background information station desire Applications also update service price data particular station Location information support mapping protocol API method support request fuel price information specify location area Methods also support retrieve list station detail individual station API also support update service information new pricing exist station addition new station database"
+    },
+    {
+        "progweb_cat": "Transportation,Prices",
+        "api_name": "TSO Mobile",
+        "id": 12650,
+        "progweb_descr": " service provide remote track fleet vehicle operate independently highway system It indicate geographic location track vehicle time visit fuel use available fueling station etc service interact via API Garmin GPS web service API method support secure authentication integration affiliate system Methods also support log fuel purchase use well available fueling station"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "eRail.in Indian Railways",
+        "id": 628,
+        "progweb_descr": " Through mobile apps web interface public API eRailin offer gateway access real time train information Indian Railway database Calls eRailin API make return list station associate geolocation data API also return unique train ID give two location return route give train number calculate fare destination check Passenger Number Statuses return live status give train infer seat availability book logistics track train timing Usage limitation require call make single IP server request per IP address 5 call second may make All HTTP request API return JSONformatted responses API key require usage"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "Washington Metro Real Time Bus Predictions",
+        "id": 1436,
+        "progweb_descr": " Washington Metro Real Time Bus Predictions API return data next bus arrival time stop Available JSON XML format perform callback API Key authentication"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "WSDOT Traveler Information Toll",
+        "id": 1937,
+        "progweb_descr": " This API allow access WSDOT Tolling data This include current toll rate high occupancy lane get information HOV toll lane Washington State Department Transportation steward multimodal transportation system responsible ensure people good move safely efficiently In addition building maintain operate state highway system WSDOT responsible state ferry system work partnership others maintain improve local road railroad airport well support alternative drive public transportation bicycle pedestrian program"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "WSDOT Traveler Information WSF Fares",
+        "id": 2010,
+        "progweb_descr": " WSDOT Traveler APIs provide single gateway WSDOTs data Washington State Ferry Fare data service include ticket cost category total Washington State Department Transportation steward multimodal transportation system responsible ensure people good move safely efficiently In addition building maintain operate state highway system WSDOT responsible state ferry system work partnership others maintain improve local road railroad airport well support alternative drive public transportation bicycle pedestrian program"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "WSDOT Traveler Information",
+        "id": 2011,
+        "progweb_descr": " Traveler Information APIs allow access WSDOT data This include Border Crossings Highway Alerts Mountain Pass Conditions Washington State Department Transportation steward multimodal transportation system responsible ensure people good move safely efficiently In addition building maintain operate state highway system WSDOT responsible state ferry system work partnership others maintain improve local road railroad airport well support alternative drive public transportation bicycle pedestrian program"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "WSDOT Traveler Information WSF Vessels",
+        "id": 2014,
+        "progweb_descr": " WSDOT Traveler APIs provide single gateway WSDOTs data Washington State Ferry Vessel data service include vessel attribute location Washington State Department Transportation steward multimodal transportation system responsible ensure people good move safely efficiently In addition building maintain operate state highway system WSDOT responsible state ferry system work partnership others maintain improve local road railroad airport well support alternative drive public transportation bicycle pedestrian program"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "WSDOT Traveler Information WSF Terminals",
+        "id": 2015,
+        "progweb_descr": " WSDOT Traveler APIs provide single gateway WSDOTs data Washington State Ferry Terminal data service include terminal condition wait time location Washington State Department Transportation steward multimodal transportation system responsible ensure people good move safely efficiently In addition building maintain operate state highway system WSDOT responsible state ferry system work partnership others maintain improve local road railroad airport well support alternative drive public transportation bicycle pedestrian program"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "WSDOT Traveler Information WSF Schedule",
+        "id": 2016,
+        "progweb_descr": " WSDOT Traveler APIs provide single gateway WSDOTs data Washington State Ferry Schedule data service include planned departure adjustment contingency Washington State Department Transportation steward multimodal transportation system responsible ensure people good move safely efficiently In addition building maintain operate state highway system WSDOT responsible state ferry system work partnership others maintain improve local road railroad airport well support alternative drive public transportation bicycle pedestrian program"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "Urban Things Bristol",
+        "id": 4302,
+        "progweb_descr": " Urban Things Bristol API enable developer integrate transportation data Bristol West England region application This include realtime arrival departure route map stop location disruption info bus stop train station It also offer journey planning car park occupancy info"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "DMV TREDS",
+        "id": 9591,
+        "progweb_descr": " TREDS Traffic Records Electronic Data Systems Virginia State program discloses accurate contemporary pertinent information highway crash injury road incident TREDS API allow user query specific information database service use SOAP call An account required service"
+    },
+    {
+        "progweb_cat": "Transportation,Data",
+        "api_name": "Carmalink",
+        "id": 10649,
+        "progweb_descr": " Carmasys provide engine monitoring system instal user vehicle This collect engine data user drive store later analysis Carmalink API allow user build collect data application API use REST call use SSL security"
+    },
+    {
+        "progweb_cat": "Transportation,Air Travel",
+        "api_name": "Lufthansa Open",
+        "id": 670,
+        "progweb_descr": " Use Lufthansa Open API build air travel apps REST API use HTTP GET request response JSON Register account receive API Token authentication Luthansa offer access several data set include country city airport code flight schedule status near airport list aircraft See API documentation full data set description well method code sample Deutsche Lufthansa AG large international airline base Germany"
+    },
+    {
+        "progweb_cat": "Transportation,Air Travel",
+        "api_name": "Amadeus Car Rental Airport Search",
+        "id": 4434,
+        "progweb_descr": " Amadeus Car Rental Airport Search API provide developer way integrate Amadeus Car Rental Airport Search service application enable user find price type car car rental provider near specify airport Amadeus technology company provide service business individual relate travel"
+    },
+    {
+        "progweb_cat": "Transportation,Air Travel",
+        "api_name": "Waynaut",
+        "id": 5001,
+        "progweb_descr": " Waynaut API provide RESTful JSON interface implement mapping feature around Europe With service developer access door door search multimodal trip planning integration Waynaut allow user find best way destination use combined traditional method transportation bus metro taxi innovative method ridesharing To see Waynaut work train car BlaBla car search destination httpwaynautcomenprodottiwidgetwaynaut"
+    },
+    {
+        "progweb_cat": "Transportation,Air Travel",
+        "api_name": "Libhomeradar",
+        "id": 9777,
+        "progweb_descr": " Libhomeradar provide data collection software enable radar device collect use aircraft data Libhomeradar allow user apply structure filter raw data host online database aircraft airport airline flight information Libhomeradar API allow developer query database via HTTP POSTGET call Responses XML format"
+    },
+    {
+        "progweb_cat": "Transportation,Air Travel",
+        "api_name": "Wi-Flight",
+        "id": 11834,
+        "progweb_descr": " WiFlight API allow user access bulk data flight integrate dispatch reservation system WiFlight well construct additional frontend function API use rest REST protocol return data XML format Most operation service require client log certain public data accessible without log"
+    },
+    {
+        "progweb_cat": "Transportation,Air Travel",
+        "api_name": "FAA Airport Service",
+        "id": 13556,
+        "progweb_descr": " service provide report know delay airport status FAAs Air Traffic Control System Command Center ATCSCC It also return current weather report NOAA airport Methods accept IATA airport code return status message reason flight delay average length delay Return data also include current weather forecast airport update time local location"
+    },
+    {
+        "progweb_cat": "Transportation,Air Travel",
+        "api_name": "The Airport Guide",
+        "id": 13557,
+        "progweb_descr": " service locate return information airports An application submit one IATA code per request receive general operate information airport type location latitudelongitude local time communication frequency runways navigation aid Current weather forecast information also provide along remark particular airport local hazard navigation Enhanced membership provide information local hotel supplier fuel maintenance onboard catering"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Lyft",
+        "id": 696,
+        "progweb_descr": " Lyft API allow developer integrate application Lyft enable access available ride type city display price estimate trip design request flow Lyft transportation rideshare service offer mobile application alternative taxi"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Metro Realtime",
+        "id": 875,
+        "progweb_descr": " Metro Realtime provide current uptotheminute location information bus rail line Los Angeles County This information access API use RESTful protocol return responses XML JSON JSONP"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Metro Transit NexTrip",
+        "id": 922,
+        "progweb_descr": " Metro Transit transportation resource Twin Cities offer network bus light rail commuter train well additional resource use alternate form transportation NexTrip API provide user real time data vehicle specify stop Data include departure time gate route terminal direction Information NexTrip API update every 30 second reflect realtime change transit service It use HTTP call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Washington Metro Bus Route",
+        "id": 1437,
+        "progweb_descr": " Washington Metro Bus Route API integrate bus stop information route schedule data bus position It available JSON XML format perform callback API Key authentication Methods include path detail rout schedule stop search bus position"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Transit Chicago Customer Alerts",
+        "id": 1448,
+        "progweb_descr": " Transit Chicago Customer Alerts API return data notify route station affect transportation issue time arrival traffic It available JSON XML format make call developer authenticate API Key"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Transit Chicago Bus Tracker",
+        "id": 1449,
+        "progweb_descr": " Transit Chicago Bus Tracker API return data estimate arrival time bus approach bus stop well route service vehicle location data Developers authenticate API Key make call JSON XML format"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "MRT Singapore SMRT",
+        "id": 2511,
+        "progweb_descr": " MRTAPIcom provide live train arrival timing platform MRT station Singapore Currently SMRT train train station support Newer line Downtown Line station include"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "CoachHire Connect",
+        "id": 3591,
+        "progweb_descr": " Manage access journey detail destination quote book use “ CoachHire ” global network API CoachHire journey management company provide access accommodation business event shuttle service various travel option include Coaches Mini Coaches Mini Buses"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Fleetio",
+        "id": 5554,
+        "progweb_descr": " Fleetio REST API allow developer access functionality Fleetio integration application fleet management need Some example API method include retrieve vehicle information retrieve manage fuel information manage work order Fleetio fleet management system allow customer manage vehicle equipment"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Trafiklab Transport Administration",
+        "id": 6052,
+        "progweb_descr": " Trafiklab online community provide developer space share data APIs public transport Sweden Trafiklab Transport Administration service provide Trafiklab provide customer train information Swedish Transport Administration Developers use HTTP call retrieve data API"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "EcoFleet SeeMe",
+        "id": 7137,
+        "progweb_descr": " SeeMe vehicle track system EcoFleet specifically fleet vehicle It enable company monitor real time past activity vehicle see overview activity utilize report cost efficiency In addition manage event message maintenance SeeMe XML API allow user pull data system This enable run query data request specific response"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "NZTA Christchurch Traffic",
+        "id": 8067,
+        "progweb_descr": " New Zealand Transport Agencyâ€™s InfoConnect web service connect developer NZ traffic monitor system series APIs Christchurch Traffic API accessible via SOAP REST protocols expose two set traffic data Christchurch area â€¢ Road work Roadwork location Christchurch Roading Network include duration impact detail â€¢ Planned public event Events within Christchurch associate temporary traffic management plan include duration impact detail"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "NTZA Traffic Webcams",
+        "id": 8068,
+        "progweb_descr": " New Zealand Transport Agencyâ€™s InfoConnect web service connect developer NZ traffic monitor system series APIs Traffic Webcams API provide developer access 100 camera across New Zealand"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Environment Canterbury Regional Council Metro",
+        "id": 8069,
+        "progweb_descr": " Metro multiagency group provide public transit service great Christchurch area Environment Canterbury Regional Council lead agency provide service Metro support innovation Canterbury expose data Metroâ€™s bus network API API provide developer access information describe bus stop rout bus ETA rider card balance service announcement timetable"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Dublin Bus Real Time",
+        "id": 8317,
+        "progweb_descr": " Dublin Bus Real Time API provide user access Real Time Passenger Information RTPI Dublin Bus service API affiliate either Dublin Bus RTPIs provider As result API provide noncommercial use change RTPI site may cause API break without warn Information stop service retrieve use REST call return JSON JSONP"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Houston Metro",
+        "id": 10765,
+        "progweb_descr": " Houston Metro Houstons transit system Houston Metro API allow developer access integrate information data Houston Metro rout application create new application Some example API method include retrieve list route list route direction retrieve transit stop timetable"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Singapore Metro Rapid Transit",
+        "id": 12211,
+        "progweb_descr": " Singapore Metro Rapid Transit service provide information Singapores Metro Transit train bus taxis tourist attraction SMRT API allow developer access integrate functionality data SMRT application create new application Some example API method include retrieve bus arrival time retrieve timetable access bus service information"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "CTA Train Tracker",
+        "id": 12531,
+        "progweb_descr": " CTA Train Tracker API allow query nearrealtime arrival time Chicago Transit bus train API beta receives arrival time prediction via QuikTrak rail system monitor software train currently GPS enable Each query respond prediction platform give train station XML document"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "SoftModal Diesel",
+        "id": 12995,
+        "progweb_descr": " service republishes report US Department Energy document retail price diesel fuel machinereadable format DOE make weekly survey result onhighway fuel price available bulk download expose data application access This service fill gap support plan transportation fleet operation API method support request date default current date region It return DOEs report average price survey result match request parameter"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "Washington Metro",
+        "id": 13168,
+        "progweb_descr": " Washington Metropolitan Area Transit Authority WMATA Transparent Data Sets API expose realtime data rail transit Metrobus system API contain eight method rail transit data include order location rail station line train arrival prediction station service alert ElevatorEscalator status There seven method Metrobus include schedule bus stop detail bus route shape API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "NZTA SSDF Segment Manager",
+        "id": 13481,
+        "progweb_descr": " web service estimate travel time within segment New Zealand State Highway Network base traffic flow measurement well total time require complete specify journey across segment service API accept input location return data highway segment include average traffic speed default speed vehicle occupancy API also list journey include segment sum segment time calculate total journey travel time"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "NZTA Auckland Traffic",
+        "id": 13483,
+        "progweb_descr": " web service provide realtime data traffic condition Auckland New Zealand include highway congestion notice Variable Message Signs area list web camera URLs camera image API method provide list highway Auckland region humanreadable name location specification Methods also provide location experience traffic congestion direction travel message currently display warning sign"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "NZTA Highway Info",
+        "id": 13484,
+        "progweb_descr": " web service provide realtime data activity affect New Zealand National Highway Network Information provide cover road construction accidents weather condition affect traffic system provide information situation likely cause delay 20 minute Methods TREIS API provide detail data Events Incidents relate specified location Methods also allow separate retrieval General Warnings relevant countrys North Island South Island"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "MTD",
+        "id": 13709,
+        "progweb_descr": " ChampaignUrbana Mass Transit District MTD provide information public transit include map schedule MTD API RESTful web service allow access data schedule stop route well realtime bus departure"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "TheBus",
+        "id": 13711,
+        "progweb_descr": " TheBus public transportation system City County Honolulu part large Oahu Transit System TheBus provide API realtime bus schedule data include vehicle arrival time vehicle location reporting"
+    },
+    {
+        "progweb_cat": "Transportation",
+        "api_name": "MassDOT MBTA",
+        "id": 13745,
+        "progweb_descr": " Massachusetts Department Transportation Massachusetts Bay Transportation Authority MBTA release series static realtime data set feed primary static data set MBTAs GTFS file Realtime service alert provide directly MBTA Feed data available XML JSON TXT RSS KML format"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "SMSMyBus",
+        "id": 835,
+        "progweb_descr": " SMSMyBus provide transit arrival time bus rider Madison Wisconsin service unofficial provide developer want data textdriven transit application This unofficial API provide access schedule rout location notification Developers use API create Madison transit application Functions include find stop near location provide position vehicle realtime locate specific route determine next time stop communicate important service bulletin"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "TriMet",
+        "id": 1165,
+        "progweb_descr": " Obtain next arrival time detour route information transit agency serve metropolitan Portland Oregon USA TriMet TriCounty Metropolitan Transportation District Oregon"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "CTA Bus Tracker",
+        "id": 1364,
+        "progweb_descr": " CTA Bus Tracker API provide gateway nearrealtime CTA bus location estimate arrival time Developers use official CTA Bus Tracker service via Web mobile device API allow developer get specific information Bus Tracker incorporate estimate arrival location information apps Data expose via API include vehicle location route data prediction data service bulletin API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Trafiklab SL Nearby Stops",
+        "id": 2646,
+        "progweb_descr": " Trafiklab online community provide APIs public transport Sweden Trafiklab SL Nearby Stops API enable developer search bus stop station relate public transport Stockholm This API use conjunction Trafiklab SL APIs enable multiple function trip planning etc"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Trafiklab ResRebot Travel Planner",
+        "id": 2671,
+        "progweb_descr": " Trafiklab ResRobot Travel Planner REST API provide travel plan data Swedish public transport That include time table train bus subway tram Sweden Data bus stop station also available Trafiklab online community provide APIs public transport Sweden"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Trafiklab SL Fault Information 2",
+        "id": 6025,
+        "progweb_descr": " Trafiklab online community provide APIs public transport Sweden Trafiklab SL Fault Information 2 API provide customer current planned disruption public transport Stockholm Use conjunction Trafiklab SL APIs enable trip planning etc"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Trafiklab SL Stops and Lines",
+        "id": 6035,
+        "progweb_descr": " Trafiklab online community provide APIs public transport Sweden Trafiklab SL Stops Lines API provide description purpose stop data line data relate public transport Stockholm Use conjunction Trafiklab SL APIs enable trip planning etc"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Carma Carpooling",
+        "id": 6121,
+        "progweb_descr": " Carma ridesharecarpooling app allows user find local passenger similar destination order share commute reduce cost traffic emission give driver little bit cash along way Carma API use developer create apps feature base Carma traffic data drive behavior WIth API developer integrate extensive carpooling functionality search match trip record book message Possible use case include app log Carma data motivate carpooling integration mapping app automatically show multiple transportation option carpool match within event application international Carama service operational Austin Bergen Cork San Francisco Dublin San Diego Los Angeles US city"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "PNRDekho",
+        "id": 7631,
+        "progweb_descr": " PNRDekho PNR number verifier user enter passenger name recordPNR receive status passenger ticket travel plan Indian Railways API unofficial web service provide access Indian Railways data API capable query PNR status This API accept simple HTTP request return JSON format response"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Zergo Moscow Metro",
+        "id": 8072,
+        "progweb_descr": " Zergo multisite service provide link shop site allow user tag link photo Zergo Moscow Metro API allow user choose Moscow metro station ID name embed thirdparty website blog service use REST call account required service"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Washington State Department of Transportation",
+        "id": 9266,
+        "progweb_descr": " Washington State Department Transportation use API provide developer access traveler information data API accessible RESTfull HTTP call SOAP service capable deliver information border crossing highway alert mountain pas condition traffic flow travel time ferry information much"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Cabforce",
+        "id": 9767,
+        "progweb_descr": " Cabforce allow user search book taxi rid airport transfer online They provide service major European travel destination currently expand US Asia Australia Cabforce work certify service provider operate clean nonsmoking car guarantee arrive ontime Bookings always conï¬rmed Cabforce provide 247 customer service English Cabforce customer pay allinclusive flat rate online via credit card eliminate issue overprice fare unfamiliar currency Cabforces service access directly website programmatically via API Documentation API available upon request"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "TripCheck",
+        "id": 10358,
+        "progweb_descr": " TripCheck service provide Oregon Department Transportation provide user access weather trip plan assistance traffic information TripCheck API make park data Portland International Airport available well traffic incident data road weather report automate roadside weather station data roadway sensor data dynamic message sign data highway weight restriction link roadside camera image Data available XML An account required service"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Irish Rail Realtime",
+        "id": 10775,
+        "progweb_descr": " Irish Rail Irelandâ€™s national railway operator provide passenger freight rail service Irish Rail Realtime API provide realtime station train data include estimation train time base current train location This REST API return XML format data"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "BusOnAir",
+        "id": 11550,
+        "progweb_descr": " Currently beta BusOnAir aim provide transportation service people live around LAquila Italy This online resource app enable local navigate Lâ€™Aquilaâ€™s bus system Arrivals departure time view accurately constantly change travel route see realtime Besides convenient BusOnAir provide necessary service city outlying village still deal damage reconstruction effort beta API host mashape employ simple REST interface response default JSON A variety client available well A mashape API key necessary"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "TÃ¥gtider Trains",
+        "id": 12957,
+        "progweb_descr": " Train site compare continuous traffic information direct Transport Administration Sweden Train API way lookup current train time integrate data third party service API method look station departure arrival transfer It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "InKnowledge Taxi Fare Calculator",
+        "id": 13112,
+        "progweb_descr": " service calculate taxi fare base start end location city worldwide Used Bing map taxi fare calculator provide taxi rate 150 city dozen country In turn use Bing service determine geocodes start destination address determine route provide fare estimate API method support selection country city calculation fare base either location distance time"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Mapnificent",
+        "id": 14077,
+        "progweb_descr": " Mapnificent website show user area travel use public transportation city US around world Mapnificent API allow user access Mapnificents functionality use Google Map application Magnificient API offer static function object function UI layer function distance function Some example API method include add object map add distance add time distance"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "GroundLink",
+        "id": 14158,
+        "progweb_descr": " GroundLink platform aggregate manage executes ground transportation service GroundLink work consumer travel agent travel transportation provider offer engine user search book ground transportation GroundLink API allow developer integrate access GroundLink functionality data application three API method convert address geocode search transportation book transportation"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "OneBusAway",
+        "id": 14230,
+        "progweb_descr": " OneBusAway provide access realtime transit information Puget Sound region beyond Their API allow access information power OneBusAway website mobile tool Developers use api write new apps API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "MyTTC",
+        "id": 14388,
+        "progweb_descr": " MyTTC independent initative provide public access transit data Toronto Transit Commission data use power feature trip planner accurate schedule data fee Google Transit API allow user use data application mashups It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Metro Traffic",
+        "id": 14469,
+        "progweb_descr": " Metro Traffic provide developer access 247 traffic data United States Documentation publicly available developer contact Bill Martin Senior Vice President billmartinwestwoodonecom"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Tube Updates",
+        "id": 14582,
+        "progweb_descr": " Tube Updates provide basic way user access data Transport London site unofficial API allow developer instantly query state London Tube network This also include Docklands Light Railway feature individual message line order specify exactly delay station close etc Users also search back various status change time build application reliability graph time checker API use RESTful protocol response format XML JSON JSONP"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Winnipeg Transit",
+        "id": 15227,
+        "progweb_descr": " Provides access transit data Winnipeg Developers access transit rout stop location system message even complete trip planner API service currently beta"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "Metro Trip Planner",
+        "id": 15521,
+        "progweb_descr": " Metro Trip Planner provide trip plan transit service project information Los Angeles County web service API publish data describe Metroï¿½s rout schedule stop This accessed RESTful call response format either XML JSON PHP"
+    },
+    {
+        "progweb_cat": "Transportation,Travel",
+        "api_name": "King County Busses",
+        "id": 15852,
+        "progweb_descr": " King County Busses API research project University Washington service provide uptotheminute information buss Seattle area King County Data service come three source MyBus application BusView location service highway loop sensor department transportation"
+    },
+    {
+        "progweb_cat": "Transportation,Standards",
+        "api_name": "GTFS Data Exchange",
+        "id": 856,
+        "progweb_descr": " General Transit Feed Specification GTFS define common format public transportation schedule enable transit agency developer deliver consume data standard structure GTFS Data Exchange build enable efficient share retrieval GTFS data GTFS Data Exchange API provide developer access participate agency GTFS feed source"
+    },
+    {
+        "progweb_cat": "Transportation,Scheduling",
+        "api_name": "TransiCast",
+        "id": 888,
+        "progweb_descr": " Public transportation next bus train time service message stop route North American metro Wrapped REST API integrate unified format consolidate various incompatible format use transit agency"
+    },
+    {
+        "progweb_cat": "Transportation,Scheduling",
+        "api_name": "Trafiklab ResRobot - Pole Schedules",
+        "id": 6034,
+        "progweb_descr": " Trafiklab online community provide APIs public transport Sweden Trafiklab ResRobot Pole Schedules API provide user departure time particular bus stop station Sweden With API developer integrate service application enable customer get schedule well real time departure information directly"
+    },
+    {
+        "progweb_cat": "Transportation,Scheduling",
+        "api_name": "RidePSTA",
+        "id": 8629,
+        "progweb_descr": " RidePSTA API provide programmatic access bus information Pinellas Suncoast Transit Authority API capable deliver real time arrival prediction location data Use require RidePSTAnet account developer key API use BusTime system Clever Devices Inc"
+    },
+    {
+        "progweb_cat": "Transportation,Scheduling",
+        "api_name": "navitia.io",
+        "id": 9821,
+        "progweb_descr": " Navitiaio API help people access use public transportation data It provide service perform journey computation get line schedule find next departure discover isochrone Isochrones location reach amount time person start point This part API could example use discover station could reach within next 60 minute street network use navitiaio extracted OpenStreetMap public transport data come network provide timetable open data"
+    },
+    {
+        "progweb_cat": "Transportation,Scheduling",
+        "api_name": "NJ Transit DepartureVision",
+        "id": 10548,
+        "progweb_descr": " service provide departure time schedule information commuter train bus transit asset provider service within US state New Jersey Along data downloads RSS feed bus rail asset provide web service retrieve daily schedule update nightly train operate provider Data also include Amtrak train operate within region API method support retrieval arrival departure schedule particular station within provider train line Methods also support realtime data include current delay specific trip within system"
+    },
+    {
+        "progweb_cat": "Transportation,Scheduling",
+        "api_name": "RideUTA",
+        "id": 11485,
+        "progweb_descr": " service provide realtime information status scheduling within Utah Transit Authority system Information cover multiple transit option include bus commuter train Its data structure implementation SIRI Service Interface Real Time Information standard consistency provider similar data API method support monitor specific vehicle either bus train monitoring service along specify route particular stop Methods also provide close transit stop location specify latitude longitude"
+    },
+    {
+        "progweb_cat": "Transportation,Scheduling",
+        "api_name": "511 Real-time Transit Departures",
+        "id": 13183,
+        "progweb_descr": " 511 San Francisco Bay Areaâ€™s free traveler information service available phone call 511 web 511org 511 service give access current traffic transit rideshare bicycle information 511 Realtime Transit Departures API provide realtime departure prediction regional transit agency include BART Muni AC Transit Other data make available include list agency rout agency stop route departure time API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Transportation,Scheduling",
+        "api_name": "Minneapolis/St. Paul Metro Transit",
+        "id": 13756,
+        "progweb_descr": " Metro Transit MinneapolisSt Paul online portal Twin Cities network bus light rail commuter train transportation resource An API access route bus direction bus stop information well bus schedule time API available Appspot It RESTful API return response JSON format"
+    },
+    {
+        "progweb_cat": "Transportation,Scheduling",
+        "api_name": "Bongo",
+        "id": 13761,
+        "progweb_descr": " Bongo provide transit schedule information Iowa City University Iowa city Coralville Iowa Realtime location information well estimate arrival time accessible via Bongo API API RESTful return response XML JSON JSONP"
+    },
+    {
+        "progweb_cat": "Transportation,Belgian",
+        "api_name": "iRail",
+        "id": 892,
+        "progweb_descr": " iRail website offering basic information train schedule Belgium iRail provide arrival departure time station board schedule A RESTful API available iRail return response XML JSON JSONP"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "car2go",
+        "id": 989,
+        "progweb_descr": " car2go point point car share service available Miami Austin flexible credit rental rate It advantage promote personal mobility extend reach public transportation individual choose forgo own car car2go API provide uptodate information vehicle available place park local gas station There protect function developer register Applications write manage short term user booking Limited commercial application may obtain"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Numina",
+        "id": 1613,
+        "progweb_descr": " Numina REST API allow developer access integrate functionality Numina application Public documentation available API access come account service Numina provide insight sensor data realtime place streets traffic information"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Omnitracs Scheduler",
+        "id": 2060,
+        "progweb_descr": " Omnitracs Scheduler REST API allow developer access integrate functionality Omnitracs Scheduler application Public documentation available API access come account service Omnitracs provide fleet management service transportation logistics"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Superchargers.io",
+        "id": 2347,
+        "progweb_descr": " Superchargersio GraphQL API programmatically find store automaker Tesla also Tesla Superchargers Destination Chargers Service center You filter location specific country region bound box whether location open use"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync System Design File",
+        "id": 2471,
+        "progweb_descr": " Polysync system Design File REST API allow developer access integrate functionality Polysync application create new application main API method allow developer interact system design file Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync Transform",
+        "id": 2678,
+        "progweb_descr": " Polysync Transform REST API allow developer access integrate functionality Polysync application create new application main API method provide interface perform linear transformation coordinate frame Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync Serial",
+        "id": 2679,
+        "progweb_descr": " Polysync Serial REST API allow developer access integrate functionality Polysync application create new application main API method wrap around serial port Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync Node",
+        "id": 2680,
+        "progweb_descr": " Polysync Node REST API allow developer access integrate functionality Polysync application create new application main API method create Polysync Node Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync Logfile",
+        "id": 2681,
+        "progweb_descr": " Polysync Logfile REST API allow developer access integrate functionality Polysync application create new application main API method use logfiles facilitate RnR functionality Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync CAN",
+        "id": 2683,
+        "progweb_descr": " Polysync CAN REST API allow developer access integrate functionality Polysync application create new application main API method connect interfacing device use controller area network protocol Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync Shared Memory",
+        "id": 2684,
+        "progweb_descr": " Polysync Shared Memory REST API allow developer access integrate functionality Polysync application create new application main API method provide interface read write data share memory queue Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync Core",
+        "id": 2685,
+        "progweb_descr": " Polysync Core REST API allow developer access integrate functionality Polysync application create new application API provide access commonly use function Polysync Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync Host",
+        "id": 2687,
+        "progweb_descr": " Polysync Host REST API allow developer access integrate functionality Polysync application create new application main API method provide access runtime information local machine Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync Record and Replay",
+        "id": 2688,
+        "progweb_descr": " Polysync Record Replay REST API allow developer access integrate functionality Polysync application create new application main API method enable coordination node participate log session Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync Socket",
+        "id": 2689,
+        "progweb_descr": " Polysync Socket REST API allow developer access integrate functionality Polysync application create new application main API method provide wrapper around network socket Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polysync Messaging",
+        "id": 2690,
+        "progweb_descr": " Polysync Messaging REST API allow developer access integrate functionality Polysync application create new application main API method pass information use predefined message Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "AutoScout24",
+        "id": 4166,
+        "progweb_descr": " AutoScout24 API allow developer manage life cycle classify listing AutoScout24 platform Users API able read write vehicle data access makemodel information create classify ad API offer RESTful interface interact resource"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Automatic Real Time Events",
+        "id": 5734,
+        "progweb_descr": " Automatic Real Time Events API allow developer access event data Automatic send listener URL application API also send realtime information vehicle ignition Automatic wireless device connects person car smartphone car data port It communicate car onboard computer upgrades car capability use smartphones GPS data plan"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "PlugShare Station",
+        "id": 6642,
+        "progweb_descr": " PlugShare connect electric vehicle driver charge station community electric vehicle user PlugShare Station API service million query month use map function locate input recharge facility This free API available permalink embed feature"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Automatic REST",
+        "id": 7138,
+        "progweb_descr": " Automatic REST API allow developer access integrate data functionality Automatic application Some example API method include return object tags retrieve trip information retrieve basic user account information Automatic wireless device connects person car smartphone car data port It communicate car onboard computer upgrades car capability use smartphones GPS data plan"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "General Motors Remote",
+        "id": 8755,
+        "progweb_descr": " General Motors create APIaccessible application development platform vehicle This platform accessible invehicle API remote API GM Remote API schedule available late 2013 support development application remotely interact GM vehicle Supported method include vehicle command unlocking door activate alarm access subscriber vehicle data"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Carpoolworld",
+        "id": 9380,
+        "progweb_descr": " Carpoolworld service help people find rideshares anywhere world site allow people create trip search trip origin destination contact potential travel partner Carpoolworld make function available developer use REST API response return XML format"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "iOnRoad",
+        "id": 9641,
+        "progweb_descr": " iOnRoad application mobile phone help driver navigate way drive iOnRoad provide traffic information collision warning feature make call talk easy drive iOnRoad API allow developer access integrate functionality iOnRoad application Public API access available interested developer email teamionroadcom information"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Polk VINtelligence",
+        "id": 9873,
+        "progweb_descr": " service provide specification vehicle base vehicle identification number VIN submit Specifications include year make model well feature like engine transmission color standard optional equipment package API method support submission individual VIN batch number API return detail specification Returned data summarize vehicle country origin makemodel detail along engine powertrain detail option include manufacturer specification like gross vehicle weight GVW list price etc"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "General Motors In-Vehicle",
+        "id": 10210,
+        "progweb_descr": " General Motors create APIaccessible application development platform vehicle This platform accessible invehicle API remote API GM InVehicle API support development application interface directly GM vehicle system infotainment system GM infotainment system provide connectedcar function link driverâ€™s smartphone API method include access vehicle information IO command communication capability audio video playback navigation phone system user interface infotainment system command utility Documentation available login"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Eurotax RepairEstimate",
+        "id": 10586,
+        "progweb_descr": " EurotaxGlasss lead provider data solution business intelligence service European automotive community Eurotax RepairEstimate API enable user estimate cost repair vehicle base make model extent damage country locate This service access directly website programmatically use SOAP call"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "CarweB",
+        "id": 10637,
+        "progweb_descr": " service provide vehicle registration information European country It interact national authority automobile registration return ownership leinholder information base license plate number serve need insurance provider repair shop part supplier leasingrental company dealer park facility operator API method support submission Vehicle Registration Mark license plate number obtain lookup access vehicle title information document appropriate national authority within Europe Returned data include name address vehicle register owner information valid title ownership document XML structure may customize specific need"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "Skizmo VIN",
+        "id": 11647,
+        "progweb_descr": " service accepts vehicle identification number VIN specific car truck return decode information make model feature time manufacture Information return include manufacturer name badge model name year manufacturer engine transmission instal color exterior paint interior etc API method accept correctly format alphanumeric string encode manufacturer record tag body vehicle Methods decode element code specific serial number report basic information vehicle original specification Enhanced information element include fuel mileage MPG manufacturer suggest retail price MSRP cargo capacity etc"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "OpenXC",
+        "id": 12640,
+        "progweb_descr": " service enables Android smartphone communicate instal hardware module read performance measure car internal control function Reports data integrate Android application allow monitor car function operating data also integrate connect service API method support communication hardware module retrieval data collect management reporting function"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "DataOne VIN decoder",
+        "id": 13474,
+        "progweb_descr": " web service give access full vehicle specification data submission 17digit vehicle identification number VIN XML document return may contain hundred field describe basic vehicle identification engine transmission option instal optionally available equipment technical specification warranty color original pricing US EPA estimate MPG"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "CarTrawler Accelerate",
+        "id": 13506,
+        "progweb_descr": " CarTrawlers solution suite know Accelerate leading car rental distribution system direct connection lead independent supplier Customers choose database car rental supplier 550 car rental supplier 175 country 25000 city airport location 29 language multiple currency car rental content integrate customer website via OTA Open Travel Alliance XML API This enable customer maintain brand identity Public documentation available"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "OpenCarData",
+        "id": 13832,
+        "progweb_descr": " OpenCarData collect store disseminates real world OBD On Board Diagnostics auto data This data provide real time status individual car group car API consist method store retrieve interpret car relate data Data include trip information listing car fuel data API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Transportation,Auto",
+        "api_name": "IM Group",
+        "id": 13833,
+        "progweb_descr": " Based UK IM Group import operate vehicle franchise throughout UK Europe API provide user access vehicle information well late news event special offer Currently vehicle information limit Subaru plan add information API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Transportation,Open Data",
+        "api_name": "CitySDK Mobility",
+        "id": 1081,
+        "progweb_descr": " CitySDK project thats design make easy city expose useful information developer So far city Lisbon Helsinki Lamia Rome Amsterdam join project CitySDK Mobility API expose information basic geography streetlevel map public transportation Amsterdamspecific infrastructure transportation Its major data source include OpenStreetMap openOV DIVV CitySDK Mobility API use example discover museum locate Utrecht get location stop along give tram line retrieve list town locate Netherlands"
+    },
+    {
+        "progweb_cat": "Transportation,Open Data",
+        "api_name": "SEPTA",
+        "id": 13393,
+        "progweb_descr": " SEPTA SouthEastern Pennsylvania Transport Authority It provide API let users access information system This information include route schedule information well realtime bus train location SEPTA transit system API use RESTful call response format JSON KLM GTFS"
+    },
+    {
+        "progweb_cat": "Transportation,Government",
+        "api_name": "BART",
+        "id": 1184,
+        "progweb_descr": " BART API give access pretty much BART service station data available BART website BART stand Bay Area Rapid Transit District"
+    },
+    {
+        "progweb_cat": "Transportation,Government",
+        "api_name": "NHTSA",
+        "id": 9564,
+        "progweb_descr": " NHTSA National Highway Traffic Safety Administration organization US Department Transportation DOT Its mission save live prevent injury reduce economic cost due road traffic crash NHTSA carry mission education research safety standard enforcement activity NHTSA offer collection APIs give developer programmatic access safety information This include location child safety seat inspection station Civil Penalty Payments collect NHTSA complaint submit NHTSA recall information vehicle crashworthiness rollover safety data"
+    },
+    {
+        "progweb_cat": "Transportation,Government",
+        "api_name": "FRA Safety Data Download",
+        "id": 10402,
+        "progweb_descr": " Federal Railroad Administration FRA many function relate maintenance regulation administration railroad US In course fulfilling function FRA collect store great deal safetyrelated information FRA provide method online visitor download information use SOAP call Information return XML format"
+    },
+    {
+        "progweb_cat": "Transportation,Government",
+        "api_name": "GovHG Data.One",
+        "id": 13371,
+        "progweb_descr": " DataOne Hong Kongs government website GovHK provide public sector information currently georeferenced public facility data realtime traffic data traffic data form traffic speed map journey time indicator special traffic news also available via API return response XML"
+    },
+    {
+        "progweb_cat": "Transportation,Government",
+        "api_name": "FAA Obstruction Evaluation",
+        "id": 13621,
+        "progweb_descr": " Obstruction Evaluation Airport Airspace Analysis service US Federal Aviation Administration describe locate hazard navigation around airport Users retrieve report structure might obstruct aeronautic navigation also submit report new construction adjacent airport airspace service track onairport structure offairport construction potential impede air traffic API method give access public information case individual construction project type date region state Information circularize case submit public comment also freely available Authentication require method retrieve box search result NOTAMs notice airman"
+    },
+    {
+        "progweb_cat": "Transportation,Aggregation",
+        "api_name": "Public Transit Data Community",
+        "id": 1382,
+        "progweb_descr": " Public Transit Data Community goal combine disparate transit data feed agency around United States normalize format expose OData Service API allow developer build type application around data API expose data follow Bus Train Arrival Predictions Stops Stations Entrances Routes Train Lines Incidents Intelligent Routing API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Transportation,Aggregation",
+        "api_name": "RouteShout",
+        "id": 13710,
+        "progweb_descr": " RouteShout provide free mobile apps transit agency public RouteShout use General Transit Feed Spec GTFS data collection currently provide service 173 transit agency United States Canada RouteShout also expose API outside developer API use HTTP GET return response JSON format"
+    },
+    {
+        "progweb_cat": "Transportation,Aggregation",
+        "api_name": "NextBus",
+        "id": 13712,
+        "progweb_descr": " NextBus provide data transit authority deliver realtime information passenger via internet touchtone telephone SMS Alerts available method well email NextBus offer public XML feed accessible RESTful call developer use thirdparty application"
+    },
+    {
+        "progweb_cat": "Transportation,Environment",
+        "api_name": "SmartData IoT BDE",
+        "id": 1684,
+        "progweb_descr": " GSMA SmartData IoT BDE API Orange allow access data translation FIWARE data model NGSIv2 This include AirQualityObserved WeatherObserved Vehicle PointOfInterest OnStreetParking GSMA represent interest mobile operator worldwide unite nearly 800 operator almost 300 company broader mobile ecosystem"
+    },
+    {
+        "progweb_cat": "Transportation,Environment",
+        "api_name": "FuelEconomy.gov",
+        "id": 7975,
+        "progweb_descr": " FuelEconomygov official US government source fuel economy information site feature API enable developer programmatically query vehicle fuel efficiency data give make model year This RESTful API able deliver emission record MPG data much"
+    },
+    {
+        "progweb_cat": "Transportation,Indian",
+        "api_name": "Indian Rail",
+        "id": 1849,
+        "progweb_descr": " Indian Rail API allow developer search reserve unreserved suburban train use single interface This API use database information drawn multiple source cover train run Indian Railways Users get list station train station route train current running status train current PNR status"
+    },
+    {
+        "progweb_cat": "Transportation,Indian",
+        "api_name": "Fuel Prices India",
+        "id": 1913,
+        "progweb_descr": " Fuel Prices India API integrate late Fuel price major Indian city API available fetch fuel price display city show price Via Heroku app developer fetch petrol diesel price live"
+    },
+    {
+        "progweb_cat": "Transportation,Indian",
+        "api_name": "Indian Railway",
+        "id": 6643,
+        "progweb_descr": " Indian Railway API provide functionality query PNR status live train status seat availability train route information train station train name number This RESTful API provide JSON responses This API use twostep security feature unique identifier HMAX SHA1 hash"
+    },
+    {
+        "progweb_cat": "Transportation,Indian",
+        "api_name": "Indian Railways",
+        "id": 8496,
+        "progweb_descr": " Indian Railways API unofficial web service provide access Indian Railways data API capable query Passenger Name Record PNR status train schedule live train status This API accept simple HTTP request return JSON format response"
+    },
+    {
+        "progweb_cat": "Transportation,Location",
+        "api_name": "MyWakes",
+        "id": 1850,
+        "progweb_descr": " MyWakes API allow developer access MyWakes platform GPS location detection Developers use API create manage track consumer user etc well generate point register device MyWakes platform also provide range specific solution field transport logistics travel recreation"
+    },
+    {
+        "progweb_cat": "Transportation,Location",
+        "api_name": "Amadeus Car Rental Geosearch",
+        "id": 4433,
+        "progweb_descr": " Amadeus Car Rental Geosearch API provide developer way integrate Amadeus Car Rental Geosearch service application enable user find price type car car rental provider specify geographical location Amadeus technology company provide service business individual relate travel"
+    },
+    {
+        "progweb_cat": "Transportation,Location",
+        "api_name": "Trafiklab SL Location Lookup",
+        "id": 6042,
+        "progweb_descr": " Trafiklab online community provide APIs public transport Sweden Trafiklab SL Location Lookup API provide information bus stop station address place relate public transport Stockholm Use conjunction Trafiklab SL APIs enable trip planning etc"
+    },
+    {
+        "progweb_cat": "Transportation,Location",
+        "api_name": "Trafiklab SL Real Time 4",
+        "id": 6043,
+        "progweb_descr": " Trafiklab online community provide APIs public transport Sweden Trafiklab SL Real Time 3 API provide customer realtime information regard bus subway commuter rail light rail relate public transport Stockholm"
+    },
+    {
+        "progweb_cat": "Transportation,Internet of Things",
+        "api_name": "Orange Bus and Train from India and France",
+        "id": 2082,
+        "progweb_descr": " This API provide Bus Train information India France data collect railwayapicom dataexplorestarfr It return vehicleType Vehicle description location GSMA represent interest mobile operator worldwide unite nearly 800 operator almost 300 company broader mobile ecosystem"
+    },
+    {
+        "progweb_cat": "Transportation,Internet of Things",
+        "api_name": "Polysync Video",
+        "id": 2677,
+        "progweb_descr": " Polysync Video REST API allow developer access integrate functionality Polysync application create new application main API method provide interface image video decoder device Polysync provide platform feature allow create test deploy application driverless vehicle"
+    },
+    {
+        "progweb_cat": "Transportation,Internet of Things",
+        "api_name": "CarmaLink GPS",
+        "id": 3840,
+        "progweb_descr": " CarmaLink fleet equipment management service design small business CarmaLink provide sensor attach autos equipment gather data safety efficiency CarmaLink GPS RESTful API integrate vehicle track data application include OBD J1939 It available HTTP JSON REST format OAuth1"
+    },
+    {
+        "progweb_cat": "Transportation,Logistics",
+        "api_name": "Mobiag",
+        "id": 2608,
+        "progweb_descr": " Mobiag REST API allow developer access integrate functionality Mobiag application Public documentation available API method include fleet carsharing car rental management via mobile application Interested developer contact infomobiagcom API access Mobiag provide solution vehicle fleet management carsharing management car rental management"
+    },
+    {
+        "progweb_cat": "Transportation,Logistics",
+        "api_name": "UberRUSH",
+        "id": 4609,
+        "progweb_descr": " UberRUSH API compliment transactional capacity Uber ’ ondemand logistics delivery platform It simply tool allows business enterprise Uber driver cooperate delivery item final destination Business enterprise adopt RESTful API web appbased checkout feature streamline fasttracking ondemand delivery service API currently beta release documentation accessible request"
+    },
+    {
+        "progweb_cat": "Transportation,Logistics",
+        "api_name": "Bring Shipping Guide",
+        "id": 6027,
+        "progweb_descr": " Bring Cargo Norwegian company specialize Logistics Transportation Bring Shipping Guide free service offer Bring Cargo provide customer information price information estimate delivery time Bring Shipping Guide API let developer integrate application enable customer get ship information directly"
+    },
+    {
+        "progweb_cat": "Transportation,Logistics",
+        "api_name": "Bring Pickup Point",
+        "id": 6030,
+        "progweb_descr": " Bring Cargo Norwegian company specialize Logistics Transportation Bring Pickup Point service offer Bring Cargo enable customer retrieve information pickup point eg geographical location opening hour Bring Pickup Point API let developer integrate application enable customer retrieve need information directly"
+    },
+    {
+        "progweb_cat": "Transportation,Logistics",
+        "api_name": "Bring Postal Code",
+        "id": 6557,
+        "progweb_descr": " Bring Cargo Norwegian company specialize Logistics Transportation Bring Postal Code service offer Bring Cargo enable customer validate postal code look city postal code Bring Postal Code API let developer integrate application enable customer interact directly"
+    },
+    {
+        "progweb_cat": "Transportation,Logistics",
+        "api_name": "TrackRoad Routing",
+        "id": 11332,
+        "progweb_descr": " TrackRoad route optimization dispatch service design help user make trips delivery efficient TrackRoad API enable user calculate distance driving point calculate route dispatch vehicle check geocodes complete action call service available SOAP REST format return JSON"
+    },
+    {
+        "progweb_cat": "Transportation,Logistics",
+        "api_name": "C2RouteApp",
+        "id": 11333,
+        "progweb_descr": " C2Logis provide route planning software manage maintain route optimization solution C2RouteApp API enable user enter 90 constraint range truck size type product assignment specific driver route API accessible excel api pull data spreadsheet format service use SSL authentication developer give full documentation sample Python code"
+    },
+    {
+        "progweb_cat": "Transportation,Logistics",
+        "api_name": "StreetEagleGPS",
+        "id": 11334,
+        "progweb_descr": " InsightUSA business track service build around integration GPS business service company service include street dispatch route optimization public fleet display mobile track others StreetEagle API allow user integrate service thirdparty application service include full developer guide sample NET web apps test developer support"
+    },
+    {
+        "progweb_cat": "Transportation,Logistics",
+        "api_name": "Telogis",
+        "id": 11335,
+        "progweb_descr": " Telogis provide scalable fleet management system help improve asset utilization driver safety reduce labor fuel cost Telogis API available JavaScript several format include ASPNET Silverlight package A free trial SDK available registration developer zone"
+    },
+    {
+        "progweb_cat": "Transportation,Logistics",
+        "api_name": "Route4me",
+        "id": 11337,
+        "progweb_descr": " Route4me design help business individual plan trip efficiently service design reduce travel time save vehicle expense Route4me API allow user plan route view route check distance point use single address geocoder well batch geocoder Service use REST call return XML Access require API key"
+    },
+    {
+        "progweb_cat": "Transportation,Application Development",
+        "api_name": "Moovit",
+        "id": 3369,
+        "progweb_descr": " Moovit offer transit direction 800 city 60 country Information combine public transportation operator user community provide traveler live data Moovit feature OmniSearch discover best route arrival time personalization instant trip planning Users get variety transit option reach specific destination"
+    },
+    {
+        "progweb_cat": "Transportation,Cities",
+        "api_name": "City of Chicago Divvy Trips",
+        "id": 3518,
+        "progweb_descr": " City Chicago Divvy Trips API support development apps individual divvy bike share trip It offer user access detailed description origin destination duration different schedule trip API ’ communication protocol error communication anchor HTTPS HTTP response cod respectively It return response variety format include CSV JSON XML City Chicago Divvy Trips API full release back detailed documentation example"
+    },
+    {
+        "progweb_cat": "Transportation,Cities",
+        "api_name": "OUIBUS",
+        "id": 3654,
+        "progweb_descr": " OUIAPI integrate stops fare passenger data bus transportation application Europe It available JSON format API Key Ouibus part French state railway SNCF run coach service France European country"
+    },
+    {
+        "progweb_cat": "Transportation,Cities",
+        "api_name": "One.Stop.Transport",
+        "id": 6824,
+        "progweb_descr": " OneStopTransport platform OST platform open data aggregation transformation delivery follow modern Open Data principle standard directive type data OST currently manage include transportation mass transit traffic data highways point interest territory mainly OSM open data data APIs support static realtime data although data provider currently contribute static data"
+    },
+    {
+        "progweb_cat": "Transportation,Accounting",
+        "api_name": "AddTransit",
+        "id": 3896,
+        "progweb_descr": " AddTransit API enable easy integration AddTransit GTFS GTFSRealtime Ticketing functionality system AddTransit API currently beta Contact provider information AddTransit provide transit tool vehicle track convert raw schedule data GTFS format"
+    },
+    {
+        "progweb_cat": "Transportation,Mail",
+        "api_name": "Vitortec Order Tracking",
+        "id": 4055,
+        "progweb_descr": " Rastreamento Correios API use track shipping service SEDEX free This API return information JSON format Vitortec software development firm base Brazil provide application Android Facebook Chrome Windows Linux Also offer web development service CMS WordPress Bootstrap"
+    },
+    {
+        "progweb_cat": "Transportation,Mail",
+        "api_name": "Vitortec Calculate Shipping",
+        "id": 4070,
+        "progweb_descr": " Frete Correios API use calculate shipping service SEDEX This API return information JSON format Vitortec software development firm base Brazil provide application Android Facebook Chrome Windows Linux Also provide web development service CMS WordPress Bootstrap"
+    },
+    {
+        "progweb_cat": "Transportation,French",
+        "api_name": "SNCF",
+        "id": 4422,
+        "progweb_descr": " SNCF API API Frances national stateowned railway company Société nationale de chemins de fer français National society French railways French National Railway Company With API user task route schedule stop schedule track journey station administrative region identify next departure arrival utilize lexicographical search autocomplete"
+    },
+    {
+        "progweb_cat": "Transportation,French",
+        "api_name": "Horaires RATP",
+        "id": 4464,
+        "progweb_descr": " Horaires RATP API create independent developer allow user retrieve RATP Régie Autonome de Transports Parisiens Autonomous Operator Parisian Transports schedule give RER train Metro Tramway stop real time RATP public transport operator base Paris France This APIs documentation provide exclusively French"
+    },
+    {
+        "progweb_cat": "Transportation,French",
+        "api_name": "National Citer",
+        "id": 10691,
+        "progweb_descr": " National Citer French car rental service Its international network provide customer 3000 outlet 80 country include 40 Europe Within home country France include Corsica Dominican Republic National Citer offer nearly 250 outlet include 60 airport 40 station Users may retrieve information National Citer website regard service use SOAPbased API website provide solely French"
+    },
+    {
+        "progweb_cat": "Transportation,African",
+        "api_name": "WhereIsMyTransport",
+        "id": 4539,
+        "progweb_descr": " WhereIsMyTransport API allow developer integrate journey planning data feed announcement timetable info travel warning application This API design specifically handle transport information city South Africa improve commuter experience WhereIsMyTransport platform smart urban transportation integrates formal informal transport"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "London Tube",
+        "id": 4702,
+        "progweb_descr": " London Tube API allow user retrieve information train station London England This include station latitude longitude zone API include data tube train mainlines London Tube API provide independent developer Example call include documentation"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "Edinburgh Bustracker",
+        "id": 7640,
+        "progweb_descr": " Edinburgh Bustracker web service deliver real time bus information Edinburgh area API deliver information service rout destination bus stops time table service disruption"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "Network Rail",
+        "id": 8062,
+        "progweb_descr": " Network Rail responsible run maintain develop Britainâ€™s rail track signal system bridge tunnel level crossing viaducts 17 key station Network Rail API offer number realtime data feed encourage development new service interest use railway API provide developer access schedule train position movement temporary speed restriction realtime performance"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "Realtime Trains",
+        "id": 8063,
+        "progweb_descr": " RealTime Trains provide railway information across British rail system RealTime Trains make use five feed Network Rail open data platform expose data API API available feed push data RESTlike API pull data HTTPS call"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "BR Fares",
+        "id": 9172,
+        "progweb_descr": " BR Fares independent website explore fare offer train company Great Britain without specify route time train Because ticket system complex fare available general public service recommend expert user RESTbased API currently free lowvolume use"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "yourtaximeter",
+        "id": 9267,
+        "progweb_descr": " Yourtaximeter free online service calculates taxi fare UK Calculations account local rate date time passenger surcharge yourtaximeter API allow 3rd party application websites instantly calculate fare well lookup car license plat confirm vehicle license taxi API require API Key return XML JSON format response"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "National Rail Enquiries",
+        "id": 10361,
+        "progweb_descr": " service provide access interaction Live Departure Boards LDB application UK National Rail service It provide realtime data track train movement National Rail use display arrival departure schedule Licensing require use service API method support retrieval realtime operate data include current location project arrival departure time train operate within UK National Rail system Methods also allow retrieval project arrival departure specify train station"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "Live Departure Boards",
+        "id": 12487,
+        "progweb_descr": " Live Departure Boards API allow user obtain live train information present LDB web page use sit Users choose employ board listing departures board listing arrival board list arrival departures A license must request National Rail Enquiries prior use API"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "Catch-A-Cab",
+        "id": 13263,
+        "progweb_descr": " CatchACab online mobile application offer book service cabs private transportation United Kingdom Users book cab transportation track cab drive time CatchACab API allow developer integrate functionality data CatchACab application sit Public documentation available access come developer account"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "Placr",
+        "id": 14297,
+        "progweb_descr": " Placr UK public transport data aggregator offering feed apps realtime run display Placrs public transport aggregation service give access timetable live run information Londons public transport release GLA London DataStore Performance data live run information timetable also available Placr Transport API Users must contact provider full documentation"
+    },
+    {
+        "progweb_cat": "Transportation,England",
+        "api_name": "Transport for London",
+        "id": 15368,
+        "progweb_descr": " Information form public transport London rout map journey planner online ticket sale Includes guide see visit Tube weekend feed contain information plan line station closure come weekend This allow people plan journeys avoid disruption Our station location feed Geocoded KML fee London Underground DLR London Overground station findaride KML feed contains detail license London minicab private hire operator It base database awardwinning Cabwise service"
+    },
+    {
+        "progweb_cat": "Transportation,Comparisons",
+        "api_name": "Zailoo Rideshare Companion",
+        "id": 5126,
+        "progweb_descr": " Zailoos Rideshare Companion API provide user ability compare price time estimate ridesharing service like Uber Lyft Sidecar Taxis result accurate realtime Please send email zailooteamgmailcom infozailoocom API access"
+    },
+    {
+        "progweb_cat": "Transportation,Booking",
+        "api_name": "Distribusion",
+        "id": 5776,
+        "progweb_descr": " Distribusion API allow developer access integrate functionality travel data Distribusion application Public documentation available interested developer email jtdistribusioncom API information Distribusion platform search buy bus ticket city"
+    },
+    {
+        "progweb_cat": "Transportation,Booking",
+        "api_name": "FlitWays",
+        "id": 6421,
+        "progweb_descr": " FlitWays online book engine app allow traveler prebook ride choose preferred ride selection vehicle Taxi Executive Cars Airports Shuttles Transfers This give business private traveler ability plan ahead accordingly make arrangement trip With FlitWays API travel supplier Airline Hotels Car Rentals Cruises Travel Consolidators Aggregators Travel Search integrate FlitWays API travel technology compliment core travel product offer ground travel ride book 89 Cities 234 Airports API access via HTTP request JSON format request rate place book return trip status"
+    },
+    {
+        "progweb_cat": "Transportation,Booking",
+        "api_name": "Bring Booking",
+        "id": 6558,
+        "progweb_descr": " Bring Cargo Norwegian company specialize Logistics Transportation Bring Booking loggedin service let Bring Cargo customer programmatically create booking Bring Booking API let developer integrate application enable user send book request"
+    },
+    {
+        "progweb_cat": "Transportation,Feeds",
+        "api_name": "Trafiklab GTFS Sweden",
+        "id": 6032,
+        "progweb_descr": " Trafiklab online community provide APIs public transport SwedenThe Trafiklab GTFS Sweden contain data plan public transport Sweden It provide accord general transit feed specification standard develop Google"
+    },
+    {
+        "progweb_cat": "Transportation,Planning",
+        "api_name": "Trafiklab ResRobot - Journey Search",
+        "id": 6033,
+        "progweb_descr": " Trafiklab online community provide APIs public transport Sweden Trafiklab ResRobot API provide trip planning data Swedish public transport That include time table train bus subway tram Sweden Data bus stop station also available"
+    },
+    {
+        "progweb_cat": "Transportation,Planning",
+        "api_name": "Trafiklab SL Trip Planner 2",
+        "id": 6044,
+        "progweb_descr": " Trafiklab online community provide APIs public transport Sweden Trafiklab SL Trip Planner 2 API provide customer travel information Stockholm County Sweden With API developer integrate service application enable customer get travel information Stockholm County Swede"
+    },
+    {
+        "progweb_cat": "Transportation,Planning",
+        "api_name": "TfL Journey Planner",
+        "id": 6086,
+        "progweb_descr": " TfL London base transportation company provide customer way find travel relate information within city London TfL Journey Planner API let developer integrate service data application This API enable user application access TfLs database directly"
+    },
+    {
+        "progweb_cat": "Transportation,Planning",
+        "api_name": "GB Rail Info",
+        "id": 9010,
+        "progweb_descr": " GB Rail Info provide optimal journey pair British railway station specify date within next seven day GB Rail Infoâ€™s free API make data available HTTP GET call Responses JSON format"
+    },
+    {
+        "progweb_cat": "Transportation,Real Time",
+        "api_name": "Trafiklab SL Traffic Mode 2",
+        "id": 6051,
+        "progweb_descr": " Trafiklab online community provide developer space share data APIs public transport Sweden Trafiklab SL Traffic Mode 2 API provide customer current status public transport traffic situation Stockholm Use conjunction Trafiklab SL APIs enable trip planning etc"
+    },
+    {
+        "progweb_cat": "Transportation,Real Time",
+        "api_name": "Public Transport by Tisséo Transport Operator Toulouse France",
+        "id": 6806,
+        "progweb_descr": " This official public transport API Toulouse area France API provide real time stop schedule journey planner geocoding public transport object exploration analytics This API directly operate public transport company use internally Tisséo data always supervise date documentation PDF format"
+    },
+    {
+        "progweb_cat": "Transportation,Real Time",
+        "api_name": "Ride On Live Transit",
+        "id": 10780,
+        "progweb_descr": " Ride On Montgomery County Marylandâ€™s public bus service Ride On Live Transit API provide RESTful interface readonly data bus stop bus route trip schedule arrival time bus stop sign message Results may format JSON XML"
+    },
+    {
+        "progweb_cat": "Transportation,Real Time",
+        "api_name": "Hampton Roads Transit",
+        "id": 10782,
+        "progweb_descr": " Hampton Roads Transit regional transportation system provide bus light rail ferry service Hampton Roads Virginia Hampton Roads Transit API provide programmatic access realtime bus data Available call include bus route current bus location API able return data entire system specify route"
+    },
+    {
+        "progweb_cat": "Transportation,Real Time",
+        "api_name": "Travelyaari",
+        "id": 11103,
+        "progweb_descr": " Travelyaaricom 100 real time bus ticket book service India It boast large bus ticket inventory 10000 bus route Users book bus ticket real time without request book pay ticket price without additional charge cancel ticket booking API expose sit functionality 50 available method API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Transportation,Real Time",
+        "api_name": "Oahu Transit Services",
+        "id": 13167,
+        "progweb_descr": " Oahu Transit Services OTS provide realtime bus arrival information via computer webenabled mobile phone OTS API provide access realtime data data include reporting arrival identify location location vehicle API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Transportation,Real Time",
+        "api_name": "511 Driving Times",
+        "id": 13184,
+        "progweb_descr": " 511 San Francisco Bay Areaâ€™s free traveler information service available phone call 511 web 511org 511 service give access current traffic transit rideshare bicycle information 511 Driving Times API provide 511s current typical driving time start end point include incident along route It give usres realtime data traffic condition regionâ€™s freeway CHP incident report information make available application development API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Transportation,Real Time",
+        "api_name": "Toronto Transit Commission Real-Time Arrivals",
+        "id": 14264,
+        "progweb_descr": " This service provide realtime location next vehicle arrival prediction Toronto Transit Commission TTC streetcars SchedulesRoute definition update approximately every 6 week Developers use data create application provide passenger information public API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Transportation,Shipping",
+        "api_name": "Postmates Delivery",
+        "id": 6055,
+        "progweb_descr": " Postmates courier service accessible via Android iOS apps allow office individual user request delivery form restaurant store Using Postmates Delivery API developer integrate ondemand delivery service 3rd party application API specifically allow developer book delivery check delivery price request quote track status delivery arrival Postmates API use standard HTTP request verb GET POST DELETE return JSON formatted response use Basic HTTP customer ID access authentication purpose"
+    },
+    {
+        "progweb_cat": "Transportation,Shipping",
+        "api_name": "OptimoRoute",
+        "id": 7882,
+        "progweb_descr": " OptimoRoute webbased service planning delivery rout schedule field service appointment Optimizing route allow user save time money fuel Users import address Microsoft Excel rout Excel GPS device smart phone OptimoRoute API allow user integrate method create order delete order get plan route get schedule information application"
+    },
+    {
+        "progweb_cat": "Transportation,Shipping",
+        "api_name": "PODFather",
+        "id": 9229,
+        "progweb_descr": " PODFather cloud base mobile software solution design business work logistics construction field service sector An integrate PDA webbased back office solution allow business manage operation realtime PODFather API allow fully integrate PODFather system exist IT system API RESTful use CSV XML file format Use API create run job download complete PODs"
+    },
+    {
+        "progweb_cat": "Transportation,Shipping",
+        "api_name": "Averitt",
+        "id": 13200,
+        "progweb_descr": " Averitt Express provider freight transportation supply chain management 100 facility across 18 state Averitt Web Services provide XML feed developer website internal system feed include realtime rate quote specific user account realtime shipment status PRO transit time throughout US Canada retrieval shipmentrelated image document API us SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Transportation,Shipping",
+        "api_name": "VesselTracker",
+        "id": 13411,
+        "progweb_descr": " service provide online access location status information register ship boat worldwide Vessel traffic log satellite terrestrial tracking technology report site via API API method support retrieval data ship movement status dock underway etc vessel characteristic port activity Additional data available include schedule expect arrival vessel master data Email detail information"
+    },
+    {
+        "progweb_cat": "Transportation,eCommerce",
+        "api_name": "Bring Easy Return Service",
+        "id": 6559,
+        "progweb_descr": " Bring Cargo Norwegian company specialize Logistics Transportation Bring Easy Return Service service let Bring Cargo customer create label parcel return crossborder eretailers Bring Easy Return Service API let developer integrate application enable customer create parcel return label"
+    },
+    {
+        "progweb_cat": "Transportation,Guides",
+        "api_name": "Hailo",
+        "id": 6969,
+        "progweb_descr": " Hailo app ease process hail taxi allow user view book nearby driver single button Hailo API return nearby driver location ETA information It also allow ability hail driver within 3rd party app connect developer user 60000 taxis executive car 3 continent Deep link give ability migrate inputted information seamlessly Hailo app clean user experience"
+    },
+    {
+        "progweb_cat": "Transportation,Guides",
+        "api_name": "SilverRail Journey Planner",
+        "id": 13664,
+        "progweb_descr": " Jeppesen provide chart map plan solution aviation marine rail operator Jeppesen Journey Planner API let developer integrate public transit information website mobile application service aggregate late transit schedule around world provide user access host API Public transit journey match integrated timetable stop location trip geography display customer directly within user application To date 58 data set aggregate 36 region Features API include transit journey planning walk journey plan polyline trip representation transit stop location API use RESTful SOAP call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Transportation,Addresses",
+        "api_name": "GraphHopper Directions",
+        "id": 7187,
+        "progweb_descr": " GraphHopper Directions API rout web service design find best route two location base OpenStreetMap data It provide worldwide coverage suggest route take car bicycle foot every route even elevation data include Besides point point rout complex requirement satisfy via route optimization API make possible fast optimization itinerary salesman sightsee tour route vehicle delivery important logistics taxi tourism application Additional rout Geocoding API Isochrone API special Matrix API provide efficient way calculate distance matrix GraphHopper API enable user integrate information application"
+    },
+    {
+        "progweb_cat": "Transportation,Parking",
+        "api_name": "Streetline ParkerData",
+        "id": 7403,
+        "progweb_descr": " Streetline company focus improve park city around world Streetline bring together aspect park management technology one integrated system streetlevel sensor mobile apps analytics system management software Streetline ParkerData API enable user build park visualization mobile web apps incar navigationThe visualization display availability count well total capacity facility collection space API use REST call return XML JSON An account required service"
+    },
+    {
+        "progweb_cat": "Transportation,Parking",
+        "api_name": "IntegraPark PARIS",
+        "id": 8804,
+        "progweb_descr": " IntegraPark offer suite service design park industry company provide billing receivables service revenue management system cloudbased revenue control application meter bag scheduler full service management system IntegraPark PARIS API allow user access monthly parker information mobile application include permit number license plate information reserve space number parker space provision call Contact IntegraPark detail API information"
+    },
+    {
+        "progweb_cat": "Transportation,Parking",
+        "api_name": "ParkMe",
+        "id": 10335,
+        "progweb_descr": " ParkMe mobile application park information location Users ParkMe search parking near sort distance price availability park area ParkMe API allow developer access integrate functionality ParkMe applications Some example API method include search park retrieve parking price distance retrieve drive direction park spot Public documentation available interested developer email parkingparkmecom developer key access API"
+    },
+    {
+        "progweb_cat": "Transportation,Parking",
+        "api_name": "SFpark",
+        "id": 13767,
+        "progweb_descr": " service provide continuously update information location price available parking select area San Francisco DataSF city government open data initiative collect distribute information help driver choose drive choose transportation option Data provide offstreet parking provider sensor report status individual street park space occupy vacant API method support submission search parameter include location latitudelongitude preferred radius type parking desire street offstreet whether include rate information Returned data include location currently available park type applicable rate request"
+    },
+    {
+        "progweb_cat": "Transportation,Performance",
+        "api_name": "Transport",
+        "id": 7421,
+        "progweb_descr": " TransportAPI dataasaservice company provide transportation data apps websites use industry source like Travelline Network Rail Tfl TransportAPI use REST call variety endpoint Users make call get data bus rout time London underground transit info several public trip planner API already use live bus departure service UK travel option application An account required service"
+    },
+    {
+        "progweb_cat": "Transportation,Community",
+        "api_name": "iCarpool",
+        "id": 7464,
+        "progweb_descr": " iCarpool carpooling network Services include RealTime Ridesharing SMART Vanpool Management SchoolPool Module iCarpool API enable utilizing iCarpools infrastructure integrate application Developers take site user though integrated device application"
+    },
+    {
+        "progweb_cat": "Transportation,New York City",
+        "api_name": "NYC Subway Data",
+        "id": 7589,
+        "progweb_descr": " NYC Subway Data API allow user retrieve subway information New York Citys Metropolitan Transit Authority MTA integrate application API allow user retrieve subway station cod station name coordinate subway arrival time give station station train stop give time"
+    },
+    {
+        "progweb_cat": "Transportation,New York City",
+        "api_name": "Rochester Genesee Regional Transportation Authority",
+        "id": 8918,
+        "progweb_descr": " Rochester Genesee Regional Transportation Authority RGRTA provide public mass transportation Rochester New York RGRTA REST API allow user retrieve static realtime information RGRTA website Static information include schedule stop line etc Information bus currently whether theyre ahead behind schedule stop theyll arrive next provide realtime update occur per minute"
+    },
+    {
+        "progweb_cat": "Transportation,New York City",
+        "api_name": "MTA Bus Time",
+        "id": 13199,
+        "progweb_descr": " MTA Bus Time use GPS wireless communication technology track realtime location bus MTA Bus Time use find location next several bus arrive stop project currently cover bus route Staten Island expand NYC borough expect completion 2013 API provide call let user track vehicle system real time also monitor real time information particular stop API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Transportation,New York City",
+        "api_name": "MTA",
+        "id": 14502,
+        "progweb_descr": " New York Citys system bus trainsthe Metro Transit Authorityprovides data download inclusion developer application All route schedule available borough Googles GTFS format Additionally service status ie delay elevatorescalator status message update every five minute available via XML fee Finally turnstile traffic available perunit level four hour increment data refresh weekly MTA continue make data available include bridgetunnel traffic GIS file subway entrance exit point Coverage include MTAs service include bus subway Long Island Rail Road Metro North Bus Long Island Bus Bus Company"
+    },
+    {
+        "progweb_cat": "Transportation,Identity",
+        "api_name": "VIN decoder",
+        "id": 8221,
+        "progweb_descr": " VIN Decoder VIN information service user input vehicle VIN number decode information back VIN return manufacturer data include Manufacturer manufacturer address product type make check digit model yearplant code sequential number well data police data base VIN Decoder API use REST API allow user submit VIN number service free use API tiered pricing usage"
+    },
+    {
+        "progweb_cat": "Transportation,Messaging",
+        "api_name": "Vasttrafik TravelPlanner",
+        "id": 10122,
+        "progweb_descr": " VÃ¤sttrafik secondlargest public transportation company Sweden Customers option purchase ticket online form SMS iPhones Android device VÃ¤sttrafik API enable user look SMS code price ticket want This service use SOAP call issue XML format VÃ¤sttrafik website provide primarily Swedish English translation available section"
+    },
+    {
+        "progweb_cat": "Transportation,Israeli",
+        "api_name": "Tel-O-Fun Geo",
+        "id": 10128,
+        "progweb_descr": " TelOFun Geo company provide bicycle rental service resident visitor within Tel AvivYafo TelOFun advertise hundred bike rent simple efficient convenient manner rental station across city On website provide API retrieve bicycle station closest user"
+    },
+    {
+        "progweb_cat": "Transportation,Syncing",
+        "api_name": "Ford",
+        "id": 10211,
+        "progweb_descr": " Ford Motor Company offer developer program developer create voiceactivated application integrated vehicle technology With AppLink Sync Ford developers integrate smartphone application use vehicle Public documentation available interested developer sign httpsdeveloperfordcombecomeamember"
+    },
+    {
+        "progweb_cat": "Transportation,Mobile",
+        "api_name": "Movilizer",
+        "id": 10564,
+        "progweb_descr": " service provide review update vehicle maintenance safety inspection information via provider cloud platform It intend allow driver post condition report result inspection conduct prior operate vehicle event occur operation Vehicle condition report manage via mobile device client integrate SAP SalesForce asset management application API method support retrieval vehicle inspection maintenance report submission new report Mobile device support help support interaction system employee field"
+    },
+    {
+        "progweb_cat": "Transportation,Analytics",
+        "api_name": "Snoobi",
+        "id": 10581,
+        "progweb_descr": " Finlandbased service provide traffic track analytics web page content element social medium message communication campaign It emphasize track effectiveness communication message across web social phonebased channel Customized reporting function intend deliver summary without detail appropriate decisionmaking need strategy formulation tactical implementation API method support retrieval report overall traffic summary performance goal among specific user demographic Traffic report provide analytics site directory page page section Reporting break advertise performance search term effectiveness geographic variation traffic pattern"
+    },
+    {
+        "progweb_cat": "Transportation,Analytics",
+        "api_name": "iGeolise Travel Time",
+        "id": 11598,
+        "progweb_descr": " TravelTime platform API make locationbased data searchable travel time rather distance It map travel time area common mode transport drive time map public transport commute map walk time map cycle map also possible combine mode When use within location search search map sort deliver result base time rather distance example ask ‘ ’ reachable within 30 minute drive location ’ map area search thousand destination It also sort destination shortest long time You create large search area search 2 origin simultaneously combine shape well identify unique search area suitable 2 point origin like centre venn diagram Its also useful A B rout adjusts result base time day Suitable property search sit Where family live ensure 30 minute commute Hotel search accommodation search Which hotel quick access sight Job search Which job role within 45 min commute house Retail Find quick store reach Entertainment Find close cinema restaurant place visit Local councils government find public service travel time API method support specification origin point latitude longitude travel mode time limit type destination Returned data provide destination request type within specify travel time range Methods also allow specification point origin destination travel mode receive fast available route API also support geocoding specify UK postal code"
+    },
+    {
+        "progweb_cat": "Transportation,Financial",
+        "api_name": "EurotaxGlass Valuation",
+        "id": 10640,
+        "progweb_descr": " EurotaxGlass lead provider data solution business intelligence service European automotive community They provide Valuation API enable user determine value car base information country vehicle locate condition mileage This service programmatically accessible use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Transportation,Australian",
+        "api_name": "Transperth",
+        "id": 10781,
+        "progweb_descr": " Transperth public transport service provider great Perth area Perth Transit API provide unofficial readonly access Transperth data include information bus time bus stop smart rider account Data return JSON format"
+    },
+    {
+        "progweb_cat": "Transportation,Russian",
+        "api_name": "Laximo AfterMarket",
+        "id": 10821,
+        "progweb_descr": " Laximo AfterMarket Russian website provide information car component primary secondary market Because allow user obtain component information also rate reliability information form rich online resource professional trade automotive part Laximo also offer searchable catalog spare part sale Laximos information spare part catalog integrate website use Laximo AfterMarket SOAP API website provide solely Russian"
+    },
+    {
+        "progweb_cat": "Transportation,Cycling",
+        "api_name": "viaCycle",
+        "id": 11225,
+        "progweb_descr": " viaCycle bike share program allow user unlock bike phone call texting via application viaCycle API allow developer access integrate functionality viaCycle application Some example API method include retrieve location bike retrieve information bike"
+    },
+    {
+        "progweb_cat": "Transportation,Cycling",
+        "api_name": "CityBikes",
+        "id": 13616,
+        "progweb_descr": " CityBikes application provide bike share networks information numerous country Users search location find bike share networks location information CityBikes API allow developer access integrate CityBikes data functionality integration application API method include search retrieve bike share network information IDs"
+    },
+    {
+        "progweb_cat": "Transportation,Tourism",
+        "api_name": "Route You",
+        "id": 11500,
+        "progweb_descr": " service provide aid navigation mainly intend hiker cyclists sightseer It intend emphasize pleasant outdoor activity navigate place place via scenic relax route service default short fast rout It provide turnbyturn navigation pas popular destination along pleasant path store userspecified route later retrieval share A related service provide popular location nearby designate location API method support retrieve link path define route specify location emphasize pleasant travel rather early possible arrival Methods generate routenetworks load GPS navigation system translate digitally define route different format store use data"
+    },
+    {
+        "progweb_cat": "Transportation,Safety",
+        "api_name": "SaferBus",
+        "id": 11862,
+        "progweb_descr": " Federal Motor Carrier Safety Administration FMCSA make safety performance data US Department Transportation register bus company available SaferBus API This REST API return either JSON XML design allow developer create application make consumer aware safety record bus company may choose ride API require API Key account access"
+    },
+    {
+        "progweb_cat": "Transportation,Safety",
+        "api_name": "Traffic Records Electronic Data System",
+        "id": 12133,
+        "progweb_descr": " service formally name Traffic Records Electronic Data System TREDS provide report highway safety statistic share analysis Part Virginiaâ€™s program reduce crash injury intend present accurate timely detailed information traffic safety especially related motorcycle operation state API facilitate participation record management system emergency service provider safety training provider TREDS program Methods support submit retrieve crash incident report well report safety train Motorcycle safety training vendor supply instructor credential student characteristic type motorcycle involve skill learn grade outcome achieve related function"
+    },
+    {
+        "progweb_cat": "Transportation,Monitoring",
+        "api_name": "Carrier411",
+        "id": 12338,
+        "progweb_descr": " service allow customer truck transportation service review record compete provider evaluate qualification meet specific need It allow application monitor change truck company insurance safety record compliance operating requirement Users qualify motor carrier CSA 2010 BASIC score create Due Diligence Certificates EcoCert Certificates API method support retrieval company list motor carrier date content safety report filing BASIC score Methods also support start end monitor carrier trigger notification status change company listing"
+    },
+    {
+        "progweb_cat": "Transportation,Monitoring",
+        "api_name": "HiGrids INforAMA",
+        "id": 12586,
+        "progweb_descr": " INforAMA Information Engine Advanced Mobility Applications It integrate incar device keep track carâ€™s position speed route information INforAMA provide HiGrids Foundation business develop implementing project field intelligent transport system"
+    },
+    {
+        "progweb_cat": "Transportation,Nordic",
+        "api_name": "VÃ¤sttrafik",
+        "id": 12409,
+        "progweb_descr": " VÃ¤sttrafik public transport company West Sweden responsible public transport service include bus trams ferry train County VÃ¤stra GÃ¶taland site provide map plan service timetable VÃ¤sttrafik offer journey planner departure board APIs public transport West Sweden journey planner API expose service include location trip departure board journey detail geometry It use RESTful call response format XML JSON site documentation Swedish"
+    },
+    {
+        "progweb_cat": "Transportation,Nordic",
+        "api_name": "Skanetrafiken",
+        "id": 13379,
+        "progweb_descr": " SkÃ¥netrafiken transit website SkÃ¥ne County Sweden SkÃ¥netrafiken provide traffic planner bus schedule city regional bus train well map rout current line type choice type service This information also available RESTful API return result XML"
+    },
+    {
+        "progweb_cat": "Transportation,Nordic",
+        "api_name": "Trafiklab",
+        "id": 13382,
+        "progweb_descr": " Trafiklab open data initiative Sweden exposing traffic transportation data APIs A project several government agency company Trafiklab offer large suite APIs realtime transit information bus subway commuter train local path travel planning service current traffic status current plan transportation project environmental impact travel option location operate hour bike service park facility informaiton RESTful SOAP APIs available API key require APIs"
+    },
+    {
+        "progweb_cat": "Transportation,Nordic",
+        "api_name": "Helsinki Regional Transport Authority",
+        "id": 13518,
+        "progweb_descr": " Helsinki Regional Transport Authority HRT provide transit information local bus tram metro ferry commuter train service Timetables rout information ticket fare passenger guide trip planning available HRT website A RESTful API available trip planner service Responses return XML"
+    },
+    {
+        "progweb_cat": "Transportation,German",
+        "api_name": "Zugmonitor",
+        "id": 12629,
+        "progweb_descr": " Open Data City specialize application involve large data set Their Zugmonitor API provide user information train status train delays German Railway system Information provide include station characteristic train property mroe API use RESTful call response format JSON site documentation German"
+    },
+    {
+        "progweb_cat": "Transportation,Tickets",
+        "api_name": "Redbus",
+        "id": 12724,
+        "progweb_descr": " service provide ticket free booking fee bus travel within India It generate ticket document user print distributes valid mTickets via SMS text message avoid crowd long wait sellouts physical ticket location API method support submission ticket request include review selection rout board dropoff point seat layouts Methods allow creation cancellation tentative booking well completion ticket process"
+    },
+    {
+        "progweb_cat": "Transportation,Canadian",
+        "api_name": "OC Transpo",
+        "id": 12770,
+        "progweb_descr": " OC Transpo public transportation enterprise run City Ottawa citizens OC Transpo fleet include 1000 bus three train serve nearly 370000 daily rider OC Transpo Live Next Bus Arrival Data Feed API enable developer create application include OC Transpo transit data This API available charge implement forprofit nonprofit application"
+    },
+    {
+        "progweb_cat": "Transportation,Canadian",
+        "api_name": "TransLink",
+        "id": 13760,
+        "progweb_descr": " TransLink transit authority Vancouver British Columbia Route schedule information available via Google Transit Feed Specification GTFS format accessible JSONbased API read agree term service access API documentation"
+    },
+    {
+        "progweb_cat": "Transportation,Recreation",
+        "api_name": "Carpool2Camp",
+        "id": 13154,
+        "progweb_descr": " service help family share transportation camper remote location Applications embed function collect start location destination match submission similar route Campers family coordinate trip home camp reduce traffic drive expense carbon emission API method support embed proprietary PoolPassÂ® Ride Match functionality camp web site API manage database ride request well geolocation ridematching Account admin function provide record specific camp create new user account"
+    },
+    {
+        "progweb_cat": "Transportation,Real Estate",
+        "api_name": "Walk Score Public Transit",
+        "id": 15216,
+        "progweb_descr": " Public Transit API return Transit Score location provide access nearby public transit stop route Contains data 200 transit agency This especially helpful real estate professional customer evaluate select property From company create Walk Score"
+    }
+]

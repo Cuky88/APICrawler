@@ -1,0 +1,266 @@
+[
+    {
+        "progweb_cat": "Text,Analytics",
+        "api_name": "RxNLP Text Similarity",
+        "id": 653,
+        "progweb_descr": " RxNLP Text Mining Natural Language Processing service One RxNLPs APIs Text Similarity API It use analyze compute surface similarity texts long short Having tool identify text similarity help thing query reformulation find analyze similar topic group similar item"
+    },
+    {
+        "progweb_cat": "Text,Analytics",
+        "api_name": "Ontotext S4 Semantic Biomedical Tagger",
+        "id": 681,
+        "progweb_descr": " Semantic Biomedical Tagger SBT API offer developer builtin capability recognize 133 biomedical entity type text semantically link knowledge graph case LinkedLifeData LLD integrate together 25 biomedical data source"
+    },
+    {
+        "progweb_cat": "Text,Analytics",
+        "api_name": "Ontotext S4 Twitter Analytics",
+        "id": 683,
+        "progweb_descr": " Twitter IE name entity recognition service specially tune use Twitter data It perform tokenisation sentence split partofspeech tag use model train specifically Tweets normalisation abbreviation shorten word form frequently find Tweets brb ttyl gr8 2day etc tag Twitterspecific entity hashtags mention well URLs emoticon general namedentity recognition identify basic entity type Person Location Organization Money amount Time Date expression etc mapping entity discover text reference data DBpedia knowledge graph Acknowledgements Twitter analytics service S4 base TwitIE open source information extraction pipeline GATE platform University Sheffield"
+    },
+    {
+        "progweb_cat": "Text,Analytics",
+        "api_name": "Text2Data",
+        "id": 3709,
+        "progweb_descr": " Text2Data API integrate text analysis sentiment application It available JSON XML architectures private key Text2Data help user analyse company document social medium trend scalable platform"
+    },
+    {
+        "progweb_cat": "Text,Analytics",
+        "api_name": "Microsoft Azure Machine Learning Text Analytics",
+        "id": 4005,
+        "progweb_descr": " Microsoft Azure Machine Learning Text Analytics API use detect sentiment key phrase topic language text It support 120 language require train data 4 pay plan available starter free plan available well Text Analytics API use JSON data exchange require API Keys authentication"
+    },
+    {
+        "progweb_cat": "Text,Analytics",
+        "api_name": "Key Terms Extraction",
+        "id": 4629,
+        "progweb_descr": " Key Terms Extraction API allow developer integrate application Proxem Key Terms Extraction service allow extract key term phrase text document Proxems terminology extraction method This natural language processing technique compute ngrams let user find statistically relevant one data This API work well indexing suggestion recommendation prerequisite text analytics related task API currently available follow language en fr sp de pt"
+    },
+    {
+        "progweb_cat": "Text,Analytics",
+        "api_name": "Ontotext S4 News Classifier",
+        "id": 4790,
+        "progweb_descr": " News Classifier API aim assign input document category base 17 toplevel category IPTC Subject Reference System API also allow two category candidate rank 2nd 3rd Ontotext provider semantic software"
+    },
+    {
+        "progweb_cat": "Text,Analytics",
+        "api_name": "Twinword Text Analysis Bundle",
+        "id": 5676,
+        "progweb_descr": " Twinword Text Analysis Bundle API process text analysis This API offer various natural language processing feature lemmatizer sentiment analysis topic tag All service include one plan Users could benefit NLP tool analyze understand human sentence"
+    },
+    {
+        "progweb_cat": "Text,Documents",
+        "api_name": "Ontotext S4 Text Analytics",
+        "id": 679,
+        "progweb_descr": " News Annotation service retrieve various type entity texts well relation extraction base gazetteer trust source curated Freebase DBpedia etc combination rulebased machine learn technique service applies word sense disambiguation technique attach unique URI extract entity relation service part SelfService Semantic Suite S4 provide key capability ondemand lowcost Smart Data management analytics 1 various text analytics service news Life Sciences social medium allow extract valuable meaning insight use manage business 2 ondemand reliable access key knowledge graph DBpedia FreebaseWikidata GeoNames These datasets provide fact use enhance semantic analysis 3 selfmanaged fullymanaged scalable RDF graph databaseasaservice search update semantic fact load knowledge graph document"
+    },
+    {
+        "progweb_cat": "Text,Natural Language Processing",
+        "api_name": "Dandelion Text Similarity",
+        "id": 2142,
+        "progweb_descr": " Dandelion Text Similarity API semantic sentence similarity API optimize short sentence All request must send either GET POST API endpoint allows compare two sentence get score semantic similarity Dandelion API extract meaning unstructured text put context provide Semantic Text Analytics service include text actionable data"
+    },
+    {
+        "progweb_cat": "Text,Telephony",
+        "api_name": "Zilkr",
+        "id": 3452,
+        "progweb_descr": " Zilkr API platform open companys communication infrastructure connect third party It allow company provide resells manage communication service become integrationfriendly software application provide API Developer program service"
+    },
+    {
+        "progweb_cat": "Text,Engagement",
+        "api_name": "Textizen",
+        "id": 3569,
+        "progweb_descr": " Textizen RESTful API integrate engage message use JSON protocol secure HTTPS environment Authentication require token"
+    },
+    {
+        "progweb_cat": "Text,German",
+        "api_name": "Ontotext S4 Text Analytics (German)",
+        "id": 3989,
+        "progweb_descr": " News Annotation service German language discovers various type entity texts via API extraction base gazetteer trust source curated Freebase German version DBpedia combination rulebased machine learn technique Available HTTP JSON REST protocol"
+    },
+    {
+        "progweb_cat": "Text,Extraction",
+        "api_name": "Instaparser Text",
+        "id": 3995,
+        "progweb_descr": " Instaparser Text API allow developer extract body text page use textbased analysis natural language processing sentiment analysis Instaparser service design cleanly pull content website view easily mobile device"
+    },
+    {
+        "progweb_cat": "Text,Extraction",
+        "api_name": "SYSTRAN Multimodal",
+        "id": 4542,
+        "progweb_descr": " SYSTRAN Multimodal API enable developer use Multimodal feature Speech recognition Image Processing Text extraction SYSTRAN Platform collection REST APIs Client Libraries sample Text extraction Translation Multilingual dictionaries search Natural Language Processing Language Identification Segmentation Morphological analysis Speech text OCR"
+    },
+    {
+        "progweb_cat": "Text,Extraction",
+        "api_name": "Ai Applied Text Extract",
+        "id": 8394,
+        "progweb_descr": " Ai Applied provide technology service help user obtain valuable insight texts social medium web data Ai offer suite APIs allow developer interact data variety way Ai Applied Text Extract API programmatically extract text content html web page Developers pass URL API respond JSONformatted message contain source title structure text"
+    },
+    {
+        "progweb_cat": "Text,Collaboration",
+        "api_name": "Firepad",
+        "id": 4477,
+        "progweb_descr": " Firepad API open source project create Firebase useful edit text collaborative way Developers use Firebase backend add JavaScript file reference Firebase API allow store data real time interact REST protocol access token OAuth2"
+    },
+    {
+        "progweb_cat": "Text,OCR",
+        "api_name": "Baidu OCR Text Recognition",
+        "id": 4763,
+        "progweb_descr": " Baidu OCR Text Recognition API allow developer integrate text recognition service application This API provide text detection recognition whole map text recognition"
+    },
+    {
+        "progweb_cat": "Text,Data Mining",
+        "api_name": "AutoTagger",
+        "id": 4847,
+        "progweb_descr": " AutoTagger API help developer data mining need Its main feature extract entity Dutch text API analyze texts quickly show important key word tag"
+    },
+    {
+        "progweb_cat": "Text,Dictionary",
+        "api_name": "Twinword Word Associations",
+        "id": 5673,
+        "progweb_descr": " Twinwords Word Associations API get word association semantic distance score Because aims work synonym user get relate word family like cat dog This API allow find synonyms related word one word phrase"
+    },
+    {
+        "progweb_cat": "Text,Language",
+        "api_name": "Twinword Sentiment Analysis",
+        "id": 5674,
+        "progweb_descr": " Twinword Sentiment Analysis free API return sentiment analysis result score give text Because allow find tone user comment post user find positive negative comment social medium platform"
+    },
+    {
+        "progweb_cat": "Text,Language",
+        "api_name": "Twinword Lemmatizer",
+        "id": 5675,
+        "progweb_descr": " Twinword Lemmatizer API return root word root string word example dog dog ability ability If user sign consume API price free time use unlimited"
+    },
+    {
+        "progweb_cat": "Text,Content",
+        "api_name": "IBM Watson Concept Insights",
+        "id": 5766,
+        "progweb_descr": " IBM Concept Insights API enable developer work concept identify conceptual association content submit provide content autotagged concept graph base content English language Wikipedia Terms link Wikipedia concept relate explicitly mention provide content"
+    },
+    {
+        "progweb_cat": "Text,Messaging",
+        "api_name": "Sinch SMS",
+        "id": 5900,
+        "progweb_descr": " Sinch SMS API intend offer platform real time communication Internet Features include SMSenabled number Sinch receive inbound SMS message user sent backend app"
+    },
+    {
+        "progweb_cat": "Text,French",
+        "api_name": "Pressmon.com",
+        "id": 6429,
+        "progweb_descr": " Pressmon REST API query inputted word return different usage throughout vary language This do source press literature different language contain give word word combination allow one retrieve examples use word different context This tool could useful online dictionary linguistic resource Current available language category API include English Spanish Italian German Russian French"
+    },
+    {
+        "progweb_cat": "Text,Organization",
+        "api_name": "HPE Haven OnDemand Highlight Text",
+        "id": 7105,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Highlight Text API accept text file scan specify word insert HTML tag highlight"
+    },
+    {
+        "progweb_cat": "Text",
+        "api_name": "Spritz",
+        "id": 7875,
+        "progweb_descr": " Spritz text integration read application Spritz develop new technology text consume read application websites Spritz API allow developer access integrate functionality Spritz application create new application Public documentation available interested developer sign httpwwwspritzinccomdevelopers"
+    },
+    {
+        "progweb_cat": "Text",
+        "api_name": "TinyPaste",
+        "id": 14664,
+        "progweb_descr": " TinyPaste service let user create short URL link long text string use place large block text similar URLshortening service In addition web interface TinyPaste offer simple API let developer create application use TinyPaste service database web link"
+    },
+    {
+        "progweb_cat": "Text,Mobile",
+        "api_name": "Fleksy",
+        "id": 8384,
+        "progweb_descr": " Fleksy keyboard application replaces native keyboard smartphones tablet Fleksys type operates predictive text technology Fleksy API SDK allow developer access integrate functionality Fleksy application Public documentation available interested developer sign information httpfleksycomgetmysdk"
+    },
+    {
+        "progweb_cat": "Text,Data",
+        "api_name": "Ai Applied Data Miner",
+        "id": 8388,
+        "progweb_descr": " Ai Applied provide technology service help user obtain valuable insight texts social medium web data Ai offer suite APIs allow developer interact data variety way Ai Applied Data Miner API provide system continuously track conversation news Facebook Twitter use set specified keywords API delivers structure data keywordrelevant message specify source Data type include source language age gender author sentiment prominent phrase Data Miner API use several Ai Applied APIs backend deliver data"
+    },
+    {
+        "progweb_cat": "Text,Classification",
+        "api_name": "Ai Applied Text Label",
+        "id": 8390,
+        "progweb_descr": " Ai Applied provide technology service help user obtain valuable insight texts social medium web data Ai offer suite APIs allow developer interact data variety way Ai Applied Text Label API extract mean give text form label API able extract label texts length several language"
+    },
+    {
+        "progweb_cat": "Text,Sentiment",
+        "api_name": "Ai Applied Sentiment Analysis",
+        "id": 8391,
+        "progweb_descr": " Ai Applied provide technology service help user obtain valuable insight texts social medium web data Ai offer suite APIs allow developer interact data variety way Ai Applied Sentiment Analysis API able extract attitude opinion feel toward specify entity give text API return textâ€™s sentiment class intensity realtime API able use predefined sentiment class positiveneutralnegative custom tailor class"
+    },
+    {
+        "progweb_cat": "Text,Demographics",
+        "api_name": "Ai Applied Demographics",
+        "id": 8392,
+        "progweb_descr": " Ai Applied provide technology service help user obtain valuable insight texts social medium web data Ai offer suite APIs allow developer interact data variety way Ai Applied Demographics API provide programmatic access age gender estimation functionality Developers pass text message alongside optional metadata API respond estimate gender age Each response additionally include confidence rating estimation"
+    },
+    {
+        "progweb_cat": "Text,Design",
+        "api_name": "trollem ipsum",
+        "id": 8409,
+        "progweb_descr": " Trollem ipsum create placeholder text build troll various demographic Users specify one trollem ipsumâ€™s predefined personality type Apple Fanboy Microsoft Apologist one three text lengths service responds theme dummy text Trollem ipsum expose functionality simple API Developers place simple HTTP call use keywords specify personality type length option API delivers JSON format text"
+    },
+    {
+        "progweb_cat": "Text,Design",
+        "api_name": "Game of Ipsum",
+        "id": 8410,
+        "progweb_descr": " Game Ipsum Game Thrones theme placeholder text generator Game Ipsum API expose functionality RESTful API allow developer specify number paragraph percent Latin word API delivers JSON HTML format text"
+    },
+    {
+        "progweb_cat": "Text,Design",
+        "api_name": "Schmipsum",
+        "id": 8411,
+        "progweb_descr": " Schmipsum placeholder text generator use Markov Chains randomly produce text Schmipsum pull text multiple public domain source Schmipsum API allow developer automate functionality Developers specify source word count"
+    },
+    {
+        "progweb_cat": "Text,Design",
+        "api_name": "json-lipsum",
+        "id": 8412,
+        "progweb_descr": " Jsonlipsum simple API unofficially power lipsumcom programmatically generate JSONformatted placeholder text API able specify number segment type segment paragraphs list etc language optionally callback function"
+    },
+    {
+        "progweb_cat": "Text,Design",
+        "api_name": "Any Ipsum",
+        "id": 8413,
+        "progweb_descr": " Any Ipsum API design enable developer build customize placeholder text Developers simply pass HTTP GET call specify number paragraph well keyword Any Ipsum generate need text"
+    },
+    {
+        "progweb_cat": "Text,Design",
+        "api_name": "Fillerama",
+        "id": 8415,
+        "progweb_descr": " Fillerama web service generates placeholder text compose quote Futurama Star Wars Dexter Simpsons Doctor Who Fillerama expose simple API Developers specify number sentence format show quote generate API responds JSON XML format text Callbacks support via JSONP"
+    },
+    {
+        "progweb_cat": "Text,Design",
+        "api_name": "Pony Ipsum",
+        "id": 8416,
+        "progweb_descr": " Pony Ipsum My Little Pony theme placeholder text generator service accessible REST API Developers specify number paragraph sentence well whether text ponythemed mixed lorem ipsum text"
+    },
+    {
+        "progweb_cat": "Text,Advertising",
+        "api_name": "Cogito",
+        "id": 9782,
+        "progweb_descr": " Expert System lead semantic technology company developer Cogito semantic technology Cogito API base semantic technology offer wide selection textmining tool categorization extraction sentiment relation POS tag fact mining Functionalities expose different flavor generalpurpose well specialized several industrial sector Intelligence Crime Media Fashion Advertising New feature add near future industry cover dedicated endpoint Cogito API HTTPS RESTful service output request XML JSON format"
+    },
+    {
+        "progweb_cat": "Text,Crowdsourcing",
+        "api_name": "Gistpoint",
+        "id": 14236,
+        "progweb_descr": " Gistpoint service let user find submit summary online article Gistpoint provide API take URL parameter return title format url date top summary JSON format API available free commercial noncommercial us"
+    },
+    {
+        "progweb_cat": "Text,Semantics",
+        "api_name": "Summarity",
+        "id": 14742,
+        "progweb_descr": " Summarity API allow user summarize web page view API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Text,Announcements",
+        "api_name": "CDYNE SMS Notify",
+        "id": 15146,
+        "progweb_descr": " SMS Notify give power send receive customize automated SMS text message locally nationally worldwide web service call Connect app software device use CDYNE ’ developer friendly API Simplify communication track message delivery responses – instant Restricted availability country"
+    }
+]

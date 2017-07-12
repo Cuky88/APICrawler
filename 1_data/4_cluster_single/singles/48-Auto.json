@@ -1,0 +1,290 @@
+[
+    {
+        "progweb_cat": "Auto,API",
+        "api_name": "WindshieldRepair Tech Auto Glass",
+        "id": 589,
+        "progweb_descr": " restful WindshieldRepair Tech Auto Glass API provide developer way access information vehicle year make model body style information Requests API make use HTTP GET API KEY include GET parameter WindshieldRepair Tech auto glass windshield repair company"
+    },
+    {
+        "progweb_cat": "Auto,Registration",
+        "api_name": "Estonian Car Registration",
+        "id": 1443,
+        "progweb_descr": " This API allow developer obtain make model car register Estonia number plate This useful verifying vehicle belong customer description match number plate API return data XML JSON format access via CheckEstonia endpoint"
+    },
+    {
+        "progweb_cat": "Auto,Registration",
+        "api_name": "Hungarian Car Registration",
+        "id": 1466,
+        "progweb_descr": " API allow user check make model engine size age car register Hungary license plate data source directly KEKKH government site It useful developer implement used car websites car insurance websites consumer apps help verify make model use car match number plate API Key authentication require make call CRUD SOAP XML format provide JSON response return"
+    },
+    {
+        "progweb_cat": "Auto,Registration",
+        "api_name": "Car Registration Pakistan",
+        "id": 2562,
+        "progweb_descr": " pkcarregistrationapicom offer API check car information car ownership data Pakistans main province Punjab Khyber Gilgit You provide number plate vehicle state register receive back data make model car car owner"
+    },
+    {
+        "progweb_cat": "Auto,Registration",
+        "api_name": "Spzapi Sri Lanka Car Registration Lookup",
+        "id": 3299,
+        "progweb_descr": " Spzapi Sri Lanka Car Registration Lookup API allow developer access integrate functionality Spzapi main API method include return car detail vehicle register Sri Lanka registration number Data retrievable include Make Model Age Engine code outstanding car loan vehicle class Spzapi offer car registration APIs"
+    },
+    {
+        "progweb_cat": "Auto,Registration",
+        "api_name": "Spzapi Czech Republic Car Check",
+        "id": 3300,
+        "progweb_descr": " Spzapi Sri Lanka Car Registration Lookup API allow developer access integrate functionality Spzapi main API method include return car detail vehicle register Czech Republic registration number Data retrievable include Make Model Age Engine code outstanding car loan vehicle class Spzapi offer car registration APIs"
+    },
+    {
+        "progweb_cat": "Auto,Registration",
+        "api_name": "South African Car Registration Lookup",
+        "id": 3916,
+        "progweb_descr": " South African Car Registration Lookup API aid retrieval registration detail along technical data functionality characteristic vehicle bear South African number plate Instead prod automobile seller vehicle description user use API access crucial information model year manufacture year registration engine size vehicle identification number gross weight displacement 50 descriptive data field API deploy XML JSON format conveyance request response"
+    },
+    {
+        "progweb_cat": "Auto,Registration",
+        "api_name": "UAE Car Registration",
+        "id": 3946,
+        "progweb_descr": " UAE Car Registration API aid realtime retrieval registration detail along technical data functionality characteristic vehicle bear UAE number plate Instead prod automobile seller vehicle description user use SOAPbased API access crucial governmentsourced automobile information include model type year manufacture year registration engine size vehicle identification number gross weight displacement 50 descriptive data field API deploy XML JSON format conveyance request responses Its coverage extend across seven emirate UAE comprise Abu Dhabi Ajman Dubai Fujairah Ras Al Khaimah Sharjah Umm Al Quwain"
+    },
+    {
+        "progweb_cat": "Auto,Auctions",
+        "api_name": "Manheim",
+        "id": 1459,
+        "progweb_descr": " Manheim API return data car dealership aim optimize sale It available JSON object HTTP status code With API developer integrate vehicle remarketing service web application Manheim automobile auction company"
+    },
+    {
+        "progweb_cat": "Auto,European",
+        "api_name": "Russian Car Number Plate Lookup",
+        "id": 1917,
+        "progweb_descr": " This API allow enter number plate Gos Nomer Russian car receive back detail car make model age indicative image car partial VIN number vehicle want Russian Police Gibdd This design use automotive website target Russian market"
+    },
+    {
+        "progweb_cat": "Auto,European",
+        "api_name": "Provjera Registracije - Croatian Car Registration",
+        "id": 3341,
+        "progweb_descr": " Provjera Registracije Croatian Car Registration API provide car registration information send license plate number return information include make model engine size registration year horsepower color VIN number This API SOAP 11 base return information JSON XML format require API Keys authentication"
+    },
+    {
+        "progweb_cat": "Auto,European",
+        "api_name": "ečv Slovakia Car Registration",
+        "id": 3584,
+        "progweb_descr": " ečv Slovakia Car Registration API provide car registration information send license plate number return information include make model engine size registration year horsepower color VIN number This API SOAP 11 base return information JSON XML format require API Keys authentication"
+    },
+    {
+        "progweb_cat": "Auto,European",
+        "api_name": "Car Registrations in Spain",
+        "id": 4500,
+        "progweb_descr": " Car Registrations Spain API allow user look car number plat Spain instance user application would enter car registration plate like 1758 THB would return number plate belongs 2011 Chevy Malibu API use SOAP XML standard format ASMX ideal NET application also suitable PHP More information API available upon contact infoopenmerchantaccountcom"
+    },
+    {
+        "progweb_cat": "Auto,European",
+        "api_name": "Car Registrations in Portugal",
+        "id": 4502,
+        "progweb_descr": " Car Registrations Portugal API allow user look car number plat Portugal instance user application would enter car registration plate like MC 11 22 would return number plate belongs 2011 Ford Fusion API use SOAP XML standard format ASMX ideal NET application also suitable PHP More information API available upon contact infoopenmerchantaccountcom"
+    },
+    {
+        "progweb_cat": "Auto,European",
+        "api_name": "Swedish Car Registration Search",
+        "id": 4504,
+        "progweb_descr": " Swedish Car Registration Search API allow user look car number plat Sweden instance user application would enter car registration plate like PBX 23 would return number plate belongs 2008 Ford Taurus API use SOAP XML standard format ASMX ideal NET application also suitable PHP More information API available upon contact infoopenmerchantaccountcom"
+    },
+    {
+        "progweb_cat": "Auto,European",
+        "api_name": "Norwegian Car Registration Lookup",
+        "id": 4505,
+        "progweb_descr": " Norwegian Car Registration Lookup API allow user look car number plat Norway instance user application would enter car registration plate like YE 82198 would return number plate belongs 2010 VW Jetta API use SOAP XML standard format ASMX ideal NET application also suitable PHP More information API available upon contact infoopenmerchantaccountcom"
+    },
+    {
+        "progweb_cat": "Auto,European",
+        "api_name": "Dutch Car License Plate Lookup",
+        "id": 4506,
+        "progweb_descr": " Dutch Car License Plate Lookup API allow user look car number plat Netherlands instance user application would enter car registration plate like 49RXLP would return number plate belongs 2007 Toyota Camry API use SOAP XML standard format ASMX ideal NET application also suitable PHP More information API available upon contact infoopenmerchantaccountcom"
+    },
+    {
+        "progweb_cat": "Auto,European",
+        "api_name": "Danish Car Registration Number",
+        "id": 4507,
+        "progweb_descr": " Danish Car Registration Number API allow user look car number plat Denmark instance user application would enter car registration plate like AF 45 822 would return number plate belongs 2007 Honda Civic API use SOAP XML standard format ASMX ideal NET application also suitable PHP More information API available upon contact infoopenmerchantaccountcom"
+    },
+    {
+        "progweb_cat": "Auto,European",
+        "api_name": "Finnish Vehicle Registration Searches",
+        "id": 4508,
+        "progweb_descr": " Finnish Vehicle Registration Searches API allow user look car number plate Finland instance user application would enter car registration plate like BZM 184 would return number plate belongs 2009 VW Passat API use SOAP XML standard format ASMX ideal NET application also suitable PHP More information API available upon contact infoopenmerchantaccountcom"
+    },
+    {
+        "progweb_cat": "Auto",
+        "api_name": "Size My Tires",
+        "id": 2083,
+        "progweb_descr": " Size My Tires API allow tire shop search stock tire size specific make model year vehicle API integrate tire shop websites It free charge tire shop place backlink sizemytirescom Documentation publicly available"
+    },
+    {
+        "progweb_cat": "Auto,Data",
+        "api_name": "UK Vehicle Data DVLA Vehicle Database",
+        "id": 2190,
+        "progweb_descr": " UK Vehicle Data DVLA Vehicle Database API offer vehicle information JSON format Developers customize datapackages receive essential technical DVLA data keeper V5C data registration condition color information Registration need access documentation Developers pay per lookup monthly accord requirement UK Vehicle Data SoftwareasaService firm balance incoming traffic 3 UK ISO 27001 accredit tier 1 datacenters"
+    },
+    {
+        "progweb_cat": "Auto,Data",
+        "api_name": "W3C Vehicle Information Access",
+        "id": 3209,
+        "progweb_descr": " W3C Vehicle Information Access API allow developer connect vehicle data access protocol invehicle infotainment system This specification intend promote use APIs enable consistent application development across multiple automotive manufacturer This specification neither dictate describe access protocol transport method use data connection"
+    },
+    {
+        "progweb_cat": "Auto,Data",
+        "api_name": "Cars.com Dealer Metrics",
+        "id": 4592,
+        "progweb_descr": " Carscoms Dealer Metrics API give user access automobile Dealer relate data This data include information vehicle report vehicle inventory dealer report Dealer Metrics API XML JSON format available registered business partner Carscom Access request email APIrequestcarscom"
+    },
+    {
+        "progweb_cat": "Auto,Data",
+        "api_name": "Cars.com Dealer Review Management",
+        "id": 4595,
+        "progweb_descr": " Carscoms Dealer Review Management Service API DRMS portal user access data concern dealer review This HTTP format API enable user send receive review well access review count total number review review particular dealer This service available business partner Carscom Access request email APIrequestcarscom"
+    },
+    {
+        "progweb_cat": "Auto,Data",
+        "api_name": "V10 Data",
+        "id": 6475,
+        "progweb_descr": " V10 Data allow user programmatically aggregate search license access integrate automotive data website application It provide convenient distribution channel people pay data consume Automotive data sell individual entity complete set Data may license different length time include single use cache 24 hour perpetual right specific application V10 Data API allow data vendor data buyer interact V10 Data website"
+    },
+    {
+        "progweb_cat": "Auto,Data",
+        "api_name": "Dash Chassis",
+        "id": 6603,
+        "progweb_descr": " Dash Chassis API connect car platform provide toolbox information developer utilize Developers enhance application give user access fuel consumption expense efficiency data It also offer drive statistic data route information provide real time alert various activity API support"
+    },
+    {
+        "progweb_cat": "Auto,Identity",
+        "api_name": "Uber Driver",
+        "id": 2799,
+        "progweb_descr": " Uber Driver API access identity rating trip detail earnings provide limited online access developer interested create online application OAuth2 available authentication send GET request receive response return Test sandbox httpsdeveloperubercomdocsdriversguidessandbox"
+    },
+    {
+        "progweb_cat": "Auto,Auto",
+        "api_name": "Autodata Motorcycle",
+        "id": 3200,
+        "progweb_descr": " Autodata Publishing Group supplier publisher technical information automotive aftermarket Autodata API allow developer incorporate publish content application By use API developer able access technical content vehicle identification technical specification service instruction repair time much"
+    },
+    {
+        "progweb_cat": "Auto,Auto",
+        "api_name": "Vehicle Registration USA",
+        "id": 3870,
+        "progweb_descr": " This API retrieve basic information car register USA number plate data return include car description body style VIN number engine size country assembly It work 50 US state include commonwealth country Guam Puerto Rico Virgin Islands"
+    },
+    {
+        "progweb_cat": "Auto,Financial",
+        "api_name": "HPI Check",
+        "id": 3447,
+        "progweb_descr": " HPI Check APIcom web service return HPI Hire Purchase inspection data UK car This indicate outstanding Hire purchase agreement second hand car car may collateral loan hold"
+    },
+    {
+        "progweb_cat": "Auto,Marketplace",
+        "api_name": "TireConnect",
+        "id": 3453,
+        "progweb_descr": " Provides API access TireConnect platform It return Tires vehicle order quote TireConnect design provide inventory connection multiple tire wholesaler across Canada USA"
+    },
+    {
+        "progweb_cat": "Auto,Business",
+        "api_name": "New Zealand Car Registration Number Lookup",
+        "id": 3861,
+        "progweb_descr": " New Zealand Car Registration Number Lookup API access information car register New Zealand It use CheckNewZealand endpoint return follow information Make Model Engine Size Fuel Type Body Style VIN number Engine Code Number seat Colour Country assembly Stolen indicator Odometer reading last current Warrant Fitness Import status Available JSON SOAP XML format API Key"
+    },
+    {
+        "progweb_cat": "Auto,Transportation",
+        "api_name": "Verifica Targhe Italiane",
+        "id": 4404,
+        "progweb_descr": " Verifica Targhe Italiane API offer Targa allow user look Italian car number plat instance user application would enter car registration plate like DS800CE would return number plate belongs 2008 Landrover Freelander API use SOAP XML standard format ASMX ideal NET application also suitable PHP API documentation available upon contact Targa"
+    },
+    {
+        "progweb_cat": "Auto,Transportation",
+        "api_name": "UK & Irish Car Registration Lookups",
+        "id": 4503,
+        "progweb_descr": " UK Irish Car Registration Lookups API allow user look car number plat UK instance user application would enter car registration plate like L89 HTJ would return number plate belongs 2007 Ford Fusion API use SOAP XML standard format ASMX ideal NET application also suitable PHP More information API available upon contact infoopenmerchantaccountcom"
+    },
+    {
+        "progweb_cat": "Auto,French",
+        "api_name": "Search French License Plates",
+        "id": 4501,
+        "progweb_descr": " Search French License Plates API allow user look car number plat France instance user application would enter car registration plate like 2590 MA 64 would return number plate belongs 2011 Ford Taurus API use SOAP XML standard format ASMX ideal NET application also suitable PHP More information API available upon contact infoopenmerchantaccountcom"
+    },
+    {
+        "progweb_cat": "Auto,Contacts",
+        "api_name": "Cars.com Lead Capture",
+        "id": 4589,
+        "progweb_descr": " Carscoms Lead Capture API allow user submit lead Carscoms Lead Capture Service Users able submit information lead identifier lead This RESTful API available register business partner Carscom Access request email APIrequestcarscom"
+    },
+    {
+        "progweb_cat": "Auto,Inventory",
+        "api_name": "Cars.com Inventory Search",
+        "id": 4590,
+        "progweb_descr": " Carscom ’ Inventory Search Service ISS allow user search Carscom database inventory listing Users search listing base car year make model zip code list radius listing This RESTful API available register business partner Carscom Access request email APIrequestcarscom"
+    },
+    {
+        "progweb_cat": "Auto,Advertising",
+        "api_name": "Cars.com Delta Listing",
+        "id": 4594,
+        "progweb_descr": " Carscoms Delta Listing API provide user access Carscom database classify ad listing listing detail Listing detail include information vehicle inventory data dealership information usergenerated review content This RESTful API available register business partner Carscom Access request email APIrequestcarscom"
+    },
+    {
+        "progweb_cat": "Auto,Cameras",
+        "api_name": "Caruma",
+        "id": 4611,
+        "progweb_descr": " Caruma REST API allow developer access integrate functionality Caruma Caruma Cam application create new application Public documentation available interested developer sign API access httpscarumacamcomdeveloper Caruma connect camera car connect car automobile cloud application"
+    },
+    {
+        "progweb_cat": "Auto,Database",
+        "api_name": "Vehicleis",
+        "id": 4645,
+        "progweb_descr": " Vehicleis API UK DVLA Vehicle Registration Lookup tool To use API user need Vehicle registration marker VRM From service user receive data basic vehicle information vehicle specification Tax MOT information MOT history"
+    },
+    {
+        "progweb_cat": "Auto,Media",
+        "api_name": "Edmunds Media",
+        "id": 4872,
+        "progweb_descr": " Edmunds Media API offer access photo content dealership inventory Uses API include get photos tag style ID vehicle model year Formats JSON JSONP REST Edmunds automotive research review resource provide expert advice car buyer owner"
+    },
+    {
+        "progweb_cat": "Auto,Cloud",
+        "api_name": "Automile",
+        "id": 5202,
+        "progweb_descr": " Automile REST API allow developer access integrate functionality Automile applications Some example API method include manage company information manage client information retrieve vehicle information retrieve trip information Automile vehicle fleet management platform device connects car analyze driver data"
+    },
+    {
+        "progweb_cat": "Auto,Internet of Things",
+        "api_name": "Vinli",
+        "id": 5261,
+        "progweb_descr": " Vinli REST API allow developer access integrate functionality Vinli application create new application Public documentation available interested developer sign httpsdevelopervinliwelcome Vinli smart device connects automobile car various application well turn car mobile wifi hotspot"
+    },
+    {
+        "progweb_cat": "Auto,Internet of Things",
+        "api_name": "Dash Mobile",
+        "id": 5275,
+        "progweb_descr": " Dash Mobile REST API allow developer access integrate functionality Dash application Some example API method include return information user retrieve trip summary information return route information trip Dash Mobile platform device allow user connect car smartphone"
+    },
+    {
+        "progweb_cat": "Auto,Internet of Things",
+        "api_name": "Unofficial Tesla Model S",
+        "id": 7208,
+        "progweb_descr": " Tesla Model S JSON official Tesla API However base Tesla Model S provide documentation use iOS Android apps This API help developer auto industry go beyond control one car since log user add several vehicle time Tesla Model S unofficial API work like remote control comfort mobile phone To show example site display feature vehicle list vehicle status vehicle command vehicle list section include vehicle add system status show charge battery open door vehicle command charge car flash light honk horn It support JSON REST protocol"
+    },
+    {
+        "progweb_cat": "Auto,Compliance",
+        "api_name": "RegNet Automotive Solutions",
+        "id": 5437,
+        "progweb_descr": " RegNet offer automotive solution aim simplify vehicle regulation process company base Japan focus collection creation data automation database design product localization EnglishJapanese translation API protect HTTPS request JSON XML format response display JSON XML CSV Python Ruby PHP"
+    },
+    {
+        "progweb_cat": "Auto,Content",
+        "api_name": "Edmunds Editorial",
+        "id": 6734,
+        "progweb_descr": " Edmundscom thirdparty automotive website provide users information different make model vehicle interest WIth Editorial API developer integrate Edmunds editorial content application editorial content include article editor review road test Response format XML JSON"
+    },
+    {
+        "progweb_cat": "Auto,Reference",
+        "api_name": "VINquery",
+        "id": 12319,
+        "progweb_descr": " service provide realtime decode automobile vehicle identifier number VINs It accept HTTP request VIN number return detailed specification make model year plus optional equipment imply submit digit API method support submission valid character string represent VIN individual car Returned data break manufacturer model plus year engine transmission instal configuration detail encode VIN"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Drugs,Business",
+        "api_name": "DrugPatentWatch",
+        "id": 2019,
+        "progweb_descr": " DrugPatentWatch operate host platform analytical data pharmaceutical drug accompany patent protect smallmolecule drug 130 country around world DrugPatentWatch API support integration DrugPatentWatch data health business application Its deployment enhance accessibility business intelligence data patent clinical trial patent application Developers must contact API provider access documentation"
+    },
+    {
+        "progweb_cat": "Drugs,England",
+        "api_name": "OpenPrescribing",
+        "id": 2088,
+        "progweb_descr": " OpenPrescribing API delivers spend data drug England API return call relate actual cost spending retrieval BNF code CCG Also OpenPrescribing API offer method drug detail organization code JSON GeoJSON prefer format OpenPrescribing project build EBM Data Lab University Oxford offer search interface onto raw prescribe data file publish NHS Digital"
+    },
+    {
+        "progweb_cat": "Drugs",
+        "api_name": "Metrc",
+        "id": 2837,
+        "progweb_descr": " Metrc Marijuana Enforcement Tracking Reporting Compliance Web API allow developer interact Metrc regulatory compliance system API pull information Metrc point sale system API support pull follow information Facilities Harvests Items Packages Patients Plant Groups Plants Rooms Sales Transactions Strains Units Measure UoM It use RESTful architecture request response format JSON"
+    },
+    {
+        "progweb_cat": "Drugs,Database",
+        "api_name": "Cannabis Reports",
+        "id": 5056,
+        "progweb_descr": " Cannabis Reports API provide developer way access grow list 16000 cannabis strain extract edible product producer seed company dispensaries Cannabis Reports one large cannabis database planet"
+    },
+    {
+        "progweb_cat": "Drugs,Health",
+        "api_name": "MAPI US",
+        "id": 7171,
+        "progweb_descr": " Iterar put medical biochemical technology design background use MAPI US API return information pharmaceutical drug Its database autocomplete drug name list active ingredient list associate dosage"
+    },
+    {
+        "progweb_cat": "Drugs,eCommerce",
+        "api_name": "CornerDrugstore",
+        "id": 12301,
+        "progweb_descr": " service provide information feed supplement websites pharmacy either independent community drugstores regional chain outlet Resources available include page content health news item background information specific health condition information US Food Drug Administration FDA API method support retrieval news item information health condition content match query string submit request Methods also return list content category available use formulating request specific content item"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Authorization,Analytics",
+        "api_name": "Embarcadero Team Server OAuth",
+        "id": 1868,
+        "progweb_descr": " This API perform request callback URL authorization code later exchange Embarcadero access Team Server return JSON code access token refresh token additional data Embarcadero Team Server model metadata collaboration platform provide great mean understand context enterprise data Data professional developer business analyst may gain good comprehension compliance use integrated model metadata collaboration tool Embarcadero® Technologies provide development tool crossplatform application"
+    },
+    {
+        "progweb_cat": "Authorization,API",
+        "api_name": "10Duke Entitlement Service",
+        "id": 4381,
+        "progweb_descr": " 10Duke Entitlement Service API provide easy integrate deploy Entitlement Management Authorization service offer advance entitlement capability simple SaaS basis 10Duke Entitlement Service provide scalable solution execute access policy across device people company group service asset software application You test 10Duke Entitlement Service access demo httpsdeveloper10dukecomentitlementtryItjsp"
+    },
+    {
+        "progweb_cat": "Authorization,Authentication",
+        "api_name": "Trustatom Certificate",
+        "id": 5800,
+        "progweb_descr": " Trustatom Certificate API private Beta require request use This API provide user creation management provable timestamped document possession Authentication require user ID password support bitcoinmetadatafingerprint certificate type Trust atom provide cryptography multi factor authorization Trustatom ID service provide free public service Trustatom specialize solution specific industry"
+    },
+    {
+        "progweb_cat": "Authorization,Accounts",
+        "api_name": "OAuth Authorizations",
+        "id": 6636,
+        "progweb_descr": " OAuth Authorizations API use manage OAuth application It access API via Basic Authentication use username password tokens This API allow user list get create update delete check reset authorization Additionally also allow user revoke one authorization time"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Postal,Mail",
+        "api_name": "New Zealand Post Label Printing",
+        "id": 8271,
+        "progweb_descr": " New Zealand Post provide mail courier delivery service operate postal center throughout New Zealand New Zealand Post offer suite APIs allow developer leverage organization service provide good logistics improved delivery experience Label Printing API allow license developer programmatically generate track code printable label package API support option insurance delivery instruction export specification Upon successful request API generate PDF contain printable label track code initiate callback"
+    },
+    {
+        "progweb_cat": "Postal,Mail",
+        "api_name": "New Zealand Post Tracking Notification",
+        "id": 8278,
+        "progweb_descr": " Tracking Notification API allow developer provide customer track alert package send New Zealand Post Designed use alongside Tracking API service provide updates via email SMS webhook allow developer specify event initiate message create user friendly alias track number customize notification"
+    },
+    {
+        "progweb_cat": "Postal,German",
+        "api_name": "Binect",
+        "id": 10881,
+        "progweb_descr": " Binect service send postal letter individual entire mailing list enable small corporation set output management solution Users submit letter file online service letter print franked put envelope deliver via German mail delivery service Deutsche Post Offering SOAPbased programmatic interface LVin Post user connect software service Letters ship within Germany internationally Germany Currently Binect website provide solely German"
+    },
+    {
+        "progweb_cat": "Postal,Email",
+        "api_name": "PostCoder",
+        "id": 10892,
+        "progweb_descr": " service provide lookup validation UK physical address web application accept user input address It compare data enter user continually updated postcode address file PAF data British Royal Mail service GeoData authoritative source valid physical delivery address This validation improve delivery performance ensure address provide user actually exist correctly format function available either installed product use local data interactive web service API method support query submit character string postcode thoroughfare address enter user validate address indicate return correct version accord Royal Mail recognize authority Where exact match find API return array valid address near enter location allow application perform processing select one"
+    },
+    {
+        "progweb_cat": "Postal,Addresses",
+        "api_name": "CDYNE Postal Address Verification",
+        "id": 15145,
+        "progweb_descr": " PAV business solution reduces mail cost standardize correct validate CASS certify US Canadian address By incorporate CDYNE ’ API database software instantly begin save money deliver mail right first time Using USPS data guideline PAV provide fast response time immediate result"
+    }
+]

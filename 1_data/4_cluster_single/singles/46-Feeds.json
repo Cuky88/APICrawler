@@ -1,0 +1,278 @@
+[
+    {
+        "progweb_cat": "Feeds,News Services",
+        "api_name": "Syndic8",
+        "id": 391,
+        "progweb_descr": " Syndic8 aggregate RSS atom news feed variety topic Syndic8 support fee tag help user find blogs similar already subscribe"
+    },
+    {
+        "progweb_cat": "Feeds,News Services",
+        "api_name": "Feedzilla",
+        "id": 809,
+        "progweb_descr": " Feedzilla news feed distributor provide headline news feed 2000 category websites blog common user Feedzilla aggregate news feed 250000 source process categorizes news feed 2000 category Feedzilla ’ news API offer easy quick access vast database news headline"
+    },
+    {
+        "progweb_cat": "Feeds,News Services",
+        "api_name": "Minimal Reader",
+        "id": 6860,
+        "progweb_descr": " Minimal Reader help user set customized RSS reader API REST facilitation RSS reading service It offer response JSON JSONP Message Pack format As authentication token API require username password In site developer see diverse parameter category subscription entry In addition site offer request tag entry main value API create customize feed reader"
+    },
+    {
+        "progweb_cat": "Feeds,News Services",
+        "api_name": "eCoComa RSS",
+        "id": 12458,
+        "progweb_descr": " eCoComa RSS API allow user create custom RSS Really Short Syndication feed subscribe order receive late updates news regularly update information source Users may use API combine filter multiple RSS feed create entirely new RSS feed API access via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "Feeds,News Services",
+        "api_name": "BetaSignal",
+        "id": 14080,
+        "progweb_descr": " BetaSignal news aggregatormemetracker focus technology science environment space News pull dozen blog every 30 minute API allow feed call use RSS JSON XML"
+    },
+    {
+        "progweb_cat": "Feeds,Real Time",
+        "api_name": "Superfeedr",
+        "id": 438,
+        "progweb_descr": " PubSubHubbub API allow user receive notification SuperFeeder new entry feed subscribe identified Superfeedr allow user parse feed receive feed update system realtime API use RESTful protocol response format XML JSON ATOM"
+    },
+    {
+        "progweb_cat": "Feeds,Real Time",
+        "api_name": "Guzzle Ayup!",
+        "id": 14244,
+        "progweb_descr": " Guzzle Ayup PubSubHubbub Hub Publishers notify Guzzle Ayup hub new content available feed turn Guzzle Ayup hub notify Subscribers feed subscribe get update directly push new entry Users notify Guzzle Ayup new content available feed send POST request Responses format XML"
+    },
+    {
+        "progweb_cat": "Feeds",
+        "api_name": "aideRSS",
+        "id": 503,
+        "progweb_descr": " AideRSS intelligent assistant continuously monitor RSS feed find good stuff create PostRank delivers philosophy behind API provide full functional parity user see within MyFeeds widget Currently retrieve Top Posts Feed Stats Entry Stats give Feed ID In addition retrieve actual RSS Feed PostRank RSS Extension give feed"
+    },
+    {
+        "progweb_cat": "Feeds",
+        "api_name": "Feedbin",
+        "id": 8775,
+        "progweb_descr": " Feedbin simple RSS feed reader It allow user manage feed tag rename Users easily subscribe new feed import export feed Feedbin service Feedbin support use keyboard shortcut give user option view full content article within reader This service access programmatically use REST call"
+    },
+    {
+        "progweb_cat": "Feeds",
+        "api_name": "BazQux Reader",
+        "id": 8779,
+        "progweb_descr": " BazQux Reader fee reader display blog post comment one seamless stream It also allow user subscribe Google Facebook page BazQux Reader provide support view fulltext article display picturerich blog mosaic magazine mode Users share article social networking site email save article use service like Evernote Pinboard BazQux Reader work well variety mobile desktop apps due Google Readercompatible REST API"
+    },
+    {
+        "progweb_cat": "Feeds",
+        "api_name": "Miniflux",
+        "id": 9249,
+        "progweb_descr": " Miniflux RSS fee reader thats optimize simplicity readability It come basic feature support social networking It also eschew ad pixel tracker It however provide support keyboard shortcuts view entire article directly application Users download use Miniflux free subscribe host version cost â‚¬10 Miniflux access programmatically via JSONRPC API"
+    },
+    {
+        "progweb_cat": "Feeds",
+        "api_name": "Reader.is",
+        "id": 9440,
+        "progweb_descr": " Readeris RSS reader design take place Google Reader shut main difference Readeris Google Reader alternative dependent Google API At moment simple support RSS In near future Readeris also support Atom Google Reader import read article track share option Facebook login Developers use Readeris API access feed integrate Readeris application"
+    },
+    {
+        "progweb_cat": "Feeds",
+        "api_name": "AddThis Content Feeds",
+        "id": 9506,
+        "progweb_descr": " AddThis Content Feeds API allow user create RSS JSON feed site top content These feed incorporate page widget make easy site visitor find access top content AddThis Content Feed provide feed three different kind top content trend share clicked"
+    },
+    {
+        "progweb_cat": "Feeds",
+        "api_name": "NewsBlur",
+        "id": 14210,
+        "progweb_descr": " NewsBlur RSS fee reader NewsBlurs API allow user retrieve feed fee count fee icon fee statistic individual feed stories No API key require user require authenticate use API endpoint API use HTTP Post protocol"
+    },
+    {
+        "progweb_cat": "Feeds",
+        "api_name": "Pheedo Ping",
+        "id": 14364,
+        "progweb_descr": " Pheedo content syndication service distribute RSS feed website device Pheedo Ping API allow user Pheedo fee management system request immediate update feed include recently publish information skip 15 minute reset period associate general service API support XMLRPC REST protocol"
+    },
+    {
+        "progweb_cat": "Feeds",
+        "api_name": "Adobe Feeds",
+        "id": 14972,
+        "progweb_descr": " Adobe Feeds API allow developer interact Adobe Feeds extract data aggregator new API give developer access category smart category post data optionally retrievable category smart category feed You also search post match specify search term API use SOAP protocol response XML"
+    },
+    {
+        "progweb_cat": "Feeds",
+        "api_name": "SimplePie Live",
+        "id": 15608,
+        "progweb_descr": " From site SimplePie Live provide AJAXfriendly JavaScript API read display RSS Atom feed SimplePie Live fast easy way get start use AJAX add RSS Atom feed website"
+    },
+    {
+        "progweb_cat": "Feeds,Customer Relationship Management",
+        "api_name": "Finansportalen",
+        "id": 541,
+        "progweb_descr": " Finansportalen site provide Norwegian Consumer Protection Agency provide consumer ability make good choice market financial service portal tool help consumer compare financial industry product Finansportalen API expose data feed financial product Norwegian market An account required view URLs data feed"
+    },
+    {
+        "progweb_cat": "Feeds,Blogging",
+        "api_name": "Bloglines",
+        "id": 547,
+        "progweb_descr": " From site Bloglines FREE online service search subscribe create share news feed blog rich web content With Bloglines software download install Bloglines provide several mechanism access account information Notifier API use quickly gather count unread item Bloglines account Sync API use access subscription list unread blog item Blogroll API use incorporate subscription list site"
+    },
+    {
+        "progweb_cat": "Feeds,Blogging",
+        "api_name": "G2Reader",
+        "id": 7899,
+        "progweb_descr": " G2Reader RSS feed reader accord founder inspire Google Reader It allow user track blogs website RSS feed one place G2Reader API provide access 1user session detail 2 subscription detail 3feed detail user subscribe service access G2Reader content third party application"
+    },
+    {
+        "progweb_cat": "Feeds,Blogging",
+        "api_name": "Feedoor",
+        "id": 15664,
+        "progweb_descr": " From site Feedoor ultimate feed service add many item create merge many feed external source different feed format RSS ATOM RDF one single feed You also customize look feel feed way want"
+    },
+    {
+        "progweb_cat": "Feeds,Aggregation",
+        "api_name": "selfoss",
+        "id": 3800,
+        "progweb_descr": " selfoss function multipurpose RSS reader aggregation web application It offer plugin system diverse database support PHP 53 Apache Webserver require selfoss API use JSON response HTTPS authentication"
+    },
+    {
+        "progweb_cat": "Feeds,Application Development",
+        "api_name": "GitHub Activity Feeds",
+        "id": 5937,
+        "progweb_descr": " GitHub Activity Feeds API allow developer integrate GitHub feed database application enable access list feed This API use HTTP basic authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Feeds,Content",
+        "api_name": "Press Association SNAP.PA",
+        "id": 6063,
+        "progweb_descr": " Press Association UK base provider platform press content distribution offer editorial photo cross word puzzle real time data event listing PR service Press Association API allow access content feed group subject order programmatically integrate article asset general content 3rd party application RESTful API return endpoint request information format JSON Atom RSS response"
+    },
+    {
+        "progweb_cat": "Feeds,Content",
+        "api_name": "Crosspollinate Content Marketing",
+        "id": 9363,
+        "progweb_descr": " Crosspollinate build technology product design support people interconnect interdependent world Crosspollinate Content Marketing API provide ability client programmatically access trend content multiple web source keywordsubject API support multiple keyword combination delivers content RSSATOM format"
+    },
+    {
+        "progweb_cat": "Feeds,Content",
+        "api_name": "cQuery",
+        "id": 15536,
+        "progweb_descr": " cQuuery online Content Query Engine use CSS Selectors extract content live web page It provide API access part webpages use CSS selector API use RESTful call return response JSON XML raw format An API key require"
+    },
+    {
+        "progweb_cat": "Feeds,Analytics",
+        "api_name": "FeedPress",
+        "id": 7146,
+        "progweb_descr": " FeedPress service provide user host analytics feed It come customizable hostnames advance track service customizable newsletter FeedPress API allow user remotely access many FeedPress function create feed get subscriber count track feed"
+    },
+    {
+        "progweb_cat": "Feeds,Open Data",
+        "api_name": "Treasury.io",
+        "id": 7669,
+        "progweb_descr": " Treasuryio u United States Treasury information provider make data reported treasury daily basis readily available Treasuryio API provide user access treasury Operating Cash Balance Deposits Withdrawals Public Debt Transactions Adjustment Public Dept Transactions Cash Basis Debt Subject Limit Federal Tax Deposits Shortterm Cash Investment Income Tax Refunds Issued API use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Feeds,Podcasts",
+        "api_name": "Bitlove",
+        "id": 8188,
+        "progweb_descr": " Bitlove service create seed torrent enclosures RSS Atom fee especially podcast feed Bitlove API allow developer use URL original podcast file obtain torrent source information It also allow developer find URLs public feed enclosures map torrent"
+    },
+    {
+        "progweb_cat": "Feeds,eBooks",
+        "api_name": "SamEnrico eBook",
+        "id": 8455,
+        "progweb_descr": " SamEnrico sell digital publication subscription It also provide OPDS API allow user browse search download eBooks magazine paper free ereader choice It also allow user display publication website OPDS Open Publication Distribution System open standard create catalog aggregate distribute discover epublications user source digital format device"
+    },
+    {
+        "progweb_cat": "Feeds,Mobile",
+        "api_name": "MnmlRdr",
+        "id": 8609,
+        "progweb_descr": " MnmlRdr fee read service design minimize clutter increase readability It accessible kind device feature modern web browser installation require One added feature user bookmark favorite story mark unread story later read Users interact MnmlRdr programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Feeds,Social",
+        "api_name": "The Old Reader",
+        "id": 8765,
+        "progweb_descr": " Old Reader fee read service allow user view content share note comment friend get content Currently user search friend manually see Facebook Google contact use Old Reader Users import feed service share item Facebook timeline Old Reader never make unwanted post user behalf Old Reader doesnt official app provide REST API allow people write apps include reader"
+    },
+    {
+        "progweb_cat": "Feeds,Social",
+        "api_name": "Acrostic.me Trending",
+        "id": 11552,
+        "progweb_descr": " Acrosticme Biblerelated search engine specialize find acrostic word acrostic poem create save print freely well purchase display 350 product Acrosticme currently support search various Bible translation plan add content famous speech famous wellknown document Hosted mashape Acrosticme Trending API provide realtime feed service top20 popular page Acrosticme Return format currently support include RSS JSON JSONP"
+    },
+    {
+        "progweb_cat": "Feeds,Social",
+        "api_name": "CashOrTrade",
+        "id": 11983,
+        "progweb_descr": " CashOrTrade platform user sell trade put request concert ticket service also include forum organize ridesharing housing concert city post lose found item CashOrTrade API enable user integrate post request feed 3rd party website mobile application well post ticket listing"
+    },
+    {
+        "progweb_cat": "Feeds,Tools",
+        "api_name": "bipio",
+        "id": 9680,
+        "progweb_descr": " Bipio give user mean create cheap dynamic endpoint either public private pipelining APIs It use Bips fast lightweight endpoint definition user personal domain receive process content feed With Bipio user rapidly prototype application workflow automate common task simply receive distribute message want Bipio API operate via REST call issue JSON JSONP"
+    },
+    {
+        "progweb_cat": "Feeds,Energy",
+        "api_name": "IHS Energy Editorial",
+        "id": 10798,
+        "progweb_descr": " service provide daily update information market petroleum energy source It deliver news analysis provider industry expert cover activity oil gas well electrical power generation renewable energy water supply provider expertise cover exploration production fossil fuels government energy policy legislation environmental effect risk assessment API method support query service content match specify keywords andor new available news analytical reporting API provide mapping capability integrate data service external geographic information service GIS"
+    },
+    {
+        "progweb_cat": "Feeds,Search",
+        "api_name": "Tapir",
+        "id": 11116,
+        "progweb_descr": " Tapir allows make personal blog static page searchable selection APIs Tapir provide simple search functionality site index RSS feed every 15 minute Tapir index establish feed Using Tapirs three APIs Search Ping Post manage blog searchable content push content APIs include feed Information return either JSON JSONP format utilizing different callback method Tapir also provide JQuery plugin Tapir sponsered 80beans"
+    },
+    {
+        "progweb_cat": "Feeds,Search",
+        "api_name": "Q-Sensei FeedBooster",
+        "id": 13510,
+        "progweb_descr": " QSenseis offer multidimensional search index technology help business find discover new way leverage increase volume structure unstructured data store within QSenseis solution provide faceted federated search present result dynamic organized index sort along multiple dimension date tag source author language attribute QSensei FeedBooster API let user embed service web site application provide user organize search experience webfeeds RSS data API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Feeds,Validation",
+        "api_name": "W3C Feed Validator",
+        "id": 11477,
+        "progweb_descr": " World Wide Web Consortium W3C international community work develop Web standard Feed Validation service use check syntax Atom RSS feed API expose functionality service use developers creation third party application It use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Feeds,Jobs",
+        "api_name": "Interserve Job Openings",
+        "id": 11481,
+        "progweb_descr": " Interserve Christian community partnership global church strives make Jesus Christ know wholistic ministry amongst people Asia Arab World API provide access data feed updated twice daily late job opening Asia Arab world story people serve useful support information Data format available include RSS HTML5 JSONJSONP CSV"
+    },
+    {
+        "progweb_cat": "Feeds,Financial",
+        "api_name": "Nigerian Stock Exchange",
+        "id": 12189,
+        "progweb_descr": " Nigerian Stock Exchange API easy accurate way implement NIgerian stock data web page API allow number feed Top Ten Trades Top Ten Losers Top Ten Gainers No Change well option site also offer Newsfeed Marquee Widget"
+    },
+    {
+        "progweb_cat": "Feeds,Text",
+        "api_name": "FeedsAPI",
+        "id": 12751,
+        "progweb_descr": " FeedsAPI service allow developer turn shorten RSS feed full text RSS feed turn XML feed JSON output separate nonrelevant information relevant news content It also provide ability turn static page RSS feed"
+    },
+    {
+        "progweb_cat": "Feeds,Widgets",
+        "api_name": "Jawfish",
+        "id": 13057,
+        "progweb_descr": " Jawfish allow user display RSS Atom feed website via JavaScript Users input URL desire feed webbased control panel customize appearance desire widget A short piece HTML code produce allows user embed custom widget webpage Because Jawfish require serverside script work website This service require monthly subscription price determine number feed desire"
+    },
+    {
+        "progweb_cat": "Feeds,Dashboards",
+        "api_name": "Junar.com",
+        "id": 13657,
+        "progweb_descr": " Junarcom communitybased website find publish share data Dashboards also create centralized location view data change across multiple source Junar API RESTful API allow direct access Junarcom data easy integration Junar data developer application website"
+    },
+    {
+        "progweb_cat": "Feeds,TV",
+        "api_name": "Schedules Direct",
+        "id": 14132,
+        "progweb_descr": " Schedules Direct nonprofit organization aim increase awareness use Open Source software especially alternative commercial medium application They also provide support function software Schedules Direct provide member access data fee TV Listings Their API use SOAP protocol return result XML"
+    },
+    {
+        "progweb_cat": "Feeds,Russian",
+        "api_name": "Yandex Podpiski",
+        "id": 14568,
+        "progweb_descr": " Yandex large search engine Russia develop number Internetbased service product Yandex offer owner website blog tool apply functional service Yandex project site documentation Russian API subscription service allow user create application read work RSSfeeds API allow user manage feed resource list station data fast subscribe stream directory etc API use RESTful protocol response format XML"
+    }
+]

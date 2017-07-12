@@ -1,0 +1,98 @@
+[
+    {
+        "progweb_cat": "PDF,Application Development",
+        "api_name": "PDFfiller",
+        "id": 1616,
+        "progweb_descr": " PDFfiller API allow user build application interact PDFfiller HTTP REST method Integrate SendToSign API app software platform optimize signature collection document management workflow Send manage track sign document automatically organize signature request sign document PDFfiller provide paperless document management find edit save print eFax eSign share complete document conveniently device"
+    },
+    {
+        "progweb_cat": "PDF,Applications",
+        "api_name": "PDFReactor",
+        "id": 1701,
+        "progweb_descr": " PDFReactor REST API integrate conversion HTML PDF web application It available REST architecture XML JSON format Operations include convert progress document version status"
+    },
+    {
+        "progweb_cat": "PDF,Applications",
+        "api_name": "PDFReactor SOAP",
+        "id": 2465,
+        "progweb_descr": " PDFReactor SOAP API available remote procedure call involve XML protocol perform callback allow convert HTML PDF Operations include asynchronous conversion progress document version status"
+    },
+    {
+        "progweb_cat": "PDF,Conversions",
+        "api_name": "iLovePDF",
+        "id": 1738,
+        "progweb_descr": " iLovePDF API offer wealth PDF tool developer iLovePDF allow user save time money solve PDF problem one place use top tool With API user full access tool infrastructure build scale Whether youre start project business look optimize PDFs iLovePDF API way help"
+    },
+    {
+        "progweb_cat": "PDF,Conversions",
+        "api_name": "Noxum PDFaaS",
+        "id": 4499,
+        "progweb_descr": " Noxum PDFaaS API allow developer generate PDF document HTML XSLFO programmatically Users provide URL HTML page upload HTML professional purpose user call API submit XSLFO file Noxum company develop software solution content management technical communication ebusiness etc"
+    },
+    {
+        "progweb_cat": "PDF,Conversions",
+        "api_name": "Select.Pdf Online",
+        "id": 5850,
+        "progweb_descr": " SelectPdf Online REST API allow developer access integrate functionality SelectPdf Online application API let user create PDF web page raw HTML code application SelectPdf Online platform convert web page PDFs convert HTML code PDFs"
+    },
+    {
+        "progweb_cat": "PDF,Conversions",
+        "api_name": "Datalogics PDF WebAPI",
+        "id": 6180,
+        "progweb_descr": " Datalogics PDF WebAPI powerful secure web service API expose broad set PDF functionality web mobile application developer Cloudbased build upon proven Adobe technology use RESTful architecture Datalogics PDF WebAPI enable software engineer develop connect application"
+    },
+    {
+        "progweb_cat": "PDF,Colors",
+        "api_name": "PrintCalc",
+        "id": 1794,
+        "progweb_descr": " PrintCalc API return percentage pdf eps ps file CMYK Spot Color coverage API support PDF EPS PS file HTTP POST prefer request method PrintCalc API respond XML JSON Developers need request API Key"
+    },
+    {
+        "progweb_cat": "PDF,Accounting",
+        "api_name": "easyPDF",
+        "id": 3857,
+        "progweb_descr": " easyPDF API available Mashape allow developer integrate data create PDFs csv json file csv json string It aim useful accounting invoicing service Access API Key"
+    },
+    {
+        "progweb_cat": "PDF,Documents",
+        "api_name": "PDFTron",
+        "id": 4456,
+        "progweb_descr": " PDFTron API allow integrate PDF feature web service An overview API usage explain upload PDFTron document URL S3 copy share via session embed HTML page Formats HTTP access Api Key Additional API information httpswwwpdftroncompwscloudoverviewhtml PDFTron specialize developer tool postscript PDF solution"
+    },
+    {
+        "progweb_cat": "PDF,Business",
+        "api_name": "Attic PDF Converter",
+        "id": 5315,
+        "progweb_descr": " Attic PDF Converter API let user extract text data PDF document It use create HTML document high fidelity look PDF document Alternatively use create document capture main part document section paragraph table list footnote It also support extraction Word 2007 Excel 2007 JSON plain text"
+    },
+    {
+        "progweb_cat": "PDF,Cloud",
+        "api_name": "Aspose.Pdf",
+        "id": 6172,
+        "progweb_descr": " AsposePdf API program interface offer Apose let developer integrate service application enable customer create edit Pdf document directly application API REST base use platform support REST Apose software company specialize file management cloud"
+    },
+    {
+        "progweb_cat": "PDF,Cloud",
+        "api_name": "Box View",
+        "id": 7623,
+        "progweb_descr": " Box cloud base storage company enable user access share content anywhere Box platform provide user storage utilize application Box View API enable PDF Office document embed mobile web application convert HTML"
+    },
+    {
+        "progweb_cat": "PDF",
+        "api_name": "Template2pdf",
+        "id": 7679,
+        "progweb_descr": " Template2pdf API enable developer programmatically generate PDFs templates nontechnical people define modify service intend allow developer client easily change layout invoice offer report within developer application website"
+    },
+    {
+        "progweb_cat": "PDF",
+        "api_name": "Doculicious",
+        "id": 15378,
+        "progweb_descr": " Doculiciouscom web service create online web form output PDF file Doculicious API provide user tool query entry save form also submit entry program web form Using API user easily fill PDF file web form API feature interaction Templates Data programming language application access internet include PHP C Ruby"
+    },
+    {
+        "progweb_cat": "PDF,Text",
+        "api_name": "PDF2Data",
+        "id": 9830,
+        "progweb_descr": " service provide analysis data extraction number popular application file type include PDF Microsoft Office application Word Excel PowerPoint It also extract text data scan document API method support upload source document file one recognize format along specification data export In addition PDF MS Office format method process OpenOffice WordPerfect document text file rtf file number common image file format Requests also specify source document language MIME type desire output template technical parameter Methods generate output desire output html web display"
+    }
+]

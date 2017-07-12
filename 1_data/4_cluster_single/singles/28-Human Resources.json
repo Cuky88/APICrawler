@@ -1,0 +1,170 @@
+[
+    {
+        "progweb_cat": "Human Resources,Jobs",
+        "api_name": "SuccessFactors SAP Jam",
+        "id": 1456,
+        "progweb_descr": " SuccessFactors SAP Jam API blueprint integrate application enterprise system More information available qualified customer developer successfactorsensapcom"
+    },
+    {
+        "progweb_cat": "Human Resources,Jobs",
+        "api_name": "Swoop Talent",
+        "id": 4621,
+        "progweb_descr": " Swoop Talent REST API allow developer access integrate functionality Swoop Talent applications Some example API method include access applicant information retrieve application employee information variety criterion manage applicant Swoop Talent online management system recruitment job application job applicant candidate"
+    },
+    {
+        "progweb_cat": "Human Resources,Jobs",
+        "api_name": "Breezy HR",
+        "id": 5204,
+        "progweb_descr": " Breezy HR REST API allow developer access integrate functionality Breezy HR applications Some example API method include manage user information retrieve company company information retrieve available position manage position posting Breezy HR recruit HR platform design small team"
+    },
+    {
+        "progweb_cat": "Human Resources,Jobs",
+        "api_name": "Jazz",
+        "id": 5331,
+        "progweb_descr": " Jazz REST API allow developer access integrate functionality Jazz formerly Resumator application Some example API method include retrieve application detail retrieve detail applicant manage file contact Jazz recruit platform base applicant performance"
+    },
+    {
+        "progweb_cat": "Human Resources,Jobs",
+        "api_name": "Workable",
+        "id": 7869,
+        "progweb_descr": " Workable recruit job post application Workable offer various feature company post job recruit candidate job opening Workable API allow developer access integrate functionality Workable application create new application Public documentation available"
+    },
+    {
+        "progweb_cat": "Human Resources,Automation",
+        "api_name": "Recruitee Public",
+        "id": 1851,
+        "progweb_descr": " Recruitee Public API provide way show company job add new candidate job It allow access answer job question include name email phone API require authorization need company subdomain Recruitee team techloving entrepreneur provide modern applicant track system simple collaborative hiring platform"
+    },
+    {
+        "progweb_cat": "Human Resources,Automation",
+        "api_name": "Recruitee Private",
+        "id": 1852,
+        "progweb_descr": " Recruitee Private API provide way show company ’ job add new candidate job It allow access answer job ’ question include name email phone API require authorization request must valid authtoken Recruitee team techloving entrepreneur provide modern applicant track system simple collaborative hiring platform"
+    },
+    {
+        "progweb_cat": "Human Resources,Automation",
+        "api_name": "Recruitee Careers Site",
+        "id": 1853,
+        "progweb_descr": " Recruitee Careers Site API provide way show company ’ job add new candidate job It allow access answer job ’ question include name email phone Recruitee team techloving entrepreneur provide modern applicant track system simple collaborative hiring platform"
+    },
+    {
+        "progweb_cat": "Human Resources,Automation",
+        "api_name": "PeopleHR",
+        "id": 3632,
+        "progweb_descr": " PeopleHR API automate hire process enable integration RESTful interface It provide sandbox experimentation API Key authentication"
+    },
+    {
+        "progweb_cat": "Human Resources,Background",
+        "api_name": "Verified First",
+        "id": 1915,
+        "progweb_descr": " official Verified First API allow initiate order view result background check drug screen verification XML gateway API provide access via Internet XML message variety background screen data product API consist XML schema format screen data product request gateway format request submit formatted response retrieve As security measure request response transmit HTTPS use 128bit encryption client send via HTTP post XML request screen product gateway product name configuration available search credit criminal driving record reference request contains authentication credential information indicate product search request necessary applicant data process request gateway validate request correctness completeness Errors report XML response “ Error ” status order ID If error gateway return XML response nonerror status order ID URL view report gateway proactively notify client via XML status change background screen report client query gateway status information Verified First background drug screen company North America Their instant customizable industry search solution help thousand company validate verify potential employee"
+    },
+    {
+        "progweb_cat": "Human Resources,Background",
+        "api_name": "OnBoardIQ",
+        "id": 5133,
+        "progweb_descr": " OnBoardIQ REST API allow developer access integrate functionality OnBoardIQ applications Some example API method include add applicant retrieve applicant account retrieve applicant information OnBoardIQ human resource solution offering company feature hire manage applicant job"
+    },
+    {
+        "progweb_cat": "Human Resources,Background",
+        "api_name": "Onfido Background Checks",
+        "id": 5803,
+        "progweb_descr": " Onfido Background Checks API application submit background check request This RESTful API use standard HTTP verb response JSON Calls API make HTTPS HTTP Basic Auth use authentication Onfido offer check identity document verification right work criminal history terrorist watchlist search"
+    },
+    {
+        "progweb_cat": "Human Resources,Background",
+        "api_name": "Accurate Background",
+        "id": 6014,
+        "progweb_descr": " Accurate Background API allow developer integrate FCRAcompliant background screen web mobile application It screen thousand individual provide automated access court databases drive record identity check etc API provide Accurate Background company provide employee screen human resource support service"
+    },
+    {
+        "progweb_cat": "Human Resources,Business",
+        "api_name": "TriNet",
+        "id": 2843,
+        "progweb_descr": " TriNet APIs provide RESTful service programmatically access update HR data TriNet Platform Developers use API seamlessly integrate TriNet application use OAuth2 authentication method JSON format available perform callback HTTP request"
+    },
+    {
+        "progweb_cat": "Human Resources,Business",
+        "api_name": "ApplicantStack",
+        "id": 4087,
+        "progweb_descr": " ApplicantStack offer track onboarding system online job application help recruit hire new employee This system feature document management job template library candidate profile status track ApplicantStack offer 3 paid plan different limit recruit onboarding API offer ApplicantStack integrated Human Resource Information Systems payroll system This API REST base use JSON data exchange API Keys Tokens authentication"
+    },
+    {
+        "progweb_cat": "Human Resources,Business",
+        "api_name": "Zoho People",
+        "id": 4368,
+        "progweb_descr": " Zoho People API Human Resource Information System HRIS Through Zoho People management track employee attendance behavior hour send receive variety form request time This API SaaS mean independent programming language allow developer integrate modulate Zoho People fit organizational need Access grate valid user name password"
+    },
+    {
+        "progweb_cat": "Human Resources,Business",
+        "api_name": "TriSys Web",
+        "id": 5148,
+        "progweb_descr": " TriSys Web API platformagnostic service allow developer integrate recruitment function custom application This API design use system job board human resource backends applicant track system etc TriSys company provide industrial cloud compute recruitment industry use thousand faulttolerant scalable server locate data center around world"
+    },
+    {
+        "progweb_cat": "Human Resources,Business",
+        "api_name": "PCRecruiter",
+        "id": 6895,
+        "progweb_descr": " PCRecruiter act software staff solution human resource department HTTP call RESTful API component allow developer create edit employee record receive data JSON format response"
+    },
+    {
+        "progweb_cat": "Human Resources,Cloud",
+        "api_name": "Cloud Elements Help Desk",
+        "id": 3488,
+        "progweb_descr": " Cloud Elements Help Desk API provide developer integrated access lead cloud help desk service include JIRA Zendesk Freshdesk Freshservice ConnectWise Autotask Oracle Service Cloud ServiceNow Salesforce Service Cloud Deskcom Help Scout Cherwell Wrike BMC Remedy OnDemand This allow user manage incident user etc across multiple service use uniform API call"
+    },
+    {
+        "progweb_cat": "Human Resources,Cloud",
+        "api_name": "Cloud Elements Human Capital Hub",
+        "id": 3498,
+        "progweb_descr": " Cloud Elements Human Capital Hub API provide integrated access cloudbased human capital management HCM service include NetSuite Oracle Taleo HireRight SAP Workday PeopleSoft SuccessFactors PeopleMatter This allow developer use uniform API call manage employee requisition custom object across multiple HCM service"
+    },
+    {
+        "progweb_cat": "Human Resources,Advertising",
+        "api_name": "SmartRecruiters Marketplace",
+        "id": 3819,
+        "progweb_descr": " SmartRecruiters Marketplace API allow developer incorporate apps SmartRecruiters staff platform API provider SmartRecruiters Inc offer customer suite proprietary personnel recruitment solution Developers use RESTful API select either three builder platform – Offer Assessment Job Board APIs – vary HR recruitment management functionality depend type correspond marketplace service SmartRecruiters Marketplace API already welldocumented full release version require token authorization access Its response request format JSON"
+    },
+    {
+        "progweb_cat": "Human Resources,Applications",
+        "api_name": "Recruiterbox Openings",
+        "id": 3971,
+        "progweb_descr": " Recruiterbox specialize platform use manage hire applicant process This platform offer resume management applicant track career site management recruitment automation collaborative recruiting 3 pay plan available free trial 14 day Openings API use interact public data Recruiterbox This API use JSON data exchange require API Keys authentication"
+    },
+    {
+        "progweb_cat": "Human Resources,Applications",
+        "api_name": "Recruiterbox Backend",
+        "id": 4092,
+        "progweb_descr": " Recruiterbox specialize platform use manage hire applicant process This platform offer resume management applicant track career site management recruitment automation collaborative recruiting 3 pay plan available free trial 14 day Backend API use server server communication This API use JSON data exchange require API Keys authentication HTTP Basic Auth request"
+    },
+    {
+        "progweb_cat": "Human Resources",
+        "api_name": "Namely",
+        "id": 5137,
+        "progweb_descr": " Namely REST API allow developer access integrate functionality Namely applications Public documentation available API access come account service Namely online human resource management system allow company manage payroll benefit HR function one system"
+    },
+    {
+        "progweb_cat": "Human Resources,B2B",
+        "api_name": "Checkr Background Checks",
+        "id": 6714,
+        "progweb_descr": " Checkr simple API run background check contractor employee It use request candidate information provide report regard SSN trace sex offenses national criminal offense county criminal offense motor vehicle offenses Checkr use purpose fast accurate preemployment background screening"
+    },
+    {
+        "progweb_cat": "Human Resources,Accounting",
+        "api_name": "AllPay",
+        "id": 7184,
+        "progweb_descr": " AllPay API mirror functionality provide AllPay user interface All data available CRUD operation Lists data poll use fluent SQLlike syntax update batched transaction Reports export run poll downloaded via HTTP stream Employee document available update download via stream API also allow creation SingleSignOn tokens employee self service new employee onboarding portal API also support payroll operation create check date add check employee submit payroll processing"
+    },
+    {
+        "progweb_cat": "Human Resources,Accounting",
+        "api_name": "Xero Payroll",
+        "id": 9512,
+        "progweb_descr": " Xero online accounting system design small business advisor Xero Payroll API expose application payroll relate function RESTful API use variety purpose include sync employee detail import timesheets API support GETPOST call authenticate OAuth 10 Current release available use Autralian US base organization"
+    },
+    {
+        "progweb_cat": "Human Resources,Time",
+        "api_name": "TimeStation",
+        "id": 8284,
+        "progweb_descr": " TimeStation cloudbased time attendance system run iPhone iPad iPod Touch TimeStation API allow customer application retrieve variety attendance employee report REST API return CSV XLS format data"
+    }
+]

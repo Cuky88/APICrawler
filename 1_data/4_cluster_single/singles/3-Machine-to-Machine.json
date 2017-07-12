@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Machine-to-Machine,Cloud",
+        "api_name": "DeviceHive",
+        "id": 6552,
+        "progweb_descr": " DeviceHive framework machinetomachine communication use bring connected device Internet Things DeviceHive provide control software platform specific client library jumpstart development home automation remote sensor RESTful DeviceHive API act protocol real time information exchange across connect device Consumers DeviceHive API within DeviceHive ecosystem include device client administrator device send receive notification via API client use control monitor device may use API order view device status process device notification send command device administrator parameter full API access charge create manage user device monitor command notification DeviceHive open source project find fully document GitHub"
+    },
+    {
+        "progweb_cat": "Machine-to-Machine,Internet of Things",
+        "api_name": "CoSwitched",
+        "id": 7285,
+        "progweb_descr": " CoSwitched sell M2M SIM card well SIM card partner operator CoSwitched SIM card connect multiple network roam charge perform data traffic analyse come report monitoring feature CoSwitched API allow user activate deactivate SIM card locate SIM card retrieve list SIM card device retrieve SIM card information get Call Detail Records list specific SIM card"
+    },
+    {
+        "progweb_cat": "Machine-to-Machine,Mobile",
+        "api_name": "Loupse",
+        "id": 7569,
+        "progweb_descr": " Loupse application allow user remotely control computer even user targeted computer separate country With Loupse user shutdown restart lock screen computer remotely app still development API documentation already available Users expect able access Loupses function website mobile application REST API"
+    }
+]

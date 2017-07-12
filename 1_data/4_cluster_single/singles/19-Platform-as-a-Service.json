@@ -1,0 +1,116 @@
+[
+    {
+        "progweb_cat": "Platform-as-a-Service,Monitoring",
+        "api_name": "Amazon CloudWatch",
+        "id": 432,
+        "progweb_descr": " Amazon CloudWatch web service provide visibility cloud asset Amazon CloudWatch provide data need make informed decision It design provide comprehensive monitoring follow AWS service Amazon Elastic Compute Cloud Amazon EC2 include instance pay AMIs Elastic Load Balancing"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Applications",
+        "api_name": "QuickBase",
+        "id": 1140,
+        "progweb_descr": " QuickBase lowcode platform unify IT Business quickly easily build iterate maintain highly scalable business productivity application rightsized governance control QuickBase HTTP API enable developer extend platform functionality create robust integration external solution"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Applications",
+        "api_name": "QBOS",
+        "id": 1406,
+        "progweb_descr": " QBOS REST API developer want integrate QBOS application administrator want script interaction QBOS server QBOS provide inclusive development platform PaaS rapid creation webbased Software Service SaaS BPaaS application Developers access leverage QBOSs secure platform infrastructure generate test extend application total solution enable effective business operation time budget"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Applications",
+        "api_name": "ViaFo",
+        "id": 12986,
+        "progweb_descr": " ViaFo provide range solution mobile developer allow add service Twitter Facebook apps Viafoâ€™s Services Gateway take popular action share upload check local search tag unifies across major service consumer service let aggregate RSS news social networking feed onto mobile device enterprise ViaFo solution allow mobile access service dedicate client API give developer access functionality ViaFo Services Gateway It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Cloud",
+        "api_name": "Amend Cloud",
+        "id": 1411,
+        "progweb_descr": " Amend provide user URL base API download transform image resource API allow transform uploaded image create 150x150px thumbnail use face detection base crop round image corner rotate image 20 degree deliver result image CDN Amend Cloud PaaS solution help manage application ’ image resource cloud without worry scale performance"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Cloud",
+        "api_name": "Pixfizz",
+        "id": 6664,
+        "progweb_descr": " Pixfizz API allow developer integrate wide range option payment gateway ecommerce social medium workflow marketing automation mobile apps Developers either integrate application directly use one Pixfizzs plugins build plugin"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Business",
+        "api_name": "Piano",
+        "id": 2638,
+        "progweb_descr": " Piano API integrate monetization digital content application It available REST architecture SDKs webhooks Drupal CMS Developers send HTTP request receive JSON response return Piano create tool medium audience intelligence monetization content"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Business",
+        "api_name": "Cycle",
+        "id": 3383,
+        "progweb_descr": " Cycle API integrate platform service feature business manage container software transport It available SSL certificate provide JSON architecture OAuth2 authentication method Cycleio IT container deployment tool"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Content Management",
+        "api_name": "Nuxeo Platform",
+        "id": 2647,
+        "progweb_descr": " Nuxeo API integrate platform service feature provide document management DAM case management Available REST architecture JSON format Nuxeo open source ECM DAM platform"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Bots",
+        "api_name": "Cloudways",
+        "id": 3197,
+        "progweb_descr": " Cloudways offer integration Thunderstack power platform Cloudways automate cloud server management This platform support multiple cloud infrastructure multiple datacenters SSD base host CloudwaysBot assistant Cloudways API require API Keys authentication exchange information JSON format This API currently Beta phase"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,API",
+        "api_name": "Corezoid",
+        "id": 4013,
+        "progweb_descr": " Corezoid API integrate platform service functionality access management dashboard data download Corezoid process engine help company create digital core move cloud Available JSON REST format"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Booking",
+        "api_name": "Dispatch Platform",
+        "id": 4649,
+        "progweb_descr": " Dispatch Platform API allow integrate customer service feature application aim improve business practice platformasaservice base Service Oriented Architecture permit communicate via protocol independently additional technology API allow user deliver ondemand service customer Developers access key send request receive response JSON"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Bitcoin",
+        "api_name": "BlockCypher Metadata",
+        "id": 4857,
+        "progweb_descr": " BlockCypher Metadata API allow developer storage private public address API available token obtain create account Protocols HTTP JSON REST BlockCypher block chain platform power cryptocurrency application Currently BlockCypher support Bitcoin Bitcoin Testnet3 Litecoin Dogecoin BlockCyphers Test Chain"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Bitcoin",
+        "api_name": "BlockCypher Address",
+        "id": 4858,
+        "progweb_descr": " BlockCypher Address API permit developer find address generate single address collect multiple address blockchain Protocols available HTTP JSON REST Api accessible token BlockCypher block chain platform power cryptocurrency application Currently BlockCypher support Bitcoin Bitcoin Testnet3 Litecoin Dogecoin BlockCyphers Test Chain"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Bitcoin",
+        "api_name": "BlockCypher Asset",
+        "id": 4859,
+        "progweb_descr": " BlockCypher Asset API allow embed asset across blockchains Protocols JSON REST HTTP Endpoints available generate asset address issue asset transfer asset list asset BlockCypher block chain platform power cryptocurrency application Currently BlockCypher support Bitcoin Bitcoin Testnet3 Litecoin Dogecoin BlockCyphers Test Chain"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Bitcoin",
+        "api_name": "BlockCypher Wallet",
+        "id": 4860,
+        "progweb_descr": " BlockCypher Wallet API allow developer organize public address Formats HTTP JSON REST API available token Resources present work hierarchy use wallet create endpoint BlockCypher block chain platform power cryptocurrency application Currently BlockCypher support Bitcoin Bitcoin Testnet3 Litecoin Dogecoin BlockCyphers Test Chain"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Agile",
+        "api_name": "Opsmatic",
+        "id": 4975,
+        "progweb_descr": " Opsmatic API provide configuration via REST protocol API basic include call HTTPS access data send receive JSON authentication token Implementing Opsmatic could beneficial user interested monitor operation developer team DevOps According site service aim improve performance promote collaboration increase success"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service,Application Development",
+        "api_name": "PlugChain",
+        "id": 7062,
+        "progweb_descr": " PlugChain cryptocurrency multiplatform developer may use create new cryptocurrency application Their API blockchain platform service supply raw set method build new BitCoin theme apps PlugChain power CEXIO BitCoin trade mining platform PlugChain API accept specific block hash address transaction return detailed information occurrence To use LiteCoin GET instead BitCoin point call toward LiteCoin instead BitCoin API"
+    },
+    {
+        "progweb_cat": "Platform-as-a-Service",
+        "api_name": "CloudHub",
+        "id": 11896,
+        "progweb_descr": " CloudHub application development management platform It use create application change application property deploy new version application delete application entirely CloudHub also allow user retrieve statistic log regard application CloudHubs feature access programmatically via REST API"
+    }
+]

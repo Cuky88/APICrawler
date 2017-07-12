@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Licensing,Applications",
+        "api_name": "Keygen",
+        "id": 2466,
+        "progweb_descr": " Keygen REST API allow developer access integrate functionality Keygen applications Some example API method include manage user account create license product retrieve license product Keygen provide application developer publisher platform API create manage licensing application product"
+    },
+    {
+        "progweb_cat": "Licensing,Applications",
+        "api_name": "Cloud App Licenser",
+        "id": 2533,
+        "progweb_descr": " Cloud App Licenser API manage license inapp credit native hybrid mobile apps It provide simple alternative proprietary app store system Cloud App Licenser allow developer use single licensing service platform include detailed error message error logs debugging purpose"
+    },
+    {
+        "progweb_cat": "Licensing,Data",
+        "api_name": "Open Source Initiative",
+        "id": 3604,
+        "progweb_descr": " Open Source Initiative API use build application license aware mean business determine license open source This API store list common identifier service allow user take Software Package Data Exchange SPDX ID know approve call Open Source Initiative API This API return specific information license obsolete popular OSI Approved"
+    },
+    {
+        "progweb_cat": "Licensing,Application Development",
+        "api_name": "GitHub Licenses",
+        "id": 5926,
+        "progweb_descr": " GitHub Licenses API return metadata popular open source license information particular project ’ license file license key name conforms SPDX specification This API use twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Licensing,Cloud",
+        "api_name": "NetLicensing",
+        "id": 10309,
+        "progweb_descr": " Labs64 NetLicensing firstclass solution Licensing Service LaaS sector Based open standard provide cost effective integrate scalable platform software vendor developer want concentrate product ’ core functionality instead spending resource develop license management software"
+    }
+]

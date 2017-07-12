@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "Books,Barcodes",
+        "api_name": "ISBN Lookup",
+        "id": 1548,
+        "progweb_descr": " Use API lookup ISBNEAN cod find detail relevant book API support 10 digit ISBN cod well 13 digit EAN code find book This open endpoint user must alter book detail page URL return API"
+    },
+    {
+        "progweb_cat": "Books,Art",
+        "api_name": "Open Library Covers",
+        "id": 2951,
+        "progweb_descr": " This API provide programmatic method access book cover author photo available Open Library Covers Repository Book cover access use Cover ID internal cover ID OLID Open Library ID ISBN OCLC LCCN identifier like librarything goodreads Open Library develop suite APIs help developer get run provide reference data They lend ebooks worldwide two million free ebooks available 250000 lending library web page every book"
+    },
+    {
+        "progweb_cat": "Books,TV",
+        "api_name": "Game of Thrones Quotes",
+        "id": 3906,
+        "progweb_descr": " Game Thrones Quotes API allow developer create platform search quote attributable different character TV series It filter search result match quote correspond character assign API conveys request response JSON format"
+    },
+    {
+        "progweb_cat": "Books,Data",
+        "api_name": "Ice And Fire",
+        "id": 4188,
+        "progweb_descr": " Ice And Fire API allow access quantify structure data universe A Song Ice Fire series epic fantasy novel American novelist screenwriter George R R Martin also HBO series Game Thrones It provide data Books Characters Houses JSON format Authentication require Node Swift libraries available"
+    },
+    {
+        "progweb_cat": "Books,eBooks",
+        "api_name": "Bookboon",
+        "id": 4511,
+        "progweb_descr": " Bookboon API make bookbooncom book available 3rd party want bookboon book integrate application API provide tool categorize browse search Bookbooncom service download free ebooks textbook"
+    },
+    {
+        "progweb_cat": "Books,eBooks",
+        "api_name": "Book Glutton",
+        "id": 15775,
+        "progweb_descr": " Book Glutton API let convert HTML document new EPUB format base Book Glutton service design experience simultaneously book group computer book"
+    },
+    {
+        "progweb_cat": "Books,Extraction",
+        "api_name": "Pan Macmillan Book Extracts",
+        "id": 5972,
+        "progweb_descr": " Pan Macmillan Book Extracts API let developer call extract book Pan Macmillan Available field extraction author title ISBN reading time publication date"
+    },
+    {
+        "progweb_cat": "Books,Location",
+        "api_name": "Mappit Geographical Book Search",
+        "id": 6750,
+        "progweb_descr": " RESTful Mappit Geographical Book Search API allow user find book set particular geographic location Using latitudinal longitudinal coordinate API offer two way search book basic within radius A basic search find closet location coordinate enter return JSON response contain title author URL book result Searching radius give location return information book within certain distance location select AttributionShareAlike 30 Unported CC BYSA 30 license"
+    }
+]

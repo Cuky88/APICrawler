@@ -1,0 +1,80 @@
+[
+    {
+        "progweb_cat": "Design,Business",
+        "api_name": "99designs Tasks",
+        "id": 672,
+        "progweb_descr": " 99designs offer quick turnaround small design task like photo retouch business card update image vectorizing Use API create new task view update current task manage file attachment 99designs Task API RESTful use HTTP method authenticate HTTP Basic Auth See API docs method description code sample"
+    },
+    {
+        "progweb_cat": "Design,Application Development",
+        "api_name": "Autodesk Forge Data Management",
+        "id": 702,
+        "progweb_descr": " Autodesk Forge Data Management API unifies data across A360 Fusion 360 Object Storage Service use generate bill material obtain ordered structure item within third party application It compose project data schema object storage service Data Management API REST base exchange information JSON format use OAuth 2 authentication Autodesk California base design business firm provide industry lead software AutoCAD Maya Fusion 360"
+    },
+    {
+        "progweb_cat": "Design,Application Development",
+        "api_name": "Autodesk Forge Model Derivative",
+        "id": 703,
+        "progweb_descr": " Autodesk Forge Model Derivative API allow user share design different format obtain metadata It feature STL OBJ support data extraction thumbnail creation Model Derivative API REST base exchange information JSON format use OAuth 2 authentication Autodesk California base design business firm provide industry lead software AutoCAD Maya Fusion 360"
+    },
+    {
+        "progweb_cat": "Design,Charts",
+        "api_name": "Yahoo YUI",
+        "id": 864,
+        "progweb_descr": " YUI Yahoo User Interface free open source JavaScript CSS framework also host Yahoo building richly interactive web application YUI provide BSD license available GitHub fork contribution YUI API allow access YUI framework building site application"
+    },
+    {
+        "progweb_cat": "Design,Automation",
+        "api_name": "Autodesk Forge Design Automation",
+        "id": 977,
+        "progweb_descr": " Autodesk Forge Design Automation API formerly AutoCAD IO API allow user access edit DWG file computer mobile device use web browser This allow designer engineer access plan time without print copy carry flash drive need back one file eliminate well since version DWG file store timeline easy access audit Design Automation API feature DWG file creation PDF support language translation"
+    },
+    {
+        "progweb_cat": "Design,API",
+        "api_name": "CloudViz",
+        "id": 4245,
+        "progweb_descr": " CloudViz set REST APIs generate diagram text base graph description Developers call CloudViz API use DOT base graph description get PNG SVG image return"
+    },
+    {
+        "progweb_cat": "Design,Text",
+        "api_name": "Dino Ipsum",
+        "id": 8407,
+        "progweb_descr": " Dino Ipsum dinosaur theme placeholder text generator Dino Ipsum available developer free RESTful API Developers specify format number paragraphs number word per paragraph API respond need placeholder text API also support CORS request allow developer pull data directly Dino Ipsum crossdomain Ajax request"
+    },
+    {
+        "progweb_cat": "Design,Text",
+        "api_name": "Schematic Ipsum",
+        "id": 8408,
+        "progweb_descr": " Schematic Ipsum placeholder text generator accessible simple API Schematic Ipsum allow developer specify field form text within field take example API generate list name structure user profile In addition text API support generation fake date time color code phone number URLs email address"
+    },
+    {
+        "progweb_cat": "Design,Design",
+        "api_name": "Autodesk BIM360 Glue",
+        "id": 10579,
+        "progweb_descr": " service provide ability share design drawing model create use provider computeraided design CAD software It allow user upload model file access others control specific view ensure viewer see perspective Methods also allow markup model online reviewer generate clash report detect potential conflict among different element project API method support access data define object uploaded share access platform allow manipulation object view viewer input generate review Methods allow control base project user model variable relate shared access activity API support integration project management account system along custom interface share access"
+    },
+    {
+        "progweb_cat": "Design,Fonts",
+        "api_name": "Typekit",
+        "id": 13941,
+        "progweb_descr": " Typekit subscriptionbased font library font Typekit usable website create around web standard Typekit API allow developer access Typekit functionality With Typekit API developer create publish font kit combination font API also allow user fetch metadata font Typekit library"
+    },
+    {
+        "progweb_cat": "Design",
+        "api_name": "Pen.io",
+        "id": 14314,
+        "progweb_descr": " Penio fast simple solution create basic textbased web page Users use Penio tag embed videos image page without use HTML tag although HTML tag support Penio also RESTful API include functionality web base service additional ability Penio act private key store page private set available API authentication"
+    },
+    {
+        "progweb_cat": "Design",
+        "api_name": "W3C CSS Validator",
+        "id": 14494,
+        "progweb_descr": " W3C CSS Validation Service free software create W3C help Web designer Web developer check Cascading Style Sheets CSS It compare user style sheet CSS specification help find error typos incorrect us CSS also tell user CSS pose risk term usability API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Design,HTML5",
+        "api_name": "W3C XHTML Validator",
+        "id": 14495,
+        "progweb_descr": " Markup Validator free service W3C help check validity Web document It check syntax Web document write format XHTML API use SOAP protocol response format XML"
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "progweb_cat": "Notifications,Mobile",
+        "api_name": "Pushy",
+        "id": 1745,
+        "progweb_descr": " Pushy offer notification service use Apple Push Notification Service iOS device MQTT protocol Android device user locate China Pushy offer delivery AOSP device due Google service unavailable unreliable follow method support device information device presence send notification status subscription Pushy API use JSON header response"
+    },
+    {
+        "progweb_cat": "Notifications,Mobile",
+        "api_name": "OneSignal Push Notifications",
+        "id": 5851,
+        "progweb_descr": " OneSignal REST API allow developer access integrate functionality OneSignal application Some example API method include schedule deliver push notification mobile web application OneSignal push notification platform mobile web application"
+    },
+    {
+        "progweb_cat": "Notifications,Integration",
+        "api_name": "Status.io",
+        "id": 2094,
+        "progweb_descr": " This API provide access Statusio Platform It allow integrate exist tool script status page return Components Containers Incidents Maintenance Metrics Status Subscribers Statusio status platform status page incident track subscriber notification"
+    },
+    {
+        "progweb_cat": "Notifications,Messaging",
+        "api_name": "Mozilla Notifications",
+        "id": 2180,
+        "progweb_descr": " Mozilla Notifications API allow subscriber optin notification customize preference setting origins types notification This include allow block notification particular source APIs mobile version support Android Webview Firefox Mobile Gecko Firefox OS Chrome Android Its desktop version support Firefox Gecko"
+    },
+    {
+        "progweb_cat": "Notifications,Messaging",
+        "api_name": "CDYNE's SMS Notify!",
+        "id": 4891,
+        "progweb_descr": " CDYNEs SMS Notify API allow developer send text message worldwide website application When user submit API request CDYNE send text message appropriate aggregator delivers message appropriate carrier delivers message recipient cell phone"
+    },
+    {
+        "progweb_cat": "Notifications",
+        "api_name": "W3C Webmention",
+        "id": 2891,
+        "progweb_descr": " W3C Webmention API specification API notifies URL user mention site From recipient perspective way request notification sit mention URL This specification work progress may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Notifications",
+        "api_name": "APN as a Service",
+        "id": 7268,
+        "progweb_descr": " APN Service API apple push notification service allow developer integrate push notification lean overhead iOS device experience Delivery feedback monitoring process HubApps host Mashape"
+    },
+    {
+        "progweb_cat": "Notifications",
+        "api_name": "SOAPBuilders Interop",
+        "id": 9607,
+        "progweb_descr": " SOAPBuilders Interop service compose SOAPbased API along browserbased RSSformatted information take together automatically inform user someone update server implementation run user test suite SOAPBuilders Interop also help keep track post new client result user check"
+    },
+    {
+        "progweb_cat": "Notifications,Standards",
+        "api_name": "W3C Web Notifications",
+        "id": 2895,
+        "progweb_descr": " W3C Web Notifications API specification defines API handle enduser notification Notifications alert user event receive email outside context web page It display notification user desktop static display area outside web page API flexible handle notification display presentation option"
+    },
+    {
+        "progweb_cat": "Notifications,Standards",
+        "api_name": "WHATWG Notifications",
+        "id": 5997,
+        "progweb_descr": " WHATWG Notifications standard defines API allow developer display notification end user It design platformindependent also compatible exist notification system standard cover method show notification activate notification closing notification display notification replace notification"
+    },
+    {
+        "progweb_cat": "Notifications,Browsers",
+        "api_name": "WonderPush Management",
+        "id": 3074,
+        "progweb_descr": " WonderPush enable developer integrate push notification browser mobile application This platform support 350K push notification per second geotargeting advance segmentationThe Management API allow developer perform administrative task modify campaign user installation This API exchange information JSON format"
+    },
+    {
+        "progweb_cat": "Notifications,Engagement",
+        "api_name": "Catapush",
+        "id": 3484,
+        "progweb_descr": " Catapush API allow user integrate ability deliver transactional push notification mobile web application API also allow user track delivery status push notification Specifically user learn whether notification send deliver mobile terminal openedread encounter error whether contain URL click"
+    },
+    {
+        "progweb_cat": "Notifications,Engagement",
+        "api_name": "Knowtify",
+        "id": 5051,
+        "progweb_descr": " Knowtify offer marketing experience email notification user insight customer behavior JSON API available Token authentication aim integrate event data transactional email segment data digest email behavioral data behavioral email Knowtify company intend drive lifetime customer loyalty provide engage marketing platform"
+    },
+    {
+        "progweb_cat": "Notifications,Monitoring",
+        "api_name": "Alerta",
+        "id": 3593,
+        "progweb_descr": " Alerta notification platform combine alert environment together avoid duplicate order see recent one Also notification multiple custom attribute tag monitoring purpose follow alert source support Syslog SNMP Nagios Zabbix Sensu Alerta API use JSON data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Notifications,Customer Relationship Management",
+        "api_name": "Accengage",
+        "id": 3828,
+        "progweb_descr": " Accengage API allow developer integrate push notification service application Accengage European provider CRM marketing engagement technology It use set launch analyze optimize CRM strategy Accengage provide user web push richpush notification inapp message mobile retargeting service well Facebook Messenger Push Notifications"
+    },
+    {
+        "progweb_cat": "Notifications,Text",
+        "api_name": "AT&T Webhooks Notification",
+        "id": 4535,
+        "progweb_descr": " RESTful Webhooks Notification API provide ATT allow apps use InApp Messaging API subscribe receive push notification message add updated delete ATT customer cloud message inbox Webhooks Notification API send push notification DeveloperHosted Server DHS app"
+    },
+    {
+        "progweb_cat": "Notifications,Accounts",
+        "api_name": "Paysera Notification",
+        "id": 4893,
+        "progweb_descr": " Paysera Notification API allow developer receive notification account event Parameters include credit currency amount beneficiary payment A PHP library available support integration addition JSON REST protocols part Paysera Wallet API Paysera provide secure easy online money transfer via mobile phone"
+    },
+    {
+        "progweb_cat": "Notifications,Emergency",
+        "api_name": "InformaCast Mobile",
+        "id": 5074,
+        "progweb_descr": " InformaCast Mobile API allow developer enable user simultaneously send combination text prerecord audio image Android iOS mobile endpoint cellular phone tablet While smart device provide rich interface primary target also send content via email SMS message cell phone audio call telephone"
+    },
+    {
+        "progweb_cat": "Notifications,Office",
+        "api_name": "Office 365 Notifications",
+        "id": 5238,
+        "progweb_descr": " Office 365 Notifications API allow developer integrate application notification service keep client application notify change resource store Office 365 This API RESTful"
+    },
+    {
+        "progweb_cat": "Notifications,Advertising",
+        "api_name": "Localytics Push",
+        "id": 5308,
+        "progweb_descr": " Localytics Push REST API allow developer access integrate functionality Localytics messaging application main API method send push message application user Localytics marketing analytics platform web mobile application Some feature Localytics include engagement analysis segmentation acquisition management"
+    },
+    {
+        "progweb_cat": "Notifications,Cloud",
+        "api_name": "ShepHertz App42 Cloud Push Notification",
+        "id": 5691,
+        "progweb_descr": " ShepHertz App42 Cloud Push Notification API allow developer send cross platform push message This API support iOS Android Windows Phone ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Notifications,Application Development",
+        "api_name": "Knowvent",
+        "id": 5713,
+        "progweb_descr": " Knowvents REST API cloudbased notification hub business API use JSON call request authenticate via Secret Key Client Identifier Use Knowvent create publish subscribe organize notification business program project Use APIs method publish get detail event monitor process receive report notification date range event type category"
+    },
+    {
+        "progweb_cat": "Notifications,Application Development",
+        "api_name": "GitHub Activity Notifications",
+        "id": 5867,
+        "progweb_descr": " GitHub Activity Notifications API allow developer integrate GitHub activity notification repository application enable access list activity notification This API use HTTP basic authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Notifications,Application Development",
+        "api_name": "BugSnag Notifier",
+        "id": 6375,
+        "progweb_descr": " Bugsnag software detects diagnose crash web mobile application Bugsnag Notifier notify user bug crash application Notifier API let developer integrate application feature enable error monitoring web andor mobile application"
+    },
+    {
+        "progweb_cat": "Notifications,Auto",
+        "api_name": "Mojio Push",
+        "id": 6091,
+        "progweb_descr": " Mojio Push API RESTful interface let developer get realtime notification whenever condition meet event happen entity eg vehicle connect car With API developer way integrate service application enable customer use service directly"
+    },
+    {
+        "progweb_cat": "Notifications,Analytics",
+        "api_name": "Urban Airship Wallet Studio",
+        "id": 6659,
+        "progweb_descr": " Urban Airship Wallet Studio API provide developer ability create wallet item customer individual account API support Android iOS platform"
+    },
+    {
+        "progweb_cat": "Notifications,Email",
+        "api_name": "Bazaarvoice Notifications Subscription",
+        "id": 6815,
+        "progweb_descr": " Bazaarvoice network company connect brand retailer consumer ’ voice Bazaarvoice network provide business information customer ’ reviews opinion influence purchase decision Notifications Subscription API allow developer manage enduser subscription email notification trigger Bazaarvoice platform"
+    },
+    {
+        "progweb_cat": "Notifications,Availability",
+        "api_name": "StatusHub",
+        "id": 6909,
+        "progweb_descr": " StatusHub enable infrastructure provider notify user network experience incident downtime maintenance StatusHub user post updates website service single location One message instantly post across multiple communication channel include email SMS Twitter StatusHub API provide programmatic access status page status update"
+    },
+    {
+        "progweb_cat": "Notifications,Marketing",
+        "api_name": "Yo Developers",
+        "id": 7199,
+        "progweb_descr": " Yo notification app allow user keep touch subscriber send short message It use notify people kinds event new blog post publish online store begin offer new product Users Yo subscriber programmatically via HTTP API"
+    }
+]

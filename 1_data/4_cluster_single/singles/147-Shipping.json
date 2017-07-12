@@ -1,0 +1,884 @@
+[
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "uShip",
+        "id": 18,
+        "progweb_descr": " uShip online ship marketplace connects people customerreviewed transport company Transporters use uShip place compete bid win customer business meet ship need Partners affiliate third party application developer interact uShip marketplace integration uShip API With uShip ’ API user create application interface uShip platform build exist functionality Documentation available register uShip API Developer portal"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "Shipping Gear",
+        "id": 894,
+        "progweb_descr": " Shipping Gear API aim help user eCommerce ship Currently support one method user calculate result package physical weight volume comparison give dimension represent total chargeable weight specific carrier It support follow carrier DHL TNT Parcelforce FedEx UPS API use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "UKMail",
+        "id": 1049,
+        "progweb_descr": " service provide help ship parcel within native UK worldwide It available via online interface whitelabel host page web service call complete integration exist order management system Functions include ship quote specify package point origin delivery booking shipment schedule pickup delivery API method support integration exist proprietary ordering system specify package content weight along sender recipient address Methods also support book quote shipment submit pickup order select carrier"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "Pitney Bowes Shipping",
+        "id": 3987,
+        "progweb_descr": " Pitney Bowes Shipping API allow developer add featurerich USPS shipping capability ecommerce application Pitney Bowes company enable send parcel package across globe"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "Parcelhub Shipping",
+        "id": 4529,
+        "progweb_descr": " Parcelhub API offer developer mean book send parcel automatically It intend provide one identical interface support Parcelhub write program give access client DHL Yodel Parcelforce Hermes DX DPD UKMail Palletforce Parcelhub European Parcelhub delivery distribution company"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "WorldWide Parcel Services",
+        "id": 4745,
+        "progweb_descr": " WorldWide Parcel Services API offer ship system integrate exist application Access shipment book track available This API require account prior use feature WorldWide Parcel Services global track delivery company send package 200 country base UK"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "Ordoro",
+        "id": 5057,
+        "progweb_descr": " Ordoro API provide developer toolkit build apps simplify ecommerce backoffice operation API also use complimentary service provider hook Ordoro platform create stellar apps solve merchant ’ need Ordoro ship inventory management software company"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "SendCloud",
+        "id": 5464,
+        "progweb_descr": " SendCloud API allow developer programmatically access shipping service online shop SendCloud automatically generate ship label send personalize Track Trace email pay postage SendClouds service optimize ecommerce SendCloud website provide Dutch API documentation English"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "ParcelBright Shipping",
+        "id": 5860,
+        "progweb_descr": " ParcelBright Shipping API allow integrate shipping app Access RESTful API HTTPS return JSON ParcelBright Shipping authenticate API Token give create account Use API create print label track ship verify address send shipment notification Documentation include instruction set sandbox account test API implementation"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "Shipwire Inventory Services",
+        "id": 7098,
+        "progweb_descr": " Shipwire shipping ecommerce warehouse company site show video explain company work Shipwire Inventory Services API help developer obtain inventory data real time product Shipwire ’ warehouse business location This API particular offer stock count stock statistic example request example response host Github Additional resource form documentation also available"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "UPS Tracking",
+        "id": 7373,
+        "progweb_descr": " UPS Tracking API provide business ability give customer package track information websites Customers track shipment check status order directly ecommerce site use reference order number API also let user query specific detail shipment status API available HTML XML XML version give flexibility format track data cater design layout"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "Transdirect",
+        "id": 8273,
+        "progweb_descr": " Transdirect Australian company provide range ship solution design deliver package economical efficient way possible Use Transdirect post send transport freight courier package parcel point A point B online merchant Transdirect offer REST API integrate Transdirect instant quote book track system third party site apps API method include quick quote booking session"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "Zinc",
+        "id": 10164,
+        "progweb_descr": " Zinc service allow user purchase product online retailer Amazoncom ship product directly customer Zinc act bridge retailer application Zinc API allow developer access integrate functionality Zinc applications Some example API method include place order retrieve order retrieve status order"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "USPS Merchant Returns",
+        "id": 10634,
+        "progweb_descr": " service provide expedited process shipping return merchandise deliver via US Postal Service USPS Specifically augment service merchant provider Scan Based Payment program allow expedite process customer product return quick refund purchase price By offer merchantfunded USPS return label seller encourage trial purchase simplify interaction customer Each ship label generate service carry Intelligent Mail Package Barcode IMpb automate package track API method support submission return process request customer name address product specification merchant account ID API respond fully format shipping label USPS track number relate processing information"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "ShippingEasy",
+        "id": 10636,
+        "progweb_descr": " service provide rate quote delivery estimate label ship document creation pickupdelivery schedule parcel shipment related ecommerce sale small package transaction It automate interaction number courier quote ship rate delivery term offer ability choose available option complete document include address label custom declaration schedule pickup service interacts shipper package track delivery status inquiry API method support submit customer information delivery address shipment content particular generate shipping option list available courier Methods also support ship document creation include bill lade finalization ship transaction API provide track number delivery status information"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "ShipOnline",
+        "id": 11000,
+        "progweb_descr": " ShipOnline provider integrate online shipping solution help business automate shipping process With ShipOnline user generate ship document track trace obtain proof delivery send notification client XML API let developer provide user mutlicarrier ship capability integrate platform functionality exist system Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "Purolator eShip",
+        "id": 11637,
+        "progweb_descr": " service allow application integrate provider EShip Web Services estimate delivery cost time complete shipping documentation It implement rule restriction govern package ship allow ecommerce site retailer quote delivery term arrange customer shipping upon completion purchase API method support submission ship location delivery address along package content detail generate estimate delivery time cost Methods allow book shipment completion shipping document schedule pickup API also support track package en route processing return merchandise"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "CustomCD",
+        "id": 11638,
+        "progweb_descr": " service provide fulfillment delivery order information filebased product sell via ecommerce digital retailing operation It store content file make digital product generates customize CDROM ship completion seller order Fulfillment service complete sale music CDs photo medium product software game API method support management digital product file store system submission complete order information specify product purchase ability customize file include customer include delivery address Methods generate production custom CD require disc artwork packaging via printondemand follow ship purchaser API also give summary information product generate well individual order include current fulfillment status history ship reshipping data"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "eShopWorld",
+        "id": 11639,
+        "progweb_descr": " service integrates ecommerce retail application manage fulfillment shipping especially international transaction It calculate tax ship rate effect crossborder sale help manage delivery option selection API method support interaction HSrated product catalog define tax rate effect selling delivery jurisdiction Methods also give access shipping option available send delivery location rate information finalization shipment API also provide track international shipment authorization return"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "iabol Shipping Software",
+        "id": 12753,
+        "progweb_descr": " service provide integrated access shipping option across 60 shipping carrier It manage interaction carrier system include information exchange complete transaction schedule parcel ship API method support process order shipping service generate ship label track package en route Methods handle submission individual shipment bulk import multiple package Related function like void pending order update address book entry report transaction book also available"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "SolvingMaze",
+        "id": 12976,
+        "progweb_descr": " service support management collection product warehouse support efficient shipping fulfill customer order It design work concert ecommerce shop cart way streamlines pack shipping collect shipments economical flatrate load accurately forecast ship rate API method upload product catalog specific warehouse calculate shipping rate Products described item number name price weight dimension stock status perishability ability combine bulk shipment"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "ShipCompliant Marketplace",
+        "id": 13197,
+        "progweb_descr": " service enable collaboration online seller wine winery allow fulfillment order compliant government regulation sell ship wine It check legal compliance time transaction book ensure documentation sell licensee proper acceptance rejection offer process payment disbursement proceeds API method support submission offer purchase compliance check state federal law base specific customer seller shipper"
+    },
+    {
+        "progweb_cat": "Shipping,eCommerce",
+        "api_name": "Despatch Bay Parcel Service",
+        "id": 14577,
+        "progweb_descr": " From website With Website API Application Programming Interface seamlessly integrate exist website ecommerce system back office software Despatch Bay Website integration enable site automatically create Despatch Bay label part checkout process validate address postcode even provide realtime list available delivery option per postcode cost ensure customer always choose valid delivery option base delivery address With integration even make use tracking data within website"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "UPS Shipping",
+        "id": 183,
+        "progweb_descr": " UPS Shipping API provide UPS ship functionality integrate website enterprise application This API enable network ship activity different location dealer office Business customer able utilize breadth UPS service capabilities This API available XML format allow flexibility integrate website application design layout"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "DHL",
+        "id": 555,
+        "progweb_descr": " DHL XML Services provide developer ability integrate DHLs service availability transit time rate shipment track 140 country service allow developer utilize exist shipping management system integrate DHL via standard XML base secure platform Available service include shipment process track rate quote capability label generation pickup book"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "YRC",
+        "id": 1173,
+        "progweb_descr": " YRC freight ship company service US Canada YRC offer many online service track rate quote service alert pickup request YRC offer suite APIs integrating tool thirdparty internet intranet site"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "ShipHawk",
+        "id": 7305,
+        "progweb_descr": " With ShipHawk user ship item city city United States Some frequently ship item include couch mattress desks chair even autos They also work small move include 5 piece Developers contact ShipHawk access API feature main value full integration pack shipping After initial contact developer access API key protocol JSON SSL support ShipHawk pay service invite client join beta stage"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "Bongo International",
+        "id": 9852,
+        "progweb_descr": " Bongo aim help International Cross Border eCommerce transaction Consumers Businesses Bongo service 95000 International Consumers 3000 Businesses globally team span 3 continent speak 12 language Bongo API allow user make variety call check order information status include ConnectOrder ConnectLandedCost ConnectProductInfo ConnectOrderRemove ConnectOrderTrackingUpdate ConnectSkuStatus API use several protocol return XML XMLRPC"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "Jedcart Freight Gateway",
+        "id": 9906,
+        "progweb_descr": " Jedcart provide freight management solution market place online retailer consumer Jedcart Freight Gateway API help streamline freight management buyer seller API include freight cost quotation service book service track service These service accomplish GET call"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "RushWeb",
+        "id": 9931,
+        "progweb_descr": " RushWeb national clearinghouse courier transportation industry design help people find courier service meet need Shipping courier company register RushWeb service include customer search RushWeb provide SOAPbased API person register company manage order people submit RushWeb"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "GlobalTranz Carrierrate",
+        "id": 10127,
+        "progweb_descr": " GlobalTranz provide Carrierratecom free online freight book solution customer Carrierrate API enable user confirm transfer shipment retrieve information relevant transfer Additionally user may look invoice user name BOL number look current status shipment base track number Another feature allow user retrieve full detail carrier charge low rate give shipment location shipment specification"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "AfterShip",
+        "id": 10277,
+        "progweb_descr": " AfterShip API support shipment track notification 100 courier Get late delivery result notify customer delivery update Different track APIs AfterShip track shipment every 30mins 2hours Tracking result format unify across courier AfterShip tag shipment In transit Out delivery Failed Attempt Delivered Exception Users choose send email SMS notification receive update webhook"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "TrackThis",
+        "id": 10783,
+        "progweb_descr": " TrackThis package track service allow user track package send major package carrier Twitter email text RSS Facebook TrackThis API allow developer access integrate functionality TrackThis application main API method list package add package edit package delete package"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "New Penn Rate Quote",
+        "id": 11031,
+        "progweb_descr": " New Penn YRC Regional lessthantruckload motor carrier provide nextday ground service network 24 service center span Northeastern United States Quebec Canada Puerto Rico New Penn operate fleet 850 tractor 1700 trailer It also specialize track technology Internetbased ship service New Penn offer volume spot rate quote shipment 5000 pound An API available duplicate functionality service Public documentation API available"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "Postmaster",
+        "id": 11106,
+        "progweb_descr": " Postmaster modern RESTful API shipping package web Ship multiple vendor UPS Fedex USPS Track package get event callback exception Validate address schedule pickup"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "P4D",
+        "id": 11301,
+        "progweb_descr": " P4D provide online ship service include international parcel pallet document transportation P4D API allow customer application generate quote place booking track parcel"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "eCoComa Shipping",
+        "id": 12438,
+        "progweb_descr": " eCoComa Shipping API allow user retrieve realtime shipping rate major carrier Supported ship carrier include FedEx UPS United States Postal Service USPS DHLAirBorne Express DHL This API operate via SOAP use XML data format"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "AAA Cooper Transportation",
+        "id": 13182,
+        "progweb_descr": " AAA Cooper Transportation ACT truck firm serve 12 southeastern state Puerto Rico plus industrial area Chicago Cincinnati Louisville Minneapolis ACT 81 terminal Southeast allow customer receive next day two day service point ACT offer suite SOAP APIs allow developer access transit data service describe Rate Estimate Web Service provide way developer pass token number return receive Rate Estimate output use clientside local program Document Search Web Service provide way developer pass number criterion programmatically return receive Document detail output use clientside local program Tracking Result Web Service provide way developer pass PRO number return receive track detail PRO use clientside local program Transit Time Result Web Service provide way developer pass number criterion programmatically return receive Transit Time detail use clientside local program Documentation API publicly available developer view documentation upon registration free"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "AuctionInc Shipping",
+        "id": 14829,
+        "progweb_descr": " AuctionInc provide ecommerce auction tool include fullfeatured shipping rate calculator service calculate ship rate include insurance tax handle UPS FedEx DHL USPS Include local pickup drop ship multiple location intelligent packaging multiple item service available API use XMLRPC"
+    },
+    {
+        "progweb_cat": "Shipping",
+        "api_name": "eCourier",
+        "id": 15823,
+        "progweb_descr": " From site API near 100 million row GPS data Londonbased courier firm eCourier allow track progress package live byproduct generate lot data accessible"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Track & Confirm",
+        "id": 191,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools customer may integrate website validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label Track Confirm APIs provide estimate delivery information ability track package ship process It apply package ship follow service Priority Mail Express Mail well Package Services include Standard Post Bound Printed Matter Library Mail Media Mail include Delivery Confirmation"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Domestic Mail Service Standards",
+        "id": 1122,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools use validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label Domestic Mail Service Standards APIs help predict package arrive destination APIs available Priority Package include Standard Post Bound Printed Matter Library Mail Media Mail First Class Express Mail type USPS reiterate prediction standard guarantee date"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Express Mail Label",
+        "id": 2505,
+        "progweb_descr": " This API let customer create Priority Mail Express Labels print without postage must purchase applied separately It allow integrate USPS Web Tools® web site shipping application USPS Web Tools® API library enables external ecommerce shop cart shipping software access USPS® data From shipping rate track information schedule package pickup Web Tools make ship US Postal Service® easily accessible"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Address Information",
+        "id": 7383,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools customer may integrate website validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label Address Standardization service help user ensure efficient delivery standardize street address correct abbreviation add miss information add ZIP code ZIP Code Lookup service determine ZIP Code ZIP Code4 address city state know CityState Lookup service determine city state associate give ZIP Code ZIP Code4"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Tracking/Delivery Confirmation Label",
+        "id": 7384,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools customer may integrate website validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label This service allow user create track label online customer record parcel ship within US allow user user customer track delivery status parcel"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Signature Confirmation Label",
+        "id": 7385,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools customer may integrate website validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label With service sender create signature confirmation label online customer record parcel ship within US allow sender sender customer track delivery status parcel"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Online Express Mail Label",
+        "id": 7429,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools customer may integrate website validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label With service sender create Priority Mail Express label online customer record parcel ship within US"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Hold for Pickup",
+        "id": 7430,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools customer may integrate website validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label This service allow application find postal facility Hold Pickup service offer create Hold Pickup label Express Priority First Class mail"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Electronic Merchandise Return Service",
+        "id": 7431,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools use validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label With Electronic Merchandise Return Service API sender generate merchandise return label make package return simpler recipient"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Open and Distribute Labels",
+        "id": 7432,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools use validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label With OpenDistribute Priority API sender expedite batch shipping enclose individual piece mail approve USPS Priority ship container open distributed mail processing facility destination delivery unit"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS International Shipping Labels",
+        "id": 7433,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools use validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label This set International shipping APIs create label sender wish use Priority Mail Express International Priority Mail International First Class Mail International service"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Customs Forms",
+        "id": 7434,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools use validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label This set Customs Forms APIs use USPS approve mail leave country authority country require form approve mail delivery within jurisdiction"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS Package Pickup",
+        "id": 7435,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools use validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label This suite 5 Package Pickup API tool work together help determine pickup service availability schedule pickup cancel pickup change pickup track request pickup These tool work free next day package pickup service feebased pickup demand USPS service"
+    },
+    {
+        "progweb_cat": "Shipping,Government",
+        "api_name": "USPS SDC Service Standards",
+        "id": 7436,
+        "progweb_descr": " US Postal Service provide suite USPS Web Tools use validate find mailing address track confirm mail delivery calculate shipping rate create domestic international shipping label Service Delivery Calculator API provide delivery date commitment estimate mail class"
+    },
+    {
+        "progweb_cat": "Shipping,Enterprise",
+        "api_name": "FedEx",
+        "id": 224,
+        "progweb_descr": " FedEx web service allow business integrate FedEx ship functionality exist warehouse management system without host onsite Developers access FedEx API via SOAP HTTP POST transaction follow functionality available Rate Services Service Availability Tracking Visibility FedEx Locator Further service available require completion certification process"
+    },
+    {
+        "progweb_cat": "Shipping,Enterprise",
+        "api_name": "Shaw Tracking Hours of Service",
+        "id": 10118,
+        "progweb_descr": " Shaw Tracking provide integrated onboard compute wireless data service design benefit Canadian transportation mobile workforce logistics industry One fleet management service Hours Service HOS web service It work electronic onboard record system retrieve driver log violation odometer reading etc This information accessible web interface programmatically use SOAPbased HOS API"
+    },
+    {
+        "progweb_cat": "Shipping,Enterprise",
+        "api_name": "DuoShare Job Submission",
+        "id": 14063,
+        "progweb_descr": " DuoShare provide USPS certify ondemand address correction validation presorting discount mailing API let user validate correct address check move update presort batch address list It use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Shipping,Enterprise",
+        "api_name": "Orderwave",
+        "id": 15669,
+        "progweb_descr": " Orderwave API provide programmatic method integrate Orderwave order management service API interfaces XML call automate various stage order processing add order validation order entry check inventory track shipment obtain payment"
+    },
+    {
+        "progweb_cat": "Shipping,Mail",
+        "api_name": "Endicia Label Server",
+        "id": 340,
+        "progweb_descr": " Endicia Internet Postage provide technology solution mail industry Solutions include Windowsbased presort mail software WYSIWYG mailpiece design software internet address verification internet move update internet postage electronic delivery confirmation internet postage international mail Endicia Label Server API allow partner embed webbased ondemand US Postal Services application websites customer print Postal shipping label within application system produce integrate label image complete stealth postage verify deliveryreturn address service barcodes Delivery Confirmation Signature Confirmation Certified Mail Express Mail Confirm Services custom number Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Shipping,Mail",
+        "api_name": "Canada Post",
+        "id": 1009,
+        "progweb_descr": " service provide delivery service Canada Post integrate ecommerce retailing application serve Canadian customer In addition basic shipping purchase allow online store incorporate rate discovery package track Applications specify number shipping option customize delivery service API method support specification ship location delivery address determination shipping charge completion documentation send package Canada Post delivery service Methods also support specification available shipping option package track en route"
+    },
+    {
+        "progweb_cat": "Shipping,Mail",
+        "api_name": "RocketShip.it",
+        "id": 2537,
+        "progweb_descr": " This API allow ability access UPS FedEx USPS Shipping APIs RocketShipIt use operate system ’ version PHP curl extension send HTTP request provide way complete task least amount code possible RocketShipIt handle communication carrier ’ API return data usable form In order RocketShipIt work need access carrier ’ APIs generate accurate rate get track information generate label"
+    },
+    {
+        "progweb_cat": "Shipping,Mail",
+        "api_name": "Royal Mail Price",
+        "id": 9202,
+        "progweb_descr": " Royal Mail Price API allow user make REST call specify item weight item type service receive postage cost response format JSON No account require service service available free commercial noncommercial use"
+    },
+    {
+        "progweb_cat": "Shipping,Mail",
+        "api_name": "ParcelMonkey",
+        "id": 11989,
+        "progweb_descr": " ParcelMonkey parcel track delivery service base UK API enable user integrate online store ParcelMonkey book track technology streamline shipping good An account required access API available free ParcelMonkey provide PHP SDK live production server test application"
+    },
+    {
+        "progweb_cat": "Shipping,Postal",
+        "api_name": "Online Courier Quotes",
+        "id": 974,
+        "progweb_descr": " service provide Australian postage courier ship rate calculation function modules content management system DotNetNuke Umbraco Drupal Joomla service integrate exist shopping cart provide standalone calculation Shipping cost estimate cover almost delivery address Australia API method support submission package type size include weight point origin destination ship date Methods return ship option match request rate quote shipper detail"
+    },
+    {
+        "progweb_cat": "Shipping,Postal",
+        "api_name": "Post2Go Shipment",
+        "id": 6470,
+        "progweb_descr": " Post2Go API support shipment track notification courier Russia Ukraine Kazakhstan Post2Go state different track APIs shipment track within first 30 minute transaction Additionally every track result format incorporated carrier principal benefit developer could way user send receive communication webhook SMS email Developers choose work PHP Java since different number APIs available various platform An added value might mobile application development iOS Android Developers contact Post2Go become client API access application support Post2Go feature content Russian language"
+    },
+    {
+        "progweb_cat": "Shipping,Postal",
+        "api_name": "Post2Go",
+        "id": 7215,
+        "progweb_descr": " Post2Go API support shipment track notification courier Russia Ukraine Kazakhstan Post2Go state different track APIs shipment track within first 30 minute transaction Additionally every track result format incorporated carrier principal benefit developer could way user send receive communication webhook SMS email Developers choose work PHP Java since different number APIs available various platform An added value might mobile application development iOS Android Developers contact Post2Go become client API access application support Post2Go feature content Russian language"
+    },
+    {
+        "progweb_cat": "Shipping,Postal",
+        "api_name": "MetroLogistics",
+        "id": 8071,
+        "progweb_descr": " MetroLogistics mail ship service offer International Mail Air Rail Ocean LTL Full Truckload ship program MetroLogistics API use SOAP call allow user calculate ship cost create ship labelsstandardize address store address track shipment integrate MetroLogistics system An account required service"
+    },
+    {
+        "progweb_cat": "Shipping,Postal",
+        "api_name": "EasyPost",
+        "id": 9915,
+        "progweb_descr": " EasyPost postage ship service application EasyPost API allow developer access integrate functionality EasyPost application create new application Some example API method include retrieve shipping rate UPS USPS FedEx DHL others compare rate track package buy postage"
+    },
+    {
+        "progweb_cat": "Shipping,Postal",
+        "api_name": "Stamps.com",
+        "id": 10884,
+        "progweb_descr": " Stampscom online postage vendor also provide SOAPbased API generate USPS shipping label Users make print label email label customer print API also support address cleanse calculate USPS rate package track These service recommend integration webbased ecommerce system webhosted application"
+    },
+    {
+        "progweb_cat": "Shipping,Postal",
+        "api_name": "Swiss Post Barcode",
+        "id": 11272,
+        "progweb_descr": " service generates barcoded shipping label parcel mailing within Switzerlands postal service Swiss Post It allow local printing label optimize provider delivery system include integrated barcode optional recipient address Properly label package include Express shipment go directly delivery system API method support generation properly format label domestic mail Express Courier shipments international package specialize service Methods allow shipment letter barcodes financial document highvalue shipment expedite process allow data collection en route delivery track notification"
+    },
+    {
+        "progweb_cat": "Shipping,Postal",
+        "api_name": "New Zealand Post Tracking",
+        "id": 13173,
+        "progweb_descr": " service New Zealand Post track parcel delivery category package carry postal network It intend integration ecommerce websites application need parcel track Tracking notification shippingrate lookup APIs also available Tracking API method support submission single track code multiple code single request Methods available submit mock request without valid track code verify service output simulate various error condition help program application response"
+    },
+    {
+        "progweb_cat": "Shipping,Australian",
+        "api_name": "Australia Post",
+        "id": 990,
+        "progweb_descr": " service provide postal delivery location Australia Integrations available review specify delivery option calculate postage cost complete payment deliver purchase API method support list specification available delivery service base sender recipient location address validation delivery date time specification Methods also support calculation shipping cost base option choose SecurePay API manage collection fund purchase payment sender"
+    },
+    {
+        "progweb_cat": "Shipping,Australian",
+        "api_name": "Realtime Express",
+        "id": 7905,
+        "progweb_descr": " Realtime Express Australian freight parcel delivery service provider In effort allow merchant website offer online delivery quote Realtime Express expose rate calculator functionality via API API accept HTTP request specify number item package weight dimension API respond price estimate time arrival"
+    },
+    {
+        "progweb_cat": "Shipping,Australian",
+        "api_name": "E-go",
+        "id": 8133,
+        "progweb_descr": " EGo provide courier freight service throughout Australia EGo offer ship calculator API allow merchant website offer online delivery quote API accepts HTTP request specify number item item type parcel dimension API respond price estimate time arrival"
+    },
+    {
+        "progweb_cat": "Shipping,Australian",
+        "api_name": "Fastway",
+        "id": 8916,
+        "progweb_descr": " Fastway provide local shorthaul national courier service key regional metropolitan location Australia New Zealand Ireland Northern Ireland South Africa Fastways RESTful API allow thirdparty developer integrate system use public restrict method public API method allow user determine cost ship good two location track good transit Restricted method provide access additional information functionality Developers request access method email"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "ShipStation",
+        "id": 1016,
+        "progweb_descr": " ShipStation webbased ship solution streamlines order fulfillment process online retailer ShipStation integrate USPS UPS FedEx retrieve rate create shipping label much ShipStation API allow feed order customer product ShipStation addition query wide variety data"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "SPEEDY Express Delivery Services",
+        "id": 1032,
+        "progweb_descr": " SPEEDY Express Delivery Services Bulgarian ship company provide doortodoor courier transportation service throughout Bulgaria around world SPEEDY also provide insurance shipment temporary storage online shipment track packaging service Many SPEEDYs online service accessible use SOAP call website provide English Bulgarian"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "Validated",
+        "id": 3579,
+        "progweb_descr": " Validated API intend work offering developer access transportation cost business owner API accessible request Validated allows merchant pay customer transportation visit business"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "Universal Traffic Service Carrier",
+        "id": 9545,
+        "progweb_descr": " Universal Traffic Service Carrier provide supply chain management service associate deliver freight parcel like Their Rate Service API allow user estimate ship rate good base weight size stackability It also account origin destination point shipments whether contain hazardous material This service available use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "Estes Express",
+        "id": 10549,
+        "progweb_descr": " service provide ship item parcel size lessthantruckload LTL lot rate quote calculate transit time shipment status track It integrate ecommerce application part fulfillment complete transaction standalone application devote specifically ship need It handle ship manifest pickup schedule shipment create via frontend function API method support generate free rate quote estimate transit time response request specify cargo point origin destination Methods also support book shipment pickup schedule status update transit track"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "TransCore DAT Connexion",
+        "id": 10633,
+        "progweb_descr": " service provide clearinghouse truck transportation information include available carrier rate load full lessthantruckload LTL Trucking company offer service find loads suited capability shipper identify potential transportation provider post load delivery offer service allow trucker shipper benchmark spot rate investigate provider shipper qualification API method support integration transportation management system TMS load dispatch application Methods also support access provider rate load databases benchmarking current term market standard"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "FuelSurchargeIndex.org",
+        "id": 11028,
+        "progweb_descr": " A collaboration ship truck industry Fuel Surcharge Indexorg site allow user accurately calculate fuel surcharge rate load base daily fuel price along route Fuel Surcharge Indexorg provide shipper carrier accurate fuel price 5500 truck stop update every 24 hour specific route load actually travel FuelSurchargeIndexorg API let user connect site fule surcharge application input trip receive full set fuel surcharge data API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "Roadrunner Transportation Services",
+        "id": 11032,
+        "progweb_descr": " Roadrunner Transportation Systems RRTS transportation logistics service provider offer full suite solution include customize expedited lessthantruckload truckload intermodal brokerage domestic international air RRTS offer APIs allow customer integrate functionality offer customer tool RRTS web site These tool include rating web service get customer specific tariff rate track web service track Pro Number HAWB Number Expedited Shipments BOL Number PO Numberand retrieve BOL POD image quick pickup web service request pickup minimal information transit time web service get day week specific transit time Interested developer contact provider information documentation"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "Saia",
+        "id": 11174,
+        "progweb_descr": " Saia one top LTL carrier United States Less truckload LTL shipping refers transportation relatively small freight large shipped package delivery service Saia serve Midwest South Southwest Pacific Northwest Western region United States North American partner coverage offer Alaska Hawaii New England also extend Canada Mexico Puerto Rico Saia API enable user retrieve shipment trace information create rate quote schedule pickup This service use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "GoMobileIQ Headlight",
+        "id": 11336,
+        "progweb_descr": " Headlight combine online map rout email customer notification online application Headlight API consider field generates optimize route delivery Functionality include standard format return allow adjustable billing upload handheld device CSV return save access DropBox"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "Reddaway Transit Time",
+        "id": 11351,
+        "progweb_descr": " service provide shipping time estimate lessthantruckload LTL shipment via three regional trucking line Reddaway Holland New Penn company partner YRC Regional Transportation network serve different region within North America time estimate reflect joint coverage API method support specification origin destination ZIP cod along request pickup date Methods return estimate time transit load along particular carrier use contact information industry standard time load allow comparison estimate available service upgrade"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "Peninsula Truck Rate Quote",
+        "id": 11365,
+        "progweb_descr": " service provide transportation ship rate quote lessthantruckload LTL shipment across northwestern United States Quotes require input origination point destination well cargo class weight code request delivery timing etc service also accommodate special condition insurance bonding requirement premiums specific delivery condition crossborder paperwork among others API method support submit request quote LTL shipping service full information pickup delivery point well accessorial code variable like inside delivery liftgate requirement hazardous material shipment international shipment similar variation Methods also allow COD ship specific appointment time"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "RoadSavvy",
+        "id": 11366,
+        "progweb_descr": " service provide detailed information road condition affect truck transportation along possible route state origin point destination It return speed limit weight restriction construction activity along various stretch road along location truck stop weigh station repair shop similar feature It use either separately together provider RouteSavvy service API method support generation potential shipping route truck transportation specify road condition mile marker speed limit weight limit special restriction Methods return information point along route specify latitude longitude hazardous material requirement truckrelated hazard like highwind condition blockage due construction activity"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "Aramex",
+        "id": 12019,
+        "progweb_descr": " service provide parcel package freight delivery via global network ship provider Applications integrate package shipping rate calculation function generate shipment along track report delivery progress complete shipment en route Several APIs available include Location Services return information specific country city zip code Shipments Tracking receive updates shipment location status Shipping Services create shipment Rates Calculator provide customer instant shipping rate"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "FleetMon",
+        "id": 12480,
+        "progweb_descr": " service provide worldwide position track traffic information maritime vessel It locate oceangoing ship indication last port visit destination port time arrival departure relate information Applications search vessel identifier register name Portbyport summary also available Information consume live data fee raw NMEA AIS format API method support submission vesselspecific query identifier IMO MMSI name portspecific query Returned data include vessel registration information photo current location latitudelongitude port last destination arrival departure time ultimate destination current speed detail"
+    },
+    {
+        "progweb_cat": "Shipping,Transportation",
+        "api_name": "Bring Cargo",
+        "id": 12813,
+        "progweb_descr": " service provide free public access rate quote ship within Scandinavia northern Europe along support information postal code zone pickup location plus integration loggedin customer book shipment Shipping Guide provide price service area delivery time estimate provider ship service allow application present option let customer choose base delivery speed convenience versus cost Supporting function specify delivery zone pickup location serve provider group postal code A booking API allow completion schedule ship transaction track API update current status shipment API method support specification shipment characteristic item ship weight pickup delivery location etc generate rate quote delivery time estimate Methods also allow acceptance quote book shipment completion payment schedule shipment pickup"
+    },
+    {
+        "progweb_cat": "Shipping,Location",
+        "api_name": "Detrack",
+        "id": 2503,
+        "progweb_descr": " Detrack ’ Application Programming Interface API perform add edit delete delivery It provide HTTP interface JSON format allow developer integrate shipping time track transportation feature web service"
+    },
+    {
+        "progweb_cat": "Shipping,Location",
+        "api_name": "Tracking.St",
+        "id": 6382,
+        "progweb_descr": " Trackingst track system let user manage track package ship FedEx UPS DHL USPS DHL Germany Trackingst API let developer integrate service application With API integrate user application able utilize tracking feature offer TrackingSt directly All request send JSON format response XML format"
+    },
+    {
+        "progweb_cat": "Shipping,Notifications",
+        "api_name": "AfterShip Webhooks",
+        "id": 2555,
+        "progweb_descr": " This API allow acces AfterShip shipment track notification design developer add track functionality Track shipment return In transit Out delivery Failed Attempt Delivered Users choose send email SMS notification receive update webhook AfterShip provide way connect online seller customer postpurchase support 370 carrier worldwide"
+    },
+    {
+        "progweb_cat": "Shipping,European",
+        "api_name": "MyParcel Core",
+        "id": 2847,
+        "progweb_descr": " MyParcel Core API integrate shipment feature application Based Netherlands MyParcel provide RESTlike architecture JSON data HTTPS format deliver CSV responses Developers access delivery type shipment status time stamp content available resource HTTP basic authentication"
+    },
+    {
+        "progweb_cat": "Shipping,Agents",
+        "api_name": "Tookan",
+        "id": 2949,
+        "progweb_descr": " Tookan API RESTful architecture interact personal information data realtime available JSON format HTTPS protocol Key authentication It aim useful manage pickup delivery beauty mobile workforce repair health home service"
+    },
+    {
+        "progweb_cat": "Shipping,Customer Service",
+        "api_name": "TrackingMore",
+        "id": 3155,
+        "progweb_descr": " TrackingMore API integrate package track notification ship application It available JSON architecture Key authentication factor"
+    },
+    {
+        "progweb_cat": "Shipping,Business",
+        "api_name": "PNPLINE Web",
+        "id": 4211,
+        "progweb_descr": " PNPLINE Web API allow developer submit retrieve shipment information PNPLINE warehousing third party logistics firm help customer meet business need manage fulfillment big box store Amazon eBay Groupon They provide drop shipping extra packaging inner package ship warehousing service"
+    },
+    {
+        "progweb_cat": "Shipping,Business",
+        "api_name": "Postmen",
+        "id": 4715,
+        "progweb_descr": " Postmen simplifies submit data carrier consolidate ship APIs one single API Postmen API offer free shipping system integrate exist application It feature rate label manifest APIs domestic international shipping Postmen API REST base respond JSON format support ship carrier"
+    },
+    {
+        "progweb_cat": "Shipping,Business",
+        "api_name": "Shipwire",
+        "id": 15589,
+        "progweb_descr": " Shipwire let customer send merchandise handle online order ship merchandise Use API pas information Shipwire Platform receive information back include shipment rating order submittals status track realtime inventory"
+    },
+    {
+        "progweb_cat": "Shipping,ERP",
+        "api_name": "Pacejet Shipping Software",
+        "id": 4257,
+        "progweb_descr": " Pacejet shipping software API provide RESTful integration quote buy track shipment parcel freight 3PL carrier service Quoting rateshopping ship execution paperwork label automation 70 shipping service Pacejet lead cloudbased ship software platform popular ERP software application NetSuite SAP Infor Plex Microsoft Acumatica"
+    },
+    {
+        "progweb_cat": "Shipping,Logistics",
+        "api_name": "NZ Post ParcelNotification",
+        "id": 4346,
+        "progweb_descr": " NZ Post ParcelNotification API allow developer integrate ParcelNotification API application enable keep customer inform parcel delivery status well minimize call related parcel delivery status Available access NZ Post Customers commercial parcelsending account"
+    },
+    {
+        "progweb_cat": "Shipping,Logistics",
+        "api_name": "NZ Post Shipping Options",
+        "id": 4347,
+        "progweb_descr": " NZ Post Shipping Options API allow developer integrate choice control shipping option functionality application ship option include identify rural delivery addons available even delivery signature require Available access NZ Post Customers commercial parcelsending account"
+    },
+    {
+        "progweb_cat": "Shipping,Logistics",
+        "api_name": "NZ Post ParcelTrack",
+        "id": 4348,
+        "progweb_descr": " NZ Post ParcelTrack API allow developer integrate track event domestic international delivery ecommerce system base network scan event ParcelTrack API also use retrieve shipping history NZ Post CourierPost Pace parcel Available access NZ Post Customers commercial parcelsending account"
+    },
+    {
+        "progweb_cat": "Shipping,Logistics",
+        "api_name": "NZ Post ParcelPickup",
+        "id": 4349,
+        "progweb_descr": " NZ Post ParcelPickup API allow developer integrate scheduling service application enable business tailor pickup frequency business need benefit use ParcelPickup include 1 One process request parcel pick ups either CourierPost Pace 2 Return confirmation number single point reference Available access NZ Post Customers commercial parcelsending account"
+    },
+    {
+        "progweb_cat": "Shipping,Logistics",
+        "api_name": "NZ Post ParcelAddress",
+        "id": 4350,
+        "progweb_descr": " NZ Post ParcelAddress API allow developer integrate address functionality web application ParcelAddress API database continuously update developer customer access New Zealand ’ comprehensive list address ParcelAddress also identify NZ rural address ensure correct delivery service display International address also available within API Available access NZ Post Customers commercial parcelsending account"
+    },
+    {
+        "progweb_cat": "Shipping,Logistics",
+        "api_name": "NZ Post ParcelLabel",
+        "id": 4351,
+        "progweb_descr": " NZ Post ParcelLabel API allow developer connect parcel label function warehouse eCommerce system This enable produce preprinted label ParcelLabel implement conjunction ParcelAddress API ShippingOptions API independently depend business ’ need Labels provide PDF PNG format print commercially available printer Available access NZ Post Customers commercial parcelsending account"
+    },
+    {
+        "progweb_cat": "Shipping,Logistics",
+        "api_name": "Bring Tracking",
+        "id": 6028,
+        "progweb_descr": " Bring Cargo Norwegian company specialize Logistics Transportation Bring Tracking service offer Bring Cargo provide customer opportunity track shipment reference package shipment number Bring Tracking API let developer integrate application enable customer get track information directly"
+    },
+    {
+        "progweb_cat": "Shipping,Logistics",
+        "api_name": "weship(io)",
+        "id": 8422,
+        "progweb_descr": " weshipio shipment track service ship track API weshipio allow user retrieve ship track information major shipping company UPS USPS FedEx weshipio allow developer access integrate functionality weshipio application Some example API method include validate address manage package package information retrieve tracking detail"
+    },
+    {
+        "progweb_cat": "Shipping,Merchants",
+        "api_name": "Doorman",
+        "id": 5226,
+        "progweb_descr": " Doorman REST API allow developer access integrate functionality Doorman applications Public documentation available interested developer contact Doorman information httpwwwdoormancopartner Doorman ondemand package delivery provider user miss package delivery"
+    },
+    {
+        "progweb_cat": "Shipping,Nordic",
+        "api_name": "Bring Reports",
+        "id": 6029,
+        "progweb_descr": " Bring Cargo Norwegian company specialize Logistics Transportation Bring Reports service offer Bring Cargo enable customer generate shipment report Bring Reports API let developer integrate application enable customer get shipment report information directly"
+    },
+    {
+        "progweb_cat": "Shipping,Nordic",
+        "api_name": "Schenker Norway Webservices",
+        "id": 11014,
+        "progweb_descr": " DB Schenker Norwegian shipping service operate land ocean air In addition regular cargo capable handle food good require thermoregulated transportation DB Schenker provide webservices allow user log track item base shipment number consignment number relevant identifier Users may also retrieve pricing timetable information These function available use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Shipping,Security",
+        "api_name": "UPS Address Validation",
+        "id": 7364,
+        "progweb_descr": " UPS Address Validation allow programmer code integrate UPS functionality business application ecommerce websites This API ensure ship address valid If error shipping address list potential valid address provide Additionally API enable confirmation correct address customer service representative customer call"
+    },
+    {
+        "progweb_cat": "Shipping,Security",
+        "api_name": "UPS Address Validation-Street Level",
+        "id": 7365,
+        "progweb_descr": " UPS Address Validation Street Level ensure ship address valid With API error ship address list potential valid address provide Address classification also use determine address residential commercial Programmers code integrate UPS functionality business application ecommerce website"
+    },
+    {
+        "progweb_cat": "Shipping,Security",
+        "api_name": "UPS Signature Tracking",
+        "id": 7371,
+        "progweb_descr": " UPS Signature Tracking API provide Proof Delivery POD digital signature full delivery address This information provide second enables company shorter time sale fund collection UPS track information provide realtime secure Internet environment API come XML format allow developer ability integrate website enterprise application design layout"
+    },
+    {
+        "progweb_cat": "Shipping,Security",
+        "api_name": "UPS TradeAbility",
+        "id": 7374,
+        "progweb_descr": " UPS TradeAbility APIs manage trade issue occur international shipping They provide information service realtime uptodate regulation license information watch list form accurate cost estimate They help business maintain manage trade regulation compliance suite TradeAbility APIs include Denied Party Screener Export License Detector Import Compliance Landed Cost"
+    },
+    {
+        "progweb_cat": "Shipping,Payments",
+        "api_name": "UPS Rating",
+        "id": 7366,
+        "progweb_descr": " UPS Rating API identifies UPS service available domestic international display rate cater package specification Customers compare rate select fitting service need API XML format allow developer custom create UPS shipping menu suit various website application design layout"
+    },
+    {
+        "progweb_cat": "Shipping,Payments",
+        "api_name": "UPS Gemini",
+        "id": 7367,
+        "progweb_descr": " UPS Gemini APIs enable easy quick information organization With APIs automate order management processing calculate rate generate label documentation search order cancel request Gemini APIs include Shipping Rating APIs integrate Tracking API"
+    },
+    {
+        "progweb_cat": "Shipping,Search",
+        "api_name": "UPS Locator",
+        "id": 7368,
+        "progweb_descr": " UPS Locator API provide developer way include search UPS shipping location application search base type available service find following type location UPS StoreÂ® location Mail Boxes Etc location UPS Customer Centers UPS Drop Boxes UPS Express StaplesÂ® Office DepotÂ® Authorized Shipping Outlets ASO UPS Authorized Service Providers API offer XML format Results display two way list location combine map vendor freeware include direction"
+    },
+    {
+        "progweb_cat": "Shipping,Scheduling",
+        "api_name": "UPS Pickup",
+        "id": 7369,
+        "progweb_descr": " UPS Pickup API integrate business ecommerce websites application It provide business customer ability schedule pickup freight shipment package previously process new shipment Businesses customer able access UPS Pickup service Package LessthanTruckload LTL Client application also utilize UPSs environmentally friendly pickup option"
+    },
+    {
+        "progweb_cat": "Shipping,Scheduling",
+        "api_name": "Secureship",
+        "id": 7864,
+        "progweb_descr": " Secureship shipping service allow user easily create shipment select delivery service arrange pickup print necessary document Users store frequentlyused address online address book Available shipping service compare delivery date shipping cost often reduce pay Secureship Users print document schedule pickup time date package"
+    },
+    {
+        "progweb_cat": "Shipping,Tools",
+        "api_name": "UPS Quantum View",
+        "id": 7370,
+        "progweb_descr": " UPS Quantum View API provide various ship information include shipment manifest information status update event alert inbound outbound shipment Businesses see information shipment send use UPS Accounts well UPS package send vendor different receive location organization This API come XML format allow business customize data import"
+    },
+    {
+        "progweb_cat": "Shipping,Tools",
+        "api_name": "UPS Time in Transit",
+        "id": 7372,
+        "progweb_descr": " UPS Time Transit API allow business include complete ship transit time information websites ecommerce application Customers view time information available UPS shipping service include number day transit schedule delivery date time This allow customer review delivery option place order manage arrival multiple package various point origin API come XML format allow developer integrate website ecommerce application design layout"
+    },
+    {
+        "progweb_cat": "Shipping,Tools",
+        "api_name": "USPS Price Calculator",
+        "id": 7904,
+        "progweb_descr": " USPS United States Postal Service provide Domestic International Price Calculator APIs These allow user quickly calculate postage rate domestic international shipment online calculator cover wide variety shipping option return unique mailing restriction declaration form information international shipment"
+    },
+    {
+        "progweb_cat": "Shipping,International",
+        "api_name": "New Zealand Post Rate Finder",
+        "id": 8272,
+        "progweb_descr": " NZ Post New Zealand base postal service user ship package send letter purchase stamps good Rate Finder API allow user include possible shipping information associate cost within application API use REST call return JSON Uses make call get domestic rate information international rate information An account required service"
+    },
+    {
+        "progweb_cat": "Shipping,Addresses",
+        "api_name": "Shippo",
+        "id": 8381,
+        "progweb_descr": " Shippo multicarrier ship API allow anyone retrieve shipping rate ship label track package much API developerfriendly modern robust focus provide reliable powerful ship backend ecommerce store online marketplace API allow creation international shipment custom declaration commercial invoice address validation much Shippo support many ship provider include USPS FedEx UPS DHL Canada Post many Additionally Shippo offer discount ship rate select carrier"
+    },
+    {
+        "progweb_cat": "Shipping,Addresses",
+        "api_name": "Parsel",
+        "id": 8507,
+        "progweb_descr": " Parsel shipment track service Parsel provide track verification information multiple shipping carrier FedEx UPS Shopify Parsel API allow developer access integrate functionality Parsel applications Some example API method include verify address compare shipping rate create shipping label"
+    },
+    {
+        "progweb_cat": "Shipping,Addresses",
+        "api_name": "Postcodes 4 U",
+        "id": 8706,
+        "progweb_descr": " 3X Software Limited multipurpose internet retail service provider Postcodes 4 U API provide 3xsoftware enables user search Royal Mail PAF database address postcode API use REST call return JSON XML API support call return address postal code"
+    },
+    {
+        "progweb_cat": "Shipping,Addresses",
+        "api_name": "Informatica AddressDoctor",
+        "id": 11641,
+        "progweb_descr": " service verifies street delivery address submit corrects standard format use shipping service Addresses enter compare updated reference data confirm delivery location actually exist format correction help expedite shipment maintain compliance package handle system Available supplemental content include geodata demographic information specify location API method support interactive verification delivery address specify request return confirmation exists correct format include basic geocoding information Batch verification method provide function plus check record decease person changeofaddress filing along consumer classification information"
+    },
+    {
+        "progweb_cat": "Shipping,Addresses",
+        "api_name": "ePostcode",
+        "id": 11811,
+        "progweb_descr": " service provide address search service return standard delivery address unique identifier specify ship address It also provide street name identifier specify area distance specify postal code geographic information area specify postal code API method support submission address string return data resolve input unique identifier standard version delivery address Methods also support search street name geographic information postal code Distance postal code also available"
+    },
+    {
+        "progweb_cat": "Shipping,Addresses",
+        "api_name": "Hopewiser Atlas",
+        "id": 13800,
+        "progweb_descr": " Hopewisers Atlas SOAP API allow developer add simple UK Australian address lookup verification without need manual integration storage large data file Functions allow address lookup postcode address element"
+    },
+    {
+        "progweb_cat": "Shipping,Ordering",
+        "api_name": "OrderDog",
+        "id": 8467,
+        "progweb_descr": " OrderDog provide retailer supplier order inventory management pointofsale service OrderDog automatically sort ordered item multiple vendor purchase order Its pointofsale service tie OrderDog web database track item time user order customer purchase OrderDog provide SOAP API allow supplier access OrderDog system update product catalog Both buyer supplier use API get list available product"
+    },
+    {
+        "progweb_cat": "Shipping,German",
+        "api_name": "shipcloud",
+        "id": 8492,
+        "progweb_descr": " shipcloud package shipment track service Germany rest Europe come soon shipcloud currently support major carrier German market DHL UPS Hermes GLS DPD shipcloud API allow developer access integrate functionality shipcloud application Some example API method include look package track shipment view carrier information"
+    },
+    {
+        "progweb_cat": "Shipping,German",
+        "api_name": "Tiramizoo.com",
+        "id": 9245,
+        "progweb_descr": " Tiramazoocom German product delivery service build ecommerce Tiramazoocom offer direct integration plugin REST API API capable create cancel order deliver service area information API communicate SSL authenticate API token return JSON format data"
+    },
+    {
+        "progweb_cat": "Shipping,Email",
+        "api_name": "ParcelCheck",
+        "id": 8582,
+        "progweb_descr": " ParcelCheck package track courier aggregator API design ecommerce base solution It allow online merchant keep customer updated parcel multiple local international courier API provide live integrate track include feature allow user add track result page well get email status notification many courier service Aramex Berco ChurcHillsInternational CourierIT DHL DPE EMS UniversalPostalUnion Fastway InterTownTransport iParcel MDSCollivery Postnet RAM SAPO SouthAfricanPostOffice SpeedServices Supaswift TheCourierGuy TNT Additional API detail available request"
+    },
+    {
+        "progweb_cat": "Shipping,Cloud",
+        "api_name": "Dataplug",
+        "id": 9162,
+        "progweb_descr": " Dataplug cloud shipping system build allow user manage transport carrier single place Dataplug API provide RESTful interface automate transaction Specifically API generate order retrieve order information track order Data send receive XML format"
+    },
+    {
+        "progweb_cat": "Shipping,Italian",
+        "api_name": "myTNT",
+        "id": 9884,
+        "progweb_descr": " TNT Italian ship service provide client custom ship solution They offer order consolidation service deposit delayed delivery aftersales service much myTNT online solution manage TNT shipment access TNT information service Users create transport document verify track shipment request pickup manage administrative file myTNTs function access web interface use SOAPbased call issue XML"
+    },
+    {
+        "progweb_cat": "Shipping,French",
+        "api_name": "Mondial Relay",
+        "id": 9892,
+        "progweb_descr": " Mondial Relay trans Global Relay ship company delivers parcel individual They 6000 Relay Points four country thanks partnership Hermes Logistik 22000 Relay Points throughout Europe Package recipient select Relay Point close home workplace receive notification via email SMS shipment arrive Meanwhile customer follow progress parcel real time Mondial Relay website Mondial Relays API let user access site function programmatically They create ship label search Relay Points create expedite shipment This API rely SOAP call issue XML format Mondial Relay website provide French However company also website Spain give Spanish website Belgium give French Dutch"
+    },
+    {
+        "progweb_cat": "Shipping,Prices",
+        "api_name": "myFreight Rate Quote",
+        "id": 10156,
+        "progweb_descr": " myFreight fullservice online ship portal help shipper size saving visibility support It offer webbased serviced user centralize ship need myFrieght Rate quote integrate internal system allow client estimate shipping cost ondemand streamline process automate shipping requirement generate rate quote Contact myFreight API information"
+    },
+    {
+        "progweb_cat": "Shipping,API Management",
+        "api_name": "Temando",
+        "id": 10820,
+        "progweb_descr": " Temando online portal 200 shipping service suitable business individual Visitors input dimension weight point origin destination shipment retrieve list quote estimate ship time Along get quote user also book track shipment without leave site All Temandos function available integration site service use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Shipping,Energy",
+        "api_name": "Market Intelligence Network",
+        "id": 10823,
+        "progweb_descr": " Market Intelligence Network geospatial tool display analyze IHS Information Handling Services vessel movement data It track global vessel position live assess voyage destination port call data This enable user visualize flow oil product coal LPG Liquefied Petroleum Gas chemical methanol LNG Liquefied Natural Gas region port specific voyage user set realtime alert monitor vessel availability receive alert soon plan cargo set sail Market Intelligence Network also provide vessel movement history vessel characteristic photos fixture data port data customize report vessel port"
+    },
+    {
+        "progweb_cat": "Shipping,Barcodes",
+        "api_name": "CodeGenerate",
+        "id": 11023,
+        "progweb_descr": " CodeGenerate free service user create barcodes QR code advertise packaging site offer free update every time new feature add user save create barcodes CodeGenerate API allow user integrate barcode functionality third party system easily create barcodes use REST call API currently Beta contact CodeGenerate documentation access"
+    },
+    {
+        "progweb_cat": "Shipping,Marine",
+        "api_name": "Harwich Haven Authority",
+        "id": 11904,
+        "progweb_descr": " Harwich Haven Authority HHA organization base UK task safeguard best natural east coast England Its jurisdiction cover River Stour low part River Orwell Harwich Harbour area seaward extend 12 nautical mile harbor entrance cover 150 square mile HHA provide service ship use commercial port Felixstowe Ipswich Harwich International Harwich Navyard Mistley also board land service river Thames Medway Blackwater Colne Crouch HHA provide web service let users access data keep organization Data include anchored ship arrival forecast tide traffic API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Shipping,Auto",
+        "api_name": "VIP Auto Shipping",
+        "id": 12398,
+        "progweb_descr": " VIP Auto Shipping provide car service transport across entire US API provide user high low value estimate car shipping cost base distance provide This data integrate third party site application API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Shipping,Ratings",
+        "api_name": "eFreightline",
+        "id": 12478,
+        "progweb_descr": " service aggregate ship rate freight rating along available capacity 50 carrier serve regional national destination This single data source deliver rate quote fulltruckload lessthantruckload LTL shipment create central source shipper plan transportation need API method support submission load size item ship desire ship date point pickup destination along specification service return rate quote current capacity potential shipper Methods also allow completion shipping transaction"
+    },
+    {
+        "progweb_cat": "Shipping,Insurance",
+        "api_name": "Parcel Pro",
+        "id": 12548,
+        "progweb_descr": " Parcel Pro ship provider offer insure shipment jewelry wristwatch collectible industry Packages insure 150000 pickup service available business location dropoffs available carrier staff center Parcel Pros API allow third party system integrate ship module API also integrate online retailer system Public documentation available API"
+    },
+    {
+        "progweb_cat": "Shipping,Mapping",
+        "api_name": "LiveAddress Verification",
+        "id": 15459,
+        "progweb_descr": " Supersimple superfast US address verification Validate street address within application website Obtain valuable information address include whether receive mail shipment LiveAddress API scale cloud base demand host 3 reliable redundant datacenters across nation Submit 100 address per request dont pay address dont validate Get start anytime free forever subscription 250 lookupsmo Unlimited reseller plan available"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "progweb_cat": "Classification,Social",
+        "api_name": "Taglets",
+        "id": 769,
+        "progweb_descr": " An open platform create comment taggable item tagletsorg service allow user developer create call tag follow comment make tag user post comment By follow tag put stream information flow"
+    },
+    {
+        "progweb_cat": "Classification,Social",
+        "api_name": "Joey Calca's Post to Facebook",
+        "id": 12107,
+        "progweb_descr": " Post Facebook API provide HackedExistences Joey Calca allow user create button making onetime post end user Facebook Wall Unlike Facebooks Open Graph API end user doesnt grant Post Facebook app special permission post Wall button use make onetime post replace text image user desire"
+    },
+    {
+        "progweb_cat": "Classification,Tools",
+        "api_name": "Tagul",
+        "id": 1127,
+        "progweb_descr": " Tagul service take XML description tag cloud turn interactive tag cloud image Tagul API XMLRPC API developer use generate tag cloud interface instead use Taguls web interface API free available monthly fee"
+    },
+    {
+        "progweb_cat": "Classification,Search",
+        "api_name": "Swoogle",
+        "id": 1189,
+        "progweb_descr": " Use Swoogle API search semantic web ontology markup document host UMBC system result ongoing research It provide set function search Semantic Web ontology search Semantic Web instance data etc"
+    },
+    {
+        "progweb_cat": "Classification,Artificial Intelligence",
+        "api_name": "ParallelDots Text Classification (Taxonomy)",
+        "id": 1857,
+        "progweb_descr": " ParallelDots Text Classification Taxonomy API help understand customer behavior categorize conversation social network feedback web source Search engines newspaper ecommerce portal categorize content product facilitate search navigation"
+    },
+    {
+        "progweb_cat": "Classification,Advertising",
+        "api_name": "Kehalim Text Classification",
+        "id": 3841,
+        "progweb_descr": " Kehalim monetization platform focus contextual semantic automation use integrate affiliate program exist application Text Classification API offer page level accuracy 3000 category content multilingual support This API REST base exchange information JSON format use API Keys authentication Kehalim headquarter Israel"
+    },
+    {
+        "progweb_cat": "Classification,Geography",
+        "api_name": "OpenStreetMap TagFinder",
+        "id": 4547,
+        "progweb_descr": " OpenStreetMap TagFinder API RESTful HTTP API provide user access underlie data OpenStreetMap wiki Users integrate TagFinder data webpage application OpenStreetMap project create distributes free geographic data world Users tag thing point interest important tag document OpenStreetMap wiki yet true tag search exist TagFinder web page one simply search term get back managable list relate tags relevant information tag provide well link detail OpenStreetMap wiki statistic TagInfoorg"
+    },
+    {
+        "progweb_cat": "Classification,Screenshots",
+        "api_name": "Web Shrinker Website Category Database Lookup",
+        "id": 5124,
+        "progweb_descr": " Web Shrinker Website Category API return category give URL hostname IP address Web Shrinker make information available downloadable category database perform lookup without internet access If user request yet categorize Web Shrinker crawl categorize make information available API also integrate Web Shrinker screenshot service get image website"
+    },
+    {
+        "progweb_cat": "Classification,Images",
+        "api_name": "MetaMind",
+        "id": 5738,
+        "progweb_descr": " MetaMind provide deep learn Artificial Intelligence service enterprises MetaMind API design give user access MetaMinds text image classification tool either one company image Twitter text classifier allow developer create custom tool fit custom datasets API"
+    },
+    {
+        "progweb_cat": "Classification,Recommendations",
+        "api_name": "Ingenia",
+        "id": 8713,
+        "progweb_descr": " Ingenia tag categorization service Users isolate block text assign tag provide sample upon Ingenia begin apply tags category text real time Ingenia API available JavaScript REST allow user query tags category well view list category tag assign An account required service SSL API use authentication"
+    },
+    {
+        "progweb_cat": "Classification,Monitoring",
+        "api_name": "MyTagList",
+        "id": 9845,
+        "progweb_descr": " service provide monitoring status report device object proprietary electronic tag attach tags report status wireless connection report convey service Android iOS device check status determine location tag object API method support registration wireless tag association device object cause service detect log movement temperature change Methods allow retrieval report log data determine tag location status trigger signal back tag help locate"
+    },
+    {
+        "progweb_cat": "Classification,Semantics",
+        "api_name": "SimilarWeb Website Tagging",
+        "id": 9985,
+        "progweb_descr": " service provide analysis website content indicate tag accurately detect list word characterize site overall body information Analysis cover semantics text find site well structure discoverable metadata associate link text related factor result provide freetext string word typical website content API method support submission website URL analysis Methods apply autolearning algorithm detects possible topic tag accuracy score potential tag It return tag accurately characterize site overall"
+    },
+    {
+        "progweb_cat": "Classification,Semantics",
+        "api_name": "Ontos",
+        "id": 10689,
+        "progweb_descr": " Ontos provider tool aggregate content semantically related content already exist website blog Their API return semantic metadata RDFbased format exist text content API use natural langugage processing recognize entity relation With API use link text content metadata come 500000 web document Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Classification,Semantics",
+        "api_name": "OpenDover",
+        "id": 15248,
+        "progweb_descr": " OpenDover API webservice tag user document base sentiment find within document OpenDover webservice allow user extract next generation semantic feature within blog content management system websites numerous application OpenDover API handle different way sentiment tag depend need content provide via API OpenDover API expose public SOAPbased web service RESTful web service JSON XML response"
+    },
+    {
+        "progweb_cat": "Classification,Weather",
+        "api_name": "reegle",
+        "id": 10461,
+        "progweb_descr": " reegle clean energy information service make management tag clean energy climate relevant service easily accomplish automate tag extraction service reegle also provide semantic index allow user guide relevant article base search term resource reegleinfo Linked Open Data LOD REEEP project outcome document Content available English German French Portuguese Spanish reegle API REST base return format either XML JSON RDF GET POST method support"
+    },
+    {
+        "progweb_cat": "Classification,Metadata",
+        "api_name": "OCLC Virtual International Authority File",
+        "id": 13810,
+        "progweb_descr": " Virtual International Authority File project OCLC Office Research bring together authority data accept form author name work titles 16 different authority file 14 library worldwide web service provide way search retrieve authority record provide authoritative version author name subject heading resource title variety format"
+    },
+    {
+        "progweb_cat": "Classification,Science",
+        "api_name": "Reflect",
+        "id": 14902,
+        "progweb_descr": " Reflect API identify ‘ tag ’ biologically chemically relevant name find HTML document Reflect free service tag gene protein small molecule name web page within second Clicking tagged term open small popup show summary information show Reflect instal plugin Firefox Internet Explorer"
+    },
+    {
+        "progweb_cat": "Classification,Automation",
+        "api_name": "tagthe.net",
+        "id": 15841,
+        "progweb_descr": " What tagthenet webservice intend provide tag texts You use application webservices play around Why different In contrast service use information present text analyse content try find word could useful tag Currently work english german text"
+    },
+    {
+        "progweb_cat": "Classification,Extraction",
+        "api_name": "TagFinder",
+        "id": 15854,
+        "progweb_descr": " Zingo TagFinder Web service automatically extract tags piece text tag choose base statistical linguistic analysis original text"
+    }
+]

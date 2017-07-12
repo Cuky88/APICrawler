@@ -1,0 +1,152 @@
+[
+    {
+        "progweb_cat": "Addresses,Data",
+        "api_name": "AddressOCR",
+        "id": 2224,
+        "progweb_descr": " AddressOCR API allow developer get recipient sender USPS Intelligent Mail Barcode data image scan envelope If developer already decode Intelligent Mail Barcode AddressOCR provide information associate 65character alphabetic code AddressOCR also look USPS service type code piece mail get class feature address correction level"
+    },
+    {
+        "progweb_cat": "Addresses,Data",
+        "api_name": "Dansk Supermarked",
+        "id": 5924,
+        "progweb_descr": " Dansk Supermarked API Danish Web API provide geocoded store information This include store resource basic information location hour Dansk Supermarked store Netto Føtex Bilka Salling Denmark Sweden Germany Poland UK API also provide information instore event overall enrich application Dansk store data"
+    },
+    {
+        "progweb_cat": "Addresses,Validation",
+        "api_name": "streetlayer",
+        "id": 2368,
+        "progweb_descr": " Streetlayer offer straightforward JSONbased REST API service build analyse verify international address data use custom build search algorithm crossreference complete address specify API request well fraction contain therein massive weekly update reliable data set source wide range vendor institution around world Whether intend use API clean customer database validate user data time enters system build address autocomplete system web platform validate highvalue contact lead aim send promotional material regardless background size business youre right address"
+    },
+    {
+        "progweb_cat": "Addresses,API",
+        "api_name": "SmartyStreets Download",
+        "id": 2476,
+        "progweb_descr": " SmartyStreets Download API provide access package developer need operate SmartyStreets APIs Its access restrict developer purchase SmartyStreets ’ Enterprise API send request HTTP format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Addresses,Authentication",
+        "api_name": "SmartyStreets US Extract",
+        "id": 2575,
+        "progweb_descr": " SmartyStreets US Extract API provide endpoint locate authenticate US address arbitrary text input API send request HTTP URI Query StringCRUD format return responses JSON format Its access require API Key Token authentication"
+    },
+    {
+        "progweb_cat": "Addresses,Authentication",
+        "api_name": "SmartyStreets Verify International Addresses",
+        "id": 2577,
+        "progweb_descr": " SmartyStreets Verify International Addresses allow user authenticate physical location residence building premise locate international location API send HTTPformatted request return JSONformatted responses Its access restrict approve account although user use test account access 100 free lookup"
+    },
+    {
+        "progweb_cat": "Addresses,Location",
+        "api_name": "SmartyStreets US Zip Code",
+        "id": 2576,
+        "progweb_descr": " SmartyStreets US Zip Code API support combination city state ZIP Code field entry address lookup verification query US location API send request HTTP URI Query StringCRUD format return responses JSON format Its access require API Key Token authentication"
+    },
+    {
+        "progweb_cat": "Addresses",
+        "api_name": "TM Forum Address",
+        "id": 3562,
+        "progweb_descr": " TM Forum Address API allow developer access address management system standardize interface It look address worldwide validate address data This one PreOrdering Management APIs TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Addresses",
+        "api_name": "Hopewiser AddressServer",
+        "id": 7593,
+        "progweb_descr": " Hopewiser UKbased company specialize address database management software Hopewiser AddressServer API allow user embed address lookup verification functionality application Users also use API customize format address return retrieve information single address field"
+    },
+    {
+        "progweb_cat": "Addresses,International",
+        "api_name": "ClickToAddress Global Address",
+        "id": 3716,
+        "progweb_descr": " ClickToAddress Global Address API find international postal address autocompletes validates data point entry It allow predictive searchahead interaction Available JSON architecture"
+    },
+    {
+        "progweb_cat": "Addresses,Brazilian",
+        "api_name": "Vitortec Consult CEP",
+        "id": 4056,
+        "progweb_descr": " CEP Correios API use obtain information postal cod Brazil This API return information JSON format Vitortec software development firm base Brazil provide application Android Facebook Chrome Windows Linux Also provide web development service CMS WordPress Bootstrap"
+    },
+    {
+        "progweb_cat": "Addresses,Demographics",
+        "api_name": "LatLon",
+        "id": 4338,
+        "progweb_descr": " LatLon API allow developer geocode reverse geocode address Unites States send request LatLon API LatLon convert address latitudelongitude coordinate provide information school district legislative district census geography"
+    },
+    {
+        "progweb_cat": "Addresses,Demographics",
+        "api_name": "Userinfo.io",
+        "id": 6050,
+        "progweb_descr": " Userinfoio service retrieves IP geolocation info user website offer embeddable JavaScript library well functionally call API directly within browser Calls API return JSONP responses retrieve latitude longitude country city IP address user data return come 999 accuracy determine continent country origin 50 accuracy determine exact position city within developed country service JavaScript library free integrate exist web application Userinfoio also use Asynchronous Module Definition AMD Userinfoio develop maintain Vincent Durmont"
+    },
+    {
+        "progweb_cat": "Addresses,Email",
+        "api_name": "Byteplant Global Address Verification",
+        "id": 5097,
+        "progweb_descr": " Byteplant Global Address Verification work JSON response API Key display verify global address Such service could useful maintain customer database organize clean data forbid fake address part company list Byteplant provide email management security solution"
+    },
+    {
+        "progweb_cat": "Addresses,Email",
+        "api_name": "ShuttleCloud",
+        "id": 6062,
+        "progweb_descr": " ShuttleCloud API import email address book Users get standardize address data 242 email provider locate around world include major email system ShuttleCloud also analyze email metadata recency frequency contact Social data also include help user understand end user friend"
+    },
+    {
+        "progweb_cat": "Addresses,Forms",
+        "api_name": "Open Addresses UK Sorting Office",
+        "id": 5467,
+        "progweb_descr": " Use Sorting Office API OpenAddresses UK automatically format postal address API use POST HTTPS return JSON format address way mirror BS7666 Sorting Offices dependency include MongoDB Elasticsearch After instal Sorting Office API sure read submission guideline protect privacy consent open data policy"
+    },
+    {
+        "progweb_cat": "Addresses,Mapping",
+        "api_name": "Open Addreses UK Search",
+        "id": 5625,
+        "progweb_descr": " Search API Open Addresses UK search UK address open data set API use JSON HTTP support partial search well multiple query string eg postcode town Responses return data match search term include persistent URL address In addition address use format similar BS7666 standard include latitude longitude coordinate geographic center address postcode See project page information demo Search API"
+    },
+    {
+        "progweb_cat": "Addresses,Mapping",
+        "api_name": "YAddress",
+        "id": 7415,
+        "progweb_descr": " YAddress Yuri Software web service provide address correction validation standardization geocoding US address It use development environment Webenabled Through CLR function functionality also use Microsoft® SQL Server YAddress correct misspelling abbreviation alternative street city name It provide corrected address USPS standard form also assign correct ZIP Supports XML JSON"
+    },
+    {
+        "progweb_cat": "Addresses,Mapping",
+        "api_name": "Trackip",
+        "id": 11775,
+        "progweb_descr": " Trackip German site track user IP address provide geographical location base IP API give developer programmatic access site functionality data use application websites API let user look internet host IP address city country latitude longitude It use RESTful call response format XML site documentation German"
+    },
+    {
+        "progweb_cat": "Addresses,Postcodes",
+        "api_name": "Matchbox Address",
+        "id": 5848,
+        "progweb_descr": " Matchbox Address REST API allow developer access integrate functionality Matchbox application Salesforce Facebook Public documentation available API access come account service Matchbox Address service standardize geocodes postal address United States"
+    },
+    {
+        "progweb_cat": "Addresses,Domains",
+        "api_name": "Utrace",
+        "id": 6562,
+        "progweb_descr": " Utrace online service provide users information regard location IP address domain name Utrace API let developer integrate service application enable consumer access data Utrace directly"
+    },
+    {
+        "progweb_cat": "Addresses,Domains",
+        "api_name": "WhatIsMyIP.com",
+        "id": 6564,
+        "progweb_descr": " WhatIsMyIPcom WIMI simple web service HTTP API integrate custom web accessible application WIMI implement return user IP address along perform domain related function Developers send HTTP request perform proxy check perform WHOIS IP lookup check domain see blacklist lookup host name check HTTP server header perform user agent check Each tool available use come well documented API handle 55 query speed 337 second JSON CSV XML support output format"
+    },
+    {
+        "progweb_cat": "Addresses,Lists",
+        "api_name": "SearchBug Find Name and Phone Number from Address",
+        "id": 6805,
+        "progweb_descr": " With SearchBug Find Name Phone Number Address user identify data people business United States Searches specify address city state Inquiries also include apartment number unit number zip code"
+    },
+    {
+        "progweb_cat": "Addresses,Zip Codes",
+        "api_name": "getAddress.io",
+        "id": 6945,
+        "progweb_descr": " getAddressio simple service find postal address use REST call This API free use apps websites user make unlimited request account This API update continuously daily basis"
+    },
+    {
+        "progweb_cat": "Addresses,Verification",
+        "api_name": "Byte Plant Address Verification Online",
+        "id": 7338,
+        "progweb_descr": " Address Verification Online API verify national international postal address confirm valid exist address validation service include global address verification status address normalization standardization address correction reformatting accord national international standard"
+    }
+]

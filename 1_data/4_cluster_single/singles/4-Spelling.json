@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Spelling,Search",
+        "api_name": "Gigablast Spell Check",
+        "id": 1764,
+        "progweb_descr": " Gigablast Spell Check API allow developer perform spell check query give US English It correct typos contextual error phonetic error This API cost 010 per 1000 query minimum purchase 500 It take approximately 005 second get reply typical query"
+    },
+    {
+        "progweb_cat": "Spelling,Editing",
+        "api_name": "xSpell",
+        "id": 3224,
+        "progweb_descr": " xSpell API provide spellchecking correction service It design use PHP website convert use language A live demo provide websites home page Users need generate token use API use demo token"
+    },
+    {
+        "progweb_cat": "Spelling,Machine Learning",
+        "api_name": "Bing Spell Check",
+        "id": 4007,
+        "progweb_descr": " Bing Spell Check API offer suggestion misspell word contextual spell check text provide third party application This Microsofts third generation spellchecker rely dictionary machine learn statistical machine translation Developers integrate capability slang informal language recognition homophone correction Currently free plan limit call 5000 transaction per month available This API use JSON format data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Spelling",
+        "api_name": "WebSpellChecker",
+        "id": 10718,
+        "progweb_descr": " WebSpellChecker application allow website owner manager provide spell check service websites web text WebSpellChecker API allow developer access integrate functionality WebSpellChecker websites application main API method submit text retrieve spell check"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "progweb_cat": "Organization,Collaboration",
+        "api_name": "I Done This",
+        "id": 2033,
+        "progweb_descr": " I Done This provider organizational management productivity solution I Done This API allow developer build collaborative management application monitor productivity task performance employee API allow user generate progress report track activity team individual employee API accept either token API key authentication It convey request response JSON format"
+    },
+    {
+        "progweb_cat": "Organization,Collaboration",
+        "api_name": "Ideonet",
+        "id": 6073,
+        "progweb_descr": " Ideonet Polish service offering tool group coordination project collaboration Tasks divide group communication integrate use Ideonets service platform also offfers RESTful API allow user access manipulate data object URIs standard GET POST PUT DELETE HTTP verb API use retrieve edit project detail include specific note milestone task time entry within project"
+    },
+    {
+        "progweb_cat": "Organization,Classification",
+        "api_name": "Web Shrinker Website Categorization",
+        "id": 4167,
+        "progweb_descr": " Web Shrinker Website Categorization API utilizes cloud compute machine learn classify website set category website category lookup API use variety way Web Shrinker Website Categorization category mapping make available online API also soon downloadable list integrate use software service"
+    },
+    {
+        "progweb_cat": "Organization,Application Development",
+        "api_name": "Ardoq",
+        "id": 4553,
+        "progweb_descr": " Ardoq API allow developer access customize automate documentation Ardoq open platform design help user create structured documentation make easy find needed information Users update documentation browser markdown autocompletion Ardoq provide visualization navigate system dependency well perform consequence analysis"
+    },
+    {
+        "progweb_cat": "Organization,International",
+        "api_name": "UPS Paperless Document",
+        "id": 4582,
+        "progweb_descr": " Paperless Document API design expedite UPS custom process Through API user upload electronic document UPS document repository allow UPS process international shipment quicker XML format API allow 1 MB per file 13 file per request"
+    },
+    {
+        "progweb_cat": "Organization,Management",
+        "api_name": "SAIFE Management",
+        "id": 5106,
+        "progweb_descr": " SAIFE Management API allow developer establish secure communication network manage certificate group sign revoke certificate create device endpoint set configuration parameter establish customize role permission manage SAIFE application SAIFE Management Service prepopulates device public certificate friendly names rout information device capability member security group ensure device need communicate wellknown"
+    },
+    {
+        "progweb_cat": "Organization,Lists",
+        "api_name": "GitHub Organization Members",
+        "id": 5893,
+        "progweb_descr": " GitHub Organization Members API allow developer gain access list user member organization member user belongs least 1 team organization GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Organization",
+        "api_name": "GitHub Organization Teams",
+        "id": 5894,
+        "progweb_descr": " GitHub Organization Team API allow developer gain access information team within organization With API developer make change exist team create new one An authenticated user member Owners team require action available API GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Organization",
+        "api_name": "GitHub Organization Webhooks",
+        "id": 5896,
+        "progweb_descr": " GitHub Organization Webhooks API allow developer receive HTTP payload whenever certain event happen within organization An authenticate user admin organization require use API GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Organization,Data",
+        "api_name": "GitHub Organizations",
+        "id": 5976,
+        "progweb_descr": " GitHub Organizations API allow developer integrate GitHub organization data application gain access list organization authenticate user belongs This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Organization,Documents",
+        "api_name": "IEEE",
+        "id": 6843,
+        "progweb_descr": " IEEE stand Institute Electrical Electronics Engineers It nonprofit association bring member together area engineering technology innovative purpose IEEE API available digital library name Xplore In site developer find parameter single article specific search field related author document date abstract filter parameter correspond publication number publication year content type sort parameter consistent field name ascend sort descend sort IEEE offer support center information"
+    }
+]

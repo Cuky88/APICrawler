@@ -1,0 +1,122 @@
+[
+    {
+        "progweb_cat": "Statistics",
+        "api_name": "Compete",
+        "id": 186,
+        "progweb_descr": " From site Compete SnapShot provide information every site internet include site traffic history competitive analytics list available promotional code across thousand online retailer sitespecific trust score base uptotheminute data Compete third party security service Your site application display Competes powerful data use Compete SnapShot API"
+    },
+    {
+        "progweb_cat": "Statistics",
+        "api_name": "Clicky",
+        "id": 737,
+        "progweb_descr": " From site Clicky API allow extract wide range data web site traffic analyze store manipulate display within web site application Nearly every piece data see use web site also access via API API accept request via standard HTTP GET respond XML JSON JavaScript PHP"
+    },
+    {
+        "progweb_cat": "Statistics",
+        "api_name": "GitHub Repository Statistics",
+        "id": 5895,
+        "progweb_descr": " GitHub Repository Statistics API allow developer fetch data GitHub use visualize different type repository activity This API use twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Statistics",
+        "api_name": "ecommstats",
+        "id": 15842,
+        "progweb_descr": " From site ecommStats create collaboration several online store track revenue come see return investment advertising expenditures system become beneficial store use decide offer system others These store continue use system continue make ecommStats well"
+    },
+    {
+        "progweb_cat": "Statistics,Canadian",
+        "api_name": "Statistics Canada Home Page",
+        "id": 1519,
+        "progweb_descr": " Statistics Canada Home Page API allow developer access indicator available Statistics Canada API allow return home page carousel Statistics Canada provide data statistic Canada"
+    },
+    {
+        "progweb_cat": "Statistics,Canadian",
+        "api_name": "Statistics Canada Schedule",
+        "id": 1520,
+        "progweb_descr": " Statistics Canada Schedule API allow developer access schedule available Statistics Canada API allow return release schedule major indicator Statistics Canada provide data statistic Canada"
+    },
+    {
+        "progweb_cat": "Statistics,Canadian",
+        "api_name": "Statistics Canada Indicators",
+        "id": 1521,
+        "progweb_descr": " Statistics Canada Indicators API allow developer access indicator available Statistics Canada API allow return indicator major economic indicator indicator available home page Statistics Canada provide data statistic Canada"
+    },
+    {
+        "progweb_cat": "Statistics,Data",
+        "api_name": "SSB",
+        "id": 1664,
+        "progweb_descr": " This API Norways official open statistic API 5000 table It allow quickly retrieve integrate SSB data system SSB independent institution responsible collect produce publish official statistic related economy population society national regional local level"
+    },
+    {
+        "progweb_cat": "Statistics,Data",
+        "api_name": "Central Statistics Office (CSO) StatBank",
+        "id": 4057,
+        "progweb_descr": " Central Statistics Office CSO StatBank REST API allow developer access integrate number Ireland statistic demographic database use application main API method retrieve datasets categories various census year"
+    },
+    {
+        "progweb_cat": "Statistics,Data",
+        "api_name": "US Poverty Data",
+        "id": 7069,
+        "progweb_descr": " US Poverty Data use determine group locate official poverty line United States Developers make simple GET request US Poverty Data use input variable income social security welfare veteran housing energy child support API return poverty information relate amount rate share impoverish people accord input criterion API also return race sex age disability statistic correspond input criterion well API use US government census data open developer integrate website 3rd party app free charge"
+    },
+    {
+        "progweb_cat": "Statistics,Analytics",
+        "api_name": "Mozilla Network Stats",
+        "id": 2156,
+        "progweb_descr": " Mozilla Network Stats API support track data transmit device purpose convey information certify application Developers use API provide mechanism access monitoring network data store system device"
+    },
+    {
+        "progweb_cat": "Statistics,Analytics",
+        "api_name": "Giosg Reporting",
+        "id": 2373,
+        "progweb_descr": " This API provide way access giosgcom allow retrieve visitor statistic room retrieve treatment report room giosgcom allow use realtime analytics platform sell serve customer context build workflow reach customer across web"
+    },
+    {
+        "progweb_cat": "Statistics,Analytics",
+        "api_name": "Stat Counter",
+        "id": 3790,
+        "progweb_descr": " StatCounter API integrate visitor analysis websites summary statistic popular page search engine It available JSON XML format"
+    },
+    {
+        "progweb_cat": "Statistics,Analytics",
+        "api_name": "Numerous",
+        "id": 6856,
+        "progweb_descr": " Numerous app consolidates important number user follow daily basis convenient viewable customizable model app allow track share personal behavioural statistic well social weather calendar price index form monitor app offer RESTful API allow account data share integration 3rd party application"
+    },
+    {
+        "progweb_cat": "Statistics,Countries",
+        "api_name": "Statistics New Zealand",
+        "id": 2784,
+        "progweb_descr": " Statistics New Zealand API integrate statistic application target business economic indicator government finance income work industry sector Available HTTP request receive response XML JSON format"
+    },
+    {
+        "progweb_cat": "Statistics,Games",
+        "api_name": "Aligulac Statistics",
+        "id": 4484,
+        "progweb_descr": " Aligulac Statistics aim make prediction video game StarCraft 2 API available access statistical data JSON format Api Key authentication Features include rank team record result inference"
+    },
+    {
+        "progweb_cat": "Statistics,Email",
+        "api_name": "Mad Mimi Statistics",
+        "id": 5091,
+        "progweb_descr": " Mad Mimi Statistics API help developer monitor send read click email aim improve marketing campaign Available REST XML Accessible Key API additionally offer promotion attempt number audience member create transactional count Mad Mimi email marketing platform"
+    },
+    {
+        "progweb_cat": "Statistics,Charts",
+        "api_name": "Statista Media",
+        "id": 5515,
+        "progweb_descr": " Statista Media API let developer integrate service websites enable generate relevant content drive traffic sit Statista online statistic portal aggregate data thousand source two common format use API jSON XML"
+    },
+    {
+        "progweb_cat": "Statistics,Fantasy Sports",
+        "api_name": "Stats",
+        "id": 7275,
+        "progweb_descr": " It take whole system keep track sport statistic That ’ Stats aim offer API deliver content via FTP HTTP web service socket type sport content relate information team player event statistic leader injury poll player news photo Developers client benefit API system provide encrypted security along wide variety parameter within API call This API might fit developer work sport industry prefer visualize large amount data Some sport include football basketball soccer baseball fantasy sport car race To provide example website display sequential flowchart SHA256 encryption Stats content"
+    },
+    {
+        "progweb_cat": "Statistics,Social",
+        "api_name": "api.naveen",
+        "id": 9431,
+        "progweb_descr": " Naveen personal API allow user get realtime data Naveen manual data track fuel band jawbone withings fitbit foursquare apps Users query sleep weight foot step fuel point checkins service require user Twitter account authentication get token API use REST call"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Environment,Climate",
+        "api_name": "Foobot",
+        "id": 2123,
+        "progweb_descr": " Foobot REST API allow developer access integrate functionality Foobot applications Some example API method include retrieve device detail search data point retrieve data point Foobot air quality monitor allow people monitor air around control air freshness"
+    },
+    {
+        "progweb_cat": "Environment,Climate",
+        "api_name": "Safecast",
+        "id": 3069,
+        "progweb_descr": " Safecast international open citizen science organization specialize share information environmental radiation pollutant Safecast maintain large dataset background radiation measurement currently develop network sensor monitor PM10 PM25 Carbon Monoxide Nitrogen Dioxide Ozone Methane Safecast API use query add information Safecast dataset This API use HTTP request JSON response"
+    },
+    {
+        "progweb_cat": "Environment,Climate",
+        "api_name": "World Air",
+        "id": 3132,
+        "progweb_descr": " World Air Quality Index AQI API integrate air quality data application It aim target sensitive population woman pregnant child young age adult old age people asthma Available JSONP XML protocols via API Key"
+    },
+    {
+        "progweb_cat": "Environment,Climate",
+        "api_name": "Global Forest Watch",
+        "id": 5693,
+        "progweb_descr": " Global Forest Watch API allow developer retrieve information forest change measure include cover loss tree cover gain disturbance Specific data developer retrieve include University Maryland tree cover loss gain FORMA FORest Monitoring Action alert IMAZON SAD Deforestation Alert System alert QUICC Quarterly Indicator Cover Change alert NASA active fire This API currently Beta"
+    },
+    {
+        "progweb_cat": "Environment,Cities",
+        "api_name": "World Air Quality Index",
+        "id": 2146,
+        "progweb_descr": " World Air Quality Index REST API allow developer access integrate functionality index application websites Some example API method include geobased query retrieve air quality data city region retrieve current weather condition World Air Quality Index project social enterprise project start 2007 mission promote air pollution awareness provide unify air quality information place around world project provide air quality information 70 country cover 9000 station 600 major city via two website aqicnorg waqiinfo"
+    },
+    {
+        "progweb_cat": "Environment,Cities",
+        "api_name": "Smart Citizen",
+        "id": 3271,
+        "progweb_descr": " Smart Citizen API provide public access Smart Citizen platform application development experimentation Smart Citizen platform design connect data people knowledge regard live condition various city Smart Citizen Kit sensor measure air composition temperature humidity light intensity sound level Data collect sensor stream platform wifi"
+    },
+    {
+        "progweb_cat": "Environment,Animals",
+        "api_name": "iNaturalist",
+        "id": 3651,
+        "progweb_descr": " iNaturalist API allow developer integrate wildlife sight data application iNaturalistorg website allows naturalist scientist citizens record share discuss wildlife observation others iNaturalist host 2 million observation 80000 specie around world administer California Academy Sciences"
+    },
+    {
+        "progweb_cat": "Environment",
+        "api_name": "Terracycle",
+        "id": 5396,
+        "progweb_descr": " Terracycle API allow application developer give end user access Terracycles waste collection service Terracycle international upcycling recycle company collect difficulttorecycle packaging product repurposes They work 100 major US brand 22 country collect use packaging product prevent end landfill Please contact Terracycle use API Users API get account shipment language location information also information specific waste collection program call Brigades"
+    },
+    {
+        "progweb_cat": "Environment,Transportation",
+        "api_name": "CNGnow",
+        "id": 8283,
+        "progweb_descr": " CNGnowcom website dedicate spread information natural gas vehicle benefit Compressed Natural Gas CNG CNGnow Station Data API expose crowdsourced station data free API delivers station information name address payment option PSI operate hour last reported price phone number Calls specify particular station search location keyword"
+    }
+]

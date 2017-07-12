@@ -1,0 +1,1622 @@
+[
+    {
+        "progweb_cat": "Email,Protocol",
+        "api_name": "Amazon SES",
+        "id": 15,
+        "progweb_descr": " Amazon Simple Email Service SES provide cloudbased email service Amazon SES simplify send email application host service Amazon EC2 Because email service often use spammer Amazon SES provide user quota EC2 user send 2000 email per day free service allow developer send either raw email format email use Amazons SMTP servers Any spam complaint issue bubble back developer Similar Amazon Web Services Amazon SES charge per gigabyte transfer system"
+    },
+    {
+        "progweb_cat": "Email,Protocol",
+        "api_name": "SendGrid SMTP",
+        "id": 12929,
+        "progweb_descr": " SendGrids cloudbased email help keep email spam folder provide cloud service scale email demand provide email analytics track open click SendGridâ€™s SMTP API allow developer deliver custom handle instruction email Functionality include add recipient set email category set filter setting"
+    },
+    {
+        "progweb_cat": "Email,Protocol",
+        "api_name": "Postmark",
+        "id": 15188,
+        "progweb_descr": " Delivers track transactional email web application Replaces SMTPsendmail server provide reliable scalable environment In addition track statistic number email sent bounce spam complaint API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Email,Protocol",
+        "api_name": "Email Yak",
+        "id": 15195,
+        "progweb_descr": " Send receive email application via Email Yak API Just update MX record begin create email account user email receive message JSON XML Uses Web Hooks provide new message application"
+    },
+    {
+        "progweb_cat": "Email,Protocol",
+        "api_name": "PostageApp",
+        "id": 15541,
+        "progweb_descr": " PostageApp make easy design deliver manage email web apps Use HTML CSS email template customize personalize email content message variable learn engagement email analytics API use RESTful interface send message response format JSON Developer library also available Ruby Rails PHP CakePHP CodeIgniter NodeJS along many thirdparty create plugins language framework"
+    },
+    {
+        "progweb_cat": "Email,Customization",
+        "api_name": "RapLeaf",
+        "id": 29,
+        "progweb_descr": " personalization API provide simple interface rich data consumer Developers use data provide API create personalized experience consumer Query email address get Age Gender Location free unlimited access Use information recommend well content deliver relevant email message understand best customer analytics"
+    },
+    {
+        "progweb_cat": "Email,Customization",
+        "api_name": "Litmus Customer",
+        "id": 5980,
+        "progweb_descr": " Litmus Customer API let developer access Litmus service programmatically Only customer subscription Litmus access API Litmus software company offer business individual way test track email"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Yahoo Mail",
+        "id": 141,
+        "progweb_descr": " Yahoo Mail Web Service API fullfeatured interface Yahoo Mail With build application display message summary information parse message content manage folder even compose send message Web Service use OAuth authentication access mailbox content"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Mandrill",
+        "id": 469,
+        "progweb_descr": " Mandrill email application email template service host MailChimp Mandrill API allow developer access integrate functionality Mandrill application create new application Some example API method include manage account user information retrieve sending message send template"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Gmail",
+        "id": 598,
+        "progweb_descr": " Googles Gmail API give developer access Gmail mailbox ability send email API allow user perform CRUD operation email message attachment draft thread label Supported functionality include ability manage thread label use advanced search operator find filter specific message thread sync Gmail without track change internally Gmail API RESTful responses JSON use OAuth 20 authorization"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Mailgun",
+        "id": 812,
+        "progweb_descr": " Mailgun email management API use RESTful call response format JSON API authenticate API Key HTTP Basic Auth Use Mailgun thing like send email automate email service receive realtime notification app Mailgun also offer email track analytics Note default version API v3 V3 backward compatible v2 endpoint behavior modify See documentation full detail late Mailgun API version"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "WhatCounts",
+        "id": 1644,
+        "progweb_descr": " From site WhatCounts leader comprehensive ecommunication program leverage power target permissionbased email message interactive twoway dialogue personalize content syndication RSS extensive marketing service"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "SmtpJS",
+        "id": 2640,
+        "progweb_descr": " SmtpJS API allow developer send email website JavaScriptbased client via embedded JavaScript code This circumvents need custom backend send email This API provide free commercial noncommercial use without restriction Any account report spam ban"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Rebelmail User",
+        "id": 2946,
+        "progweb_descr": " This API allow send interactive email application immediately email work major client include iOS Mail Apple Mail Gmail Yahoo Android Rebelmail provide way make email interactive require plugins currently support SendGrid Mandrill SailThru Mailgun ESPs"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "EasySendy Pro",
+        "id": 3576,
+        "progweb_descr": " Send target email monitor subscriber ’ segment send personalize email segment list This Json XML base API allow customize deliver large email campaign use multiple SMTP relay server choice"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Varmail",
+        "id": 4147,
+        "progweb_descr": " Varmail API give developer ability POST email inboxes programmatically allow integrate function project applications This API offer free charge Varmail API work anywhere HTTP setup design brief"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "DirectToMX",
+        "id": 4886,
+        "progweb_descr": " DirectToMX REST SOAP API allow developer access integrate functionality DirectToMX application main API method send email DirectToMX platform send email bypass ISPwebhosts SMTP server"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Tipimail",
+        "id": 4904,
+        "progweb_descr": " Tipimail API enable user access account Tipimail email delivery service application websites platform With API user retrieve data send email set account Tipimail use create template customize email content Users may use email address domain"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "MailHops",
+        "id": 5324,
+        "progweb_descr": " MailHops API email route API plugin This API let developer get sender route message travel get recipient It also let check blacklist weather geoip sender MailHops email service let user route message"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "InboxApp",
+        "id": 7108,
+        "progweb_descr": " Inbox tool compiles mail carrier single easy use web service It streamline email experience give add control collection catalogue process Inbox RESTful API allow one access modify filter incoming mail popular provider like Gmail Microsoft Exchange Old protocols IMAP MIME thus problem use Inbox API Mailbox API use Threads Tags delineate classify object enterprise compatible"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "SMTP.com",
+        "id": 10215,
+        "progweb_descr": " SMTPcom independent provider outbound email delivery service marketing enterprise personal application Their RESTful public API provide function retrieve information successful delivery bounce queue size spam complaint well detailed delivery log Realtime delivery feedback set immediate bounce spam complaint notification"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Royal Mail E*Pro",
+        "id": 11742,
+        "progweb_descr": " NO DESCRIPTION"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "InboxFever",
+        "id": 12380,
+        "progweb_descr": " service enables send receive email along feedback function monitor communication success include creation processing email open rate link click within message bounce rate deferral related statistic API method support send email include recipient address list subject line message body etc well retrieve reply inbound email Reporting method allow access statistic like message send receive open bounce rate link click etc"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Critsend",
+        "id": 12381,
+        "progweb_descr": " service provide email message management include send message define recipient list receive message report inbound outbound traffic A tagging function allow categorization message select special management Customizable report allow monitor send message bounce message response rate click rate recipient response API method support define send outbound mail include recipient list message body file attachment etc Methods also handle inbound mail selective automate reply redirect human response Reporting method provide traffic summary statistic recipient response alert system event"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "DeliveryWatch",
+        "id": 12386,
+        "progweb_descr": " service monitor European email traffic provider report statistic delivery rate uptime spam filter place related measure It provide notice email delivery via large selection internet service provider blacklist monitor update sender tag sender spam API method support retrieval email delivery performance ISPs worldwide along updated report spam filter configuration block sender list Methods allow target report specific recipient domains filter lead spam monitor"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "FuseMail",
+        "id": 14555,
+        "progweb_descr": " FuseMail business email host company also provide hosted email campaign solution FuseMail also provide API developer administer FuseMail account API use HTTPHTTPS call create delete edit email account information"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Data8 Email Validation",
+        "id": 14557,
+        "progweb_descr": " Data8 UKs premier data solution provider range data cleanse postcode lookup data validation service ultimately improve way business communicate customer Email validation API let user avoid type error check email address real time enter Identify correct error username domain part address API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Google Apps Profiles Data",
+        "id": 15511,
+        "progweb_descr": " Profiles Data API allow client application retrieve update profile information user Google Apps domain Each user profile store own user Google Account modify administrator user domain Only available Google Apps Premier Education Partner Editiondoes work Google Apps Standard Edition Gmail profile"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "IntelliContact",
+        "id": 15558,
+        "progweb_descr": " From site IntelliContact allow business nonprofit organization association easily create send track email newsletter survey blogs autoresponders RSS feed IntelliContact API enable advanced user create application plugins easily safely interact IntelliContact Using API application perform service IntelliContact behalf user authorize"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Publicaster",
+        "id": 15568,
+        "progweb_descr": " WhatCounts Publicaster Edition lead webbased email marketing solution WhatCounts offer full suite tool design execute track email marketing communication Learn Publicaster take email marketing next level"
+    },
+    {
+        "progweb_cat": "Email",
+        "api_name": "Mailbuild",
+        "id": 15824,
+        "progweb_descr": " From site Put client back drive seat let create send great look email inhouse Once design template client easily add content select recipient schedule delivery time MailBuild API allow client perform range operation account include addition removal subscriber list"
+    },
+    {
+        "progweb_cat": "Email,OAuth",
+        "api_name": "Google Gmail OAuth",
+        "id": 189,
+        "progweb_descr": " Google Gmail support standard IMAP SMTP protocols access send email message Gmail IMAP SMTP server extend support authorization via industrystandard OAuth protocol This allow third party application access user email account permission"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "SendGrid",
+        "id": 202,
+        "progweb_descr": " SendGrids cloudbased email help keep email spam folder provide cloud service scale email demand provide email analytics track open click SendGrid Web API allow customer retrieve information account statistic bounce spam report unsubscribes information In addition Web API allow customer create subaccounts control settings account OEM setup With SendGrid API developer Get realtime web hook event bounce click unsubscribes Send multiple email customize plugins Access parse incoming emails attachment Write plugins alter email deliver medium Manage subscription resellers subusers"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "INinbox",
+        "id": 2795,
+        "progweb_descr": " Developers use INinbox API build email marketing solution It optimize delivery email inbox destination target recipient API ’ provider also offer complimentary feature include professional email template track analytics automate responder This API transmit XML JSON format request responses Its authentication require HTTP Basic OAuth API Key"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "Rebelmail",
+        "id": 2947,
+        "progweb_descr": " Rebelmail API provide interactive email feature mobile device Templates campaign report available JSON format endpoint resource perform callback"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "EmailLabs",
+        "id": 3062,
+        "progweb_descr": " EmailLabs API integrate email analytics aim filter target message avoid spam It available REST HTTP format HTTPS protocol JSON response"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "Pepipost",
+        "id": 4554,
+        "progweb_descr": " With Pepipost API connect Pepipost CMS application server blog platform instant send transactional mail custom develop HTTP API send 1000 email per API call Since single API call suffice multiple email address reduce bandwidth cost significantly In addition track statistic number email sent bounce spam complaint Pepipost reliable scalable email delivery engine"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "SparkPost",
+        "id": 6813,
+        "progweb_descr": " SparkPosts API enable client application integrate SparkPost perform action associate send analyze email"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "MailTracker",
+        "id": 7508,
+        "progweb_descr": " MailTracker provide realtime email track service let user know device long many time email view MailTracker provide information Gmail Yahoo Google Apps Business Hotmail custom SMTP account Users integrate MailTracker via API"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "Customer.io",
+        "id": 9443,
+        "progweb_descr": " Customerio help business effectively reach maintain customer improve email campaign Customerio API allow developer integrate Customerio RESTful interface In addition manage customer profile API allow 3rd party application send behavioral event customerio This writeonly API support HTTPS POST call require API Key"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "Clickmeter",
+        "id": 11315,
+        "progweb_descr": " service monitor responses recipient market communication allow evaluation comparison effectiveness It detect click event promotional email online marketing resource estimate overall traffic volume report conversion event result communication It also detect clickfraud evaluate reliability traffic analytics API method support create link allow traffic monitoring include link specifically conversion event specific campaign specific languages element overall marketing campaign Methods also support retrieval link specific URL pattern allow aggregate detailed reporting traffic log"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "Mailing Report",
+        "id": 11852,
+        "progweb_descr": " Mailing Report API allow user sync Mailing Report service exist CRM ecommerce system CMS customer database API accessible use HTTPHTTPS GET POST request With API user manage contact email campaign mail list among function"
+    },
+    {
+        "progweb_cat": "Email,Analytics",
+        "api_name": "SendGrid Event",
+        "id": 12532,
+        "progweb_descr": " SendGrids cloudbased email help keep email spam folder provide cloud service scale email demand provide email analytics track open click Event API use hook send realtime notification email event click open bounce deliver drop spam report etc specify URL It integrate SMTP API notification custom parameter use email campaign information collect log server pull manipulate user Data also receive via HTTP POST event batch event JSON format"
+    },
+    {
+        "progweb_cat": "Email,Business",
+        "api_name": "MailChimp",
+        "id": 209,
+        "progweb_descr": " Mailchimp API sync campaign stats subscriber information MailChimp database It help download list unsubscribes clean inhouse list build client portal pull campaign stats MailChimp Available REST architecture JSON XML format addition Serialized PHP XMLRPC"
+    },
+    {
+        "progweb_cat": "Email,Business",
+        "api_name": "Context.IO",
+        "id": 837,
+        "progweb_descr": " Mailboxes contain year important conversation business information yet easy way developer find use information This ContextIO Its miss API turn mailbox data source developer leverage Users also get webbased preview attachment get version history attach file get list insertion deletion two version attachment API read It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Email,Business",
+        "api_name": "RapLeaf Utilities",
+        "id": 14643,
+        "progweb_descr": " RapLeaf allow business personalize online content user aggregate public information available online data offline source Utilities API contain tool use data normalization deduction Rapleaf use internally data process workflow tool include return gender base name deduce name email address username normalizing part name name string API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Email,Business",
+        "api_name": "SocketLabs Email On Demand",
+        "id": 15027,
+        "progweb_descr": " SocketLabs offer cloudbased email delivery solution Email On Demand API allow developer integrate application realtime data platform data retrieve include account info list email message send receive well fail It RESTful API data return either XML JSON JSONP CSV format"
+    },
+    {
+        "progweb_cat": "Email,Business",
+        "api_name": "ActiveCampaign",
+        "id": 15064,
+        "progweb_descr": " ActiveCampaign REST API allow developer access integrate functionality ActiveCampaign applications Some example API method include manage account connection manage eCommerce customer manage eCommerce order ActiveCampaign email marketing eCommerce sale platform"
+    },
+    {
+        "progweb_cat": "Email,Enterprise",
+        "api_name": "Google Apps Email Migration",
+        "id": 307,
+        "progweb_descr": " From site Google Apps Email Migration API allow administrator user Google Apps migrate mail legacy email system domain host Gmail account Note This API available Google Apps Premier Education Partner Edition domain use migration Google Apps Standard Edition email Gmail account"
+    },
+    {
+        "progweb_cat": "Email,Enterprise",
+        "api_name": "Google Email Settings",
+        "id": 761,
+        "progweb_descr": " Google Email Settings API let Google Premier Education Edition administrator programmatically update Gmail setting user bulk make request GData feed Applications use API set label filter signature vacation responder aliases interface language email forward POP IMAP setting"
+    },
+    {
+        "progweb_cat": "Email,Enterprise",
+        "api_name": "Upaknee",
+        "id": 3103,
+        "progweb_descr": " Upaknee API integrate email communication enterprise target mobile development It available REST interface resource parameter endpoint Token require authenticate Upaknee email marketing platform"
+    },
+    {
+        "progweb_cat": "Email,Enterprise",
+        "api_name": "Drip",
+        "id": 8338,
+        "progweb_descr": " Drip email marketing service design capture contact information website visitor use optin form These form require user make style choice theyre ready go Users customize automated email contact sequence base blog post ebooks use Drips premade sequence blueprint Drips optin form insert website use snippet JavaScript code"
+    },
+    {
+        "progweb_cat": "Email,Enterprise",
+        "api_name": "SubscriberMail",
+        "id": 15688,
+        "progweb_descr": " Use API access SubscriberMail feature programmatically Email template list management email campaign track email marketing service available"
+    },
+    {
+        "progweb_cat": "Email,Enterprise",
+        "api_name": "ExactTarget",
+        "id": 15858,
+        "progweb_descr": " Suite five API product ETXML XML HTTP base API REST ETWS Web service base API Beta ETBatch Bulk data transfer large data set ETScript Conditional behavior within email Content Syndication Inject content site content management system ExactTarget email Note developer guide require customer partner account access"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "ConstantContact",
+        "id": 511,
+        "progweb_descr": " Integrate software Email Marketing Constant Contact Our API allow seamlessly integrate industryleading Email Marketing service Today 300000 small business organization rely Constant Contactï¿½s Email Marketing help drive success Our API allow manage email contact contact list report data Also view email marketing campaign result include email contact mail opened email click URL link email"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Campaign Monitor",
+        "id": 755,
+        "progweb_descr": " Campaign Monitor API allow user interact sync Campaign Monitor account via simple webbased method Common use API include Automatically sync subscriber Campaign Monitor third party tool Create send custom email campaign segment subscriber build fly Develop useful plugins integration like guy popular apps Automatically create client account set bill load readytosend templates API use RESTful protocol response format XML JSON"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "18amail",
+        "id": 1245,
+        "progweb_descr": " An API remotely connect 18amailcouk email marketing service Quick simple hook exist membership base website populate 18amail mailing list Then send track email newsletter"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "VerticalResponse Webhooks",
+        "id": 1662,
+        "progweb_descr": " VerticalResponse Webhooks API provide way client application create maintain hook subscription REST API Webhooks create VerticalResponse use create update delete list Webhooks create This require use client id access token would VR API VerticalResponse Webhooks implementation support follow three event Contact Create Contact Unsubscribe Uploading list contact VerticalResponse develop email marketing solution Social Media Marketing create send track email social post every device"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Zender",
+        "id": 4100,
+        "progweb_descr": " Zender offer cloud base email delivery service It support SMTP HTTP Zender API REST base return data JSON format This API require registration access documentation Zender API provide Sharptag business software development firm locate Lebanon"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Mailrelay",
+        "id": 4379,
+        "progweb_descr": " Mailrelay API allow implement email marketing service application It provide JSON format Api Key authentication Functions demonstrate send email create campaign manage subscriber Mailrelay email market platform base Madrid Spain"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "HubSpot Email Events",
+        "id": 5478,
+        "progweb_descr": " HubSpot Email Events API allow developer integrate Hubspot marketing software application enable user access information regard email lifecycle recipient interact content HubSpot inbound marketing software platform provide company way attract visitor convert lead close customer"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "GraphicMail",
+        "id": 5829,
+        "progweb_descr": " Use GraphicMail API integrate email marketing exist CRM marketing strategy GraphicMail use basic POST GET request HTTPS API accessible HTTP Manage subscriber send preview email newsletter generate report API GraphicMail available 13 language 25 country"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "HubSpot Email",
+        "id": 5981,
+        "progweb_descr": " HubSpot Email API allow developer integrate Hubspot marketing software application enable user access listing subscriptionrelated change affect HubSpot Portal HubSpot inbound market software platform provide company way attract visitor convert lead close customer"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Mailee.me",
+        "id": 7048,
+        "progweb_descr": " Maileeme email marketing service offer monitor email receiver company aim provide consumer insight goal create target marketing campaign Developers integrate Maileeme online application REST API require access key main benefit API email marketing keep contact sync In site developer review tutorial They also access code library available Java PHP Ruby Python ObjectiveC Windows 8 NET"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Campayn",
+        "id": 7380,
+        "progweb_descr": " Campayn email marketing service allow user create share track email newsletter Users design email scratch use one Campayns templates Templates automatically adjust recipeints device software everything appear intend Users may also import organize contact list create simple signup form enable social share via button Campayns report track whether recipient open email click link share receive email Campayn API allow user retrieve manage contact contact list form email"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Maxi Response",
+        "id": 8361,
+        "progweb_descr": " Maxi Response email marketing service allow run email marketing campaign help manage subscriber list create custom email template run deliverability audit Maxi Response provide simple REST API part Transactional Email Gateway service Transactional Email Gateway simple fast email delivery service allow reliable delivery email marketing newsletter single recipient transactional email detailed delivery statistic API documentation available upon signup service"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Copernica",
+        "id": 8420,
+        "progweb_descr": " Copernica service create run track email SMS marketing campaign It help user collect information contact use web form survey send mailing recipient file Users may also filter recipient interest purchase activity Copernica set automate targeted multichannel campaign contain series personalize message Detailed statistic provide mail sent Copernica come variety generic integration user may also create custom integration use Copernica SOAP API"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "MailerSoft",
+        "id": 8522,
+        "progweb_descr": " MailerSoft email marketing service provide effective easy use tool market professional service enable marketer launch successful email marketing campaign offer custom design newsletter subscriber management tool reliable server detail newsletter report MailerSoft offer REST API programmatic access MailerSoft service Example API method include Campaigns Lists Subscribers All responses JSON format API key require"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "sendwithus",
+        "id": 8603,
+        "progweb_descr": " Sendwithus create tool make transactional mail effective efficient marketer Services include AB test support user analytics sendwithus API provide email templating SendGrid Mailgun Mandrill Amazon SES Developers write code let marketer update content need"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Sendmachine",
+        "id": 8672,
+        "progweb_descr": " Sendmachine email marketing service help streamline mail campaign Sendmachine rout message subscriber inbox You use Sendmachine follow subscriber reaction message analyze result improve effectiveness communication process Sendmachine service programmatically accessible via REST API API resource include contact list sender account webhooks Authentication provide via Basic HTTP Auth"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Happy Grasshopper",
+        "id": 8700,
+        "progweb_descr": " Happy Grasshopper email marketing service provider write delivers fun friendly message Happy Grasshopper require contract setup cancellation fee feature 100 money back guarantee Happy Grasshopper API provide programmatic access service API support action retrieve previously send email retrieve user contact data manage user profile much"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Vero",
+        "id": 8772,
+        "progweb_descr": " Vero help user run behavioral email campaign send email customer base action Some situation service preconfigured respond include customer leave checkout without buy product cart customer return site 30 day customer sign without inputting key metric Vero user also create situationally appropriate response scratch"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "ubivox",
+        "id": 9027,
+        "progweb_descr": " Ubivox email marketing service allow design write send professional newsletter use internet browser Ubivox help avoid spam filter collect bounce email handle subscription unsubscription request collect statistic newsletter Ubivox API use XMLRPC protocol basic HTTP authentication API method include email medium data import subscriber account webhook target subscription system delivery"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "MyBizMailer",
+        "id": 9101,
+        "progweb_descr": " MyBizMailer email marketing service design business size It make allow marketer little technical experience manage emailbased marketing strategy sale promotional campaign MyBizMailer provide HTML email template custom signup form free image host Users email send certain subscriber base subscriber information They also create followup email automate trigger send email without manual interference"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "EmailOutbound Email List",
+        "id": 9214,
+        "progweb_descr": " EmailOutbound company provide business database email marketing solution One company offering Email List provide email marketing service email template builtin spam checking inbox preview autoresponders action trigger contact list import Email List come API allow developer add remove contact retrieve update contact detail search list give contact"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "MailerMailer",
+        "id": 9247,
+        "progweb_descr": " MailerMailer service help user run emailbased marketing campaign newsletter It use create import list recipient automatically remove bounce unsubscribes invalid email address MailerMailer also provide editor create professional visuallyappealing email message scratch template Legally required feature unsubscribe link automatically include MailerMailer also provide user metric number open click bounce signups unsubscribes complaint email receive It use several authentication technology reassure ISPs user email message legitimate improve rate successful delivery Developers connect MailerMailer websites application via XMLRPC API"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Campaigner Elements",
+        "id": 9566,
+        "progweb_descr": " Campaigner email marketing service provider One offering Campaigner Elements API provide programmatic mean user manage subscriber group contact content email campaign well download metric report These function allow user automatically integrate external data Campaigners system develop custom application use Campaigner function data"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "EmailOnAcid",
+        "id": 9590,
+        "progweb_descr": " Email On Acid selfserve email test platform aim help user email marketing campaign target improve renderability deliverability clickthroughs Email On Acid API provide user complete control customer workflow item include Email Previews Deliverability Testing Developer Tools API use REST call account required service"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Sendicate",
+        "id": 9730,
+        "progweb_descr": " Sendicate email marketing application Sendicate allow user create send email marketing campaign track data open click Sendicate API allow developer access integrate functionality Sendicate application Some example API method include retrieve contact list send campaign manage account information"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Delivra",
+        "id": 9834,
+        "progweb_descr": " Delivra email marketing software firm also provide professional consulting design service client Customers integrate application Delivras software use Delivra API Through API user manage account setting mail list membership email template subscription schedule mailing They also record website activity result mail retrieve history bounce clickthroughs unsubscribes result"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Klaviyo",
+        "id": 9857,
+        "progweb_descr": " Klaviyo email marketing service allow company send targeted transactional email audience Klaviyo API allow developer access integrate functionality Klaviyo applications Some example API method include retrieve manage event manage account information retrieve analytics data email marketing campaign"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Listrak",
+        "id": 9895,
+        "progweb_descr": " service provide email marketing function create implement monitor success campaign communicate customer recipient Integration ecommerce back office system ERP CRM allow extend communication base transaction event promotional communication select filtered address list Responses email interaction also populate customer record develop enhanced profile customer preference time API method allow selection email address list submission email body text link format track display templates Methods support track report campaign effectiveness ongoing log response conversation customer Contact management method include subscribe unsubscribe request"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Userfox",
+        "id": 10016,
+        "progweb_descr": " Userfox email management platform allow user manage emails create manage email campaign newsletter access email account one dashboard Userfox API allow developer access integrate functionality Userfox application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "AcyMailing",
+        "id": 10019,
+        "progweb_descr": " AcyMailing email marketing service enables create email marketing campaign powerful statistic build real automatic email system entire website allow user keep subscriber create link business AcyMailing API allow user get subscription via url get AcyMailing mail list insert user subscribe remove user list create newsletter insert e0mail queue"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "emailR",
+        "id": 10136,
+        "progweb_descr": " EmailR webbased email marketing software enable user professionally manage multilingual email marketing campaign without knowledge program Users host image emailR server use predefined personalized template create work multiple account load contact directly remote CRM system retrieve statistical result campaign By use emailR API user create manage campaign exist application connect emailR remote application collect information"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Real Magnet",
+        "id": 10481,
+        "progweb_descr": " service provide blast email promotional campaign message mobile social network access Campaigns target message specify recipient list deliver format email support SMS text social platform message potential survey response Reporting function help track message delivery effectiveness provide metric assess campaign effectiveness API method support integration message functionality application include popular customer relationship management CRM association management system AMS Methods also support access metric analysis reporting function"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "DirectIQ",
+        "id": 10573,
+        "progweb_descr": " DirectIQ email marketing SaaS target small medium business service offer contact management template creation email campaign delivery campaign report API offer full access functionality allow developer integrate application API use SOAP call response format XML"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Alterian Dynamic Messenger",
+        "id": 11726,
+        "progweb_descr": " Alterian help organization engage audience integrate marketing software platform Alterian platform combine campaign management web content management email social medium monitoring tool Alterian Dynamic Messenger let marketer manage multiple email campaign effort increase interaction customer It incorporate analytics engagement campaign management content management social medium monitor online response management email deployment All functionality Dynamic Messenger available via web service API Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "SmartSource",
+        "id": 11902,
+        "progweb_descr": " SmartSource proivder emarketing application email delivery service include development host management SmartSource API allow developer integrate email delivery service exist application These service include dedicated domain IP address ISP relation management broadcasting status check management track optouts complaint Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Ongage",
+        "id": 12117,
+        "progweb_descr": " Ongage email marketing platform Ongage platform allow user use multiple email service provider reach audience base geography characteristic Ongage API allow developer integrate functionality Ongage application Ongage API allow full control email send management report Public documentation available API access available service"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "EmailBrain",
+        "id": 12201,
+        "progweb_descr": " service provide management blast email newsletter communication customer recipients It provide management subscriber base address book well manage message content display templates track delivery click traffic optinoptout selection Bulk SMS text messaging also support API method support create message schedule delivery exist updated address list Methods also support interaction service backend system like customer relationship management CRM similar database This integrate personalized message customer record similar repository contact information"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Direct Mail Manager",
+        "id": 12246,
+        "progweb_descr": " Direct Mail Manager direct mail marketing service Business employ service provide audience marketing postcard Direct Mail Manager system integrate usersâ€™ business software CRM database payment solution software Manager come dashboard reporting function campaign assessment Their API RESTbased way business import retrieve customer information design software integrative purpose All response return XML"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Inbox25",
+        "id": 12389,
+        "progweb_descr": " service provide hosted email marketing campaign management bulk message delivery message creation format host file attachment image performance track It provide tools manage subscriber list address bounce message notification mail list grouping subset It also allow campaign definition list track success monitor API method support add remove subscriber assign subscriber list accord campaign messaging strategy Methods also support track message send delivery open rate click rate bounce address unsubscribe request"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "EmailValidate",
+        "id": 12924,
+        "progweb_descr": " service validates email address via syntax analysis lookup MX record check SMTP availability It review submit address list validates entry without send email recipient allow cleanup list risk damage customer relationship API method support submission email address return response code message Responses specify validity address syntax validity MX record SMTP availability"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Emailvision Campaign Commander",
+        "id": 13092,
+        "progweb_descr": " Emailvision provider SaaS campaign management solution email mobile social marketing These service use automate work user run manage marketing campaign effectively Campaign Commander software let user perform aspect email market Users view report analytics plan campaigns manage portfolio advance task involve segmentation strategy trigger marketing integrate email social campaign much Campaign Commander also support management execution campaign 16 different language API suite allow marketer reuse exist customer data store CRM ERP SFA inhouse application within Campaign Commander send target email marketing campaign client suite include campaign management API notification message API realtime data synchronization API Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "StoreMail",
+        "id": 13115,
+        "progweb_descr": " StoreMail email marketing solution online retailer capture customer email address checkout In addition StoreMail integrate online shopping cart product catalog order history This give retailer tool need put together customize highlytargeted newsletter autoresponders StoreMail API set web service may use work contact segment newsletter API use SOAP HTTP protocol response format"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Mailup",
+        "id": 13132,
+        "progweb_descr": " service enables broadcast email include create message manage campaign address list User content flow provide template employ usersupplied html format It help coordinate email message social medium involvement provide report track tool monitor campaign activity API method support basic content upload message send well management address list include opt inopt message send status Available method handle SMS message social medium post"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "eMarketeer",
+        "id": 13134,
+        "progweb_descr": " service provide multichannel marketing campaign management automate message coordinate across channel Combines control email SMS social medium web message integrate promotional campaign customer interaction An open platform architecture allow integration external system multiple point customized implementation API method support coordinate message distribution via email SMS channel Methods also give access contact management function creation update deletion group individual contact communication list"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Little Green Plane",
+        "id": 13135,
+        "progweb_descr": " mix service UK email marketing agency emphasize html message format contact address list management flexible delivery option extensive report success metric isendhq API enables development customize interface campaign management API method support contact list management unsubscribe optout filter Control message send option include message channel content display template schedule Reporting method cover click count open count bounce related statistic"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Topica",
+        "id": 13459,
+        "progweb_descr": " Topica email marketing service Topica offer customer feature like create HTML email campaign signup form website campaign report automatic email subscription Topica API allow developer access subscription functionality Topica integration application sit API method allow email subscription management add delete email address export subscriber list"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "CampaignCog",
+        "id": 13880,
+        "progweb_descr": " CampaignCog email campaign service Users send emails list track emails metric many people open email forward email many people read email CampaignCog API allow developer access functionality data CampaignCog Public documentation available interested developer contact hellocampaigncogcom access"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Movable Ink",
+        "id": 13953,
+        "progweb_descr": " Movable Ink service allow regular email contain live updating information web Email marketing dynamic service also use type email live information useful Movable Ink API available pay plan allow developer programmatically add new content live email well access statistic email content within API RESTful return JSON A plan pay 49 per month require API access"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "MyNewsletterBuilder",
+        "id": 14038,
+        "progweb_descr": " MyNewsletterBuilder delivers email marketing service company individual Among free service offer image host multimedia stream online newsletter publish survey track tool data archive MyNewsletterBuilders API give user ability integrate available service exist system Users transfer data CRM CMS shopping cart custom databases API expose functionality access manipulate information campaign generate list campaign get base information html text content access detailed campaign report API use RESTful XMLRPC protocol response format XML JSON serialize PHP"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Fractal",
+        "id": 14118,
+        "progweb_descr": " Fractal service test HTML email major email client automatically fixes common problem block HTML email make HTML email unreadable Fractal test validates HTML email CSS property 24 email client fix know quirk email client Fractal API allow developer integrate Fractals functionality application Some example API method include validate HTML email fix bug quirk HTML email check link HTML email"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Emailloop",
+        "id": 14138,
+        "progweb_descr": " Emailloop API let user connect sync database application EmailLoop account Push content subscriber EmailLoop pull campaign report update subscriber list EmailLoop Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "CakeEngine",
+        "id": 14205,
+        "progweb_descr": " CakeEngine Montréalbased email marketing service platform marketing agency freelance designer software developer CakeEngine easily customize brand extended wide array thirdparty addons build addons CakeMail API"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "CleverReach",
+        "id": 14353,
+        "progweb_descr": " CleverReach provide software service help company send emails manage receiver list well track analyze email campaign CleverReach API enable user synchronize CMS CRM eCommerce system CleverReach Developers build application connect account API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Emma",
+        "id": 14506,
+        "progweb_descr": " Emmas Web Services suite allow client software access many Emmas audience responsetracking feature Emma offer two level API integration first Remote Signup feature whereby user bypass Emmapowered signup form create signup form link Emma account Web Services allow high level synchronization user database Emma database API allow functionality Add delete member field Emma emailmarketing database mirror structure master database Add edit delete group mirror master database groupslists move people group group Add edit delete member record Emma database reflect change Retrieve overall stats email campaign merge broad campaign report API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "StreamSend",
+        "id": 14507,
+        "progweb_descr": " StreamSend API use RESTful architecture allow direct connectivity core account feature via program language PHP Net Perl Ruby Rails Responses format XML StreamSend offer email marketing software API allow user follow capability Export profile subscriber analytic data Track campaign analytics via inhouse application Remotely deploy email communication via external Content Management System Automate email subscription removal process Incorporate StreamSend functionality one single login bundle rebrand resell core StreamSend feature one Graphical User Interface"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Mail Monitor",
+        "id": 14627,
+        "progweb_descr": " Mail Monitor collect data generate report via email seed You use API integrate reporting data email campaign delivery stats application Mail Monitor allow get accurate delivery report marketing email test email spam filter get valuable feedback improve inbox delivery"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Sendloop",
+        "id": 14692,
+        "progweb_descr": " Sendloop email marketing list management service design small business Key feature include integration major service platforms analysis reporting full feature API developer Sendloop API make integration Sendloop third party application websites possible With help Sendloop API get data Sendloop without visit Sendloop user interface You gather data Sendloop API populate use system There endless possibility thing Sendloop API You develop desktop application mobile application website etc"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "GetResponse",
+        "id": 14843,
+        "progweb_descr": " GetResponse fullfeatured email marketing solution Send newsletter survey followup GetResponse API let go advanced mail merge operation full set method put GetResponse interface integrate inhouse application databases ecommerce shopping cart CRM CMS system GetResponse API provide access account campaign message contact link blacklist confirmation Both request response format JSON"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "SendLabs",
+        "id": 14920,
+        "progweb_descr": " A SOAPbased Email Marketing API SendLabs API allow developer create application around tool provide SendLabs"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "UCRUX",
+        "id": 15178,
+        "progweb_descr": " UCRUX email marketing API let developer user synchronize application UCRUX email marketing system UCRUX offer example PHP NET feature RESTful protocol return data via XML format"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Net Atlantic",
+        "id": 15181,
+        "progweb_descr": " Net Atlantic offer featurerich email marketing solution necessary tool create send track manage email marketing campaign successfully Increase email marketingâ€™s performance powerful campaign tool realtime report track expert deliverability management responsive technical support Advanced feature combine easytouse interface costeffective pricing allow organization sizes drive business enhance loyalty email marketing"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Benchmarkemail",
+        "id": 15242,
+        "progweb_descr": " Integrate software Email Marketing Benchmark Email Our API allow integrate database program Email Marketing service Users manage subscription message content system may use API transfer data internal system Benchmark Email account"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "iContact",
+        "id": 15390,
+        "progweb_descr": " iContact API feature iContact capability help user build email marketing application It design ground easy use flexible powerful Some feature include synchronization data statistic"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Mad Mimi Mailer",
+        "id": 15475,
+        "progweb_descr": " Mad Mimis Mailer API let user use Mad Mimi send transactional email like welcome letter password reset account activation It also use programmatically send promotional email audience list"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Bronto",
+        "id": 15549,
+        "progweb_descr": " Use Bronto API email marketing campaign integrate Bronto Brontos main site know reliability proactive customer service support"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "Contactology",
+        "id": 15786,
+        "progweb_descr": " Add power Contactology email marketing app CRM API call send transactional email custom content check statistic reader receipt bounce open clickthrough rate information Close loop webhooks update app event Contactology If want integrate value email creation delivery track report core product industryleading API come wrapper PHP Java Perl Ruby Python NET"
+    },
+    {
+        "progweb_cat": "Email,Marketing",
+        "api_name": "CakeMail",
+        "id": 15792,
+        "progweb_descr": " CakeMail API allow create maintain email marketing list You synchronize subscriber list automate email sending"
+    },
+    {
+        "progweb_cat": "Email,Advertising",
+        "api_name": "Mailjet",
+        "id": 903,
+        "progweb_descr": " Mailjet cloud host email platform Users create send email newsletter HTML emails well track transactional email email analytics Mailjet API allow developer access integrate functionality data Mailjet application Some example API method include add manage contact create email campaign retrieve email campaign statistic"
+    },
+    {
+        "progweb_cat": "Email,Advertising",
+        "api_name": "Byte Plant Email Validation",
+        "id": 8340,
+        "progweb_descr": " Byte Plant provide email process management service offer software service Email Address Online Validation API allow user Syntax verification DNS validation include MX record lookup Disposable email address DEA detection SMTP connection availability check Temporary unavailability detection Mailbox existence check CatchAll testingand Greylisting detection API use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Email,Advertising",
+        "api_name": "Createsend",
+        "id": 11976,
+        "progweb_descr": " Createsend service create manage email newsletter campaign It provide method manage subscriber well client client information Statistical information campaign record readily accessible Users may create manage newsletter templates All function accessible via SOAP call"
+    },
+    {
+        "progweb_cat": "Email,Advertising",
+        "api_name": "Mailigen",
+        "id": 12779,
+        "progweb_descr": " Mailigen email marketing system dedicate efficient communication business customer Users customize email template set contact list easily distribute email campaign Mailigen integrate system program use API XMLRPC"
+    },
+    {
+        "progweb_cat": "Email,Advertising",
+        "api_name": "mail2",
+        "id": 13641,
+        "progweb_descr": " mail2 Email Marketing API RESTbased email delivery track service allow user add email list management functionality application API allow user extend functionality application integrate email marketing component exist service Use mail2 API require installation Tessitura platform overall service provide mail2 tie Tessitura platform Tessitura focus identify patron segment base transactional history mail2 identify segment base patron engagement history This RESTful web service JSON response type mail2 API require account service API key access"
+    },
+    {
+        "progweb_cat": "Email,Newsletter",
+        "api_name": "Sendy",
+        "id": 1041,
+        "progweb_descr": " Sendy email newsletter application allow user send email newsletter selfhosted Users manage list create autoresponders manage send email newsletter Sendy API allow developer access integrate functionality Sendy application Current API method include import export email subscriber"
+    },
+    {
+        "progweb_cat": "Email,Newsletter",
+        "api_name": "XQueue Maileon",
+        "id": 8611,
+        "progweb_descr": " XQueue German email marketing technology company One product offer Maileon professional email newsletter creation send analytics platform It capable generate 100 million email per hour ensure customer receive newsletter time These newsletter make Maileons preexist email template user create Users also create distribution list filter recipient use variety criterion Maileons reporting service collect raw data metric send time delivery success convert graphical data representation Developers integrate XQueue Maileon apps service use REST API Code sample tutorial assistance provide API documentation available English German"
+    },
+    {
+        "progweb_cat": "Email,Newsletter",
+        "api_name": "Marketingship",
+        "id": 9166,
+        "progweb_descr": " Marketingship email marketing email newsletter service Organizations create manage track email marketing campaign Marketingship Marketingship API allow developer access integrate functionality Marketingship application Public documentation available interested developer contact infomarketingshipcom information"
+    },
+    {
+        "progweb_cat": "Email,Newsletter",
+        "api_name": "SendGrid Newsletter",
+        "id": 12930,
+        "progweb_descr": " SendGrids cloudbased email help keep email spam folder provide cloud service scale email demand provide email analytics track open click SendGridâ€™s Newsletter API allow user access data interact Newsletter App portion SendGrid product Developers ability manage Newsletters Lists Identities Schedule delivery event It use HTTP call response format JSON XML"
+    },
+    {
+        "progweb_cat": "Email,Canadian",
+        "api_name": "Data24-7",
+        "id": 1295,
+        "progweb_descr": " Data247s realtime API allow user retrieve emailtoSMS emailtoMMS gateway address wireless phone Data247 delivers realtime data phone carrier lookup emailtoSMS gateway solution caller name cname service With API user send bulk text picturetext message user send phone number return get two email address one emailtoSMS address text message emailtoMMS address picture text API use RESTful call response format XML API documentation available httpswwwdata247comdocsData247APIpdf New Data247 offer new API bypass voicemail greeting outbound call get straight beep leave message This save phone charge allow place call quickly EMAIL SUPPORT Our late API Email247 let lookup email address get back information owner age gender location interest financial status whether kid brand theyve purchase etc Prices start 0002 per lookup"
+    },
+    {
+        "progweb_cat": "Email,Design",
+        "api_name": "BeeFree",
+        "id": 1447,
+        "progweb_descr": " Bee free online email editor build responsive layout BeeFree API allow user integrate email editing feature application provide OAuth2 authentication JSON format initial interaction Developers initialize instance call endpoint Client ID Secret available developersbeefreeio With API user edit email design responsive message"
+    },
+    {
+        "progweb_cat": "Email,Domains",
+        "api_name": "EmailCrawlr",
+        "id": 1478,
+        "progweb_descr": " EmailCrawlr REST API allow developer access integrate functionality EmailCrawlr application API use find email address domain return social account email phone number full name job title API also use verify email deliverability EmailCrawlr API function find information associate email account"
+    },
+    {
+        "progweb_cat": "Email,Domains",
+        "api_name": "MailinatorPro",
+        "id": 8557,
+        "progweb_descr": " MailinatorPro service read manage control email entire domain Users access function use webbased Ajax interface POP3 IMAP REST API It note API method accessible low pricing level MailinatorPro method available price level"
+    },
+    {
+        "progweb_cat": "Email,Domains",
+        "api_name": "MxToolBox",
+        "id": 8613,
+        "progweb_descr": " MxToolBox allow user find whether give domain blacklist check IP address 105 DNSbased blacklist Users also verify reverse DNS record perform simple open relay check measure response time Developers use RESTbased MxToolBox API determine whether domain name email server blacklist"
+    },
+    {
+        "progweb_cat": "Email,Validation",
+        "api_name": "DataValidation",
+        "id": 1523,
+        "progweb_descr": " DataValidation API return email deliverability report estimate list quality analyze quality email address API accepts email list return detail data address JSON format API Key prefer authentication method DataValidation offer 1 free report purchase pay addressbyaddress result Token package bulk verification"
+    },
+    {
+        "progweb_cat": "Email,Validation",
+        "api_name": "Email Hippo Email Validation",
+        "id": 4709,
+        "progweb_descr": " Email Hippo offer email verification service API RESTful use GET method HTTP A test sandbox available developer Use Email Hippo detect role address free mail detection disposal detection See API documentation information sign free trial"
+    },
+    {
+        "progweb_cat": "Email,Validation",
+        "api_name": "MailboxValidator Single Validation",
+        "id": 4797,
+        "progweb_descr": " MailboxValidator Single Validation API program authenticate one email time API ’ result return JSON XML format This fullysupported API version provide documentation along operational parameter cod It accessible API key assignable upon sign single plan several plan among range six plan offer provider provider API lead vendor wide ranging product filter verify email address"
+    },
+    {
+        "progweb_cat": "Email,Validation",
+        "api_name": "Quick Email Verification",
+        "id": 5447,
+        "progweb_descr": " Quick Email Verification API access API Key This service provide email address syntax check domain check role address detection disposable email address detection REST API allow integrate email validation feature real time"
+    },
+    {
+        "progweb_cat": "Email,Validation",
+        "api_name": "Email YoYo Verification",
+        "id": 7872,
+        "progweb_descr": " API service Email YoYo use check validate email address realtime integrate email capture application like subscriber box registration process We able validate email address way user mailbox level You benefit keep fake email spammer incorrectly enter emails application list"
+    },
+    {
+        "progweb_cat": "Email,Validation",
+        "api_name": "MailingBird",
+        "id": 8163,
+        "progweb_descr": " MailingBird email marketing application turn email address usable data validate address manage email marketing campaign MailingBird API allow developer access integrate functionality MailingBird applications Some example API method include validate email address send email manage user account"
+    },
+    {
+        "progweb_cat": "Email,Validation",
+        "api_name": "Tarya Technologies ChkMail",
+        "id": 9188,
+        "progweb_descr": " Tarya Technologies UKbased web development program company On website provide handful simple SOAP APIs write free use One ChkMail API design determine whether give email address exists"
+    },
+    {
+        "progweb_cat": "Email,Validation",
+        "api_name": "Email Pie",
+        "id": 10091,
+        "progweb_descr": " Email Pie free simple JSON API validate email address First check make sure address format correctly catch thing like invalid character miss sign Then make sure domain configure collect email Finally check common misspelling Sample code API integration provide Python Ruby PHP"
+    },
+    {
+        "progweb_cat": "Email,Validation",
+        "api_name": "Postcode Anywhere Email Validation",
+        "id": 14619,
+        "progweb_descr": " Postcode Anywhere informationasaservice provider offer 250 separate web service cover broad range business efficiency tool address data capture validation cleanse geocoding map route planning optimisation Email validation API validate email address point capture It also verify existence email address API use number protocol include REST SOAP XMLRPC Responses format XML JSON CSV HTML PDF"
+    },
+    {
+        "progweb_cat": "Email,Contacts",
+        "api_name": "Find That Email",
+        "id": 1703,
+        "progweb_descr": " Find That Email API allow user integrate ability find email address professional platform application Find That Email scrape address publicly available online information rather rely hundred uptodate database Find That Email applies data analytics run crosscheck ensure email address correct Users see confidence level result save prospect list"
+    },
+    {
+        "progweb_cat": "Email,Contacts",
+        "api_name": "LeadFinch",
+        "id": 4866,
+        "progweb_descr": " LeadFinch API Email match engine use search Email address use least first name last name domain There limit 6 call per minute application may block go limit LeadFinch API return call JSON format require API Key LeadFinch offer proprietary engine chrome extension help search business Emails"
+    },
+    {
+        "progweb_cat": "Email,Contacts",
+        "api_name": "VerticalResponse REST",
+        "id": 7406,
+        "progweb_descr": " VerticalResponse REST API allow developer utilize marketing tool application end user manage market campaign contact organize contact list post send social medium message email collect statistic message This API compatible VR2 VerticalResponse provide online marketing tool use email social medium channel message optimize use desktop computer mobile device"
+    },
+    {
+        "progweb_cat": "Email,Contacts",
+        "api_name": "Google CardDAV",
+        "id": 9445,
+        "progweb_descr": " CardDAV open standard Google develop access contact information across internet Google CardDAV API use CardDAV protocol let user view manage contact store Google account programmatically API allow client application create edit delete search user contact use REST call Google CardDAV API integrate Google APIs Console developer add project simply enable Console"
+    },
+    {
+        "progweb_cat": "Email,Contacts",
+        "api_name": "StesCodes Address Book Importer",
+        "id": 11768,
+        "progweb_descr": " Grabs email contact information name email address phone number variety mail service server Ability export grab address information csv file confirm info popup screen API allow multiple language integration fully customizable UI OAuth redirect A DLL version available well 18 mail message service ex Gmail Hotmail ICQ AIM support"
+    },
+    {
+        "progweb_cat": "Email,Contacts",
+        "api_name": "Sapo Mail",
+        "id": 12315,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide Sapo Mail API provide set operation let developer manage contact update list message provide direct link message within Webmail sevice API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Email,Contacts",
+        "api_name": "WriteThat.Name",
+        "id": 14052,
+        "progweb_descr": " Evercontact service update email address book analyze email signature It currently work Gmail Google Apps Outlook Salesforce Highrise Lotus Notes Evercontact API allow developer Update enterpriseâ€™s CRM CreateUpdate client list complete contact information Sync Address Book uptodate contact data OR anything else raw contact data analyze extract vCards API deploy within Tomcat Web container Apache2 modjk dispatch call API also base Apache UIMA Asynchronous Scaleout framework This framework aim process unstructured information text image audio etc Get API key test free link"
+    },
+    {
+        "progweb_cat": "Email,Spam",
+        "api_name": "Mailsac",
+        "id": 1890,
+        "progweb_descr": " Mailsac API offer spam search capability inbound Email API offer free support custom domains basic outbound transactional Email websocket webhook delivery SMTP forwarding Developers need acquire API Key JSON prefer response format Mailsac free individual business purchase yearly license"
+    },
+    {
+        "progweb_cat": "Email,Spam",
+        "api_name": "G-LockApps",
+        "id": 3941,
+        "progweb_descr": " GLockApps API email track solution test deliverability email Inboxes target recipient API test spam filter check deliverability status outbound email target destination sender fix functionality barrier content issue prior hit send button GLockApps API use RESTful method generate request return response either JSOn XML format API suit email marketing campaign accessible subscription prefer plan"
+    },
+    {
+        "progweb_cat": "Email,Spam",
+        "api_name": "Prevent Disposable",
+        "id": 4730,
+        "progweb_descr": " Prevent Disposable API work JSON protocol stop fake email access business database function API classify domains either valid disposable To verify API work developer enter email address verification purpose Note email change domain ensure user privacy"
+    },
+    {
+        "progweb_cat": "Email,Spam",
+        "api_name": "Oxilion Antispam",
+        "id": 10879,
+        "progweb_descr": " Oxilion Dutch company provide domain registration web host service They provide antispam service free customer register domain service also buy separately Oxilion Antispam claim block 98 spam virus Users get decide capture spam Oxilion Antispam integrate customer exist website use SOAP API Oxilion website provide solely Dutch"
+    },
+    {
+        "progweb_cat": "Email,Spam",
+        "api_name": "Postmark Spamcheck",
+        "id": 12066,
+        "progweb_descr": " Postmark email delivery service web apps Spamcheck API give developer programmatic interface spam filter tool SpamAssassin API use application pre post process email content It help filter junk prevent clutter within database application API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Email,French",
+        "api_name": "Sarbacane",
+        "id": 2101,
+        "progweb_descr": " Sarbacane add newsletter Email marketing functionality exist application Features include automatic contact list import correct drag drop campaign editor analytics eCommerce sync Sarbacane offer several monthly subscription range 1000 100000 Emails per month Prepaid plan also available Sarbacane base Lille France API request use GET obtain data Public documentation available"
+    },
+    {
+        "progweb_cat": "Email,Applications",
+        "api_name": "Zoho Mail",
+        "id": 2163,
+        "progweb_descr": " Zoho Mail API provide interface integrate operational module Zoho Mail thirdparty apps It allow developer use data extract Zoho mail either construct new application upgrade exist one API transmits request response JSON format"
+    },
+    {
+        "progweb_cat": "Email,Applications",
+        "api_name": "PowerInbox",
+        "id": 12925,
+        "progweb_descr": " PowerInbox look bring app experience email They offer email apps make email useful let user perform action inside email PowerInbox platform support Gmail Hotmail Yahoo Mail Chrome Firefox It also support Microsoft Outlook PowerInbox provide API help developer bring application right within email application PowerInbox allow user show web app inside email use IFRAME"
+    },
+    {
+        "progweb_cat": "Email,Community",
+        "api_name": "Temp Email Address",
+        "id": 2385,
+        "progweb_descr": " Temp Email Address API support creation temporary email account specific purpose website service verification procedures API allow user minimize exposure spamming deploy decoy temporary email account Developers use API facilitate programmatic management webservice verification request API us SOAP format convey request response"
+    },
+    {
+        "progweb_cat": "Email,Registration",
+        "api_name": "Temporary Email Recovery",
+        "id": 2549,
+        "progweb_descr": " Temporary Email Recovery API allow one recover temporary email session previously lose Available HTTP format display HTML text return Email Deck service provide disposable email address aim avoid SPAM protect online privacy additional detail contact supportemailondeckcom"
+    },
+    {
+        "progweb_cat": "Email,Engagement",
+        "api_name": "UserEngage",
+        "id": 2621,
+        "progweb_descr": " UserEngage API integrate email engagement feature web service include template conversation segment event list Token require authenticate HTTP format available perform request response"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "eMercury",
+        "id": 2633,
+        "progweb_descr": " eMercury API integrate email marketing web service It include method audience subscriber report campaign autoresponders XML format available send request receive response return"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "Winning Email",
+        "id": 3535,
+        "progweb_descr": " Winning Email REST API allow developer access integrate functionality Winning Email application Some example API method include scan email suggest word clickthroughs retrieve rate limit retrieve status email campaign Winning Email provide email marketing campaign service"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "Emailicious",
+        "id": 4492,
+        "progweb_descr": " Emailicious API provide tools developer utilize Emailicious service With Emailicious user develop customer relation heighten engagement efficient email campaign There tool help manage list create customer profile page automate communication subscription management much"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "Mad Mimi Promotions",
+        "id": 5090,
+        "progweb_descr": " With Mad Mimi Promotions API available Key REST XML format developer get promotion search promotion save promotion trash promotion Useful project related email marketing campaign Mad Mimi email marketing platform"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "ExpressPigeon",
+        "id": 5203,
+        "progweb_descr": " ExpressPigeon REST API allow developer access integrate functionality ExpressPigeon applications Some example API method include retrieve manage marketing campaign manage contact retrieve campaign analytics send campaign email ExpressPigeon email marketing platform allow company manage send email campaign"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "VerticalResponse SOAP",
+        "id": 5814,
+        "progweb_descr": " VerticalResponse SOAP API allow developer integrate application service enable access service email campaign email marketing This API compatible VR Classic account VerticalResponse company provide tools communication small business"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "Direct Mail",
+        "id": 6551,
+        "progweb_descr": " Direct Mail Mac OS X app design email newsletter well create send email campaign Includes campaign performance monitoring subscriber list management feature Mac business app integration capability RESTful Direct Mail API use programmatically add update delete message mail list campaign report To use API user must Direct Mail version 4 later instal API request authenticate basic HTTP authorize API key"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "Newsman",
+        "id": 9100,
+        "progweb_descr": " Newsman cloudbased service create distribute analyze email newsletter campaign Users create import subscriber list segment list need Newsman allow user select premade newsletter template design Email recipient share email socially Facebook Twitter LinkedIn Newsmans analytics capable track open click bounce spam report All Newsmans feature access integration use REST XMLRPC call"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "Experian CheetahMail",
+        "id": 9794,
+        "progweb_descr": " CheetahMail service provide Experian Marketing Services allow user create distribute highly customized email campaign They offer user access team expert help customize email campaign well suit target audience CheetahMail APIs make possible manage user account databases campaign report website application"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "bubblebox:mailer",
+        "id": 10243,
+        "progweb_descr": " service provide blast email service promotional campaign largegroup communication Its online tool allow creation rich HTML message body without handcoding along management address list handle interaction recipient Reporting function provide feedback campaign success communication effectiveness API method automate common task within system efficiency prevention common error Methods include address list management upload function deduplication designation message body text content schedule delivery Methods also handle optout request response recipient report interaction well delivery success rate link clickthrough rate performance measure"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "Leadspend",
+        "id": 10264,
+        "progweb_descr": " service provide validation email address It determine address correct syntax reference functional domain also match valid account properly register domain configured receive email In way ensures email data submit online access vendor represent deliverable address API method support submission email address list address one API return status verify disposable provided service unusable ongoing communication unreachable connect functional mail handler illegitimate undeliverable Methods allow specific check full mailbox expire domain common issue prevent email delivery"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "Email Checker",
+        "id": 12569,
+        "progweb_descr": " service integrates realtime validation email address web application sit It prevent user create account use false email receive service without comply site term service It also help ensure delivery ecommerce order notification validate contact data collect via nonweb method API method support submission email address provide customer collect way return data provide result validation check"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "EmailDirect",
+        "id": 12923,
+        "progweb_descr": " service provide tool manage email marketing campaign bulk message list management control feedback loop unsubscribe request complaint process It facilitate whitelisting management handle bounce badaddress function Analytical tool include message track delivery statistic API method support list subscriber management addeditdelete campaign configuration message delivery bounce message management Methods also support track data source subscriber history domain"
+    },
+    {
+        "progweb_cat": "Email,Campaigns",
+        "api_name": "YesMail",
+        "id": 12939,
+        "progweb_descr": " Yesmail enterprise email web service company Yesmail offer email campaign automate trigger email market email email service Yesmail also offer report analysis tool market campaign Yesmail API allow developer access integrate functionality Yesmail application Some example API method include manage subscriber store supplemental data send transactional mail Public documentation available developeryesmailcom API access include Yesmail account"
+    },
+    {
+        "progweb_cat": "Email,Tools",
+        "api_name": "Mixmax",
+        "id": 2811,
+        "progweb_descr": " This REST API allow programmatic access read modify data Mixmax This include access availability poll snippets Mixmax place team external communication provide productivity suite sale track automate enhance email"
+    },
+    {
+        "progweb_cat": "Email,Tools",
+        "api_name": "Emailified",
+        "id": 9432,
+        "progweb_descr": " Emailified email append email verification solution utilize proprietary software human review base solution delivers match rate B2B marketing list sale list Emailified helps marketer append email address acquire miss email address reverse email append data contact verify email address ensure email address accurate current deliverable An account require use service API documentation available service"
+    },
+    {
+        "progweb_cat": "Email,Tools",
+        "api_name": "YippieMove",
+        "id": 10757,
+        "progweb_descr": " YippieMove email migration service allow user organization change email server email provider batch YippieMove API allow developer access integrate functionality YippieMove applications Some example API method include manage user account manage move migration access provider price information"
+    },
+    {
+        "progweb_cat": "Email,Tools",
+        "api_name": "SendGrid Parse",
+        "id": 12048,
+        "progweb_descr": " SendGrids cloudbased email help keep email spam folder provide cloud service scale email demand provide email analytics track open click Parse API parse attachment content incoming email post web application API POST parse email URL configure user account Use case API include post blog article via email processing email reply mail list allow user upload picture profile via email submit support request via email API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Email,Subscriptions",
+        "api_name": "EasySendy Subscribers",
+        "id": 3575,
+        "progweb_descr": " Customize delivery large email campaign use multiple SMTP relay server Json base API Allows detail customization EasySendy email subscriber list able integrate various SMTP relay service choice"
+    },
+    {
+        "progweb_cat": "Email,Subscriptions",
+        "api_name": "Block Disposable Email",
+        "id": 14263,
+        "progweb_descr": " Block Disposable Email service help company individual reduce number anonymous subscriber order prevent userbase contamination onetime account api help detect subscriber use disposable temporary throwaway onetime email address like mailinator guerillamail 10minutemail It replace local maintain blacklist Prevents userbase contamination fake account blockdisposableemailcom provide JSON base API validate email It use RESTful call require API key"
+    },
+    {
+        "progweb_cat": "Email,Email",
+        "api_name": "Email Verifier",
+        "id": 3681,
+        "progweb_descr": " Email Verifier API allow developer integrate email data verification capability 3rdparty application Email Verifier connect email domain verify status email address remove address contain invalid domain It also remove duplicate email address clean record match spamtrap indicator remove email address contain invalid syntax"
+    },
+    {
+        "progweb_cat": "Email,Email",
+        "api_name": "EMAIL Validator",
+        "id": 4296,
+        "progweb_descr": " EMAIL Validator API allow developer pass email string validate email address identify disposabletemporary email free email provider address"
+    },
+    {
+        "progweb_cat": "Email,Addresses",
+        "api_name": "Anymail Finder",
+        "id": 3789,
+        "progweb_descr": " Anymail Finder API find validates email address give name domain Developers make GET request receive JSON response Authentication require Api Key"
+    },
+    {
+        "progweb_cat": "Email,Addresses",
+        "api_name": "RocketReach",
+        "id": 4509,
+        "progweb_descr": " RocketReach API allow retrieve rich contact info social data people company RocketReach API retrieve people personal professional contact information include email address phone number profile information social website LinkedIn Twitter Facebook Angelco Crunchbase Users search people name title company location profile keyword Linkedin URL RocketReach information 250 million people constantly crawl web order add individual keep information uptodate"
+    },
+    {
+        "progweb_cat": "Email,Addresses",
+        "api_name": "Xverify",
+        "id": 5542,
+        "progweb_descr": " Xverify API allow developer integrate Xverifys realtime email verification platform application system It check email address make sure username actually register domain give platform come builtin fraud protection make sure none address temporary account link known fraudsters"
+    },
+    {
+        "progweb_cat": "Email,Addresses",
+        "api_name": "Microsoft Outlook",
+        "id": 5644,
+        "progweb_descr": " Microsoft Outlook REST API allow developer access integrate functionality Microsoft Outlook applications Some example API method include connect calendar retrieve contact find people contact list Microsoft Outlook email calendar contact management system"
+    },
+    {
+        "progweb_cat": "Email,Addresses",
+        "api_name": "Swift Email Validation",
+        "id": 5749,
+        "progweb_descr": " Swift Email Verifiers Email Validation API offer realtime email validation scrub APIs accessible via RESTful API call email validation API check email address actually exist receive email When email address check tell address valid invalid well damaging detrimental email marketing need A code provide inform reason email validation failure"
+    },
+    {
+        "progweb_cat": "Email,Addresses",
+        "api_name": "TowerData Email Activity Metrics (EAM)",
+        "id": 6125,
+        "progweb_descr": " TowerData provide service access business data associate email address These service retrieve demographic information individual households location ISP TowerData service email market include email intelligence email validation email append TowerData Email Activity Metrics EAM API use gauge email address legitimacy base often pass TowerDatas database This API require unique key query HTTP response return JSON format"
+    },
+    {
+        "progweb_cat": "Email,Addresses",
+        "api_name": "VoilaNorbert",
+        "id": 6474,
+        "progweb_descr": " VoilaNorbert allow user look email address use individual name email provider domain VoilaNorbert API allow user automate email address lookup Each user get 10 free API request test adjust code without use pay lookups A variety fix lookup plan available"
+    },
+    {
+        "progweb_cat": "Email,Addresses",
+        "api_name": "Con4ct Me",
+        "id": 9926,
+        "progweb_descr": " service provide short URL timelimited access share contact information It allow user share email address phone number others without expose information search engines spammer eager misuse unwanted communication URL active preset duration allow business personal contact view use contact information Email forwarding also available API method support retrieval short URL access humanaccessible display base submission phone number email address along desired duration URL remain active Methods also support create email address forward actual valid address provide request"
+    },
+    {
+        "progweb_cat": "Email,Addresses",
+        "api_name": "Is Email Address Validation",
+        "id": 10609,
+        "progweb_descr": " service validates email address compliance standard detail internet request comment RFCs It verify character count within limit format reflect acknowledge best practice Some internet service provider email service generate noncompliant address may cause system use strict validation reject undeliverable service reduces likelihood catch highlight potential formatting problem It make effort confirm email actually reach particular address address format complies applicable guideline API method allow submission character string return status 1 0 indicate valid invalid along diagnostic text describe validity problem"
+    },
+    {
+        "progweb_cat": "Email,Developers",
+        "api_name": "MesgHUB",
+        "id": 3802,
+        "progweb_descr": " MesgHUB dedicate email service processing system It also work debug platform quality assurancequality control department company MesgHUB accept incoming email SMTP without reveal customer This API use API Keys authentication request make JSON format"
+    },
+    {
+        "progweb_cat": "Email,Automation",
+        "api_name": "SendPulse",
+        "id": 4281,
+        "progweb_descr": " SendPulse integrated platform send email text message SendPulse API access marketing automation feature include email text web push message Available REST protocol API Key authentication"
+    },
+    {
+        "progweb_cat": "Email,Automation",
+        "api_name": "Adaptive Mailer",
+        "id": 5307,
+        "progweb_descr": " Adaptive Mailer API allow developer integrate automate marketing email capability thirdparty application Developers use drip campaign send emails frequency choice schedule news announcement specific date time They also send adaptive email automatically adjust base recipient behavior Adaptive Mailer also provide prospect track lead score activity alert realtime report API documentation available upon request"
+    },
+    {
+        "progweb_cat": "Email,Feedback",
+        "api_name": "Mailgun Events",
+        "id": 4414,
+        "progweb_descr": " Introduced replacement defunct Logs API Mailgun Events API primarily facilitate email track functional infrastructure API allow user monitor conveyance email communication target recipients Its data retention pay account holder free account holder 30 day two day respectively Mailgun Events ’ authentication take place HTTP Basic Auth model use API key accessible Mailgun account sign RESTful API fully document design convey return JSON format"
+    },
+    {
+        "progweb_cat": "Email,Intelligence",
+        "api_name": "Dyn Email",
+        "id": 4913,
+        "progweb_descr": " Dyn Email API allow integrate email feature application Developers call method HTTPHTTPS format obtain response JSON HTML XML Api Key available Dyn provide email service monitor optimization internet intelligence"
+    },
+    {
+        "progweb_cat": "Email,Compliance",
+        "api_name": "DataMotionHealth",
+        "id": 4964,
+        "progweb_descr": " DataMotionHealth APIs enable developer create solution care coordination need securely exchange electronic health record CCDA format type document via Direct Secure Messaging encrypt email Using DataMotionHealth APIs application perform broad range task send receive document search Healthcare Provider Directory HPD provision administer user account perform identity validation patient enrollment others DataMotionHealth APIs offer SOAP client SDKs NET Java PHP program environment well REST APIs Please visit httpswwwdatamotionhealthcom learn solution build DataMotionHealth"
+    },
+    {
+        "progweb_cat": "Email,Security",
+        "api_name": "mailboxlayer",
+        "id": 4987,
+        "progweb_descr": " Mailboxlayer offer free JSON API instant email validation verification use SMTP syntax check typo check suggestion free disposable provider filter email quality score system RESTbased secure 256bit HTTPS encryption design aid developer business fight fraudulent user increase success rate email campaign"
+    },
+    {
+        "progweb_cat": "Email,Security",
+        "api_name": "Spamty",
+        "id": 8168,
+        "progweb_descr": " Spamty web service encrypts email address provide link email address instead put email address web Spamty API allow developer access integrate functionality Spamty application two main API method encrypt email address unencrypting email address"
+    },
+    {
+        "progweb_cat": "Email,Security",
+        "api_name": "eCoComa Email",
+        "id": 12462,
+        "progweb_descr": " eCoComa Email API allow user perform two separate emailrelated function One function allow user receive email POP3 server use chat someones mail server determine whether address valid This API available via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "Email,Security",
+        "api_name": "Sendinc SMTP",
+        "id": 14154,
+        "progweb_descr": " Sendinc offer web base email encryption service With Sendinc user compose send encrypted email message use email address Recipients view message click link secure email send log Sendinc account Sendincâ€™s API provide simple way integrate secure email web software application SMTP API allow developer implement Sendincâ€™s email encryption service application"
+    },
+    {
+        "progweb_cat": "Email,Security",
+        "api_name": "Sendinc REST",
+        "id": 14155,
+        "progweb_descr": " Sendinc offer web base email encryption service With Sendinc user compose send encrypted email message use email address Recipients view message click link secure email send log Sendinc account Sendincâ€™s API provide simple way integrate secure email web software application Sendinc REST API enable developer easily interact Sendinc service via thirdparty application API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Email,Security",
+        "api_name": "Guerrilla Mail",
+        "id": 14213,
+        "progweb_descr": " Guerrilla Mail antispam solution user give temporary Email address use without need disclose personal information Users also subscribe Guerrilla Mail receive permanent Guerrilla Mail address although mail send address store hour Guerrilla Mail API JSON base HTTP API provide functionality create fully feature app Developers use API create Guerrilla Mail website application integrate Guerrilla Mail application"
+    },
+    {
+        "progweb_cat": "Email,Authentication",
+        "api_name": "Byteplant Email Verifier",
+        "id": 5098,
+        "progweb_descr": " Byteplant Email Verifier API allow integration signup form provide access feature use API Key work GET POST method return JSON responses Developers implement API content management system Drupal WordPress Joomla send either HTTP HTTPS request server expect result list verify email address Byteplant provide email management security solution"
+    },
+    {
+        "progweb_cat": "Email,Data",
+        "api_name": "Verifalia",
+        "id": 5187,
+        "progweb_descr": " Verifalia API provide email validation service integrate exist application It feature complete syntactical engine role account detection disposable address detection This RESTful API respond JSON format authentication occur HTTP Basic Auth Verifalia API build Cobisi offer software development tool NET platform"
+    },
+    {
+        "progweb_cat": "Email,Data",
+        "api_name": "Email Hunter",
+        "id": 5650,
+        "progweb_descr": " Email Hunter API return email find internet relate unique domain name This API use HTTP request response authentication unique secret API key Email Hunter API fee base four different level Free Starter Growth Pro"
+    },
+    {
+        "progweb_cat": "Email,Data",
+        "api_name": "TowerData Personalization",
+        "id": 6109,
+        "progweb_descr": " TowerData provide service access business data associate email address These service retrieve demographic information individual households location ISP TowerData service email market include email intelligence email validation email append TowerData Personalization API allow specific target data retrieve email hash email postal address unique API Key This API query HTTP GET successful response return JSON format"
+    },
+    {
+        "progweb_cat": "Email,Data",
+        "api_name": "Experian Data Quality Email Validation",
+        "id": 7136,
+        "progweb_descr": " Experian Data Quality offer email verification solution identify whether email address valid deliverable know whether email address accurate actionable mail lead improved email marketing solution work perform multiple check syntax domain mail server account All validation occur real time mean database lookup This process do point collection bulk ad hoc basis host Web service support REST Sample code available PHP C JSPJava"
+    },
+    {
+        "progweb_cat": "Email,Data",
+        "api_name": "Impressionwise",
+        "id": 11717,
+        "progweb_descr": " Impressionwise data hygiene provider specialize cleanse data service use email verification identify spam trap complainer Data scan ondemand global view realtime feedback time actual cleanse utilizing data age repository Impressionwise Data Feed Platform provide batch cleanse email address realtime platform expose via RESTful API Public documentation avaialable"
+    },
+    {
+        "progweb_cat": "Email,Collaboration",
+        "api_name": "Front",
+        "id": 5340,
+        "progweb_descr": " Front REST API allow developer access integrate functionality Front applications Some example API method include manage team teammate list retrieve inboxes retrieve send message Front share inbox platform team collaborate email text social medium"
+    },
+    {
+        "progweb_cat": "Email,Parsing",
+        "api_name": "Sift",
+        "id": 5377,
+        "progweb_descr": " Sift REST API allow developer access integrate functionality Sift applications Some example API method include identify type email retrieve list user manage email connection Sift email productivity application detect type email perform appropriate action base type email"
+    },
+    {
+        "progweb_cat": "Email,Cloud",
+        "api_name": "ShepHertz App42 Cloud Email",
+        "id": 5688,
+        "progweb_descr": " ShepHertz App42 Cloud Email API allow developer create multiple template sending email enable user send email app ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Email,Cloud",
+        "api_name": "Banckle Email",
+        "id": 6031,
+        "progweb_descr": " Banckle cloud base software company offer business online customer support service Banckle Email email service available Banckle enable business create webmail solution application Banckle Email API let developer personalize customer ’ experience integrating application enable interact customer directly application API allow feature send receive organize email"
+    },
+    {
+        "progweb_cat": "Email,Cloud",
+        "api_name": "Aspose.Email",
+        "id": 6236,
+        "progweb_descr": " AsposeEmail API program interface offer Apose let developer integrate service application enable customer create archive email directly application API REST base use platform support REST Apose software company specialize file management cloud"
+    },
+    {
+        "progweb_cat": "Email,Cloud",
+        "api_name": "MessageGears",
+        "id": 14787,
+        "progweb_descr": " MessageGears API allow user integrate Email application MessageGears provide email delivery solution allow company send transactional bulk email API feature multiple recipient campaign message personalization request level track It use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Email,Cloud",
+        "api_name": "Elastic Email",
+        "id": 15200,
+        "progweb_descr": " Elastic Email provide direct email send REST API Elastic Email simple email delivery service cloud application API allow user send email single recipient group recipients get status single send transaction include delivery statistic recipient determine much credit leave Elastic Email account Responses format XML Code sample provide PHP C Java"
+    },
+    {
+        "progweb_cat": "Email,Application Development",
+        "api_name": "GitHub User Emails",
+        "id": 5965,
+        "progweb_descr": " GitHub User Emails API allow developer manage email address To manage via API require developer authenticate basic auth OAuth user scope GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Email,Management",
+        "api_name": "Posty",
+        "id": 6416,
+        "progweb_descr": " Posty open source administration tool mail server compatible Postfix Dovecot Developed 2013 RESTful Posty API core component Posty software stack use outside application Posty client Using HTTP call Posty API use retrieve edit delete domain name user information aliases summary transport API LGPL v3 license All Posty software open source GitHub"
+    },
+    {
+        "progweb_cat": "Email,Management",
+        "api_name": "SendGrid Reseller",
+        "id": 12047,
+        "progweb_descr": " SendGrids cloudbased email help keep email spam folder provide cloud service scale email demand provide email analytics track open click Reseller API allow user SendGrid reseller account manage customer email Functionality include monitoring record manage whitelabel setting review account API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Email,Management",
+        "api_name": "SendGrid Customer Subuser",
+        "id": 12049,
+        "progweb_descr": " SendGrids cloudbased email help keep email spam folder provide cloud service scale email demand provide email analytics track open click Customer Subuser API allow developer integrate user management functionality application API expose email list managment method include bounce record unsubscribe notice spam report Limits also set amount emails user send event notification manage user log authenticated API RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Email,Management",
+        "api_name": "SmarterTools SmarterMail",
+        "id": 12256,
+        "progweb_descr": " SmarterTools software company build application small medium size business Their software include solution email help desk analytics SmarterMail delivers Exchangelevel email server software instant messaging business SmarterMail API let user manage administrative email server task Users manage spool add user domain set alert warn dictionary attack watch bandwidth usage email sent Documentation publicly available"
+    },
+    {
+        "progweb_cat": "Email,Search",
+        "api_name": "SearchBug Email / IP Address Verification",
+        "id": 6801,
+        "progweb_descr": " SearchBug Email IP Address Verification verifies validity email address real time server Output example include XML JSON"
+    },
+    {
+        "progweb_cat": "Email,Classification",
+        "api_name": "Vibe",
+        "id": 6931,
+        "progweb_descr": " Vibe API simple service accepts email input return rich data user return information source many open database include location data past job experience recent social activity link account automate short biography app also return meta classification interest taste give general personality overview Developers visit documentation page find register API key service currently beta mode limited number signups"
+    },
+    {
+        "progweb_cat": "Email,File Sharing",
+        "api_name": "250ok",
+        "id": 7015,
+        "progweb_descr": " 250ok software company specialize email delivery 250ok provide business organization necessary insight identify prevent potential risk issue deliver message recipient 250ok API provide customer freedom share use application data however want In addition able read data interact application use POSTPUT 250ok customer also choose desire output format ie JSON XML CSV serialize data"
+    },
+    {
+        "progweb_cat": "Email,Mail",
+        "api_name": "Office 365 Mail",
+        "id": 7070,
+        "progweb_descr": " Office 365 Mail API allow access user full inbox mail message mailbox folder associate metadata Using API developer read compose send email In order access Office 365 APIs developer must first register apps Microsoft All APIs use JSON Auth0 protocol authentication Azure AD authorization"
+    },
+    {
+        "progweb_cat": "Email,Mail",
+        "api_name": "BYU Exchange",
+        "id": 7549,
+        "progweb_descr": " Exchange API Brigham Young University BYU enable application manage email voicemail mailbox resource account Emails voicemails mailbox resource account create Accounts mailbox disable"
+    },
+    {
+        "progweb_cat": "Email,Mail",
+        "api_name": "Atomic Mass Email Service",
+        "id": 8807,
+        "progweb_descr": " Atomic Mass Email Service email market mass email service Atomic Mass Email Service provide feature mass email email campaign newsletter creation subscriber management Atomic Mass Email Service API allow developer access integrate functionality Atomic Mass Email Service application Some example API method include manage contact manage address book manage sending campaign"
+    },
+    {
+        "progweb_cat": "Email,eCommerce",
+        "api_name": "Lettr",
+        "id": 7124,
+        "progweb_descr": " Lettr Germanybased email marketing software company They provide solution create professional newsletter deliver secure email email confirmation manage recipient Lettr API enable developer bind Lettrs system software This enable automation send email confirmation message announcement status email Customer data synchronize ecommerce software recipient list"
+    },
+    {
+        "progweb_cat": "Email,eCommerce",
+        "api_name": "AlphaMail",
+        "id": 8527,
+        "progweb_descr": " AlphaMail cloudbased transactional email service make easy developer market professional utilize transactional email daily work Users stop worry maintain infrastructure let AlphaMail provide high deliverability dynamic template realtime statistic AlphaMail offer RESTful API programmatic access AlphaMail service API method include Email Queue Projects Templates Signatures An API key require"
+    },
+    {
+        "progweb_cat": "Email,Notifications",
+        "api_name": "FollowUp.cc",
+        "id": 7336,
+        "progweb_descr": " FollowUpcc service create time email reminder onetime recur event It also use schedule followup lead Users keep inboxes clear use Snooze Links function reschedule email appear hour day week Reminders add user exist Calendars FollowUpcc design easy integration Gmail Salesforce"
+    },
+    {
+        "progweb_cat": "Email,Notifications",
+        "api_name": "Jango SMTP Event",
+        "id": 12017,
+        "progweb_descr": " Jango SMTP transactional email delivery service add track authentication email Using service allow open track click track DomainKeysDKIM sign group log extreme email delivery Event API make HTTP call web service web page upon specify event without require poll Events include send open email click URL email unsubscribe bounce compalints"
+    },
+    {
+        "progweb_cat": "Email,Privacy",
+        "api_name": "5yMail",
+        "id": 7920,
+        "progweb_descr": " 5yMail allow user send anonymous email use alias choice Recipients may even reply email user engage conversation without give away identity Once email sent sender receive receipt confirmation Users access 5yMails function programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Email,Spanish",
+        "api_name": "Guubie",
+        "id": 8155,
+        "progweb_descr": " Guubie email marketing platform design specifically startups Guubie access standard browser app Mac Windows Users perform unlimited AB test get report statistic campaign order optimize message Guubie connect user prefer email delivery service send email automatically base preset trigger Developers integrate Guubie platform service use Guubie API Guubie website available English Spanish"
+    },
+    {
+        "progweb_cat": "Email,Visualizations",
+        "api_name": "Birdseye Mail",
+        "id": 8796,
+        "progweb_descr": " Birdseye Mail email application build specifically tablet Birdseye Mail include feature easy use finger instead keyboard visual overview inbox action conducive work tablet Birdseye Mail API allow developer access integrate functionality application main API method create custom action email"
+    },
+    {
+        "progweb_cat": "Email,Customer Relationship Management",
+        "api_name": "mailZ",
+        "id": 8934,
+        "progweb_descr": " Mailz realtime email response system allow connect manage customer communication use automated email response app system MailZ offer API integration mailZ service Use API enable immediate reaction online behavior customer Available API method include ping send status statistic An API key require"
+    },
+    {
+        "progweb_cat": "Email,Customer Relationship Management",
+        "api_name": "Email Center Pro",
+        "id": 10755,
+        "progweb_descr": " Email Center Pro email management service customer service team Because entirely webbased employee login work anywhere service provide variety useful feature include ability save answer FAQs oneclick template link email conversation case bug track system measure email traffic system view complete record every action take email Email Center Pro also provide service manage employee Administrators add new employee assign permission assign email specific employee keep track individual workload response time A spam filter come already place intensity screen adjust Many Email Center Pros feature accessible use RESTful interface"
+    },
+    {
+        "progweb_cat": "Email,Customer Relationship Management",
+        "api_name": "EmailManager",
+        "id": 14414,
+        "progweb_descr": " Emailmanager API way able synchronize customer base CRM CMS shop cart ecommerce EmailManager email marketing system You long need constantly import export manually updated list EmailManager database list automatically synchronize This API also perform list management function function create send issue developer also retrieve campaign statistic EmailManager API currently Beta provide data XML JSON serialize PHP Developers use either simple HTTP API XMLRPC method call wrap XML"
+    },
+    {
+        "progweb_cat": "Email,Extraction",
+        "api_name": "mailparser.io",
+        "id": 8996,
+        "progweb_descr": " mailparserio parse extract data incoming email mailparserio use extract trackingnumbers lead kind data hide inside email body attachment parse result send webservices HTTP webhooks mailparserio API allow developer access integrate functionality mailparserio application Public documentation available interested developer email contactmailparserio information"
+    },
+    {
+        "progweb_cat": "Email,Verification",
+        "api_name": "Emailtor Email Verification",
+        "id": 9377,
+        "progweb_descr": " Emailtor Email Verification completely webbased service verify email address mailbox level It clean invalid email list size download use service also retrieve mail exchanger MX record mail server metric give email address Emailtor Email Verification provide SOAP API allow easily integrate system"
+    },
+    {
+        "progweb_cat": "Email,Verification",
+        "api_name": "BYU Email Verification",
+        "id": 10187,
+        "progweb_descr": " service validates email address internet domain use Brigham Young University It accept character string input compare record buyedu byunet domain system response either confirm address string submit associated BYU user account error message address recognize API method check whether submit string identifies properly format email address domain manage BYU It check specific address universitys login database confirm whether register user account whether forward valid BYU address"
+    },
+    {
+        "progweb_cat": "Email,Verification",
+        "api_name": "ServiceObjects DOTS Email Validation",
+        "id": 13971,
+        "progweb_descr": " Service Objects industry leader RealTime Contact Validation solution Service Objects develop delivers information solution improve integrity online transaction lead verification Each day business rely Service Objects validate hundred thousand transaction reduce fraud increase conversion data validation enhancement incoming lead Web order customer list Service Objects verify billion contact record reliability 99999 percent 1900 customer 25 diverse industry include financial service technology communication health care insurance leisure utility ecommerce government"
+    },
+    {
+        "progweb_cat": "Email,News Services",
+        "api_name": "Newsweaver",
+        "id": 9416,
+        "progweb_descr": " Newsweaver communication software design help create deliver track communication campaign It use either internal communication software email marketing software As internal communication software allow user push message across multiple team department region order improve employee engagement create consistent corporate brand As email marketing software help user engage audience use tool like multipage newsletter templates analytics service Newsweaver provide RESTful API access function information This information retrieve form XMLformatted document contain link related resource"
+    },
+    {
+        "progweb_cat": "Email,Bitcoin",
+        "api_name": "Bitcoin-Contact",
+        "id": 9543,
+        "progweb_descr": " BitcoinContact site let user receive send message Bitcoin Addresses They aim Bitcoin owner validate identity speakingexchanging simplify otherwise anonymous communication BitcoinContact API allow user make query return Bitcoin address associate email address return public information identity associate Bitcoin address"
+    },
+    {
+        "progweb_cat": "Email,Publishing",
+        "api_name": "Pizzazz Email",
+        "id": 9640,
+        "progweb_descr": " Pizzazz Email email publishingmarketing system allow build email list publish newsletter manage email marketing campaign Pizzazz currently offer 4 APIs Java API REST API FTP APIs REST API allow user manage subscriber addition deletion track email delivery realtime list template enumeration An account required service"
+    },
+    {
+        "progweb_cat": "Email,Transportation",
+        "api_name": "SelecTrucks Email Signup",
+        "id": 9958,
+        "progweb_descr": " SelecTrucks part Daimler Trucks North America sell quality use truck All truck sell â€ ” medium heavy duty â€ ” must first pas rigorous inspection recondition process People sign receive email update SelecTrucks directly website programmatically use Email Signup API latter method use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Email,Migration",
+        "api_name": "Google Apps Group Migration",
+        "id": 10465,
+        "progweb_descr": " Google Apps Group Migration API allow developer migrate email file email distribution list public folder Google Group discussion archive APIs main method upload migrate email file archive"
+    },
+    {
+        "progweb_cat": "Email,Calendars",
+        "api_name": "AtMail",
+        "id": 10711,
+        "progweb_descr": " Atmail offer email calendar contact communication service linux base service integrate Outlook mail service offer advanced message collaboration feature Atmail API facilitate add modify delete user account domains admins Atmail service service use REST protocol return XML JSON"
+    },
+    {
+        "progweb_cat": "Email,Italian",
+        "api_name": "Tiscali Email Services",
+        "id": 11016,
+        "progweb_descr": " Tiscali Services IT engine Tiscali Group Italian telecommunication company Tiscali Services provide collection emailrelated APIs perform function validate email address account password send email userselected Simple Mail Transfer Protocol SMTP server return name SMTP server give domain In spite Italian origin Tiscali Services website provide user English"
+    },
+    {
+        "progweb_cat": "Email,Real Time",
+        "api_name": "Quickie Marketing Scrub",
+        "id": 11419,
+        "progweb_descr": " Quickie Marketing Scrub service email verification service allow user verify safereal deliverable email address API available standard Scrub API format also FTP format bulk uploads API work realtime scrubs 100 MB data per dayThe Service take REST call return XML"
+    },
+    {
+        "progweb_cat": "Email,Messaging",
+        "api_name": "Sailthru",
+        "id": 12198,
+        "progweb_descr": " service manages email communication customer base analysis behavior activity within system It also coordinate message via email SMS text message website content channel customize message Each recipient receive message specifically tailor pattern interaction sender Options use include transaction confirmation message blast promotional messaging campaign similar customer contact activity API method support send customized email individual recipient schedule deliver blast email SMS campaign manage subscription contact preference optout request Methods also handle backend process status report current communication activity customer address book import export"
+    },
+    {
+        "progweb_cat": "Email,Messaging",
+        "api_name": "MESSAGEmanager",
+        "id": 12387,
+        "progweb_descr": " service handle message via email SMS configure send message specify recipient contact list It also monitor outbound message traffic report success failure message mode API method support submit message include message body delivery mode recipient address specification Methods also support designation file folder location service poll new file contain message send configuration information Query method retrieve delivery performance information confirm receipt message bounce rate block address"
+    },
+    {
+        "progweb_cat": "Email,Messaging",
+        "api_name": "Dialect Premailer",
+        "id": 12563,
+        "progweb_descr": " service prepares HTMLencoded email embed CSS style send recipient It create style attribute link CSS stylesheets convert relative path link absolute path check style compatibility popular email client These check modification help promote consistent display HTML email recipient API method support submission component assemble include URLs HTML CSS source base URL link coversion query sting add link traffic analytics report Methods also accept parameter control conversion process API generate email file provide link result HTML plain text version"
+    },
+    {
+        "progweb_cat": "Email,Messaging",
+        "api_name": "Unified eMail",
+        "id": 12921,
+        "progweb_descr": " service provide integrated email management include SMTP relay email storeandforward Applications use service automate email campaign message handle include recipient list management subscribeunsubscribe management successbounce rate API method support account management message management include content analysis message retrieval Methods also enable handle recipient list unsubscribe request bouncebadaddress statistic"
+    },
+    {
+        "progweb_cat": "Email,Messaging",
+        "api_name": "leadsNyou Email Marketing",
+        "id": 14716,
+        "progweb_descr": " LeadsNyou marketing service provide several tool Email Marketing SMS Marketing along database leadsNyou Email Marketing API let developer synchronize application leadsNyou Email Marketing service With API developer create tool manage contact send email campaign fetch result perform require task Email Marketing API use XML data format require API Key attach call"
+    },
+    {
+        "progweb_cat": "Email,Lists",
+        "api_name": "Fiesta",
+        "id": 12282,
+        "progweb_descr": " Fiesta group mail list service management platform Users set private mailing list group email Mailing list free adfree Fiesta API allow developer integrate functionality Fiesta application main API method list management include create group manage user"
+    },
+    {
+        "progweb_cat": "Email,Social",
+        "api_name": "BrandMyMail",
+        "id": 12730,
+        "progweb_descr": " BrandMyMail offer platform let user customize email use social medium Users add dynamic social content Twitter Facebook update YouTube video blog post videos In addition platform give user analytics tool count total email send open rate click API allow user integrate BrandMyMail platform enterprise software It use HTTP call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Email,Social",
+        "api_name": "Rapportive",
+        "id": 12836,
+        "progweb_descr": " Rapportive addon email show user information contact Rapportive display information Facebook Twitter LinkedIn account location workplace email contact Rapportive Raplet API enable embed data Rapportive sidebar"
+    },
+    {
+        "progweb_cat": "Email,Social",
+        "api_name": "ListiMonkey",
+        "id": 13261,
+        "progweb_descr": " ListiMonkey service allow user get Twitter list searcher email inbox Users enter list want email filter keywords choose enter email address want Twitter list send ListiMonkey API allow developer access integrate functionality data ListiMonkey application Some example API method include create new alert access list specific user manage email alert"
+    },
+    {
+        "progweb_cat": "Email,Office",
+        "api_name": "Shortmail",
+        "id": 13069,
+        "progweb_descr": " Shortmail email service restrict email message 500 character It offer feature like Public Conversations attachment well integration social channel Shortmail API give developer programmatic access functionality service Methods include view status inbox retrieve message send mail search message It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Email,Surveys",
+        "api_name": "Silverpop",
+        "id": 13139,
+        "progweb_descr": " Silverpop offer email marketing service business look enhance efficiency standard marketing practice use automation Beyond automate email marketing Silverpop platform provide service lead generation nurture report analytics data list management multichannel marketing survey deployment social tool Silverpop allow great deal control customization allow integration web analytics CRM system Silverpop also provide SOAPbased API programmatically interact Silverpop platform API enable user setup automate email message create manage customer record prepopulate web form user generate report capture data create custom form survey base user data This API available pay account service"
+    },
+    {
+        "progweb_cat": "Email,Electronic Signature",
+        "api_name": "RPost",
+        "id": 13864,
+        "progweb_descr": " RPost offer register email service user access legal electronic messaging document service proof encryption esignatures high value collaboration across multiple webconnected device Developers also use RPosts API data input feature selection product delivery intelligence report authentication API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Email,Hosting",
+        "api_name": "LuxSci",
+        "id": 13870,
+        "progweb_descr": " Lux Scientiae LuxSci secure web email host service Provides secure premium email include bulk email filesharinghosting LuxScis API allow developer write application perform account administration task update create query user"
+    },
+    {
+        "progweb_cat": "Email,Hosting",
+        "api_name": "Rackspace Email",
+        "id": 14634,
+        "progweb_descr": " Rackspace Email REST API provide function Control Panel RESTbased web API Whether add new customer account add mailbox support feature API allow application administer change regardless application language nature API accessible access Control Panel include resellers business customer enterprise customer indirect customer However operation available nonresellers"
+    },
+    {
+        "progweb_cat": "Email,Customer Service",
+        "api_name": "SupportBreeze",
+        "id": 14503,
+        "progweb_descr": " Supportbreeze API RESTful JavaScript version API allow user create list recordview edit delete question account Supportbreeze service give user support desk complete knowledge base question form request checker"
+    },
+    {
+        "progweb_cat": "Email,Backup",
+        "api_name": "MXSave",
+        "id": 14761,
+        "progweb_descr": " MXSave help business individual email continuity backup MXSave API provide full capability service include manage client domains utilize backup mx service manage user email continuity service retrieve client domain user information useful integrate bill system MXSave provide service queue email message automatically mail server downtime API use XMLRPC protocol response format XML"
+    },
+    {
+        "progweb_cat": "Email,Support",
+        "api_name": "Nicereply",
+        "id": 15203,
+        "progweb_descr": " Nicereply email rating system let customer decide quality service Using unique URL end email Nicereply help see customer think Nicereply API provide access rating see companyor particular customer service representativeis rat period time"
+    },
+    {
+        "progweb_cat": "Email,Blogging",
+        "api_name": "FraudLabs MailBox Validator",
+        "id": 15725,
+        "progweb_descr": " Use MailBoxValidator Email Validation Web Service validate email address use syntax checking DNS domain check SMTP check It use reduce fraudulent email address online account registration order placement well help minimize undeliverable email"
+    },
+    {
+        "progweb_cat": "Email,Widgets",
+        "api_name": "Yahoo Mail Applications",
+        "id": 15791,
+        "progweb_descr": " Use Yahoo Mail Applications API create apps extend Yahoo Mail Part Yahoo Application Platform YAP Developers embed JavaScript application inside iframe run inside Yahoo Mail Functionality include register callback get notify message drop onto app create new message appgenerated content integrate social data Yahoo network use YQL Developers also call third party ’ web service optionally use OAuth Flickrstyle signedcallhome authentication"
+    }
+]

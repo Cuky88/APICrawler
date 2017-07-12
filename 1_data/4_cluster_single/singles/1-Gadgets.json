@@ -1,0 +1,8 @@
+[
+    {
+        "progweb_cat": "Gadgets,Hardware",
+        "api_name": "BlinkStick",
+        "id": 3125,
+        "progweb_descr": " Blinkstick API allow change color publicly available Blinkstick device via HTTP GET request You use web browser send request curl utility Unix operate system application support send HTTP request BlinkStick smart LED controller integrate USB firmware It plug computer allow control color individually addressable single color LEDs LED strip wide range program language implementation give power control LEDs without need program microcontroller It act HID Human Interface Device need additional driver It use ATTiny85 microcontroller VUSB firmware"
+    }
+]

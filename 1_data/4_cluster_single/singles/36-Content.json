@@ -1,0 +1,218 @@
+[
+    {
+        "progweb_cat": "Content,Collaboration",
+        "api_name": "Box",
+        "id": 286,
+        "progweb_descr": " Box modern content management platform transforms organization work collaborate achieve result faster Box Platform provide content APIs build secure content experience custom apps With Box Platform organization bring content management collaboration service custom apps build custom integration Box"
+    },
+    {
+        "progweb_cat": "Content,Cryptocurrency",
+        "api_name": "LBRY",
+        "id": 1694,
+        "progweb_descr": " LBRY blockchainbased opensource fat protocol fully decentralize API discover distribute purchase data Via LBRY anyone may publish piece digital content without permission consume others Similarly LBRY may use discover occasionally purchase digital content publish others"
+    },
+    {
+        "progweb_cat": "Content,Content Management",
+        "api_name": "contentXtractor",
+        "id": 1737,
+        "progweb_descr": " contentXtractor API offer developer tool able extract relevant content webpage This content title text image language To use API user need provide webpage URL"
+    },
+    {
+        "progweb_cat": "Content,Content Management",
+        "api_name": "Elemeno",
+        "id": 2361,
+        "progweb_descr": " Elemeno API RESTful service access via HTTP examples Javascript PHP Ruby cURL Some feature include FrontEnd Agnostic Content Modeling Media Management Elemeno content management platform let create manage content deliver device"
+    },
+    {
+        "progweb_cat": "Content,Content Management",
+        "api_name": "W3C ActivityPub",
+        "id": 2989,
+        "progweb_descr": " W3C ActivityPub API protocol provide API create update delete content well API deliver notification subscribe content ActivityPub decentralize network protocol base ActivityStreams 20 data format This document work progress may update replace rendered obsolete time"
+    },
+    {
+        "progweb_cat": "Content,Content Management",
+        "api_name": "Brafton",
+        "id": 3555,
+        "progweb_descr": " Brafton content marketing service Brafton API integrate content application Requests make HTTP authentication require API Key Writing video graphic SEO social analytics available implementation service"
+    },
+    {
+        "progweb_cat": "Content,Content Management",
+        "api_name": "Contentful Delivery",
+        "id": 4377,
+        "progweb_descr": " Contentful Delivery API readonly API retrieve content Contentful Content deliver JSON data image videos medium deliver file Developers integrate API application enable user retrieve content directly web application Contentful content management backend web mobile apps"
+    },
+    {
+        "progweb_cat": "Content,Content Management",
+        "api_name": "Contentful Management",
+        "id": 4402,
+        "progweb_descr": " Contentful Management API REST API manage content Developers integrate API application enable user manage content directly web application Contentful content management backend web mobile apps"
+    },
+    {
+        "progweb_cat": "Content,Movies",
+        "api_name": "Kannuu Lookup",
+        "id": 2205,
+        "progweb_descr": " Kannuu provider TV content discovery solution company provide variety APIs facilitate use webbased form networksupported platform convey content discovery service client remote location Kannuu Lookup API generate automate suggestion TV content search API ’ predictive capability float suggestion TV content search API send request URI Query StringCRUD format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Content,Movies",
+        "api_name": "Kannuu Locker",
+        "id": 2302,
+        "progweb_descr": " Kannuu provider TV content discovery solution company provide variety APIs facilitate use webbased form networksupported platform convey content discovery service client remote location Kannuu Locker API facilitate storage retrieval TV video content Developers use API compartmentalize store video content accord movie TV show title personality well keywords search term API send request URI Query StringCRUD format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Content,Movies",
+        "api_name": "Kannuu Suggest",
+        "id": 2303,
+        "progweb_descr": " Kannuu provider TV content discovery solution company provide variety APIs facilitate use webbased form networksupported platform convey content discovery service client remote location Kannuu Lookup API generate automate suggestion TV content search API ’ predictive capability float suggestion TV content search API send request URI Query StringCRUD format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Content,Movies",
+        "api_name": "Kannuu Lookup Configuration",
+        "id": 2304,
+        "progweb_descr": " Kannuu provider TV content discovery solution company provide variety APIs facilitate use webbased form networksupported platform convey content discovery service client remote location Developers require Kannuu Lookup Configuration able deploy Kannuu Lookup API It basically launch pad Kannuu Lookup ’ predictive content search autosuggest functionality API send request URI Query StringCRUD format return responses JSON format"
+    },
+    {
+        "progweb_cat": "Content,Caching",
+        "api_name": "KeyCDN API",
+        "id": 2500,
+        "progweb_descr": " KeyCDN API integrate zone zone aliases zone referrers report associate web performance Available REST architecture HTTP request JSON responses Developers authenticate Key interact endpoint available zone cache URL report"
+    },
+    {
+        "progweb_cat": "Content,Extraction",
+        "api_name": "Postlight Mercury Web Parser",
+        "id": 2586,
+        "progweb_descr": " This API take web article return relevant content include headline author body text relevant image Mercury web publish toolkit web parser zerocode AMP converter It extract meaningful component publish page code create AMP ’ version one line code Postlight digital product studio design build apps web mobile"
+    },
+    {
+        "progweb_cat": "Content,Extraction",
+        "api_name": "Instaparser Article",
+        "id": 3993,
+        "progweb_descr": " Instaparser Article API allow developer parse full article include body text image videos This API use Instapaper optimize website display mobile device Instaparser service design cleanly pull content website view easily mobile device"
+    },
+    {
+        "progweb_cat": "Content,Audio",
+        "api_name": "Amazon Alexa Flash Briefing Skill",
+        "id": 2781,
+        "progweb_descr": " A Flash Briefing offer sneak preview news joke list audio type content channel accord topic selection frequency preference recipients A user create Flash Briefing Skill simply activate content preference skills portal Alexa app This allow business use Flash Briefing Skill API create format channel Flash Briefings target customer API ’ developer portal provide room label describe content destine display skill list addition set configuration feed fill content Flash Briefing Skill Flash Briefing Skill API send request return response JSON RSS format"
+    },
+    {
+        "progweb_cat": "Content,Audio",
+        "api_name": "Lionbridge onDemand Content",
+        "id": 3221,
+        "progweb_descr": " Lionbridge onDemand Content API proprietary language translation solution It operate costeffective onDemand translation portal different type content A developer conveniently accommodate translation need single Lionbridge Content API API ’ Create Account List Services Generate Quote functionality support creation onDemand buyer account identification translation quality level creation translation project respectively Its provider recommend apply Lionbridge onDemand Retail portal Lionbridge onDemand Enterprise portal Developers require register API key build application developer sandbox prior launch translation feature production mode"
+    },
+    {
+        "progweb_cat": "Content,Images",
+        "api_name": "IntelligenceBank",
+        "id": 4240,
+        "progweb_descr": " IntelligenceBank provide Digital Asset Management DAM risk compliance platform enterprises IntelligenceBank API integrate service software application Services include implementation SAML HR system additional data workflows Developers authenticate HTTP basic auth"
+    },
+    {
+        "progweb_cat": "Content,Images",
+        "api_name": "ModerateContent Automatic Image Moderation",
+        "id": 4514,
+        "progweb_descr": " ModerateContent Automatic Image Moderation API support integration automate filter mechanisms image different web source API filter adultrated violent image along type inappropriate content include image alcohol smoke abusive material It provide gender age detection mechanism addition capability detect face tag text OCR scene API support jpg png bmp gif animate Gif"
+    },
+    {
+        "progweb_cat": "Content,Blogging",
+        "api_name": "IBM Watson AlchemyData News",
+        "id": 4716,
+        "progweb_descr": " IBM Watson AlchemyData News API enable user query worlds news source blog would database AlchemyData News index 250000 300000 news blog article every day natural language processing This allow highly targeted search trend analyse Users search article index last 60 day"
+    },
+    {
+        "progweb_cat": "Content,Automation",
+        "api_name": "Act-On Content",
+        "id": 4939,
+        "progweb_descr": " ActOn Content API allow developer integrate application API service enable user manage message Using API develoopers automate manipulation content use method update image get medium file update footer delete header forth ActOn marketing automation software provider"
+    },
+    {
+        "progweb_cat": "Content,eCommerce",
+        "api_name": "Pixlee",
+        "id": 5117,
+        "progweb_descr": " Pixlee Content API independent development provide JSON REST format interact content consumption content submission Developers access API Key Shared Secret Pixlee provide way use customer photo content brand marketing"
+    },
+    {
+        "progweb_cat": "Content,Feeds",
+        "api_name": "Fiz FizPlaces",
+        "id": 5163,
+        "progweb_descr": " FizPlaces API provide location base feedback customized capability High quality content location 20 piece informaton show per place plus custom content This REST API respond JSON format us OAuth2 method authorization Fiz focus aggregate experiential travel content supply custom feed travel hotel leisure company"
+    },
+    {
+        "progweb_cat": "Content,Activity Streams",
+        "api_name": "Yammer OG Schema",
+        "id": 5320,
+        "progweb_descr": " Yammer OG Schema API provide developer detailed description activity schema delivery An activity envelope encapsulate activity actor action object well optional delivery list activity This API support JSON Yammer private social network company"
+    },
+    {
+        "progweb_cat": "Content,Data",
+        "api_name": "GitHub Repository Contents",
+        "id": 5877,
+        "progweb_descr": " GitHub Repository Contents API allow developer retrieve content file within repository Base64 encode content GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Content,Data",
+        "api_name": "Share Data",
+        "id": 6822,
+        "progweb_descr": " Shareaholic content amplificaiton monetization platform offer user tool advertise promote website increase traffic With Share Data API user able learn user share engage website content All API method accessible via HTTP call"
+    },
+    {
+        "progweb_cat": "Content,Data Mining",
+        "api_name": "ContentMine",
+        "id": 6473,
+        "progweb_descr": " ContentMine content mining service design primarily work science article It use processor crawler scraper visitor mine data Metadata crawler store ContentMine catalog bibJSON format Developers call processor access metadata programmatically use ContentMine API API also methods query catalog record process processor There also method query fact extract visitor"
+    },
+    {
+        "progweb_cat": "Content,Monitoring",
+        "api_name": "Topple Track",
+        "id": 8014,
+        "progweb_descr": " Topple Track antipiracy content monitoring service Topple Track API allow user partner Topple Track antipiracy system create send retrieve data relative content account Most often API use whitelabel Topple Track technology content management platform"
+    },
+    {
+        "progweb_cat": "Content,Publishing",
+        "api_name": "Elsevier ScienceDirect",
+        "id": 8248,
+        "progweb_descr": " ScienceDirect APIs expose peerreviewed fulltext scientific technical medical content scholarly publication index ScienceDirect Elseviers premier scientific platform Anyone obtain API Key use APIs free charge provide policy use APIs data honor Full ScienceDirect APIs access grant client run within network organization ScienceDirect subscription Clients without ScienceDirect subscription access limit basic metadata basic search functionality full access OpenAccess content"
+    },
+    {
+        "progweb_cat": "Content,Publishing",
+        "api_name": "Scopus",
+        "id": 15629,
+        "progweb_descr": " Scopus APIs expose curated abstract citation data scholarly journal index Scopus Elseviers citation database Anyone obtain API Key use APIs free charge provide policy use APIs data honor Full Scopus APIs access grant client run within network organization Scopus subscription Clients without Scopus subscription access limit basic metadata citation record well basic search functionality"
+    },
+    {
+        "progweb_cat": "Content,Mobile",
+        "api_name": "Axilent",
+        "id": 9234,
+        "progweb_descr": " Axilent web mobile content publishing system build around ACE Adaptive Context Engine SaaS publish platform match content user feature user analysis personalize content product recommendation contextual marketing Axilent API provide RESTful interface automate manipulation ACE"
+    },
+    {
+        "progweb_cat": "Content,Russian",
+        "api_name": "Yandex Rich Content",
+        "id": 9999,
+        "progweb_descr": " Yandex major Russiabased internet company search engine state mission answer question internet user may In 2012 Yandex handle majority search traffic Russia Yandex Rich Content API provide developer access metadata Yandex content system contain ten billion page Available metadata include text summary page fullpage text image title page URLs More data type plan Yandex Rich Content API intend service work web page particularly user exchange links Potential us include browser version social network URL shortener provide additional feature instant message social blogging platform browser"
+    },
+    {
+        "progweb_cat": "Content,Plugins",
+        "api_name": "GetSimple",
+        "id": 10730,
+        "progweb_descr": " service provide access account associate installed instance provider content management system software It perform actual content management function within instance allows plugins work within instance interact provider capability This function allow Extend registry work plugins support complete task API method support status check application registry list lookup update register plugin filename Returned data provide operate parameter plugin CMS software version plugin create test"
+    },
+    {
+        "progweb_cat": "Content,Italian",
+        "api_name": "dotNetHell Contenuti",
+        "id": 11012,
+        "progweb_descr": " SOAPbased dotNetHell Contenuti API allow anyone publish content dotNetHell include article news tip onto website use can script Users may also retrieve list tip group category credential require service Users may change style color font choose content use CSS standardize module layout give website intranet dotNetHell website API documentation provide Italian"
+    },
+    {
+        "progweb_cat": "Content,Management",
+        "api_name": "Silk",
+        "id": 11304,
+        "progweb_descr": " Silk web content creation management platform Users organize web content add feature characteristic web page Silk functionality Silk API allow developer access integrate functionality Silk application Public documentation available interested developer sign httpsdocsgooglecomspreadsheetviewformformkeydFlwLXVOOXkzb1N5TDRyRFh0NU01WEE6MQ"
+    },
+    {
+        "progweb_cat": "Content",
+        "api_name": "EnClout Content",
+        "id": 11402,
+        "progweb_descr": " EnClout interested bring data together multiple source solve data silo business EnClout provide suite domain related APIs Content API provide basic web site content analysis give domain It extract category Language URL redirect URL metakeywords metadescription company phone email information JSON XML HTML format"
+    }
+]

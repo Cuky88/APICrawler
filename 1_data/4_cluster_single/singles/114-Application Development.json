@@ -1,0 +1,686 @@
+[
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "F5",
+        "id": 618,
+        "progweb_descr": " F5 IT company improve network security Some solution include network function virtualization secure web gateway cloud migration Products involve platform module BIGIP BIGIQ device cloud security To access information developer visit link iControl CodeShare access iControlREST 100 sample application"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Mesosphere Marathon",
+        "id": 1954,
+        "progweb_descr": " Mesosphere Marathon API component Apache Mesos ’ DCOS distribute operating system distribute operating system centralize management multiple computer Mesosphere Marathon API simplifies development RESTful service management application API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Kubernetes",
+        "id": 2167,
+        "progweb_descr": " Kubernetes open source standard develop apps make containerized application deployable scalable easy manage different host cluster Kubernetes API provide containercentric infrastructure implement fast seamless predictable application development operation API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Dojo Toolkit",
+        "id": 2196,
+        "progweb_descr": " Dojo Toolkit API provide open source modular platform develop crossplatform JavaScript application API send request return response JSON JSONP format"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Amazon Developer Publishing",
+        "id": 2780,
+        "progweb_descr": " Amazon Developer Publishing API allow developer build new apps upgrade exist one This API restrict developer permission participate developer preview selection process involve fill short questionnaire Only successful developer contact notification access detail API send JSONformatted request response"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Apiary Gist Fox",
+        "id": 3005,
+        "progweb_descr": " Apiary Gist Fox API support instant share note snippet cod Users either create public gist item keep private This API require authentication transmits JSONformatted request response"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Apiary Default",
+        "id": 3160,
+        "progweb_descr": " Apiary Default API allow user save short text It support creation list recovery removal note API conveys request responses JSON format"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Bootswatch",
+        "id": 3237,
+        "progweb_descr": " Bootswatch API allow user integrate web development theme application API provide access collection customizable Bootstrap theme host Bootstrap Bootstrap CDN websites API conveys JSONformatted request response"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Tableau REST",
+        "id": 3627,
+        "progweb_descr": " Tableau REST API provide HTTP access programmatic solution manage manipulate functional resource Tableau server API allow user access variety functional parameter include website visitor data source workbooks Users alternatively deploy API customization application script interchange resource available Tableau Server Use RESTful API require upwards version 82 Tableau server"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Kumulos",
+        "id": 3922,
+        "progweb_descr": " Kumulos API allow user access data store table programmatically Kumulos application creation monetization MBaaS management platform Developers brand Kumulos manage client apps single location"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Akka",
+        "id": 4374,
+        "progweb_descr": " AKKA API aim enhance application development AKKA available Java Scala HTTP format access Maven central support send message infotypesafecom"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Imperavi",
+        "id": 4444,
+        "progweb_descr": " Imperavi API work plugin use Redactor WYSIWYG text editor developer use develop application aim Imperavi provide immersive user experience create powerful simple web apps"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "moCloud",
+        "id": 4905,
+        "progweb_descr": " moCloud REST API allow developer access integrate functionality moCloud application Some example API method include manage user deploy manage application manage stack moCloud application management platform allow user build run deploy application"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Mobingi",
+        "id": 4906,
+        "progweb_descr": " Mobingi REST API allow developer access integrate functionality Mobingi application Public documentation available API access come account service Mobingi provide cloud application development management tool service"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "LaunchDarkly",
+        "id": 5245,
+        "progweb_descr": " LaunchDarkly REST API allow developer access integrate functionality LaunchDarkly applications Some example API method include integrate feature application manage user account manage application goal documentation also allow API test LaunchDarkly also offer multiple SDKs variety language LaunchDarkly application feature management deployment platform"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "AppearIQ",
+        "id": 6838,
+        "progweb_descr": " AppearIQ offer enterpriselevel mobile development solution cross platform application RESTful Integration API evoke platform server notify new data query content"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Leanplum",
+        "id": 6852,
+        "progweb_descr": " Leanplum integrated optimization tool mobile application It come content management service handle mobile content well market automation service mobile AB test analytics Developers integrate Leanplums function application use service REST API"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Yasoon",
+        "id": 6859,
+        "progweb_descr": " With Yasoon user access application cloud service Microsoft Outlook 2010 2013 API application integration Outlook use HTML5 Javascript Developers download service cost In site see index list parameter alert app contact feed io notification outlook calendar mail Yasoon also display sample code Javascript along downloadable get start guide"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "MakeItApp",
+        "id": 7591,
+        "progweb_descr": " MakeItApp social collaborative service people – refer “ Talents ” – get together create new apps Talent propose app idea becomes Project Leader app An App Angel work Project Leader help work project detail identify kind Talents theyll need From Project Leaders set recruit Talents pay revenue share MakeItApp take 30 revenue rest split Project Leader Talents MakeItApp also provide user Backend Service BaaS store apps data This backend access programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Application Development,Applications",
+        "api_name": "Docker",
+        "id": 8152,
+        "progweb_descr": " Docker opensource platform build deploy manage container application Docker offer variety feature allow application run server multiple platform Docker API allow developer access integrate functionality Docker applications Some example API method include manage user account manage file retrieve container repository associate data"
+    },
+    {
+        "progweb_cat": "Application Development",
+        "api_name": "Ludei Cloud",
+        "id": 638,
+        "progweb_descr": " Ludei help user develop apps game HTML5 Developers use app framework game engine want Ludei provide access tool perform remote test debug directly device Its cloudbased compilation system deploy across platform produce set HTML5 feature every device OS Users access cloud compilation system programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Application Development",
+        "api_name": "OpenStack Bare Metal",
+        "id": 2338,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service It provide standard APIs well suit multiple implementation OpenStack Bare Metal API RESTful platform interacting cloudprovisioned hardware architecture Bare Metal service OpenStack Bare Metal service essentially network physical server transform virtual machine make available service provider enterprises cloud infrastructure Developers use OpenStack Bare Metal API AP create control panel user acquire privileged right access interact bare metal server cloud environment"
+    },
+    {
+        "progweb_cat": "Application Development",
+        "api_name": "Google App Engine Admin RPC",
+        "id": 2987,
+        "progweb_descr": " This RPC platform building scalable web application mobile backends It provision manage App Engine application Instance Versions use program language Google Cloud Platform allow add variety service storage access machinelearningbased image analysis Cloud Platform application It allow developer build cloud tool infrastructure application map device"
+    },
+    {
+        "progweb_cat": "Application Development",
+        "api_name": "Mendix Deploy",
+        "id": 4774,
+        "progweb_descr": " Mendix Deploy API allow developer manage application environment Mendixs public cloud With API developer able deploy transport new model version application environments Developers need Build API create manage deployment package Mendix application development service"
+    },
+    {
+        "progweb_cat": "Application Development",
+        "api_name": "GitHub Pull Requests",
+        "id": 5919,
+        "progweb_descr": " GitHub Pull Requests API allow developer integrate GitHub pull Request service application enable list view edit create merge pull request This API require twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Application Development",
+        "api_name": "MetaCPAN",
+        "id": 11284,
+        "progweb_descr": " MetaCPAN service search CPAN repository Perl modules Perl programmer search MetaCPAN keyword module author category MetaCPAN service also make available via API yes theres CPAN module access MetaCPAN Developers search MetaCPAN API six different field author distribution favorite file rating release There also advance feature join across multiple search type API RESTful data return JSON JSONP callback current version API allow maximum 5000 search request"
+    },
+    {
+        "progweb_cat": "Application Development,API",
+        "api_name": "GeoSimulator",
+        "id": 1408,
+        "progweb_descr": " GeoSimulator API offer test platform developer want integrate geolocation capability application Developers test arbitrary geofences random street consume GeoSimulator REST API prefer data exchange format JSON Nisos Technologies create cloud base application help nonprofit marketing advertising financial real estate technology provider"
+    },
+    {
+        "progweb_cat": "Application Development,API",
+        "api_name": "Apache Mesos Chronos",
+        "id": 1951,
+        "progweb_descr": " Apache Mesos Chronos job scheduler compute task capable process dependency handle ISO8601based schedule It design operate top Apache Mesos support job orchestration well custom Mesos default command executor Mesos Chronos API allow developer build application support manipulation scheduler compute task add create delete list modify run job RESTful API send request return response JSON format"
+    },
+    {
+        "progweb_cat": "Application Development,API",
+        "api_name": "Apache Mesos Executor HTTP",
+        "id": 1952,
+        "progweb_descr": " Mesos project Apache Software Foundation product similar principle apply construction Linux kernel But Mesos kernel feature additional functionality unlimited compatibility machine provision variety resource management schedule APIs Apache Mesos Executor HTTP API support construction application run implement compute task process job Apache Mesos platform RESTful API make possible developer deploy HTTP request substitute C native client library build Mesos Executor application HTTP request actually facilitate interaction custom executor Mesos agent API accept strictly HTTP POST request usually encode JSON format return responses JSON format well"
+    },
+    {
+        "progweb_cat": "Application Development,API",
+        "api_name": "Apache Mesos Scheduler HTTP",
+        "id": 1953,
+        "progweb_descr": " Mesos project Apache Software Foundation share fundamental principle Linux kernel But Mesos kernel feature additional functionality unlimited compatibility machine provision variety resource management schedule APIs Apache Mesos Scheduler HTTP API support construction application run schedule compute task process job Apache Mesos platform RESTful API make possible developer deploy HTTP request substitute C native client library build Mesos Schedulers HTTP request actually facilitate interaction custom scheduler Mesos master API accept strictly HTTP POST request usually encode JSON format return responses JSON format well"
+    },
+    {
+        "progweb_cat": "Application Development,API",
+        "api_name": "Apache Mesos Operator HTTP",
+        "id": 1976,
+        "progweb_descr": " Mesos project Apache Software Foundation share fundamental principle Linux kernel But Mesos kernel feature additional functionality unlimited compatibility machine provision variety resource management schedule APIs Apache Mesos Operator HTTP API simplify construction operator application RESTful API make possible developer deploy HTTP request substitute C native client library building operator application HTTP request facilitate interaction master API call agent API call API accept strictly HTTP POST request usually encode JSON format return responses JSON format well"
+    },
+    {
+        "progweb_cat": "Application Development,API",
+        "api_name": "Apache Mesos",
+        "id": 3483,
+        "progweb_descr": " Apache Mesos API design accommodate wide variety framework language developer use development application RPCbased API expand language scope driverbased framework APIs simplify development protocol RESTbased HTTP APIs interest functionality API eliminate need open connection back clientside server requirement communicate This effectively open Mesos codebase easy implementation tremendous strategy process network partition Developers also deploy new HTTP functionality Apache Mesos API experimental basis stream event API full release well document It send request URI Query StringCRUD format return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "OneLogin SCIM",
+        "id": 1688,
+        "progweb_descr": " This Rest API system Crossdomain Identity Management SCIM aim simplify user provision management cloud It currently support SCIM 11 SCIM 20 Here call API receive OneLogin SCIM provision Get User Create User Get User ID Update User OneLogin Identity Access Management IAM provider enterprise cloud legacy hybrid IT environment"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "OpenStack Clustering",
+        "id": 2337,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service It provide standard APIs well suit multiple implementation OpenStack Clustering API allow developer integrate functionality create list update delete cluster It support creation manipulation different cluster category different application event action API send HTTPformatted request return response URO Query StringCRUD format"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "Acquia Lift Push",
+        "id": 2362,
+        "progweb_descr": " Acquia Lift Push API allow receive information real time visitor website enters segment youre particularly interested notification message Acquia Lift service send HTTP server contain follow parameter person touch event Just enter URL associate specific segment location whenever person enters particular segment notification contain information person touch event match segment send URL chosen Acquia Lift include several interface use interact stored visitor data send information Acquia Lift service Acquia Cloud base solution allow create maintain digital experience Drupal It provide interface expose APIs use import export data Acquia Lift service"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "Salesforce Heroku Connect",
+        "id": 4850,
+        "progweb_descr": " Heroku Connect API application development platform use exchange data Salesforce organization Heroku Postgres database It use sync account custom object Salesforce This REST API respond JSON format us OAuth version 20 authentication Salesforce base San Francisco develop CRM software"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "ShepHertz App42 Cloud Review/Rating",
+        "id": 5723,
+        "progweb_descr": " ShepHertz App42 Cloud ReviewRating API allow developer create review rating application item ShepHertz Technologies cloud company specialize many aspect data management"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "Visual Studio Online",
+        "id": 6326,
+        "progweb_descr": " Visual Studio integrate development environment Microsoft enable programmer develop different computer program compatible Microsoft Windows API let developer integrate application Visual Studio Online VSO With API developer able make request access different type information available VSO Response JSON format"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "Terminal",
+        "id": 6430,
+        "progweb_descr": " Terminal support Cloudlabs allow developer build application virtual server mimic convenience local build combine scalability cloud service Using Terminal developer manage instance snapshots manage versioning create application provision duplicate code others use Terminal API use access virtual computing environment use HTTP request JSONformatted response API specifically implement create terminal instance manage user permission manage terminal access authorize key"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "Relayr",
+        "id": 6666,
+        "progweb_descr": " Relayr OpenSensor Cloud Platform allow people create application physical world around Relayr API provide developer programmatic access entity available relayr platform These entity include user device device model publisher transmitter apps With API developer able develop application sense environment"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "Tutum",
+        "id": 6727,
+        "progweb_descr": " Tutum platform building deploy manage application across cloud Users provide free private registry store application well quick access Dockers public private registry Tutum help user manage cluster deploy application also orchestrate infrastructure application container Users manage monitor application Tutums dashboard API CLI tool"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "Google Kubernetes",
+        "id": 6918,
+        "progweb_descr": " Kubernetes container cluster manager make Google optimize Google Cloud Platform open source free implement Across predetermine node instance Kubernetes able schedule container replicas A master instance call Kubernetes API order define task Developers customize number type container create accord circumstance Developers begin implement Kubernetes visit GitHub repository"
+    },
+    {
+        "progweb_cat": "Application Development,Cloud",
+        "api_name": "Adobe PhoneGap Build",
+        "id": 11082,
+        "progweb_descr": " Adobe PhoneGap standardsbased opensource development framework building crossplatform mobile apps iOS Android Windows Phone webOS Symbian BlackBerry system Users upload HTML5 CSS JavaScript asset Adobe PhoneGap Build cloud service let work compile Adobe PhoneGap Build API provide programmatic access function create building update download apps It design easy integration system use REST call issue JSON JSONP"
+    },
+    {
+        "progweb_cat": "Application Development,Streaming",
+        "api_name": "Java 9 Stack-Walking",
+        "id": 1771,
+        "progweb_descr": " Java 9 StackWalking API provide stream information stack trace execution program API require Virtual Machine capture snapshot entire stack This return array element filter purpose remove noise Developers skip drop limit StackFrames walk method"
+    },
+    {
+        "progweb_cat": "Application Development,DevOps",
+        "api_name": "Split",
+        "id": 1889,
+        "progweb_descr": " Split API application deployment platform offer control software rollouts switchboard feature flag target rollout plan integration API use build custom implementation integrate preexist tool JSON prefer data format Split give easy way deliver specific feature target customer"
+    },
+    {
+        "progweb_cat": "Application Development,DevOps",
+        "api_name": "IP Bouncer",
+        "id": 4220,
+        "progweb_descr": " IP Bouncer API give developer access control visitor IP address base set rule Ruling system allow application owner ban specific user IP range IP base specific country IP Bouncer provide easy IP blacklist mechanism service"
+    },
+    {
+        "progweb_cat": "Application Development,Developers",
+        "api_name": "Exponent",
+        "id": 2453,
+        "progweb_descr": " Exponent API provide mobile application development provide indirect access via SDKs As open source UI initiative developer integrate contact camera social login Android iOS application additional information contact supportgetexponentcom"
+    },
+    {
+        "progweb_cat": "Application Development,Developers",
+        "api_name": "Configure.IT",
+        "id": 6337,
+        "progweb_descr": " ConfigureIT API allow developer build mobile apps use developer tool available iOS iPhone others This mobile application development platform offer custom UI design templates configuration support importexport capability support third party APIs"
+    },
+    {
+        "progweb_cat": "Application Development,Automation",
+        "api_name": "packagecloud.io",
+        "id": 2589,
+        "progweb_descr": " This Rest API use automation common task combination metadata configuration software prepared package management program This include Java package Clojure SBT fatjar Debian source package DSCs Python package wheel egg source distribution RubyGems It allow build repo package metadata describe variety attribute package access use Travis CI Jenkins Buildkite Private Package Repository packagecloundio service provide apt yum rubygems repository powerful tooling security automation"
+    },
+    {
+        "progweb_cat": "Application Development,Automation",
+        "api_name": "Engine Yard Core",
+        "id": 4282,
+        "progweb_descr": " Engine Yard offer platform design support automation application deployment This platform feature monitor telemetry internal access log automate provision environment instance automation Core API use implement Engine Yards PaaS This API REST base return data JSON XML format use Tokens authentication"
+    },
+    {
+        "progweb_cat": "Application Development,Automation",
+        "api_name": "kintone REST",
+        "id": 5066,
+        "progweb_descr": " kintone REST API allow developer manage app record retrieve app description manipulate space custom application Kintone service allow developer create custom business application automate business process use draganddrop interface Users may also choose 30 prebuilt application kintones library"
+    },
+    {
+        "progweb_cat": "Application Development,Collaboration",
+        "api_name": "Appscode",
+        "id": 2823,
+        "progweb_descr": " Appscode API allow developer access integrate application development platform This platform allow user collaboratively code test deploy containerize apps Users automatically test change merge continuously package deploy application This API stable signature may change version 10"
+    },
+    {
+        "progweb_cat": "Application Development,Collaboration",
+        "api_name": "GitHub User Followers",
+        "id": 5930,
+        "progweb_descr": " GitHub User Followers API allow developer list follower user list user follow another user follow user unfollow user moreThis API use twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Application Development,Security",
+        "api_name": "W3C The Permissions",
+        "id": 3227,
+        "progweb_descr": " W3C Permissions API document specifies API handle permission It allow web application know whether give permission grant deny user ask whether give permission grant This document work progress may replace render obsolete time"
+    },
+    {
+        "progweb_cat": "Application Development,Security",
+        "api_name": "JScrambler",
+        "id": 8704,
+        "progweb_descr": " JScrambler service encrypts JavaScript code use site application make appear incomprehensible code still function exactly much hard anyone copy JScrambler test major browser mobile device JavaScript frameworks JScrambler API allow developer automate request encrypt JavaScript project delete project download encrypt project retrieve information managing encrypt project version"
+    },
+    {
+        "progweb_cat": "Application Development,Forums",
+        "api_name": "Tuleap",
+        "id": 3259,
+        "progweb_descr": " This RESTful API let work Tuleap Open Source allinone software development application lifecycle management platform Tuleap allow collect prioritize idea discuss estimate plan share late version create wiki page track progress This fully document support release"
+    },
+    {
+        "progweb_cat": "Application Development,Forums",
+        "api_name": "Tuleap SOAP",
+        "id": 3269,
+        "progweb_descr": " This SOAP API let work Tuleap Open Source allinone software development application lifecycle management platform Tuleap allow collect prioritize idea discuss estimate plan share late version create wiki page track progress This fully document support release"
+    },
+    {
+        "progweb_cat": "Application Development,Browsers",
+        "api_name": "repl.it Code Evaluation",
+        "id": 3292,
+        "progweb_descr": " replit Code Evaluation API allow developer run code builder application browser It provide two distinctive interface option HTTP interface Websocket interface HTTP interface allow user execute particular code numerous file use single API call Websocket interface hand facilitate execution code stateful environment This make possible user alternate call define access variable replit Code Evaluation API stand secure multilingual interactive cloudcompliant solution flexible variety device platforms Its paid package include Standard Plan Unlimited Plan Large Plan charge monthly cost 149 300 1300 respectively There also free plan although offer limit run compare tot eh pay option API full release accompany sufficient documentation"
+    },
+    {
+        "progweb_cat": "Application Development,Browsers",
+        "api_name": "Crosswalk Project Embedding",
+        "id": 3637,
+        "progweb_descr": " Crosswalk Project Embedding API integrate HTML loader inside Android application Crosswalk Project open source web application runtime build Chromium Blink Google"
+    },
+    {
+        "progweb_cat": "Application Development,Browsers",
+        "api_name": "Crosswalk Project Web",
+        "id": 3638,
+        "progweb_descr": " Crosswalk Project Web API include multimedia graphic networking storage performance optimization device hardware feature Crosswalk Project open source web application runtime build Chromium Blink Google"
+    },
+    {
+        "progweb_cat": "Application Development,Browsers",
+        "api_name": "Appetize.io",
+        "id": 6060,
+        "progweb_descr": " Appetizeio provide dedicate inbrowser iOS simulator Users customize type device simulate iPhone iPad well scale orientation color Appetizeio API allow user upload apps test update apps previously upload Before uploading app user need create simulator build compress app folder ZIP file upload ZIP file publicly accessible web server"
+    },
+    {
+        "progweb_cat": "Application Development,Torrents",
+        "api_name": "qBittorrent",
+        "id": 3311,
+        "progweb_descr": " qBittorrent API aim provide Free Software alternative µTorrent developer"
+    },
+    {
+        "progweb_cat": "Application Development,Internet of Things",
+        "api_name": "AT&T M2X MQTT",
+        "id": 3332,
+        "progweb_descr": " This API ATT use MQTT protocol streamline connection device M2X This allow build application service well gather translate data realtime This cloudbased API manage device notification one central location ATT M2X cloudbased data storage service device management tool Internet Things"
+    },
+    {
+        "progweb_cat": "Application Development,Internet of Things",
+        "api_name": "AT&T M2X Distribution",
+        "id": 3333,
+        "progweb_descr": " Manage M2X device distribution use API It allow represent group Devices begin attribute original device template create ATT M2X cloudbased data storage service device management tool Internet Things"
+    },
+    {
+        "progweb_cat": "Application Development,Application Development",
+        "api_name": "Apifaketory",
+        "id": 3337,
+        "progweb_descr": " Apifaketory API gateway database broad category content It process random data variety bundle item include demographic profile correspondent publish blog post descriptive parameter personal finance transaction marker geographic location API capable filtering profile multiple user basis personal detail location bill entry demographic detail RESTful API return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Application Development,Application Development",
+        "api_name": "Pygments",
+        "id": 11141,
+        "progweb_descr": " service provide syntax highlight web application without Python instal It accept submission code selection code selection designation program language generates version code color highlight call program statement language return pygmentized HTML store locally request system directly display use CSS format API method support submission desire code sample program language attribute list programming language detect highlight include 200 individual language combination HTML PHP"
+    },
+    {
+        "progweb_cat": "Application Development,Application Development",
+        "api_name": "Codestre.am Embed",
+        "id": 11885,
+        "progweb_descr": " Codestream allow people stream record action take terminal This allow create share tutorial collaborate cod show error theyre run Such recording also know codestreams Codestream Embed JavaScript API allow user embed codestreams webpage blog"
+    },
+    {
+        "progweb_cat": "Application Development,Big Data",
+        "api_name": "Lucidworks",
+        "id": 3719,
+        "progweb_descr": " Lucidworks API integrate data intelligence search feature aim build good application drive analysis It available REST format HTTP use SSL Lucidworks big data application platform"
+    },
+    {
+        "progweb_cat": "Application Development,Big Data",
+        "api_name": "Telepat",
+        "id": 4039,
+        "progweb_descr": " Telepat San Francisco base application development platform feature document feed management live event interaction big data social graphs support This platform push updates event device instead wait third party application make API call obtain information This real time approach allow flexible deployment simple scale Telepat API use JSON format data exchange Tokens authentication"
+    },
+    {
+        "progweb_cat": "Application Development,Enterprise",
+        "api_name": "leanIX",
+        "id": 3911,
+        "progweb_descr": " leanIX information technology company base Germany offer information hub service leanIX focus provide control IT landscape feature application portfolio management integration architecture management technology risk management leanIX API use read write fact sheet This API REST base exchange information JSON format use API Keys authentication"
+    },
+    {
+        "progweb_cat": "Application Development,API Management",
+        "api_name": "Apigee Edge",
+        "id": 4197,
+        "progweb_descr": " Apigee Edge API RESTful developer resource access range API management service via HTTP client path Apigee Edge make possible developer deploy schedule script ultimately automate development management endeavor management apps creation API product API proxy fully release document API anchor Edge management UI require HTTP request turn generate response XML JSON format Apigee Edge ’ provider Apigee Corporation lead vendor proprietary solution manage APIs"
+    },
+    {
+        "progweb_cat": "Application Development,Plugins",
+        "api_name": "Wintersmith",
+        "id": 4251,
+        "progweb_descr": " Wintersmith Nodejs API offer application development platforms developer API pair web library aim build upon developer customize plugins structure Wintersmith site generator include plugins Markdown style templating plugins user output static website"
+    },
+    {
+        "progweb_cat": "Application Development,Mobile",
+        "api_name": "wercker",
+        "id": 4559,
+        "progweb_descr": " wercker API preview version limit access information build deploy application This API use several convention relate detailed summarized representation HTTP verbs error mapping time related field Wercker focus automate development move code container platform modern cloud"
+    },
+    {
+        "progweb_cat": "Application Development,Mobile",
+        "api_name": "RhoConnect",
+        "id": 4682,
+        "progweb_descr": " RhoConnect API allow developer control monitor debug run RhoConnect application RhoConnect app integration data sync service allow developer integrate synchronize data application offline access RhoConnect base Redis NoSQL data cache Its available cloud host user"
+    },
+    {
+        "progweb_cat": "Application Development,Mobile",
+        "api_name": "MobStac Mobile",
+        "id": 7158,
+        "progweb_descr": " MobStac mobile commerce platform developer agency create exceptional apps ecommerce business consumer brand across iOS Android Windows MobStac API let developer enable inapp payment 100 currency catalog sync desktop ecommerce site mobile app"
+    },
+    {
+        "progweb_cat": "Application Development,Mobile",
+        "api_name": "HockeyApp",
+        "id": 11841,
+        "progweb_descr": " HockeyApp app test service It provide beta trial analysis developer perfect apps Their product include customizable distribution system crashreporting service usage analytics These product support multiple platform include iOS Android HockeyApp offer API expose distribution crashreporting functionality It RESTful API return JSONformatted data"
+    },
+    {
+        "progweb_cat": "Application Development,Analytics",
+        "api_name": "Elasticode",
+        "id": 4569,
+        "progweb_descr": " Elasticode API help user integrate Elasticodes capability directly Elasticode service help create personalize mobile user onboarding experience To create API key follow regular path create app choose API option More information Elasticode API available upon contact Elasticode directly"
+    },
+    {
+        "progweb_cat": "Application Development,Business",
+        "api_name": "Zoho Creator",
+        "id": 4584,
+        "progweb_descr": " Zoho Creator multilanguage support API enable developer create database application business Defined Low Coding platform developer minimal cod knowledge Zoho Creator allow application build drag drop functionality project Zoho Creator intend assortment business use design workflow manage tasks reminder create dashboard report Creators design application PHP ASP JSP Perl program language Documentation available create Zoho Account"
+    },
+    {
+        "progweb_cat": "Application Development,Business",
+        "api_name": "Trackvia",
+        "id": 6778,
+        "progweb_descr": " TrackVia online platform help user build database application business It allow custom application develop quickly inexpensively without need program Developers use TrackVia build application handle sale customer support marketing asset project etc"
+    },
+    {
+        "progweb_cat": "Application Development,Marketplace",
+        "api_name": "KuantoKusta",
+        "id": 4635,
+        "progweb_descr": " KuantoKusta API provide tools developer application development service Some service offer updating product get information price id list best price list product price specific store listing specific product price list store update product price bar code data Kuantokusta marketplace allow user see compare price product different shop"
+    },
+    {
+        "progweb_cat": "Application Development,Accounts",
+        "api_name": "Mendix User Management",
+        "id": 4647,
+        "progweb_descr": " Mendix User Management API allow developer integrate application Mendix platform allow client create manage user account company Mendix application development service"
+    },
+    {
+        "progweb_cat": "Application Development,Accounts",
+        "api_name": "GitHub Users",
+        "id": 5938,
+        "progweb_descr": " GitHub Users API provide developer shortcut get information currently authenticate user This API use twofactor authentication GitHub one software provider specialize wide range application development"
+    },
+    {
+        "progweb_cat": "Application Development,API Design",
+        "api_name": "GO!AppZone",
+        "id": 4684,
+        "progweb_descr": " GOAppZone API powerful platform help developer rapidly create deploy engage functional crossplatform mobile apps audience – employee partner customer With draganddrop configurationbased approach development need write code minimize Using GOAppZone API allow building apps integrate synchronize backend system work offline access underlying device hardware GOAppZone platform also easily extend native code plugins custom integration connector Manage file create push notification work variable create form API"
+    },
+    {
+        "progweb_cat": "Application Development,Models",
+        "api_name": "Mendix Team Server",
+        "id": 4772,
+        "progweb_descr": " Mendix Team Server API allow developer retrieve information branch revision application model store Mendixs public cloud With API developer access application model via context application Mendix application development service"
+    },
+    {
+        "progweb_cat": "Application Development,Feedback",
+        "api_name": "Mendix Feedback",
+        "id": 4773,
+        "progweb_descr": " Mendix Feedback API allow developer retrieve add manage feedback Mendix project Mendix application development service"
+    },
+    {
+        "progweb_cat": "Application Development,Authentication",
+        "api_name": "Mendix Single Sign-On",
+        "id": 4775,
+        "progweb_descr": " Mendix Single SignOn API allow developer integrate application Mendix Single SignOn Server Mendix Single SignOn system base OpenID 20 protocol Mendix application development service"
+    },
+    {
+        "progweb_cat": "Application Development,Protocol",
+        "api_name": "InterPlanetary File System",
+        "id": 4783,
+        "progweb_descr": " InterPlanetary File System API allow developer programmatically access method available command line interface InterPlanetary File System IPFS peertopeer hypermedia distribution protocol enable creation completely distribute application It compose distribute hashtable incentivized block exchange selfcertifying namespace"
+    },
+    {
+        "progweb_cat": "Application Development,Avatars",
+        "api_name": "Zatar",
+        "id": 5380,
+        "progweb_descr": " Zatar Internet Things cloud base service design ease collaboration application development API affords create apps customized experience virtual world avatars One main goal Zatar part Zebra Technologies empower business operation next level"
+    },
+    {
+        "progweb_cat": "Application Development,Monitoring",
+        "api_name": "Stackify",
+        "id": 5459,
+        "progweb_descr": " Stackify API allow user access error log metric programmatically Stackify integrate monitor solution server app metric app performance It monitor key metric performance indicator send user alert new error high error rate occur Users view application log together order troubleshoot problem quickly"
+    },
+    {
+        "progweb_cat": "Application Development,Framework",
+        "api_name": "qx.Desktop",
+        "id": 5461,
+        "progweb_descr": " qxDesktop API provide developer way build rich interactive desktoplike application Qooxdoo universal JavaScript framework own manage 11 web host company"
+    },
+    {
+        "progweb_cat": "Application Development,Robots",
+        "api_name": "DroneKit",
+        "id": 5480,
+        "progweb_descr": " DroneKit API allow developer create web service communicate directly drone world via DroneKit Cloud API come protocol manage inflight navigation control live telemetry upload aerial medium stream DroneKit provide 3D Robotics North American company sell personal drone"
+    },
+    {
+        "progweb_cat": "Application Development,Virtualization",
+        "api_name": "Google Container Engine",
+        "id": 5631,
+        "progweb_descr": " Google Container Engine API allow user develop manage container distribute system Container Engine provide platform quickly easily provision resource manage application It design support Kubernetes customer run multiple cloud Google Container Engine still Alpha recommend production use"
+    },
+    {
+        "progweb_cat": "Application Development,Open Source",
+        "api_name": "Docker Hub Accounts",
+        "id": 5725,
+        "progweb_descr": " Docker Hub Accounts API facilitate Docker user account management API use GETPOST method JSON HTTP Requests authenticate either HTTP Basic OAuth Bearer Token Use Docker Hub Accounts update user add list delete email user"
+    },
+    {
+        "progweb_cat": "Application Development,Open Source",
+        "api_name": "Docker Swarm",
+        "id": 5727,
+        "progweb_descr": " Docker cloudbased application development platform building distribute apps share repository automate workflow Docker Swarm native clustering Docker turn pool Docker host single virtual host Swarm require Docker 140 later compatible Docker Remote API Developers note Swarm currently beta likely change"
+    },
+    {
+        "progweb_cat": "Application Development,Open Source",
+        "api_name": "Docker Remote",
+        "id": 5728,
+        "progweb_descr": " Docker open application development platform share apps repository automate development workflow Use Docker Remote API access Docker API feature like create container search image retrieve container log build image Dockerfile This mostly RESTful API use JSON requestsreturns GETPOST method HTTP Remote API currently version 118 See project home page detailed information available API method"
+    },
+    {
+        "progweb_cat": "Application Development,Images",
+        "api_name": "Docker Registry",
+        "id": 5726,
+        "progweb_descr": " Docker Registry REST API store image graph set repository Registry use HTTP PUTGET method JSON callsreturns Docker Registry contain user account data local database support multiple storage backends Use API retrieve image layer get image ancestry list repository tag"
+    },
+    {
+        "progweb_cat": "Application Development,Images",
+        "api_name": "CSS Sprites Generator",
+        "id": 8637,
+        "progweb_descr": " CSSspritegencom provide web service help developer optimize website use CSS Sprites speed load time reduce HTTP request siteâ€™s CSS Sprites Generator API allow developer create CSS Sprites simple HTTP request Requests require session token response UTF8 JSON format"
+    },
+    {
+        "progweb_cat": "Application Development,Platform-as-a-Service",
+        "api_name": "Docker Hub",
+        "id": 5729,
+        "progweb_descr": " Docker Hub open application development platform share apps repository automate workflow Docker Hub API use HTTP Basic Auth SSL JSON PUTDELETE request return In conjunction Docker Engine lightweight runtime tool Docker Hub facilitate development portable apps build toolchain use machine Use RESTful API create repository manage repository library update repository library image"
+    },
+    {
+        "progweb_cat": "Application Development,Backend",
+        "api_name": "LXD Linux Container REST",
+        "id": 6453,
+        "progweb_descr": " LXD Linux Container RESTful platformbased API enable access management infrastructures container project HTTP LinuxContainerorg project intend used construct environment Linux container include build machine infrastructure mailinglists website email relate tool LXD REST API still active development provide transparent method manage container integrate largescale deployment stack LinuxContainerorg project Creative Commons license free distribution"
+    },
+    {
+        "progweb_cat": "Application Development,Entertainment",
+        "api_name": "Yes or No",
+        "id": 6468,
+        "progweb_descr": " simple Yes No API make automate boolean decision making within mobile environment API call return Yes No Maybe Returns include fun link comical Gifs Hugh Laurie Client Eastwood nod approval Jim Office excitedly mouth Yes uncomfortably slow camera zoom Zach Galifianakis"
+    },
+    {
+        "progweb_cat": "Application Development,Datacenter",
+        "api_name": "Grimoire",
+        "id": 6539,
+        "progweb_descr": " Grimoire provide access datastore help elucidate Conjure program language datastore contain information regard symbol namespaces package within Closure ecosystem make interchangeable use either JSON EDN format Documentation instruction read regard properly specify HTTP search method A full client API provide part libgrimoire GitHub Grimoire independently maintain programmer Reid McKenzie"
+    },
+    {
+        "progweb_cat": "Application Development,Booking",
+        "api_name": "eTravos",
+        "id": 6675,
+        "progweb_descr": " eTravos Trvael commerce company focus travel industry act online ticket book solution softwareasaservice space eTravos API allow developer create manage online booking process application"
+    },
+    {
+        "progweb_cat": "Application Development,3D",
+        "api_name": "Umajin",
+        "id": 6725,
+        "progweb_descr": " Umajin visual designer building application without write code API provide access advance setup feed allow user transform JSONT data turn form submission fee"
+    },
+    {
+        "progweb_cat": "Application Development,Air Travel",
+        "api_name": "Trawex Travel",
+        "id": 6947,
+        "progweb_descr": " Trawex travel technology company base India offer travel technology travel portal development flighthotelcar book engine SEO SMO XMLAPI integration service With API third party integration developer manage flight book fare travel package airline hotel GDS online consumer mind This API travel technology support XML could valuable developer want keep track travel itinerary information partner receive support via phone US US India They email Skype chat Trawex discus project start app development"
+    },
+    {
+        "progweb_cat": "Application Development,Bitcoin",
+        "api_name": "SoChain Blockchain",
+        "id": 7170,
+        "progweb_descr": " SoChain provide blockchain API enable developer build application use blockchain data Dogecoin Bitcoin Litecoin This include address data transaction data block data currency API currently free use limit A sandbox environment available help developer get start Developers want additional feature interested make large number call encourage contact SoChain"
+    },
+    {
+        "progweb_cat": "Application Development,Backend-as-a-Service",
+        "api_name": "Kinetise",
+        "id": 7206,
+        "progweb_descr": " Kinetise application building service backendasaservice create building manage application mobile Kinetise API allow developer access integrate functionality Kinetise application create new application Some example API method include manage user create event integrate application feature"
+    },
+    {
+        "progweb_cat": "Application Development,Backend-as-a-Service",
+        "api_name": "AppMethod",
+        "id": 7870,
+        "progweb_descr": " AppMethod application creation building service AppMethod allow user build design develop manage application various platform mobile web tablet AppMethod API allow developer access integrate functionality AppMethod application create new application Public documentation available interested developer start httpwwwappmethodcomgettingstartedvideos"
+    },
+    {
+        "progweb_cat": "Application Development,Backend-as-a-Service",
+        "api_name": "Ionic",
+        "id": 7876,
+        "progweb_descr": " Ionic application creation service Ionic allow user create design manage hybrid mobile application Ionic API allow developer access integrate functionality Ionic application create new application Some example API method include add application feature manage application feature manage user account"
+    },
+    {
+        "progweb_cat": "Application Development,Database",
+        "api_name": "Stateful Web Primitives",
+        "id": 7621,
+        "progweb_descr": " This web service provide atomic counter addon feature NoSQL cloud database Amazon DynamoDB Specifically provide autoincrement attribute unique value id column DynamoDB table Another feature Stateful Web Primitives concurrent lock It allow set atomic lock run sensitive process remove lock Only one process time allow lock place"
+    },
+    {
+        "progweb_cat": "Application Development,Design",
+        "api_name": "PLACEHOLD.IT",
+        "id": 7696,
+        "progweb_descr": " PLACEHOLDIT web service provide customizable image placeholder PLACEHOLDIT accept simple HTTP call allow developer specify dimension format custom text background text color"
+    },
+    {
+        "progweb_cat": "Application Development,Humor",
+        "api_name": "placekitten",
+        "id": 7697,
+        "progweb_descr": " Placekitten web service provide kitten theme image placeholder Developers place simple HTTP call specify image size placekitten respond kitten image use placeholder Developers request specific image"
+    },
+    {
+        "progweb_cat": "Application Development,Tools",
+        "api_name": "Trigger Forge",
+        "id": 13224,
+        "progweb_descr": " Triggerio develop Forge crossplatform app framework allow web developer create native iOS Android apps single HTML5 code database Their SaaS build service employ Python base open source command line tool allow developer execute build use single customize JSON config file return Forgegenerated JavaScript native code template starter plan produce Chromeready JavaScript Java Android ObjectiveC iOS Using provide Python build tool app template build instruction generate Forge developer complete final stage build locally process complete content developer custom app code HTML CSS JavaScript inject Forgegenerated code create finalize native apps Because build create integration user code developer easily integrate change HTML CSS JavaScript without rerun build Triggers Forge API expose variety method work Forge generate code create custom user app experience A examples functionality provide API detect platform create notification log enduser preference manage tabs toolbars add listener access mobile device filesystem camera"
+    },
+    {
+        "progweb_cat": "Application Development,Social",
+        "api_name": "CodeSnipp.it",
+        "id": 13415,
+        "progweb_descr": " Codesnippit social share site developer follow developer share code find cod help API let user get status site user list method available API It use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Application Development,QR Codes",
+        "api_name": "QR-Server QR Code",
+        "id": 15109,
+        "progweb_descr": " With QR Code API use RESTful call create QR Codes No need register free charge commercial usage well though recommend Premium Services professional user httpgoQRme Create QR Code see API action read QR Codes Premium see httpqrservercompremium If go use free API would happy recommend service link httpgoQRme QR Code Generator httpqrservercom qrservercom Feedback also welcome QRServercom software provide specialized bar code solution webmaster software developer industry advertising logistics use widespread QR Code standard"
+    }
+]

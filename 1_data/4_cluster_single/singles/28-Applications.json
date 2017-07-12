@@ -1,0 +1,170 @@
+[
+    {
+        "progweb_cat": "Applications,Management",
+        "api_name": "AppHarbor",
+        "id": 946,
+        "progweb_descr": " AppHarbor cloud base Platform Service solution NET use deploy scale standard NET application AppHarbor use host blog web site high traffic web application AppHarbor API allow developer write apps script create manipulate monitor application AppHarbor API use integrate functionality application management AppHarbor host application Resources application collaboration service hook available API use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Applications,Management",
+        "api_name": "TM Forum Change Management",
+        "id": 2327,
+        "progweb_descr": " TM Forum Change Management API design simplify integration change management application external application It use simple instruction trigger maintain consistent interaction change request RESTful API return JSON responses URI QueryCRUD JSON request API currently beta release"
+    },
+    {
+        "progweb_cat": "Applications,Content Management",
+        "api_name": "Contentful",
+        "id": 1084,
+        "progweb_descr": " Contentful content management system CMS mobile web application Contentful offer variety CMS feature mobile web app publisher delivers content multiple channel CMS Contentful API allow developer access integrate functionality Contentful applications Some example API method include set content space retrieve content push content managing content"
+    },
+    {
+        "progweb_cat": "Applications,Application Development",
+        "api_name": "Monax",
+        "id": 1723,
+        "progweb_descr": " Monax API provide ecosystem application developer allow build ship run blockchainbased application REST interface available HTTP request JSON response Authentication require via public private Key"
+    },
+    {
+        "progweb_cat": "Applications,Application Development",
+        "api_name": "Google Cloud App Engine Admin REST",
+        "id": 2988,
+        "progweb_descr": " This platform building scalable web application mobile backends App Engine provide builtin service APIs NoSQL Datastores Memcache Task Queues Use RESTful API program language manage App Engine application Google Cloud Platform allow add variety service storage access machinelearningbased image analysis Cloud Platform application It allow developer build cloud tool infrastructure application map device"
+    },
+    {
+        "progweb_cat": "Applications,Application Development",
+        "api_name": "AppThwack",
+        "id": 6655,
+        "progweb_descr": " AppThwack API enable developer integrate test feature application With API developer able test application multiple mobile device AppThwack test analyse issue application device test It service let developers test application cloud"
+    },
+    {
+        "progweb_cat": "Applications,Advertising",
+        "api_name": "MoPub Publisher Reporting",
+        "id": 2017,
+        "progweb_descr": " MoPub world lead provider ad serve solution design use publisher mobile application MoPub Publisher Reporting API allow developer integrate ad monitoring functionality mobile application Its call generate CSVformatted report inventory campaign inventory report provide analytical data apps ad unit It cover variety event include attempt click CTR metric conversion impression request metric This particular report make possible customer use request data calculate inventory fill rate However inventory report contain ad source information campaign report provide data campaign inventory It cover variety event include attempt click CTR conversion impression metric This particular report make possible customer compute ad source fill rate basis attempt ad source fill impression However unlike inventory report campaign report contain inventory request metric"
+    },
+    {
+        "progweb_cat": "Applications,Customer Relationship Management",
+        "api_name": "TM Forum Service Test Management",
+        "id": 2204,
+        "progweb_descr": " A service test facilitate procedural interrogation quality performance reliability standard service TheTM Forum Service Test Management API operate standardized platform expose service test appropriate parameter Its simple operational structure support seamless interaction customer relationship management CRM customer service management system RESTful API return JSON response URI QueryCRUD JSON request API currently beta release"
+    },
+    {
+        "progweb_cat": "Applications,Monitoring",
+        "api_name": "AppFollow",
+        "id": 2246,
+        "progweb_descr": " This API provide way create dashboard real time track feature custom report It include real time app monitoring review rank keywords rating AppFollow allow track app activity collect data App Store Google Play Windows Store use data parser algorithms"
+    },
+    {
+        "progweb_cat": "Applications,Backup",
+        "api_name": "OpenStack Database",
+        "id": 2333,
+        "progweb_descr": " OpenStack Database scalable cloudbased service manage database engine This service work OpenStack Database API simplify expedite deployment database feature functionality API make easy developer facilitate simultaneous accessibility exploitation multiple database instance API mainly conveys HTTPformatted request response"
+    },
+    {
+        "progweb_cat": "Applications,Data",
+        "api_name": "OpenStack Data Protection",
+        "id": 2334,
+        "progweb_descr": " OpenStack use Karbor project advance data orchestration metadata protection program Karbor project previously know OpenStack Smaug focus prevention loss damage application deploy OpenStack platform OpenStack Data Protection API provide accessibility information concern type application protect Karbor API mainly conveys HTTPformatted request response"
+    },
+    {
+        "progweb_cat": "Applications,Data",
+        "api_name": "OpenStack Data Processing",
+        "id": 2335,
+        "progweb_descr": " OpenStack ’ data processing service also know sahara facilitates use process framework application – like Hadoop Spark – provision manage instance cluster OpenStack Data Processing API platform support upload manipulation framework application capable access data server storage cloud infrastructure API format request response HTTP"
+    },
+    {
+        "progweb_cat": "Applications,Data",
+        "api_name": "OpenStack Object Storage",
+        "id": 2443,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service organization provide standard APIs well suit multiple implementation include OpenStack Object Storage API support creation modification storage acquisition object metadata RESTful API send request HTTP format return responses JSON XML format"
+    },
+    {
+        "progweb_cat": "Applications,Cloud",
+        "api_name": "OpenStack Orchestration Service",
+        "id": 2441,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service organization provide standard APIs well suit multiple implementation OpenStack Orchestration Service use API call produce active cloud application provide templatebased orchestration implement description cloud application Developers use API ’ templates create different type OpenStack resource include float IPs instance security group user volumes well innovative functionality signal resource availability status"
+    },
+    {
+        "progweb_cat": "Applications,Cloud",
+        "api_name": "Iframely",
+        "id": 7197,
+        "progweb_descr": " Iframely allow user embed content URL app web page It use embed article slideshows medium player Iframely available cloud opensource service user host Users embed Iframely websites apps use HTTP API"
+    },
+    {
+        "progweb_cat": "Applications,Cloud",
+        "api_name": "Boomi AtomSphere",
+        "id": 13257,
+        "progweb_descr": " Boomi provider ondemand integration technology Its AtomSphere product Platform Service let user connect application cloud application onpremise combination With service user build deploy manage connection directly web AtomSphere API add programmatic access functionality otherwise accessed service interface Functionality include deployment execution process generate widget list widget API use REST SOAP response format XML"
+    },
+    {
+        "progweb_cat": "Applications,Content",
+        "api_name": "Google Firebase APP Indexing",
+        "id": 2512,
+        "progweb_descr": " Google Firebase APP Indexing API support introduction visibility apps Google Search It allow Google index app content purpose expose Search result Users easily find install launch app access content prefer device However developer app website must similar HTTPHTTPS URLs make possible Google Search crawl index support exposure app ’ public content Developers deploy either iOS SETUP ANDROID SETUP platform use Google Firebase APP Indexing API Android platform provide additional user friendly search functionality include performance ranking URLs autocomplete suggestion feature"
+    },
+    {
+        "progweb_cat": "Applications,Developers",
+        "api_name": "Amazon Web Services AppStream",
+        "id": 2721,
+        "progweb_descr": " Amazon Web Services AppStream REST API allow developer access manage application host AppStream Some example API method include add new application Amazon AppStream automate application task create tool service manage application Amazon AppStream allow developer deliver Windows application device"
+    },
+    {
+        "progweb_cat": "Applications,Marketplace",
+        "api_name": "Windows Store Submission",
+        "id": 2825,
+        "progweb_descr": " Windows Store Submission API allow developer programmatically access apps addons package flight submission Windows Store This API could use retrieve data apps register developer Windows Dev Center account create get delete addons apps create get delete package flight apps"
+    },
+    {
+        "progweb_cat": "Applications,Applications",
+        "api_name": "AppMonsta",
+        "id": 3045,
+        "progweb_descr": " AppMonsta API allow developer get app data apps offer Google Play iOS App Store Data available API include ranking basic information apps description page user review associate app This data refresh daily basis"
+    },
+    {
+        "progweb_cat": "Applications,Analytics",
+        "api_name": "OnTop Notification",
+        "id": 3947,
+        "progweb_descr": " OnTop Notification API allow developer get notification phone keep informed apps It use get notified new app content require review report severe crash bug receive push notification internetconnected device perform simple app analytics engagement study"
+    },
+    {
+        "progweb_cat": "Applications,Analytics",
+        "api_name": "Appaloosa",
+        "id": 4470,
+        "progweb_descr": " Appaloosa API allow developer access information application online app store Appaloosa mobile application management distribution service iOS Android Windows Phone Users customize rebrand app store send push notification customer Appaloosa also provide analytics tool look detailed app version download statistic"
+    },
+    {
+        "progweb_cat": "Applications,Analytics",
+        "api_name": "Scriber",
+        "id": 5846,
+        "progweb_descr": " Scriber REST web API allow developer access integrate functionality Scriber applications Some example API method include retrieve sale sale information manage event referral retrieve user Scriber platform inapp sale referral analytics"
+    },
+    {
+        "progweb_cat": "Applications,Analytics",
+        "api_name": "Yandex.Tank",
+        "id": 6088,
+        "progweb_descr": " Yandex Russia base internet company provide users way find answer may internet YandexTank service load test performance analysis web service application YandexTank API let developer integrate service application"
+    },
+    {
+        "progweb_cat": "Applications,Activity Streams",
+        "api_name": "Google Apps Activity",
+        "id": 5905,
+        "progweb_descr": " Google Apps Activity API allow developer programmatically retrieve information user Google Apps activity Currently API retrieve activity record Google Drive regard change file Developers use API create apps display activity user file track change specific file folder alert user new comment change file"
+    },
+    {
+        "progweb_cat": "Applications,URLs",
+        "api_name": "AppURL",
+        "id": 9259,
+        "progweb_descr": " AppURL service connects application web use HTTP URLs AppURL offer feature crossplatform link ability application show search engine result documentation help developer understand link application AppURL API allow developer access integrate functionality AppURL applications Some example API method include transform apps link upload JSON file URLs retrieve URL link"
+    },
+    {
+        "progweb_cat": "Applications,Mobile",
+        "api_name": "SetOnx",
+        "id": 10158,
+        "progweb_descr": " SetOnx utility app allow user add feature mobile phone Examples possible functionality site include locationbased volume adjust phone volume work raise back 50 user departs work MOTbased Radios switch phone bluetooth user drive API allow user call SetOnx launching app"
+    },
+    {
+        "progweb_cat": "Applications,Enterprise",
+        "api_name": "Librato Silverline",
+        "id": 13857,
+        "progweb_descr": " Librato Silverline application resource monitoring management service help DevOps Operations team monitor manage resource consumption apps troubleshoot automate handle unexpected situation performance availability management capacity planning server utilization improvement Silverline API provide access Silverline monitoring management function data store within service"
+    }
+]

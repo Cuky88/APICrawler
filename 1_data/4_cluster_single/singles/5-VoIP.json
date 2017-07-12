@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "VoIP,Voice",
+        "api_name": "TelecomsXChange Voice",
+        "id": 714,
+        "progweb_descr": " TelecomsXChange Voice API allow developer route voice call carrier Voice API use automate voice call automate phone verification process improve customer service REST base API offer JSON responses SIP voice call"
+    },
+    {
+        "progweb_cat": "VoIP,Cloud",
+        "api_name": "XO Cloud Express",
+        "id": 1441,
+        "progweb_descr": " XO Cloud Express API bring together flexibility availability community public cloud enterprise level security performance control It available REST architecture SSL encrypt call With API developer set storage quota store 256bit encryption rest 128 SSL motion securely access storage account anywhere Internet additional information visit srcxocomresourcesserviceoverviewscloudfilesexpresspdf"
+    },
+    {
+        "progweb_cat": "VoIP,Agents",
+        "api_name": "Avatar Dialler",
+        "id": 3361,
+        "progweb_descr": " Avatar Dialler API automate dial highquality voice call support occurrence simultaneous phone call campaign Its predictive dialer functionality provide access prerecord audio message tune either American British accent API ’ auto dial functionality use interactive voice response IVR elicit response store feedback customer IVR allow target recipient voluntarily get touch standby agent simply dial back Avatar Dialler API stand robust customizable scalable solution optimize customer support service enhance productivity marketing campaign API fully release proprietary solution come detailed documentation"
+    },
+    {
+        "progweb_cat": "VoIP,Messaging",
+        "api_name": "Flashphoner",
+        "id": 6098,
+        "progweb_descr": " Flashphoner web call server allow user access VoIP web call message stream WebRTC communication function Flashphoner API allow developer access integrate functionality Flashphoner applications Some example API method include manage user retrieve location make call"
+    },
+    {
+        "progweb_cat": "VoIP,3D",
+        "api_name": "Sinch",
+        "id": 7144,
+        "progweb_descr": " Sinch give mobile developer way add communication apps platform let developer integrate voice message app minute line code"
+    }
+]

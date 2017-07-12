@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Plugins,Browsers",
+        "api_name": "CoinTent JavaScript",
+        "id": 2695,
+        "progweb_descr": " CoinTent Javascript API allow developer integrate CoinTent widget within website application CoinTent user logins CoinTent provide Chrome plugin visit websites adfree support websites user like"
+    },
+    {
+        "progweb_cat": "Plugins,Human Resources",
+        "api_name": "Skills Map",
+        "id": 3673,
+        "progweb_descr": " Skills Map API work plugin application websites It available HTTP format API Key authentication factor Job provider hire manager add skill job like employee job applicant add skill profile Its Your Skills job skill library taxonomy"
+    },
+    {
+        "progweb_cat": "Plugins,Images",
+        "api_name": "Mighty Slider",
+        "id": 4080,
+        "progweb_descr": " Mighty Slider API integrate slides component application rotate image videos banner Resources include callback property method event As service Mighty Slider image gallery many feature responsive interface deep linking available JQuery plugin"
+    },
+    {
+        "progweb_cat": "Plugins,WebRTC",
+        "api_name": "Openfire",
+        "id": 5385,
+        "progweb_descr": " Openfire real time collaboration server use XMPP open protocol instant message It aims facilitate set administration provide strong performance security This REST API plugin send HTTP request server assist admin work outside console Resources include installation REST explanation authentication"
+    },
+    {
+        "progweb_cat": "Plugins,Customization",
+        "api_name": "Formidable Forms",
+        "id": 5439,
+        "progweb_descr": " With Formidable Forms user generate Wordpress form less 60 second This plugin offer API currently beta stage June 2015 API feature include JSON REST format API Key access"
+    },
+    {
+        "progweb_cat": "Plugins,Blogging",
+        "api_name": "Jetpack",
+        "id": 6840,
+        "progweb_descr": " Jetpack integrate multiple web function one plugin This application target user Wordpress account already host Wordpress version 38 later API authorization application service blog site application development Jetpack API offer REST resource OAuth2 authentication instruction QA section Some parameter include user site post comment taxonomy notification stats medium If developer need information contact Jetpack contact support form"
+    }
+]

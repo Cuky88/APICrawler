@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Presentations,Collaboration",
+        "api_name": "Google Slides",
+        "id": 2923,
+        "progweb_descr": " Google Slides API provide programmatic access presentation integrate data various source This API allow developer create slide deck automatically user systemprovided data Predesigned template combine database contain customer detail order create finish presentation Request object allow create slide apply transforms element change order slide"
+    },
+    {
+        "progweb_cat": "Presentations,Annotations",
+        "api_name": "IIIF Presentation",
+        "id": 6678,
+        "progweb_descr": " International Image Interoperability Framework IIIF act tool help deliver imagebased resource user IIIF Presentation API allow developer request document describe structure layout digitize object collection image relate content Developers also choose different style presentation document"
+    }
+]

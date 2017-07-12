@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "eBooks,Accounts",
+        "api_name": "Overdrive Library Account",
+        "id": 6505,
+        "progweb_descr": " OverDrive online company provide users way access eBooks electronic material computer mobile device OverDrive Library Account API let developer create manage library account integrate API application API use Oauth authentication account ID require create new account"
+    },
+    {
+        "progweb_cat": "eBooks,Audio",
+        "api_name": "Epodreczniki.pl",
+        "id": 6738,
+        "progweb_descr": " Epodrecznikipl eBookspl Polish publicly available resource educational resource eBooks modern open source educational platform mean share eBooks online kindergarten grade 12 eBooks distribute platform include text audio video include interactive quiz educational application resource aim assemble 2500 teach application empower teacher use eBooks within Poland primary secondary college environment Developers implement REST API order access directory return information author collection core curriculum Currently version 20 API us GET HTTP request responses available JSON XML format"
+    },
+    {
+        "progweb_cat": "eBooks,Books",
+        "api_name": "IT eBooks",
+        "id": 7185,
+        "progweb_descr": " IT eBooks provide online access computer science program book download free charge IT eBooks API allow user search available book retrieve book detail Details provide API include book title subtitle description author ISBN number page publication year publisher image URL download URL"
+    }
+]

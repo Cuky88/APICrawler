@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Writing,Blogging",
+        "api_name": "Classeur",
+        "id": 3854,
+        "progweb_descr": " Classeur API allow developer access write content resource Classeur service write note document blog use Markdown Users create unlimited number file folder classeurs export work PDF Word EPUB Classeur user share work others collaborate real time"
+    },
+    {
+        "progweb_cat": "Writing,Content",
+        "api_name": "Chimp Rewriter",
+        "id": 4639,
+        "progweb_descr": " Chimp Rewriter REST API allow developer access integrate functionality Chimp Rewriter applications Some example API method include retrieve data content search data content post data content Chimp Rewriter content creation service produce online content SEO natural language processing"
+    },
+    {
+        "progweb_cat": "Writing,Email",
+        "api_name": "Handwriting.io",
+        "id": 5269,
+        "progweb_descr": " Handwritingio REST API allow developer access integrate functionality Handwritingio applications Some example API method include retrieve list handwriting render text handwrite retrieve render Handwritingio platform transforms text handwrite use emails invitation note content Handwritingio provide Gracious Eloise"
+    }
+]

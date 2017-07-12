@@ -1,0 +1,56 @@
+[
+    {
+        "progweb_cat": "Electronic Signature,Mexican",
+        "api_name": "Mifiel",
+        "id": 1557,
+        "progweb_descr": " Mifiel API allow developer programmatically manage document certificate within Mifiel account Mifiel service allow user securely sign type legal document Mexico use advanced esignature FIEL la firma electrónica avanzada Mifiel website offer Spanish English API documentation English"
+    },
+    {
+        "progweb_cat": "Electronic Signature,Compliance",
+        "api_name": "Secured Signing",
+        "id": 1768,
+        "progweb_descr": " Secured Signing Partner API integrate electronic signature application It available OAuth2 authentication API Key send request HTTP receive response JSON Developers use API implement signature paperless document without instal application"
+    },
+    {
+        "progweb_cat": "Electronic Signature,Compliance",
+        "api_name": "DigiSigner",
+        "id": 3715,
+        "progweb_descr": " DigiSigner RESTful API integrate electronic signature feature application Authentication available via HTTPS Key Requests cURL PHP Java JSON architecture"
+    },
+    {
+        "progweb_cat": "Electronic Signature,Automation",
+        "api_name": "eversign",
+        "id": 1907,
+        "progweb_descr": " Eversign secure powerful eSignature API allow automate legally bind eSignatures application use straightforward highly scalable JSONbased REST API It everything need legally bind digital signature offer allinone API create manage document like contract NDAs approval legal form anything else need signature Main feature include Electronic Signatures Documents Security InPerson Signing Audit Trail Templates App Integrations This well document support API Pricing plan tiered 50 200 500 custom number request"
+    },
+    {
+        "progweb_cat": "Electronic Signature,Authentication",
+        "api_name": "SignWise Services",
+        "id": 2676,
+        "progweb_descr": " SignWise Services provide necessary infrastructure application allow user authenticate sign document use electronic identity issue certificate authority network SignWise Services fully eIDAS compliant provide APIs easy integration new application"
+    },
+    {
+        "progweb_cat": "Electronic Signature,Authentication",
+        "api_name": "eSign Genie",
+        "id": 3881,
+        "progweb_descr": " eSign Genie electronic signature service allow document sign securely eSign Genie feature document collaboration template library 256bit encryption This service UETA ESIGN HIPAA FINRA CFR Part 11 compliant Also eSign Genie offer API allow developer integrate eSignature feature application This API REST base use OAuth 2 authentication JSON data exchange"
+    },
+    {
+        "progweb_cat": "Electronic Signature",
+        "api_name": "eSignatures.io",
+        "id": 3225,
+        "progweb_descr": " eSignaturesio API allow developer programmatically request signature check status document edit template eSignaturesio produce mobilefriendly document include input field signer It come builtin editor user edit sign contract within platform Users pay per contract setup monthly fee"
+    },
+    {
+        "progweb_cat": "Electronic Signature,Law",
+        "api_name": "PactSafe eSignature",
+        "id": 4637,
+        "progweb_descr": " PactSafe eSignature API allow developer embed clicktosign electronic signature websites mobile application PactSafe service track end user accept developer legal term privacy policy It track version contract user accept identity signer signer browser information device information etc"
+    },
+    {
+        "progweb_cat": "Electronic Signature,Documents",
+        "api_name": "Signaturit",
+        "id": 7189,
+        "progweb_descr": " Signaturit provide secure electronic signature service pdf document exchange take place email software application download Signaturit compatible desktop tablet smartphone device internet access major web browser"
+    }
+]

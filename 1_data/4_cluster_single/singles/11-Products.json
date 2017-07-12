@@ -1,0 +1,68 @@
+[
+    {
+        "progweb_cat": "Products,Barcodes",
+        "api_name": "Factual CPG Products",
+        "id": 3533,
+        "progweb_descr": " This API provide product data 650000 consumer package good include health beauty food beverage household product With CPG Products access key product attribute find product use powerful search tool UPC lookup connect product page across web Factual open data platform application developer leverage largescale data aggregation community exchange"
+    },
+    {
+        "progweb_cat": "Products",
+        "api_name": "1WorldSync Content1",
+        "id": 3735,
+        "progweb_descr": " This Json API allow exchange product content use 1WorldSyncs product information cloud platform Specify search category code description Share product data 16000 global user"
+    },
+    {
+        "progweb_cat": "Products,Inventory",
+        "api_name": "TM Forum Product Inventory Management",
+        "id": 4069,
+        "progweb_descr": " TM Forum Product Inventory Management API allow user query create update remove product inventory TM Forum global member association digital business They provide platform member wide range industry create prototype deliver monetize digital service customer"
+    },
+    {
+        "progweb_cat": "Products,Data",
+        "api_name": "Sears Top Sellers",
+        "id": 4578,
+        "progweb_descr": " Sears ’ Top Sellers API enable user access Sears Kmart database information topselling mostviewed product Searches return product information name price rating availability Sears ’ Top Sellers API RESTful JSON XML format"
+    },
+    {
+        "progweb_cat": "Products,Data",
+        "api_name": "Sears Deals",
+        "id": 4587,
+        "progweb_descr": " Sears Deals APIs design connect user information product sale pertain Sears Kmart store sale information include data sale regular price availability product start date sale coupon option product rating ship information There separate APIs designate WOW deal day Hot Weekly Deals This API RESTful JSON format"
+    },
+    {
+        "progweb_cat": "Products,eCommerce",
+        "api_name": "Sears Product Details",
+        "id": 4579,
+        "progweb_descr": " Sears ’ Product Details API enable user access Sears ’ Kmarts database product Searches return product detail description availability pricing ID etc Sears ’ Product Details API RESTful JSON XML format"
+    },
+    {
+        "progweb_cat": "Products,eCommerce",
+        "api_name": "Sears Product Search",
+        "id": 4580,
+        "progweb_descr": " Searss Product Search API enable user access Searss database product This database include Sears Kmart inventory support product search base keyword price category Sears ’ Product Search API RESTful JSON XML format"
+    },
+    {
+        "progweb_cat": "Products,Availability",
+        "api_name": "The Home Depot Product",
+        "id": 4953,
+        "progweb_descr": " Home Depot Product work REST interface aim offer product detail type product availability store online product dimension Shipping information include eligibility free shipping estimate delivery product rating API Key token authentication model"
+    },
+    {
+        "progweb_cat": "Products,Compliance",
+        "api_name": "Cognition Cockpit",
+        "id": 5427,
+        "progweb_descr": " Cognition Cockpit API allow Cognition external customer programmatically retrieve modify Cockpit data comprehensive interface Cognition Cockpit provide unified architecture application development It help user manage requirement infrastructure design appeal reliability ease use configurability cost traceability speed integration design workflows Cognition Corporation provide solution product process development medical device company Cognition Cockpit system provide user Risk VOC Testing Requirements Knowledge Management"
+    },
+    {
+        "progweb_cat": "Products,Catalogs",
+        "api_name": "SupplyStream",
+        "id": 5500,
+        "progweb_descr": " SupplyStreams new webcatalog aggregate home electronics automation industry supplier product API available select software partner allow dealer integrate customized product pricing catalog industry software tool Developers interested access API contact SupplyStream information"
+    },
+    {
+        "progweb_cat": "Products,Applications",
+        "api_name": "Product Hunt",
+        "id": 6925,
+        "progweb_descr": " Product Hunt service help user discover new apps tech creation hardware even job listing Their website allow user login add product use upvote system rank product showcase new trend Their API currently signup phase allow developer access data file create 3rd party application web service As release TBA profile pending update"
+    }
+]

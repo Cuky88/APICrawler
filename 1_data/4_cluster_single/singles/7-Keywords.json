@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Keywords,Recommendations",
+        "api_name": "Keyword Tool",
+        "id": 3524,
+        "progweb_descr": " Keyword Tool API integrate search volume data It generate keyword suggestion access Api Key interact JSON architecture Keyword Tool help user discover thousand new longtail keywords relate topic automatically generate Googles search suggestion"
+    },
+    {
+        "progweb_cat": "Keywords,Data",
+        "api_name": "Keyword.io",
+        "id": 3538,
+        "progweb_descr": " Keywordio API integrate keywords feature web service spreadsheet mobile application It available JSON architecture HTTP request token authentication"
+    },
+    {
+        "progweb_cat": "Keywords,Search",
+        "api_name": "KWMaster Keyword Suggest",
+        "id": 4881,
+        "progweb_descr": " KWMaster Keyword Suggest REST API allow developer access integrate functionality KWMaster Keyword Suggest application main API method retrieve keyword suggestion provide keyword API use Google suggestion rather Adwords KWMaster Keyword Suggest suggest keyword search engine generator"
+    },
+    {
+        "progweb_cat": "Keywords,SEO",
+        "api_name": "Grepwords",
+        "id": 6024,
+        "progweb_descr": " Grepwords APIfirst keyword suggestion service usefully employ research scenario Grepword keywords service also use determine accurate keywords use online campaign keyword lookup API return data associate keywords find Grepwords database API receive HTTP request return data JSON XML CSV format response Grepwords API grant part Grepwords pay subscription service"
+    },
+    {
+        "progweb_cat": "Keywords,Analytics",
+        "api_name": "SimilarWeb Website Search Keywords",
+        "id": 6901,
+        "progweb_descr": " SimilarWeb offer website application analytics Search Keywords API could useful developer want obtain 3 keyword search result access website This API keyword search valuable measure search result user visit webpages multiple mobile device To develop app developer visit site find endpoints parameter example"
+    },
+    {
+        "progweb_cat": "Keywords,Classification",
+        "api_name": "Twinword Topic Tagging",
+        "id": 8359,
+        "progweb_descr": " Automatically generate topic keywords article blog"
+    },
+    {
+        "progweb_cat": "Keywords,Marketing",
+        "api_name": "HubSpot Keywords",
+        "id": 13608,
+        "progweb_descr": " HubSpot internet company provide highquality internet marketing small internetbased business HubSpot transforms relatively static smallbusiness website modern marketing machine produce right lead help convert high percentage business qualify opportunity This API power HubSpots new Keywords application allow developer access information keywords important specify HubSpot customer Through API developer also add remove keywords customer interest list As much data use HubSpots keyword management change often API expose subset available data time API use RESTful call response format XML JSON"
+    }
+]

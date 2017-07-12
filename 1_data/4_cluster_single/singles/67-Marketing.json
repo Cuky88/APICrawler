@@ -1,0 +1,404 @@
+[
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Enthusem",
+        "id": 436,
+        "progweb_descr": " Enthusem specialize offline online marketing Enthusem API enable web application send personal one time printed mail drive recipient online experience use unique trackable code"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Tradedoubler Vouchers",
+        "id": 1461,
+        "progweb_descr": " Tradedoubler Vouchers API allow access advertiser voucher cod It available REST architecture JSONP JSON XML format include CORS implement browser With API developer obtain fresh voucher code information automate update voucher process match voucher code build banner widget Tradedoubler affiliate marketing service provider"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Tradedoubler Conversions",
+        "id": 1462,
+        "progweb_descr": " Tradedoubler Conversions API allow developer create automated notification sale lead good know conversion It use client side XMLHttpRequest JSONP since CORS completely implement With API developer receive data lead sale event receive notification transaction change status configure currency conversion Tradedoubler affiliate marketing service provider"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Tradedoubler Claims",
+        "id": 1463,
+        "progweb_descr": " Tradedoubler Claims API allow create claim individually bulk It available JSON XML format token authentication method CRUD additional resource fully implement With API developer create claim realtime query claim find updates find change claim approval Tradedoubler affiliate marketing service provider"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Tradedoubler Products",
+        "id": 1464,
+        "progweb_descr": " Tradedoubler Products API access advertiser product data It available REST architecture CORS browser JSONP format With API developer access data European advertiser query information find best price product download advertiser raw data build widget product data Tradedoubler affiliate marketing service provider"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Ampiri",
+        "id": 2309,
+        "progweb_descr": " Ampiri mediation platform show relevant advertisement exist application Ampiri feature intelligent optimization engine combine high eCPM fill rate inventory Glispa Audience Platform audience target approach selection Ampiri base Germany provide native advertisement service global coverage"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Placeit",
+        "id": 3141,
+        "progweb_descr": " Placeit API allow developer mockup generator right website within apps It come complete access variety realistic template Placeit ’ public catalogue either 400x300 px 1920x1440 px tool image processing Images use real people real scenario watermark"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Facebook Insights",
+        "id": 4060,
+        "progweb_descr": " This API interface retrieve statistic advertisement Insights API access metric Page API method include ad campaign time call action click video view cost video view country deeplink click audience demographic newsfeed impression much"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Carnival",
+        "id": 4574,
+        "progweb_descr": " Carnival marketing system design customer retention Some Carnivals feature include inapp messaging advance audience segmentation customize insight integration assistance behavioral trigger Carnival offer API REST base make use HTTP Basic Authentication Carnival locate New York Wellington New Zealand"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "PortaText",
+        "id": 4576,
+        "progweb_descr": " PortaText SMS marketing platform base Florida Its feature include bulk SMS integrate notification add security auto responder PortaText platform use communication layer business customer This REST HTTP base API use HTTP Basic Auth well API Keys authentication"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Facebook Marketing",
+        "id": 4782,
+        "progweb_descr": " Facebook Marketing API allow developer programmatically access Facebooks advertising platform Developers get programmatic access data dynamic ad ad target best practice ad management service Plus access audience management insight data track specs conversion rate much Facebook social medium website"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Apsalar Summary Reporting",
+        "id": 4791,
+        "progweb_descr": " Apsalar Summary Reporting API allow developer get set report advertise campaign cohort event Apsalar mobile ad ROI platform measure effectiveness user mobile app medium vendor include 600 ad network worldwide It also collect information action end user take order improve understand conversion process"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "TargetingMantra",
+        "id": 6068,
+        "progweb_descr": " TargetingMantra online personalization platform TargetingMantra provide personalized customized online platform cater user specific need TargetingMantra API allow developer access integrate functionality TargetingMantra application Some example API method include manage account information retrieve data post data"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "DoubleClick Bid Manager",
+        "id": 6271,
+        "progweb_descr": " DoubleClick Bid Manager API allow developer integrate DoubleClick Bid Manager platform help user improve control ad campaign improve campaign performance platform offer keyword contextual target first thirdparty data proprietary optimization tool help user reach desired audience moment ad effective"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Outbrain Amplify",
+        "id": 6343,
+        "progweb_descr": " Amplify API enable complete management Outbrain marketing campaign campaign article level campaign level involve campaign management large scale include budget CPC flight enable disable campaign At article level developer programmatically add new article campaign enable disable current article test headline thumbnail image Amplify API also enable integration campaign performance information tool exist solution"
+    },
+    {
+        "progweb_cat": "Marketing,Advertising",
+        "api_name": "Affilae",
+        "id": 8245,
+        "progweb_descr": " Affilae help advertiser create affiliate advertising program monitor conversion find manage affiliate analyze customer behavior ROI Advertiser API return list program conversion partnership along conversion management program detail A Publisher API affiliate return list affiliate profile partnership commission"
+    },
+    {
+        "progweb_cat": "Marketing,Data",
+        "api_name": "Mozscape",
+        "id": 639,
+        "progweb_descr": " Moz analytics software search link brand Moz large index URLs around web might benefit marketer With Mozscape API developer able customize integrate data index application"
+    },
+    {
+        "progweb_cat": "Marketing,Data",
+        "api_name": "Neustar",
+        "id": 4384,
+        "progweb_descr": " NeustarAPI allow implement marketing feature use data intelligence real time It provide protocols JSON REST addition authentication Api Key Supplementary APIs could enhance integration include test monitor maintenance service Neustar provide information analytics service company"
+    },
+    {
+        "progweb_cat": "Marketing,Engagement",
+        "api_name": "Urban Airship Connect",
+        "id": 1747,
+        "progweb_descr": " Urban Airship Connect API available JSON object HTTP format Developers use API stream event display user experience mobile application Events include user action automate response push notification Urban Airship provide mobile market automation service"
+    },
+    {
+        "progweb_cat": "Marketing,Mobile",
+        "api_name": "Tenjin",
+        "id": 2001,
+        "progweb_descr": " Tenjin marketing platform design mobile feature analytics automate aggregation direct data visualization direct SQL access Tenjin offer source track True ROI analysis event insight Developers use Tenjin free limit 12M event per month historical data also limit 7 day"
+    },
+    {
+        "progweb_cat": "Marketing,Mobile",
+        "api_name": "Swrve A/B Test",
+        "id": 4390,
+        "progweb_descr": " Swrve marketing platform mobile application It feature market automation inapp campaign Swrve AB Test API use request resource Swrve service aid developer test application This REST API return data JSON format require API Key Swrve develop analytics market software delivers profitable relationship target audience"
+    },
+    {
+        "progweb_cat": "Marketing,Mobile",
+        "api_name": "Swrve Referrer",
+        "id": 4391,
+        "progweb_descr": " Swrve marketing platform mobile application It feature market automation inapp campaign Swrve Referrer API use track send referrer information campaign tracker This REST API return data JSON format require API Key Swrve develop analytics market software delivers profitable relationship target audience"
+    },
+    {
+        "progweb_cat": "Marketing,Mobile",
+        "api_name": "Swrve Push",
+        "id": 4393,
+        "progweb_descr": " Swrve marketing platform mobile application It feature market automation inapp campaign Swrve Push API use send push notification Swrve user In order use API Transactional Push API Campaign must create first This REST API return data JSON format require API Key Swrve develop analytics market software delivers profitable relationship target audience"
+    },
+    {
+        "progweb_cat": "Marketing,Mobile",
+        "api_name": "Swrve Events",
+        "id": 4394,
+        "progweb_descr": " Swrve marketing platform mobile application It feature market automation inapp campaign Swrve Events API use send information Swrve server regard numeric bucket user session event This REST API return data JSON format require API Key Swrve develop analytics market software delivers profitable relationship target audience"
+    },
+    {
+        "progweb_cat": "Marketing,Mobile",
+        "api_name": "ClickSend SMS",
+        "id": 7615,
+        "progweb_descr": " ClickSend API intend offer cloudbased SMS service send SMS programmatically API intend integrate service application websites software Possible us include bill reminder follow customer delivery notification alert send"
+    },
+    {
+        "progweb_cat": "Marketing,eCommerce",
+        "api_name": "AffiliateWP",
+        "id": 2005,
+        "progweb_descr": " This RESTful API provide developer access data within AffiliateWP API use complete Create Read Update Delete CRUD operation feature Visit referral track external website include nonWordPress site Referral track custom nonWordPress eCommerce system Custom affiliate area host outside WordPress It allow integrate system AffiliateWP extend AffiliateWP beyond standalone WordPress installation AffiliateWP affiliate marketing system WordPress website"
+    },
+    {
+        "progweb_cat": "Marketing,eCommerce",
+        "api_name": "Fomo",
+        "id": 3039,
+        "progweb_descr": " Fomo API allow developer integrate social proof website apps increase rate onpage conversion Fomo display recent customer action purchase newsletter signups help motivate potential customer Fomo start Shopify plugin serf 3000 website"
+    },
+    {
+        "progweb_cat": "Marketing,eCommerce",
+        "api_name": "Teak",
+        "id": 4462,
+        "progweb_descr": " Teak Oregon base marketing company It provide automation freetoplay game Teak feature behavioral analytics social share cohort analysis ingame reward help game company reach player Developers need register access API documentation"
+    },
+    {
+        "progweb_cat": "Marketing,eCommerce",
+        "api_name": "Tradable Bits",
+        "id": 4844,
+        "progweb_descr": " Tradable Bits Media offer social medium marketing service sport tourism entertainment hospitality retail agency Tradable Bits API allow developer implement marketing service application It include console URL try call Developers query stream user data well CRM push notification API offer documentation accessible API Key API Reference Facebook Apps Campaigns Data Stream Data CRM Data available"
+    },
+    {
+        "progweb_cat": "Marketing,Web Site Management",
+        "api_name": "Freewebsitetraffic P2P Website marketing",
+        "id": 2602,
+        "progweb_descr": " This API manage P2P marketing allow club websites exchange traffic relate field order gain cumulative advantage P2P Website marketing platform provide service website owner opportunity exchange traffic complimentary service"
+    },
+    {
+        "progweb_cat": "Marketing,European",
+        "api_name": "DaisyCon",
+        "id": 2705,
+        "progweb_descr": " DaisyCon API integrate affiliate marketing web service It available REST architecture HTTP request JSON response With API developer access statistic update transaction subscribe affiliate program They also retrieve financial information affiliate link client site"
+    },
+    {
+        "progweb_cat": "Marketing,Analytics",
+        "api_name": "Rival IQ",
+        "id": 2711,
+        "progweb_descr": " This REST API allow retrieve social data include individual post daily metric summary period metric summary It interface provide programmatic access data view within Rival IQ app include All Metrics Available Landscapes Social Posts Rival IQ delivers analytics competitive intelligence assist digital marketer make informed decision may improve result good understand market"
+    },
+    {
+        "progweb_cat": "Marketing,Analytics",
+        "api_name": "Orchextra",
+        "id": 4541,
+        "progweb_descr": " Orchextra mobile marketing company base Spain Orchextra platform use concurrently customer relationship management analytics tool It feature geolocation support segmentation recommendation base aggregate data pattern Developers need sign account prior access API documentation"
+    },
+    {
+        "progweb_cat": "Marketing,Analytics",
+        "api_name": "WebTrends Data Collection",
+        "id": 12886,
+        "progweb_descr": " WebTrends organization provide digital marketing solution company look expand Web presence social mobile arena well Web Their platform focus leverage analytics data collection empower client make informed decision digital marketing endeavor WebTrends Data Collection API design connect user application function collection tool analytics data metric With API developer programmatically create automate data collection tool post relevant data user account WebTrends data collection server This service also configure identify endusers finely grain data set reflect individual user behavior"
+    },
+    {
+        "progweb_cat": "Marketing,Cloud",
+        "api_name": "Cloud Elements Marketing Hub",
+        "id": 3495,
+        "progweb_descr": " Cloud Elements Marketing Hub API provide single point access lead cloudbased integrated marketing service ActOn Eloqua HubSpot MailChimp Mailjet Marketo Pardot Salesforce Marketing Cloud Allbound SharpSpring Autopilot Infusionsoft This allow developer manage campaign contact across multiple service use uniform API call"
+    },
+    {
+        "progweb_cat": "Marketing,Authentication",
+        "api_name": "StudentConnect",
+        "id": 3607,
+        "progweb_descr": " StudentConnect API allow website validate personal profile student sign product restrict targeted student enrol academic institution API provide integrative interface filter retrieve personal detail student database respective college Its provider Student Money Saver vendor proprietary solution build student database target marketing Contact API provider technical documentation"
+    },
+    {
+        "progweb_cat": "Marketing,Campaigns",
+        "api_name": "Emarsys",
+        "id": 3726,
+        "progweb_descr": " Emarsys API integrate cloud marketing application Clients automate contact list email campaign Available HTTP format Endpoints include administration contact segment source email campaign launcher"
+    },
+    {
+        "progweb_cat": "Marketing,Campaigns",
+        "api_name": "Synerise",
+        "id": 4271,
+        "progweb_descr": " Synerise backend syncs marketing sale together This platform use create marketing campaign create persistent environment online offline monitor Synerise feature PUSH notification client profile edition coupon Synerise API support JSON require API Keys authentication This API REST base"
+    },
+    {
+        "progweb_cat": "Marketing,Campaigns",
+        "api_name": "POPCheck",
+        "id": 4853,
+        "progweb_descr": " POPCheck API allow easy secure programmatic access save retrieve element POPCheck service Some API feature take photo onsite tag Site Campaign Person DateTime Capture comprehensive Survey data Photos Surveys instantly available Head Office team get set delete business content POPCheck provide easy track field marketeers POP Point Purchase installers"
+    },
+    {
+        "progweb_cat": "Marketing,Customer Relationship Management",
+        "api_name": "CityGro",
+        "id": 3831,
+        "progweb_descr": " CityGro provide loyalty marketing software collect customer data engage customer CityGro API integrate loyal marketing feature application It available REST HTTP format accessible Api token Methods include contact data field group"
+    },
+    {
+        "progweb_cat": "Marketing,Customer Relationship Management",
+        "api_name": "Plumb5",
+        "id": 4311,
+        "progweb_descr": " Plumb5 API aim fully integrated marketing platform design acquisition user retention allow marketing manager track visitor gain insight collect lead engage customer API enable developer retrieve manipulate data store Plumb5 allow build third party apps integrate exist CRM system"
+    },
+    {
+        "progweb_cat": "Marketing,Customer Relationship Management",
+        "api_name": "ActiveProspect LeadConduit",
+        "id": 6352,
+        "progweb_descr": " ActiveProspect marketing automation platform generate qualify lead ActiveProspect enable business integrate exist conversion CRM system well extend platform 3rd party application To integrate platform ActiveProspect expose core API LeadConduit API enable developer return information campaign lead statistic account management sale information API accept HTTP POSTS request JSON format use userss LeadConduit login HTTP basic authentication"
+    },
+    {
+        "progweb_cat": "Marketing,Email",
+        "api_name": "Ytel Message 360°",
+        "id": 4009,
+        "progweb_descr": " Ytel Message 360° API convergence platform multiple communication channel include voice text email direct mail Its integration allow user dial call location around world exchange text message different format include short code tollfree number convey transactional marketing email send direct mail API ’ dashboard documentation accessible upon sign subscribe preferred plan Its support Java NET Nodejs PHP Ruby library"
+    },
+    {
+        "progweb_cat": "Marketing,Email",
+        "api_name": "SENSORPRO",
+        "id": 4222,
+        "progweb_descr": " SENSORPRO API allow developer integrate marketing automation service system application Usage example available C Nodejs Python JSON Ajax SENSORPRO email marketing service include tool market automation personalization autoresponders welcome series trigger email subscriber score inbound marketing SMS survey"
+    },
+    {
+        "progweb_cat": "Marketing,Email",
+        "api_name": "Teradata DMC",
+        "id": 4674,
+        "progweb_descr": " Teradata DMC API let developer pull data DMC Digital Marketing Center extract information use application Teradata DMC email marketing SaaS let user plan implement control highvolume email broadcast It allow user analyze customer information product preferences buy behavior use information engage via email mobile social web marketing"
+    },
+    {
+        "progweb_cat": "Marketing,Email",
+        "api_name": "MPZMail",
+        "id": 6743,
+        "progweb_descr": " MPZMail API enable full access MPZMail Email Marketing back end API allow developer post retrieve subscriber group newsletter campaign via XML interface"
+    },
+    {
+        "progweb_cat": "Marketing,Email",
+        "api_name": "emfluence",
+        "id": 7295,
+        "progweb_descr": " emfluence API allow connect business customer efficiently This application allow developer create digital product include lead generation marketing campaign optimization content generation SEO optimization marketing area financial retail industrial hospitality main value emfluence aim facilitate relationship business customer contact management feature API available developer market industry work REST format In apidocs site user find number resource responses request along sample error facilitate developer ’ success"
+    },
+    {
+        "progweb_cat": "Marketing,Monetization",
+        "api_name": "Trade Doubler Products",
+        "id": 4086,
+        "progweb_descr": " Trade Doubler Products API integrate data advertising application via REST format It feature access fresh European data query information find best price product build widget retrieve data million product One API Key require authenticate"
+    },
+    {
+        "progweb_cat": "Marketing,Business",
+        "api_name": "Signpost",
+        "id": 4149,
+        "progweb_descr": " Signpost API provide programmatic access Signpost CRM marketing platform It design help local business get feedback new customer referral review repeat business Signpost help business optimize online profile automatically collect store customer data use power remarketing engine"
+    },
+    {
+        "progweb_cat": "Marketing,Business",
+        "api_name": "Hilenium",
+        "id": 5350,
+        "progweb_descr": " Hilenium API allow developer integrate Hilenium marketing workflow platform templates collaboration tool websites application Hilenium allow marketing team agency collaborate project get feedback stakeholder Users build custom workflow Hilenium choose library best practice project workflow"
+    },
+    {
+        "progweb_cat": "Marketing,Business",
+        "api_name": "Codeeta",
+        "id": 6828,
+        "progweb_descr": " Codeeta online marketing company provide customer tool widget promote business web With Codeeta API developer able integrate service applications Some Codeeta service include create account create widget update information widget customize widget"
+    },
+    {
+        "progweb_cat": "Marketing,Business",
+        "api_name": "FOWiz SMS Integration",
+        "id": 7257,
+        "progweb_descr": " Fowiz multifaceted SMS management service control hub It allow one convert Android phone even smarter business device allow instant notification schedule bulk SMS campaign automate reply FOWiz SMS Integration API assist integrate service exist application Their SMS service use tool poll vote survey CRM pledge campaigning"
+    },
+    {
+        "progweb_cat": "Marketing,Automation",
+        "api_name": "Active Campaign",
+        "id": 4389,
+        "progweb_descr": " Active Campaign API mainly allow automate email marketing aim increase sale Protocols available JSON XML permit developer integrate email marketing campaign analytics service application Active Campaign marketing automation platform include email sale CRM service"
+    },
+    {
+        "progweb_cat": "Marketing,Automation",
+        "api_name": "Vbout",
+        "id": 5249,
+        "progweb_descr": " This API allow integrate core Vbout marketing feature application build 3rd party plugins open source software like Wordpress Magento others You able synchronize subscriber system Email Marketing system Vboutcom You send content like email campaign social medium post read stats much"
+    },
+    {
+        "progweb_cat": "Marketing,Automation",
+        "api_name": "Jumplead",
+        "id": 7301,
+        "progweb_descr": " Jumplead provide marketing system allow user Identify connect prospect active website monitor activity automate sale team notification well monitor conversion rate traffic campaign Jumplead API provide programmatic access campaign account bill marketing function"
+    },
+    {
+        "progweb_cat": "Marketing,Collaboration",
+        "api_name": "Flight",
+        "id": 5079,
+        "progweb_descr": " Flight API Canto work RESTful protocol access create modify content In case asset folder albums marketing service Available OAuth2 authentication Flight Canto marketing team collaboration platform Flight aim manage content engage user promote brand secure encryption"
+    },
+    {
+        "progweb_cat": "Marketing,B2B",
+        "api_name": "Autopilot",
+        "id": 5330,
+        "progweb_descr": " Autopilot API allow developer integrate application Autopilot marketing automation platform API provide method capture lead add contact trigger Autopilot journey sync unsubscribes add Autopilot activity feed customize contact profile get data thirdparty app Salesforce Customer journey set easily use draganddrop interface"
+    },
+    {
+        "progweb_cat": "Marketing,Data-as-a-Service",
+        "api_name": "Act-On List",
+        "id": 5397,
+        "progweb_descr": " ActOn List API allow developer integrate application API service enable user create new list update get account list get list footer header page logos account ActOn marketing automation software provider"
+    },
+    {
+        "progweb_cat": "Marketing",
+        "api_name": "HubSpot Deals",
+        "id": 5993,
+        "progweb_descr": " HubSpot Deals API allow developer integrate Hubspot marketing software application enable user make request deal This API use Companies API HubSpot inbound market software platform provide company way attract visitor convert lead close customer"
+    },
+    {
+        "progweb_cat": "Marketing",
+        "api_name": "HubSpot Settings",
+        "id": 13612,
+        "progweb_descr": " HubSpot internet company provide highquality internet marketing small internetbased business HubSpot transforms relatively static smallbusiness website modern marketing machine produce right lead help convert high percentage business qualify opportunity This API currently alpha let developer access setting particular HubSpot account update select subset setting well store custom setting"
+    },
+    {
+        "progweb_cat": "Marketing,Competitions",
+        "api_name": "Strutta Promotions",
+        "id": 6097,
+        "progweb_descr": " Strutta online marketing company provide business way stay socially connect customer Strutta Promotions API let developer integrate service application enable customer use Strutta Promotions service directly With API application integrate many different social channel"
+    },
+    {
+        "progweb_cat": "Marketing,Messaging",
+        "api_name": "Push",
+        "id": 6437,
+        "progweb_descr": " PUSH API goal offer developer SaaS PaaS generate communication business mobile database andor mobile app user Features include customer behavior monitoring time location awareness target customer segment identification"
+    },
+    {
+        "progweb_cat": "Marketing,Events",
+        "api_name": "Poken",
+        "id": 6585,
+        "progweb_descr": " Poken offer mobile apps brand solution corporatesponsored event Their trademarked USB stick sync detector retrieve information hotspot tradeshows event goal network generate lead Poken expose core API accessible XML format partner authenticate API usage Using API developers program call retrieve user data create manage account add device get friend list send bonus point"
+    },
+    {
+        "progweb_cat": "Marketing,Hosting",
+        "api_name": "NetApplications",
+        "id": 10722,
+        "progweb_descr": " service provide hosting infrastructure online marketing promotion It host customer contact campaign track monitoring tool traffic analytics help message outreach Professional service consult available optimize performance system resource API method support account management function update application account createretrieveupdatedelete CRUD function contact list client account Methods also support provider Hitslink utility generate script track confirmation user contact"
+    },
+    {
+        "progweb_cat": "Marketing,Enterprise",
+        "api_name": "ICStats White Dealer",
+        "id": 11165,
+        "progweb_descr": " ICStats Dutch website traffic monitoring service help answer important question effectiveness site market campaign report user activity provide insight number visitor page view also way visitor find website ICStats report available programmatically via API API accessible use SOAP call issue XML format Additional APIs access ICStats function work website API documentation provide solely Dutch"
+    },
+    {
+        "progweb_cat": "Marketing,Sales",
+        "api_name": "HubSpot Prospects",
+        "id": 13611,
+        "progweb_descr": " HubSpot internet company provide highquality internet marketing small internetbased business HubSpot transforms relatively static smallbusiness website modern marketing machine produce right lead help convert high percentage business qualify opportunity This API currently beta let developer see prospect information associate HubSpot account API expose functionality let developer see visit HubSpot customer website search visitor particular organization filter visitor city region state country perform operation HubSpots new Prospects application API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Marketing,SEO",
+        "api_name": "Raven SEO Tools",
+        "id": 14823,
+        "progweb_descr": " Raven provide tool simplify internet marketing report research optimization management kewords link contact Raven SEO Tools API allow developer directly query Raven database contain search result thousand keywords manage keywords domains added account"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Funding,Campaigns",
+        "api_name": "FundraisingBox",
+        "id": 2282,
+        "progweb_descr": " FundraisingBox API integrate fundraise feature web service include campaigns donation form memberships sponsorship It available REST architecture JSON format webhooks Interfaces interact form prepopulation session payment select English Dutch main documentation language"
+    },
+    {
+        "progweb_cat": "Funding,Campaigns",
+        "api_name": "Tiltify",
+        "id": 4079,
+        "progweb_descr": " Tiltify API integrate live stream campaigns application Formats available JSON make callback securely via HTTPS Data accessible Key Tiltify stream platform gamers raise money online stream crowdfunding"
+    },
+    {
+        "progweb_cat": "Funding,Campaigns",
+        "api_name": "Transaxt",
+        "id": 6308,
+        "progweb_descr": " Transaxt online fundraise platform let user accept donation via internet Transaxt API let developer incorporate platform application public API allow developer query campaign setup information post donation via simple HTTP GET POST command"
+    },
+    {
+        "progweb_cat": "Funding,Events",
+        "api_name": "f6s Deal Feed",
+        "id": 2741,
+        "progweb_descr": " This API let get F6S Deals Feed data return deal specific profile category area call return JSON base URL parameter send standard HTTPS request F6s Global Founder Community Startup Programs Founder Deals Jobs Events"
+    },
+    {
+        "progweb_cat": "Funding,Financial",
+        "api_name": "Pave",
+        "id": 4615,
+        "progweb_descr": " Pave REST API allow developer access integrate functionality Pave application Public documentation available API access come account service Pave funding loan service provider focus borrower need education career financial support"
+    },
+    {
+        "progweb_cat": "Funding,Crowdsourcing",
+        "api_name": "Classy",
+        "id": 5349,
+        "progweb_descr": " Classy REST API allow developer access integrate functionality Classy application Public documentation available API access come account service Classy online mobile fundraise platform design nonprofit"
+    },
+    {
+        "progweb_cat": "Funding,Algorithms",
+        "api_name": "VentureFund.io Traction",
+        "id": 6538,
+        "progweb_descr": " VentureFundio Traction API integrate startup mobile application API track performance monitor unique visitor site create engagement data profile use pitch app idea investor idea replace standard method pitch investor model fully base apps marketplace performance use raw data These insight key performance indicator also use create approximate valuation startup Currently private beta interested party request access API visiting VentureFundio"
+    }
+]

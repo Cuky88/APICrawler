@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "Dashboards,Cloud",
+        "api_name": "Zephyr Enterprise REST",
+        "id": 3172,
+        "progweb_descr": " This REST API allow access Zephyr test asset It provide ability integrate Zephyr service application allow create testcase separate toolsystem add Zephyr testcase repository create execution cycle update status testcase execution run This include user project release testcase repository underlie folder testcases attachment execution cycle create user new execution cycle execution phase Samples available curl C javascript nodejs python php ruby Zephyr ondemand cloud base Test Management Platform application metric base visibility via real time dashboard"
+    },
+    {
+        "progweb_cat": "Dashboards,Testing",
+        "api_name": "Zephyr SOAP Web Services",
+        "id": 3173,
+        "progweb_descr": " This SOAPbased Web Services API allow build integration Zephyr It provide ability integrate Zephyr service application create testcase separate toolsystem well add Zephyr testcase repository create execution cycle update status testcase execution run This include user project release testcase repository underlie folder testcases custom field execution cycle Samples available javascript python php Perl Zephyr ondemand cloud base Test Management Platform application metric base visibility via real time dashboard"
+    },
+    {
+        "progweb_cat": "Dashboards,Analytics",
+        "api_name": "Quantum.io Gravity",
+        "id": 3462,
+        "progweb_descr": " Gravity API provide access Quantumio Dashboards JSON XML format 3rd party application integrate cloud base API create personalized TV dashboard Also API offer realtime KPI metric business"
+    },
+    {
+        "progweb_cat": "Dashboards,Analytics",
+        "api_name": "neatly.io",
+        "id": 3935,
+        "progweb_descr": " neatly API allow build dashboard widget use data multiple integration one API Neatlyio connect web spreadsheet SaaS data ecommerce accounting social one dashboard Rather work multiple APIs different authentication method request rule option use neatly instead"
+    },
+    {
+        "progweb_cat": "Dashboards,Analytics",
+        "api_name": "Librato Metrics",
+        "id": 13858,
+        "progweb_descr": " Librato Metrics time series data management service simplifies process store analyze present type time series data Metrics feature RESTful API scalable redundant data store flexible dashboard creation tool selection presentation instrument alert service tie number web service email IM Metrics use wide variety application monitor cloud datacenter infrastructures manage data collect sensor network"
+    },
+    {
+        "progweb_cat": "Dashboards,Chat",
+        "api_name": "Big Board",
+        "id": 6862,
+        "progweb_descr": " Big Board tool consolidates pointintime event collaborative work environment chat service calendar apps single analytical display cumulative activity It use project management understand team workflow launchpad work Developers use Big Board API connect custom application post event Big Board interface API make accessible Big Board users obtain access token register custom application developer work PHP Big Board SDK exist increase fluidity integrate use Big Board"
+    },
+    {
+        "progweb_cat": "Dashboards,Feeds",
+        "api_name": "Dashbook",
+        "id": 9140,
+        "progweb_descr": " Dashbook platform allow user create manage information want one dashboard screen Users tailor customize feed information want see dashboard Dashbook API allow developer access integrate functionality Dashbook application build new application Public documentation available interested developer sign httpdashbookappcomcontactForm access"
+    },
+    {
+        "progweb_cat": "Dashboards,Business",
+        "api_name": "Klipfolio",
+        "id": 14615,
+        "progweb_descr": " Klipfolio realtime fully cloud dashboard application support connection 350 onprem cloud data source simple enough business analyst use Klipfolio support APIs use standard best practice ’ wacky connect RESTful OAuth GETPOST XWSSE SOAP Basic Auth 2Way Auth Dashboards build Klipfolio easily share viewed browser wallmounted TVs mobile device iOS Android Plans start 24 5 user try free Klipfoliocom"
+    }
+]

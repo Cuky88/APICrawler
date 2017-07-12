@@ -1,0 +1,80 @@
+[
+    {
+        "progweb_cat": "URLs,Search",
+        "api_name": "Google Search Console URL Testing Tool",
+        "id": 2464,
+        "progweb_descr": " Google Search Console URL Testing Tool REST API allow developer access integrate functionality Google Search Console URL Testing Tool websites application main API method test see mobilefriendly website return result API enable developer run various performance validation check web page"
+    },
+    {
+        "progweb_cat": "URLs,HTML5",
+        "api_name": "URL Meta",
+        "id": 3991,
+        "progweb_descr": " URL Meta API retrieve detail URLs A call API return breakdown parameter – page title logo page URL image description content type – constitute URL ’ infrastructure URL Meta API open source platform return response JSON format"
+    },
+    {
+        "progweb_cat": "URLs,Addresses",
+        "api_name": "IPMANGO",
+        "id": 6124,
+        "progweb_descr": " IPMANGO offer simple service developer use quickly locate IP address associate site visitor IPMANGO also respond operate system browser remote port device user agent geolocation data country region city With HTTP request send IPMANGO endpoint API respond user device IP address IPMANGO free website set tool maintain Silver Moon In Addition IP API IPMANGO also offer Network DNS record lookup offer detailed Whois location data give inputted IP address"
+    },
+    {
+        "progweb_cat": "URLs,Screenshots",
+        "api_name": "ThumbGettys Thumbnail Generator",
+        "id": 6908,
+        "progweb_descr": " ThumbGettys Thumbnail Generator allow user generate image thumbnail videos website service create thumbnail matter second Pricing tiered base usage requirement lowest price level free ThumbGettys API enable developer integrate thumbnail creation function application"
+    },
+    {
+        "progweb_cat": "URLs,Documents",
+        "api_name": "Link Vault",
+        "id": 7191,
+        "progweb_descr": " Link Vault API generate onetimeuse link download digital document"
+    },
+    {
+        "progweb_cat": "URLs,SEO",
+        "api_name": "RankCrew",
+        "id": 7745,
+        "progweb_descr": " RankCrew manual link building service provide SEO product new establish site RankCrew API allow customer programmatically place variety service order request quote retrieve account balance information"
+    },
+    {
+        "progweb_cat": "URLs,SEO",
+        "api_name": "SEOgadget Links",
+        "id": 10205,
+        "progweb_descr": " SEOgadget internet marketing agency specialize conversion rate optimization analysis search marketing API allow user fetch store data link site perform bulk analysis inbound link Users gather information link metric SEOmoz site contact detail Google pageranks host location authorship information It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "URLs,SEO",
+        "api_name": "PostLinks.com",
+        "id": 10603,
+        "progweb_descr": " PostLinkscom text link brokerage allow webmaster buy sell text link It use system support Article Posts Contextual Links Comment Links PostLinkscom Link Building API let webmaster improve search engine ranking build link Users create custom link building script integrate link building exist online control panel API include almost functionality available PostLinkscom Control Panel API use REST SOAP protocol response XML JSON"
+    },
+    {
+        "progweb_cat": "URLs,URL Shortener",
+        "api_name": "Strim",
+        "id": 8490,
+        "progweb_descr": " Strim URL shorten service also track use summarizes web content When Strim use share link content track usage data order provide indepth analytics reflect user engagement This simple application build Data Forge available anyone use"
+    },
+    {
+        "progweb_cat": "URLs,URL Shortener",
+        "api_name": "MiniStash",
+        "id": 13658,
+        "progweb_descr": " MiniStash free URL shorten redirection service Upon sign MiniStash account user create short link get pay click MiniStash link MiniStash also keep track link statistic MiniStash also include developer API addition MiniStash website Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "URLs",
+        "api_name": "Webmention.io",
+        "id": 8894,
+        "progweb_descr": " Webmentionio API design keep track webmentions pingbacks method let author webpage know link back page Webmentionio API operate use call JavaScript XMLRPC format API currently open signups several function available without account"
+    },
+    {
+        "progweb_cat": "URLs",
+        "api_name": "Ami-Link Hide",
+        "id": 14739,
+        "progweb_descr": " AmiLink API let user protect file post filesharing site rapidshare megaupload protect link scramble code Amigura Technology Solutions website design company API use follow site rapidsharede rapidsharecom megauploadcom sendspacecom depositfilescom uploadingcom yousenditcom zsharenet badongocom hotfilecom mediafirecom filefactorycom easysharecom fileservecom sharingmatrixcom zidducom multiuploadcom qooycom API use RESTful protocol require use API key"
+    },
+    {
+        "progweb_cat": "URLs,Monitoring",
+        "api_name": "drngd",
+        "id": 9061,
+        "progweb_descr": " drng URLshortening service also enable track view statistic URLs service accessible open API allow developer easily integrate use drng monitor URL popularity"
+    }
+]

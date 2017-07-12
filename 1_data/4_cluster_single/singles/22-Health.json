@@ -1,0 +1,134 @@
+[
+    {
+        "progweb_cat": "Health,Fitness",
+        "api_name": "Walgreens Balance Rewards",
+        "id": 376,
+        "progweb_descr": " Balance® Rewards API enable prequalified partner connect Walgreens share individual member health wellness information eligible receive Balance Rewards point healthy activity like walk run weight management API design enable partner seamlessly share individual health lifestyle activity create validate user membership In order individual receive point health wellness activity must Balance Rewards member successfully complete Walgreens OAuth login registration"
+    },
+    {
+        "progweb_cat": "Health,Fitness",
+        "api_name": "Suggestic Personalized Glycemic Response Prediction",
+        "id": 3801,
+        "progweb_descr": " Suggestic Personalized Glycemic Response Prediction API allow user track blood sugar individual glycemic response different activity order help manage Type 2 Diabetes Suggestic service intend help user optimize lifestyle improve Type 2 Diabetes management prevention Users enact change treatment plan without consult medical provider"
+    },
+    {
+        "progweb_cat": "Health,Fitness",
+        "api_name": "BMI Calculator",
+        "id": 4272,
+        "progweb_descr": " BMI Calculator API aim offer developer calculator determine BMIs software application API write CURL Java Ruby PHP Python Node ObjectiveC NET Body mass index BMI measure body fat base height weight applies adult men woman"
+    },
+    {
+        "progweb_cat": "Health,Data",
+        "api_name": "Observational Health Data Sciences CDM Web",
+        "id": 1661,
+        "progweb_descr": " OHDSI WebAPI RESTful service layer provide access Observational Health Data Sciences Informatics data method execution CDM design support conduct research identify evaluate association intervention include outcome cause intervention procedure healthcare policy change condition occurrence drug exposure OHDSI multistakeholder interdisciplinary collaborative strive bring value observational health data largescale analytics community enable active engagement across multiple discipline span multiple stakeholder group like clinical medicine biostatistics computer science epidemiology life science researcher patient provider payer product manufacturer regulator"
+    },
+    {
+        "progweb_cat": "Health,Data",
+        "api_name": "Human Utility",
+        "id": 2202,
+        "progweb_descr": " Human Utility REST API data aggregation provide platform store abstract data mobile device wearable sensor data source service aim make available activity data generate health track device monitor blood glucose weight physical activity caloric intake blood pressure many others data type Utility API provide data source user connect service use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Health,Data",
+        "api_name": "Human Wellness",
+        "id": 2376,
+        "progweb_descr": " Human Wellness REST API data aggregation provide platform store abstract data mobile device wearable sensor data source service aim make available activity data generate health track device monitor blood glucose weight physical activity caloric intake blood pressure many others data type service use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Health,Data",
+        "api_name": "Human Medical",
+        "id": 2377,
+        "progweb_descr": " Human Medical REST API data aggregation provide platform store abstract data mobile device wearable sensor data source service aim make available activity data generate health track device monitor blood glucose weight physical activity caloric intake blood pressure many others data type Utility API provide data source user connect Human Medical API make available user medical record connect service use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Health,Data",
+        "api_name": "Microsoft Health Cloud",
+        "id": 5428,
+        "progweb_descr": " Preview Microsofts Health Cloud API leverage data Microsoft Health apps API use HTTP GET method JSON data type OAuth2 authentication Register developer account receive Client ID Secret Use Microsoft Cloud API access user data like heart rate step count distance activity data like run bike guide workout sleep activity See project documentation full method description instruction get start"
+    },
+    {
+        "progweb_cat": "Health,Analytics",
+        "api_name": "PopEye",
+        "id": 3583,
+        "progweb_descr": " PopEye API analytical solution compute crucial health parameter population basis Meaningful Use Clinical Quality Metrics CQM API flexible cloud networkbased platform provide scalable interface simplify integration EHR system client PopEye API serve costcutting intervention maintenance MU computation client ’ HER user Developers integrate RESTful API CCDA path alternatively import JSONformatted data calculator"
+    },
+    {
+        "progweb_cat": "Health,Analytics",
+        "api_name": "Beyond Wellness",
+        "id": 7103,
+        "progweb_descr": " Beyond Verbal ’ Wellness API turn smartphone wearable device app sensor discovers track emotional wellbeing time By speak device Beyond Verbal ’ technology collect decode distributes emotion automatically Beyond Verbal able analyze tone voice uncover underlying emotion With Beyond Wellness API user discover track correlate emotion every wellness fitness wellbeing solution"
+    },
+    {
+        "progweb_cat": "Health,Babies",
+        "api_name": "Maternal Mental Health",
+        "id": 3724,
+        "progweb_descr": " Maternal Mental Health API integrate directory Los Angeles area find certified psychologist counselor psychiatrists new mother It available JSON data HTTP request Token require authenticate"
+    },
+    {
+        "progweb_cat": "Health,Education",
+        "api_name": "CampDoc",
+        "id": 3959,
+        "progweb_descr": " CampDoc offer electronic health record system build resident summer camp day camp This system feature integrate management health form allergies medication illnessinjury track CampDoc API use interact health record system specialized function profile user registration This API REST base registration require access detailed documentation"
+    },
+    {
+        "progweb_cat": "Health,Algorithms",
+        "api_name": "Samsung Simband",
+        "id": 4196,
+        "progweb_descr": " Samsung Simband wearable device monitor heart rate blood pressure skin temperature Written C language developer access data SAMI Samsungs data exchange platform via REST To authenticate Simband use chip remotely store private key use SSL server"
+    },
+    {
+        "progweb_cat": "Health,Mapping",
+        "api_name": "Sickweather Nightingale",
+        "id": 4198,
+        "progweb_descr": " Sickweather Nightingale API provide access locationbased information contagious illnesses Sickweather scan social medium websites indicator various type sickness order identify outbreak give location APIs call let user get individual report local forecast contagious illness threat level location API also use submit report illness"
+    },
+    {
+        "progweb_cat": "Health,Aggregation",
+        "api_name": "QuantiModo",
+        "id": 4458,
+        "progweb_descr": " QuantiModo quantify health platform analyze human activity data This data use clinical research discover possible chronic illness It feature predictive analytics improve quality life data collection several smartphone application QuantiModo API REST base return data JSON format use OAuth 2 authentication QuantiModo develop selftracking application base Illinois"
+    },
+    {
+        "progweb_cat": "Health,Healthcare",
+        "api_name": "BaseHealth",
+        "id": 5255,
+        "progweb_descr": " BaseHealth API allow developer integrate access curated content anonymous assessment drug response food response personalize assessment application This API use generate evidencebased health assessment individual base give disease risk factor prevalence BaseHealth company provide software perform evidencebased assessment devise action plan tailored individual need"
+    },
+    {
+        "progweb_cat": "Health,Healthcare",
+        "api_name": "Health Topics. Net",
+        "id": 7013,
+        "progweb_descr": " Health Topics Net unofficial API display health information recognize source English Spanish To know application developer either access live preview screenshot This API could valuable developer bilingual market work health relate application To start user could register codecanyon purchase regular extend license Files include VB XML Javascript HTML CSS protocol"
+    },
+    {
+        "progweb_cat": "Health",
+        "api_name": "higi",
+        "id": 5588,
+        "progweb_descr": " higi API third party data API use service allow user share activity health user profile data third party OAuth V1 higi help keep track health data It combine health wellness information one number higi Score simplify track overall health"
+    },
+    {
+        "progweb_cat": "Health,African",
+        "api_name": "Humanitarian Data Exchange Ebola Data",
+        "id": 6300,
+        "progweb_descr": " Humanitarian Data Exchange HDX provide dataset contain top line figure Ebola outbreak dataset include information cumulative case ebola cumulative death ebola open ebola treatment center people receive food aid appeal coverage currently affect country Ebola Data API allow user access data integration application"
+    },
+    {
+        "progweb_cat": "Health,Cities",
+        "api_name": "BreezoMeter Air Quality",
+        "id": 6489,
+        "progweb_descr": " BreezoMeter API accept user location respond advanced street level real time Air Quality data store within database Historical data also available API accepts GET request latitude longitude coordinate respond rating air quality use scale 1100 unique BreezoMeter also include country official AQI response also include color reading customizable interface chart include helpful tip stay fit use preventative care remain good health give state location air quality If specific latitude longitude coordinate hand API also process request inputted city name street address"
+    },
+    {
+        "progweb_cat": "Health,Big Data",
+        "api_name": "openFDA",
+        "id": 7132,
+        "progweb_descr": " United States Food Drug Administration FDA nation regulatory body food drug product administration review new product well oversee management food related issue around country openFDA API provide publicly accessible data FDA three subject drug device food This API currently beta research project result unvalidated data Public Domain release Creative Commons CC0 Results return JSON An API key require free"
+    },
+    {
+        "progweb_cat": "Health,Applications",
+        "api_name": "Apple HealthKit",
+        "id": 7164,
+        "progweb_descr": " Apples HealthKit API enable health fitness apps share data new iOS 8 Health application HealthKit serve hub health fitness apps iOS device This allow consumer oversight health fitness"
+    }
+]

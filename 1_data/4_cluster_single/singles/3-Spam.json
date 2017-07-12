@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Spam,Security",
+        "api_name": "CleanTalk Anti-Spam",
+        "id": 2393,
+        "progweb_descr": " CleanTalk AntiSpam API connect website order access cloudbased spam protection service Developers need create class check message spam parse message API require API Keys authentication use JSON data exchange CleanTalk feature realtime statistic imperceptible spam protection 247 support"
+    },
+    {
+        "progweb_cat": "Spam,Email",
+        "api_name": "Antideo",
+        "id": 3190,
+        "progweb_descr": " Antideo API offer health check perform IPs Email adresses These check use accept user signups check order fraudulent indicator Antideo update database regularly late infected IP range proxy record This API require API Keys authentication return data JSON format"
+    },
+    {
+        "progweb_cat": "Spam,Social",
+        "api_name": "Stop Forum Spam",
+        "id": 15272,
+        "progweb_descr": " Stop Forum Spam database online forum spammer API allow user query database determine spammer try register site Users also add database It use RESTful interface response format XML"
+    }
+]

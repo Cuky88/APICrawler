@@ -1,0 +1,1664 @@
+[
+    {
+        "progweb_cat": "Search,Q&A",
+        "api_name": "True Knowledge",
+        "id": 9,
+        "progweb_descr": " True Knowledge new class Internet search technology aim improve experience find know fact Web True Knowledge Answer Engine give consumer instant answer complex question Request information topic get back result processable form Early area strength include geographic knowledge local time geolocation Natural language question also process View demo website"
+    },
+    {
+        "progweb_cat": "Search,Q&A",
+        "api_name": "SnappyFingers",
+        "id": 1190,
+        "progweb_descr": " SnappyFingers let use Question Answer base search Engine API underlie service search FAQ file across Internet"
+    },
+    {
+        "progweb_cat": "Search,Q&A",
+        "api_name": "Duck Duck Go",
+        "id": 14939,
+        "progweb_descr": " DuckDuckGo search engine distinguishes track user generate result base usersâ€™ previous behavior DuckDuckGo Instant Answer API provide free programmatic access many search engineâ€™s instant answer pull 100 independent source Answers include thing like topic summary categories disambiguation redirects definition Potential us include define people place thing word concept provide direct link service list related topic link official site API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Search,Q&A",
+        "api_name": "Dooblet",
+        "id": 15769,
+        "progweb_descr": " Use Dooblet API get two alternative anything submit Dooblets main site allows type something get alternative example type car model software application name band name prescription name company Using API might submit iphone get back alternative blackberry ipod touch"
+    },
+    {
+        "progweb_cat": "Search,Business",
+        "api_name": "Yellow",
+        "id": 10,
+        "progweb_descr": " YellowAPIâ„¢ application program interface allow stream top Canadian local search content application Using database 15 million business listing associate rich content user provide dynamic local business data customer without need directory"
+    },
+    {
+        "progweb_cat": "Search,Business",
+        "api_name": "CRO Open Services Search",
+        "id": 3148,
+        "progweb_descr": " This REST API offer public mean integrate CRO Company Submission data application Examples would list company search result retrieve detail company listing document file CRO specify company Companies Registration Office Ireland repository public statutory information Irish business company names"
+    },
+    {
+        "progweb_cat": "Search,Business",
+        "api_name": "Intouch By Eniro",
+        "id": 8984,
+        "progweb_descr": " Intouch service Eniro local search engine serve Nordic region Poland Intouch pay service use Eniroâ€™s database provide information individual business government organization Intouch API allow customer application search company people Norway Sweden Denmark use array search parameter Available data type include address map data legal data employment service position data"
+    },
+    {
+        "progweb_cat": "Search,Business",
+        "api_name": "Brownbook OpenSearch",
+        "id": 11070,
+        "progweb_descr": " service provide listings directory business organization categorize product offering include good vendor service provider Search access provide compliance OpenSearch standard Keyword lookup programmatic integration provide listing individual business provide desired product API method support access listing compliant OpenSearch format Methods allow submission query term geographic location API return result list business directory local specify place matching term link view detail business provider platform"
+    },
+    {
+        "progweb_cat": "Search,Education",
+        "api_name": "JournalTOCs",
+        "id": 11,
+        "progweb_descr": " Developers use JournalTOCs API embed search functionality within web application make journal TOC RSS feed metadata Anyone access RSS Readers also use JournalTOCs API JournalTOCs JISC Rapid Innovation project develop freely available API monitoring current journal issue identify publish paper Institutional Repositories API give user access entire JournalTOC database article journal publisher update continually collect publisher TOC RSS feed soon publish web search result come RSS format parse used application RSS reader search result could include web page API consist 4 call journal article user ID institution ID"
+    },
+    {
+        "progweb_cat": "Search,Education",
+        "api_name": "Quetzal",
+        "id": 5257,
+        "progweb_descr": " Quetzal API provide user research tool currently use biomedical field Quetzal ’ unique combination linguistic statistical method quickly delivers contextually relevant result save researcher time minimize risk overlook critical information Developers use tool integrate API application enable user directly research application"
+    },
+    {
+        "progweb_cat": "Search,Education",
+        "api_name": "KISTI",
+        "id": 15668,
+        "progweb_descr": " From site This API find topiccentric expert name researcher generates social network Developers use API incorporate search result directly web site service KISTI stand Korea Institute Science Technology Information Learn httpwwwkscrekrengindexhtm"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "Twitter Search",
+        "id": 68,
+        "progweb_descr": " Twitter search API optional restriction language hashtags Use find tweet people trend Note Summize acquire Twitter official search engine search API"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "Social Mention",
+        "id": 1253,
+        "progweb_descr": " Social Mention social medium search analysis platform aggregate user generate content across web Social Mention API enable developer interact Social Mention web site programmatically Its design make possible user access integrate social medium data application API provide single stream realtime search data aggregate numerous social medium property This RESTful API response return JSON PHP format"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "National Cellular Directory People Search",
+        "id": 10312,
+        "progweb_descr": " National Cellular Directory people search website let user search person name phone number use reverse phone lookup National Cellular Directory Happy Hour People search allow user search phone number include cell phone number find owner behind number This free service API developers National Cellular Directory People Search API use SOAP message HTTP POST GET method accept request return result via XML Full documentation available registration"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "Tracesmart",
+        "id": 11009,
+        "progweb_descr": " service provide people search capability subject England Wales within UK One function provide access record county court discover monetary judgment impose individual Another help identity check application like employment application financial transaction compliance provision prevent money laundering API method support search court record judgment enter match know alias fuzzy name match Methods also support Customer Due Diligence CDD check verify identity claim include verification list people sanction deceased people require compliance antimoney laundering guideline"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "Tweet Archivist",
+        "id": 11707,
+        "progweb_descr": " Tweet Archivist service let user search Twitter Tweets sender recipient object reference content Users may create archive base search analyze export share Users may choose keep search private share result friend colleague world Users may create maximum three active archive Tweet Archivist API enable user visualize data collect archive Available visualization include volume time top user Tweet vs Retweet top word top URLs source Tweets"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "Ark.com",
+        "id": 12309,
+        "progweb_descr": " Arkcom online platform allow user search people web Arkcom offer people search capability either new people new business contact old classmate current friend Users also browse people current city gender college Arkcom API allow developer access integrate functionality Arkcom application Public documentation available interested developer email devkeyarkcom API key access"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "GroupHigh",
+        "id": 12903,
+        "progweb_descr": " GroupHigh blog outreach service brand company find relevant blog blogger reach promote product service well access blog content GroupHigh API allow developer access integrate functionality GroupHigh applications Some example API method include incorporate blog content sit search blog access blog metadata Public documentation available interested developer sign httpwwwgrouphighcomproductsblogsearchapi find"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "Heystaks",
+        "id": 14324,
+        "progweb_descr": " HeyStaks social search service plug Google Bing Yahoo bring user relevant result search These result recommend future searcher similar query lead personalized Web search experience With HeyStaks API developer integrate communitycurated store relevant page application website API allow developer allow user contribute page staks build store search knowledge distribute across HeyStaks app ecosystem Exposed functionality include return Users information return list Staks User member return Users list buddy API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "Cruvee Social",
+        "id": 14789,
+        "progweb_descr": " Cruvee Social API allow partner tap Cruvees social medium monitor event stream historical index wine conversation Cruvee provide business intelligence performance management service wine industry This premium API fee base API use RESTful protocol response format JSON Currently API beta form"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "Lijit",
+        "id": 14971,
+        "progweb_descr": " Ligit API allow user embed Lijit Search Results web page Lijit ’ site search content discovery tool collect report reader intent behavior demographic actionable insight data use build custom integrate advertising campaign leverage social medium authentic content encourage interaction increase brand awareness deliver intent purchase API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Search,Social",
+        "api_name": "Whoozy Person Search",
+        "id": 15500,
+        "progweb_descr": " This API part people search engine httpwhoozycom This API use RESTful interface allow application search name social network search engine blog news picture phone number email address Responses format either XML JSON"
+    },
+    {
+        "progweb_cat": "Search,Keywords",
+        "api_name": "WebKnox Keywords",
+        "id": 88,
+        "progweb_descr": " Begun research project Royal Melbourne Institute Technology University Technology Dresden WebKnox ontologydriven fact extraction engine build provide direct fast complete answer question topic user think To answer question WebKnox use external service might previously provide answer compute answer use knowledge base If option fail WebKnox try find answer fly WebKnox host suite REST APIs deliver range web service WebKnox Keywords API provide developer access keyword data often search many compete page Google API also return list related keywords"
+    },
+    {
+        "progweb_cat": "Search,Keywords",
+        "api_name": "Microsoft Cognitive Services Knowledge Exploration Service",
+        "id": 3997,
+        "progweb_descr": " Microsoft Cognitive Services Knowledge Exploration Service KES API interpret natural language query provide autocompletion suggestion This API evaluate structured query return information match object also provide attribute visualization interactive faceted experience Currently free plan available standard option price base Azure usage KES API use JSON data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Search,Keywords",
+        "api_name": "WebKnox Search",
+        "id": 8591,
+        "progweb_descr": " Begun research project Royal Melbourne Institute Technology University Technology Dresden WebKnox ontologydriven fact extraction engine build provide direct fast complete answer question topic user think To answer question WebKnox use external service might previously provide answer compute answer use knowledge base If option fail WebKnox try find answer fly WebKnox host suite REST APIs deliver range web service WebKnox Search API allow application website perform web image news search API provide option limit number result skip specified number top result"
+    },
+    {
+        "progweb_cat": "Search,Keywords",
+        "api_name": "Visitors Voice",
+        "id": 8880,
+        "progweb_descr": " Visitors Voice provide site search analytics give developer access actionable user behavior data Visitors Voice provide programmatic access visitor analytics REST API API give access data describe search term keywords user session much"
+    },
+    {
+        "progweb_cat": "Search,Keywords",
+        "api_name": "Trellian Keyword Discovery",
+        "id": 14378,
+        "progweb_descr": " Keyword Discovery collect keyword data many different search engine world wide compiles range search relate statistic KeywordDiscoverycom offer searchable database 32 billion search query archive 12 month period It enable advertiser search engine marketer effectively target keyword base advertising provide advance keyword research analysis search trend API allow developer integrate Keyword Discovery service websites It use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Search,Auctions",
+        "api_name": "eBay Finding",
+        "id": 132,
+        "progweb_descr": " eBays Finding API provide programmatic access search capability eBay platform It let user search browse item list eBay provide metadata refine search customize search process Developers use API build search browse capability bid buying application Finding API expose variety search capability include search base keyword associate item list detail category domains item characteristic aspect domain aspect metadata API also provide keyword recommendation help refine search result This API use via SOAP HTTP REST It also integrate JavaScript PHP use eBays API tutorial kit"
+    },
+    {
+        "progweb_cat": "Search,Auctions",
+        "api_name": "eBay",
+        "id": 298,
+        "progweb_descr": " eBays primary web service find three follow APIs apiebaytrading Trading API design provide robust support transactional activity service offer Trading API allow developer list item manage user information get item information manage eBay sale purchase apiebayshopping Shopping API lightweight service optimize buyer shop browse Shopping API let user take search eBay put site application This API design creation buying application fast response time apiebayfinding Finding API eBays next generation search API Finding API provide relevant search result compare exist search APIs array search refinement capability Developers leverage Finding API integrate robust search browsing experience buy application Note As October 2011 eBay deprecate GetSearchResults GetCategoryListings service Trading API FindItemsAdvanced FindItems service Shopping API This functionality migrate Finding API"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Vast",
+        "id": 139,
+        "progweb_descr": " Vast web search service crawl entire web structure data find Initial vertical include Cars Jobs Profiles"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Yahoo Related Suggestions",
+        "id": 157,
+        "progweb_descr": " Related Suggestion service provide suggestion query relate submit query"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Yahoo Term Extraction",
+        "id": 255,
+        "progweb_descr": " Term Extraction API allow user perform content analysis provide list significant word phrase extract large content It one technology use Yahoo Search It use RESTful API response format XML"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Microsoft Bing",
+        "id": 256,
+        "progweb_descr": " Bing API Version 20 enable developer embed flexible powerful search engine custom search component thier sit application Bing API offer open flexible option build enhance site application With API user search web content image story Users also monetize application advertisement It use RESTful protocol result format either XML JSON also provide support SOAP protocol"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Google Custom Search",
+        "id": 260,
+        "progweb_descr": " Google Custom Search Engine API RESTful API allow developer get web image search result data JSON Atom format With API developer add web search andor site search capability website blog collection website"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Yahoo BOSS",
+        "id": 281,
+        "progweb_descr": " Per provider API shut March 31 2016 BOSS Build Own Search Service Yahoos open search web service platform goal BOSS simple open Yahoos search infrastructure enable third party build revolutionary search product leverage data content technology social graph asset Developers startups large Internet company use BOSS build launch webscale search product utilize entire Yahoo Search index BOSS give access Yahoos investment crawl index ranking relevancy algorithms powerful infrastructure By combine asset ideas search technology asset BOSS platform next generation search innovation API use RESTful interface response format XML JSON"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Naver",
+        "id": 310,
+        "progweb_descr": " Naver popular search portal South Korea It also provide news service email service academic thesis search service childrens portal"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Blekko",
+        "id": 465,
+        "progweb_descr": " blekko search engine sort spam content farm malware crawl subset 3 billion page To improve search result blekko use tool call slashtag organizes websites specific topic A slashtag allow creation custom search engine It use filter search result help user search high quality site without spam content farm Slashtags contain list website user search slashtag search sit blekko API let developer integrate application web sit order run search blekko manipulate slashtags API also provide access SEO information Developers contact apiauthblekkocom documentation"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Gigablast",
+        "id": 481,
+        "progweb_descr": " Gigablast API let add web search capability website customize search product meta search engine"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Wikia",
+        "id": 760,
+        "progweb_descr": " Wikia Intelligent Search Extensions API JavaScript API allow thirdparty site build application appear Wikia Search result endusers install"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "SearchMan App Store",
+        "id": 4467,
+        "progweb_descr": " SearchMan App Store API allow developer access iOS App Store Google Play SearchMan offer access database 35 million apps relevant metadata SearchMan RESTful API JSON format"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Internet Archive Wayback Availability JSON",
+        "id": 7556,
+        "progweb_descr": " Wayback Machine Internet Archive digital archive Internet Users see archived version web page Wayback Machine support multiple APIs enable retrieval information data capture Wayback Wayback Availability JSON API provide test see particular url archive accessible Wayback Machine API check see archive copy ready display provide 404 error handler"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Marker",
+        "id": 8301,
+        "progweb_descr": " Marker API search United States trademark record return match result Returned data include word mark good service code description registration date Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Blippex Firehose",
+        "id": 9262,
+        "progweb_descr": " Blippex search engine Blippex index page see real people rank page time people spent page Blippex Firehose API allow developer access integrate functionality Blippex applications Some example API method include retrieve live stream URLs get indexed search retrieve link access rate limit"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Quintura Site Search",
+        "id": 14648,
+        "progweb_descr": " Quintura online search service It offer API let user perform website search search result provide XML feed use program code number way API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Spiderline Site Search",
+        "id": 14770,
+        "progweb_descr": " Spiderline host site search service provide domainspecific site search functionality An XML API provide service Public documentation API available"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Cue",
+        "id": 14834,
+        "progweb_descr": " Previously name Greplin Cue let user search data store across web photo blog post document etc This search functionality add Cue allow user follow Email contact calendar become intelligent snapshot user day Events automatically connect related email phone number address Users get detail need change cancel reservation check flight track arrival package text friend run late See uptodate contact info alongside recent communication contactâ€™s late post Facebook Twitter"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Factery",
+        "id": 15096,
+        "progweb_descr": " Factery develop FactRank technology mine realtime feed web content purpose provide simple short answer user query You decide source use You search Twitter Digg standard search engine"
+    },
+    {
+        "progweb_cat": "Search",
+        "api_name": "Entireweb",
+        "id": 15174,
+        "progweb_descr": " Entireweb Search API provide direct access search engines result Since receive result XML JSON full control result present page service free 1000 daily request"
+    },
+    {
+        "progweb_cat": "Search,SEO",
+        "api_name": "Alexa Web Information Service",
+        "id": 184,
+        "progweb_descr": " Alexa Web Information Service make Alexas repository information traffic structure web available developer"
+    },
+    {
+        "progweb_cat": "Search,SEO",
+        "api_name": "Wherestand",
+        "id": 8986,
+        "progweb_descr": " WhereStand search engine monitoring application capable check track analyze userâ€™s Google ranking WhereStand API allow application website programmatically request ranking four URLs use number keywords Ranking data return within 24 hour"
+    },
+    {
+        "progweb_cat": "Search,SEO",
+        "api_name": "Sick Marketing",
+        "id": 10007,
+        "progweb_descr": " service provide search engine optimization function submit backlinks build networks connection among website increase rank search result It leverage WordPress plugin related function analysis schedule link submission activity Those function available via web interface integration application via API API method support group categorize link type topic selection submission via web service Methods support profile describe individual link group access system submission process begin end date characteristic control use An addlink method trigger submission individual link via service"
+    },
+    {
+        "progweb_cat": "Search,SEO",
+        "api_name": "Directory Maximizer Directory Submissions",
+        "id": 13665,
+        "progweb_descr": " Directory Maximizer offer directory submission service user look improve SEO Users web site submit list web directory site detail properly submit one API allow user simplify process submit site directory manually work Directory Maximizer service API use RESTful call response format XML JSON PHP"
+    },
+    {
+        "progweb_cat": "Search,Mapping",
+        "api_name": "Yahoo Local Search",
+        "id": 275,
+        "progweb_descr": " Yahoo Local Search APIs give user access comprehensive database information content Yahoo Local range business information user comment rating Data include business address phone category rating distance URL traffic alert Yahoo Local make great addition mashup bring locationbased relevancy additional context real people experience place Version 3 Yahoo Local Search add even feature Users request individual business record use Yahoo Local list id Yahoo support search category help user narrow query Finally result return first line last user review list API use RESTful protocol response format either XML JSON PHP"
+    },
+    {
+        "progweb_cat": "Search,Mapping",
+        "api_name": "Wigle",
+        "id": 1621,
+        "progweb_descr": " Wigle online database wireless access point Wigle map visualization wireless coverage"
+    },
+    {
+        "progweb_cat": "Search,Mapping",
+        "api_name": "Cynapse Localscope",
+        "id": 11939,
+        "progweb_descr": " Cynapse maker iPhone app Localscope company make enterprise collaboration software Localscope data power GPS tool act location browser mobile phone Localscope let user find people place nearby use geotagged information multiple local search engine social network medium share service Localscope API allow service launch apps API support discover search modesi"
+    },
+    {
+        "progweb_cat": "Search,Mapping",
+        "api_name": "2GIS",
+        "id": 13672,
+        "progweb_descr": " 2GIS Russian search engine company Searches perform geographic location display map along detailed company information 2GIS API use perform search programatically integrate 2GIS developer applicationswebpages"
+    },
+    {
+        "progweb_cat": "Search,Mapping",
+        "api_name": "SingTel inSing Business Search",
+        "id": 14546,
+        "progweb_descr": " SingTel mobile telephony company base Singapore SingTel expose set web service offer mixture telecom marketplace capability This API let users access inSingcoms 150000 Singapore business list geocoded real time At point time individual developer without company representation grant access APIs"
+    },
+    {
+        "progweb_cat": "Search,Mapping",
+        "api_name": "Location Labs Spatial Storage",
+        "id": 14719,
+        "progweb_descr": " Location Labs bring safety innovation user power mobile phone technology product Family Safety mobile track product Safe Driving program lock phone receivingsending call texts move vehicle Spacial Storage API RESTful API allow developer locationbased application quickly query database geotagged data Developers also use API manage data scalable safe way make available application 3rd party application API also allow developer access already available 3rd party data"
+    },
+    {
+        "progweb_cat": "Search,Mapping",
+        "api_name": "Unlock",
+        "id": 15003,
+        "progweb_descr": " Unlock place digital gazetteer service Given place name return geographic location suggest type place Look name simple HTTP GET request Get back result HTML XML KML format view map client GeoJSON use Javascript base web application GeoRSS plaintext Searches names limit particular space filter type feature"
+    },
+    {
+        "progweb_cat": "Search,Mapping",
+        "api_name": "MashSpots",
+        "id": 15818,
+        "progweb_descr": " MashSpotscom free service local search Click location map get four close spot search item Mashspots API let integrate website help user search place around office company"
+    },
+    {
+        "progweb_cat": "Search,Translation",
+        "api_name": "Bing",
+        "id": 284,
+        "progweb_descr": " Bing API Version 20 enables embed flexible powerful search engine custom search component sit application Microsoft Bing API offer open flexible option build enhance site application Developing application new API straightforward Choose SourceTypes Web Images InstantAnswer Phonebook RelatedSearch Spelling choose output protocol JSON SOAP XML customize accord need Both HTTP endpoint OpenSearch RSS interface new version With addition interface enhance SOAP support able choose style access presentation appropriate application"
+    },
+    {
+        "progweb_cat": "Search,Russian",
+        "api_name": "Yandex",
+        "id": 313,
+        "progweb_descr": " XML API Russian search engine"
+    },
+    {
+        "progweb_cat": "Search,Russian",
+        "api_name": "Yandex Server",
+        "id": 14566,
+        "progweb_descr": " Yandex large search engine Russia develop number Internetbased service product Yandex offer owner website blog tool apply functional service Yandex project site documentation Russian Yandex Servera API tool fulltext search morphology Russian language Web corporate network API use organize fulltext search site corporate network find information locate Web page file databases search file various format html pdf txt MS Office Open Office etc customize option available within Advanced search API use RESTful protocol response format XML"
+    },
+    {
+        "progweb_cat": "Search,Marketing",
+        "api_name": "Analytics SEO",
+        "id": 316,
+        "progweb_descr": " Analytics SEO online suite SaaS base SEO tool allow user optimize multiple SEO campaign API provide access core site audit functionality ongoing site monitoring let developer create SEO software reporting tool SMBs revenue share agreement Analytics SEO API divide three section company function site function system function Company function use resellers manage customer company This include add new company add site user company These company user site visible Analytics SEO application Site function use manage site link company Analytics SEO This mean sit visible application manage use API System function provide information API API use XMLRPC protocol response XML"
+    },
+    {
+        "progweb_cat": "Search,Marketing",
+        "api_name": "Serpstat",
+        "id": 4515,
+        "progweb_descr": " Serpstat website development company focus SEO analytics Serpstat platform use competitor analysis keyword research Serpstat offer 4 different plan free option access API Metrics pull Serpstat server via Serpstat API This API use personal Tokens authentication return domain keyword advertising report JSON format"
+    },
+    {
+        "progweb_cat": "Search,Marketing",
+        "api_name": "SEMrush",
+        "id": 10521,
+        "progweb_descr": " SEMrush create software product search marketing professional Features include keywords research SEO metric comparison advertising research comparison competitorsâ€™ organic position SEMrush API allow user pull automate data SEMrush server"
+    },
+    {
+        "progweb_cat": "Search,Marketing",
+        "api_name": "Sogou Search Marketing",
+        "id": 13298,
+        "progweb_descr": " Sogou Chinese search engine index 10 billion web page It use search text image music map Sogou Search Marketing API suite service let developer interact Sogou server programmatically Developers use API build application manager online marketing account Users must register service approval base meeting outlined qualification API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Search,Marketing",
+        "api_name": "Wordstream Keyword Niche Finder",
+        "id": 15093,
+        "progweb_descr": " Keyword Niche Finder tool return structure keyword suggestion rather disorganized list Using keyword API allow user obtain similar result Free Keyword Tool keywords group organize ready implement highperformance PPC organic search campaign WordStream search engine marketing software company offering integrate keyword management solution address complexity efficiently optimize expand PPC SEO effort involve large number keywords ongoing continuous basis API use RESTful protocol response format JSON"
+    },
+    {
+        "progweb_cat": "Search,Analytics",
+        "api_name": "eBay Best Match",
+        "id": 322,
+        "progweb_descr": " eBays Best Match API enable developer understand various factor affect eBay search rank sort Best Match Developers write application help seller understand item rank give key word identify factor impact list performance score well allow analyze business category level This API use SOAP allow register developer generate custom XML responses site service application"
+    },
+    {
+        "progweb_cat": "Search,Analytics",
+        "api_name": "SEOmoz",
+        "id": 575,
+        "progweb_descr": " SEOmoz provide company around world consulting Internet marketing search engine optimization service Our goal provide high level service education business individual nonprofits government organization best leverage unique reach Internet increase visibility achieve success SEOmoz Site Intelligence Service API provide interface work SEOmoz tool data allow developer retrieve information programmatically make use data application"
+    },
+    {
+        "progweb_cat": "Search,Analytics",
+        "api_name": "Google Trends",
+        "id": 4256,
+        "progweb_descr": " Google Trends API offer layer Google Trends data It use retrieve keyword popularity data location date This API make use several method return current top 20 trend topic desire location hotTrends return top 30 search last month top30in30 return data category categoryTopCharts"
+    },
+    {
+        "progweb_cat": "Search,Analytics",
+        "api_name": "Google Search Analytics",
+        "id": 4670,
+        "progweb_descr": " Google Search Analytics API allow developer query search traffic data filter parameter define API REST base return data JSON format"
+    },
+    {
+        "progweb_cat": "Search,Real Time",
+        "api_name": "FAROO",
+        "id": 347,
+        "progweb_descr": " FAROO web search engine FAROOs search functionality base peertopeer P2P search usergenerated review attention webpage popularity base user FAROO API allow developer access integrate search functionality FAROO application available API method display search result news result trend topic"
+    },
+    {
+        "progweb_cat": "Search,Real Time",
+        "api_name": "IndexDen",
+        "id": 12180,
+        "progweb_descr": " IndexDen host fulltext search database Developers offload IndexDens searchasaservice realtime search service IndexTankcompatible tune fulltext search Developers provide advance search score function snippet highlight fuzzy faceted search In addition perform search API also use add document index tune score function implement category search item type API return serialize JSON client library Python PHP Ruby Java"
+    },
+    {
+        "progweb_cat": "Search,Real Time",
+        "api_name": "3taps",
+        "id": 15186,
+        "progweb_descr": " 3taps search realtime posting item offer exchange job offer watch sale Searches across Twitter Craigslist sit API provide search functionality well way add data directly 3taps There also utility APIs geocoder calculate location use post base locationspecific detail within post"
+    },
+    {
+        "progweb_cat": "Search,Cloud",
+        "api_name": "Bing Search",
+        "id": 377,
+        "progweb_descr": " Bing Search API enable developer embed search result application websites use XML JSON It allow developer add search functionality website create unique consumer enterprise apps develop new mashups Bing Search API use software component issue HTTPs request"
+    },
+    {
+        "progweb_cat": "Search,Cloud",
+        "api_name": "GreenButton Incus",
+        "id": 7479,
+        "progweb_descr": " GreenButton New Zealand base company help software vendor transition application cloud With platform developer scale computeintensive application cloud InCus Search API new search optimization solution provide way customer access medium index service It enable optimize search content variety source meeting content conference call presentation online lecture voice mail internet videos example user index audio digitize content archive create optimize search discovery"
+    },
+    {
+        "progweb_cat": "Search,Blogging",
+        "api_name": "SplogSpot",
+        "id": 392,
+        "progweb_descr": " From site SplogSpot API enable integrate power SplogSpot database custom application It provide simple interface query result return XML format"
+    },
+    {
+        "progweb_cat": "Search,Blogging",
+        "api_name": "Tailrank",
+        "id": 718,
+        "progweb_descr": " blogosphere publish index interpret filter cleanse All tune listen Every day monitor 500 thousand piece unique content publish 12 million weblogs publish pace accelerate every single day individual publish unique view perspective online"
+    },
+    {
+        "progweb_cat": "Search,Blogging",
+        "api_name": "Yandex Blog Search",
+        "id": 14563,
+        "progweb_descr": " Yandex large search engine Russia develop number Internetbased service product Yandex offer owner website blog tool apply functional service Yandex project site documentation Russian Blog Search API tool let integrate Yandex Blog Search service site whether personal blog forum blogohosting API index personal blog blog platform perform detail search It use RESTful protocol response format XML RSS"
+    },
+    {
+        "progweb_cat": "Search,Blogging",
+        "api_name": "IceRocket Blog Search",
+        "id": 14772,
+        "progweb_descr": " IceRocket API provide real time blog search capability user IceRocket search engine company specialize real time blog social site search API public documentation"
+    },
+    {
+        "progweb_cat": "Search,Blogging",
+        "api_name": "BlogCatalog",
+        "id": 15405,
+        "progweb_descr": " BlogCatalog community blogger directory blog From website concern API BlogCatalog REST REpresentational State Transfer API allow retrieval public user blog data base set input parameter"
+    },
+    {
+        "progweb_cat": "Search,Blogging",
+        "api_name": "wpSEEK",
+        "id": 15523,
+        "progweb_descr": " wpSEEK tool search WordPress This API allow user retrieve version information function detail Hooks Actions code snippet similar function forum topic certain search term Using RESTful call return result JSON format"
+    },
+    {
+        "progweb_cat": "Search,Summary",
+        "api_name": "Sensebot",
+        "id": 430,
+        "progweb_descr": " Sensebot Semantic Cloud API feature extraction semantic concept page create ï¿½semantic cloudï¿½ concept describe group document generate multidocument summary set page multiple parameter control type format result It deploy Amazon compute cloud This give virtually unlimited scale capability support client application"
+    },
+    {
+        "progweb_cat": "Search,Semantics",
+        "api_name": "Yolink",
+        "id": 446,
+        "progweb_descr": " Yolink quickly scan search result ebooks online document web site use key word quote word relationship find user look API provide access cloud version yolink add realtime search capability application set configurable widget drop page provide dynamic search top exist content API use RESTful call response format XML JSON JSONP"
+    },
+    {
+        "progweb_cat": "Search,Semantics",
+        "api_name": "SemanticHacker",
+        "id": 749,
+        "progweb_descr": " SemanticHacker API generate Semantic Signaturesï¿½ A Semantic Signatureï¿½ representation ALL concept cover block text Each block text contain semantic dimension associate weight dimension weight capture strength concept block text"
+    },
+    {
+        "progweb_cat": "Search,Semantics",
+        "api_name": "Tykli",
+        "id": 8448,
+        "progweb_descr": " Tykli data search data organization service use Semantic Web Big Data technology provide solution information retrieval knowledge management Tyklis proprietary graph analysis algorithm analyze process relationship among data provide new data order concept index semantic network generation Tykli service available via REST API API method include Term Categories Linked Connected Related Search An API key require"
+    },
+    {
+        "progweb_cat": "Search,Semantics",
+        "api_name": "iServe",
+        "id": 10505,
+        "progweb_descr": " service provide access list description web service APIs It attempt catalog APIdriven web service semantically describe link direct annotation automate analysis data available It publish description service catalog Linked Data support discovery service API method support search across web application identification appear document APIs provide interaction web service Methods allow annotation description service discover well automated analysis determine topic address application functionality provide API give access RDFXML description allow interaction catalog via Linked Data technology"
+    },
+    {
+        "progweb_cat": "Search,Semantics",
+        "api_name": "NaCTeM Geniatagger",
+        "id": 12100,
+        "progweb_descr": " service provide text mine function academic researcher UK It poll large collection publish text document retrieve instance specify concept term discussion relevant idea It aggregate result range specialized service mining source especially medical field MEDLINE API method support submission text string provide set term text passage analysis Methods generate semantic cue relevant input string retrieve match document academic publication"
+    },
+    {
+        "progweb_cat": "Search,Semantics",
+        "api_name": "Ask AMEE",
+        "id": 12324,
+        "progweb_descr": " AMEE platform greenhouse gas calculation access emission factor calculation algorithms storage data history Ask AMEE experimental search platform attempt provide natural language query capability AMEE data Ask AMEE API give developer access functionality service API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Search,Semantics",
+        "api_name": "WebLib Polymeta",
+        "id": 12559,
+        "progweb_descr": " service provide federate search cluster result query across multiple repository Its common interface allow application execute search simultaneously diverse range webbased information provider It merge result present rank relevance query API method support query submission execution algorithm Natural Language Processing Information Retrieval analyze refine submit query Applications specify search strategy relevancy rank process filter result set"
+    },
+    {
+        "progweb_cat": "Search,Semantics",
+        "api_name": "T-ma-tic",
+        "id": 15375,
+        "progweb_descr": " Tmatic API delivers structure data similar link concept create smart semantic apps example Michael Jackson Tmatic semecode 14995351 unique identifier follow similar Tmatics Prince musician semecode 57317 link follow Tmatics Bad album semecode 586840 Be early adopter Web 30 SemanticWeb service implement Tmatic search feature To see API action go PeepTodaycom click My Peeps button button experiment Tmatic search"
+    },
+    {
+        "progweb_cat": "Search,Semantics",
+        "api_name": "Yebol",
+        "id": 15409,
+        "progweb_descr": " Yebol new semantic search engine currently 10 million search term grow From website Yebol allow multidimensional search result instead normal onedimensional search see web search engine today This provide accurate summary top site category wider array relate search term longer rich expansion query result deep base link keywords search result page"
+    },
+    {
+        "progweb_cat": "Search,Semantics",
+        "api_name": "Hakia",
+        "id": 15547,
+        "progweb_descr": " Hakia semantic search engine API currently beta In order access beta must sign account httpclubhakiacom"
+    },
+    {
+        "progweb_cat": "Search,Big Data",
+        "api_name": "Webhose.io",
+        "id": 476,
+        "progweb_descr": " Webhoseio provide ondemand access structure web data anyone consume We empower build launch scale big data operation whether ’ bud entrepreneur work garage researcher science lab executive helm Fortune 500 company Start free sample Webhoseio API consume web data power global medium analytics research company We structure store index million web page per day vertical data pool eg news blog online discussion Just define data need scale grow This way focus best instead waste time money crawl scrap extract web data"
+    },
+    {
+        "progweb_cat": "Search,Big Data",
+        "api_name": "GeoRanker",
+        "id": 9878,
+        "progweb_descr": " GeoRanker enable user view search engine SERPs Search Engine Result Pages local user 5000 city 150 country around world Because SERPs differ base user location ranking report useful determine effectiveness SEO strategy international level GeoRanker use depersonalize search query mean cooky delete complete search query Bulk realtime SERP ranking report realtime search engine crawl powerful feature GeoRanker platform It also provide SERP HeatMap generator concentrate large data report easytoread image GeoRanker API generate different type report receives data placement user database Further API documentation require email provider We hundreds server crawler around world 50000 Local IPs Our API manage server order create accurate report almost neighborhood city region country world GeoRanker API collect data crawler real time create powerful reliable Search Engine Keyword Reports information may manipulate create unlimited type report Thus ensure smooth integrate user experience relevant uptodate information company customer Our API also provide access monitor alert notify company customer keyword longer effective particular place country"
+    },
+    {
+        "progweb_cat": "Search,Images",
+        "api_name": "Giphy",
+        "id": 539,
+        "progweb_descr": " Giphy animate search engine discover share GIF image Giphy expose search capability RESTlike API API comprise nine JSON endpoint allow developer search GIFs use variety filter search parameter"
+    },
+    {
+        "progweb_cat": "Search,Images",
+        "api_name": "Bing Image Search",
+        "id": 695,
+        "progweb_descr": " Bing Image Search API return list relevant image search query include thumbnail full image URLs publish website information image metadata Also offer several filter image type layout freshness license This API provide list image similar BingcomImages site experience exact Currently free plan limit call 1000 transaction per month available Image Search API use JSON format data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Search,Images",
+        "api_name": "Picitup",
+        "id": 916,
+        "progweb_descr": " Picitup visual search service visual data management provider service let user search similarity exact feature also perform automatic color extraction automatic creation visual catalog Picitup API offer various method offer functionality sort item web site color similarity catalog product type Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Search,Images",
+        "api_name": "Diffbot Global Index",
+        "id": 2672,
+        "progweb_descr": " Search web like database realtime Diffbot Global Index API Automatic APIs scour web regularly index article comment image product more—available across structured field"
+    },
+    {
+        "progweb_cat": "Search,Images",
+        "api_name": "Visual Search API Image Keyword Tagging Suggestion",
+        "id": 3478,
+        "progweb_descr": " VisualSearchAPI Image Keyword Tagging Suggestion allow user upload image return multiple keywords describe input image recognition engine base machine learn technology identify keywords image Available JSON architecture XML response"
+    },
+    {
+        "progweb_cat": "Search,Images",
+        "api_name": "VisualSearchAPI Visual Search",
+        "id": 3530,
+        "progweb_descr": " VisualSearchAPI Visual Search integrate image photo result interact machine learn capability It available JSON architecture HTTP request XML response"
+    },
+    {
+        "progweb_cat": "Search,Images",
+        "api_name": "PiXlogic piXserve",
+        "id": 10491,
+        "progweb_descr": " piXlogic provider visual search software automatically analyze search indexed visual content image video piXserve API let users access piXserve functionality third party web application API use RESTful call full documentation user contact provider"
+    },
+    {
+        "progweb_cat": "Search,Images",
+        "api_name": "IconFinder",
+        "id": 12225,
+        "progweb_descr": " IconFinder search tool graphic designer web developer site act repository symbolic graphic Users search browse IconFinder image suit need They download buy icon whole set icon Users may also submit icon attach different level license protection IconFinder API RESTful expose collectionâ€™s search functionality allow user use parameter keyword filter license result return JSON XMLencoded data"
+    },
+    {
+        "progweb_cat": "Search,Books",
+        "api_name": "Google Book Search Book Viewability",
+        "id": 560,
+        "progweb_descr": " Google Book Search Book Viewability API enable developer Link Books Google Book Search use ISBNs LCCNs OCLC number Know whether Google Book Search specific title viewability title Generate link thumbnail cover book Generate link informational page book Generate link preview book"
+    },
+    {
+        "progweb_cat": "Search,Books",
+        "api_name": "AbeBooks",
+        "id": 950,
+        "progweb_descr": " AbeBooks online marketplace book AbeBooks marketplace include thousand bookseller around world sell new secondhand rare outofprint book AbeBooks API allow user search inventory consist million book Authorized affiliate use service query database obtain detailed information listing API allos allow affiliate add multiple book basket search multiple ISBNs parse ship rate star rating service intend exclusive use affiliate drive traffic one AbeBooks sit Developers contact provider detail API"
+    },
+    {
+        "progweb_cat": "Search,Books",
+        "api_name": "CampusBooks",
+        "id": 8618,
+        "progweb_descr": " CampusBooks search service design help user find low price new use textbook Rather sell textbook CampusBooks allow user search best price among dozen bookstore thousand seller 8 million new use book Developers integrate textbook search function websites application use CampusBooks REST API"
+    },
+    {
+        "progweb_cat": "Search,Books",
+        "api_name": "Random House Insight",
+        "id": 12509,
+        "progweb_descr": " Random House Insight API set programming tool allow internet application view search digitize book content It provide keyword search find match full text book API serve book page different format depend need developer"
+    },
+    {
+        "progweb_cat": "Search,Books",
+        "api_name": "Copac",
+        "id": 15779,
+        "progweb_descr": " Copac SRU Interface allow search collection material hold library throughout UK API let search title source publisher subject many"
+    },
+    {
+        "progweb_cat": "Search,Forums",
+        "api_name": "Omgili",
+        "id": 781,
+        "progweb_descr": " Webhoseio specialize search engine focus many many user generate content platform include forums discussion group news group mail list answer board opinion sit others It provide way find subjective information Most technical question answer service design find answer Webhoseio API allow developer build application access data collect discussion across web This data integrate medium monitor system databases data warehouse big data solution social medium analytics service ad track report algorithm Webhoseio API provide structured result multiple format JSONXMLRSS include clean textual content date time author name language much API also offer firehouse solution enable data acquisition real time"
+    },
+    {
+        "progweb_cat": "Search,Charts",
+        "api_name": "Primal",
+        "id": 817,
+        "progweb_descr": " Primal generates Interest Graphs use find filter rank content Our cloudbased data service create rich userspecific interest graph Primal aggregate filter Web content online source use individual interest graph Clients utilize Primals recommend collection content source define custom source Calls Data API format simple URLs describe topic Our JSON RSS response make easy integrate Primals interest network new exist application Primal use personalization aggregate filter content find ranking content semantic relevance generate interest graph many use case related utilizing interest graph"
+    },
+    {
+        "progweb_cat": "Search,Food",
+        "api_name": "Yummly",
+        "id": 840,
+        "progweb_descr": " Yummly Recipe API let let integrate recipe faceted recipe search website mobile application Since Yummly understand recipe â€ “ ingredient diet allergy nutrition taste technique moreâ€ “ connect user best recipes available unique food preference"
+    },
+    {
+        "progweb_cat": "Search,Food",
+        "api_name": "BooRah Restaurant Search",
+        "id": 1183,
+        "progweb_descr": " BooRah Restaurant Search API return list restaurant base specify name location parameter name full partial restaurant name type cuisine type food location identify city zip code neighborhood address latitude longitude"
+    },
+    {
+        "progweb_cat": "Search,Library",
+        "api_name": "National Library of Australia Trove",
+        "id": 965,
+        "progweb_descr": " service National Library Australia provide search access catalog record descriptive metadata wide range resource book periodical eg journal article newspaper article image map music video recording archive physical object service also return usercreated list web link Future development may provide list people organization Results newspaper article give access full text digital version API method support submission search query include filter parameter titleonly authoronly match specify resource format subject keyword Methods also allow retrieval related content like userapplied tags comment associated resource link result set"
+    },
+    {
+        "progweb_cat": "Search,Library",
+        "api_name": "NYPL What's on the Menu",
+        "id": 10325,
+        "progweb_descr": " service New York Public Library provide access data extract collection restaurant menu NYPL accumulate menus documentation city life time show meal enjoy diner many restaurant city beyond along language proprietor use describe fare Data come crowdsourced dishbydish transcription menus collection API method support access analysis individual dish description base search name menu item well keywords mention description Methods also report restaurant serve dish location price US dollar descriptive data"
+    },
+    {
+        "progweb_cat": "Search,Library",
+        "api_name": "PRESTO Harvard Library",
+        "id": 12558,
+        "progweb_descr": " service provide search Harvard University Library catalog Applications gain lookup access bibliographic record universitys HOLLIS VIA repositories across provider journal content Searches request result DOI ISBN bar code addition traditional author title subject access Results local resource include data current item availability service also provide information library archive location hour operation well access external resource IP address API method support submission resource identifier either local ID ISBN bar code plus source desire record format Methods also allow submission author name title subject heading along advanced option like genre series publisher etc Results include match record along subject source facet refine navigate result"
+    },
+    {
+        "progweb_cat": "Search,Library",
+        "api_name": "Kariru Library Search",
+        "id": 12842,
+        "progweb_descr": " service consolidates data 2000 Japanese online library catalog allow streamline search aggregate data Search result indicate resource find designate ISBN item access status database find allow user track resource access service also indicate library local specify latitude longitude API method allow input resource ISBN user location Returned data include library database list item library location access policy site documentation Japanese"
+    },
+    {
+        "progweb_cat": "Search,Library",
+        "api_name": "LIBRIS",
+        "id": 13377,
+        "progweb_descr": " LIBRIS online search service National Library Sweden Search national academic several public library Sweden book periodical article map poster print music electronic resource site documentation Swedish Use Xsearch API access data catalog MARCXML Dublin Core JSON RIS MODS RDF format"
+    },
+    {
+        "progweb_cat": "Search,Library",
+        "api_name": "WorldCat knowledge base",
+        "id": 13629,
+        "progweb_descr": " OCLC nonprofit computer library service research organization maintain WorldCat global network library content knowledge base API service use eresource discovery link It provide developer access library information WorldCat knowledge base user find electronic journal ebooks library link API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Search,eCommerce",
+        "api_name": "Unofficial Newegg",
+        "id": 1013,
+        "progweb_descr": " Newegg online store computer computer part electronics software Newegg API allow user search product base feature specification This API operate use JSONformatted GET POST call Although API technically provide Newegg function expose BeMasher blog"
+    },
+    {
+        "progweb_cat": "Search,eCommerce",
+        "api_name": "The Home Depot Store Search",
+        "id": 4926,
+        "progweb_descr": " Home Depot Store Search API provide information relate store detail availability truck rental tool rental API JSON XML format access Api Key token offering addition direction capability feature offer route one location"
+    },
+    {
+        "progweb_cat": "Search,eCommerce",
+        "api_name": "Optemo Search",
+        "id": 8923,
+        "progweb_descr": " Optemo adaptive search navigation provider use data continually update format user search Optemo Search API allow user provide consistent format search experience across multiple platform device well power search navigation recommendation service cloud host An account required service"
+    },
+    {
+        "progweb_cat": "Search,eCommerce",
+        "api_name": "Facetly",
+        "id": 11713,
+        "progweb_descr": " Facetly provide product search engine use search product websites Facetly use Go language Golang main language development Lucene search engine technology Facetly API make functionality available developer integrate Facetly search engine technology online store"
+    },
+    {
+        "progweb_cat": "Search,Healthcare",
+        "api_name": "ElderCare Locator",
+        "id": 1024,
+        "progweb_descr": " service US Administration Aging provide lookup database service available senior age Americans location nationwide Applications connect elderly user caregiver list medical social service provider among applicable support service API method support search match national database senior service maintain US Department Heath Human Services Queries match service description filter location specify either city state Zip Code"
+    },
+    {
+        "progweb_cat": "Search,Environment",
+        "api_name": "Earth911 Search",
+        "id": 1040,
+        "progweb_descr": " Earth911 specialize provide people across country useful accessible recycle information Among site feature also boast large accurate recycle directory US Earth911 Search API enable developer add ability search directory website mobile application phone number API use REST call issue JSON format"
+    },
+    {
+        "progweb_cat": "Search,Movies",
+        "api_name": "The Open Movie Database",
+        "id": 1104,
+        "progweb_descr": " Open Movie Database API Brian Fritz open database source movie information movie sit IMBD Rotten Tomatoes Wikipedia Users access Open Movie Database API use REST JavaScript allow user search movie title valid IMDB ID year movie plot service free use"
+    },
+    {
+        "progweb_cat": "Search,Movies",
+        "api_name": "Guidebox",
+        "id": 9304,
+        "progweb_descr": " Guidebox internet TV episode movie finder It offer user ability follow show watch regular basis locate sit new episode sit old episode create watch list base show user watch pay service subscribe Guidebox API allow user integrate television movie resource web iOS Android application service require account API key return JSON XML"
+    },
+    {
+        "progweb_cat": "Search,Movies",
+        "api_name": "CinemaTorrents",
+        "id": 14975,
+        "progweb_descr": " CinemaTorrents index movie torrent top 30 torrent site web CinemaTorrents API provide open access database torrent When use API need attribute CinemaTorrents application way API completely free use CinemaTorrents claim torrent site tracker host provide file torrent way shape form"
+    },
+    {
+        "progweb_cat": "Search,Tools",
+        "api_name": "Buildasearch",
+        "id": 1214,
+        "progweb_descr": " BuildaSearch site search technology fully scalable host search solution BuildaSearch allow visitor find information site fast Our RESTful search API allow developer integrate search service websites quickly easily Search result format either JSON XML"
+    },
+    {
+        "progweb_cat": "Search,Tools",
+        "api_name": "Open Access Plagiarism Search",
+        "id": 12158,
+        "progweb_descr": " Open Access Plagiarism Search tool detect plagiarism Department Information Technology PhysikalischTechnische Bundesanstalt design search multiple open access repository academic paper Users search full text inventory register repository Their API expose projectâ€™s plagiarism search functionality It SOAPbased API return XMLformatted data Developers must request access"
+    },
+    {
+        "progweb_cat": "Search,Tools",
+        "api_name": "Swiftype Web Crawler",
+        "id": 12444,
+        "progweb_descr": " Swiftype provide search engine websites Developers implant website design sitespecific search result Swiftype autocomplete capability search analytics customizable result API RESTful protocol return result JSON It provide access many Swiftype functionality include index search documentation include Ruby Python kit Swiftype currently available free beta tiered price structure come"
+    },
+    {
+        "progweb_cat": "Search,Tools",
+        "api_name": "Wordsfinder Search Traffic Estimator",
+        "id": 15310,
+        "progweb_descr": " Wordsfinder Search Traffic Estimator return traffic estimation give keywords phase tool offer monthly regional search volume market Google Yahoo MSN Ask"
+    },
+    {
+        "progweb_cat": "Search,Audio",
+        "api_name": "Tagoo",
+        "id": 1223,
+        "progweb_descr": " Tagoo XML API allow user integrate Tagoo search engine onto site project Tagoo provide full audio video search service Its API feature customization search audiovideo search size"
+    },
+    {
+        "progweb_cat": "Search,Audio",
+        "api_name": "AskQuickly",
+        "id": 5020,
+        "progweb_descr": " AskQuickly virtual intelligence web base search engine intend keep user comfortable privacy policy engine accept speak search phrase uploade image search purpose AskQuickly show basic form Mashape aim display audio search feature offer engine JSON format API Key require display preview API Try engine httpsaskquicklyorg"
+    },
+    {
+        "progweb_cat": "Search,Spanish",
+        "api_name": "Idescat Population Search",
+        "id": 1276,
+        "progweb_descr": " Population search API provide information population sex territorial entity Catalonia It feature RESTful interface return data XML JSON PHP TXT"
+    },
+    {
+        "progweb_cat": "Search,Spanish",
+        "api_name": "11870",
+        "id": 13538,
+        "progweb_descr": " Spanishlanguage service headquarter Madrid provide bookmarking network directory function Entries may include customer review suggestion API method support search bookmark list update site listing user data checkins activity streams related function Also handle associate special deal offer multimedia display element"
+    },
+    {
+        "progweb_cat": "Search,Adoption",
+        "api_name": "RescueGroups",
+        "id": 1313,
+        "progweb_descr": " RescueGroupsorg provide technology solution animal rescue shelter organization RescueGroupsorg different community focus advertising logo requirement associate data share We provide completely free cost advertisement requirement access database adoptable pet dog cat horse rabbit dozen additional specie anyone want promote pet adoption RescueGroupsorg provide three adoptable pet data APIs REST full download hundred thousand adoptable pet description picture HTTPJSON live query JSON HTTPjson API provide programmatic access public private data object include animal contact web page event etc Also RescueGroupsorg HTTPjson API UPDATEABLE rescueshelter API available Our client ASPs build management system top RescueGroupsorg platform use updateable API Please visit website detailed information APIs get start"
+    },
+    {
+        "progweb_cat": "Search,Animals",
+        "api_name": "Petfinder",
+        "id": 1331,
+        "progweb_descr": " Petfinder website let user search pet adoption Petfinder also offer RESTful API allow developer create application query Petfinder database Searches breed pet shelter breedpet specific shelter"
+    },
+    {
+        "progweb_cat": "Search,Advertising",
+        "api_name": "Brandify",
+        "id": 1635,
+        "progweb_descr": " Brandify industryleading provider locationbased digital marketing solution provide brand well understand connection customer Established 1997 Brandify formerly know Where2GetIt continue power 500 brand serve 45 million brick mortar location reach million consumer around world CEO Manish Patel lead Brandify develop local marketing solution include Brand Score metric scalable local SEO local advertising mobilelocal technology localsocial marketing tool Brandify specialize develop customize integrate marketing solution value local level enterprise brand Brandify serve brand across various vertical would benefit geotargeted hyper local marketing"
+    },
+    {
+        "progweb_cat": "Search,Advertising",
+        "api_name": "DoubleClick Search",
+        "id": 6284,
+        "progweb_descr": " DoubleClick Search API enable user upload data conversion include offline conversion download report data use application Users combine download data data CRM system produce bigpicture report DoubleClick Search provide proprietary bid optimization help user improve ROI search campaign"
+    },
+    {
+        "progweb_cat": "Search,Advertising",
+        "api_name": "BrightEdge",
+        "id": 9478,
+        "progweb_descr": " BrightEdge SEO search engine optimization service web mobiles tablet BrightEdge offer multiple feature tool SEO BrightEdge API allow developer access integrate data BrightEdge application Public documentation available interested developer request demo httpwwwbrightedgecomrequestademo"
+    },
+    {
+        "progweb_cat": "Search,Artificial Intelligence",
+        "api_name": "AddStructure Signal",
+        "id": 2002,
+        "progweb_descr": " AddStructure Signal REST API allow developer access integrate functionality AddStructure product application Some example API method include list query list search AddStructure allow company organize structure usergenerated content review product searchable retrievable readable content"
+    },
+    {
+        "progweb_cat": "Search,Artificial Intelligence",
+        "api_name": "AddStructure Path",
+        "id": 2003,
+        "progweb_descr": " AddStructure Path REST API allow developer access integrate functionality AddStructure product application Some example API method include retrieve page find similar page AddStructure allow company organize structure usergenerated content review product searchable retrievable readable content"
+    },
+    {
+        "progweb_cat": "Search,Artificial Intelligence",
+        "api_name": "AddStructure Tools",
+        "id": 2004,
+        "progweb_descr": " AddStructure Tools REST API allow developer access integrate functionality AddStructure product application Some example API method include retrieve analysis retrieve summary retrieve product information AddStructure allow company organize structure usergenerated content review product searchable retrievable readable content"
+    },
+    {
+        "progweb_cat": "Search,Artificial Intelligence",
+        "api_name": "AddStructure Scaffold",
+        "id": 2597,
+        "progweb_descr": " AddStructure Scaffold REST API allow developer access integrate functionality AddStructure Scaffold product application Some example API method include retrieve feature entity manage entity retrieve review product list entity AddStructure Scaffold product allow company organize structure usergenerated content review product searchable retrievable readable content"
+    },
+    {
+        "progweb_cat": "Search,Enterprise",
+        "api_name": "Swiftype Platform",
+        "id": 2012,
+        "progweb_descr": " Swiftype Platform REST API allow developer access integrate functionality Swiftype applications Some example API method include create user manage user account retrieve information user account Swiftype search platform use website mobile application enterprise"
+    },
+    {
+        "progweb_cat": "Search,Enterprise",
+        "api_name": "Swiftype Developer",
+        "id": 2013,
+        "progweb_descr": " Swiftype Developer REST API allow developer access integrate functionality Swiftype applications Some example API method include create search engine create search retrieve search result manage search result Swiftype search platform use website mobile application enterprise"
+    },
+    {
+        "progweb_cat": "Search,Enterprise",
+        "api_name": "SearchBox",
+        "id": 10829,
+        "progweb_descr": " SearchBox text analytics semantic search content intelligence service transforms raw text manageable content categorize searchable SearchBox API provide set tool include limited semantic index autocategorization suggestedrelated content FT concept search API use REST call require HTTP basic authentication"
+    },
+    {
+        "progweb_cat": "Search,Content",
+        "api_name": "Microsoft Azure Search Management",
+        "id": 2166,
+        "progweb_descr": " Microsoft Azure Search Management API design use alongside Azure Resource Manager user seek use provision administration portal search service Azure subscription Developers require specify API ’ ARM endpoint search management operation able implement programmatic deployment"
+    },
+    {
+        "progweb_cat": "Search,Content",
+        "api_name": "Orange Search Top Trends",
+        "id": 6867,
+        "progweb_descr": " Search Toptrends API showcases topic create buzz accord French internet user hourly basis API analyze aggregate million news search make Orange search engine lemoteurfr share news twitter medium site"
+    },
+    {
+        "progweb_cat": "Search,Content",
+        "api_name": "HPE Haven OnDemand Get Content",
+        "id": 7327,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Get Content API return content within index type determine reference one provide Queries make public datasets include Wikipedia news feed multiple language"
+    },
+    {
+        "progweb_cat": "Search,Caching",
+        "api_name": "Microsoft Azure Search Service",
+        "id": 2331,
+        "progweb_descr": " Azure Search Microsoftprovided cloud platform enrich search capability custom application Microsoft Azure Search Service API allow developer integrate search capability along operational functionality include index creation management data load search feature implementation query execution result handle API ’ infrastructure feature custom analyzer facilitate generation index searchable term text Azure blob storage table storage indexer schedule set ondemand data importation Azure Search platform file mapping support customization data importation procedure indexer Microsoft Azure Search Service API operate RESTful platform conveys request response HTTP JSON format"
+    },
+    {
+        "progweb_cat": "Search,Banking",
+        "api_name": "Eurobits Content Aggregation Service",
+        "id": 2390,
+        "progweb_descr": " Eurobits Content Aggregation Service API simplify development secure online search application retrieve financial account nonfinancial record individual business It provide scalable aggregation capability apply retrieval profile transaction account credential personal corporate banking virtual office utility company loyalty programsThe API functionally design support receipt process monitoring customer ’ incoming aggregation request well facilitate management data stream track activity log"
+    },
+    {
+        "progweb_cat": "Search,Colors",
+        "api_name": "TinEye MulticolorEngine",
+        "id": 2410,
+        "progweb_descr": " TinEye MulticolorEngine API allow developer make image collection searchable color API extract color palettes image identify search image color support metadata search MulticolorEngine scale serve image collection size optimize work ecommerce product photography"
+    },
+    {
+        "progweb_cat": "Search,Applications",
+        "api_name": "OpenStack Search Service",
+        "id": 2440,
+        "progweb_descr": " OpenStack provider various open source project component facilitate establishment cloud service organization provide standard APIs well suit multiple implementation include OpenStack Searchlight project provision search API OpenStack Search Service API allow developer integrate query interface access variety resource OpenStack cloud infrastructure This way end user get disposal powerful Elasticsearchpropelled tool search information"
+    },
+    {
+        "progweb_cat": "Search,Applications",
+        "api_name": "WhereDat Search",
+        "id": 5087,
+        "progweb_descr": " With WhereDat API developer search app data Android Play Store Useful obtain application information like rating IDs app name use package authentication key fullstring search query HTTP JSON protocols show responses category app rating icon URL date"
+    },
+    {
+        "progweb_cat": "Search,Applications",
+        "api_name": "WhereDat",
+        "id": 5209,
+        "progweb_descr": " WhereDat API provide developer simple service search apps It API use Android application"
+    },
+    {
+        "progweb_cat": "Search,Domains",
+        "api_name": "Yandex.Mail for Domain",
+        "id": 2826,
+        "progweb_descr": " YandexMail Domain API integrate management domain address email account Available token OAuth send HTTPS POST method With API developer administer domain mailbox mail list"
+    },
+    {
+        "progweb_cat": "Search,Domains",
+        "api_name": "Online Whois Lookup",
+        "id": 12467,
+        "progweb_descr": " Online Whois Lookup service allow user input domain name see domains whois record Whois API use check domain name available registration It also lookup information domain create change expiration date API use HTTP call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Search,Domains",
+        "api_name": "Markify",
+        "id": 13196,
+        "progweb_descr": " Markify search engine trademark register US Europe Markify customer search trademark set recur search trademark watch trademark time Markify API allow developer access integrate Markify data functionality application Available API method search trademark return information trademark"
+    },
+    {
+        "progweb_cat": "Search,Accounts",
+        "api_name": "CRO Open Services Customer",
+        "id": 3150,
+        "progweb_descr": " This REST API work CRO Customer Account holder register use Open Services It integrate stream document CRO application Two type document stream include submission document company printouts Examples would list company search result retrieve detail company listing document file CRO specify company Companies Registration Office Ireland repository public statutory information Irish business company names"
+    },
+    {
+        "progweb_cat": "Search,Internet of Things",
+        "api_name": "Reposify",
+        "id": 3181,
+        "progweb_descr": " Reposify API allow developer gain insight device connect public Internet worldwide Since API base REST principle offer ease use write test application You use browser access URLs well HTTP client program language interact API"
+    },
+    {
+        "progweb_cat": "Search,Internet of Things",
+        "api_name": "Shodan",
+        "id": 4478,
+        "progweb_descr": " Shodan API allow developer access search engine data Protocols REST authorization Api Key available send request receive response Shodan search service help user find Internet Things interface conduct market research monitor business security"
+    },
+    {
+        "progweb_cat": "Search,Aggregation",
+        "api_name": "Searx Search",
+        "id": 3459,
+        "progweb_descr": " Searx Search API metasearch engine solution consolidate search functionality websites It offer user secure browse online anonymity option Searx solution eliminate track user want subject automated profile search engine Google Searx Search API send request HTTP format return result variety multimedia type include video image torrent map API nonproprietary product independent developer"
+    },
+    {
+        "progweb_cat": "Search,Aggregation",
+        "api_name": "Bounce MixedResults",
+        "id": 10632,
+        "progweb_descr": " Bounce MixedResults provide developer access BounceBaseâ€™s Find Stuff service combine sort search result multiple search engine Bounce API provide developer RESTful interface developer integrate Bounce MixedResults websites application Responses JSON RSS format"
+    },
+    {
+        "progweb_cat": "Search,Algorithms",
+        "api_name": "Visual Search API Image Recognition",
+        "id": 3479,
+        "progweb_descr": " Image recognition API provide service find match image client image set input image Image finger print characteristic color distribution shape geometry image feature use match It great ability resist noise input image scale light change rotate interference background Image recognition API service application online shop website eCommerce mobile Apps offline online interaction aim bring transaction Available JSON architecture HTTP request XML response"
+    },
+    {
+        "progweb_cat": "Search,Machine Learning",
+        "api_name": "Bing Video Search",
+        "id": 3926,
+        "progweb_descr": " Bing Video Search API return list relevant videos search query offer metadata publisher creator info encode format video length view count This API provide list video similar BingcomVideos site experience exact video must display order response Currently free plan limit call 1000 transaction per month available Video Search API use JSON format data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Search,Machine Learning",
+        "api_name": "Bing Autosuggest",
+        "id": 3929,
+        "progweb_descr": " Bing Autosuggest API offer intelligent autocompletion service send partial search query Bing Suggestions include user intent relevant weather information Currently free plan limit call 10000 transaction per month available Autosuggest API use JSON format data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Search,Machine Learning",
+        "api_name": "Bing News Search",
+        "id": 3930,
+        "progweb_descr": " Bing News Search API return list world news search query filter local news topic searchable metadata Results include information authoritative image relate news provider This API provide list news similar BingcomNews site experience exact Currently free plan limit call 1000 transaction per month available News Search API use JSON format data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Search,Machine Learning",
+        "api_name": "Bing Web Search",
+        "id": 3931,
+        "progweb_descr": " Bing Web Search API return list relevant result search query may include image videos news Results customize functionality safesearch level spell suggestion related query location base result This API provide list result similar BingcomSearch site experience exact individual result must display order response Currently free plan limit call 1000 transaction per month available Web Search API use JSON format data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Search,Machine Learning",
+        "api_name": "Sajari",
+        "id": 6486,
+        "progweb_descr": " Sajari offer powerful site search recommendation API enable anyone add advance search recommendation personalization capability website app Ranking rule personalization match score access via API Sajari search solution also use machine learn AI output well result A key feature ability user generate real time data promote demote result API process HTTPS JSON format call Requests make basic HTTPS authentication"
+    },
+    {
+        "progweb_cat": "Search,Networking",
+        "api_name": "Mac Vendors",
+        "id": 4028,
+        "progweb_descr": " Mac Vendors API allow user programmatically find MAC address vendor A MAC Media Access Control address unique identifier assign network interface Users make 10000 API request per day without register obtain API key high volume usage developer contact Mac Vendors team"
+    },
+    {
+        "progweb_cat": "Search,Collaboration",
+        "api_name": "Egnyte Search",
+        "id": 4073,
+        "progweb_descr": " Egnyte Search API allow integrate enterprise data file share application aim increase collaboration Protocols available JSON REST Authentication via OAuth Egnyte provide cloud base file share service"
+    },
+    {
+        "progweb_cat": "Search,Data",
+        "api_name": "NASA PO.DAAC Search Dataset",
+        "id": 4136,
+        "progweb_descr": " Physical Oceanography Distributed Active Archive Center PODAAC part NASA ’ Earth Observing System Data Information System EOSDIS PODAACs purpose store oceanography climatography relate data obtain NASA PODAAC also serve pathway related archive provide relevant tool make datasets easily consumable applicable NASAs PODAAC Search Dataset API give user ability search PODAAC ’ database Possible query include parameter datasetId shortName startTime endTime bbox satellite instrument etc parameter datasetId shortName startTime endTime bbox others"
+    },
+    {
+        "progweb_cat": "Search,Data",
+        "api_name": "OSS Search",
+        "id": 4333,
+        "progweb_descr": " Search API provide text search boolean search range search faceting highlight integration It available JSON protocol HTTPS auth SSL"
+    },
+    {
+        "progweb_cat": "Search,Data",
+        "api_name": "EBSCO Discovery Service",
+        "id": 5598,
+        "progweb_descr": " EBSCO Discovery Service API EDS allow developer access institution collection search API also allow integration search directly library corporate portal well search browse fulltext databases popular database lead information provider"
+    },
+    {
+        "progweb_cat": "Search,Data",
+        "api_name": "HPE Haven OnDemand Get Parametric Values",
+        "id": 7328,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Get Parametric Values API allow one retrieve parametric value specify parametric field This helpful filter end user return faceted data"
+    },
+    {
+        "progweb_cat": "Search,Data",
+        "api_name": "Quandl",
+        "id": 9744,
+        "progweb_descr": " Quandl portal numerical data especially timeseries data store internet It allow user search 5000000 financial economic social datasets Once find data download visualized save share authenticate validate uploaded indexed merge transform Every dataset Quandl available REST API regardless format data originally publish"
+    },
+    {
+        "progweb_cat": "Search,Annotations",
+        "api_name": "Google Knowledge Graph Search",
+        "id": 4497,
+        "progweb_descr": " Google Knowledge Graph Search API tool help user find entity within Google Knowledge Graph Some feature provide Google Knowledge Graph Search API get ranked list notable entity match certain criterion ability predictably complete entity search box annotate organize content use Knowledge Graph entity Google Knowledge Graph innovative knowledge base use enhance Googles search result semanticsearch information gather variety source"
+    },
+    {
+        "progweb_cat": "Search,Data Mining",
+        "api_name": "meanpath",
+        "id": 4954,
+        "progweb_descr": " meanpath API allow developer freely access data collect meanpath source code search engine This engine crawl front page 200 million website week capture visible text HTML source code server header MX record SPF record IP address BGP AS number site API query return maximum 1000 result although full access available upon request subscription plan"
+    },
+    {
+        "progweb_cat": "Search,Animation",
+        "api_name": "PopKey",
+        "id": 5175,
+        "progweb_descr": " PopKey animate GIF keyboard Use API access PopKeys extensive collection GIFs RESTful API use HTTP method SSL responses JSON An API Key require authentication Use API search GIFs category popularity generate list similar type content PopKey also generate content randomly See API docs detailed instruction get start PopKey"
+    },
+    {
+        "progweb_cat": "Search,Catalogs",
+        "api_name": "JustVisual",
+        "id": 5492,
+        "progweb_descr": " JustVisual REST API allow developer access integrate functionality JustVisual main API method upload image search visually similar image product furniture flower plant JustVisual service allow user find visually similar product furniture flower plant merchant United States"
+    },
+    {
+        "progweb_cat": "Search,Addresses",
+        "api_name": "Search Company",
+        "id": 5645,
+        "progweb_descr": " Search Company API allow developer access business directory US company Users either search company use query string retrieve company information use ID A company entry contain address contact number email address website number employee On Search Company website user look company state service provide"
+    },
+    {
+        "progweb_cat": "Search,Addresses",
+        "api_name": "BREX Business Register Exchange",
+        "id": 6754,
+        "progweb_descr": " BREX international search company direct access commercial register 5 offer service include instant company verification address check status confirmation shareholder information financials filing Business Register Exchange aim powerful advanced company It make KYC KnowYourCustomer KYB KnowYourBusiness AML AntiMoney Laundering business intelligence application"
+    },
+    {
+        "progweb_cat": "Search,Addresses",
+        "api_name": "Data8 Postcode Lookup",
+        "id": 15451,
+        "progweb_descr": " Data8 UKs premier data solution provider range data cleanse postcode lookup data validation service ultimately improve way business communicate customer Data8 Postcode Lookup service SOAP API provide method find full accurate address UK postcode partial address detail use Royal Mails Postal Address File PAF"
+    },
+    {
+        "progweb_cat": "Search,Entertainment",
+        "api_name": "Alluc",
+        "id": 5971,
+        "progweb_descr": " Alluc API allow developer access Allucs video download link search engine Alluc search engine stream download link"
+    },
+    {
+        "progweb_cat": "Search,Entertainment",
+        "api_name": "XML ME Video Games Finder",
+        "id": 12477,
+        "progweb_descr": " XML ME Video Games Finder API allow user search video game programmatically API accept search string return URL point video game search result This API operate via SOAP call use XML data format"
+    },
+    {
+        "progweb_cat": "Search,Linked Data",
+        "api_name": "InstantLinkIndexer",
+        "id": 6384,
+        "progweb_descr": " Instant Link Indexer software platform let user index link web search engine InstantLinkIndexer API let developer integrate service application enable user submit link directly Instant Link Indexer index API use HTTP Requests receive developer command"
+    },
+    {
+        "progweb_cat": "Search,Developers",
+        "api_name": "FindMaven REST",
+        "id": 6457,
+        "progweb_descr": " FindMaven allow user find Maven dependency tree Jar source JavaDocs Jar structure Maven POMs search class name Jar name FindMaven repository syncs Mavens repository per week index contain 140 million record detailed class information FindMaven REST API enable user access FindMavens search function programmatically"
+    },
+    {
+        "progweb_cat": "Search,eBooks",
+        "api_name": "OverDrive Search",
+        "id": 6507,
+        "progweb_descr": " OverDrive online company provide users way access eBooks electronic material computer mobile device OverDrive Search API let developer search list product subset product available OverDrive API use Oauth authentication product link either Library Account Retailer Account need make request"
+    },
+    {
+        "progweb_cat": "Search,API",
+        "api_name": "APIs.io",
+        "id": 6886,
+        "progweb_descr": " APIsio opensource search engine index site include file new API discovery format APIsjson aim increase API discoverability Using APIsio API developer able post API search engine retrieve list API directory edit newly post API content"
+    },
+    {
+        "progweb_cat": "Search,API Management",
+        "api_name": "Office 365 Discovery Service",
+        "id": 7073,
+        "progweb_descr": " This service allow developer use Microsoft Office 365 APIs browse API endpoint directory simple query tool Developers make HTTP request Discovery Service APIs order return information API endpoint use development In order access Office 365 APIs developer must first register apps Microsoft All APIs use JSON Auth0 protocol authentication Azure AD authorization"
+    },
+    {
+        "progweb_cat": "Search,Natural Language Processing",
+        "api_name": "HPE Haven OnDemand Find Related Concepts",
+        "id": 7325,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Find Related Concepts API take query text return list similar concept rank presence prescribe attribute Queries make public datasets include Wikipedia news feed multiple language Boolean FieldText query method support"
+    },
+    {
+        "progweb_cat": "Search,Natural Language Processing",
+        "api_name": "Intellexere",
+        "id": 12328,
+        "progweb_descr": " service base natural language program underlying provider Mnemoo intelligent search engine It intend analyze source content return highly relevant result base semantic cue inherent input service part startup effort Complexity Intelligence LLC focus field SOA architectures NLP robotics API method support submission complex text query language parameter service process input return result strong semantic relationship element request Other service include name entity recognition complex spellchecking markup cleanup"
+    },
+    {
+        "progweb_cat": "Search,Reference",
+        "api_name": "HPE Haven OnDemand Find Similar",
+        "id": 7326,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Find Similar API return document similar query provide Acceptable query format include plain text URL index type file reference One use sort print parameter denote field represent output"
+    },
+    {
+        "progweb_cat": "Search,Reference",
+        "api_name": "Nature.com OpenSearch",
+        "id": 10113,
+        "progweb_descr": " Naturecom online portal Nature Publishing Group major publisher important scientific medical information print online naturecom OpenSearch API provide open bibliographic search service sit content comprises around half million news research article citation Indexes cover complete publication history journal list naturecom searchable well OpenSearch API use RESTful call may issue variety data format"
+    },
+    {
+        "progweb_cat": "Search,Reference",
+        "api_name": "EBSCO Host",
+        "id": 12678,
+        "progweb_descr": " service specific biomedical library within provider general reference search tool It intend quick online access authoritative resource support clinical setting nurse activity patient education general medical research Applications gain topicbased access comprehensive Electronic HealthMedical Records EHREMR receive contextually relevant evidencebased summary condition procedure network resource include DynaMed API method support search within provider EBSCO Discovery Service EDS integrate EBSCO Health Information Service EHIS collection Methods also support browse access system resource retrieval authority record standard medical terminology"
+    },
+    {
+        "progweb_cat": "Search,Reference",
+        "api_name": "Eniro",
+        "id": 13265,
+        "progweb_descr": " Eniro search directory business service Nordic region Europe Businesses service provider place ad user search business service Sweden Norway Denmark Finland Poland Eniro API allow developer access integrate content functionality Eniro application create new application Example API method include search retrieve information listing keyword company name proximity geography Login require view documentation"
+    },
+    {
+        "progweb_cat": "Search,Reference",
+        "api_name": "CitedIn",
+        "id": 13861,
+        "progweb_descr": " Citedin find citation base PubMed identifier Intended find mention paper unexpected location blog database Wikipedia Allows track various resource cite PubMed Identifier Returned data narrow resource collection"
+    },
+    {
+        "progweb_cat": "Search,Reference",
+        "api_name": "NutchWAX OpenSearch",
+        "id": 15273,
+        "progweb_descr": " WWWoH project attempt establish possible framework eHumanities also call Digital Humanities research use available open source tool technology archive web content OpenSearch collection format share search result idea search engine query via URL result XML format"
+    },
+    {
+        "progweb_cat": "Search,Reference",
+        "api_name": "burrp",
+        "id": 15749,
+        "progweb_descr": " Javascript API allow user include burrps local search websiteblog This API power webpage burrp local widget perform AJAX search one burrp local site Burrp local search service review recommendation API use JavaScript protocol response format XML"
+    },
+    {
+        "progweb_cat": "Search,Open Data",
+        "api_name": "HPE Haven OnDemand Query Text Index",
+        "id": 7329,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Query Text Index API accept plain text reference Boolean expression query OnDemand database return document match specify search criterion Queries also make number public datasets include Wikipedia news feed multiple language"
+    },
+    {
+        "progweb_cat": "Search,Open Data",
+        "api_name": "mingle.io",
+        "id": 9381,
+        "progweb_descr": " Mingleio connect developer various public private data set enable enrich application quality information share applicationsâ€™ data world via mingleio data mashup platform mingleio API enable developer query mingleio Open Data set use comprehension syntax API accept JSON object via HTTP POST"
+    },
+    {
+        "progweb_cat": "Search,Browsers",
+        "api_name": "ConvExtra",
+        "id": 7492,
+        "progweb_descr": " ConvExtra web extraction tool Data extract source catalog online store news feed information format structure CVS format enable processing price comparison product comparison data analyzation You also subscribe receive alert extract data ConvExtra API activate url request parameter transmit GET POST"
+    },
+    {
+        "progweb_cat": "Search,Feeds",
+        "api_name": "Srch.io",
+        "id": 7837,
+        "progweb_descr": " Srchio website search tool allow user add search tool thirdparty websites well add sitemaps Srchio API allow user access site map feed URLs Account detail manipulate assort searcher search resource API use REST call return JSON use API Tokens authentication first 1000 call free 033 per 1000"
+    },
+    {
+        "progweb_cat": "Search,History",
+        "api_name": "M/S Museet for Søfart",
+        "id": 7894,
+        "progweb_descr": " Museet Søfart M S Danish Maritime Museum M S search API search Danish maritime history API enable user search multiple database Danish seafaring history single point entry function make available developer enable extract data without need access source code"
+    },
+    {
+        "progweb_cat": "Search,Database",
+        "api_name": "NYPL Digital Collections",
+        "id": 7895,
+        "progweb_descr": " NYPL Digital Collections API provide access portion New York Public Librarys digitize collection They available machinereadable data record user search crawl compute metadata bibliographic schema format develop Library Congress call MODS Metadata Object Description Schema"
+    },
+    {
+        "progweb_cat": "Search,Database",
+        "api_name": "42matters",
+        "id": 8437,
+        "progweb_descr": " 42matters provide searchable Android app database contain 500000 apps This database available free enterprise edition via API want help user find new apps free version noncommercial use require attribution link enterprise edition allow customization daily request"
+    },
+    {
+        "progweb_cat": "Search,Database",
+        "api_name": "EAN-Search",
+        "id": 8459,
+        "progweb_descr": " EANSearch product search service user type European Article NumberEAN site return product reference database contain 24 million entry Users also search product receive list relate product correspond EAN number EANSearch API commercial available facilitates integration database within thirdparty service An account required service"
+    },
+    {
+        "progweb_cat": "Search,Database",
+        "api_name": "Sindice",
+        "id": 15673,
+        "progweb_descr": " Sindice API provide programmatic access semantic search capability It base OpenSearch spec Over 10 billion piece data already search within 100 million web page embed RDF Microformats example build API find RDF certain foafname value"
+    },
+    {
+        "progweb_cat": "Search,Language",
+        "api_name": "Kngine",
+        "id": 8311,
+        "progweb_descr": " Kngine search engine build natural language processing understand user actually seek order provide meaningful result When Kngine crawl web doesnâ€™t index page analyze extract mean provide complete answer user question Kngine API allow question answer capability Kngine integrate web mobile desktop enterprise application API RESTful result return JSON An API Key require"
+    },
+    {
+        "progweb_cat": "Search,Mobile",
+        "api_name": "Sprylogics",
+        "id": 8457,
+        "progweb_descr": " Sprylogics mobile solution provider Sprylogics provide capability local search mobile application product Poynt Sprylogics API allow developer access integrate functionality Sprylogics applications Some example API method include search event search product access analytics share search result"
+    },
+    {
+        "progweb_cat": "Search,Mobile",
+        "api_name": "Daleeli Mobile",
+        "id": 11621,
+        "progweb_descr": " Daleeli Saudi Arabian directory sort business service Visitors look restaurant hotel contractor garden supply store car dealer doctor Business information limit Saudi Arabia international business represent well Daleeli Mobile API allow user integrate access Daleeli application mobile device API accessible use SOAP call XML format Relevant webpages documentation provide Arabic English"
+    },
+    {
+        "progweb_cat": "Search,Mobile",
+        "api_name": "Appolicious",
+        "id": 12701,
+        "progweb_descr": " Appolicious mobile application discovery service Appolicious include application iPhones iPads Android device Users browse search category device trend application variable Appolicious API allow developer access integrate functionality data Appolicious application create new application Public documentation available interested developer sign httpwwwappoliciouscompagesapiadlandingpage information"
+    },
+    {
+        "progweb_cat": "Search,Mobile",
+        "api_name": "Adaptive Media",
+        "id": 15180,
+        "progweb_descr": " From site Mimvi completely commit open close collaboration developersï¿½large smallï¿½across board Our goal ensure effort reward app reach right user right time enable focus effort really mattersï¿½developing apps API offer access mobile app search engine feature RESTful protocol return data via XML format"
+    },
+    {
+        "progweb_cat": "Search,Application Development",
+        "api_name": "Algolia",
+        "id": 8541,
+        "progweb_descr": " Algolia search API design support developer deliver great search experience apps website Search feature include design mobile performance customizable comprehensive ranking ability search infinite attribute single search box API allow application interact directly Algolia platform Algolia REST API communication HTTPS"
+    },
+    {
+        "progweb_cat": "Search,Application Development",
+        "api_name": "GrepCode",
+        "id": 12031,
+        "progweb_descr": " GrepCode Java code search service look code store Maven OSGI repositories GrepCode REST API provide method retrieve Java code source file class name path either factor plus MD5 signature project jar file API may also retrieve jar file project identifier MD5 signature jar file project"
+    },
+    {
+        "progweb_cat": "Search,Application Development",
+        "api_name": "Hayoo!",
+        "id": 13731,
+        "progweb_descr": " Hayoo search engine provide search interface documenation various Haskell package libraries Holumbus Haskell library provide basic building block create index search application This include framework distribute crawl index well distribute query processing API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Search,Collecting",
+        "api_name": "New York Public Library Digital Collections",
+        "id": 9721,
+        "progweb_descr": " New York Public Library offer collection article book exhibit project number ten million collection include publicprivate partnership scholarly research work historical document range information New York Public Library Digital Collections API allow user access 1 million object record search compute research API RESTful return data JSON XML format"
+    },
+    {
+        "progweb_cat": "Search,Nordic",
+        "api_name": "Krak",
+        "id": 9934,
+        "progweb_descr": " Krak Danish search engine look company people map brand product website design compatible computer phone tablet Krak provide information Danish company two million product Krak website give exclusively Danish though API documentation English Kraks SOAPbased API allow user search company Denmark use array different search parameter"
+    },
+    {
+        "progweb_cat": "Search,Nordic",
+        "api_name": "Level Four",
+        "id": 10434,
+        "progweb_descr": " Level Four AB Swedish company help people develop information retrieval service Level Four search server design easily integrate product service It support multiple language million indexed document realtime index It provide programmatically accessible method tag suggestion language detection text extraction OCR Optical Character Recognition scan"
+    },
+    {
+        "progweb_cat": "Search,Web Site Management",
+        "api_name": "Positionly",
+        "id": 9949,
+        "progweb_descr": " Positionly website analytics platform Positionly monitor website position user engagement clickthrus keyword search SEO component Positionly API allow developer access integrate functionality Positionly applications Some example API method include retrieve manage keywords manage user manage website"
+    },
+    {
+        "progweb_cat": "Search,Classifieds",
+        "api_name": "Trovit",
+        "id": 9952,
+        "progweb_descr": " Trovit search engine classify ad Europe Latin America Trovit pull content online classified aggregate one search engine Trovit API allow developer access integrate functionality Trovit application Public documentation available interested developer email apitrovitcom information API access"
+    },
+    {
+        "progweb_cat": "Search,Law",
+        "api_name": "PlagSpotter",
+        "id": 9989,
+        "progweb_descr": " service provide online review duplicate content search engine result It either conduct ad hoc check regularly monitor appearance text matching sample provide text find specify URL It aim allow web publisher verify originality content detect unauthorized copying others API method allow submission text sample duplicate content check sample text either string submitted request file URL Methods access content URL file search determine whether found result provide leading search engine Returned data provide URLs match source percentage duplication find"
+    },
+    {
+        "progweb_cat": "Search,Law",
+        "api_name": "Justis",
+        "id": 12020,
+        "progweb_descr": " legal topic search service allow application integrate result specific area law relevant UK case case law Irish court European Union Directives UK statutes etc Results provide link retrieve fulltext document manage service provider Results filter sorted effective target query API method support submission search query string parameter control number type result sort etc Returned data include identifier retrieve source document without query term highlight many option source format PDF A separate JustCite API provide citation legal case precedent"
+    },
+    {
+        "progweb_cat": "Search,Science",
+        "api_name": "BIND SOAP",
+        "id": 10033,
+        "progweb_descr": " service provide search database document chemical interaction molecular molecular structure pathways Biomolecular Interaction Network Database BIND curated collection report scientific literature describe molecular interaction experimental research Records document interaction data store variety source aggregate researcher report service provide search across separate repository API method support submission search query specify particular source identifier text string associate result Methods return record BIND database match query along descriptive data result set number result query generate result type"
+    },
+    {
+        "progweb_cat": "Search,Science",
+        "api_name": "Textpresso for Neuroscience",
+        "id": 10864,
+        "progweb_descr": " Textpresso information extraction processing service biological literature develop California Institute Technology Textpresso perform full text literature search text classification mining link biological entity find article online database Textpresso Neuroscience web service enable user search full text article document neuroscience information This service access programmatically use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Search,Science",
+        "api_name": "NCAR Digital Library",
+        "id": 13033,
+        "progweb_descr": " service provide search digital repository University Corporation Atmospheric Research part National Center Atmospheric Research service deliver resource base freetext search fieldspecific advance search Results sort relevance combination fieldvalue filter limitation apply date range collection geographic location API method support submission query free text target specific field item description index Methods also allow specification collection retrieve item contain subset API also allow submission date range geographic filter specification result order criterion"
+    },
+    {
+        "progweb_cat": "Search,Science",
+        "api_name": "EB-eye Search",
+        "id": 15674,
+        "progweb_descr": " EBeye web service text search engine index European Bioinformatics Institute EBI databases DNA genomics various format flatfiles XML OBO etc web service API provide access core EBeye functionality let user search globally EBI database"
+    },
+    {
+        "progweb_cat": "Search,Energy",
+        "api_name": "DOE Green Energy",
+        "id": 10173,
+        "progweb_descr": " service US Department Energy provide search access collection resource energy use conservation It retrieve listing manage collection resource highlight key concept relate energy efficiency conservation Its process emphasize catalog resource content link familiar singlebox search interface background structure topic important discipline API method support map user keyword query term control vocabulary built around scientific concept important green energy research This socalled keyword concept mapping convert freetext search manage taxonomy allows retrieval result related term broader narrow term highly target sematic relationship"
+    },
+    {
+        "progweb_cat": "Search,Energy",
+        "api_name": "NREL Building Component Library",
+        "id": 10738,
+        "progweb_descr": " service National Renewable Energy Laboratory NREL provide repository standardize data feature commonly find building It service need architects designer construction personnel create model build energy use time Data individual building component describe energy performance characteristic windows door wall etc match weather information API method support search specific building component either type keyword Returned data provide descriptive facet help narrow search Methods allow download performance profile select component incorporation energy model building whole"
+    },
+    {
+        "progweb_cat": "Search,Government",
+        "api_name": "Research Data Australia",
+        "id": 10310,
+        "progweb_descr": " service provide single comprehensive point access research conduct sponsor Australian government agency national government establish Australian Research Data Commons registry standardize storage retrieval method across research project goal unify simplified access result set promote access reuse data An additional goal improve visibility Australian research within search engine result API method support search access store data set compliant Open Search Open Archives Initiative OAI format Methods support retrieval data object ANDS registry grouping object organize include spatial data Methods also provide list register data source descriptive metadata detail data provide"
+    },
+    {
+        "progweb_cat": "Search,Government",
+        "api_name": "SBA Loans and Grants Search",
+        "id": 12883,
+        "progweb_descr": " Small Business Administration SBA strive act engine opportunity economic growth America provide variety program support service current prospective small business owner Loans Grants Search API allow developer connect SBAgovs categorize collection link federal state local financial assistance program aid small business start expand operation search API let user find loan grant variety characteristic state industry specialty This RESTful API free use return data either XML JSON"
+    },
+    {
+        "progweb_cat": "Search,Government",
+        "api_name": "Washington State Corporations Search",
+        "id": 14189,
+        "progweb_descr": " Washington Secretary State Corporations Division provide online service information relate corporation state Washington register new business renew LLC nonprofit business search business search API allow access search information retrieval corporation data Results return XML JSON"
+    },
+    {
+        "progweb_cat": "Search,Auto",
+        "api_name": "Kelley Blue Book InfoDriver",
+        "id": 10326,
+        "progweb_descr": " service syndicate data car model feature sell price provider extensive database Primarily aim automobile dealership sell public syndicate data may also useful consumerfocused application websites service cover new used car across full range make model across North American market sell Data available realtime web service periodic download API method support retrieval data currentyear use vehicle year make model listing standard optional equipment Methods also provide project car value level suggest dealer price use car tradein transations private party sale API include access VIN decoder determine specific car equipment level base manufacturer identification number"
+    },
+    {
+        "progweb_cat": "Search,Auto",
+        "api_name": "VinAudit",
+        "id": 11140,
+        "progweb_descr": " service provide lookup access vehicle history report compile US National Motor Vehicle Title Information System NMVTIS Applications use service implement NMVTIS data access general access specific function like car dealership inventory management system API method support submit VIN query retrieve record relate specific vehicle Methods return full VIN report either raw data PDF file VIN report information include state issue last title date odometer read last title change total loss history salvage history"
+    },
+    {
+        "progweb_cat": "Search,Customization",
+        "api_name": "Spinque",
+        "id": 10330,
+        "progweb_descr": " service provide tool design encode custom search engine tailor data source search desire output search result logical process connect A search strategy assemble via graphical interface link logic rule define result selection complete ruleset publish external access Once publish accessed generate result via interactive form API method API method support interaction customconfigured set logical search strategy filter generate matching result find defined data source Methods allow definition sequence search filter employ predefined selection criterion reconfigurable sequence"
+    },
+    {
+        "progweb_cat": "Search,Storage",
+        "api_name": "Refinder",
+        "id": 10496,
+        "progweb_descr": " service provide search retrieval across multiple storage data repository identify item different location relevance common topic project Users link file store local cloud storage platform calendar item social network post kinds content create held separate location Retrieval gather link item support work relate API method support creation unique identifier URI thing many type include note bookmark file location people organization etc Each identifier link others share relevance user along location allow retrieval Linked thing retrieve together wherever may store physically locate"
+    },
+    {
+        "progweb_cat": "Search,Media",
+        "api_name": "Archiver",
+        "id": 10618,
+        "progweb_descr": " Archiver index spidered publicly available social medium data searchable keyword location Archiver API aim help developer query diverse source archive support variety method include fulltext search user data"
+    },
+    {
+        "progweb_cat": "Search,Media",
+        "api_name": "mBLAST mPACT",
+        "id": 12902,
+        "progweb_descr": " mPACT service allow user search article tweet blog web content base keywords mPACT API allow developer access integrate functionality mPACT application Some example API method include search article blog base keywords search social medium keywords search author keywords"
+    },
+    {
+        "progweb_cat": "Search,Taxes",
+        "api_name": "Feinsearch",
+        "id": 10656,
+        "progweb_descr": " service provide lookup access database employer identification number EINs related information 16 million supplier business US company It allow verification tax reporting account vendor contractor supplier allow compliance payment reporting requirement Search option allow either individual batch lookup retrieve EIN value verify supplied vendor API method support search database taxpaying company return data specify EIN Tax ID number primary industry SIC code phone fax number verify address API also provide operate information like year company start employee headcount estimate sale revenue"
+    },
+    {
+        "progweb_cat": "Search,Religion",
+        "api_name": "Sermon Browser",
+        "id": 10842,
+        "progweb_descr": " service provide lookup access text JudeoChristian Bible multiple version various language Biblical scholar access dozen version translation many language Other service provide verse specific version particular language one seek span available option API method support submission request specify passage desire book name chapter verse number option version King James Version English default Version parameter also specify desired language Returned data include text along book chapter verse reference 500 verse per request"
+    },
+    {
+        "progweb_cat": "Search,Religion",
+        "api_name": "LDSTech Gospel Library Catalog",
+        "id": 11489,
+        "progweb_descr": " LDSTech community site user contribute technological work LDS Mormon church Gospel Library Catalog API allow mobile device search look content available book available download Users look languages platform content available catalog provide taxonomy content show correct order Users also ability download content via API API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Search,Religion",
+        "api_name": "LDSTech Mormon Channel",
+        "id": 12064,
+        "progweb_descr": " LDSTech community site user contribute technological work LDS Mormon church Mormon Channel official radio station Church Jesus Christ Latterday Saints broadcast 24 hour day seven day week API allow developer build apps query content currently available audio stream LDSorg It use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Search,Japanese",
+        "api_name": "EAST Search Engine",
+        "id": 11010,
+        "progweb_descr": " EAST Tokyobased software developer specialize provide Windowsbased solution variety business EAST Search Engine web service let user search ZIP code data search address detail base partial information search address ZIP code This service accessible use SOAP call issue XML format website documentation provide Japanese"
+    },
+    {
+        "progweb_cat": "Search,Museums",
+        "api_name": "SOCH",
+        "id": 11216,
+        "progweb_descr": " service aggregate databases cultural resource Sweden museum object collection monument historical site similar item important Swedish culture Applications access database create directory specific area specific type cultural resource database collection suitable application serve general public cultural researcher API method support freetext search search specific object place Location specify particular point map bound region Objectspecific search limit result particular type cultural resource timeperiod parameter specify"
+    },
+    {
+        "progweb_cat": "Search,Museums",
+        "api_name": "Culture Grid",
+        "id": 13809,
+        "progweb_descr": " Service UK Collections Trust access information collection museums library archive Supports service open UK cultural institution collection public benefit locating facility area near landmark discovering holding resource offer visitor"
+    },
+    {
+        "progweb_cat": "Search,Museums",
+        "api_name": "Information Environment Service Registry",
+        "id": 13811,
+        "progweb_descr": " An academic Yellow Pages support discovery use scholarly resource Its catalog information electronic resource research collection enable discovery new resource inclusion content within application via web machine interface Content multidisciplinary particular strength health social science subject area Resource type include database datasets bibliographic resource elearning material ebooks ejournals repository research publication image collection"
+    },
+    {
+        "progweb_cat": "Search,Hobbies",
+        "api_name": "Brickset",
+        "id": 11946,
+        "progweb_descr": " service provide lookup access database Lego brand toy brick construction set make It provide hobbyist enthusiast information available size shape color Lego brick along comprehensive listing predefined set construct playsets scene API method support submit search query option specify theme subthemes applied product timeframes availability instruction construct set popular search service Methods also allow update record user collection Lego product"
+    },
+    {
+        "progweb_cat": "Search,Hobbies",
+        "api_name": "ThrustCurve",
+        "id": 12027,
+        "progweb_descr": " ThrustCurve information resource model rocket hobbyists website store organize data manufacture spec model rocket engine Hobbyists find updates guide supply simulation data site site provide three APIs developer Search Download Metadata They HTTPbased provide XML response"
+    },
+    {
+        "progweb_cat": "Search,Patents",
+        "api_name": "CLAIMS DIRECT",
+        "id": 12137,
+        "progweb_descr": " service provide information database global patent application claim allow search exist right invention technology central source aggregate filing patent authority worldwide provide search result multiple language API method support submission query relate patent filing return match global source tag source language Patent description provide legal status claim intellectual property right image US reassignment patent country"
+    },
+    {
+        "progweb_cat": "Search,Transportation",
+        "api_name": "Sapo Auto Search",
+        "id": 12318,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide This API give user ability search content AutoSapo webservice Search parameter include brand model price It use RESTful call response format JSON RSS"
+    },
+    {
+        "progweb_cat": "Search,Real Estate",
+        "api_name": "Homes.com Neighborhood Envoy",
+        "id": 12329,
+        "progweb_descr": " service provide neighborhood profile realestate buyer base 300 factor related school population demographic employment climate local feature It allow integration Multiple Listing System MLS property search allow buyer review prospective property API method support submission property location return data surround neighborhood Methods allow integration property display web via mobile device along report location"
+    },
+    {
+        "progweb_cat": "Search,Travel",
+        "api_name": "BeachGuard",
+        "id": 12358,
+        "progweb_descr": " BeachGuard online system originally use Michigan gather beach sample data local health agency BeachGuard since implement three state Illinois Indiana Ohio service contain two main functionality retreiving beach via query return information beach closure advisory API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Search,Classification",
+        "api_name": "Sapo Tags",
+        "id": 12373,
+        "progweb_descr": " SAPO Portuguese Internet service provider whose main web site act web portal feature directory Portuguese sit SAPO Services provide large suite web service application developer worldwide Tags API allow user query Sapo platform item tag Users search bookmark tags associate user collection API use RESTful call return RSS feed"
+    },
+    {
+        "progweb_cat": "Search,Classification",
+        "api_name": "Similar Sites",
+        "id": 14573,
+        "progweb_descr": " Similar Sites service help user find new site base another API use technology flagship site return twenty similar website order relevance give URL XML format service also return website tag category adult site classification Developers test API free pay service start 250 per month"
+    },
+    {
+        "progweb_cat": "Search,Non-Profit",
+        "api_name": "Christian Social Graph",
+        "id": 12810,
+        "progweb_descr": " ChristianVolunteeringorg directory Christian volunteer opportunity variety location various ministry Christian Social Graph API ChristianVolunteeringorg allow developer produce RSS JSON XML CSV output ChristianVolunteeringorg directory Christian volunteer opportunity"
+    },
+    {
+        "progweb_cat": "Search,Text",
+        "api_name": "Searchify",
+        "id": 12850,
+        "progweb_descr": " Searchify host search engine let user add fulltext search application without configure host search infrastructure Searchify allow user tune search result rank use custom score function Searchify also act dropin replacement exist IndexTank user REST API define method manage index create delete operate add delete document function etc perform search etc It use HTTP response format JSON"
+    },
+    {
+        "progweb_cat": "Search,Text",
+        "api_name": "kikin EasySearch",
+        "id": 13315,
+        "progweb_descr": " kikin browser allow user conduct contextual search without leave web page Users click word phrase image trigger search without copy paste EasySearch API let user integrate kikin functionality application via iOS SDK API documentation available upon registration"
+    },
+    {
+        "progweb_cat": "Search,Documents",
+        "api_name": "HoundSleuth",
+        "id": 12997,
+        "progweb_descr": " HoundSleuth cloudbased search engine Users index document search document realtime HoundSleuth API allow developer access integrate functionality HoundSleuth application websites create new application Some example API method include index document manage document search management scoring document"
+    },
+    {
+        "progweb_cat": "Search,Documents",
+        "api_name": "Find That File",
+        "id": 15234,
+        "progweb_descr": " Find That File search web file type return result audio video type want API allow access findthatfilecom search engine filesmedia"
+    },
+    {
+        "progweb_cat": "Search,European",
+        "api_name": "GBR Direct",
+        "id": 13018,
+        "progweb_descr": " Irish service give unified access listing national register business organization across Europe It establish network business register separately maintain official national registration authority private registry This network simplify access officially submit company information allow comparison result API method support singlepoint access registry business organization across Europe Returned data reflect officially require reporting EU company"
+    },
+    {
+        "progweb_cat": "Search,Crime",
+        "api_name": "JailBase",
+        "id": 13028,
+        "progweb_descr": " Jailbase informational site arrest person With site user search arrest person mugshot include available lookup recent arrest notify someone know arrest API let user search arrest booked individual county jail It use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Search,Family",
+        "api_name": "Coret Genealogy Online",
+        "id": 13035,
+        "progweb_descr": " Dutchlanguage service provide family history genealogy search function include automated scan available web resource person entry create scan return potential match people event help extend family tree add detail people list API method support submission person information return matching record people genealogy database determine name relate detail Methods also return event match name submission location date information support mapping function"
+    },
+    {
+        "progweb_cat": "Search,Family",
+        "api_name": "Family Tree Maker",
+        "id": 13036,
+        "progweb_descr": " service associate Ancestrycom provide search result provider database genealogy family history information Functionality support synchronize desktop Family Tree Maker database online member family tree Documentation come thirdparty source API method support submit search genealogical information individual specifying relate family role profile data Methods also allow list provider information potentially relate search"
+    },
+    {
+        "progweb_cat": "Search,German",
+        "api_name": "InsumaFocus",
+        "id": 13164,
+        "progweb_descr": " InsumaFocus versatile customizable search engine capable search intranet server internet domain databases user web portal simultaneously InsumaFocus API allow search engine seamlessly integrate user portal use SOAP Documentation primarily available English although much Insuma website accessible English German"
+    },
+    {
+        "progweb_cat": "Search,Directories",
+        "api_name": "Zenbu",
+        "id": 13174,
+        "progweb_descr": " service give access content function provider New Zealandspecific search business directory website Listings business place return match usersupplied keyword findnearest function highlight match local specify location API method accept query term result count display return data provide matching listing Findnearest method add input location latitude longitude return locationspecific match"
+    },
+    {
+        "progweb_cat": "Search,Photos",
+        "api_name": "SuperFish",
+        "id": 13564,
+        "progweb_descr": " Superfish visual search technology let user use image instead keywords search query product When user input image query visual search software extract visual feature search index image find similar query Superfish offer developer chance integrate visual search functionality application web site Superfish API API let developer create customize visual search experience user Clients send image URL image Superfish return set visually similar product offer JSON format Developers contact Superfish detail technical documentation"
+    },
+    {
+        "progweb_cat": "Search,Visualizations",
+        "api_name": "Macroglossa",
+        "id": 13722,
+        "progweb_descr": " Macroglossa search engine compare image Users upload photo image arent sure determine image contain Macroglossa compare image return search result base five search category Macroglossa offer three level APIs developer free basic premium free API limit use basic premium premium API also offer custom service Public documentation available sign process complete Interested developer register httpwwwmacroglossacomapihtml"
+    },
+    {
+        "progweb_cat": "Search,Metadata",
+        "api_name": "Fluidinfo",
+        "id": 14135,
+        "progweb_descr": " Fluidinfo online information storage search platform content publisher Fluidinfo provide openly writable metadata type item also allow data metadata web content social searchable Content owner publish content Fluidinfo add metadata share content others Fluidinfo API allow developer access functionality data Fluidinfo build application integrate Fluidinfo application Some example API method include search retrieve object user tag data include Fluidinfo API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Search,Localization",
+        "api_name": "Safe2pee",
+        "id": 14270,
+        "progweb_descr": " Safe2pee resource people find location gender free bathroom It provide RESTful API let user query site data integrate apps Users also use API upload new location Responses format JSON"
+    },
+    {
+        "progweb_cat": "Search,Localization",
+        "api_name": "YellowBot Reputation Management",
+        "id": 14929,
+        "progweb_descr": " This API provide reputation presence management business Business reputation monitor online provide API Sentiment analysis use recommendation give YellowBot local search site find review place local community elsewhere Documentation API available upon request"
+    },
+    {
+        "progweb_cat": "Search,Korean",
+        "api_name": "Daum Search",
+        "id": 14375,
+        "progweb_descr": " Daum web portal South Korea offer many Internet service web user include popular free webbased email message service forum shop news Daum Search API provide search service across entire Daum portal include forum videos blog web image knowledge print cafe API use RESTful call response format XML JSON RSS site documentation Korean"
+    },
+    {
+        "progweb_cat": "Search,Extraction",
+        "api_name": "Pingar",
+        "id": 14633,
+        "progweb_descr": " Pingar offer technology platform search analyze large amount unstructured data Its API suite allow companyï¿½s exist software work Pingarï¿½s data analysis search technology manage companyï¿½s unstructured data Unstructured data include document hard soft webpage email kind text With API user perform content analysis entity extraction rapid discovery API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Search,Writing",
+        "api_name": "Copyscape Premium",
+        "id": 14775,
+        "progweb_descr": " Copyscape Premium API allow developer integrate Copyscape Premium Content Management System enable ability automatically check originality new content arrive writer If create private index API also let add content private index check new content API allow developer write script server query Copyscape Premium service receive result XML HTML format"
+    },
+    {
+        "progweb_cat": "Search,England",
+        "api_name": "Touch Local",
+        "id": 15448,
+        "progweb_descr": " TouchLocal online business directory touchlocalcom offer blanket UK coverage contain 24 million business listing It attract 4 million unique visitor month inturn undertake 6 million search This API RESTful service expose TouchLocalcoms entire database local business use developer Included resource information business location address contact detail rating image location optionally content user review make business special offer business know offering"
+    },
+    {
+        "progweb_cat": "Search,Transcription",
+        "api_name": "Yamli",
+        "id": 15700,
+        "progweb_descr": " Yamli allow user search Arabic content use Latin character With Yamli API allow user easily type Arabic HTML form website include email forum search boxes comment form etc Yamli technology integrate without disrupt exist layout functionality minimum effort When integrate Yamli textbox Yamli setting link appear next inside textbox"
+    }
+]

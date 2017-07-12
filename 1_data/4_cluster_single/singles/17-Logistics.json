@@ -1,0 +1,104 @@
+[
+    {
+        "progweb_cat": "Logistics,API",
+        "api_name": "FreightCenter",
+        "id": 349,
+        "progweb_descr": " service aggregate freight ship information 25 freight carrier freight class rating ship cost quote shipment book function It integrate ecommerce checkout function OMSWMSTMS software act standalone transportation function Shipment tracking also support API method support submission shipment size content along point origin destination Methods return class rating realtime quote 25 provider ability book shipment arrange pickup delivery"
+    },
+    {
+        "progweb_cat": "Logistics,API",
+        "api_name": "project44",
+        "id": 5264,
+        "progweb_descr": " project44 ’ enterprise SaaS integration platform power dynamic supply chain future global ondemand connectivity visibility Our ecosystem intelligent webservice APIs eliminate need legacy communication tool like EDI delivers system infrastructure require IoTbased predictive analytics With project44 retailer supplier manufacturer 3PLs transportation provider able communicate critical data rest supply chain automate realtime manner By implement progressive standardization information enhance data flow project44 provide high quality fasttodeploy solution accelerate client ’ ability execute agile scalable supply chain network meet rapidly evolve need today ’ ondemand consumer Businesses utilize project44 able increase efficiency productivity low cost get product market faster reduce inventory avoid supply chain failure quickly adapt change requirement information visit httpwwwp44com follow along Twitter freightpipes"
+    },
+    {
+        "progweb_cat": "Logistics,Brazilian",
+        "api_name": "Intelipost",
+        "id": 1679,
+        "progweb_descr": " Intelipost API return information Brazilian zip code shipment method track carrier This information available JSON format developer need request API Key Intelipost Brazilian provider logistics freight management service Intelipost offer multifreight ship track calculation invoice audit postal service reimbursement support analytics"
+    },
+    {
+        "progweb_cat": "Logistics,Location",
+        "api_name": "Royal Mail Delivery Office Finder",
+        "id": 1935,
+        "progweb_descr": " Delivery Office Finder API enable customer obtain detail Royal Mail Delivery Office dedicate provide postcode name address facility business hour Delivery Office return"
+    },
+    {
+        "progweb_cat": "Logistics,Mail",
+        "api_name": "Royal Mail Tracking REST",
+        "id": 2053,
+        "progweb_descr": " Royal Mail Tracking API allow customer check track status parcel mail item API provide late track information track history proof delivery information minus signature image single mail item API provide functionality direct customer There cost customer use Tracking API service however development cost must cover customer Royal Mail accept responsibility development implementation testing cost"
+    },
+    {
+        "progweb_cat": "Logistics,Mail",
+        "api_name": "Royal Mail Local Collect REST",
+        "id": 2054,
+        "progweb_descr": " Local Collect API allow customer use Click Collect option sit parcel deliver Post Offices This API allow customer retrieve uptodate list Post Offices confirm selection give location item hold await collection There cost customer use Local Collect API service however development cost must cover customer Royal Mail accept responsibility development implementation testing cost"
+    },
+    {
+        "progweb_cat": "Logistics,Mail",
+        "api_name": "Royal Mail Tracking SOAP",
+        "id": 2055,
+        "progweb_descr": " Royal Mail Tracking API allow customer check track status parcel mail item API provide late track information track history proof delivery information minus signature image single mail item API provide functionality direct customer There cost customer use Tracking API service however development cost must cover customer Royal Mail accept responsibility development implementation testing cost"
+    },
+    {
+        "progweb_cat": "Logistics,Mail",
+        "api_name": "Royal Mail Local Collect SOAP",
+        "id": 2056,
+        "progweb_descr": " Local Collect API allow customer use Click Collect option sit parcel deliver Post Offices This API allow customer retrieve uptodate list Post Offices confirm selection give location item hold await collection There cost customer use Local Collect API service however development cost must cover customer Royal Mail accept responsibility development implementation testing cost"
+    },
+    {
+        "progweb_cat": "Logistics,Mail",
+        "api_name": "Royal Mail Shipping",
+        "id": 2057,
+        "progweb_descr": " Royal Mail Shipping API provide functionality customer take ship transaction creation collection It service offer via Royal Mail request creation update cancellation shipment print label printing international Customs document request 2D bar code range request 1D Item ID range creation print manifest Built industry standard API provide simple low cost method customer integrate Royal Mail allow get ship quickly There cost customer use Shipping APIs service however customer ’ development cost must cover customer develop solution Royal Mail accept responsibility development implementation test cost Customers address initial inquiry regard development system purpose account handler"
+    },
+    {
+        "progweb_cat": "Logistics,Mail",
+        "api_name": "Royal Mail Online Postage",
+        "id": 2058,
+        "progweb_descr": " Online Postage API provide Royal Mail approve third party Marketplace website ability print postage label API provide functionality obtain country list give carrier obtain term condition mail service obtain postage price individual item obtain postage individual mail item spoil cancel unused postage This service available Royal Mail approve third party Marketplace websites Using Online Postage API require development cost cover third party develop solution Royal Mail accept responsibility development implementation test cost Customers interested contact Royal Mail account handler check eligibility"
+    },
+    {
+        "progweb_cat": "Logistics,B2B",
+        "api_name": "Labelary",
+        "id": 4598,
+        "progweb_descr": " Labelary API RESTful API help access Labelary rendering engine online service Labelary digital label printing service allow easy conversion ZPL print language label templates PNG image PDF document"
+    },
+    {
+        "progweb_cat": "Logistics,Shipping",
+        "api_name": "Simpliroute",
+        "id": 4901,
+        "progweb_descr": " Simpliroute REST API allow developer access integrate functionality Simpliroute applications Some example API method include manage vehicle manage route manage user Simpliroute fleet management logistics provider"
+    },
+    {
+        "progweb_cat": "Logistics,Ordering",
+        "api_name": "Shotput",
+        "id": 4921,
+        "progweb_descr": " Shotput REST API allow developer access integrate functionality Shotput application Shotput integrate current system online shop cart user Public documentation available API access come account service Shotput provide order ship fulfillment service startups"
+    },
+    {
+        "progweb_cat": "Logistics,Ordering",
+        "api_name": "Rickshaw",
+        "id": 5059,
+        "progweb_descr": " Rickshaw REST API allow developer access integrate functionality Rickshaw application Public documentation available API access come account service Rickshaw ondemand delivery courier service offer sameday delivery customer business"
+    },
+    {
+        "progweb_cat": "Logistics,Business",
+        "api_name": "Freightview",
+        "id": 5160,
+        "progweb_descr": " Freightview API allow developer pull n LTL freight rate application website Freightview require account setup use API Other feature include ability retrieve rate schedule pickup track pickup delivery Freightview tool show user freight carrier rate one screen"
+    },
+    {
+        "progweb_cat": "Logistics,Data",
+        "api_name": "Onfleet",
+        "id": 5183,
+        "progweb_descr": " Onfleet API provide local delivery system integrate exist application Features include metric monitor driver support SMS integration This REST API respond JSON format make use HTTP basic access authentication Onfleet focus develop logistic system"
+    },
+    {
+        "progweb_cat": "Logistics,Agriculture",
+        "api_name": "John Deere Logistics",
+        "id": 5345,
+        "progweb_descr": " John Deere Logistics API allow developer integrate business management system AgLogic Fleet Logistics Application This API enable user maintain key account information business system AgLogic AgLogic System design help manage improve productivity agribusiness asset use global positioning cellular data communication webapplication technology"
+    }
+]

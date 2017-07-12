@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Learning Management Systems,Collaboration",
+        "api_name": "Moodle",
+        "id": 667,
+        "progweb_descr": " Moodle open source learn management system design teach social constructionist theory Educators administrator student benefit modular PHP system aim personalize learn environment To integrate LMS application Moodle offer core APIs Access Data manipulation Navigation API along 20 general APIs include Calendar Enrollment Media API"
+    },
+    {
+        "progweb_cat": "Learning Management Systems,Human Resources",
+        "api_name": "Cornerstone On Demand Web Services",
+        "id": 1744,
+        "progweb_descr": " Cornerstone On Demand Web Services API provide tool set get object relate Cornerstone On Demand learn management system Web Services API provide ability get set user organization learn management object class There also web service search course catalog register user class All request response send use XML Cornerstone documentation provide technical specification example create XML document"
+    },
+    {
+        "progweb_cat": "Learning Management Systems,Analytics",
+        "api_name": "IMS Analytics Sensor",
+        "id": 1934,
+        "progweb_descr": " IMS Global Learning Consortium provider scalable learning solution technology consortium develop IMS Caliper Analytics™ Sensor API facilitate development online learning application API deign capture transmit highly contextualized data learn interaction This API conveys request responses JSON JSONLD format"
+    },
+    {
+        "progweb_cat": "Learning Management Systems,Education",
+        "api_name": "National University of Singapore Integrated Virtual Learning Environment",
+        "id": 4980,
+        "progweb_descr": " Virtual Learning Environment API University Singapore provide access student instructor administrator developer interested course information API feature JSON protocol API Key available Mashup govern University Acceptable Use Policy Known Learning Management System VLE offer academic program medium space classroom response system"
+    },
+    {
+        "progweb_cat": "Learning Management Systems,Education",
+        "api_name": "SkyPrep",
+        "id": 5235,
+        "progweb_descr": " SkyPrep provide LMS service online train educator train professional SkyPrep API allow user common action SkyPrep include create read update delete operation user group course enrollment This API currently beta Please see contact information"
+    },
+    {
+        "progweb_cat": "Learning Management Systems,Education",
+        "api_name": "eLeaP",
+        "id": 6847,
+        "progweb_descr": " eLeaP LMS Learning Management System design student company trainees Users easily create online course customize brand even sell LMS automatically track student progress sends report instructor eLeaP entirely webbased work mobile device eLeaP API enable user integrate LMS system"
+    },
+    {
+        "progweb_cat": "Learning Management Systems,Content Management",
+        "api_name": "Aurora",
+        "id": 6900,
+        "progweb_descr": " Luz organization provide language production review asset management consulting service area life sciences Users access Aurora learn management system Aurora also name API With API developer share file display quote update status complete project content management system main benefit service incorporate data CMS business intelligent system businessfinancial system Aurora API support XML JSON REST protocols If developer require information contact technical service team"
+    }
+]

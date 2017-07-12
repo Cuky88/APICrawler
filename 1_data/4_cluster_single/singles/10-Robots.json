@@ -1,0 +1,62 @@
+[
+    {
+        "progweb_cat": "Robots",
+        "api_name": "Sphero",
+        "id": 4298,
+        "progweb_descr": " Sphero API allow developer control Sphero robot programmatically API include call direct robot roll proscribed direction change color Sphero company sell orbshaped robot name roll around change color run program control use smartphone tablet"
+    },
+    {
+        "progweb_cat": "Robots",
+        "api_name": "NAOqi DCM",
+        "id": 5034,
+        "progweb_descr": " NAOqi DCM API come list core module allow developer manage Device Communication Manager DCM Aldebaran company design produce commercializes autonomous humanoid robots Their NAOqi operating system enable robot natural interaction emotion"
+    },
+    {
+        "progweb_cat": "Robots",
+        "api_name": "RoboEarth",
+        "id": 10425,
+        "progweb_descr": " RoboEarth network data repository robot share information learn goal RoboEarth allow robotic system benefit others experience share information behavior environments Developers access RoboEarths function information programmatically use REST call issue JSON format"
+    },
+    {
+        "progweb_cat": "Robots,Animation",
+        "api_name": "Robohash Image Generator",
+        "id": 4990,
+        "progweb_descr": " Robohash Image Generator API available Mashape JSON format API Key authentication method goal produce robot image text Along robot alien monster also display IP address email filename userID Created independent developer colinrobohashorg"
+    },
+    {
+        "progweb_cat": "Robots,Intelligence",
+        "api_name": "NAOqi Core",
+        "id": 5027,
+        "progweb_descr": " Aldebaran Robotics create manufacture sell humanoid programmable robot Their NAOqi operating system enable robot natural interaction emotion NAOqi Core API come list core module allow developer handle core operation start stop behavior manage connection network create module"
+    },
+    {
+        "progweb_cat": "Robots,Motion",
+        "api_name": "NAOqi Motion",
+        "id": 5028,
+        "progweb_descr": " NAOqi Motion API come list core module allow developer facilitate make NAO move It contain four major group method control joint stiffness joint position walk robot effector Cartesian space Aldebaran company design produce commercializes autonomous humanoid robot Aldebaran Robotics create manufacture sell humanoid programmable robot Their NAOqi operating system enable robot natural interaction emotion"
+    },
+    {
+        "progweb_cat": "Robots,Motion",
+        "api_name": "NAOqi Trackers",
+        "id": 5033,
+        "progweb_descr": " NAOqi Trackers API come list core module allow developer make NAO track target robot main goal module establish bridge target detection motion order make NAO keep view target middle camera Aldebaran company design produce commercializes autonomous humanoid robots Their NAOqi operating system enable robot natural interaction emotion"
+    },
+    {
+        "progweb_cat": "Robots,Audio",
+        "api_name": "NAOqi Audio",
+        "id": 5029,
+        "progweb_descr": " NAOqi Audio API come list core module allow developer manage audio software component robot include sound management sound detection localization language management Aldebaran company design produce commercializes autonomous humanoid robots Their NAOqi operating system enable robot natural interaction emotion"
+    },
+    {
+        "progweb_cat": "Robots,Recognition",
+        "api_name": "NAOqi Vision",
+        "id": 5031,
+        "progweb_descr": " NAOqi Vision API come list core module allow developer manage vision component robot It contain major vision module ie backlighting detection darkness detection face detection landmark detection Aldebaran company design produce commercializes autonomous humanoid robots Their NAOqi operating system enable robot natural interaction emotion"
+    },
+    {
+        "progweb_cat": "Robots,Internet of Things",
+        "api_name": "NAOqi Sensors",
+        "id": 5032,
+        "progweb_descr": " NAOqi Sensors API come list core module allow developer manage sensor component robot It contain major vision module ie sensor battery infrared laser Aldebaran company design produce commercializes autonomous humanoid robots Their NAOqi operating system enable robot natural interaction emotion"
+    }
+]

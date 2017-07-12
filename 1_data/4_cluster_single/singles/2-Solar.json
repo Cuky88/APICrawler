@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Solar,Analytics",
+        "api_name": "Solcast",
+        "id": 2456,
+        "progweb_descr": " Solcast REST API delivers forecast solar power estimate radiation cloud information anywhere world Now estimate actual rapid update forecast US Developers send JSON JSV request receive CSV JSON XML responses consume API design Swagger style Authentication available via Key With API developer obtain PV power output forecast access solar radiation estimate access realtime data US Australia apply analytics individualized forecast"
+    },
+    {
+        "progweb_cat": "Solar,Analytics",
+        "api_name": "SolarAnywhere",
+        "id": 6759,
+        "progweb_descr": " Clean Power Research feature SolarAnywhere API create aim produce robust application use analytics This RESTful API allow access data related direct normal irradiance global horizontal irradiance horizontal irradiance regular time It also display yearly monthly information goal present multiple spatial temporal resolution One simulation alternative include list energy calculation solar obstruction space angle energy system recognize location use latitude longitude ZIP code Data relate irradiance wind temperature display either XML CSV format"
+    }
+]

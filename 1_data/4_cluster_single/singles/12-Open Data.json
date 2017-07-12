@@ -1,0 +1,74 @@
+[
+    {
+        "progweb_cat": "Open Data,Data",
+        "api_name": "European Holocaust Research Infrastructure (EHRI)",
+        "id": 2296,
+        "progweb_descr": " European Holocaust Research Infrastructure archive holocaust relate data material across many European country To programmatically access open database provide Search API GraphQL base API"
+    },
+    {
+        "progweb_cat": "Open Data,Data",
+        "api_name": "University of Alicante Open Data",
+        "id": 6196,
+        "progweb_descr": " UAPI open data API data reuse UAPI provide wealth university data study research reuseand assist development mashups different apps This public API part project OpenData4U develop University Alicante ViceRectorate Information Technologies goal open university data society"
+    },
+    {
+        "progweb_cat": "Open Data,Data",
+        "api_name": "Data.Gov Domains",
+        "id": 6503,
+        "progweb_descr": " Maintained US General Services Administration part datagov Gov Domains API provide dataset Federal Executive Agency URLs dataset include agency name URL domain status redirect information correspond ID list download CSV format access HTTP view JSON format response"
+    },
+    {
+        "progweb_cat": "Open Data,Cities",
+        "api_name": "Chicago Open311",
+        "id": 3507,
+        "progweb_descr": " Chicago Open311 API provide connectivity government authority resident City Chicago API anchor Open311 platform facilitate feedback communication variety issue pothole fall within jurisdiction city ’ government A developer must first request test API key deploy Open311 system ’ test environment able access production API key Chicago Open311 API generate call HTTP format return responses JSON JSONP XML format"
+    },
+    {
+        "progweb_cat": "Open Data,Cities",
+        "api_name": "City Context Open Data",
+        "id": 5865,
+        "progweb_descr": " City Context Open Data API provide transport crime school flood park demographic data UK real estate market City Context Open Data API allow user request city specific information simple HTTP request JSON response This API several usage plan range noncommercial free level commercial level Usage allow compete site Authentication unique user key City Context provide access open data real estate professional developer display end user"
+    },
+    {
+        "progweb_cat": "Open Data,Financial",
+        "api_name": "Open PermID Entity Search",
+        "id": 5070,
+        "progweb_descr": " Open PermID Entity Search API bring developer tool retrieve entity two prominent way include request PermID service search entity name ticker RIC Reuters Instrument Code PermID Service let utilize permanent ID 35 million organization 240K equity instrument 117 million equity quote Thomson Reuters core entity data set Thomson Reuters Open PermID help user extract high quality link data"
+    },
+    {
+        "progweb_cat": "Open Data,Financial",
+        "api_name": "Open PermID Record Matching",
+        "id": 5071,
+        "progweb_descr": " Open PermID Record Matching API useful developer tool match entity data Thomson Reuters identifiers Some feature API resolve Organization Instrument Quote record permidorg URLs reconcile data Thomson Reuters data use obtain identifier get information record Thomson Reuters via search API PermidOrg record match first step integrate exist data Thomson Reuters PermID Thomson Reuters Open PermID help user extract high quality link data"
+    },
+    {
+        "progweb_cat": "Open Data,Education",
+        "api_name": "USC Open Data",
+        "id": 6477,
+        "progweb_descr": " University Students Council USC University Western Ontario provide web portal student access information club event campus news job volunteer opportunity As part commitment openness transparency USC offer USC Open Data API provide programmatic access USCs data"
+    },
+    {
+        "progweb_cat": "Open Data,Cloud",
+        "api_name": "OpenDataSoft",
+        "id": 6907,
+        "progweb_descr": " OpenDataSoft cloud base platform aim act resource firm publish retrieve open data OpenDataSoft platform use API search base retrieval analysis publish data set Parameters allow complex query use fulltext geolocation search strategy export flow record JSON CSV API support GET POST method"
+    },
+    {
+        "progweb_cat": "Open Data,Agriculture",
+        "api_name": "data.gouv.fr",
+        "id": 7082,
+        "progweb_descr": " Supported Etalab datagouvfr host French government open datasets state local authority private entity pursue public mission may upload datasets well Therefore data record conjunction public service mission type may upload system others browse data span wide array French societal information include tax demographic budget grant plan crime housing renovation tourism election agricultural data As public service group encourage share datasets innovative application may interpret data datagouvfr API require API key access HTTP call return JSON format response"
+    },
+    {
+        "progweb_cat": "Open Data,European",
+        "api_name": "OpenAIRE",
+        "id": 7182,
+        "progweb_descr": " OpenAIRE project design support Open Access Europe Open Access mean scholar instant free online access research material peerreviewed journal article conference paper assort datasets OpenAIREs HTTP API enable developer search retrieve metadata publication datasets project Full access information space publication file grant via OAIPMH API"
+    },
+    {
+        "progweb_cat": "Open Data,Classification",
+        "api_name": "HPE Haven OnDemand Text Tokenization",
+        "id": 7333,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Text Tokenization API accept list term body text return data individual term API first stem transliterates word scan large body common English work return information weight word often use English language total number document word present total number occurrence"
+    }
+]

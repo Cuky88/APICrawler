@@ -1,0 +1,50 @@
+[
+    {
+        "progweb_cat": "Compliance,Identity",
+        "api_name": "NameScan PEP & Sanction",
+        "id": 1808,
+        "progweb_descr": " This REST API enable search comprehensive list Politically Exposed Persons sanction individual entity purpose report AntiMoney Laundering compliance"
+    },
+    {
+        "progweb_cat": "Compliance",
+        "api_name": "DND Check",
+        "id": 1945,
+        "progweb_descr": " DND Check interactive Mobile Numbers Scrubbing platform filter DND Non DND Mobile Numbers online DND Check provide API integrated third party application DND Check Interested developer request API access DND Check website DND Check develop 3m Digital Networks Pvt Ltd lead Mobility Digital Services Provider Technology Company register TRAI telemarketer With DND Check Platform user filter DND NonDND number free Cost upto 01 million single click To scrub number time user subscribe pay package Features DNDCheck Hosted Cloud Secure Reliable User Friendly Affordable Less Paper Work Regular Updates All One Place On Time Support DND Check provide API integrated third party application DND Check To Get API Details please fill"
+    },
+    {
+        "progweb_cat": "Compliance,Analytics",
+        "api_name": "Revulytics",
+        "id": 2478,
+        "progweb_descr": " Revulytics API integrate software insight compliance sale market product management purpose Available HTTPS method JSON format developer refer Trackerbird former name API integration project Uses API include data report live data feed customer relationship management system"
+    },
+    {
+        "progweb_cat": "Compliance,Documents",
+        "api_name": "UCF Common Controls Hub",
+        "id": 3174,
+        "progweb_descr": " UCF Common Controls Hub API allow developer access many feature data available Common Controls Hub CCH interface allow user manage compliance document information CCH provide UCF Unified Compliance Framework company help customer quickly generate custom common control spreadsheet create custom compliance template checklist"
+    },
+    {
+        "progweb_cat": "Compliance,Authentication",
+        "api_name": "KYC SiteScan",
+        "id": 3428,
+        "progweb_descr": " KYC SiteScan allow developer automate Know Your Customer Know Your Vendor data collection reporting process API offer customer enrollment underwrite compliance automation method KYC SiteScan offer intelligent crawl prospect web presence search prohibit required content KYC SiteScan also gather information many government consumer source help client merchant processor bank company need perform due diligence customer automate way This API use JSON data exchange HTTP Basic Auth authentication"
+    },
+    {
+        "progweb_cat": "Compliance,Accounting",
+        "api_name": "OpenACH EasyOFAC",
+        "id": 4494,
+        "progweb_descr": " OpenACH South Dakota payment processing system provider EasyOFAC OFAC compliance platform feature layer fuzzy search avoid false positive Also provide real time monitor ongoing compliance guide compliance workflow This API REST base return data JSON format use API key authentication"
+    },
+    {
+        "progweb_cat": "Compliance,Crowdsourcing",
+        "api_name": "FundPaas Investor Onboarding",
+        "id": 4963,
+        "progweb_descr": " FundPaas platformasaservice leverage crowdfunding tool startups investor Investor Onboarding API register verifies investor one tool API use JSON requestsresponses HTTP method API Keys authentication Use FundPaas Investor Onboarding API manage investor ID verification accreditation antimoney laundering check See API doc detail function description code sample"
+    },
+    {
+        "progweb_cat": "Compliance,Banking",
+        "api_name": "ComplyAdvantage",
+        "id": 6849,
+        "progweb_descr": " ComplyAdvantage PEP sanction screen service check general proprietary PEP watchlists scan standard custom list global sanction It help business ensure theyre compliance regulation sanction record effort easily show due diligence ComplyAdvantage API enable developer integrate realtime data feed platform system"
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "progweb_cat": "Backend,Hosting",
+        "api_name": "CloudMine",
+        "id": 323,
+        "progweb_descr": " CloudMine backendasaservice platform remove need mobile app developer build fully custom backend solution application It offer set RESTful APIs allow developer create backend solution application Solutions include schemafree data structure storage user account creation management serverside business logic Responses format JSON"
+    },
+    {
+        "progweb_cat": "Backend,Hosting",
+        "api_name": "Google Compute Engine Instance Group Manager",
+        "id": 5912,
+        "progweb_descr": " Google Compute Engine Instance Group Manager API allow developer create manage Google Compute Engine virtual machine instance common instance template Developers use instance template define machine type image zone setting virtual machine manager create deploy give number machine new instance group"
+    },
+    {
+        "progweb_cat": "Backend,Hosting",
+        "api_name": "Google Compute Engine Autoscaler",
+        "id": 5942,
+        "progweb_descr": " Google Compute Engine Autoscaler API allow developer automatically scale Google Compute Engines virtual machine resource response vary load This allow developer support increase traffic necessary save cost use few resource demand decrease autoscaler operates base autoscaling policy define developer This service still Beta may subject backwardincompatible change"
+    },
+    {
+        "progweb_cat": "Backend,Hosting",
+        "api_name": "Google Compute Engine Instance Group Updater",
+        "id": 5984,
+        "progweb_descr": " Google Compute Engine Instance Group Updater API allow developer perform roll update instance group Google Compute Engine get zone operation resource detail This API still Beta subject change future Google Compute Engine provide developer virtual machine run Googles infrastructure"
+    },
+    {
+        "progweb_cat": "Backend,Hosting",
+        "api_name": "Bytemark BigV",
+        "id": 7902,
+        "progweb_descr": " Bytemark BigV provide virtual machine user host websites project Its virtual machine maximum 180 gigabyte RAM 16 core 16TiB storage Using Bytemark BigV API user issue REST call manage user account group privilege definition discs IPs NICs virtual machine"
+    },
+    {
+        "progweb_cat": "Backend,Hosting",
+        "api_name": "Cloud 66",
+        "id": 7951,
+        "progweb_descr": " Cloud 66 provide application stack management service allow user easily provision deploy manage application cloud Cloud 66 provide regular database backup memory usage monitoring load balance service service also offer security form firewall management DDoS Distributed Denial Service protection"
+    },
+    {
+        "progweb_cat": "Backend,Hosting",
+        "api_name": "ContinuityApp",
+        "id": 8521,
+        "progweb_descr": " ContinuityApp fully host application integration deployment service Users write code ContinuityApp run test suite deploy project service allow developer test deploy apps without worry server system administration ContinuityApp offer REST API integration ContinuityApp service API use HTTP basic authentication OAuth2 response return JSON"
+    },
+    {
+        "progweb_cat": "Backend,Hosting",
+        "api_name": "SingleHop",
+        "id": 10776,
+        "progweb_descr": " SingleHop server cloud host service They offer dedicated server private public cloud host array manage hosting service SingleHop API enable user build application interact exchange data server management ticket bill system API use REST call return JSON service require account API key access feature 150 API call"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "QuickBlox",
+        "id": 343,
+        "progweb_descr": " QuickBlox cloudhosted backend platform provide communication functionality chat video call voice chat presence notification mobile application QuickBlox also provide module power app feature user location content rating Quickblox amongst platform provide native video voice call SDKs Android iOS All module text group chat presence notification user location content rating work across platform include Web Windows Phone Blackberry Our SDKs free download use developer usage limit professional enterprise require high quality service SLAs support provide premium pay package include integration assistance"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "AngularJS",
+        "id": 1080,
+        "progweb_descr": " AngularJS platform allow developer extend static HTML vocabulary interactive content web mobile application AngularJS API allow developer access integrate functionality AngularJS application create new application Some example API method include manage account information retrieve feature send receive data"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Built.io",
+        "id": 7851,
+        "progweb_descr": " Builtio online platform build web mobile application Builtio offer variety tool feature user create build manage web mobile application Builtio API allow developer access integrate functionality Builtio application create new application Some example API method include retrieve application manage user upload feature file"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Mendix",
+        "id": 8151,
+        "progweb_descr": " Mendix mobile application building platform Mendix offer variety feature functionality build mobile application Mendix API allow developer access integrate functionality Mendix application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Telerik",
+        "id": 8174,
+        "progweb_descr": " Telerik Platform mobile application development platform combine set tool develop application multiple platform cloud service manage application lifecycle process Telerik Platform provide adaptive framework create application regardless whether application run Web native hybrid mode"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Zazler",
+        "id": 8329,
+        "progweb_descr": " Zazler backendasaservice web mobile application Zazler offer feature access multiple database one interface specify data query backend feature Zazler API allow developer access integrate functionality Zazler application create new application Some example API method include post data retrieve data manage account information"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "KidoZen",
+        "id": 8425,
+        "progweb_descr": " KidoZen mobile application backendasaservice platform KidoZen allow mobile application developer backend solution exist application build manage new application KidoZen API SDK allow developer access integrate functionality KidoZen application create new application Some example API method include manage account information manage application feature manage user"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Tambur.io",
+        "id": 8806,
+        "progweb_descr": " Tamburio provide backend message solution mobile web application Developers build application use feature message Tamburio application Tamburio API allow developer access integrate functionality Taburio application create application Public documentation available interested developer sign httpswwwtamburio"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "AppSurfer",
+        "id": 8983,
+        "progweb_descr": " AppSurfer platform allow Android application run internet browser device application Facebook Application developers publisher use AppSurfer enable application run browser application AppSurfers API allow developer access integrate functionality AppSurfer application create application Some example API method include create application manage application embed widget instal AppSurfer button"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Webinos",
+        "id": 9082,
+        "progweb_descr": " Webinos service fund European Union EU build deliver web mobile TV car crossplatform application Webinos offer tool feature developer build manage application Webinos API allow developer access integrate functionality Webinos application create new application Some example API method include authenticate application add feature application manage application"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Pixate",
+        "id": 9086,
+        "progweb_descr": " Pixate application build platform Pixate allow developer create build manage application mobile web desktop Pixate API allow developer access integrate functionality Pixate application create new application Some example API method include create feature application style application manage application"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "AnyPresence",
+        "id": 9448,
+        "progweb_descr": " AnyPresence backendasaservice BAAS create develop manage mobile application AnyPresence allow developer create application add manage application feature AnyPresence API allow developer access integrate functionality AnyPresence application create new application Public documentation available interested developer email infoanypresencecom information"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Ember",
+        "id": 9449,
+        "progweb_descr": " Ember platform allow user build manage web application Ember open source free use Ember API allow developer access integrate functionality Ember application create new application Some example API method include manage account information retrieve information managing application"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Orchestrate.io",
+        "id": 9451,
+        "progweb_descr": " Orchestrateio service allow user add feature application without use database Orchestrateio allow people add feature like location service activity feed recommendation application Orchestrateio API allow developer access integrate feature Orchestrateio application create new application Public documentation available interested developer email helloorchestrateio information"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Corona Cloud",
+        "id": 9657,
+        "progweb_descr": " Corona Cloud Corona Labs backendasaservice BAAS provider application Corona Cloud enable user developer use Corona Cloud create build manage application Corona Cloud API allow developer access integrate functionality Corona Cloud application create new application Some example API method include user authentication retrieve user information manage account information manage push notification"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "IXAPI",
+        "id": 9697,
+        "progweb_descr": " IXAPI application creation build management service IXAPI help user create application RESTful APIs application IXAPI also offer API developer access integrate within application Public documentation available interested developer email contactixapicom information"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Backlift",
+        "id": 9731,
+        "progweb_descr": " Backlift service help people create build manage website web application Backlift serve backend management system web application Backlift API allow developer access integrate functionality Backlift application create new application Some example API method include retrieve data send data manage account information"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Appery.io",
+        "id": 9779,
+        "progweb_descr": " Apperyio mobile application building management platform Users use Apperyio build manage cloud host mobile application Apperyio API allow developer access integrate functionality Apperyio build create application Some example API method include building application push data manage account information"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "OpenKit",
+        "id": 9862,
+        "progweb_descr": " OpenKit backendasaservice BaaS game developers Developers build manager game application OpenKit OpenKit offer feature cloud sync social medium authorization crossplatform support OpenKit API allow developer access game application data"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "Continuuity",
+        "id": 10525,
+        "progweb_descr": " Continuuity service help user build application base big data Continuuity offer application host cloud tool feature build application data storage Continuuity API allow developer access integrate functionality Continuuity application create new application Public documentation available interested developer sign httpwwwcontinuuitycomsignupforthebeta"
+    },
+    {
+        "progweb_cat": "Backend,Backend-as-a-Service",
+        "api_name": "mobDB.net",
+        "id": 13007,
+        "progweb_descr": " mobDB backend Push Notification Analytics service mobile application mobDB API allow developer access functionality mobDB create new application Some example API method include manage account manage user access analytics report SDK available iOS Android Java"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Parse",
+        "id": 883,
+        "progweb_descr": " Parse offer developer backendasaservice platform mobile application Developers use SDKs iOS Android persist data REST API let developer interact Parse computer arent mobile device With APIs developer webserver show data Parse website upload large amount data later consume mobile app download recent data run custom analytics"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Appercode",
+        "id": 8397,
+        "progweb_descr": " Appercode universal application platform smart device mobile phone tablet smart device Appercode allow developer unify platform across device application Appercode API allow developer access integrate functionality Appercode application create new application Public documentation available interested developer email infoappercode information"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Zubhium",
+        "id": 9345,
+        "progweb_descr": " Zubhium application management platform support Android beta distribution report support user management analytics Zubhium API provide developer interface upload Android apk file API support simple HTTP POST call require API Key"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Stream SDK",
+        "id": 9572,
+        "progweb_descr": " Stream SDK offer developer backendasaservice platform mobile application Developers use mobile web APIs store basic data type file category send push notification query data An interface design developer manage object Developers use data browser view data upload large amount data later consume mobile app download recent data run custom analytics"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "ShoutEm",
+        "id": 9776,
+        "progweb_descr": " ShoutEm provide mobile app development software ShoutEm API provide RESTful interface developer interact content store ShoutEm API responses JSON format"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "biNu",
+        "id": 9917,
+        "progweb_descr": " biNu mobile application development platform Developers use biNu build manage mobile application use biNu backend service mobile application biNu API allow developer access integrate functionality biNu create new application application Some example API method include test application publish application manage application"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Moblico",
+        "id": 10048,
+        "progweb_descr": " Moblicoâ€™s mobile engagement platform combine cloudbased backend service app developers together content communication loyalty management tool application marketer If youâ€™re building app client marketer consider try easy use developer APIs SDKs Whether exist apps market build new apps leverage backend service quickly bring market capability apps Our webbased marketing portal service enable client monitor performance app instantly communicate app user update content real time build loyalty reward program Over last two year Moblico build 300 apps platform grown support need thousand user During time platform shape demand client marketer We know developer want developer We know client want hundred Moblico API RESTful response format JSON SDKs available iOS Android"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "AppGlu",
+        "id": 10077,
+        "progweb_descr": " AppGlu platform build manage launch mobile application Companies use AppGlu create manage mobile application AppGlu API SDK allow developer access integrate functionality AppGlu application create new application Public documentation available interested developer sign httpappglucommore"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Trigger.io",
+        "id": 10081,
+        "progweb_descr": " Triggerio crossplatform app development service Companies developers use Triggerio create manage crossplatform iOS Android application HTML5 codebase Triggerio standalone build API allow developer programmatically convert HTML5 build package iOS Android apps"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Appacitive",
+        "id": 10323,
+        "progweb_descr": " Appacitive backend service BAAS provider mobile application Appacitive offer variety feature mobile application include social medium integration geolocation user management Appacitive API allow developer access integrate functionality feature Appacitive application create new application Some example API method include manage user account create content retrieving content"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Octopod",
+        "id": 10578,
+        "progweb_descr": " Octopod mobile application build backend service Users build manage mobile application variety mobile platform Octopod API allow developer access integrate functionality Octopod application build new application Public documentation available interested developer email infooctopodcom"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Sencha",
+        "id": 11202,
+        "progweb_descr": " Sencha backendasaservice BAAS provider mobile application Sencha offer backend solution mobile application building tool feature Sencha API allow developer access integrate functionality Sencha application create new application Some example API method include retrieve URLs send receive message push notification manage account information"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "API O MAT",
+        "id": 11251,
+        "progweb_descr": " apiOmat backendasaservice BAAS provider API O MAT offer various feature chat email client Facebook connection content push WordPress sync apiOmat API allow developer access integrate backend functionality apiOmat application create new application documentation offer tutorial quickstart guide API access come account service"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "FatFractal",
+        "id": 11403,
+        "progweb_descr": " FatFractal application backend service FatFractal offer web mobile application developer cloudhosted backend service application FatFractal API allow developer access integrate feature functionality FatFractal application create new application Some example API method include manage account information manage user retrieve list object"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Jibe Mobile",
+        "id": 11410,
+        "progweb_descr": " Jibe Mobile apptoapp connection service provider They provide tool create connect mobile experience peertopeer app usage This include feature video call chat file data transfer This allow player compete share increase social engagement friend Jibe Mobile API expose push notification message connection functionality It RESTful API interested developer must request access"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "iKnode",
+        "id": 11817,
+        "progweb_descr": " iKnode backendasaservice platform iKnode allow user create backend application either web mobile iKnode API allow developer access integrate functionality iKnode application create new application Some example API method include manage account information retrieve space information access user information"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Kony",
+        "id": 12054,
+        "progweb_descr": " Kony mobile application development service Kony help customer build mobile application well host mobile application provide backend solution mobile application Kony API allow developer access integrate functionality Kony application create new application Some example API method include synching data manage user information manage event Public documentation available interested developer sign information"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Applicasa",
+        "id": 12207,
+        "progweb_descr": " Applicasa server side solution let developer build backends mobile apps Applicasas offer drag drop interface database creation allow backend build minute Applicasa API contain CRUD function filter page sort query push notification schedule API call option Responses format JSON"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "Precog",
+        "id": 12700,
+        "progweb_descr": " Precog application build platform Precogs APIs allow developer access functionality Precog build support store analyze feature applications Some API method include manage job user account management retrieving list specify path"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "CloudyRec",
+        "id": 12851,
+        "progweb_descr": " CloudyRec cloudhosted backend solution mobile application Users CloudyRec create manage deploy mobile application CloudyRec web API allow developer access integrate functionality data CloudyRec application create new application CloudyRec offer sandbox API production API Some example API method include manage app resource create resource listing resource"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "FeedHenry",
+        "id": 12852,
+        "progweb_descr": " FeedHenry mobile application backend management platform Users FeedHenry create manage host deploy mobile application FeedHenry solution FeedHenry cloudhosted platform FeedHenry API allow developer integrate functionality data FeedHenry application create new application FeedHenry offer cloud ondevice APIs Some example API method include save object cache parse string JavaScript object read RSS feed link"
+    },
+    {
+        "progweb_cat": "Backend,Mobile",
+        "api_name": "StackMob",
+        "id": 13726,
+        "progweb_descr": " StackMob offer complete backend stack developer mobile application It enable developer implement custom API store retrieve data write custom code integrate key service like push notification social integration RESTful API currently private beta documentation publicly available"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "mydigitalstructure",
+        "id": 966,
+        "progweb_descr": " mydigitalstructure web application building service mydigitalstructure provide backendasaservice website web application mydigitalstructure API allow developer access functionality method mydigitalstructure API include 500 method range manage contact full accounting functionality"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "Everlive",
+        "id": 8265,
+        "progweb_descr": " Everlive set cloudbased backend service building manage mobile apps These primarily include data storage user management servercode execution function Everlive also send push notification Apple Android Windows mobile device Social share feature enable end user share Everlivebased apps Facebook Google popular social network Everlive REST API allow developer access Everlives service programmatically"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "App/nima",
+        "id": 8275,
+        "progweb_descr": " Appnima platform application development platform use REST API assist developer create efficient project Appnima offer service user management realtime communication user social network push notification Services free certin number user application Authentication provide via OAuth 2"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "Broadstack",
+        "id": 8376,
+        "progweb_descr": " Broadstack enable developer append service application create stack Broadstack add oneclick addons Broadstack provide webhook contain new configuration detail require connect application addons Broadstack API aim developer provision addons It allow retrieve list stack instal give addon get information specific stack instal addon update config variable provision resource"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "TrueVault",
+        "id": 8398,
+        "progweb_descr": " TrueVault BackendasaService BaaS platform design provide HIPAA compliant information storage healthcare application Any app handle protect health information PHI must HIPAA compliant TrueVault handle requirement security compliance entail developer behalf Data store TrueVault secure still accessible anywhere developer need TrueVault willing able assume responsibility data breach regulatory fine occur watch TrueVault API allow user store retrieve information programmatically via REST call"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "Good Technology Good Dynamics Shared Service Framework",
+        "id": 8598,
+        "progweb_descr": " Good Dynamics Shared Services Framework set APIs allow application device securely interact share capability print email file share This allow mobile worker complete complex task securely without constantly switch application Shared Services Framework also use create unique service eg connect service popular CRMs apps use"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "OpenLabels",
+        "id": 9109,
+        "progweb_descr": " OpenLabels free database label appmakers use instead cod label Examples label database include firstname lastname address email address user name password invalid password etc OpenLabels database content query update download use REST call issue HTML XML JSON format"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "Point.io",
+        "id": 9186,
+        "progweb_descr": " Pointio enable organization develop maintain mobile apps Pointioâ€™s platform enable employee partner customer access unstructured data various place source Documents source mobile device public cloud storage provider like Box Dropbox well behindthefirewall repository like MS SharePoint IBMâ€™s Filenet EMCâ€™s Documentum one common API"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "Backendless",
+        "id": 9306,
+        "progweb_descr": " Backendless cloud backend platform enable developer create apps without server cod utilize programmable service supply standard server function follow support feature user management relational data push notification publishsubscribe message geolocation videoaudio record live streaming server file service function service available API Company publish SDKs popular environment iOS Android JavaScript ActionScript Windows Phone REST Some API feature app versioning support video record live streaming server filter publishsubscribe message host website apps flexair client support"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "Xamarin",
+        "id": 10144,
+        "progweb_descr": " Xamarin web mobile application building platform Xamarin allow developer build manage crossplatform application Xamarin API allow developer access integrate functionality Xamarin application build application API method include manage application retrieve application data push content"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "CloudWork",
+        "id": 10432,
+        "progweb_descr": " CloudWork integration service platform iPaaS allow anyone build connection business social medium apps As result business able automate repetitive task receive important notification single feed CloudWork save time increase productivity click CloudWork take lightweight approach integration It pair affordable cloudbased integration tool exponentially grow library SaaS APIs It instantly connect data previously siloed cloud apps Google Apps Zoho Highrise Capsule CRM Zendesk Freshbooks MailChimp Salesforce Deskcom Campaign Monitor Twitter etc automate crucial business process deliver notification need CloudWork offer large catalogue prebuilt try tested integration No technical skill big upfront investment complicate setup require"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "MobileIgniter",
+        "id": 11239,
+        "progweb_descr": " MobileIgniter app development platform It also help build mobile apps Websites brand developer others customize apps use MobileIgniter template Features Twitter integration push notification statistics social medium share allow user scope function app MobileIgniter offer API developer able deploy code apps"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "Appcelerator",
+        "id": 11803,
+        "progweb_descr": " Appcelerator lead enterprisegrade crossplatform development solution power 30000 cloudconnected application across mobile desktop web platform Appcelerators lead product Titanium mobile cloud platform enable fully native crossplatform mobile app HTML5 web development single codebase Appcelerator Cloud Services ACS provide number data storage web service user logins photo uploads checkins status update push notification API use RESTful call response JSON"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "Meteor",
+        "id": 12754,
+        "progweb_descr": " Meteor service allow user build web application Some feature Meteor include application interoperability data synchronization live page update Meteor API allow developer access functionality Meteor build new application Some example API method include content publish manage account manage session"
+    },
+    {
+        "progweb_cat": "Backend,Applications",
+        "api_name": "Kinvey",
+        "id": 13140,
+        "progweb_descr": " Kinvey enable developer setup use operate cloud backend mobile application Servers maintenance scale take care Kinveys backendasaservice architecture Kinveys APIs libraries enable developer focus develop application without spending time craft custom backend solution Kinveyss service include data store accommodate nest data structure type value advanced query cloudbacked storage medium functionality track leverage user data Kinvey provide detailed SDKs iOS Android well RESTbased API HTML5 platform"
+    },
+    {
+        "progweb_cat": "Backend,Platform-as-a-Service",
+        "api_name": "AppFog",
+        "id": 1078,
+        "progweb_descr": " AppFog Portlandbased company serve platformasaservice provider launch cloudbased apps service open source site strives web app development AppFog API require account use current AppFog service API use REST call allow access integrate data check AppFog platform"
+    },
+    {
+        "progweb_cat": "Backend,Platform-as-a-Service",
+        "api_name": "AT&T mHealth Platform",
+        "id": 12826,
+        "progweb_descr": " mHealth Platform support building run complete endtoend health solution consumer It enable developer create solution leverage data acquisition management source include device application clinical trial With API developer access host share data across application authorize user Full documentation yet available"
+    },
+    {
+        "progweb_cat": "Backend,Analytics",
+        "api_name": "SpaceDog",
+        "id": 1527,
+        "progweb_descr": " SpaceDog API offer cloudbased backend allow business focus application design user experience feature instead server administrative service Developers authenticate authorize user save search data update push content deploy publish resource SpaceDog API use JSON response"
+    },
+    {
+        "progweb_cat": "Backend,Analytics",
+        "api_name": "Applause Analytics",
+        "id": 8181,
+        "progweb_descr": " Applause analytics tool measure mobile app quality user satisfaction Applause grade apps across ten attribute enable company compare apps version version competition Applause API provide developer access analytics platform API able search apps deliver descriptive factual information review aggregate Applause statistic give app"
+    },
+    {
+        "progweb_cat": "Backend,Data",
+        "api_name": "Zaphod",
+        "id": 2609,
+        "progweb_descr": " Zaphod API Clojures immutable data API use function bind operator JavaScripts data structure However developer dont know Clojure make use API Zaphod essentially set JavaScript function work immutable data Developers get Zaphod npm CDN"
+    },
+    {
+        "progweb_cat": "Backend,Data",
+        "api_name": "Hubify",
+        "id": 11030,
+        "progweb_descr": " Hubify service allow developer create APIs website Hubify also allow user connect hubs data application help build application APIs Public documentation available interested developer sign httphubifycom"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "Skygear",
+        "id": 3391,
+        "progweb_descr": " Skygear provide backend integrate functionality application chat push notification user management geolocation sync capability bots Additionally Skygear offer deployment data storage reusable plugins developer need start scratch build application like social platform messenger bot price Skygear offer 3 hosting plan free option available well"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "Kuzzle",
+        "id": 4093,
+        "progweb_descr": " Kuzzle backend design application development This platform use create IoT application game business orient application mobile application Kuzzle API REST base exchange information JSON format use Tokens authentication Kuzzle base Montpellier France"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "BaasBox",
+        "id": 4644,
+        "progweb_descr": " With BaasBox API developer integrate backend solution mobile application open source interface provide JSON REST format accessible Api Key Additional resource include console plugin engine user case BaasBox offer backend service mobile application"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "Xamarin Unified",
+        "id": 4982,
+        "progweb_descr": " Xamarin Unified API allow share code Mac iOS system target apps 32 bit 64 bit Available format include JSON REST SOAP XML Api Key authentication method Xamarin specialize mobile app development Additional company service include Xamarin Test Cloud Xamarin Insights Xamarin University"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "Appstax",
+        "id": 5107,
+        "progweb_descr": " Appstax API provide scalable backend incorporate different service host signup code This REST API respond JSON format Developers need familiar Appstaxs Command Line Interface tool Admin Web UI Appstax let developer define data model"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "DreamFactory Live",
+        "id": 5856,
+        "progweb_descr": " DreamFactory free open source REST API platform run cloud premise Singleclick installers available Infrastructure Service IaaS Platform Service PaaS cloud vendor You also run DreamFactory Linux Windows Mac desktop computer software package include complete LAMP Stack PHP dedicate SQL database instal server A free host developer sandbox environment also available"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "OpenCPU",
+        "id": 7390,
+        "progweb_descr": " OpenCPU provide embedded scientific computing service available public server alternatively user download host OpenCPU API act middle layer interface R software program language statistical compute API work language framework handle HTTP"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "Pretzil",
+        "id": 8224,
+        "progweb_descr": " Pretzil website API mobile application suite leverage cloudbased database connect smartphone user mobile apps Pretzil API enable developer ping Pretzil data describe device app use Pretzil use data enrich app ranking provide developer increase exposure analytics"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "Nive",
+        "id": 8757,
+        "progweb_descr": " Nive hosting platform publishing environment web application Easily integrate development component web service click Services include user account management access permission website cms Nive offer number API function access Nive service API function call http request directly use javascript library Responses return JSON API function include DataStorage Useraccoutns Website cm HTML application"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "backbeam",
+        "id": 8781,
+        "progweb_descr": " BackBeam fullstack backend platform web mobile developer Backbeam provide hosted database push notification realtime API personalize email statistic security user authentication backbeam REST API support JSON JSONP use custom authorization system similar OAuth API key require"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "topoos",
+        "id": 8784,
+        "progweb_descr": " Topoos offer service develop location base contextaware application Topoos provide piece core feature need focus effort create great app Services feature include location proximity access geographic information user authentication information storage Topoos offer REST API programmatic access service An API key require"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "Runscope",
+        "id": 9221,
+        "progweb_descr": " Built support modern application development lifecycle Runscope suite developer tool allow user debug test share HTTP REST API call Runscope API provide developer programmatic access data Runscope account API accept request send HTTPS return JSON format data support OAuth2 authentication"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "ShepHertz App42 Cloud",
+        "id": 10224,
+        "progweb_descr": " ShepHertz Technologies App42 Cloud RESTful API service build support app development irrespective environment App42 render technical business service Cloud APIs across major platform languages API call response may JSON XML format"
+    },
+    {
+        "progweb_cat": "Backend,Application Development",
+        "api_name": "30Loops",
+        "id": 11460,
+        "progweb_descr": " 30Loops infrastructure development platform web service Its feature support simplification web app deployment It provide tool build backend software host infrastructure scale vertically horizontally 30Loops also provide usage metric analytics 30Loops API expose integration functionality developer connect various backend resource deployment tool It RESTful API return JSONencoded data"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Sidecar Event",
+        "id": 4424,
+        "progweb_descr": " Sidecar cloud service Internet Things application It use backend wearable software infrastructure Event API use send receive event data wearable sensor Sidecar offer 3 pricing plan one testing purpose This API REST base use Access Keys Shared Secret Keys authentication Sidecar develop wearable device help people optimize health decision"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Sidecar Provision",
+        "id": 4425,
+        "progweb_descr": " Sidecar cloud service Internet Things application It use backend wearable software infrastructure Provision API use manage application user group notification access key device Sidecar offer 3 pricing plan one testing purpose This API REST base use Access Keys Shared Secret Keys authentication Sidecar develop wearable device help people optimize health decision"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Sidecar Query",
+        "id": 4426,
+        "progweb_descr": " Sidecar cloud service Internet Things application It use backend wearable software infrastructure Query API complement Event API provide analytics data Sidecar offer 3 pricing plan one testing purpose This API REST base use Access Keys Shared Secret Keys authentication Sidecar develop wearable device help people optimize health decision"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Codenvy",
+        "id": 7487,
+        "progweb_descr": " Codenvy provide cloudbased service include public cloudbased workspace private enterprise cloud It provide facility quickly launch project embed distribute environment Codenvy API give developer extensive access platform feature These include ability create manage retrieve information instance project organization factory user"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "BetterServers",
+        "id": 7730,
+        "progweb_descr": " BetterServers provide user fast cloud server deploy less ten second Users may deploy whatever number server need one one thousand BetterServers come API used provision manage delete data center resource server instance"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "AT&T M2X",
+        "id": 8008,
+        "progweb_descr": " ATTs M2X provide data storage device provisioning service help people build M2M machinetomachine application Developers connect device use ATTs reliable secure worldwide network From M2X developer portal user centrally manage data source notification well find tutorial client library documentation M2X REST API"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "City Cloud City Network Control Panel",
+        "id": 8406,
+        "progweb_descr": " City Cloud provide InfrastructureasaService IaaS form virtual server Users choose hardware profile operate system pay hour whatever resource allocate Servers create little 30 second scale need City Network Control Panel interface City Cloud user create manage server user group SOAP APIs available Control Panel give developer programmatic control authentication online backup City Cloud service server users account invoice setting etc"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Tiktalik",
+        "id": 8670,
+        "progweb_descr": " Tiktalik dedicate host platform developer Tiktalik service include Tiktalik Computing reliable scalable platform virtual server Tiktalik Files offer safty high availability file Tiktalik Load Balancer high availability scalability service Tiktalik offer access load balance compute cloud service via REST API An API key require"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "VoxImplant",
+        "id": 8696,
+        "progweb_descr": " VoxImplant realtime communication cloud platform developer VoxImplant platform customizable JavaScript call control engine web SDK API allow developer modify account setting make call VoxEngine API able manage resource user rule scenarios account phone number callerIDs SIP white list"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "MiniCloud",
+        "id": 8733,
+        "progweb_descr": " MiniCloud provide cloudbased host service scale depend site traffic Users pay use give full control network option program language custom error page MiniClouds web console To enhance security compute environment isolate public network Users choose run site multiple data center different geographic location increase performance reduce downtime even extreme weather power outage"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Siteleaf",
+        "id": 8764,
+        "progweb_descr": " Siteleaf service allow developer manage website cloud Users develop template locally use Siteleaf template build HTML Liquid Websites test locally use data live sit user invite others come edit review website All site data permanently archive independently service Siteleaf user access data integration sit apps via JSONRPC API"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "GleSYS",
+        "id": 8809,
+        "progweb_descr": " GleSYS Cloud VPS Virtual Private Server flexible scalable cloudbased server platform Users provide full root access server create delete server instantly Cloud VPS flexible enough handle IPv4 IPv6 address well perform server upgrade downgrade without need restart cloud server access programmatically use REST call variety data format GleSYS website provide English Swedish"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "ComputeNext",
+        "id": 8936,
+        "progweb_descr": " ComputeNext cloud technology company provide cloud service brokerage platform allow user discover deploy cloud service single valueadded marketplace ComputeNext API provide developer interface discover utilizing Infrastructure Service IaaS grow selection public cloud provider This REST API allow developer access control functionality provider"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "InsynQ",
+        "id": 9208,
+        "progweb_descr": " InsynQ provide business cloudbased host apps It one first cloud compute company form currently host 300 application One InsynQs service SSIT Self Serve IT manage account information user application bill subscription SSIT remotely accessible via API detail API currently public"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Cloudbase.io",
+        "id": 9241,
+        "progweb_descr": " Cloudbaseio backend management service mobile developer take care relational nonrelational data storage require applicationâ€™s data Shared API functionality allow developer turn mobile app platform share data application cloudbaseio developer Cloudbaseio offer set RESTful APIs developer API function include data registerdevice cloudfunction applet log lognavigation notification email paypal sharedapi Supported output format include JSON XML"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Nimbus Phantom",
+        "id": 9251,
+        "progweb_descr": " Nimbus Phantom service simplifies management ondemand resource across multiple infrastructure cloud Phantom monitor available resource automatically provision configure new one need counteract failure cater increase demand It use supplement local resource cloud resource deploy virtual machine across multiple cloud Nimbus Phantom currently use Openstack AWS EC2 Nimbus cloud capable work infrastructure cloud support Apache Libcloud Phantoms function access programmatically use REST call issue JSON"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "enstratius",
+        "id": 9688,
+        "progweb_descr": " Enstratius provide suite tool help enterprise manage cloud infrastructure It support provision management automation application lead public private cloud Enstratius available either softwareasaservice onpremises software Enstratius RESTful API enable customer make authenticated call Enstratius exist application thirdparty tool"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Opscode Chef Server",
+        "id": 9689,
+        "progweb_descr": " Chef Server opensource system integration framework build specifically automate cloud It use configuration management cloud management continuous delivery Chef enable user model infrastructure code easily consistently configure deploy infrastructure across platform Over 800 reusable cookbook provide automate infrastructure Chef Server API use provide access object Chef Server include nodes environment roles cookbook It also use manage API client list associate RSA public keypairs"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Enginio",
+        "id": 9693,
+        "progweb_descr": " Enginio backendasaservice solution simplifies backend development connect datadriven application Enginio manage application data object store additional information include unique ID assort property object type Objects also group collection link together via object reference Developers use Enginio API create read update delete object"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Syncloud",
+        "id": 10876,
+        "progweb_descr": " SynCloud multiuser sync service add iOS CoreData application APi free beta development An account require use service API package need download"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Amazon Auto Scaling",
+        "id": 10945,
+        "progweb_descr": " service supplement provider CloudWatch Elastic Load Balancing service scale virtual server resource response traffic resource schedule system performance status It automatically launch terminates instance provider cloud platform flexible response system condition either detect preset API method support definition resource grouping assignment processing capacity accord policy set beforehand match system response condition detect Methods also support gather processing system performance metric definition system response policy base metric API allow notification base defined system event condition"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "CloudBees HTTP",
+        "id": 10982,
+        "progweb_descr": " CloudBees Java Platform Service support customer throughout development lifecycle Developers use CloudBees build run manage Java application cloud CloudBees HTTP API allow customer automate platform"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "dotCloud",
+        "id": 11199,
+        "progweb_descr": " DotCloud service deploy manage scale web application Sandbox apps free user may add many service want Live application run separate cluster monitor 247 dotCloud operation team Developers may build custom application stack combine powerful preconfigured cloud service A SOAPbased API make dotCloud accessible programmatically integrated application service"
+    },
+    {
+        "progweb_cat": "Backend,Cloud",
+        "api_name": "Kii Cloud",
+        "id": 13027,
+        "progweb_descr": " Kii Cloud cloudhosted backend solution provider mobile application Features Kii Cloud include user management application monetization analytics reporting tool Kii Cloud API allow developer access integrate functionality Kii Cloud application create new application Some example API method include manage user account manage data medium request ad"
+    },
+    {
+        "progweb_cat": "Backend,Messaging",
+        "api_name": "Bit6 Authentication",
+        "id": 4813,
+        "progweb_descr": " Bit6 Authentication API add communication orient platform exist application Authentication API provide several authorization method include password OAuth2 phone number This REST API respond JSON format Bit6 base Houston develop communication integration module"
+    },
+    {
+        "progweb_cat": "Backend,Messaging",
+        "api_name": "Bit6 App",
+        "id": 4814,
+        "progweb_descr": " Bit6 App API add communication orient platform exist application App API use client server communication SDKs This REST API respond JSON format us OAuth2 Bit6 base Houston develop communication integration module"
+    },
+    {
+        "progweb_cat": "Backend,Messaging",
+        "api_name": "Bit6 Backend",
+        "id": 4815,
+        "progweb_descr": " Bit6 Backend API add communication orient platform exist application Backend API use implement developer application server Bit6 This REST API respond JSON format us OAuth2 Bit6 base Houston develop communication integration module"
+    },
+    {
+        "progweb_cat": "Backend,Messaging",
+        "api_name": "TextIt",
+        "id": 7906,
+        "progweb_descr": " TextIt service build SMS application It design help people programmer create modify SMS application use visual interactive Flow engine Once create user launch application country use Android phone TextIts REST API allow user access Android relayers outside application Specifically user handle contact create new message manage Android phone manage call list active flow start flow run"
+    },
+    {
+        "progweb_cat": "Backend,Messaging",
+        "api_name": "CloudMQTT",
+        "id": 7915,
+        "progweb_descr": " CloudMQTT provide user access MQTT machinetomachine protocol protocol lightweight design embed system mobile application sensor CloudMQTT API allow developer programmatically manage user access ACL Access Control List rule via REST call"
+    },
+    {
+        "progweb_cat": "Backend",
+        "api_name": "Kemp Technologies LoadMaster",
+        "id": 5549,
+        "progweb_descr": " This API KEMP Technologies facilitate remote access LoadMaster load balance application LoadMaster RESTful use standard HTTP GET request return XML API authenticate via HTTP Basic Auth Use LoadMaster modify Virtual Services enabledelete Real Servers"
+    },
+    {
+        "progweb_cat": "Backend",
+        "api_name": "100TB",
+        "id": 7747,
+        "progweb_descr": " 100TB premium web server host service feature fullyautomated dedicated server They specialize provide ondemand scalablebandwidth server network All server use Intel processor run Cisco equipment There multiple data center location choose support available time Users manage server bill information programmatically via API"
+    },
+    {
+        "progweb_cat": "Backend",
+        "api_name": "UpCloud",
+        "id": 9075,
+        "progweb_descr": " UpCloud european base Infrastructureasaservice company provide server deployment bill base hour use UpCloud API enable user perform server resource management programmatically communicate UpCloud Control Panel mobile application API allow user automate server resource management An account required service detail API documentation available login user control panel site search"
+    },
+    {
+        "progweb_cat": "Backend",
+        "api_name": "Kickfolio",
+        "id": 9899,
+        "progweb_descr": " Kickfolio service help developer build test market sell application Kickfolio API allow developer build manage mobile tablet web application Developers manage version application upload new version go"
+    },
+    {
+        "progweb_cat": "Backend",
+        "api_name": "Carriots",
+        "id": 10030,
+        "progweb_descr": " Carriots platform help people build application internet Users connect object data Carriots start building application create trigger script rule Carriots External API allow client application communicate Carriots platform easily via REST call"
+    },
+    {
+        "progweb_cat": "Backend",
+        "api_name": "Google Compute Engine",
+        "id": 11878,
+        "progweb_descr": " Google Compute Engine service provide virtual machine run Google infrastructure service allow user launch large compute cluster Googles infrastructure Google Compute Engine API provide user interface interacting resource These resource include project instance network firewall disk API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Backend,Images",
+        "api_name": "Vuforia Web Services",
+        "id": 7748,
+        "progweb_descr": " Vuforia appbuilding service allow user create highly interactive augment reality application include 3D graphic touch video audio feature Vuforia include cloudbased recognition system design identify object store user cloud database Developers add manage target cloud database use Vuforia Web Services API VWS API"
+    },
+    {
+        "progweb_cat": "Backend,Customer Relationship Management",
+        "api_name": "MaxCDN",
+        "id": 7943,
+        "progweb_descr": " MaxCDN content delivery network serve high data utilizer operate advertising game CMS region MaxCDN API allow user access feature MaxCDN account Possible call include manipulate account user zone report client feature API use REST call return JSON OAuth use authentication An account required service"
+    },
+    {
+        "progweb_cat": "Backend,Domains",
+        "api_name": "Domeny.tv",
+        "id": 7960,
+        "progweb_descr": " Domenytv Polish website registration management service manage thousand sit polish speaking customer customer across world Domenytv API offer full range feature include registration renewal management others An account required service full test environment available use go live thirdparty application interface"
+    },
+    {
+        "progweb_cat": "Backend,Domains",
+        "api_name": "Pointer.gr",
+        "id": 7962,
+        "progweb_descr": " Pointergr Greek web host Domain service offer domain host reseller host web host cloud server stream SSL web designer service Pointergr API allow user offer client mass registration renewal registrar change registrar transfer domain name service Shared hosting service An account required service"
+    },
+    {
+        "progweb_cat": "Backend,Backup",
+        "api_name": "Idera",
+        "id": 7974,
+        "progweb_descr": " Idera major provider application server management software Service Provider License Agreement SPLA allow Ideras partner offer customer server backup service Ideras server backup manager include multitenant capability flexible monthly pricing integration popular control panel SOAP API use integrate billing enhance automation customize end user experience"
+    },
+    {
+        "progweb_cat": "Backend,URLs",
+        "api_name": "Ahrefs",
+        "id": 8086,
+        "progweb_descr": " Ahrefs web explorer use verify link validity service update every 15 minute include tool show link domain anchor top page within domain Ahrefs API offer free service pay service Using REST call user make call retrieve backlinks data API also expose Ahrefs interface integrate third party application An account required service"
+    },
+    {
+        "progweb_cat": "Backend,Localization",
+        "api_name": "Locality",
+        "id": 8258,
+        "progweb_descr": " Locality site dedicate expand web development South Africa around world Locality API allow user get Autonomous System Numbers register South African company get South African IP route list domain DNS record point towards South African IP address API use REST call return JSON An account required service"
+    },
+    {
+        "progweb_cat": "Backend,Loyalty",
+        "api_name": "Gamify.WS",
+        "id": 8290,
+        "progweb_descr": " GamifyWS RESTful web service allow developer gamify anything everything Gamification application game mechanic nongame contexts GamifyWS use engage user reward user motivation build loyal community API use manage user action reward event leaderboards much"
+    },
+    {
+        "progweb_cat": "Backend,Storage",
+        "api_name": "Plus.io",
+        "id": 8309,
+        "progweb_descr": " Plusio application development platform allow create collection application online access via RESTful API Use functionality API insert view data store within Plusio App Engine API method include Structure Get Add Update Delete Requests return JSON"
+    },
+    {
+        "progweb_cat": "Backend,Content Management",
+        "api_name": "Twinword Category Recommendation",
+        "id": 8358,
+        "progweb_descr": " Classify recommend highly related category ecommerce us"
+    },
+    {
+        "progweb_cat": "Backend,Social",
+        "api_name": "Amplifier",
+        "id": 8367,
+        "progweb_descr": " Amplifier provide user account packagist Amplifier extension Facebook PHP SDK It design cut development time task like whether person liked page provide support particular extend permission API information available user account Packagist host github"
+    },
+    {
+        "progweb_cat": "Backend,Social",
+        "api_name": "Bynd",
+        "id": 8714,
+        "progweb_descr": " Byndio backend service platform build social mobile site apps Bynd REST API provide ability programmatically write read update delete object API manage social network authentication location service content curation much"
+    },
+    {
+        "progweb_cat": "Backend,Social",
+        "api_name": "Embarke",
+        "id": 10812,
+        "progweb_descr": " Embarke provide developer tool social communication deliver backend conversation platform capable power multiple communication platform allow company focus product Embarke REST API expose six resource user network account conversation message contact"
+    },
+    {
+        "progweb_cat": "Backend,Testing",
+        "api_name": "OctopusDeploy",
+        "id": 8370,
+        "progweb_descr": " OctopusDeploy automate deployment system NET scale deployment range size deploy handful server large installation deploy hundred project hundred server OctopusDeploy API use REST call return JSON largely readonly aside couple call An account required service"
+    },
+    {
+        "progweb_cat": "Backend,Banking",
+        "api_name": "Social Money CorePro",
+        "id": 8543,
+        "progweb_descr": " CorePro saving account core processing platform Social Money allow prepay card company merchant PFM payroll company startups integrate saving account online mobile solution Platform capable accrue pay interest generate monthly electronic statement electronically submit 1099s IRS CorePro REST API allow customer application incorporate FDICinsured save account include issue account initiate ACH transfer user"
+    },
+    {
+        "progweb_cat": "Backend,Authentication",
+        "api_name": "UserApp",
+        "id": 8576,
+        "progweb_descr": " UserApp provide user management authentication service It handle user login permission storage signups payment Some feature available near future include ability export user data host data one server Developers access UserApps function directly online programmatically via API"
+    },
+    {
+        "progweb_cat": "Backend,Authentication",
+        "api_name": "LinuxFr.org",
+        "id": 10440,
+        "progweb_descr": " service provide Open Authentication base credential user account provider service An application register provider define access credential service allow access private account information completion action behalf account In way avoids need create multiple user account disclose personal information access separate service API method support obtain authorization token account register provider validate account status authenticate application resubmit token string access user register authentication credential"
+    },
+    {
+        "progweb_cat": "Backend,Monetization",
+        "api_name": "NativeX",
+        "id": 8738,
+        "progweb_descr": " NativeX application creation management backendasaservice provider Users developer build manage promote monetize application NativeX NativeX API allow developer access integrate monetization feature NativeX applications Some example API method include create session claim offer redeem currency"
+    },
+    {
+        "progweb_cat": "Backend,Visualizations",
+        "api_name": "logentries",
+        "id": 8826,
+        "progweb_descr": " Logentries allow user harness power log data convert actionable insight Logentries collect log data analyzes data realtime automatically create visualization securely store data cloud Logentries provide API automate log downloads Accessible via HTTP GET call API require account key return JSON format response"
+    },
+    {
+        "progweb_cat": "Backend,Algorithms",
+        "api_name": "Algorithms.io",
+        "id": 9246,
+        "progweb_descr": " Algorithmsio cloud service use machine learn algorithms deliver predictive analytics business size Customers simply upload data select run algorithm receive JSON format response Algorithmsio expose workflow REST API allow developer embed algorithms application API support HTTP GETPOSTDELETE call allow application manage datasets job account balance"
+    },
+    {
+        "progweb_cat": "Backend,Internet of Things",
+        "api_name": "Xively",
+        "id": 9387,
+        "progweb_descr": " Xively Platform Service PaaS Internet Things refers virtual representation realworld object connection platform design make easy connect device data people place To end provide message data archive provision directory service These function accessible programmatically Xively API"
+    },
+    {
+        "progweb_cat": "Backend,Scheduling",
+        "api_name": "EasyCron",
+        "id": 9400,
+        "progweb_descr": " EasyCron tool schedule call specify URLs time time interval Registered user manage job set accord timezone Premium user also receive email notification job execution view execution log job EasyCron API allow user manage job without log EasyCron website API take RESTful call respond JSON format"
+    },
+    {
+        "progweb_cat": "Backend,Tools",
+        "api_name": "THIL",
+        "id": 9792,
+        "progweb_descr": " THIL host intelligence layer host script offline schedule use When script call THIL run put away Rather pay keep dedicated server run time users pay millisecond script actually run THIL available time access programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Backend,Tools",
+        "api_name": "Scotty App",
+        "id": 12827,
+        "progweb_descr": " Scotty App backend management service mobile application Scotty App host cloud With Scotty App user add feature application choose create model application Scotty App API allow developer access integrate functionality data Scotty App application create new application Some example API method include user management retrieve list apps organization create new user organization application"
+    },
+    {
+        "progweb_cat": "Backend,SDK",
+        "api_name": "Groovy enVironment Manager",
+        "id": 9815,
+        "progweb_descr": " Groovy enVironment Manager GVM help user manage parallel version software development kit SDKs Unixbased system It provide commandline interface instal switch remove list candidate Although GVM APIâ€™s primary purpose work GVM clientside bash script also use client"
+    },
+    {
+        "progweb_cat": "Backend,Enterprise",
+        "api_name": "Mobeelizer",
+        "id": 10337,
+        "progweb_descr": " Mobeelizer cloud sync solution mobile application Developers use Mobeelizer synchronize data binary file mobile device mobile web mobile desktop Mobeelizer API allow developer access integrate functionality Mobeelizer application create new application Some example API method include manage user account retrieve synchronization detail set synchronization"
+    },
+    {
+        "progweb_cat": "Backend,Design",
+        "api_name": "TastyPie",
+        "id": 10660,
+        "progweb_descr": " Django python web framework encourage rapid development pragmatic design Tastypie API framework create powerful customizable REST style interface Django API use REST call retrieve manipulate data service include serialized format include JSON XML YAML bplist"
+    },
+    {
+        "progweb_cat": "Backend,Subscriptions",
+        "api_name": "SaaSy",
+        "id": 11001,
+        "progweb_descr": " Saasy allinone subscription recur bill ecommerce solution company sell downloadable software SaaSy provide host subscription order page customize look like exist website API expose functionality include Get Subscription Update Subscription Cancel Subscription Renew OnDemand subscription API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Backend,Caching",
+        "api_name": "Amazon ElastiCache",
+        "id": 11237,
+        "progweb_descr": " Amazon ElastiCache web service allow developer deploy operate scale inmemory cache cloud Using ElastiCache developer retrive information inmomory cache system oppose diskbased database API provide functionality allow user launch Cache Cluster select Cache Cluster Name Cache Node Type Number Nodes best suit node If additional capacity need user add Cache Nodes Cache Cluster via API API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Backend,Management",
+        "api_name": "Emergent One",
+        "id": 11994,
+        "progweb_descr": " Emergent One API building creation management platform Customers build create APIs Emergent One Emergent One offer developer development portal API documentation API analytics API management service"
+    },
+    {
+        "progweb_cat": "Backend,Management",
+        "api_name": "Axle",
+        "id": 12218,
+        "progweb_descr": " API Axle API management host solution API Axle also offer API user access use API Axle API allow developer access integrate functionality data API Axle application create new application APIs Some example API method include manage API key list statistic retrieve list"
+    },
+    {
+        "progweb_cat": "Backend,Management",
+        "api_name": "APIphany",
+        "id": 12219,
+        "progweb_descr": " APIphany API management host platform APIphany offer user API management API statistic information API test API monitoring APIphany offer developer portal console API test build creation monitoring Developers manage API account information functionality"
+    },
+    {
+        "progweb_cat": "Backend,Accounts",
+        "api_name": "Accthub",
+        "id": 12517,
+        "progweb_descr": " Accthub service act account management system app builder It use store mange user account information credential address metadata Among information store include user email address hash password full name langage timezone gender company website URL API give user access full functionality service API use RESTful call response format JSON"
+    }
+]

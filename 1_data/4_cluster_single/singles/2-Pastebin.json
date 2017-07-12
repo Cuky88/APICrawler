@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Pastebin,Search",
+        "api_name": "SkidPaste",
+        "id": 4335,
+        "progweb_descr": " SkidPaste API allow user programmatically search paste get random quote paste retrieve quote paste ID retrieve paste submit quote submit paste SkidPaste service allow user store plain text snippet either publicly privately later use"
+    },
+    {
+        "progweb_cat": "Pastebin,URLs",
+        "api_name": "Binbox",
+        "id": 9182,
+        "progweb_descr": " Binbox pastebin let user earn money time someone visit one paste All paste store Binbox encrypt use password decrypt use special URL include password In way paste encrypt decrypt without people Binbox ever know password content paste Binbox API allow user make money referral When others make paste via user API URL user receive percentage earnings visit others paste"
+    }
+]

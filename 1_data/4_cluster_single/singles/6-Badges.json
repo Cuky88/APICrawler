@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Badges,Games",
+        "api_name": "GetBadges",
+        "id": 1565,
+        "progweb_descr": " GetBadges motivation system team transforms everyday work activity game gamification This API help build synergy workflow via gamification experience keep team motivated increase productivity cooperation creativity collaboration ultimately enhance employee performance GetBadges currently beta therefor version currently lock 0"
+    },
+    {
+        "progweb_cat": "Badges,Licensing",
+        "api_name": "Credly User Management",
+        "id": 6953,
+        "progweb_descr": " Credly authenticate digital badge recognize user reach life accomplishment As stated site service verifies share manage credential This useful consumer intent showcase work online community professional association developer partner startups API user management could beneficial could organize user data predict future trend badge recognition additional learning environment This API user management To start application development recommend create account test endpoint In site developer find registration user profile email address password organization management method"
+    },
+    {
+        "progweb_cat": "Badges,Licensing",
+        "api_name": "Credly Credit Management",
+        "id": 6956,
+        "progweb_descr": " Credly Credit application issue badge obtain recipient information retrieve credential data In case developer option access Badge Builder SDK create badge visuals inside another site Credit API could useful organize user data credential place It valuable developer work school institution establishment information large group need constantly wellordered update To create application user sign use account authenticate tested endpoint"
+    },
+    {
+        "progweb_cat": "Badges,Customer Relationship Management",
+        "api_name": "Credly Social Management",
+        "id": 6954,
+        "progweb_descr": " With Credly Social Management developer manage relationship user group membership affiliation site Since Credly service authenticate digital badge function Contact List API could particularly beneficial aggregate update list contact want identify professional certification This deal help consumer display badge community association Partners intent organize long list class roster could value API assist create new directory manage feed retrieve follower information Registration recommend test endpoint authentication"
+    },
+    {
+        "progweb_cat": "Badges,Identity",
+        "api_name": "Credly Members",
+        "id": 6960,
+        "progweb_descr": " With Credly Members API developer access data member profile base know email address This application could value immediate identification relationship user user follower trust member site offer method member profile member badge member follower member trust step follow start developer registration authentication valid information follow API endpoint test"
+    },
+    {
+        "progweb_cat": "Badges,Events",
+        "api_name": "Credly Events",
+        "id": 6961,
+        "progweb_descr": " Credly service help user organize life achievement one place Developers want assess member activity peer ’ interaction could benefit API event site offer parameter event event member event badge event badge management event badge action event selfactions All category include value type description try button generate response Credly Events aim set condition base time place geocoordinates To start app development developer register test API endpoint"
+    }
+]

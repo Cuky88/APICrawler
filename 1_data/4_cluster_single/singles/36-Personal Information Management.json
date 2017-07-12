@@ -1,0 +1,218 @@
+[
+    {
+        "progweb_cat": "Personal Information Management,Data",
+        "api_name": "Pryv",
+        "id": 173,
+        "progweb_descr": " Pryv platform collect personal timebased data kind give user visual overview online live This data may include health metric location videos note anything else time attach Pryv unite heterogeneous data stream source allow user view databased aspect live complete picture This data may keep entirely private share select individual Pryv API allow user retrieve personal data Pryv via REST call"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Data",
+        "api_name": "Meeco",
+        "id": 1823,
+        "progweb_descr": " Meeco personal data management platform provide Meeco API developer integrate user data apps Meeco solution part APIofMe philosophy aggregate personal data store empower user data find digital footprint life"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Office",
+        "api_name": "Evernote",
+        "id": 188,
+        "progweb_descr": " Evernote make easy remember thing big small notable life use computer phone web Evernotes web service API provide secure access application use network communication use Evernotes client software include ability create read update delete note notebook tags Third party integration critical part Evernote ecosystem heavily promote via httpsappcenterevernotecom App Center httpblogevernotecomcategoryfriendspartners company blog"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Office",
+        "api_name": "Remember the Milk",
+        "id": 1630,
+        "progweb_descr": " Remember Milk API allow anyone write application interact Remember Milk design Remember Milk API inspire Flickr API"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Contacts",
+        "api_name": "Windows Live Contacts",
+        "id": 408,
+        "progweb_descr": " Windows Live Contacts API HTTPbased service enables developer programmatically submit query retrieve result Windows Live Contacts Address Book database"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Contacts",
+        "api_name": "Windows Live Contacts Control",
+        "id": 550,
+        "progweb_descr": " From site Windows Live Contacts control clientside browser JavaScript object enable visitor use Windows Live Contacts Web site Instead type ship address shop cart form example user could simply select one Windows Live Contacts Contact control user save time effort complete order gain benefit address book Web site without implement maintain provision data storage management UI server user maintains control personal contact data focus providing service data user give"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Identity",
+        "api_name": "LinkedIn People Search",
+        "id": 609,
+        "progweb_descr": " LinkedIn social network service professional API LinkedIn People Search could help developers access information people This API personal information As LinkedIn disclose website API part Vetted Access Program It recommend obtain approval company first follow permission require basic profile default none grant optimization 3 permission permission change Similarly next call offer user ’ data user ’ network data group data company data API format XML require OAuth authentication"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Identity",
+        "api_name": "AAI@EduHr AOSI",
+        "id": 10925,
+        "progweb_descr": " AAIEduHr stand Authentication Authorization Infrastructure Research Higher Education Croatia AAI form foundation electronic identity management system design place data person electronic identity could store personal reference use application request identity information AOSI refers application maintenance content system directory Thus AOSI API enable user search modify retrieve information directory This service use SOAP call issue XML format website API documentation provide solely Croatian"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tasks",
+        "api_name": "Google Tasks",
+        "id": 842,
+        "progweb_descr": " Google Tasks provide todo list system user within GMail Calendar iGoogle home page direct mobile site Google Tasks API provide developer set API endpoint search read update Google Tasks content metadata With API user retrieve update delete create task list well retrieve update order delete create task service currently Google Labs consider beta API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tasks",
+        "api_name": "Checkvist",
+        "id": 1324,
+        "progweb_descr": " Checkvist Open API RESTful API return data either JSON XML format Open API use create edit view Checklists Tasks Authentication require nonpublic list task"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tasks",
+        "api_name": "Nozbe",
+        "id": 1658,
+        "progweb_descr": " Nozbe Getting Things Done GTD style task management service Users achieve personal team productivity goal service webbased also provide iPhone iPad application Nozbe API keep GTD philosphy provide programmatic access project contexts action note With API developer create new project action note well mark action complete Nozbe API also provide read access project contexts Nozbe API RESTful response provide JSON format"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tasks",
+        "api_name": "Kona",
+        "id": 8316,
+        "progweb_descr": " Kona task project management service help group people get thing do With Konas space user bring todo list schedule message project together one place Users invite team member group friend family member join space quickly privately Group conversation enhance fact take place context file event information discuss Kona offer filesharing service integrate Dropbox Box Google Drive"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tasks",
+        "api_name": "Chrometa",
+        "id": 10005,
+        "progweb_descr": " service provide automate task time track log interval activation deactivation It capture result time measurement applies category allow report time management billable hour track task activity flow efficiency It intend eliminate need separate note external timekeeping improve accuracy simplicity API method support activate deactivate service timetracking function assignment time interval category activity name billable application URLs use etc Methods also support log time spend measure second API allow report accumulate timeuse data integration data application"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tasks",
+        "api_name": "Sandglaz",
+        "id": 12397,
+        "progweb_descr": " Sandglaz task management application allow user create track manage todo list application allow collaboration make suitable project management task With Sandglaz API user write application integrate Sandglaz Sandglaz API RESTful interface provide programmatic access data This data include grid task label user It accept return JSON content"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tasks",
+        "api_name": "Taskforce",
+        "id": 14054,
+        "progweb_descr": " Taskforce task management application allow user create task directly email Users also delay task do right away Taskforce API allow developer access data functionality Taskforce Some example API method include list create user list create edit task reorder task"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tasks",
+        "api_name": "Tasko",
+        "id": 14449,
+        "progweb_descr": " Tasko webbased task management service base TaskPaper software MaciPhone Tasko API XMLRPC API let developer create interface Tasko API still work progress functionality add request"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tasks",
+        "api_name": "Todo.ly",
+        "id": 14631,
+        "progweb_descr": " service provide online task management todo list function specification task definition due date reminder Tasks arrange hierarchically subtasks link large task part Task display function filter select particular subset set user API method support basic CRUD create retrieve update delete function populate modify todo list item Items describe task name text description start date due date priority parent item etc Methods also support filter item list base item type content parentchild relationship characteristic"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tasks",
+        "api_name": "Plancake",
+        "id": 14666,
+        "progweb_descr": " Plancake free online project task manager easytouse featurerich Plancake service include Tasks Notes GTD Getting Things Done EmailToInbox Android app API Plancake API RESTful API allow developer create tool interlaces extension Plancake service interact Plancake data"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Lists",
+        "api_name": "Toodledo",
+        "id": 1636,
+        "progweb_descr": " From site An easy use webbased todo list Get organize stay motivate productive"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Lists",
+        "api_name": "Thinkery",
+        "id": 9771,
+        "progweb_descr": " Thinkery fast lightweight tool store note bookmark todos item Notes organize use hashtags colorcoded group make stand Items retrieve use asyoutype search All note bookmark bit information store Thinkery private unless user chooses make public Thinkery accessible directly online use mobile application via REST API"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Lists",
+        "api_name": "Ubernote",
+        "id": 11039,
+        "progweb_descr": " Ubernote information management service enable user store note contact password information require storage single place online access anywhere Information submit use note email IM mobile device browser toolbars Ubernote API currently accept feedback desire functionality Developers gain access early preview provide input contact Ubernote"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Lists",
+        "api_name": "Todoist",
+        "id": 15732,
+        "progweb_descr": " Todoist online task manager currently manage million todos thousand people With Todoist user organize schedule maintain prioritize personal task Todoist API use integrate Todoist application API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Games",
+        "api_name": "HabitRPG",
+        "id": 8760,
+        "progweb_descr": " HabitRPG habit building game treat userâ€™s life like Role Playing Game Players use site track daily habit Players penalize indulge bad habit reward complete productive task HabitRPG provide developer access platform API support HTTP POST PUT DELETE call API return site user data well create edit task"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Time Tracking",
+        "api_name": "Workonomic",
+        "id": 8818,
+        "progweb_descr": " Workonomic service design help freelancer track billable time spend project chat robot call Rab Oto Using variety simple English phrase user tell robot start work stop relevant note want include entry Workonomics allow user keep track many different project Rab Oto also ping user give amount time like egg timer send reminder schedule event"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Notes",
+        "api_name": "Turk Telekom Investor Relations Personal Note",
+        "id": 9152,
+        "progweb_descr": " TÃ¼rk Telekom Group fix line mobile internet service provider base Turkey Their Investor Relations website design provide information current potential investor include companys financial operational information regulatory disclosures website My Bookmarks Notes feature allow user bookmark page find useful record personal note Personal Note API provide programmatic access service Specifically allow user add bookmark add retrieve note rate page"
+    },
+    {
+        "progweb_cat": "Personal Information Management",
+        "api_name": "SiteShuffle",
+        "id": 9907,
+        "progweb_descr": " SiteShuffle web application allow user create customized list website link call Sitelist homepage browser SiteShuffle API provide SOAPXMLRPC interface manage Sitelists Users automate add delete link retrieve Sitelists via RSS ATOM generate site suggestion"
+    },
+    {
+        "progweb_cat": "Personal Information Management",
+        "api_name": "Librarious",
+        "id": 14990,
+        "progweb_descr": " Librarious place catalog share thing sit shelf book DVDs game music service connects Amazon easily able look photo cover graphic View add medium item tag Show title search Amazon"
+    },
+    {
+        "progweb_cat": "Personal Information Management",
+        "api_name": "Simplenote",
+        "id": 15232,
+        "progweb_descr": " Simplenote store note list ideas many item Simplenote mobile app make easy access augment personal data anywhere Simplenote API provide way build functionality additional application"
+    },
+    {
+        "progweb_cat": "Personal Information Management",
+        "api_name": "Tiktrac",
+        "id": 15870,
+        "progweb_descr": " From site Keep track time within organisation slick Ajax web interface RSS feed CSV data export Allow staff sign log time efficiently never rely email spreadsheet around Allow client sign view time use"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Project Management",
+        "api_name": "TiddlySpace",
+        "id": 10438,
+        "progweb_descr": " TiddlySpace let user organize thought idea available wherever whenever however theyre need A tiddler chunk content create TiddlySpace come URI easy share Users organize tiddler tag link A simple model share distribute adapt content make collaboration easy Developers customize integrate extend TiddlySpace use extensive RESTful APIs"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Project Management",
+        "api_name": "Cheddar",
+        "id": 11537,
+        "progweb_descr": " Cheddar allow task management emphasis event sync multiple device Functions include create task add tags set due date assign task people Cheddar simplifies process simple usage text You type task field press return thats task create share user device Users also tag task use hashtag like Twitter API utilize REST protocol response JSON Authentication provide OAuth2"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Project Management",
+        "api_name": "Doris",
+        "id": 15372,
+        "progweb_descr": " Doris host service design let keep track thing need get do wherever Doris provide productivity task management service like Delegation assign task people team Email integration thats weve find task originate BasecampTrac integration integrate Doris exist workflow majority Doris data functionality expose via Application Programming Interface API REST base let developer create Dorisbased apps integrate Doris exist development workflow"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Education",
+        "api_name": "Mozilla Open Badge",
+        "id": 11898,
+        "progweb_descr": " Mozilla Open Badge system design provide recognition skill achievement earn online outside school Any organization issue manage display digital badge online Badge earner collect badge Mozillahosted Backpack display resume web site social networking profile job site etc Badges accompany metadata regard acquire along authentication information"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Bookmarks",
+        "api_name": "Catch.com",
+        "id": 13882,
+        "progweb_descr": " Catchcom application allow user capture note photos link content retrieve later well share others Catchcom web mobile tablet application Catchcom API allow developer access integrate functionality Catchcom applications Some example API method include manage account return user add delete manage medium note comment search user note A Developer key require production use obtain email developercatchcom"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Agile",
+        "api_name": "AgileTask",
+        "id": 15260,
+        "progweb_descr": " AgileTask lightweight personal backlog tool Agiletask task track application feature agile workflow tag organization interesting achievement Designed bring structure Agile project help user stay focus important Emphasis keep task entry simple quick Restful API allow user extend AgileTask tool already use Responses format JSON XML"
+    },
+    {
+        "progweb_cat": "Personal Information Management,Tools",
+        "api_name": "Toggl",
+        "id": 15314,
+        "progweb_descr": " Toggl online time track tool freelancer team Toggl provide basic feature need fast effective time management Toggl desktop widget iGoogle gadget even faster access"
+    }
+]

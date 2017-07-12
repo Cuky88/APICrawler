@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "RDF,Data",
+        "api_name": "Ontotext S4 RDF graph database (DBaaS)",
+        "id": 4785,
+        "progweb_descr": " S4 provide fullymanaged RDF graph databaseasaservice DBaaS base Onotext GraphDB database Access database via simple RESTful API OpenRDF API provision operation maintenance upgrade manage S4 platform behalf developer DBaaS version GraphDB Cloud intend used scenario small medium database size query load invest software license provision maintain onpremise 247 server cost optimal"
+    },
+    {
+        "progweb_cat": "RDF,Semantics",
+        "api_name": "Vapour",
+        "id": 11745,
+        "progweb_descr": " service validates RDFXML find URL specify request confirms data correctly format compliant best practice A public web service allow manual submission URL open source available local install license W3C via public API API method support submission URL file RDFXML format available return data provide file specify result format validation test Requests optionally specify output format RDFXML default XML"
+    }
+]

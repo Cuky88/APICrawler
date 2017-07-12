@@ -1,0 +1,44 @@
+[
+    {
+        "progweb_cat": "Cycling,Community",
+        "api_name": "Bike Index",
+        "id": 625,
+        "progweb_descr": " With Bike Index user register bicycle protect burglar So far 31356 bike register 2118 stolen bike recover In main site developer find information JSON API include support crossorigin resource share CORS spec permit web apps make AJAX call without workaroundsThe code available github"
+    },
+    {
+        "progweb_cat": "Cycling,Fitness",
+        "api_name": "Social Bicycles",
+        "id": 2674,
+        "progweb_descr": " SocialBicycles API integrate map ride statistic CO2 reduce calorie burn money save versus drive component web data available REST architecture OAuth authentication available send HTTP request receive JSON response return"
+    },
+    {
+        "progweb_cat": "Cycling,Cities",
+        "api_name": "City of Chicago Divvy Bicycle Stations",
+        "id": 3517,
+        "progweb_descr": " City Chicago Divvy Bicycle Stations API list pickup return location Divvy bike share system Notably API generate list approve location system include currently service API ’ communication protocol error communication anchor HTTPS HTTP response cod respectively It return response variety format include CSV JSON XML City Chicago Divvy Bicycle Stations API full release back detailed documentation example"
+    },
+    {
+        "progweb_cat": "Cycling,Cities",
+        "api_name": "City of Chicago Divvy Bicycle Stations - Historical",
+        "id": 3519,
+        "progweb_descr": " City Chicago Divvy Bicycle Stations Historical Stations API capture past data trend availability bicycle space retuning bicycle Divvy station City Chicago API ’ communication protocol error communication anchor HTTPS HTTP response cod respectively It return response variety format include CSV JSON XML City Chicago Divvy Bicycle Stations API full release back detailed documentation example"
+    },
+    {
+        "progweb_cat": "Cycling,Crowdsourcing",
+        "api_name": "Check That Bike US",
+        "id": 5015,
+        "progweb_descr": " Check That Bike US API JSON format accessible Key This service could useful developer want develop apps related loss prevention bicycle United States On website user enter bike frame number locate often bottom bracket recent bike Results display use bike unusual past give 563000 bike steal every year accord site Users sign petition get additional police assistance way support crowdsourced bike recovery project"
+    },
+    {
+        "progweb_cat": "Cycling,Crowdsourcing",
+        "api_name": "Check That Bike UK",
+        "id": 5016,
+        "progweb_descr": " Check That Bike UK API available JSON protocol accessible use Key Originated UK bike recovery project aim prevent bicycle loss invite user sign crowdsourced petition developer create application API With frame number site retrieve data result police national register local register manufacturer insurer search engine"
+    },
+    {
+        "progweb_cat": "Cycling,Analytics",
+        "api_name": "Cycling Analytics",
+        "id": 6978,
+        "progweb_descr": " Cycling Analytics software cyclist With bike heart rate monitor device account cyclist monitor performance road main value API could convenience display data user orient perspective Developers work health apps sport apps even medical apps could benefit service access lap geographical location histograms With mind could measure user strength improve health This API analytics cyclist step follow available site developer access preliminary remark development status OAuth 20 HTTP method parameter response example endpoint"
+    }
+]

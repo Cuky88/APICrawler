@@ -1,0 +1,26 @@
+[
+    {
+        "progweb_cat": "Backend-as-a-Service,Authentication",
+        "api_name": "Backand",
+        "id": 4512,
+        "progweb_descr": " Backand API allow developer easily integrate powerful backendasaservice AngularJS Ionic application It provide social login push notification database host mobile functionality integration payment email service much One key feature Backand offer ORM objectrelational mapping method access relational database objectoriented language Backand also provide feature like track data change log rolebased security backoffice connectivity"
+    },
+    {
+        "progweb_cat": "Backend-as-a-Service,Authentication",
+        "api_name": "Firebase",
+        "id": 12278,
+        "progweb_descr": " Firebase API let developer easily sync store data realtime Developers use service build apps without manage server write serverside code There client Android iOS JavaScript include binding Ember React Angular Backbone API allow user access functionality Firebase programmatically API support standard CRUD operation data within database well query data Firebase use WebSockets achive realtime communication client Data also access Firebase REST API Firebase Simple Login additional service allow developer authenticate user use clientside code Enable authentication via number thirdparty provider anonymous login email password authentication without manually store authentication credential run server Firebase Hosting give developer fast secure reliable way host apps static asset HTML CSS JavaScript medium file It back global CDN serve content SSL default available either custom domain subdomain firebaseappcom"
+    },
+    {
+        "progweb_cat": "Backend-as-a-Service,Application Development",
+        "api_name": "Syncano",
+        "id": 7134,
+        "progweb_descr": " Syncano provide backendasaservice allows app developer synchronize scale data real time across multiple device server Syncanos framework also include storage access management data model feature Client application gain access update data request via REST API subscribe update use TCP WebSocket"
+    },
+    {
+        "progweb_cat": "Backend-as-a-Service,Cloud",
+        "api_name": "Stretchr",
+        "id": 7514,
+        "progweb_descr": " Stretchr backendasaservice allow user build manage application Stretchr API allow developer access integrate functionality Stretchr application create new application Some example API method include create resource manage resource manage user account"
+    }
+]

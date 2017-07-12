@@ -1,0 +1,98 @@
+[
+    {
+        "progweb_cat": "Testing,Business",
+        "api_name": "ExamBuilder",
+        "id": 649,
+        "progweb_descr": " ExamBuilder API allow programmatic access ExamBuilder platform enable integration cloudbased test report 3rd party application ExamBuilder also partner webcam surveillance technology order withhold exam integrity ExamBuilder test scenario specifically design corporate situation company need test certify employee internal sale product training regulatory compliance technology train new hire onboarding application All test perform cloud server allow ExamBuilder API access test data integrate 3rd party system"
+    },
+    {
+        "progweb_cat": "Testing,Business",
+        "api_name": "Smarterer REST",
+        "id": 5913,
+        "progweb_descr": " Smarterer provide skill test assessment service Smarterer REST API allow developer access modify data within Smarterer System Some task developer API register authenticate user search test get user information ie test score API RESTful require OAuth 20 authentication"
+    },
+    {
+        "progweb_cat": "Testing,Applications",
+        "api_name": "TestFairy Upload",
+        "id": 3339,
+        "progweb_descr": " This API use TestFairy REST API various plugins Gradle Jenkins Bamboo streamline build process upload APKs IPAs directly TestFairy TestFairy offer multiple channel send apps tester result Android iOS device"
+    },
+    {
+        "progweb_cat": "Testing,Framework",
+        "api_name": "minimesos",
+        "id": 3594,
+        "progweb_descr": " minimesos experimentation test environment Mesos cluster manager It create cluster receive assertion API test do cluster destroy This REST base API exchange data JSON format Container Solutions Amsterdam base software consultancy offer RD training service"
+    },
+    {
+        "progweb_cat": "Testing",
+        "api_name": "Tosca Testsuite",
+        "id": 4435,
+        "progweb_descr": " Tosca Testsuite API allow developer integrate endtoend test suite tool application Tosca Testsuite provide method design generate provision test data well automate test case By automatically recognize previouslyrecorded control reuse test asset Tosca Testsuite ensure user always redundancyfree test case This API provide Tricentis company offer automate test service mobile web application"
+    },
+    {
+        "progweb_cat": "Testing",
+        "api_name": "Load Impact",
+        "id": 9774,
+        "progweb_descr": " Load Impact provide load test report ecommerce B2B sit Load Impact API provide developer programmatic management feature data store load zone information test user scenario API support HTTP call return JSON format data require API Key"
+    },
+    {
+        "progweb_cat": "Testing",
+        "api_name": "Errorception",
+        "id": 10290,
+        "progweb_descr": " Errorception service find tracks error JavaScript Adding Errorception website require user rewrite code way compromise website performance Errorception automatically mark duplicate error filter error user care Detailed graph available document error occurrence Errorception user choose receive daily email alert regard top error receive notification error stop occur Users access Errorceptions function programmatically use RESTful API This early version API still fully functional API accepts JSONformatted query"
+    },
+    {
+        "progweb_cat": "Testing,Application Development",
+        "api_name": "TestFairy REST",
+        "id": 4696,
+        "progweb_descr": " TestFairy API provide test feature Android iOS device service allow application developer see video exactly test user device screen Functions API inlcude get lists project session tester crash Parameters search include tester email date projectID Responses JSON Authentication provide API Key"
+    },
+    {
+        "progweb_cat": "Testing,Application Development",
+        "api_name": "Testdroid Cloud",
+        "id": 6729,
+        "progweb_descr": " Testdroid Cloud REST API allow subscribe user test application late Android iOS device Cloudbased API delivers detail test result full logcat output screenshots device sidebyside comparison test result Testdroid Cloud use OAuth 20 service SSL encrypt"
+    },
+    {
+        "progweb_cat": "Testing,Application Development",
+        "api_name": "Bestly",
+        "id": 8447,
+        "progweb_descr": " Bestly AB test platform native mobile application aim make test new app variation easy service enable user easily make databacked decision application variation confidence Bestly REST API allow developer start AB test anywhere API resource include Experiments bucket user variation base specify weight Trails start complete trial specify experiment uuid All data send receive JSON API key require"
+    },
+    {
+        "progweb_cat": "Testing,Automation",
+        "api_name": "Spirent TestCenter REST",
+        "id": 6766,
+        "progweb_descr": " Spirent TestCenter REST API use web application order perform system test virtual cloud environment Using REST API developer specific sequence step test automate task execute quick monitoring result This applicable scenario developer need monitor virtual switch router"
+    },
+    {
+        "progweb_cat": "Testing,Automation",
+        "api_name": "Ghost Inspector",
+        "id": 7313,
+        "progweb_descr": " Ghost Inspector performs automate website test cloud Ghost Inspector API allow developer execute test remotely realtime fetch result main value application could monitor functionality website anywhere world Developers quality assurance industry might benefit API automate web testing In site developer find samples diverse parameter suite test result error associate list get execute command An API key require create application JSON REST format Developers initiate communication Ghost Inspector contact form They also check GI Twitter profile read blog explore site become familiar usefulness API"
+    },
+    {
+        "progweb_cat": "Testing,Mobile",
+        "api_name": "Splitforce",
+        "id": 7151,
+        "progweb_descr": " Splitforce mobile application AB test service Splitforce provide various test feature crossplatform test integration test target user segment test Splitforce API allow developer access integrate functionality Splitforce application API access come account service"
+    },
+    {
+        "progweb_cat": "Testing,Collaboration",
+        "api_name": "TestLodge",
+        "id": 7211,
+        "progweb_descr": " TestLodge webbased application test case management It allow user manage test plan requirement test case result one place There user limit entire team access manage data TestLodge API enable user programmatically access create update data within account"
+    },
+    {
+        "progweb_cat": "Testing,Education",
+        "api_name": "Commsoft",
+        "id": 7270,
+        "progweb_descr": " Commsoft web company base India provide API service online education It target student prepare entrance test medical engineering professional field This particular API claim offer uniform instructional platform content create updated often accord assessment GMAT MAT CLAT Commsoft API might benefit developer education industry aim outsource technical service India goal create unique learn experience student ’ success In website developer redirect Testmerit sample learn assessment serve guide develop assessment application online information developer send inquiry main webpage Commsoft site"
+    },
+    {
+        "progweb_cat": "Testing,Web Site Management",
+        "api_name": "Mogotest",
+        "id": 10476,
+        "progweb_descr": " Mogotest Web Consistency Testing service service let users test websites offer number feature cross browser compatibility report regression test screenshot comparison authentication Mogotest API allow user run test sit programmatically integrate exist test deployment tool API use RESTful call response format XML JSON HTML"
+    }
+]

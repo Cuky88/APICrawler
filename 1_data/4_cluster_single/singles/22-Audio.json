@@ -1,0 +1,134 @@
+[
+    {
+        "progweb_cat": "Audio,Podcasts",
+        "api_name": "Clammr Audio Cropper",
+        "id": 1528,
+        "progweb_descr": " Clammr Cropper Plugin API allow crop audio share clip follower Clammr Facebook Twitter It available REST architecture Audio clip create hosted mp3 constrain 4 24 second length"
+    },
+    {
+        "progweb_cat": "Audio,Podcasts",
+        "api_name": "Voice Republic",
+        "id": 4482,
+        "progweb_descr": " Voice Republic API allow developer integrate streaming service auditory application Create share audio streaming application conferences public event podcast webinars To get started authenticate token request call receive response JSON REST protocols Endpoint query parameter available"
+    },
+    {
+        "progweb_cat": "Audio,Content",
+        "api_name": "AudioBurst Web",
+        "id": 1798,
+        "progweb_descr": " AudioBurst API provide diverse talkradio content metadata exist application platform organize return JSON data related burst playlist category story full show station API Keys require authentication AudioBurst offer machine learn parallel compute realtime segmentation natural language understanding technology"
+    },
+    {
+        "progweb_cat": "Audio,Content",
+        "api_name": "Cockos ReaScript",
+        "id": 2189,
+        "progweb_descr": " REAPER provide Windows OS X platform produce multimedia content use PCs Macs It useful import audio MIDI addition synthesize sample edit compose arrange mix hit audio content Cockos ReaScript API support deployment REAPER edit run debug script It indirect API accessible SDKs operate EEL Python Lua language platform"
+    },
+    {
+        "progweb_cat": "Audio,Content",
+        "api_name": "audioBoom",
+        "id": 6327,
+        "progweb_descr": " audioBoom provide audio content major sport medium outlet well small podcasters Content host audioBoom share via website embeddable player mobile application social medium websites audioBoom API provide user access almost every function site offer Full documentation API available GitHub"
+    },
+    {
+        "progweb_cat": "Audio,Media",
+        "api_name": "Otto Everywhere",
+        "id": 2279,
+        "progweb_descr": " Otto Everywhere API integrate personalized audio content top news outlet podcast publisher GET request available perform call endpoint version 1 Responses display audio URL audio duration category description source Station story main object without parameter require"
+    },
+    {
+        "progweb_cat": "Audio,Data",
+        "api_name": "Lisnr",
+        "id": 2692,
+        "progweb_descr": " Lisnr REST API allow developer access integrate functionality Lisnr application Public documentation available interested developer contact Lisnr information httplisnrcomcontact Lisnr product send packet data ultrasonic sound enable messaging devicetodevice connection functionality base proximity"
+    },
+    {
+        "progweb_cat": "Audio,Browsers",
+        "api_name": "SoundManager 2",
+        "id": 2694,
+        "progweb_descr": " This JavaScript Sound API support MP3 MPEG4 HTML5 audio RTMP It provide crossbrowserplatform audio control little 12 KB With feature include Load stop play pause mute SoundManager 2 wrap extend HTML5 Flash Audio APIs bring crossplatform audio JavaScript"
+    },
+    {
+        "progweb_cat": "Audio,Activity Streams",
+        "api_name": "Pluxbox",
+        "id": 3109,
+        "progweb_descr": " Pluxbox API integrate radio broadcasting management application It available indirectly via PHP SDK Key authentication JSON architecture Resources include implementation Postman httpswwwgetpostmancom"
+    },
+    {
+        "progweb_cat": "Audio,Search",
+        "api_name": "W3C Audio Output Devices",
+        "id": 3144,
+        "progweb_descr": " W3C Audio Output Devices API defines set JavaScript APIs manage audio get render user audio output device It use direct audio output device default set system user agent This document yet complete subject major change"
+    },
+    {
+        "progweb_cat": "Audio,File Sharing",
+        "api_name": "Clyp",
+        "id": 3342,
+        "progweb_descr": " Clyp offer audio processing API free use noncommercial product support file type mp3 ogg m4a wav aiff aif 3gpp mp3 ogg file make available processing Playlists maximum 20 audio file This API REST base use JSON data exchange"
+    },
+    {
+        "progweb_cat": "Audio,Customer Relationship Management",
+        "api_name": "NameShouts",
+        "id": 3901,
+        "progweb_descr": " NameShouts API provide name pronunciation ability application Using API get crystal clear pronunciation large database name pronounce Native Speakers NameShouts help make great first impression business contact make sure pronounce name right matter world Contact provider obtain information NameShouts API A note provider If name miss database want feel free get touch u willing add miss name"
+    },
+    {
+        "progweb_cat": "Audio,Encoding",
+        "api_name": "SoundCTL  Real time Audio",
+        "id": 4003,
+        "progweb_descr": " SoundCTL Real time Audio API live stream platform support channel audio content Developers use API build web mobile application mix route track measure audio content real time RESTful API transmit request response JSON format Its authentication require either API Key Token"
+    },
+    {
+        "progweb_cat": "Audio,Application Development",
+        "api_name": "Mozilla Web Audio JavaScript",
+        "id": 5060,
+        "progweb_descr": " Mozilla Web Audio JavaScript API allow developer add audio effect create audio visualization apply spatial effect Built modular rout API affords create audio function dynamic effect accord site See work progress httpmdngithubiovoicechangeomatic"
+    },
+    {
+        "progweb_cat": "Audio,Languages",
+        "api_name": "HPE Haven OnDemand Speech Recognition",
+        "id": 5954,
+        "progweb_descr": " Speech Recognition API offer HPE Haven OnDemand create speechtotext transcript audio video file You use output Haven OnDemand APIs Concept Extraction Add Text Index gain insight analysis Speech Recognition API currently support broadcastquality audio several language well telephony grade audio languages HPE Haven OnDemand Machine Learning platform 60 APIs developer build data rich application perform analytics use text analysis speech recognition image analysis prediction index search APIs Add advance capability natural language processing machine learn cognitive compute predictive analytics application minimal cod effort Crawl index analyze data file system DropBox web Analyze extract insight document text audio video image file build prediction recommendation engine By combine APIs ’ able create powerful data transformation enrichment workflow"
+    },
+    {
+        "progweb_cat": "Audio,Metadata",
+        "api_name": "Pop Up Archive",
+        "id": 6067,
+        "progweb_descr": " Pop Up Archive application allow sound searchable speechtotext technology Pop Up Archive tag index transcribe audio file searchable Pop Up Archive API allow developer access integrate functionality Pop Up Archive application create new application Public documentation available interested developer contact Pop Up Archive information"
+    },
+    {
+        "progweb_cat": "Audio,3D",
+        "api_name": "W3C Web Audio",
+        "id": 6490,
+        "progweb_descr": " Web Audio API highlevel browserbased JavaScript web API make process synthesize audio within web application Supported W3C Audio Working Group part W3C WebApps Activity note API consider work process API help enable audio game create dynamic sound effect 3D environment model develop music DAW application music visualize educational application possibility"
+    },
+    {
+        "progweb_cat": "Audio,Internet of Things",
+        "api_name": "W3C Web MIDI",
+        "id": 6492,
+        "progweb_descr": " Web MIDI API browserbased JavaScript web API allow lowlevel interaction music light device sync host computer Using Musical Instrument Digital Interface MIDI protocol device send digital information regard tone sustain volume dynamic modulation trigger software instrument This information also use trigger nonmusical device light effect This API work MIDI protocol accept MIDI signal host device also enable direct access device respond MIDI"
+    },
+    {
+        "progweb_cat": "Audio,Algorithms",
+        "api_name": "Clarify",
+        "id": 6584,
+        "progweb_descr": " Clarify selfservice API allow developer make audio video file actionable via search extract keywords topic Clarify API provide RESTful API extract knowledge audio video content building bridge audio video become searchable textual information"
+    },
+    {
+        "progweb_cat": "Audio,Entertainment",
+        "api_name": "Dolby Audio",
+        "id": 7085,
+        "progweb_descr": " Dolby develop audio game mobile PCs film home theater With Dolby Audio API user integrate various feature application volume level surround virtualizer audio optimizer dolby digital passthrough main value API audio enhancement apps relate music movie game site mention API take 15 minute integrate website also show quick start guide API package code snippet specs sample app download Additional information available Kindle Fire Android Windows 8 XBOX Wii PS4 game console"
+    },
+    {
+        "progweb_cat": "Audio,Text-to-Speech",
+        "api_name": "Oddcast Audio Engine",
+        "id": 7219,
+        "progweb_descr": " Oddcast offer set APIs allow developer add tool enterprise level platform enhance user ’ engagement medium Audio Engine API allow developer integrate audio edit mix transcoding stitch sequence site application This JavaScriptActionScript API allow mix maximum 120 channel transcodes common audio type It also design function well Oddcast Voice Toolkit API receive edit speech Oddcast offer powerful high capacity cloudcomputing service request"
+    },
+    {
+        "progweb_cat": "Audio,Applications",
+        "api_name": "Watchsend",
+        "id": 8770,
+        "progweb_descr": " Watchsend application allow developer publisher application record application record user interact application Watchsend API allow developer access integrate functionality Watchsend application main API method record session tag record block view"
+    }
+]

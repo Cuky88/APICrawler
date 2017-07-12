@@ -1,0 +1,74 @@
+[
+    {
+        "progweb_cat": "Cryptocurrency,Authentication",
+        "api_name": "Tokenly Tokenpass",
+        "id": 2216,
+        "progweb_descr": " This API global account OAuth service power Tokenly ecosystem It act central hub “ Token Controlled Access ” TCA request allow end user register prove ownership Bitcoin address single time instead individually every TCA power application It allow integrate Tokenpass website game application empower project Token Controlled Access Tokenly give acces Tokens digital representation exchange trading card song movie game loyalty point membership"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Payments",
+        "api_name": "Tokenly Bitsplit",
+        "id": 2229,
+        "progweb_descr": " This API allow get crypto token without manual transaction send wallet It forward service allows make single transaction receive email notification entire distribution list receive token Tokenly give acces Tokens digital representation exchange trading card song movie game loyalty point membership"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Application Development",
+        "api_name": "gentlejack",
+        "id": 2298,
+        "progweb_descr": " This API support mining transaction cryptocurrencies Methods available include push transaction activity use JSON It also ca use development crypto currency software"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Banking",
+        "api_name": "Yunbi Swagger",
+        "id": 3531,
+        "progweb_descr": " Yunbi Swagger API allow developer access integrate functionality Yunbi applications Some example API method include manage currency trade manage verification manage account order Yunbi cryptocurrency trading platform"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Banking",
+        "api_name": "Yunbi",
+        "id": 3532,
+        "progweb_descr": " Yunbi REST API allow developer access integrate functionality Yunbi applications Some example API method include manage currency trade manage verification manage account order Yunbi cryptocurrency trading platform"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Bitcoin",
+        "api_name": "Glidera",
+        "id": 4984,
+        "progweb_descr": " Glidera API provide Bitcoin buy sell capability exist application This API use OAuth 2 authentication require account access intermediary service Glidera hold fund manage bank liquidity fraud challenge"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Bitcoin",
+        "api_name": "BlockCypher Transaction",
+        "id": 5198,
+        "progweb_descr": " With BlockCypherthe cryptocurrency platform service developer create block chain application APIs include Transaction API In detail API affords find information relate unconfirmed transaction create transaction embed data blockchain base coin chosen endpoint"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Bitcoin",
+        "api_name": "BlockCypher Microtransaction",
+        "id": 5298,
+        "progweb_descr": " What Microtransaction API addition Transaction API propagate small frequent transaction still exist blockchain still publicly auditable BlockCypher pay mining fee first 8000 microtransactions After number company optimize fee gain balance achieve result"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Bitcoin",
+        "api_name": "SnapCard",
+        "id": 5364,
+        "progweb_descr": " SnapCard allow abuy bitcoin bank account access SnapCard use digtal currency SnapCard API allow developer retrieve merchant account info retrieve exchange rate retrieve payouts create retrieve cancel list invoice SnapCard Bitcoin wallet offer MassPay send money anywhere world"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Bitcoin",
+        "api_name": "ShapeShift",
+        "id": 5730,
+        "progweb_descr": " ShapeShift digital currency exchange app API use GET POST request HTTPS JSON Use ShapeShift complete transaction request email receipt see list recent transaction return list support coin"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Bitcoin",
+        "api_name": "BitMEX",
+        "id": 5732,
+        "progweb_descr": " BitMEX API allow user automate BitMEX trading account management function BitMEX Bitcoin Mercantile Exchange cryptocurrency derivative platform build financial professional platform safe place hedge risk since profit never claw back BitMEX employ multifactor security use multisignature wallet transaction"
+    },
+    {
+        "progweb_cat": "Cryptocurrency,Currency",
+        "api_name": "Crypto Capital",
+        "id": 4991,
+        "progweb_descr": " Crypto Capital API allow developer access Crypto Capital banking account Crypto Capital allow customer merchant trader open account fiat currency experience lag transfer fund user exchange account Users may perform multiple exchange multiple languages multiple currency freely top Crypto Capitals platform"
+    }
+]

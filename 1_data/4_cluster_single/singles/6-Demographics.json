@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Demographics,Data",
+        "api_name": "INQStats",
+        "id": 4274,
+        "progweb_descr": " INQStats API intend provide statistical data country explore compare API aim base REST response format JSON open source Available data set Population migration rate education expenditure health expenditure number internet user median age median wage public debts life expectancy"
+    },
+    {
+        "progweb_cat": "Demographics,Geography",
+        "api_name": "World Population",
+        "id": 5200,
+        "progweb_descr": " Populationio API independent project use official demographic data produce United Nations project individual life expectancy date place birth API functionality include determine world population rank calculate life expectancy retrieve population table API take GET HTTP request return data JSON JSONP HTML"
+    },
+    {
+        "progweb_cat": "Demographics,Analytics",
+        "api_name": "Demographics Pro",
+        "id": 5403,
+        "progweb_descr": " Demographics Pro REST API provide set interface allow integration social medium demographic data application Some example API method include aggregate audience analysis retrieve individual user profile search influencers base demographic input criterion across Twitter Instagram Youtube social network Public documentation available developer request API access httpwwwdemographicsprocom Demographics Pro social medium analysis tool allow user understand characteristic social medium audience"
+    },
+    {
+        "progweb_cat": "Demographics,Analytics",
+        "api_name": "Cara",
+        "id": 7226,
+        "progweb_descr": " Cara face detection software turn anything camera intelligent sensor store data content ’ viewer It measure glance distance gender time age much time respect privacy store picture personal information This robust audience analytics tool compatible Windows Android Linux Mac OSX manufacture IMRSV formerly Immersive Labs Cara Cloud RESTful API provide server side image processing feature include within Cara developer tool along Devkit Local SDK"
+    },
+    {
+        "progweb_cat": "Demographics,Canadian",
+        "api_name": "neighbourhood",
+        "id": 5488,
+        "progweb_descr": " neighbourhoodio REST API provide developer access integrate demographic information Canadian neighborhood use geographic coordinate Some example demographic data access include age income average household size neighborhoodio service provide demographic information neighborhood Canada"
+    },
+    {
+        "progweb_cat": "Demographics",
+        "api_name": "Geodata Service Demographics Web Service",
+        "id": 8059,
+        "progweb_descr": " GeoData Service help customer target specific market demographic geographic lifestyle data GeoData Service Demographics Web Service REST API provide programmatic access comprehensive US demographic data Sources include US Census Federal crime statistic Business statistic"
+    }
+]

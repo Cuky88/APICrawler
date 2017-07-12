@@ -1,0 +1,32 @@
+[
+    {
+        "progweb_cat": "Visualizations,Text",
+        "api_name": "Word Cloud",
+        "id": 2061,
+        "progweb_descr": " Word Cloud API allow user create word cloud base text input either block text array word importance word cloud customized range option include size language color This API one free plan two pay plan Basic 30 request month free 01 overage Pro 100 request per month Ultra unlimited request"
+    },
+    {
+        "progweb_cat": "Visualizations,Browsers",
+        "api_name": "Mozilla Fullscreen",
+        "id": 2283,
+        "progweb_descr": " Mozilla Fullscreen API simplifies deployment entire screen area content presentation A user display content fullscreen mode simply manipulate property remove browser user interface web page"
+    },
+    {
+        "progweb_cat": "Visualizations,Hardware",
+        "api_name": "W3C Presentation",
+        "id": 3152,
+        "progweb_descr": " W3C Presentation API specification defines API allow web content access external display projector connect TVs presentation This specification intend take account whether display use connect via wired HDMI DVI etc wireless Chromecast AirPlay etc technology"
+    },
+    {
+        "progweb_cat": "Visualizations,Dashboards",
+        "api_name": "Grafana",
+        "id": 5251,
+        "progweb_descr": " Grafana API allow developer interact featurerich metric dashboard graph editor Graphite InfluxDB OpenTSDB API method allow user save dashboard create user update data source This API use Grafanas frontend accomplish task Grafana feature Graphite query editor InfluxDB query editor rich graph mixed styling"
+    },
+    {
+        "progweb_cat": "Visualizations,Analytics",
+        "api_name": "Qlik Sense",
+        "id": 5393,
+        "progweb_descr": " With Qlik Sense APIs user Integrate Qlik Sense web NET application Extend Qlik Sense add visualization data source Manage license user Qlik Sense server task programmatically Qlik Analytics believe visual analytics available wherever decision make Qlik Analytics Platform userfriendly give business strong competitive advantage With Qlik Analytics Platform provide simple web mashups chart complex integrate web application embed visual analytics anywhere access Qlik Associative Indexing Engine QIX use modern open APIs Qliks APIs build use modern standard design work uptodate web application technology exist today"
+    }
+]

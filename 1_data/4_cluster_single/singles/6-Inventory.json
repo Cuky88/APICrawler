@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Inventory,Accounting",
+        "api_name": "SellerCloud",
+        "id": 2262,
+        "progweb_descr": " SellerCloud API support development webbased order inventory management apps Developers also use API integrate SellerCloud platform thirdparty application order ship purchase catalog inventory application This API readily compatible thirdparty application operate SOAPbased web service"
+    },
+    {
+        "progweb_cat": "Inventory,eCommerce",
+        "api_name": "Orkiv Inventory",
+        "id": 3377,
+        "progweb_descr": " Orkiv API provide inventoryeCommerce system operate omnichannel strategy It include client PHP Objective C Ruby C Swift JavaScript Go Java language"
+    },
+    {
+        "progweb_cat": "Inventory,Data",
+        "api_name": "Sears Local Inventory",
+        "id": 4585,
+        "progweb_descr": " Sears ’ Local Inventory API give user access inventory database Sears Kmart store Searches return number store near specify zip code product available Information store hour store phone number distance specify store product part amount inventory also include This API RESTful XLM JSON format"
+    },
+    {
+        "progweb_cat": "Inventory,API",
+        "api_name": "Zoho Inventory",
+        "id": 4788,
+        "progweb_descr": " Zoho Inventory API REST API allow developer perform operation available web client It ensure predictable URLs make write application easy follow HTTP rule wide range HTTP client use interact API Zoho Inventory work assist grow business inventory control order management feature"
+    },
+    {
+        "progweb_cat": "Inventory,Management",
+        "api_name": "Venzee",
+        "id": 6792,
+        "progweb_descr": " Venzee API provide developer variety possible set interfacing Venzee platform warehouse inventory management system type third party software Venzee offer tutorial guidance help use API start interfacing Venzee Currently require contact customer support betavenzeecom apply access"
+    },
+    {
+        "progweb_cat": "Inventory,Ordering",
+        "api_name": "Megaventory",
+        "id": 7265,
+        "progweb_descr": " Megaventory webbased inventory order management report solution small medium business multiple point presenceThe SOAP API give developer access resource account setting discount inventory product sale ship Megaventory allow user send sale quote purchase order issue invoice get sale order"
+    }
+]

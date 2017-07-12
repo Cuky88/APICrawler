@@ -1,0 +1,194 @@
+[
+    {
+        "progweb_cat": "Machine Learning,Natural Language Processing",
+        "api_name": "AlchemyAPI",
+        "id": 105,
+        "progweb_descr": " AlchemyAPI offer artificial intelligence service We teach computer learn read apply technology text analysis cloudbased API Our customer use AlchemyAPI transform unstructured content blog post news article social medium post internal document much useful structure data Currently available text analysis function include entity extraction sentiment analysis keyword extraction concept tag relation extraction text categorization author extraction language detection text extraction microformats parse RSSATOM feed detection AlchemyAPI tech startup locate downtown Denver Colorado As worldâ€™s popular text analysis service AlchemyAPI serve 35 billion monthly API request 35000 developer To enable service use artificial intelligence machine learn neural network natural language process massivescale web crawl Our technology power use case variety industry vertical include social medium monitor business intelligence content recommendation financial trading target advertising API Features Accessible via REST interface Return data JSON XML RDF Can analyze URL HTML free form text Speed fast text analysis API available Give AlchemyAPI try online demo wwwalchemyapicomproductsdemo Learn text analysis function wwwalchemyapicomproductsfeatures Available Text Analysis Functions Entity Extraction Identify people company organization city geographic feature name entity within content Sentiment Analysis Identify positive negative neutral sentiment within content Keyword Extraction Extract important term topic keywords tags content Concept Tagging Automatically tag highlevel concept HTML text webbased content Relation Extraction Identify facts SubjectActionObject relation within content Support provide extract directional sentiment subject object entity keywords Text Categorization Automatically categorize content category topic Author Extraction Extract author information news article blog post Language Detection Determine language text webbased content write support 97 different language Text Extraction Extract important text web page option extract link Microformats Parsing Extract Microformats web page hCard adr geo rel format content Feed Detection Detect RSSATOM fee link within web page"
+    },
+    {
+        "progweb_cat": "Machine Learning",
+        "api_name": "IBM Watson",
+        "id": 621,
+        "progweb_descr": " IBM Watson Developer Cloud currently available select group partner developer develop “ Powered Watson ” application These developer explore use cognitive capability Watson enhance business You follow Watson developer site late news technical howto guide API doc tool Or choose request access Watson Developer Cloud Watson APIs publicly available make request participate IBM Watson Ecosystem program"
+    },
+    {
+        "progweb_cat": "Machine Learning,Data Mining",
+        "api_name": "RxNLP - Cluster Sentences and Short Texts",
+        "id": 654,
+        "progweb_descr": " Sentence Clustering API group sentence sentence multiple news article short text post Twitter Facebook Status Updates logical group This API generate meaningful cluster along topic label cluster"
+    },
+    {
+        "progweb_cat": "Machine Learning,Data Mining",
+        "api_name": "RxNLP NGramCounter",
+        "id": 5888,
+        "progweb_descr": " NGramCounter API count word ngrams phrase base give text language API return word ngram count descend order frequency"
+    },
+    {
+        "progweb_cat": "Machine Learning,Artificial Intelligence",
+        "api_name": "Fuzzy.ai",
+        "id": 709,
+        "progweb_descr": " Fuzzyai make easy build Machine Learningpowered product recommendation content recommendation dynamic pricing match marketplace customer score web mobile conversational apps With Fuzzyai developer kickstart machine learning process start rule learn improve automatically time"
+    },
+    {
+        "progweb_cat": "Machine Learning,Artificial Intelligence",
+        "api_name": "PullString Web",
+        "id": 2599,
+        "progweb_descr": " PullString offer computer conversation technology feature hybrid AIengine intent model user desire identification entity extraction pattern match dialog management PullString API use initiate carrying conversation Responses JSON format access Tokens require authentication PullString offer 3 pay plan individual enterprise application"
+    },
+    {
+        "progweb_cat": "Machine Learning,Accounts",
+        "api_name": "TeleSign Score",
+        "id": 1452,
+        "progweb_descr": " Score API REST service delivers reputation score base phone number intelligence traffic pattern machine learn global data consortium Score web service provide risk information specify phone number alongside data element would normally see returned PhoneID API score risk level detail return Level Recommendation Score TeleSign provide way build communication account security web mobile apps It cloud communication platform empowers Web mobile app developer ability build powerful secure communication product use dynamic platform large global network TeleSign support numerous use case SMS voice message twofactor authentication 2FA onetime password OTPs data intelligence fraud score"
+    },
+    {
+        "progweb_cat": "Machine Learning,Healthcare",
+        "api_name": "Medisense Medical Classifier",
+        "id": 2067,
+        "progweb_descr": " Medical Classifier API available JSON format free resource build top US NLM Medical Subject Headings Library MeSH It use machinelearning algorithm knowledge tree classify text HTML broad subject"
+    },
+    {
+        "progweb_cat": "Machine Learning,Classification",
+        "api_name": "VisageCloud",
+        "id": 2198,
+        "progweb_descr": " VisageCloud API incloud REST API apply apps access face recognition classification capabilitiesVisage Cloud merge stateoftheart deep learning algorithms face recognition classification data query tag query technique empower leverage full value data To find user must request API key Visage Cloud homepage"
+    },
+    {
+        "progweb_cat": "Machine Learning,Data",
+        "api_name": "Neuron",
+        "id": 3108,
+        "progweb_descr": " Neuron API integrate machine learning feature keyword extraction semantic relatedness sentiment analysis It available HTTP request JSON architecture token authentication method Neuron use machine learn make APIs technology get intelligence textual data"
+    },
+    {
+        "progweb_cat": "Machine Learning,Data",
+        "api_name": "HPE Haven OnDemand Restore Text Index",
+        "id": 5945,
+        "progweb_descr": " Restore Text Index API offer HPE Haven OnDemand let developer restore index previous state HPE Haven OnDemand Machine Learning platform 60 APIs developer build data rich application perform analytics use text analysis speech recognition image analysis prediction index search APIs Add advance capability natural language processing machine learn cognitive compute predictive analytics application minimal cod effort Crawl index analyze data file system DropBox web Analyze extract insight document text audio video image file build prediction recommendation engine By combine APIs ’ able create powerful data transformation enrichment workflow"
+    },
+    {
+        "progweb_cat": "Machine Learning,Business",
+        "api_name": "Fedger",
+        "id": 3162,
+        "progweb_descr": " Fedger API integrate machine intelligence web service Developers require API Key authentication purpose JSON architecture callback live demo endpoint test"
+    },
+    {
+        "progweb_cat": "Machine Learning,Algorithms",
+        "api_name": "SimpleML Automated Machine Learning",
+        "id": 3950,
+        "progweb_descr": " SimpleML fullyautomated data science platform find appropriate machine learn algorithm data optimize hyperparameters use Bayesian Optimization generate machine learn model use offline Generated model export offline evaluation different programming language C Java Python Javascript Ruby PHP In addition lightweight model generate Arduino Raspberry Pi microcontrollers"
+    },
+    {
+        "progweb_cat": "Machine Learning,Algorithms",
+        "api_name": "NuPIC",
+        "id": 7036,
+        "progweb_descr": " NuPIC open source project write Python C implement Numentas Cortical Learning Algorithm CLA three principle property Sparse Distributed Representations Temporal inference Online learning NuPIC API allow developer work raw algorithm string together multiple region include hierarchy utilize platform function"
+    },
+    {
+        "progweb_cat": "Machine Learning,Bots",
+        "api_name": "Objective Revision Evaluation Service",
+        "id": 4160,
+        "progweb_descr": " Objective Revision Evaluation Service ORES API offer machine learn service build new wiki tool It provide access different fitness model An example wp10 predict quality level article learn imitate article quality assessment human perform These model available 15 language Wikidata This API return data JSON JSONP format REST base"
+    },
+    {
+        "progweb_cat": "Machine Learning,Models",
+        "api_name": "IBM Watson Retrieve and Rank",
+        "id": 4695,
+        "progweb_descr": " IBM Watson Retrieve Rank API use machine learn enhance information retrieval look signal give collection data Developers load data service use know relevant result train machine learn model use model provide good result end user"
+    },
+    {
+        "progweb_cat": "Machine Learning,API",
+        "api_name": "Hutoma",
+        "id": 5169,
+        "progweb_descr": " Hutoma enable business create deploy Siri like interface without write single line code Our AIs power deep learning network train understand specific topic simply submit text file contain example conversation Our AIs host AWS account specific hardware require either"
+    },
+    {
+        "progweb_cat": "Machine Learning,Analytics",
+        "api_name": "Windows Azure Machine Learning Recommendations",
+        "id": 5356,
+        "progweb_descr": " Azure Machine Learning Recommendations service provide solution base predictive analysis By additionally offer data consume API feature model catalog feature usage data notification purpose build machine learn solution cloud It include HTTP XML format HTTPS support Key access"
+    },
+    {
+        "progweb_cat": "Machine Learning,Analytics",
+        "api_name": "Wise.io",
+        "id": 6589,
+        "progweb_descr": " Wise machine learn company aim provide value target market client retention customer behavior marketing automation service API machine learn It help developer integrate handwritten digit recognition spam filtration political party affiliation recognition activity recognition sensor data mention example website API documentation available HTTP Pyhton At later stage Wise offer Twitter sentiment event recommendation language detection feature"
+    },
+    {
+        "progweb_cat": "Machine Learning,Predictions",
+        "api_name": "Amazon Machine Learning",
+        "id": 5418,
+        "progweb_descr": " Amazon Machine Learning REST API allow developer build application base Amazon Machine Learning model find patterns data Some example use API application fraud detection forecast demand target marketing click prediction"
+    },
+    {
+        "progweb_cat": "Machine Learning,Predictions",
+        "api_name": "PredictionIO",
+        "id": 8870,
+        "progweb_descr": " PredictionIO opensource machine learn server PredictionIO allow software application publisher developer add automatic predictive feature product recommendation content discovery personalization user PredictionIO API allow developer access integrate functionality PredictionIO application create new application Some example API method include create manage user user record retrieve item content create manage recommendation base user"
+    },
+    {
+        "progweb_cat": "Machine Learning,Big Data",
+        "api_name": "PredicSis",
+        "id": 5623,
+        "progweb_descr": " Use PredicSis machine learn API leverage customer data predictive marketing PredicSis use JSON request return HTTPS authenticate use API Tokens OAuth2 Use PredicSis upload dataset create dictionary variable design predictive model See extensive API documentation information get start"
+    },
+    {
+        "progweb_cat": "Machine Learning,Big Data",
+        "api_name": "HPE Haven OnDemand Document Categorization",
+        "id": 5743,
+        "progweb_descr": " Document Categorization API offer HPE Haven OnDemand let developer categorize document accord set category create To use API developer must create text index Categorization flavor use Create Text Index HPE Haven OnDemand Machine Learning platform 60 APIs developer build data rich application perform analytics use text analysis speech recognition image analysis prediction index search APIs Add advance capability natural language processing machine learn cognitive compute predictive analytics application minimal cod effort Crawl index analyze data file system DropBox web Analyze extract insight document text audio video image file build prediction recommendation engine By combine APIs ’ able create powerful data transformation enrichment workflow"
+    },
+    {
+        "progweb_cat": "Machine Learning,Big Data",
+        "api_name": "HPE Haven OnDemand List Resources",
+        "id": 5946,
+        "progweb_descr": " List Resources API offer HPE Haven OnDemand return list developer dynamic resource response include name flavor type index create use Create Text Index API HPE Haven OnDemand Machine Learning platform 60 APIs developer build data rich application perform analytics use text analysis speech recognition image analysis prediction index search APIs Add advance capability natural language processing machine learn cognitive compute predictive analytics application minimal cod effort Crawl index analyze data file system DropBox web Analyze extract insight document text audio video image file build prediction recommendation engine By combine APIs ’ able create powerful data transformation enrichment workflow"
+    },
+    {
+        "progweb_cat": "Machine Learning,Big Data",
+        "api_name": "BigML",
+        "id": 12821,
+        "progweb_descr": " BigML service cloudhosted machine learn data analysis Users set data source create dataset create model dataset make prediction base data BigML API allow developer access integrate functionality BigML application create new application Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Machine Learning,Images",
+        "api_name": "Microsoft Project Oxford Vision",
+        "id": 5638,
+        "progweb_descr": " Microsoft Project Oxford Vision API allow developer access integrate vision functionality Microsoft Project Oxford Some example API method include process image detect image return thumbnail image Microsoft Project Oxford offer collection APIs SDKs developer add intelligent feature application"
+    },
+    {
+        "progweb_cat": "Machine Learning,Images",
+        "api_name": "Imagga",
+        "id": 12148,
+        "progweb_descr": " Imagga Image Recognition PlatformasaService provide Image Tagging APIs developers business build scalable image intensive cloud apps technology fully automate process assign keywords andor domainspecific category image solution horizontally scalable handle whatever load image need analyzed annotate It adapt customer need custom train andor feedback loop Wrapped easy integrate API cloud customer premise go production matter several hour"
+    },
+    {
+        "progweb_cat": "Machine Learning,Comparisons",
+        "api_name": "indico",
+        "id": 6435,
+        "progweb_descr": " indico turn raw text image data human insight We ’ lower barrier development integration customization machine learn algorithms provide developerfriendly tools APIs building smarter software We ’ also dedicate support community meaningful research educational content Today machine learning require team PhDs indico dream world machine learn widespread seamless humanfriendly longer seem like technology"
+    },
+    {
+        "progweb_cat": "Machine Learning,Intelligence",
+        "api_name": "Alina",
+        "id": 6556,
+        "progweb_descr": " Currently private beta Alina API leverage machine learn coin intelligenceasaservice provider API also provide cloudbased natural language process A live mashup consumes Alina demonstrate APIs ability use genetic algorithm artificial neural network analyze historical Bitcoin price fluctuation predict automate future trading cloudbased platform also allow developer train bot perform automate task function calendar email learn analyze financial market translate language interact user browser An API console preview host Apigee locate Alinas home page developer test functionality"
+    },
+    {
+        "progweb_cat": "Machine Learning,Advertising",
+        "api_name": "Sightcorp F.A.C.E.",
+        "id": 6949,
+        "progweb_descr": " FACE API Sightcorp web service allow 3rd party application develop smarter interactive application use Face Analysis Technologies Sightcorp technology may use good understand user behavior retrieve relevant face analytics like age gender facial expression head pose ethnicity Sightcorp FACE API accept image use recognition technology determine facial feature location gender mood Developers interest consume API register API key Sightcorps website"
+    },
+    {
+        "progweb_cat": "Machine Learning,Cloud",
+        "api_name": "Ersatz",
+        "id": 7056,
+        "progweb_descr": " Ersatz webbased machine learn program automate recognition task previously require human interaction Ersatz platform use model data visualization team collaboration GPU compute within browser Ersatz REST API allow developer make HTTP request programmatically access platform create retrieve update object concern datasets model prediction ensemble Using API developer upload file maximum 10MB per API call"
+    },
+    {
+        "progweb_cat": "Machine Learning,Customer Relationship Management",
+        "api_name": "Guesswork",
+        "id": 7353,
+        "progweb_descr": " Guesswork machine learn service predict customer intent You use build intelligent CRM increase customer conversion Guesswork predict customer intent accurately use semantic rule engine run top Google Prediction API"
+    }
+]

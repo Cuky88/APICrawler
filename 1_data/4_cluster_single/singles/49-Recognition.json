@@ -1,0 +1,296 @@
+[
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "Clarifai",
+        "id": 612,
+        "progweb_descr": " Clarifai image video recognition tool automatically assign tags object category take pixel input use wide library semantic visual terminology artificial intelligence system base neural network scalable machine learning technique handle massive scale visual content flow API Clarifai also use semantic visual similarity cross compare uploaded picture picture library showcase similarity Clarifai currently host online demo easily try system photos Developers visit website sign free trial production account use API"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "Microsoft Cognitive Services Emotion",
+        "id": 699,
+        "progweb_descr": " Microsoft Cognitive Services Emotion API recognize emotion express one people image return face identification bound box It detect follow emotion happiness sadness surprise anger fear contempt disgust video return emotion group face period time 2 pay option available free plan limit transaction 30000 month available well Emotion API use JSON data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "Blippar Computer Vision",
+        "id": 2529,
+        "progweb_descr": " Blippar Computer Vision API offer image recognition capability integrate thirdparty application After image processing API return JSON format object OAuth 2 use authentication Blippar London base software development firm provide augmented reality image recognition technology"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "FindFace Cloud",
+        "id": 2611,
+        "progweb_descr": " FindFace Cloud API offer integration face detection verification identification platform This API enable face comparison human detection coordinate size POST method support JSON use resposes HTTP Basic Auth authentication FindFace Cyprus base software development firm"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "Tineye MatchEngine",
+        "id": 3165,
+        "progweb_descr": " TinEyes MatchEngine API offer image recognition capability find duplicate derivative exist image image collection This API compare incoming profile UGC image image blacklist identifies picture transformation watermark crop MatchEngine REST API respond JSON XML use HTTP Basic Auth authentication TinEye offer 4 paid plan customized developer need"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "Visual Search API Duplicate Image Detection",
+        "id": 3480,
+        "progweb_descr": " VisualSearchAPI Duplicate Image Detection API provide service process input image compare save image signatures special database allow identify duplicate image Developers send HTTP request receive XML response JSON architecture"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "Microsoft Cognitive Services Computer Vision",
+        "id": 3958,
+        "progweb_descr": " Microsoft Cognitive Services Computer Vision API analyse image return information It use filter mature content detect face image Information image description dominant accent color also retrieve Additionally API recognize celebrity read text image generates thumbnail Currently free plan limit call 5000 transaction per month available Computer Vision API use JSON format data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "Microsoft Cognitive Services Face",
+        "id": 4017,
+        "progweb_descr": " Microsoft Cognitive Services Face API offer cloud base human face recognition Its main functionality include face verification similar face search automatic face group person identification Currently free plan limit call 30000 transaction per month available pay option available well Face API use JSON format data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "How-Old.net",
+        "id": 5273,
+        "progweb_descr": " HowOldnet demo site Microsofts Project Oxford cloudbased algorithm guess age human base facial recognition With Face APIs developer experiment face detection face verification similar face search face group face identification detect gender age Along Face API Project Oxford release Speech API Computer Vision API also beta stage fourth API Language Understanding Intelligent Service LUIS available invite"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "JustVisual Face Detection/Expression",
+        "id": 5414,
+        "progweb_descr": " JustVisual Face DetectionExpression API provide data access face recognition feature Integrating API user find face inside query image return coordinate face find API also classify expression face identify"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "JustVisual Adoptable Pet",
+        "id": 5415,
+        "progweb_descr": " JustVisual Adoptable Pet API offer data access image recognition capability case identify adoptable pet A sample GET request pet API available Every time user uploads picture pet result display organization PetFindercom AdoptaPetcom institution particular pet ready adoption Besides image response present imageURL title description pageURL breed"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "Microsoft Project Oxford Face",
+        "id": 5640,
+        "progweb_descr": " Microsoft Project Oxford Face API allow developer access integrate face recognition detection functionality Microsoft Project Oxford Some example API method include analyze face retrieve face information manage people group people Microsoft Project Oxford offer collection APIs SDKs developer add intelligent feature application"
+    },
+    {
+        "progweb_cat": "Recognition,Images",
+        "api_name": "IBM Watson Visual Recognition",
+        "id": 5754,
+        "progweb_descr": " IBM Visual Recognition API analyze image video frame order understand content It capable annotate image base solely visual content without user describe tag content manually API recognize visual entity use semantic classifier base machinelearning technology"
+    },
+    {
+        "progweb_cat": "Recognition,Analytics",
+        "api_name": "Affectiva Market Research Data",
+        "id": 1785,
+        "progweb_descr": " Affectiva provider emotion recognition technology use AI capability analyze emotion facial expression audience Affectiva support use standard web cam gather analytical insight unfiltered emotion exhibit consumer digital content Affectiva Market Research Data API Affdex Market Research System ’ data access portal Its integration apps provide access emotion recognition data gather cloudbased Affdex platform API send HTTPformatted request return JSONformatted response"
+    },
+    {
+        "progweb_cat": "Recognition,Analytics",
+        "api_name": "Affectiva Media Processing",
+        "id": 1786,
+        "progweb_descr": " Affectiva provider emotion recognition technology use AI capability analyze emotion facial expression audience Affectiva support use standard web cam gather analytical insight unfiltered emotion exhibit consumer Affectiva Media Processing API design detect analyze facial expression emotion record visual medium image videos Developers use API integrate emotion detection capability apps"
+    },
+    {
+        "progweb_cat": "Recognition,Analytics",
+        "api_name": "Divit Face",
+        "id": 5164,
+        "progweb_descr": " Divit Face API image recognition service recognize analyzes identifies human face service detect face image face 45 degree away camera axis It determine gender age smile It use verify image know face gallery know face Available JSON format API Key Mashape Divit Face offer request response endpoint"
+    },
+    {
+        "progweb_cat": "Recognition,Analytics",
+        "api_name": "FaceAffinity",
+        "id": 5475,
+        "progweb_descr": " FaceAffinity cloudbased personality analysis API FaceAffinity use image analyze facial pattern assess personality trait Use API create target advertisement improve date site profile assist career management"
+    },
+    {
+        "progweb_cat": "Recognition,Adult",
+        "api_name": "SnapFilter Adult Filtering",
+        "id": 2420,
+        "progweb_descr": " SnapFilter highly accurate adult content filter service This service return adult score query image decision existence adult content True False keep Take control digital content safe easily SnapFilter You decrease control process filter unwanted image instantly"
+    },
+    {
+        "progweb_cat": "Recognition,Artificial Intelligence",
+        "api_name": "SnapOCR",
+        "id": 2421,
+        "progweb_descr": " SnapOCR highly accurate Optical Character Recognition Service allow easily extract text within image SnapOCR return word line line bound box coordinate SnapOCR also search image custom pattern web address phone number useful business card reader product image validation application If SnapOCR find web address validate phone number service return information You must register one package SnapOCR get API key use API"
+    },
+    {
+        "progweb_cat": "Recognition,Artificial Intelligence",
+        "api_name": "SnapTag",
+        "id": 2422,
+        "progweb_descr": " SnapTag highly accurate Image Tagging Service easily manage digital content You get image label confidence score classify image identify object image SnapTag provide opportunity search digital content use keywords without manual tagging Depending package also use custom trained model specifically trained business need You must register one package SnapBuy get API key use"
+    },
+    {
+        "progweb_cat": "Recognition,Artificial Intelligence",
+        "api_name": "SnapBuy Visual Search",
+        "id": 2423,
+        "progweb_descr": " Create image search engine SnapBuy Tag classify image automatically search image autogenerated keywords search visually similar image find product image search detect adult content within image SnapBuy fullstack image recognition need You need register one package SnapBuy Visual Search get API key use"
+    },
+    {
+        "progweb_cat": "Recognition,Identity",
+        "api_name": "Amazon Rekognition",
+        "id": 2594,
+        "progweb_descr": " Amazon Rekognition API offer image recognition analysis capability This API detect object scene face deeplearning base engine Also API analyse face measure similarity perform image verification Developers get start implement Rekognition API free analyse 5000 image per month store 1000 face metadata month first 12 month"
+    },
+    {
+        "progweb_cat": "Recognition,Identity",
+        "api_name": "Microsoft Cognitive Services Speaker Recognition",
+        "id": 3570,
+        "progweb_descr": " Microsoft Cognitive Services Speaker Recognition API identify individual user authenticate use voice It use add layer security third party application speech verification tool pricing verification identification separate plan free option available limit transaction 10000 per month Speaker Recognition API use JSON data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Recognition,Alcohol",
+        "api_name": "TinEye WineEngine",
+        "id": 3117,
+        "progweb_descr": " WineEngine API offer beverage recognition capability work even lowquality mobile image This API support wine beverage beer spirit well WineEngine work compare photo wine bottle collection reference image exceptional recognition rate WineEngine use image recognition neural network deal common user photograph low resolution bad light color improper framing crop offcentre angle blurriness WineEngine also specially engineer recognize wine vintage available label HTTP Basic Auth use authentication JSON XML response"
+    },
+    {
+        "progweb_cat": "Recognition,Classification",
+        "api_name": "TinEye MobileEngine",
+        "id": 3118,
+        "progweb_descr": " MobileEngine API offer image recognition platform integrate exist application This API take image compare database photo product image fast accurate This interface use identify book wallpaper magazine CD cover artwork developer build searchable product catalog endusers API use HTTP Basic Auth authentication JSON XML response"
+    },
+    {
+        "progweb_cat": "Recognition,Classification",
+        "api_name": "Ditto Photo Reader",
+        "id": 4835,
+        "progweb_descr": " Ditto Photo Reader API enable user evaluate photo URL stream provide Dittos match engine Ditto determine brand catalog appear photos Fees Photo Reader API base volume photo analyze Ditto Labs scan social medium image face mention brand"
+    },
+    {
+        "progweb_cat": "Recognition,Text",
+        "api_name": "Web Speech Specification",
+        "id": 3582,
+        "progweb_descr": " Web Speech Specification API integrate texttospeech feature JavaScript language Resources include speech recognition speech grammar speech synthesis"
+    },
+    {
+        "progweb_cat": "Recognition,Content",
+        "api_name": "ScreenLab",
+        "id": 3758,
+        "progweb_descr": " This JSON base API allow user insight UIUX design look viewer ScreenLab use eye track data analyze focus point identify key stimulus include RGB Grey scale HSV color contrast motion position pattern metric heat map"
+    },
+    {
+        "progweb_cat": "Recognition,Machine Learning",
+        "api_name": "Microsoft Cognitive Services Video",
+        "id": 3977,
+        "progweb_descr": " Microsoft Cognitive Services Video API provide cloud base face detection track support detect motion stabilize create thumbnails video This API detect 64 human face frontal face provide good result Additionally use stabilize surveillance shaky videos generate preview snapshot video Currently free plan limit transaction 300 per month per feature available Video API use JSON format data exchange API Keys authentication"
+    },
+    {
+        "progweb_cat": "Recognition,Data",
+        "api_name": "Ditto Social Stream",
+        "id": 4836,
+        "progweb_descr": " Ditto Social Stream API provide metadata public photo Ditto continuously mine Twitter Tumblr Users choose basket brand API return metadata photo brand appear Ditto offer proprietary cloudbased photo recognition service scour visual web find authentic image people use specific brand Fees Social Stream API base number brand"
+    },
+    {
+        "progweb_cat": "Recognition,3D",
+        "api_name": "Cognitec Facial Recognition",
+        "id": 4910,
+        "progweb_descr": " Cognitec Facial Recognition API allow developer integrate facial recognition capability application Cognitec provide face localization track image video stream It check gender age pose deviation exposure glass close eye uniform light detection unnatural color face geometry Cognitec support multiple algorithm work 2D 3D data"
+    },
+    {
+        "progweb_cat": "Recognition,Barcodes",
+        "api_name": "EyeSpy",
+        "id": 4947,
+        "progweb_descr": " EyeSpy object recognition mobile app available download Apple Store soon Google Play API permit developer integrate EyeSpy recognition feature web mobile application Available work JSON format API Key service allow identify human eye see animal car fashion movie poster barcodes word"
+    },
+    {
+        "progweb_cat": "Recognition,Authentication",
+        "api_name": "RWave",
+        "id": 4959,
+        "progweb_descr": " RWave API multiuse RESTful biometric recognition stream API It provide developer tool add power speaker recognition speech recognition facial recognition today innovator"
+    },
+    {
+        "progweb_cat": "Recognition,Math",
+        "api_name": "MyScript Cloud Recognition",
+        "id": 5248,
+        "progweb_descr": " MyScript Cloud HTTPbased set service provide handwrite recognition It base REST architecture also WebSocket network use MyScript recognition engine clientserver configuration It use provide handwrite recognition many software application whether deployed Internet desktop mobile device MyScript support 64 language cursive script 97 isolated character mode across 11 different script include Chinese Japanese Hebrew Cyrillic character MyScript also recognize mathematical equation geometric shape music notation"
+    },
+    {
+        "progweb_cat": "Recognition,Audio",
+        "api_name": "ACRCloud",
+        "id": 5301,
+        "progweb_descr": " ACRCloud comprehensive automatic content recognition provider Its APIs offer audio fingerprint music TV custom content broadcast monitor copyright protection data management audience measurement"
+    },
+    {
+        "progweb_cat": "Recognition,Cloud",
+        "api_name": "LTU Cloud",
+        "id": 6302,
+        "progweb_descr": " LTU Technologies image recognition software company provide customer product tool recognize track process image LTU Cloud API visual search tool use recognize painting movie poster CD cover game cover Developers send request search image use API"
+    },
+    {
+        "progweb_cat": "Recognition,Language",
+        "api_name": "DOCOMO Speech Recognition",
+        "id": 6347,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development Speech Recognition API accept spoken voice within audio file transcribes language detect word These process power FueTrek NTT IT technologies API implement via REST Dialogue API Android iOS SDKs DOCOMO also offer API console easily demo many APIs"
+    },
+    {
+        "progweb_cat": "Recognition,Japanese",
+        "api_name": "DOCOMO Character Recognition",
+        "id": 6348,
+        "progweb_descr": " DOCOMO Japanese provider offer suite API tool mean streamline application development Character Recognition API scan image recognize character English Japanese API return specific coordinate individual character Handwritten overly design character support API implement via REST correspond Android iOS Java SDKs DOCOMO also offer API console easily demo many APIs"
+    },
+    {
+        "progweb_cat": "Recognition,Algorithms",
+        "api_name": "Vufind App Usage",
+        "id": 6618,
+        "progweb_descr": " Vufind offer deeplearning analytics aim understand behavioral persona ecommerce purpose Photo recognition integrate website apps Real Time Recognition API Video recognition available well However point video part premium feature 2 privacy note available first one mention photo analytics base 100 algorithmic computer vision human inspect picture second one indicate video store Vufind developer dont need supply Facebook Twitter ID user"
+    },
+    {
+        "progweb_cat": "Recognition,Algorithms",
+        "api_name": "OpenBR",
+        "id": 7224,
+        "progweb_descr": " OpenBR project produce new language image recognition use express algorithms Each word language correspond plugin performs specific transformation image allow highly decouple development individual step algorithm OpenBR 040 framework Open Source Biometric Recognition relate APIs apply complex algorithm measure recognize facial feature give access control use advanced biometrics C plugins include Face Recognition Age Estimation Gender Estimation OpenBR write subset C know work popular modern C compiler project actively maintain Windows Mac Linux port Android iOS Open BR API help extend functionality OpenBR"
+    },
+    {
+        "progweb_cat": "Recognition",
+        "api_name": "Affectiva Affdex",
+        "id": 6883,
+        "progweb_descr": " Affdex Affectiva facial expression analysis tool use researcher marketer alike learn customer interaction emotive response ad brand type medium Affdex API connect application Affectivas cloud interface allow developer enhance emotive analysis access Affectivas research data"
+    },
+    {
+        "progweb_cat": "Recognition,Comparisons",
+        "api_name": "Viscovery",
+        "id": 6887,
+        "progweb_descr": " Viscovery image recognition match service Their API integrate mobile environment cross compare uploaded image library image Hosted Mashape service scalable allow host million upload image"
+    },
+    {
+        "progweb_cat": "Recognition,Comparisons",
+        "api_name": "HPE Haven OnDemand Image Recognition",
+        "id": 7318,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Image Recognition API scan image compare match object database object user provide HPhosted public database also include logos corporation match Image Recognition API return name database object represent well information object appear image API support standard image type TIFF JPEG PNG GIF BMP ICO PBM PGM PPM"
+    },
+    {
+        "progweb_cat": "Recognition,Auto",
+        "api_name": "Eyedea Recognition",
+        "id": 6892,
+        "progweb_descr": " Eyedea recognition service offer eyeface vehicle copyright plate detection main value API could access instant understanding object user behavior API object recognition To start app creation developer visit link provide access sample code Curl Java Node PHP Python ObjectiveC Ruby NET Eyedea base Czech Republic contact information available support"
+    },
+    {
+        "progweb_cat": "Recognition,Demographics",
+        "api_name": "Oddcast Face Detection",
+        "id": 7223,
+        "progweb_descr": " Oddcast offer set APIs allow developer add tool enterprise level platform enhance user ’ engagement medium Oddcast offer set APIs allow developer add tool enterprise level platform enhance user ’ engagement medium Face Detection API use clientside SWF object allow detection major facial location eye mouth nose chin position etc continuously notify host app face ’ location within frame"
+    },
+    {
+        "progweb_cat": "Recognition,Demographics",
+        "api_name": "Noldus FaceReader",
+        "id": 7225,
+        "progweb_descr": " FaceReader API Noldus analyze emotion allow integration 3rd party software respond result Used application survey good application experiment research Using Project Analysis Module developer trigger event marker launch application ask observer question response emotive trigger update API allows detail coordinate image export"
+    },
+    {
+        "progweb_cat": "Recognition,Photos",
+        "api_name": "HPE Haven OnDemand Face Detection",
+        "id": 7317,
+        "progweb_descr": " IDOL OnDemand HP offer array data process APIs format conversion image analysis index search textual analysis Preview capability exist view many RESTful APIs behave action Face Detection API scan inputted image face return size coordinate position bound box surround face detects API support standard image type TIFF JPEG PNG GIF BMP ICO PBM PGM PPM"
+    },
+    {
+        "progweb_cat": "Recognition,Photos",
+        "api_name": "Emotient",
+        "id": 7860,
+        "progweb_descr": " Emotient image recognition technology Emotient allow face emotion feature recognize identified photo image Emotient API allow developer access integrate functionality Emotient application create new application Public documentation available"
+    },
+    {
+        "progweb_cat": "Recognition,Augmented Reality",
+        "api_name": "Catchoom",
+        "id": 9161,
+        "progweb_descr": " Catchoom provide image recognition technology build interact 3rd party application End user take picture smartphones Catchoom match relevant image connect user online content offer digital experience Catchoom API allow application manage image recognition service well collection reference image metadata associate image RESTful API respond HTTP status code applicable JSON document"
+    }
+]

@@ -1,0 +1,704 @@
+[
+    {
+        "progweb_cat": "Real Estate,England",
+        "api_name": "Nestoria",
+        "id": 27,
+        "progweb_descr": " Nestoria vertical search engine property UK Spain site offer API database geocoded property"
+    },
+    {
+        "progweb_cat": "Real Estate,England",
+        "api_name": "Vorensys",
+        "id": 8419,
+        "progweb_descr": " Vorensys provide background check potential tenant landlord UK Vorensys check credit history tenant previous address follow reference previous landlord verifies income use antifraud technology identify bogus referrers Reports provide plain English without unnecessary jargon Developers integrate Vorensys service application website via SOAP API"
+    },
+    {
+        "progweb_cat": "Real Estate,Mapping",
+        "api_name": "Walk Score",
+        "id": 124,
+        "progweb_descr": " Walk Score calculates walkability address base distance house nearby amenity Walk Score API use RESTful interface return Walk Score latitude longitude US XML JSON format"
+    },
+    {
+        "progweb_cat": "Real Estate,Mapping",
+        "api_name": "Zoopla",
+        "id": 321,
+        "progweb_descr": " Zoopla one UKs lead provider property data consumer property professional give free access information 27000000 home 1000000 property listing 15 year sell price data What use Zoopla API data Provide contextual local data average current property value average sell price property type Show list sale rent property map include support description image agent contact detail Display graph show local property value data trend"
+    },
+    {
+        "progweb_cat": "Real Estate,Mapping",
+        "api_name": "Metropix",
+        "id": 11204,
+        "progweb_descr": " Metropix supplier floor plan base product real estate market Its product include 2D 3D model basic floor plan Google Earth 3D model among others Metropix API enable user access floor plan create new floor plan print edit query property info function service available REST SOAP protocols depend integration need"
+    },
+    {
+        "progweb_cat": "Real Estate,Mapping",
+        "api_name": "Curbwise",
+        "id": 11300,
+        "progweb_descr": " Curbwise service Dataomahacom collection interactive project Omaha WorldHerald Omahacom Curbwise provide real estate information data Omaha area include sale statistic valuation Billed Worldâ€™s Least Advanced API Curbwise API respond latitude longitude within geographic range neighborhood name basic descriptive stats"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "Trulia",
+        "id": 158,
+        "progweb_descr": " Trulia online residential real estate search engine list information property sale real estate trend neighborhood information With Trulia API developer add real estate data application Available data include neighborhood city city county state geolocation information Developers also access Trulia traffic statistic sale list data API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "AgentRank",
+        "id": 750,
+        "progweb_descr": " Access real estate agent sale forecast review AgentRankcom"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "Dezrez",
+        "id": 1347,
+        "progweb_descr": " Dezrez provide real estate software service real estate agent software manage sale rental property include marketing material agency analytics Dezrez API provide XMLbased integration websites Search listing base number factor receive complete detail property developer complete control display property detail search result"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "AOVZ Property Data",
+        "id": 2052,
+        "progweb_descr": " AOVZ Property Data API developers resellers It allow search 125 million property record find owner market value mortgage information footage listing price To access Property Data API need active feebased subscription AOVZCOM provide Account ID API Key"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "Spark RESO Web",
+        "id": 2775,
+        "progweb_descr": " This API endpoint implement RESOs Web API provide data use RESO Data Dictionary version 11 Flexmls® IDX product enable Agents display list broker MLS website provide property search online consumer Flexmls® system FBS build standardsdriven technology platform connect real estate professional customer via web mobile IDX"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "RealMassive",
+        "id": 5206,
+        "progweb_descr": " RealMassive REST API allow developer access integrate functionality RealMassive application Some example API method include manage listing add medium listing list available property RealMassive commercial real estate listing platform"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "Zillow Home Valuation GetChart",
+        "id": 5762,
+        "progweb_descr": " GetChart API allow developer generate URL image file display historical Zestimates specific property API use Zillow Property ID specify chart type either percentage dollar value change input historical data past 1 year 5 year 10 year"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "Zillow Mortgage CalculateMonthlyPaymentsAdvanced",
+        "id": 5811,
+        "progweb_descr": " CalculateMonthlyPaymentsAdvanced API offer developer access estimate monthly payment total payment amortization table give loan amount Features include detailed monthly payment breakdown include tax insurance well payment total life loan"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "NVMS",
+        "id": 9049,
+        "progweb_descr": " National Vendor Management Services NVMS property inspection preservation company deal residential commercial property NVMS API allow client add order request cancellation order NVMS Clients also retrieve information image associate order This API rely SOAP call retrieve data either XML DataSet format"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "LetMC",
+        "id": 9976,
+        "progweb_descr": " LetMCcom provide cloudbased residential letting refer US rental property management software estate let agent Its function include property marketing portal uploads client accounting tenant reference property management interactive service websites LetMCs service integrate user application website via SOAPbased APIs"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "Land Registry Information System of the Czech Republic",
+        "id": 10706,
+        "progweb_descr": " Land Registry Information System Czech Republic provide user online access Czech real estate information Those interested service try free charge functional example use actual service require payment Information access programmatically use SOAP call issue XML format website provide solely Czech"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "Philly Address Live",
+        "id": 11873,
+        "progweb_descr": " Philly Address Live API allow user search address view owner information tax balance public information opaphilagov website well Department Revenue website API use REST protocol default return JSON also return xmlphp txt"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "ZooProperty",
+        "id": 14283,
+        "progweb_descr": " Zoo Property real estate property listing management system Web designer Software developer give user ability choose design manages website API let users access XML data feed property office detail team member information real estate office Users also make RESTful call obtain property attribute property detail attribute primary secondary contact attribute image brochure floorplans Responses format XML JSON"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "Daft",
+        "id": 14477,
+        "progweb_descr": " Daftie Irelands 1 property website Daftie nationwide coverage contain 80 total available property country Daft API service allow developer build tool website power Daftie aim Daftie API open subset Dafties property data thirdparty developer Developers use data create estate agent website statistic Irish property market new property search tool API use SOAP protocol response format XML"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "PetaProperti",
+        "id": 14897,
+        "progweb_descr": " PetaProperti Indonesian real estate search site It allow user view available property location PetaProperti API provide access real estate listing PetaProperticom include price latitudelongitude coordinate location"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "Agent Storm",
+        "id": 15083,
+        "progweb_descr": " Agent Storm API Real Estate Management System interoperable lead real estate system market API facilitate import export integration third party apps sit platform let syncronize Agent Storm account via RETS syndicate listing automatically top real estate web sit search engine Agent Storm give tools market property online customizable Property Web Sites EFlyer Templates Email List Management"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "HomeFinder.com",
+        "id": 15136,
+        "progweb_descr": " HomeFindercom connect home buyer seller real estate professional local newspaper online real estate section Currently HomeFindercom API offer partner access user must register An API key need public documentation available site"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "Home Hippo Property Portal",
+        "id": 15256,
+        "progweb_descr": " Home Hippo API allow user fee HomeHippocom property portal well ability leverage sit data create apps widget Home Hippo free list portal let user market property portfolio worldwide audience API expose method property upload property update fetch property Each action URL These access RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "RealtyBaron Agents",
+        "id": 15349,
+        "progweb_descr": " RealtyBarons Agents API free service enable website mobile apps quickly offer find agent service consumer professional minimal integration zero administration"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "ForeclosureListings.com",
+        "id": 15414,
+        "progweb_descr": " ForeclosureListingscom combine one large databases foreclosure listing direct major bank mortgage company Government HUD Fannie Mae Freddie Mac others Their nationwide network courthouse scout obtain information file regarding owner serve foreclosure notice preforeclosure ForeclosureListingscom APIs let get late 10 Foreclosure Homes zipcode city county state also know property give address foreclosure"
+    },
+    {
+        "progweb_cat": "Real Estate",
+        "api_name": "RentRange Rental Rate",
+        "id": 15429,
+        "progweb_descr": " Rental Rate API websites provide real estate rental listing website visitor RentRange API provide low median high rental rate individual property zip code Using RESTHTTP protocol API let pass property address zipcode provide result data back XML"
+    },
+    {
+        "progweb_cat": "Real Estate,Banking",
+        "api_name": "Zillow",
+        "id": 248,
+        "progweb_descr": " Zillow API Network turn member site mini real estate portal offer fresh provocative real estate mortgage content keep people come back There four category APIs 1 Home Valuation API Search result list Zestimate™ home valuation home valuation chart comparable house market trend chart 2 Property Details API Propertylevel data include historical sale price year tax bedsbaths etc 3 City neighborhood market statistic demographic data 4 Mortgage rate monthly payment estimate"
+    },
+    {
+        "progweb_cat": "Real Estate,Banking",
+        "api_name": "Immobilienscout24 Construction Financing",
+        "id": 6827,
+        "progweb_descr": " Immobilien Scout 24 Real Estate company Germany let customer search ad build house decorate Construction Financing API allow developer integrate function search offer contact mortgage provider attach image property application Outputs XML JSON format"
+    },
+    {
+        "progweb_cat": "Real Estate,Q&A",
+        "api_name": "RealtyBaron Answers",
+        "id": 443,
+        "progweb_descr": " RealtyBarons Answers API free service enable website mobile apps add whitelabel Question Answer service similar Trulia Voices Zillows Home QA minimal integration effort administration"
+    },
+    {
+        "progweb_cat": "Real Estate,Data-as-a-Service",
+        "api_name": "Onboard Informatics Property",
+        "id": 713,
+        "progweb_descr": " Onboard Property Search Engine API integrate US property data application It provide easy access 150 million property record local public record data recent home sale individual property sale history recent home valuation tax assessment liabilities information Onboard Informatics provide real estate information technology service"
+    },
+    {
+        "progweb_cat": "Real Estate,Data-as-a-Service",
+        "api_name": "Onboard Informatics Community",
+        "id": 1803,
+        "progweb_descr": " Onboard Informatics Community API access community demographic information multiple geographic level It include population education ancestry crime commute time weather Onboard Informatics provide real estate information technology service"
+    },
+    {
+        "progweb_cat": "Real Estate,Data-as-a-Service",
+        "api_name": "Onboard Informatics POI",
+        "id": 1804,
+        "progweb_descr": " Onboard Informatics Points Interest POI API provide ability request public private establishment real time base certain location ie Address LatitudeLongitude By know local grocery store gym bank locate proximity new home user well sense community Lookups available define 4 million establishment geocoded displayed map Onboard Informatics provide real estate information technology service"
+    },
+    {
+        "progweb_cat": "Real Estate,Data-as-a-Service",
+        "api_name": "Onboard Informatics Area",
+        "id": 1805,
+        "progweb_descr": " Onboard Informatics Area API include boundary data Maponics United States Postal Service USPS select geographic area Census Bureau ’ MAFTIGER database Area API allow understanding relationship boundary Onboard Informatics provide real estate information technology service"
+    },
+    {
+        "progweb_cat": "Real Estate,Search",
+        "api_name": "Idealista",
+        "id": 876,
+        "progweb_descr": " Idealista lead real estate portal Spain They provide simple search API expose site data Search data include address price pic API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Real Estate,Search",
+        "api_name": "ImmobilienScout24 Search",
+        "id": 6820,
+        "progweb_descr": " Immobilien Scout 24 Real Estate company Germany let customer search ad build house decorate Search API let developer apply perform search query application Search criterion represent query parameter Outputs XML JSON format"
+    },
+    {
+        "progweb_cat": "Real Estate,Search",
+        "api_name": "Domus",
+        "id": 11838,
+        "progweb_descr": " Domus API make Domus Estate Agent Letting service available included third party website Using API user full search capability feature property full detail API respond HTTP request return XML Domusnet PHP site demonstrate API available see upon request"
+    },
+    {
+        "progweb_cat": "Real Estate,Search",
+        "api_name": "StreetEasy",
+        "id": 13165,
+        "progweb_descr": " StreetEasy real estate site New York City help user find home sale rent StreetEasy provide user information help search price location bedroom well price per square foot amenity school zone Users tailor large number preference criterion order customize search API provide access data aggregate calculation set criterion information area within city API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Real Estate,Search",
+        "api_name": "Onboard Lifestyle Search",
+        "id": 14459,
+        "progweb_descr": " Onboard Informatics help real estate medium technology company provide answer user question Lifestyle Listings Engine This API part suite four APIs provide Onboard Lifestyle Search Engine API design allow website developer integrate lifestyle search ï¿½best placesï¿½ websites It may use broker websites MLS website real estate portal site application lifestyle search relevant Documentation publicly available web site"
+    },
+    {
+        "progweb_cat": "Real Estate,Search",
+        "api_name": "ListingWare",
+        "id": 14977,
+        "progweb_descr": " ListingWare real estate list website ListingWare API offer tool developer integrate ListingWare real estate listing websites You use service IDX search feature provide current listing allow user search public listing data"
+    },
+    {
+        "progweb_cat": "Real Estate,Search",
+        "api_name": "Onboard Informatics",
+        "id": 15049,
+        "progweb_descr": " Onboard Informatics help real estate medium technology company provide answer user question Lifestyle Listings Engine This API part suite four APIs provide Listings Web Service search plugin enable National Regional Real Estate Brokerages Web Developers Application Developers display Internet Data Exchange IDX sale property listing single interface This service design allow integration IDX search capability MLS board approve agent broker websites consistent search across market Documentation publicly available web site"
+    },
+    {
+        "progweb_cat": "Real Estate,Customer Relationship Management",
+        "api_name": "Real Estate Cloud MLS",
+        "id": 890,
+        "progweb_descr": " Real Estate Cloud provide various service real estate listing Customer Relationship Management CRM Their API currently provide service search retrieve real estate data This RESTbased API return data JSON require API key access"
+    },
+    {
+        "progweb_cat": "Real Estate,Rentals",
+        "api_name": "Property Solutions",
+        "id": 1058,
+        "progweb_descr": " service provide function manage rental property include attract tenant complete lease agreement ongoing rent collection financial accounting maintenance management related function It provide interface web service control describe rental unit manage tenant record Materials multiple language allow service adapt vary environment API method support create update sale lead customer record attract new tenant lease function support movein Methods support book account receivable transaction account function create updating record property offer rent track maintenance vendor interaction keep property good repair"
+    },
+    {
+        "progweb_cat": "Real Estate,Rentals",
+        "api_name": "RentMetrics",
+        "id": 8844,
+        "progweb_descr": " RentMetrics provide real estate professional data analysis help understand residential rental market give area Users view rental data map download information Excel file RentMetrics provide accurate detailed information individual property use get complete perspective price RentMetrics API enable user create report application incorporate rental data"
+    },
+    {
+        "progweb_cat": "Real Estate,Rentals",
+        "api_name": "Palma Resort",
+        "id": 9739,
+        "progweb_descr": " Palma Resort Danishowned company build home rental property modern architectural design style near Red Sea Western Egypt Palma Resort website SOAP API use access website function These include retrieve apartment detail get recent news contact Palma Resort"
+    },
+    {
+        "progweb_cat": "Real Estate,Rentals",
+        "api_name": "i-Rent",
+        "id": 10145,
+        "progweb_descr": " service provide function vacation property rental either property owner property management agency Functions include web content management site host information specific accommodation reservation book Various nationally brand service provide property management European North American country API method support create updating accommodation list service include description photo price Methods also support reservation book include availability check specify accommodation reserve available accommodation desire option confirm payment"
+    },
+    {
+        "progweb_cat": "Real Estate,Rentals",
+        "api_name": "RentPost",
+        "id": 11470,
+        "progweb_descr": " RentPost rental property management platform It serve landlord building manager tenant landlord building manager RentPost provices dashboard rent collection work order payment system management Tenants use file maintenance request pay rent RentPost offer RESTful API expose integration data management function"
+    },
+    {
+        "progweb_cat": "Real Estate,Rentals",
+        "api_name": "MyBuilding",
+        "id": 11600,
+        "progweb_descr": " service provide rental property management information function vacancy announcement rental application tenant status track maintenance request It also allow resident post profile Property manager list event interest resident send announcement API method support management resident account profile along assignment resident rental unit reassignment different unit move terminate tenancy move Methods also support submission track maintenance request API also support community interaction among resident listing event property"
+    },
+    {
+        "progweb_cat": "Real Estate,Rentals",
+        "api_name": "RentShout",
+        "id": 11840,
+        "progweb_descr": " RentShout API enable user integrate RentShout advertising system 3rd party application Using API user submit list detail bulk RentShout service dispersal across different rental listing websites Users also able query upload list lead service support XML single family listing MITS multifamily property"
+    },
+    {
+        "progweb_cat": "Real Estate,Nordic",
+        "api_name": "booli",
+        "id": 1091,
+        "progweb_descr": " Booli Swedish real estate search portal booli API allow developer connect programmatically boolis data API RESTful return JSON format data"
+    },
+    {
+        "progweb_cat": "Real Estate,Platform-as-a-Service",
+        "api_name": "Nestio",
+        "id": 2223,
+        "progweb_descr": " Nestio API integrate residential marketing lease web service rental purpose real estate platform provide JSON format search list agent geometry build elevator doorman pet neighborhood postal code available date Examples available JavaScript use jQuery Authentication possible via API Key"
+    },
+    {
+        "progweb_cat": "Real Estate,Addresses",
+        "api_name": "DataNerds Property Data",
+        "id": 2449,
+        "progweb_descr": " DataNerds Property Data API integrate real estate data social application Developers send HTTP request receive GeoJSON JSON XML responses authorize API Key They integrate site structure ownership tax assessment mortgage market status estimate market value permit history comparables 130 million property United States access contact jamesdatanerdscom"
+    },
+    {
+        "progweb_cat": "Real Estate,Addresses",
+        "api_name": "Zillow Home Valuation GetSearchResults",
+        "id": 5771,
+        "progweb_descr": " GetSearchResults API allow developer find Zillow listing property specify address aim return content contain address property property Zillow Property ID ZPID current Zestimate® date Zestimate compute valuation range Zestimate ranking property within ZIP code"
+    },
+    {
+        "progweb_cat": "Real Estate,Addresses",
+        "api_name": "Zillow Property GetDeepComps",
+        "id": 5780,
+        "progweb_descr": " GetDeepComps API aim return list comparable recent sale specify property goal return result set list address Zillow property identifier Zestimate comparable property principal property comparables retrieve also return property data comparables"
+    },
+    {
+        "progweb_cat": "Real Estate,Addresses",
+        "api_name": "Zillow Property GetUpdatedPropertyDetails",
+        "id": 5783,
+        "progweb_descr": " GetUpdatedPropertyDetails API aim return home fact edit home owner agent objective result set contain follow attribute Property address Zillow property identifier Posting detail agent name MLS number price post type Sale Make Me Move ™ Up five photo property Updated home fact bed bath square footage home description neighborhood school name"
+    },
+    {
+        "progweb_cat": "Real Estate,Addresses",
+        "api_name": "Zillow Property GetDeepSearch-Results",
+        "id": 5792,
+        "progweb_descr": " GetDeepSearchResults API aim find property specify address objective result set return full address zpid Zestimate data provide GetSearchResults API API call also return property data like lot size year build bathbeds last sale detail etc"
+    },
+    {
+        "progweb_cat": "Real Estate,Cities",
+        "api_name": "PlaceILive Neighborhood Matching Engine",
+        "id": 3096,
+        "progweb_descr": " PlaceILivecom Match Neighborhood Recommendation Engine API provide functionality engine find httpsmatchplaceilivecom integration web site blog product Its engine equips open data selflearning technique provide much possible accurate neighborhood suggestion endusers accord lifestyle need Currently available New York City US London GB More city could add upon request"
+    },
+    {
+        "progweb_cat": "Real Estate,Compliance",
+        "api_name": "RESO RETS Web API",
+        "id": 3223,
+        "progweb_descr": " RESO RETS Web API integrate real estate standard web mobile social HTTPbased application Available REST format aim facilitate compliance certification associate real estate transaction"
+    },
+    {
+        "progweb_cat": "Real Estate,Reporting",
+        "api_name": "HouseCanary Analytics",
+        "id": 3249,
+        "progweb_descr": " HouseCanary Analytics API allow developer access real estate information single property entire portfolio property It generate report include valuation local comp risk factor forecast base address This value risk information use help inform investment decision"
+    },
+    {
+        "progweb_cat": "Real Estate,Big Data",
+        "api_name": "Fypp",
+        "id": 4187,
+        "progweb_descr": " Fypp real state platform focus European property This platform list place sale vacation rental offer hotel Fypp API beta stage currently offer property listing historical data This API return data JSON format require API Keys authentication Registration need access documentation private beta test"
+    },
+    {
+        "progweb_cat": "Real Estate,Advertising",
+        "api_name": "Realty Web Syndicate",
+        "id": 4236,
+        "progweb_descr": " Realty Web Syndicate API Real Estate Listing search application realtime Real Estate CRM Website Traffic Monitoring platform It make real estate professional need tool easy enough use powerful enough produce realworld result Realty Web Syndicate API allow developer access integrate functionality Wordpress websites mobile apps desktop apps apps API access require API account available upon contact provider"
+    },
+    {
+        "progweb_cat": "Real Estate,Advertising",
+        "api_name": "IDX Broker",
+        "id": 7733,
+        "progweb_descr": " IDX Broker provider real estate search application IDX LLC actively manage 1 trillion worth active listing data 550 individual Multiple Listings Services MLS IDX LLC provide integrate software customizable listing search utility lead management tool real estate base website IDX Broker IDX Broker API allow user Collect Lead Data integrate CRM gather account information access MLSProvided Data"
+    },
+    {
+        "progweb_cat": "Real Estate,Business",
+        "api_name": "Dotloop",
+        "id": 4465,
+        "progweb_descr": " Dotloop API allow developer access important data Dotloop business report integration purpose Dotloop collaboration platform real estate professional Turnkey transaction ensure consistent customer experience regardless agent theyre work Charts provide realtime insight transaction occur"
+    },
+    {
+        "progweb_cat": "Real Estate,Design",
+        "api_name": "CubiCasa Partner",
+        "id": 4751,
+        "progweb_descr": " CubiCasa Partner API allow developer handle CubiCasas Orders Delivery status directly applications This API service use Bearer HTTP authentication scheme CubiCasa software create digital floor plan real estate design purpose"
+    },
+    {
+        "progweb_cat": "Real Estate,Data",
+        "api_name": "Real Estate Transaction Standards Web",
+        "id": 5444,
+        "progweb_descr": " Real Estate Transaction Standards RETS Web API available interact data related real estate listing home sale apartment house sale property record service Realtororg provide"
+    },
+    {
+        "progweb_cat": "Real Estate,Housing",
+        "api_name": "SimplyRETS",
+        "id": 5748,
+        "progweb_descr": " SimplyRETS API interface real estate MLS data provide way integrate display data API use standard HTTP request responses JSON authenticate via API Key Use SimplyRETS API gather display information property broker agent open house See API home page information API demo"
+    },
+    {
+        "progweb_cat": "Real Estate,Housing",
+        "api_name": "Zillow Home Valuation GetZestimate",
+        "id": 5781,
+        "progweb_descr": " Zillow GetZestimate API allow developer access Zillows home estimate specify Zillow property identifier zpid GetZestimate API return recent property Zestimate date Zestimate compute valuation range Zestimate ranking within propertys ZIP code full property address geographic location latitudelongitude set identifier uniquely represent region ZIP code city county state property exists"
+    },
+    {
+        "progweb_cat": "Real Estate,Comparisons",
+        "api_name": "Zillow Home Valuation GetComps",
+        "id": 5764,
+        "progweb_descr": " GetComps API allow access Zillows database recent sale specify property comparision Returned result aim contain address Zillow property identifier Zestimate comparable property principal property comparisions retrieve"
+    },
+    {
+        "progweb_cat": "Real Estate,Comparisons",
+        "api_name": "ImmobilienScout24 Valuation",
+        "id": 6826,
+        "progweb_descr": " Immobilien Scout 24 Real Estate company Germany let customer search ad build house decorate valuation API let developer integrate feature cross reference price examine pricetrend application Outputs API XML JSON format"
+    },
+    {
+        "progweb_cat": "Real Estate,Location",
+        "api_name": "Zillow Neighborhood GetRegionChildren",
+        "id": 5774,
+        "progweb_descr": " GetRegionChildren API aim return list subregions follow information specify region Subregion Type Region IDs Region Names URL Corresponding Zillow Page city neighborhood Latitudes Longitudes A region specify various level region hierarchy An optional childtype parameter also specify return subregions specific type"
+    },
+    {
+        "progweb_cat": "Real Estate,Financial",
+        "api_name": "Zillow Mortgage GetRateSummary",
+        "id": 5778,
+        "progweb_descr": " GetRateSummary API allow developer access current rate previous week rate per loan type Zillow Mortgage Marketplace Current support loan type 30year fix 15year fixed 51 ARM GetRateSummary API aim return rate specific state optional state parameter use"
+    },
+    {
+        "progweb_cat": "Real Estate,Financial",
+        "api_name": "Floify",
+        "id": 6365,
+        "progweb_descr": " Floify borrower portal securely collect mortgage loan document allow borrower check loan status It help loan originator process request gathering loan document issue request additional document send status update everyone need Developers integrate system Floify use Floifys RESTful APIs"
+    },
+    {
+        "progweb_cat": "Real Estate,Financial",
+        "api_name": "ICanBuy",
+        "id": 8585,
+        "progweb_descr": " ICanBuy provide mortgage rate information collect Informa Research Services Users search rate location type home credit rating ICanBuy useful people look buy home people look refinance advertise rate ICanBuy submit lender broker actual rate may vary projected quote site"
+    },
+    {
+        "progweb_cat": "Real Estate,Financial",
+        "api_name": "StormRETS",
+        "id": 12042,
+        "progweb_descr": " service aggregate data number real estate transfer service RETS feed document sale property applicationlevel access summarize market activity It provide single source real estate sale track Multiple Listing Service MLS API method support search property track within RETS system single property ID Search also cover specific city country area additional specification property style feature"
+    },
+    {
+        "progweb_cat": "Real Estate,Financial",
+        "api_name": "New York Times Real Estate",
+        "id": 15323,
+        "progweb_descr": " With New York Times Real Estate API get percentiles count real estate listing sale New York City API offer aggregate data divide two set list actual sale price You get number ” count ” listing sale per ZIP code neighborhood borough various build type date range You also get percentile price listing sale per ZIP code neighborhood borough various build type time period"
+    },
+    {
+        "progweb_cat": "Real Estate,Charts",
+        "api_name": "Zillow Neighborhood GetRegionChart",
+        "id": 5779,
+        "progweb_descr": " GetRegionChart API aim generate URL image file display historical Zestimates specific geographic region APIs objective accept region well chart type either percentage dollar value change Optionally API accept width height parameter constrain size image historical data past 1 year 5 year 10 year"
+    },
+    {
+        "progweb_cat": "Real Estate,Prices",
+        "api_name": "Zillow Mortgage GetMonthlyPayments",
+        "id": 5782,
+        "progweb_descr": " GetMonthlyPayments API aim return estimate monthly payment include principal interest base todays mortgage rate goal return estimate monthly payment per loan type 30year fix 15year fixed 51 ARM If ZIP code enter estimate tax insurance return result set"
+    },
+    {
+        "progweb_cat": "Real Estate,Prices",
+        "api_name": "Eppraisal",
+        "id": 11139,
+        "progweb_descr": " service provide estimate sell price home real estate specify property location return range value low middle high It available web form individual submission series embeddable widget via web service API method support specification location US Postal Service Zip Code API return median value along expensive least expensive value base report real estate transaction area"
+    },
+    {
+        "progweb_cat": "Real Estate,Demographics",
+        "api_name": "Zillow Neighborhood GetDemographics",
+        "id": 5791,
+        "progweb_descr": " GetDemographics API aim return set market affordability real estate demographic data specify region include Local Market Data eg median list price number home sale percent listing price reduction Affordability data eg Zillow Home Value Index 1Yr change property tax etc Homes Real Estate data eg percent owner renter median home size average year build etc People data US Census eg median household income median age average commute time average household size etc Who Lives Here Whats Unique About People A region specify respective Region ID zipcode one three parameter state city neighborhood"
+    },
+    {
+        "progweb_cat": "Real Estate,Math",
+        "api_name": "Zillow Mortgage CalculateAffordability",
+        "id": 5810,
+        "progweb_descr": " CalculateAffordability API allow calculation amount user afford base income desire monthly payment return include affordability amount along detail breakdown mortgage payment amortization schedule monthly budget"
+    },
+    {
+        "progweb_cat": "Real Estate,Algorithms",
+        "api_name": "Zilpy Rent Estimate",
+        "id": 6527,
+        "progweb_descr": " Zilpy web service provide fairly accurate estimate rental price give property address use data mining algorithm consider crime rate school rating walkability demographic comparable neighborhood property Users utilize information determine target property rent property listing function enable user view updated property syndicate source cover 985 US population Currently accessible Zilpy developer account holder Zilpy API documentation outline programmatically retrieve estimate market rental price integration within 3rd party application Developers make HTTP GET request query property create report property IDs return rent report Developers visit Zilpy create developer account test API function"
+    },
+    {
+        "progweb_cat": "Real Estate,Brazilian",
+        "api_name": "VivaReal",
+        "id": 6717,
+        "progweb_descr": " VivaReal real estate service provide housing availability LatinAmerican base listing With API user capability retrieve listing view list detail list location information listing save user"
+    },
+    {
+        "progweb_cat": "Real Estate,Brazilian",
+        "api_name": "Rio Branco Real Estate",
+        "id": 9651,
+        "progweb_descr": " Rio Branco Imobiliaria trans Rio Branco Real Estate Brazilian Real Estate company Its API allow user search site available property Users search country state city neighborhood price range transaction type sale rent Rio Branco website provide Portuguese"
+    },
+    {
+        "progweb_cat": "Real Estate,Application Development",
+        "api_name": "ImmobilienScout 24 Expose",
+        "id": 6819,
+        "progweb_descr": " Immobilien Scout 24 Real Estate company Germany let customer search ad build house decorate Expose API let developer incorporate feature create application feature include attachment contact bar exposevideo XML JSON support"
+    },
+    {
+        "progweb_cat": "Real Estate,Application Development",
+        "api_name": "ImmobilienScout24 Import-Export",
+        "id": 6821,
+        "progweb_descr": " Immobilien Scout 24 Real Estate company Germany let customer search ad build house decorate With ImportExport API developer able integrate functionality create change delete real estate object application"
+    },
+    {
+        "progweb_cat": "Real Estate,Application Development",
+        "api_name": "Retsly",
+        "id": 8444,
+        "progweb_descr": " Retsly backend service Baas aggregate MLS real estate data make available develop data driven real estate product Retsly clean standardizes MLS data expose variety format include REST API Retsly API method include agent geography office photo vendor list Authentication provide use OAuth 20 generate access token"
+    },
+    {
+        "progweb_cat": "Real Estate,Application Development",
+        "api_name": "Spark",
+        "id": 11617,
+        "progweb_descr": " Spark Platform give developer way connect Multiple Listing Services MLS provide software tool 250000 broker real estate agent customer Spark provide API store app bar create real estate software ecosystem Spark API allow authorize MLS member request data developer application accord permission license requirement MLS This data categorize listing contact market stats API use RESTful call response format JSON"
+    },
+    {
+        "progweb_cat": "Real Estate,Geography",
+        "api_name": "ImmobilienScout24 GIS",
+        "id": 6825,
+        "progweb_descr": " Immobilien Scout 24 Real Estate company Germany let customer search ad build house decorate Geo Information Service GIS API allow developer integrate function geographically locate property around select region XML JSON support"
+    },
+    {
+        "progweb_cat": "Real Estate,Geography",
+        "api_name": "RentRent",
+        "id": 15710,
+        "progweb_descr": " Use RentRent API return rental list Craigslist You search room apartment house provide parameter return room versus apartment house Also provide parameter min max latitude longitude number bedroom number bathroom You might integrate data Google Maps Yahoo Maps Virtual Earth Rentrent associate Craiglistorg"
+    },
+    {
+        "progweb_cat": "Real Estate,3D",
+        "api_name": "Follow Up Boss",
+        "id": 6942,
+        "progweb_descr": " Follow Up Boss real estate lead track gather interface compatible common realtorhomebuying portal Zillow Trulia Realtorcom IDX websites many tool us open data source extract information potential lead organize content easy manage environment Follow Up Boss API enable customization notification access data profile GET list query ISO 8601 standard date formatting use Developers contact Follow Up Boss directly acquire developer account"
+    },
+    {
+        "progweb_cat": "Real Estate,Enterprise",
+        "api_name": "Lone Wolf",
+        "id": 7690,
+        "progweb_descr": " Lone Wolf real estate solution provider offer client wide variety enterprise service Lone Wolf offer service include brokerWolf WolfConnect globalWolf loadingDOCS Wolfmedia many service provide list advertising marketing accounting document management service Lone Wolf API allow user integrate data number external program directly Lone Wolf suite product An account required service"
+    },
+    {
+        "progweb_cat": "Real Estate,Social",
+        "api_name": "CityBlast",
+        "id": 7703,
+        "progweb_descr": " City blast social medium tool real estate agent service offer personalize team social medium expert update Facebook Twitter LinkedIn profile relevant research authentic content appeal prospective buyer seller CityBlast offer REST API allow function CityBlast incorporate third party application API use sync database CityBlast easy list blast post management automatically create new listing access Dashboard statistic Responses JSON API key require"
+    },
+    {
+        "progweb_cat": "Real Estate,Database",
+        "api_name": "Commercial Property Database (CPD)",
+        "id": 7706,
+        "progweb_descr": " CPD commercial property database provide access currently available archive commercial property marketing detail across United Kingdom Real estate agent use database market manage property connect agent CPD offer REST API programmatic access CPD data An API token require Full API documentation available upon request"
+    },
+    {
+        "progweb_cat": "Real Estate,Database",
+        "api_name": "Realtors Property Resource",
+        "id": 13781,
+        "progweb_descr": " Realtors Property Resource offer national database real estate data cover every parcel property country API allow provide user interface database It use prepopulating list input screen generate comparable property generate indepth property detail page It use SOAP protocol response format XML Full documentation publicly available"
+    },
+    {
+        "progweb_cat": "Real Estate,Marketing",
+        "api_name": "Previsite",
+        "id": 8646,
+        "progweb_descr": " Previsite international online real estate marketing service When user submit property listing automatically distributed real estate portal around world necessary translate language specific portal Users manage monitor view listing online Previsite provide panoramic viewer use method JAVA Flash HTML5 give potential buyer preview property question These viewer extensively customize display image variety format along music voiceovers viewer work mobile tablet display user link endusers preview use QR cod These preview also share directly social medium sit Previsite API allow user add find update delete virtual tour create update retrieve user account information find ad use real estate portal platform Although Previsite website English API documentation give French"
+    },
+    {
+        "progweb_cat": "Real Estate,Marketing",
+        "api_name": "The Home Zone",
+        "id": 9723,
+        "progweb_descr": " Home Zone seek provide customer simple effective affordable online real estate marketing service Its service include talk virtual tour via texttospeech voice recording twoway texting lead generation avenue QR cod property video Most Home Zones product service set quickly live support training available Home Zones SOAP API allow user retrieve individual page fee source submission online tour URLs information specific agency time zone weather data zip code"
+    },
+    {
+        "progweb_cat": "Real Estate,Marketing",
+        "api_name": "RentJuice",
+        "id": 12275,
+        "progweb_descr": " RentJuice provide rental relationship management software broker landlords Their software provide functionality data organization share Brokers landlord digitize paperwork share market inventory information communicate colleague prospective renter Their RESTful API use JSON PHP XML It provide integrative access usersâ€™ raw listing data outside application"
+    },
+    {
+        "progweb_cat": "Real Estate,Marketing",
+        "api_name": "Rezora",
+        "id": 14922,
+        "progweb_descr": " Rezora company provide online marketing tool Real Estate Professionals Rezoras RESTful API allow developer create manage Rezora account resource agent contact distribution list API call via HTTP data return JSON XML pipedelimited CSV format"
+    },
+    {
+        "progweb_cat": "Real Estate,Insurance",
+        "api_name": "CGI HITS",
+        "id": 8726,
+        "progweb_descr": " CGI business information technology company One service provide Habitational Insurance Tracking System HITS give insurer access majority personal property claim data Canada This include 55 data Quebec 98 rest Canada HITS data allow people identify bad risk take find pattern suspicious claim When claim information available insured property HITS estimate score base neighborhood information demographic Users access HITS data log CGI website use web service API hosttohost batch method"
+    },
+    {
+        "progweb_cat": "Real Estate,Sales",
+        "api_name": "Displet",
+        "id": 9278,
+        "progweb_descr": " Displet provide website design service real estate marketer They also provide robust RETS IDX system This allow user display thousand MLS listing draw people search property address MLS number website Users option customize listing title meta description Displet user make registration request appear site visitor various point search process Registered visitor able save search favorite listing view browse history Displet come property suggestion tool send visitor new property base search history Displet REST API allow user integrate RETS IDX system website"
+    },
+    {
+        "progweb_cat": "Real Estate,Indian",
+        "api_name": "PropertyWala.com",
+        "id": 9365,
+        "progweb_descr": " PropertyWalacom real estate portal offering free real estate advertising service property throughout India PropertyWalacom API provide RESTful developer interface programmatically manage property listing access list data Responses JSON format API key require"
+    },
+    {
+        "progweb_cat": "Real Estate,Transactions",
+        "api_name": "TransactionPoint",
+        "id": 9737,
+        "progweb_descr": " TransactionPoint real estate transaction management platform help manage document contact service order task involved real estate transaction To end provide advanced automation secure document repository comprehensive audit trail track task document fax email complete history transaction TransactionPoint access anytime anywhere via web interface Users may also create update transaction via SOAP API"
+    },
+    {
+        "progweb_cat": "Real Estate,Web Site Management",
+        "api_name": "Placester",
+        "id": 9800,
+        "progweb_descr": " Placester service real estate website real estate marketing Placester offer tool customize real estate website use theme feature integrate Wordpress website Placester API allow developer access integrate functionality Placester Wordpress websites Public documentation available API access come account service"
+    },
+    {
+        "progweb_cat": "Real Estate,New York City",
+        "api_name": "Buyfolio Partner",
+        "id": 9981,
+        "progweb_descr": " Buyfolio design facilitate streamline New York City home buying experience listing data store one place Buyfolio Partner API allow user integrate Buyfolio websites apps API create new client folio add additional email address exist folio retrieve broker full client list add property list folio An account require use"
+    },
+    {
+        "progweb_cat": "Real Estate,Australian",
+        "api_name": "ValEx",
+        "id": 10363,
+        "progweb_descr": " service provide estimate property value real estate Australia Integration possibility include request quote valuation service order valuation report access report complete Property assessor conduct valuation order client update service record client access API method support submit request quote specify property assess variable relevant valuation Methods also support complete order quote valuation job check status accept assign inspected delayed API support retrieve finished report display analysis"
+    },
+    {
+        "progweb_cat": "Real Estate,Australian",
+        "api_name": "Zoo Property",
+        "id": 10562,
+        "progweb_descr": " service provide listings real estate property offer sale rental group sell office It allow remote creation update property listing information location address description text specification amenity tax jurisdiction property photo Integration possibility allow property listing build neighborhood regional information application platforms expose listing wider audiences A WordPress plugin available interacts API display listing API method support creation sale rental listing include shortterm holiday rental property ability edit offer term information time Methods also support listing commercial real estate offering API support management information property marketing open house event"
+    },
+    {
+        "progweb_cat": "Real Estate,Medical",
+        "api_name": "We Know A Place Senior Housing Locator",
+        "id": 10447,
+        "progweb_descr": " We Know A Place online directory service housing senior elderly people Users search elder care housing We Know A Place Senior Housing Locator allow developer access integrate senior housing data application create new application main API method return list information senior housing"
+    },
+    {
+        "progweb_cat": "Real Estate,Reference",
+        "api_name": "Real Estate Transaction Standard",
+        "id": 10762,
+        "progweb_descr": " Real Estate Transaction Standard RETS common language spoken system handle real estate information This enable system multiple listing service easily integrate real estate information multiple source RETS develop Real Estate Standards Organization standard access programmatically use SOAP call"
+    },
+    {
+        "progweb_cat": "Real Estate,Tools",
+        "api_name": "Cloud CMA",
+        "id": 10986,
+        "progweb_descr": " Cloud CMA online report generator real estate agent broker Cloud CMA API provide RESTful interface customer embed report creation functionality within website Report type include CMA buyer tour property report"
+    },
+    {
+        "progweb_cat": "Real Estate,Recommendations",
+        "api_name": "RealSatisfied",
+        "id": 11592,
+        "progweb_descr": " RealSatisfied increase opportunity make connection client customer Future present customer view testimonial recommendation online They provide platform gather user generate testimonial feedback straight forward simplified manner You send client survey invitation set notification RESTful RealSatisfied API utilize XML JSON HTTP use GETPOST PUT call API use integrate application RealSatisfieds service documentation also include developer sandbox test API functionality available tool"
+    },
+    {
+        "progweb_cat": "Real Estate,Management",
+        "api_name": "Propertyware",
+        "id": 11671,
+        "progweb_descr": " Propertyware asset management software real estate It intend landlord fee manager REO asset manager software come different package different size operation All feature enable aforementioned party manage portfolio payment prospect It also inbuilt capacity integrate QuickBooks Outlook Google Sync Propertyware API available Enterprise subscriber It expose integrative developmental functionality"
+    },
+    {
+        "progweb_cat": "Real Estate,Management",
+        "api_name": "BookingCenter Booking Engine",
+        "id": 11905,
+        "progweb_descr": " BookingCenter maker property management software Offering web base desktop solution BookingCenter software allow user perform follow task reservation guest history group booking housekeep guest account folio house accounting house folio report night audit automatic billing content security control Booking Engine API allow user access functionality BookingCenter software integrate exist system It available REST SOAP protocols response format XML Full documentation available upon sign nondisclosure agreement"
+    },
+    {
+        "progweb_cat": "Real Estate,Project Management",
+        "api_name": "Yes-co",
+        "id": 11767,
+        "progweb_descr": " Yesco real estate project management system broker agent It also include feature help facilitate communication customer provide consumer feedback Yesco API enable developer create retrieve manage real estate project programmatically Yesco website provide Dutch API documentation give English"
+    },
+    {
+        "progweb_cat": "Real Estate,Lists",
+        "api_name": "Flexmls",
+        "id": 11860,
+        "progweb_descr": " Flexmls real estate multiple list service real estate broker Flexmls API allow broker agent access listing contact market stats Users also add flexmls listing search tool third party website service use REST call return JSON Access API key cost 240 annually"
+    },
+    {
+        "progweb_cat": "Real Estate,Lists",
+        "api_name": "REVO",
+        "id": 13796,
+        "progweb_descr": " REVO service real estate agent list property send promotional email texts social medium site organize property information manage customer information REVO API allow integration application websites Some example API method include manage list information add listing delete listing Public documentation available API include account"
+    },
+    {
+        "progweb_cat": "Real Estate,Energy",
+        "api_name": "EnergyIQ",
+        "id": 12367,
+        "progweb_descr": " service part effort US Lawrence Berkeley National Laboratory encourage benchmarking building energy efficiency clear guideline action reduce waste improve energy performance It intend process data way support decisionmaking provide access raw data application process API method support direct retrieval complete datasets well query data specific build type sizes location age activity house eg education health care retail general office etc Requests specify energy profile detail interest unit measurement chart type output data"
+    },
+    {
+        "progweb_cat": "Real Estate,Localization",
+        "api_name": "Onboard Points of Interest",
+        "id": 14460,
+        "progweb_descr": " Onboard Informatics help real estate medium technology company provide answer user question Lifestyle Listings Engine This API part suite four APIs provide Points Interest API give consumer instant picture prospective community Corresponding Yelp review rating bring voice neighborhood life API give user access search category include Eateries Health care Shopping Places worship Documentation publicly available web site"
+    }
+]

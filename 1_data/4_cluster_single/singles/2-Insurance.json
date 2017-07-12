@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Insurance",
+        "api_name": "Vertafore",
+        "id": 3179,
+        "progweb_descr": " Vertafore API allow customer partner integrate Vertafores cloudbased insurance service thirdparty system application It include method work AMS360 agency management system Vertafore modern insurance technology company provide insurance agency carrier MGAs MGUs 22 state technology manage business process customer claim API documentation publicly available"
+    },
+    {
+        "progweb_cat": "Insurance",
+        "api_name": "TipsGO InsuranceCalculator",
+        "id": 3268,
+        "progweb_descr": " Tips Go InsuranceCalculator API help simplify building insurance calculator API use easily build calculation life insurance income protection cover requirement This API part TipsGo platform consist TipsGo recommendation base Money Management Platform TipsGo Platform provide Money Management Tips recommendations user These tip help user make money help save growinvest protect money"
+    }
+]

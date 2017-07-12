@@ -1,0 +1,92 @@
+[
+    {
+        "progweb_cat": "Streaming,Audio",
+        "api_name": "S3Bubble",
+        "id": 622,
+        "progweb_descr": " S3 Bubble cloud storage medium stream service syncs Amazon Web Services API Through store sell stream medium S3Bubble state revenue generate service Currently production API mean give user developer control implement S3Bubble plugins"
+    },
+    {
+        "progweb_cat": "Streaming,Audio",
+        "api_name": "Agora Interactive Broadcasting",
+        "id": 3235,
+        "progweb_descr": " Agora Interactive Broadcasting API support integration realtime audio video stream functionality web mobile application It design facilitate streaming interactive communication discourse live broadcast group audio conversation well interpersonal group video chat cloudbased API accessible Agora SDK feature WebRTC compatibility accommodate seven speaker deploy engage large audience number many 10000 participant It applicable broad spectrum live event concert talk show game online auction remote personnel train online class among others"
+    },
+    {
+        "progweb_cat": "Streaming,Audio",
+        "api_name": "UberStations Music and Radio Search",
+        "id": 5369,
+        "progweb_descr": " UberStations Music Radio Search API build search engine internet radio RESTful API accept JSON XML data type require partner token API authentication Tokens available register free account DARfm Use Uberstations API search 100000 internet radio station current song station name geographic location call sign Uberstations Music Radio Search API also build recommendation engine artist song"
+    },
+    {
+        "progweb_cat": "Streaming,Audio",
+        "api_name": "Wowza REST",
+        "id": 6317,
+        "progweb_descr": " Wowza Streaming Engine software REST Application Programming Interfaces APIs use manage configure monitor medium server HTTP request Wowza Streaming Engine 41 include servlet provide access runtime documentation REST APIs preview feature documentation display JSON data Swagger user interface v12 Developers use Try button Swagger UI control Streaming Engine software acquire preview license"
+    },
+    {
+        "progweb_cat": "Streaming,Images",
+        "api_name": "Ustream.TV Player",
+        "id": 2299,
+        "progweb_descr": " Ustream provide proprietary online stream live video stream platform UstreamTV Player API support live stream video content addition provide playback functionality record video It enhance access important event associate live stream play video Developers must browsers support postMessage DOM API able deploy UstreamTV Player API"
+    },
+    {
+        "progweb_cat": "Streaming,Images",
+        "api_name": "Azubu TV",
+        "id": 2340,
+        "progweb_descr": " Azubu TV API stream platform Live TV video broadcast API support live stream game TV channel Its integration allow developer capture stream event channel record available live channel live channel genre API conveys JSONformatted request response"
+    },
+    {
+        "progweb_cat": "Streaming,Activity Streams",
+        "api_name": "UStream.TV Broadcaster",
+        "id": 2805,
+        "progweb_descr": " UStreamTV Broadcaster API integrate broadcast experience page use Web flash application It available REST format JSON architecture OAuth2 authentication method"
+    },
+    {
+        "progweb_cat": "Streaming,Activity Streams",
+        "api_name": "UStream.TV Social Stream",
+        "id": 2806,
+        "progweb_descr": " UStreamTV Social Stream API integrate message send feature via social stream It could useful notify user stream channel Available REST architecture OAuth2 authentication HTTP GET request JSON response return"
+    },
+    {
+        "progweb_cat": "Streaming,Activity Streams",
+        "api_name": "UStream.TV Channel",
+        "id": 2807,
+        "progweb_descr": " UStreamTV Channel API integrate element create broadcast channel stream online With OAuth2 authentication method REST architecture JSON XML request responses developer create channel edit channel detail delete channel list user channel"
+    },
+    {
+        "progweb_cat": "Streaming,Activity Streams",
+        "api_name": "CardStreams REST",
+        "id": 5626,
+        "progweb_descr": " CardStreams REST API streambased storage retrieval architecture This API allow creation storage curation distribution content display activity stream feed CardStreams REST API use GET post provide REST response require authentication token There three level API access plan range free developer 10000 call daily 10 stream limit Enterprise level unlimited developer account CardStreams cloud base platform SaaS stream provide microcontent mobile web desktop application"
+    },
+    {
+        "progweb_cat": "Streaming,Library",
+        "api_name": "Streamaps",
+        "id": 3347,
+        "progweb_descr": " Streamaps API allow developer get download stream link Streamaps library use application Steamaps search internet hosters collect data add library user stream download Data always check availability Streamaps permit full text search query well result"
+    },
+    {
+        "progweb_cat": "Streaming,HTML5",
+        "api_name": "Bitdash",
+        "id": 5115,
+        "progweb_descr": " Bitdash JavaScript API allow developer access integrate functionality Bitdash application Some example API method include play back HTML5 video retrieve playback metric retrieve player status Bitdash Bitmovin HTML5 player stream HTML5 video"
+    },
+    {
+        "progweb_cat": "Streaming,Analytics",
+        "api_name": "Dextro",
+        "id": 5633,
+        "progweb_descr": " Dextro REST API allow developer access integrate functionality Dextro applications Some example API method include retrieve API category manage categorization video image detect photo Dextro visual data analysis platform"
+    },
+    {
+        "progweb_cat": "Streaming,Air Travel",
+        "api_name": "Broadcastify Live Audio Feed Catalog",
+        "id": 6368,
+        "progweb_descr": " Broadcastify radio communication platform specialize stream live audio public safety aircraft rail marine relate communication Live Audio Feed Catalog API part Broadcastify API system integrate application developer use request live feed Broadcastify catalog Outputs API XML JSON format"
+    },
+    {
+        "progweb_cat": "Streaming,Media",
+        "api_name": "YouTube Live Streaming",
+        "id": 6622,
+        "progweb_descr": " YouTube Live Streaming allow create update manage live event YouTube Music executive artist independent entrepreneur could benefit API could schedule broadcast associate video stream Some option use API include enable user predefine broadcast setting associate video streams broadcast enable broadcaster define information broadcast use YouTube Data API time simplify transition broadcast state test live"
+    }
+]

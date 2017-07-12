@@ -1,0 +1,2138 @@
+[
+    {
+        "progweb_cat": "Science,Sustainability",
+        "api_name": "AMEE",
+        "id": 498,
+        "progweb_descr": " AMEE platform greenhouse gas calculation access emission factor calculation algorithms storage data history Our science team take publish methodology science community put simple unified API dont trawl PDFs spreadsheets work With 8 million possible calculation platform cover everything simple electricity calculation insanely complex industrial process If need work environmental impact activity AMEE environmental intelligence need"
+    },
+    {
+        "progweb_cat": "Science,Sustainability",
+        "api_name": "CoolClimate Calculator",
+        "id": 8860,
+        "progweb_descr": " CoolClimate Network division UC Berkeleyâ€™s Renewable Appropriate Energy Laboratory research greenhouse gas emission reduction develop carbon management tool advocate voluntary carbon reduction business individual CoolClimate Calculator tool allow US household calculate carbon footprint compare result receive personalized advice reduce carbon impact calculator expose API allow 3rd party application compute carbon footprint give userspecified parameter"
+    },
+    {
+        "progweb_cat": "Science,Marine",
+        "api_name": "NOAA ERDDAP",
+        "id": 908,
+        "progweb_descr": " This data service provide combined interface access download scientific datasets subsets oceanography common file format Typical us involve chart mapping ERDDAP present single format access multiple repository service reformats interact remote server host desire data API method support retrieve list available resource URLs resource category datasets well metadata describe resource Methods also allow fulltext advanced search datasets"
+    },
+    {
+        "progweb_cat": "Science,Marine",
+        "api_name": "Ocean Networks Canada",
+        "id": 8247,
+        "progweb_descr": " Ocean Networks Canada ONC support research complex Earth process ocean observatory advancement science Benefit Canada Ocean Networks Canada API provide programmatic access much ONCâ€™s data service Exposed resource include information describe data product sensor observation data station information archival data"
+    },
+    {
+        "progweb_cat": "Science,Marine",
+        "api_name": "BODC NERC Vocabulary Server",
+        "id": 10851,
+        "progweb_descr": " British Oceanographic Data Centre BODC national facility maintain distribute data concern marine environment It provide several web service implement data include NERC Vocabulary Server Vocabulary Server provide access list standard term use oceanographic metadata include description data platform instrument geographic location Using standardized set term solves problem ambiguity associate data markup also enable record interpret computer This open possibility computer aid manipulation distribution longterm reuse BODC NERC Vocabulary Server access programmatically use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Science,Marine",
+        "api_name": "CO-OPS",
+        "id": 13318,
+        "progweb_descr": " As part NOAA COOPS Center Operational Oceanographic Products Services monitor assess distributes information relate tide current water level coastal oceanographic indicator COOPS provide several SOAP APIs return information water level tide current harmonic station metadata meteorology location along US coast"
+    },
+    {
+        "progweb_cat": "Science,Marine",
+        "api_name": "IOOS SOS",
+        "id": 13335,
+        "progweb_descr": " This API COOPS Implementation IOOS Integrated Ocean Observation System SOS Sensor Observation Service IOOS online tool allow user access information oceanic coastal Great Lakes environment collect source include NOAA federal agency IOOS Regional Associations potentially national international organization With IOOS SOS API user retrieve data current water level preliminary verify predicted meteorology water condition wave harmonic sensor station via HTTP GETPOST"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "EPA Watershed Summary",
+        "id": 919,
+        "progweb_descr": " EPAs Watershed Summary API provide summary information type data available within give watershed identified 8digit HUC Hydrologic Unit Code This data include organization data number station result count characteristic type"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "Biosafety Clearing-House",
+        "id": 11321,
+        "progweb_descr": " Cartagena Protocol Biosafety international treaty govern movement live modify organisms LMOs result modern biotechnology one country another Biosafety ClearingHouse BCH mechanism set Cartagena Protocol facilitate exchange information LMOs assist party well comply obligation Protocol Global access variety scientific technical environmental legal capacitybuilding information provide 6 UN language BCH account holder create manage record BCH sign Management Centre Registering Information section BCH information function available programmatically use SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "EPA Station",
+        "id": 13186,
+        "progweb_descr": " EPA Station API provide information monitoring location within userdetermined geographic bound box API allow user quickly pull station location map return station count give geographic area obtain detailed station information"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "ScienceBase",
+        "id": 13679,
+        "progweb_descr": " ScienceBase service US Geological Survey USGS provide collaborative data catalog data management platform USGS scientist partner Access ScienceBase Catalog available API use SOAP protocol"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "NOAA MADIS",
+        "id": 13681,
+        "progweb_descr": " Meteorological Assimilation Data Ingest System MADIS service NOAA collect integrate provide quality control distribute meteorological data observation MADIS include data provide NOAA well international federal state local agency universities volunteer private sector MADIS API use via Fortran utility program also available perform single instance call output response text file"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "EPA Envirofacts",
+        "id": 13704,
+        "progweb_descr": " Envirofacts service US Environmental Protection Agency It provide search access multiple environmental database may include data thing toxic chemical release water discharge permit compliance hazardous waste handle process Superfund status air emission estimate among others Envirofacts API use REST SOAP protocols return response XML CSV Excel format"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "Satellite Situation Center Web (SSCWeb)",
+        "id": 13917,
+        "progweb_descr": " Satellite Situation Center Web SSCWeb NASA service consist software associate database provide geocentric spacecraft location information map geophysical region Earths magnetic field Access SDK associate API available developer create incorporate SSCWeb software data application API use SOAP protocol"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "Earth Observing System",
+        "id": 14141,
+        "progweb_descr": " ECHO data clearinghouse Earth Observing System EOS service provide NASAs Earth Science Data Information Systems ESDIS program ECHO provide common mechanism provider community publish data service offering mechanisms consumer discover understand access resource API use SOAP REST protocols return response XML"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "Virtual Solar Observatory",
+        "id": 14142,
+        "progweb_descr": " Virtual Solar Observatory VSO combine access observation Sun include image Data file include NASA solarobserving mission well groundbased observatory Searches conduct use instrument name data type eg magnetogram time interval spectral range event API use SOAP protocol"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "NASA Coordinated Data Analysis System (CDAS)",
+        "id": 14143,
+        "progweb_descr": " Coordinated Data Analysis System CDAS support plot data variable multiple instrument produce multiple space physic investigation Any data produce Common Data Format CDF ISTPIACG Guidelines accessible CDAS service NASAGSFC Space Physics Data Facility SPDF There 600 data variable Geotail Wind Interball Polar SOHO ancilliary spacecraft groundbased investigation accessible publicly available database CDAS Web Services API allow developer access CDAS data service"
+    },
+    {
+        "progweb_cat": "Science,Government",
+        "api_name": "Data Translation Web Service (DTWS)",
+        "id": 14144,
+        "progweb_descr": " Data Translation Web Service DTWS service NASAGoddard Space Flight Centers Space Physics Data Facility SPDF facilitate promote data exchange among space scientist DTWS support data Common Data Format CDF API use SOAP protocol allow user translate one local andor remote file data format"
+    },
+    {
+        "progweb_cat": "Science,Environment",
+        "api_name": "EPA Station Catalog",
+        "id": 920,
+        "progweb_descr": " EPAs Station Catalog API provide summary information water quality monitoring station station name period record result count characteristic type This API operate SOAP HTTP GET protocol"
+    },
+    {
+        "progweb_cat": "Science,Environment",
+        "api_name": "MaConDa",
+        "id": 10184,
+        "progweb_descr": " service provide access Mass spectrometry Contaminant Database aggregate research report chemical composition environmental contaminant molecule It gather data experimental result theoretical projection develop researcher field instrument provider test mass spectrometer Contaminant record annotate metadata describe compound API method support search database approximately 300 record specify contaminant type ion structure detect molecule well type specific model mass spectrometry instrument perform analysis"
+    },
+    {
+        "progweb_cat": "Science,Environment",
+        "api_name": "HQCasanova Weekly CO2",
+        "id": 10340,
+        "progweb_descr": " Weekly CO2 API JSONP service provide late weekly atmospheric CO2 average measure NOAAs Mauna Loa Observatory Hawaii data source MLOs RSS feed average record week 1 10 year ago also retrieve Responses format plain text"
+    },
+    {
+        "progweb_cat": "Science,Environment",
+        "api_name": "GEMStat",
+        "id": 10400,
+        "progweb_descr": " Global Environment Monitoring System GEMS multifaceted water science center create United Nations Environment Programme GEMS goal improve global water quality monitoring assessment ability determine status trend regional global water quality GEMStat global water quality database design provide access surface groundwater quality data statistic collect GEMS GEMStat provide two online service access data Web Feature Service Web Map Service Web Feature Service return information GEMS station measurement theyve take Web Map Service provide maps GEMS station location Both service accessible programmatically use either SOAP REST call"
+    },
+    {
+        "progweb_cat": "Science,Environment",
+        "api_name": "EPA Environmental Dataset Gateway",
+        "id": 10494,
+        "progweb_descr": " service provide access number datasets contain record level environmental variable measure track US Environmental Protection Agency A number datasets document various monitor program time track pollutant environmental condition affect air quality water quality landborne contaminant EPA staff contractor access current historical data via service build instance ESRI Geoportal Server API method support list available datasets selection desire data base location condition interest researcher Methods also support retrieval desire datasets formats suitable analysis"
+    },
+    {
+        "progweb_cat": "Science,Environment",
+        "api_name": "eHabitat WPS",
+        "id": 11318,
+        "progweb_descr": " eHabitat Web Processing Service WPS webbased tool assess potential environmental change due anthropogenic activity especially change affect protected area In particular eHabitats model service allow user assess likelihood find equivalent habitat either presently future Programmatic access eHabitat WPS available form SOAPbased API"
+    },
+    {
+        "progweb_cat": "Science,Environment",
+        "api_name": "CUAHSI WaterOneFlow",
+        "id": 12120,
+        "progweb_descr": " service handle exchange hydrologic data server databases application data share analysis It provide specialized flavor XML know WaterML Provided consortium university hydrology program part Hydrology Information Service HIS document support research water supply environmental activity within many watershed study affiliated researcher API method support retrieval list site study information object metadata summarize location condition API also return variable track value log"
+    },
+    {
+        "progweb_cat": "Science,Environment",
+        "api_name": "DataFed WCS",
+        "id": 13148,
+        "progweb_descr": " DataFed Web Coverage Service WCS SOAPbased API describes request delivers coverage â€ “ information represent spacetime variance air quality current version WCS API 10 support grid image data type"
+    },
+    {
+        "progweb_cat": "Science,Environment",
+        "api_name": "EPA Project Catalog",
+        "id": 13185,
+        "progweb_descr": " EPAs Project Catalog API provide summary information research project period record characteristic monitor name station use Users search project Organization ID Project ID Station ID Hydrologic Unit Code HUC"
+    },
+    {
+        "progweb_cat": "Science,Search",
+        "api_name": "uBio Namebank",
+        "id": 943,
+        "progweb_descr": " service represent collaborative effort US science library participate international development complete listing know names organisms living extinct Its Taxonomic Name Server TNS catalog organisms name biological classification help application find information living thing start name apply API method support identification organism record ID value search use name submit query Methods also support retrieval synonym alternative language term classification taxonomic relationship These XML WebServices function replicate uBio SOAP method Each function return XML structure similar return SOAP method Click function name see example structure return keyCode include example work uBio administrator Get keycode Strings return webservice base64 encode XML delivery"
+    },
+    {
+        "progweb_cat": "Science,Search",
+        "api_name": "Open PHACTS",
+        "id": 9515,
+        "progweb_descr": " Open PHACTS consortium focus reduce barrier drug discovery industry academia small business Open PHACTS API provide developer interface integrate query multiple publicly available pharmacological physicochemical data source API support HTTP GET call return data variety format include JSON XML RDF An API key require signup free"
+    },
+    {
+        "progweb_cat": "Science,Search",
+        "api_name": "SureChem",
+        "id": 11223,
+        "progweb_descr": " SureChem chemical patent search engine SureChem information chemical patent user search access database SureChem API allow developer access integrate functionality data SureChem application Public documentation available API access come account service Email supportsurechemcom information"
+    },
+    {
+        "progweb_cat": "Science,Search",
+        "api_name": "BioLit",
+        "id": 11843,
+        "progweb_descr": " BioLit searchable database biologyrelated article It provide enhanced view article include semantic data link biological database base article content Currently article BioLit database PubMed Central archive These article filter remove contain researchrelated content BioLits search function access programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Science,Search",
+        "api_name": "cBio Cancer Genomics Data Server (CGDS)",
+        "id": 12749,
+        "progweb_descr": " service provide direct access application genetic genomic data store Memorial SloanKettering Cancer Center Applications retrieve information cancer study genetic finding genetic profile indicator specific cancer type gene structure similar highly detailed data Datasets document 5000 tumor sample 20 research study API method support retrieval cancer research study detail filter specific topic finding Methods also allow retrieval genetic profile case list report cancer research extend mutation data protein antibody information clinical data"
+    },
+    {
+        "progweb_cat": "Science,Search",
+        "api_name": "Numismatic Search",
+        "id": 12961,
+        "progweb_descr": " Numishare provider Numismatic Search API open source project evolve University Virginia Art Museum Numismatic Collection With API user interact programmatically American Numismatic Societys MANTIS interface search sort browse data collection API base query ANSs Solr search index modify base user need A wide range search operator parameter available enable highly customized query This API operate HTTP use KML Atom response format"
+    },
+    {
+        "progweb_cat": "Science,Search",
+        "api_name": "ncRNA fRNAdb",
+        "id": 13038,
+        "progweb_descr": " service provide search access database functional RNA sequence It part web portal bioinformatics tool support genetic research specific functional RNA comprehensive list noncoding RNA sequence International scientist maintain data open access within genetic research community API method support submission search query retrieve match database Methods also support retrieve complete detail individual listing output available several map sequence format addition XML"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "OpenSkyQuery SkyPortal",
+        "id": 1000,
+        "progweb_descr": " OpenSkyQuery service allow user compare astronomical catalog order find positional crossmatches These match subject condition constraint user wish define base data catalog primary interface utilizes SQL Structured Query Language extension specialize astronomical data OpenSkyQuery SkyPortal API make function available programmatically via SOAP call"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "SDSS ImgCutout",
+        "id": 1022,
+        "progweb_descr": " Sloan Digital Sky Survey SDSS project dedicate mapping universe Over eight year operation obtain deep multicolor image cover quarter sky create 3dimensional map contain 930000 galaxy 120000 quasar SDSS provide SOAPbased interface retrieve image cutout archive Users must provide array information specify desire image include right ascension declination scale image width height draw option service return request image JPEG format"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "NASA ECHO REST Web Services",
+        "id": 3410,
+        "progweb_descr": " This REST API view NASA resource ECHO access use HTTP XML JSON These resource create retrieve updated delete use HTTP method POST GET PUT DELETE NASA resource include user token group tag NASA open data support NASA ’ scientist engineer information technology like technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "NASA EONET Categories",
+        "id": 3411,
+        "progweb_descr": " This EONET REST API use filter output Categories API Layers API Categories type event individual event catalog EONET Earth Observatory Natural Event Tracker prototype web service goal provide curated source continuously updated natural event metadata provide service link natural event theme relate web serviceenabled image source NASA open data support NASA ’ scientist engineer information technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "NASA Asteroids Neo Browse",
+        "id": 3412,
+        "progweb_descr": " This REST API web service near earth object allow browse overall Asteroid dataset NASA open data support NASA ’ scientist engineer information technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "NASA Asteroids Neo Lookup",
+        "id": 3413,
+        "progweb_descr": " This REST API allow lookup specific Asteroid base NASA JPL small body SPKID ID NASA open data support NASA ’ scientist engineer information technology like technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "NASA Asteroids Neo Stats",
+        "id": 3417,
+        "progweb_descr": " This REST API web service near earth object retrieve current Neo Statistics NASA open data support NASA ’ scientist engineer information technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "NASA Asteroids Neo Feed",
+        "id": 3425,
+        "progweb_descr": " This REST API retrieve list Asteroids base close approach date Earth NASA open data support NASA ’ scientist engineer information technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "NASA EONET Layers",
+        "id": 3431,
+        "progweb_descr": " This EONET REST API allow access layer map category within EONET provide categoryspecific list layer A Layer reference specific web service use produce imagery particular NASA data parameter EONET Earth Observatory Natural Event Tracker prototype web service goal provide curated source continuously updated natural event metadata provide service link natural event theme relate web serviceenabled image source NASA open data support NASA ’ scientist engineer information technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "NASA EONET Events",
+        "id": 3432,
+        "progweb_descr": " This EONET REST API allow filter return event source These reference usually source event first curated although multiple source per event EONET Earth Observatory Natural Event Tracker prototype web service goal provide curated source continuously updated natural event metadata provide service link natural event theme relate web serviceenabled image source NASA open data support NASA ’ scientist engineer information technology infusion procurement future IT workforce development"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Burning Soul Moon",
+        "id": 5413,
+        "progweb_descr": " Moon API part independent project Burning Soul computer technology organization This API allow obtain data moon current age moon day illumination stage distance earth distance sun Use API integrate scientific information educational apps Example output structure usage available"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Space Telescope Science Institute",
+        "id": 6952,
+        "progweb_descr": " Space Telescope Science Institute feature Barbara A Mikulski Archive Space Telescopes To create application relate science astronomy data telescope developer visit MAST Web Services find HTTP GET request script example mission search general search parameter simple cone search SOAP service API science search aim provide complete information developer explore multiple example work PHP Python Unix Shell IDL languages With API user could display reorganize scientific data store archive Email available start application development"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "WIKISKY",
+        "id": 8156,
+        "progweb_descr": " WIKISKY online sky map show position basic characteristic space object WIKISKY API expose several functionality site include ability generate direct link object Skymap generate dynamic static sky image access various type object metadata parameter"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Spizter Heritage Archive",
+        "id": 9565,
+        "progweb_descr": " Spitzer Heritage Archive contain visual data Spitzer Space Telescope archive may access via Spitzer Heritage Archive API provide HTTP GET call request set parametervalue pair Users specify result fix position move target NAIF ID program ID Astronomical Observation Request ID Results return IPAC Tables contain metadata URL link downloadable data"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Asterank Minor Planet Center",
+        "id": 9766,
+        "progweb_descr": " International Astronomical Unions Minor Planet Center MPC responsible designation minor body find within solar system This include minor planet comets natural satellite MPC also responsible collect compute check disseminate astrometric observation orbital information minor body Asterank MPC API enable user apply constraint 600000 asteroid document MPCs MPCORBDAT file Because Asterank database run MongoDB query must use Mongos JSON format Information Asterank MPC database update nightly"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Asterank",
+        "id": 9787,
+        "progweb_descr": " Asterank database act layer NASAJPL Small Body Database JPL SmallBody Database Browser include data orbital element orbit diagrams physical parameter discovery circumstance On top Asterank database include JPL deltav data publish asteroid mass data Asteranks independent calculation Because Asterank database run MongoDB query must adhere Mongos JSON format"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Asterank Kepler Project",
+        "id": 9788,
+        "progweb_descr": " Asterank provide queryable database contain information 2000 exoplanets unconfirmed object interest collect NASAs Kepler Project Kepler spacecraft detects planet outside solar system aka exoplanets observe decrease light cause planet pass front star Asterank Kepler Project database update nightly Kepler Data Explorer Because Asteranks database run MongoDB query must adhere Mongos JSON format"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Asterank SkyMorph / NEAT",
+        "id": 9789,
+        "progweb_descr": " Asterank SkyMorph NEAT API provide RESTful JSON interface NASAs SkyMorph archive SkyMorph help researcher find variable move transient celestial object provide access image catalog generate Near Earth Asteroid Tracking NEAT program These include hundred thousand image take together cover large portion sky Each region sky usually observe several time per night subsequently revisit monthly yearly basis"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Astro-Phys.com Ephemeris",
+        "id": 10259,
+        "progweb_descr": " Ephemerides singular ephemeris table value give position astronomical object sky give point time Object position write term right ascension declination Davy Wybiral create Ephemeris API method query NASAs Jet Propulsion Laboratory JPL planetary ephemeris generally create support spacecraft mission planet AstroPhyscom Ephemeris service access use RESTful call issue JSON format"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "SAI Virtual Observatory WCS Fix",
+        "id": 10858,
+        "progweb_descr": " SAI Virtual Observatory provide WCS Fix service automatically match star FITS image catalog data add correct WCS World Coordinate System keywords image header FITS Flexible Image Transport System standard data format use astronomy It use transport analysis archival storage scientific data set Users may access WCS Fix service directly SAI Virtual Observatory website programmatically use either SOAP REST call"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "SDSS Cone Search",
+        "id": 10939,
+        "progweb_descr": " Sloan Digital Sky Survey SDSS project dedicate mapping universe Over eight year operation obtain deep multicolor image cover quarter sky create 3dimensional map contain 930000 galaxy 120000 quasar SDSS provide SOAP API enable user perform cone search night sky A cone search relatively simple request astronomical information retrieve whatever available give position sky give radius position Users must describe area sky want information term RA rightascension DEC declination SR search radius"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "NOAA GOES Solar X-Ray Imager",
+        "id": 11508,
+        "progweb_descr": " service provide download access data Solar Xray Imager SXI service National Geophysical Data Center NGDC US National Atmospheric Oceanic Administration NOAA It provide search archive process unprocessed image application download selection file format API method support specification image type raw process data output file format along varied parameter satellite number generate image sort solar phenomenon document filter wavelength time image generate well exposure time web service response contain bunch URLs point SXI image Users choose view image download copy local machine process image use external software response return format specify user construct HTTP request URL support response format include XML JSON JavaScript Object Notation Text HTML HTTP request URL work well browser command line program code"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Unofficial Heavens Above",
+        "id": 11509,
+        "progweb_descr": " service provide unofficial interface access data Heavens Above system track pass overhead satellite spacecraft large orbital debris object orbit Earth service provide listing satellite object track well orbital path indicate point planet surface pas API method support GET request retrieve information satellite orbital object well data path pass make defined location Earth location specify latitude longitude"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Sesame Name Resolver",
+        "id": 11978,
+        "progweb_descr": " Sesame Name Resolver allow user query several database simultaneously name astronomical object It retrieve display information type object question J2000 position database query Simbad NED VizieR Sesame Name Resolver API allow developer access function programmatically use SOAP call"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Virtual Observatory Services Distance",
+        "id": 12485,
+        "progweb_descr": " Virtual Observatory Services Distance API calculate distance celestial object Earth Several method distance calculation available include angular diameter comoving line sight comoving transverse luminosity This API also calculate distance modulus object return current distance Hubble telescope"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "GRBHosts",
+        "id": 12755,
+        "progweb_descr": " service maintain database Gammaray burst event GRBs energetic event universe first document 1960s fully measure late 1990s API access database allow retrieval data log individual event API method support identify log event either record database selection designate location name assign Methods also allow submission SQL query specify flexible retrieval parameter API give access citation paper data source service database"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Footprint Services",
+        "id": 13147,
+        "progweb_descr": " Footprint Services provide user ability search coverage specific astronomical survey find observation refer specific object create formal description obserÂ­vations calculate exact area overÂ­lapping field Users also visualize sky coverage multiple survey different angle various projection Footprint Services access control SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "Space Physics Interactive Data Resource",
+        "id": 13210,
+        "progweb_descr": " service provide access historical data image descriptive metadata solar terrestrial physic It intend enable generation space environment model forecast describe solar flare event plus feature weather space via unified webbased access distribute database network Java middleware server API method support retrieval data metadata specify format date range Methods also support image plot specification parameter like image width height scale data label color date range data plot etc"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "NASA Moderate Resolution Imaging Spectroradiometer",
+        "id": 13216,
+        "progweb_descr": " MODIS Moderate Resolution Imaging Spectroradiometer key datagathering instrument aboard Terra Aqua satellite view Earths entire surface every 1 2 day From vantage point MODIS generate imagery Earth 36 spectral band This imagery available public purchase online MODAPS API allow user search order download certain type MODIS imagery programmable interface"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "National Virtual Observatory",
+        "id": 13282,
+        "progweb_descr": " National Virtual Observatory NVO provide researcher access astronomical data ground spacebased telescope worldwide From NVOs website visitor discover retrieve analyze astronomical data international assortment archive data center NVO offer multiple SOAPbased APIs allow user access resource metadata NVO directory Several APIs design use Open Archives Initiative OAI promote open access academic data repository"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "GeoAstro",
+        "id": 13587,
+        "progweb_descr": " GeoAstroApi API retrieve geographical astronomical info With API user get info sunrise sunset location moonrise moonset location moon phase date fraction moon illuminate also convert JulianGregorian date API use HTTP call response format JSON"
+    },
+    {
+        "progweb_cat": "Science,Astronomy",
+        "api_name": "data.nasa.gov",
+        "id": 13752,
+        "progweb_descr": " DataNASAGov Open Data project part NASA Open Government Initiative DataNASAGov open access NASA datasets include category aeronautics earth space science engineering climate data catalog continually grow API provide access current future datasets API RESTful return response JSON format"
+    },
+    {
+        "progweb_cat": "Science,Education",
+        "api_name": "University of British Columbia Labs",
+        "id": 1066,
+        "progweb_descr": " University British Columbia UBC science department provide Labs API allow user retrieve information UBCs laboratories information available service include labs ID title category building address room description capacity appointment length Labs API accessible via SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Science,Education",
+        "api_name": "iGEM Registry",
+        "id": 7720,
+        "progweb_descr": " iGEM International Genetically Engineered Machine competition international undergraduate Synthetic Biology competition Student team give kit standard biological part task build biological system operate living cell iGEM Registry API expose MIT Registry Standard Biological Parts allow developer retrieve XML format information describe part Information give part include name type subparts sequence much"
+    },
+    {
+        "progweb_cat": "Science,Education",
+        "api_name": "BioDigital Human",
+        "id": 8500,
+        "progweb_descr": " BioDigital Human interactive 3D tool learn teach human body BioDigital Human provide information human body anatomy 3D interactive way visuals health information personalization tool BioDigital Human API allow developer access integrate functionality BioDigital Human applications Public documentation available interested developer sign httpsdeveloperbiodigitalhumancomdevelopersigninhtmlmodesignup"
+    },
+    {
+        "progweb_cat": "Science,Education",
+        "api_name": "KU Leuven Lirias",
+        "id": 8621,
+        "progweb_descr": " Lirias archive publication link file authored research affiliate KU Leuven Dutchspeaking university Belgium This structure repository capture store index distribute digital research material open accessible manner Developers access archive programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Education",
+        "api_name": "eLife",
+        "id": 9768,
+        "progweb_descr": " eLife journal seek improve access new research discovery field life science biomedicine It provide researcher publish option thats design publicly available widely disseminate To aid dissemination eLife make content available via REST API well RSS OAI end point Content also access number external endpoint manage eLife"
+    },
+    {
+        "progweb_cat": "Science,Education",
+        "api_name": "World Register of Marine Species",
+        "id": 13590,
+        "progweb_descr": " service expose standard taxonomy marine animal specie integrate Global Species Databases GSD It give access accurate scientific common name alternate name synonyms full classification information specie Possible application include replace unaccepted name accept one oceandwelling animal discover scientific name common vernacular name list related specie Methods support retrieve scientific name common names synonymous name particular ocean animal Also available classification structure relate animal name name animal"
+    },
+    {
+        "progweb_cat": "Science,Education",
+        "api_name": "Archimedes Project Donatus",
+        "id": 14175,
+        "progweb_descr": " Donatus system provide unified frontend variety morphological analysis software databases Morphological service provide XMLRPC interface utilized specialize user application In addition provide access preexist linguistic data Donatus allow dynamic extension morphological datasets user API use abstract linguistic content document structure add entry database"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "The National Center for Biomedical Ontology BioPortal",
+        "id": 1072,
+        "progweb_descr": " National Center Biomedical Ontology NCBO support biomedical researcher provide online tool web portal enable access review integrate ontological resource NCBO BioPortal open repository biomedical ontology allow user search browse visualize ontology National Center Biomedical Ontology BioPortal API provide RESTful interface access BioPortal Supported service include downloads list specify criterion search access term concepts subtree extraction much API response may XML JSON format"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "Biotea",
+        "id": 8036,
+        "progweb_descr": " BioTea generate RDF representation biomedical literature expose literature collection RESTful API BioTea API able retrieve list RDF document annotation file RDF give document annotation file metadata give document multiple type aggregate data metadata collection"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "Dryad DataONE",
+        "id": 8882,
+        "progweb_descr": " Dryad provide international repository scientific medical data table spreadsheet flatfiles etc peerreviewed publish paper By make data publicly available enable researcher validate publish finding repurpose data research question perform metaanalyses All Dryads data file available download reused except temporary embargo period Developers retrieve data file information Dryad via REST API"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "GILDA beamline",
+        "id": 9408,
+        "progweb_descr": " GILDA Beamline collaborative Italian research project general purpose beamline use bend magnet source It mainly dedicate investigation local structure GILDA Beamline API provide method calculation Synchrotron Radiation Xray science structural modelization parameter pass REST form response JSON A first series method deal ion chamber permit calculate absorpion gas pressure read photon flux A second series devote structural modelization via Bond Valence Method This freely accessible API require authentication"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "MMPC",
+        "id": 9974,
+        "progweb_descr": " MMPC National Mouse Metabolic Phenotyping Centers NIHsponsored resource provide experimental test service scientist study diabetes obesity diabetic complication metabolic disease mice Visitors view information MMPC experiment directly site developer retrieve information programmatically use MMPC SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "Illumina BaseSpace",
+        "id": 10830,
+        "progweb_descr": " BaseSpace Illumina application genetic data analysis genomics cloud compute BaseSpace API allow developer access integrate functionality BaseSpace application create new application data analysis visualization Some example API method include manage user create manage project run analysis"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "CoPub",
+        "id": 11054,
+        "progweb_descr": " service provide search text mining within MedLine database publish literature medical biological research It identify occurrence text specify searcher detects combination biomedical concept within abstract This function return result highly targeted combination rather merely mention individual term concepts API method support search single term without association specify category control list Methods also support match pair large group term possible filter field term cooccur category match"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "DAVID Bioinformatics",
+        "id": 11580,
+        "progweb_descr": " service provide tools functional annotation discover implication biological research specific gene genetic marker track database Formally name Database Annotation Visualization Integrated Discovery DAVID log description genetic combination find researcher enhance understand likely biological effect target research API method support retrieval annotation list biological function specify individual gene gene cluster tabular chart form Methods also support review full gene report widerscale informatics application"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "INOH Pathway Database",
+        "id": 12210,
+        "progweb_descr": " service Integrating Network Objects Hierarchies INOH provide access database pathways among biomolecules several organism include human mice rat pathway record service define molecular connection allow signal transduction organism This information document largely publish article database build extract knowledge text develop machineprocessable repository API method support retrieval graph define node arcs edge connect base select criterion Results deliver include node involve particular pathway connection distinguish event type include controlled event control event others"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "MiMI/Metabolomics",
+        "id": 12561,
+        "progweb_descr": " service provide data repository support analysis system biology genetic metabolomic effect molecular interaction Available data include MiMI database protein interaction characteristic gather input multiple database source within field biology repository also draw daily update PubMed resource report biomedical research This single point access allow query analysis multiple interrelate data source API method support search free text specific gene identifier Returned data include know compound interaction reaction Methods also return list interaction discuss biological literature discover via natural language processing"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "Neuroscience Information Framework",
+        "id": 12607,
+        "progweb_descr": " Neuroscience Information Framework NIF dynamic inventory webbased neuroscience data material tool A unique feature NIF ability issue direct query multiple databases simultaneously Its methodology allow retrieve content largely hidden traditional search engine NIF allow user search resource match give keyword concept via RESTbased APIs"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "Visual Omics aGEM",
+        "id": 12706,
+        "progweb_descr": " aGEM anatomic Gene Expression Mapping design integrate phenotypic information spatial temporal distribution express gene It provide easy access information gene expression human mice develop application wish integrate aGEM API documentation available request"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "Pathbase",
+        "id": 12720,
+        "progweb_descr": " Pathbase database image show pathology mutate genetically alter mouse educational referential purpose Image type include histopathology photomicrograph macroscopic image desire image retrieve search specific lesion class lesion genetic locus wide set parameter show Advanced Search Interface Pathbase API allow user access database programmatically via SOAP call"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "ChEMBL",
+        "id": 12819,
+        "progweb_descr": " service European Bioinformatics Institute EBI provide programmatic access database biologically active small molecule druglike effect Data available include 2D structure diagram calculate property indicator biological activity API method support retrieval list chemical compound base input various format local database ID standard chemistry designation API also retrieve component substructure similar compound submit identifier Methods return bioactivity measure part descriptive data"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "IST Bioinformatics Web Services",
+        "id": 13000,
+        "progweb_descr": " IST Bioinformatics Web Services IBWS suite APIs provide Bioinformatics Unit National Cancer Research Institute IST Genoa These APIs allow user access databases available public SRS sit Common Access Biological Resources Information CABRI catalog SRS implementation IARC TP53 Mutation Database All IBWS APIs accessible via SOAP protocol"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "ChEBI",
+        "id": 13034,
+        "progweb_descr": " service European Bioinformatics Institute EBI provide programmatic access database Chemical Entities Biological Interest This search service provide chemistry data tailor need researcher biology Specifically database function list small chemical compound component molecular entity distinct molecule atom ion etc produce nature synthesize process affect live organisms API method support submission query term potentially include wildcard character retrieval either compact complete database content entity match query Methods also support search molecular structure well retrieval ontology define parentchild relationship among molecular entity"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "iHOP Genetics",
+        "id": 13198,
+        "progweb_descr": " service log publish paper gene model protein sequence make available via hyperlinked graphic depict gene protein link Users follow link protein protein access relevant publish report service log protein sequence information across link span 2700 specie 11000 gene 28 million individual sequence Users also post paper reference link protein gene discuss API method support interaction service specific gene identifier selection databases either across organism within specific organism This allow application incorporate information specific gene web resource either full abstract iHOP functionality summary individual gene protein"
+    },
+    {
+        "progweb_cat": "Science,Medical",
+        "api_name": "Diabetic Complications Consortium",
+        "id": 13367,
+        "progweb_descr": " service promote information share among researcher disease pathway pathologic mechanism involve diabetes Its goal encourage interaction collaboration among investigator include data share analysis Data share way describe test animal experimental procedure disease process model WSDLs several interrelate APIs expose method access element DDC data model include animal characteristic experiment design research protocol Also available investigator listing publication reference"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "One Codex",
+        "id": 2572,
+        "progweb_descr": " One Codex API allow developer integrate genomic search data platform application One Codex platform design help microbiologist rapidly ass sample It provide access world large index bacterial viral fungal genome It come rich sample management allow user index search compare complex sample"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Enrichr",
+        "id": 3620,
+        "progweb_descr": " Enrichr API allow developer analyze gene list view added gene list get enrichment result find term contain give gene download file enrichment result Enrichr webbased tool allow user submit gene list enrichment analysis Enrichment analysis infers knowledge gene set compare gene set already annotate search overlap"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "MG-RAST",
+        "id": 7919,
+        "progweb_descr": " MGRAST metagenomics analysis server design provide quantitative information microbial population base genetic sequence data server contain 100000 data set mainly derived shotgun sample prokaryotic organism They provide 12000 registered user upload quality control annotation analysis service Users access object resource server programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "GenoLogics",
+        "id": 8235,
+        "progweb_descr": " GenoLogics provide Clarity LIMS Laboratory Information Management System design help genomics mass spec laboratory collect data track sample workflows integrate system tools automate common task collaborate organization LIMS easy customize provide rolespecific interface user GenoLogics REST API allow developer interact research information store LIMS solution"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "GenomeNet Tools",
+        "id": 8464,
+        "progweb_descr": " GenomeNet provide network database computational service relate research genomics biomedical science GenomeNet Tools API provide chemical analysis tool compare convert search chemical structure GenomeNet website available English Japanese API documentation appear available English"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "AILUN",
+        "id": 8466,
+        "progweb_descr": " AILUN service allow user search reannotate data GEO public repository gene expression proteomics data AILUN also allow user compare genetic proteomics data across platform specie AILUNs function access programmatically use SOAPbased web service"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "GeneCoDis2",
+        "id": 9874,
+        "progweb_descr": " service provide analysis genetic sequence data identify associate biological feature know annotation frequently appear together It rank set gene base statistical significance frequency cooccurrence result indicate strength association biological annotation research project identify set gene API method support analysis statistical relationship genetic sequence base multiple repository data document statistical relationship A request specify organism genome focus analysis along statistical algorithm method apply plus gene sequence set biological annotation consider Results suggest statistical association annotation within specified sequence specify organism"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "GeneProf",
+        "id": 9923,
+        "progweb_descr": " service provide data support genetic research Its data analysis function help process genetic sequence RNAseq ChIPseq format database previously process experimental result provide point comparison newly collect datasets These resource help researcher evaluate expression regulation gene develop experimental work similar result study API method support retrieval catalog datasets already log service along searchbased access data individual gene experiment datasets public sample Methods allow selection transcription factor TFAS score target gene experimental sample API give access genomic data file BED WIG format"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "SignalP/SignalP4",
+        "id": 10008,
+        "progweb_descr": " service provide prediction genetic structure base neural network algorithm Markov statistical model It analyze data frequency amino acid sequence various organism generates likely existence location signal peptide cleavage site expect genetic structure Organism group cover include grampositive gramnegative prokaryote well eukaryotes provider maintains httpwwwcbsdtudkwswsphpentrySignalP4 alternative service well API method support submission amino acid sequence analyze along organism type prefer prediction method desire statistical prediction certainty threshold Methods also support monitor service process queue retrieving complete analytical result"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "TMHMM",
+        "id": 10009,
+        "progweb_descr": " service provide statistical prediction membrane protein structure base hidden Markov model It accept amino acid sequence input generates expect transmembrane helix imply input functionality available instal software interactive web interface SOAP API API method support submission 2000 amino acid sequence standard alphabetic notation Methods adjust unexpected miss sequence value apply statistical analysis generate prediction expect protein structure Methods also support monitor process queue retrieve result job completes"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "PcProf predict physico-chemical profiles of proteins",
+        "id": 10098,
+        "progweb_descr": " service provide profile submit protein sequence describe characteristic relation list property establish known structure Characteristics describe include hydrophilicityhydropathy flexibility antigenicity accord two measure accessibility transmembranous helix profile generate predict behavior expect sample genetic structure API method support submission protein structure detect research result API return measure key physical chemical property know associated structure form profile sample"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "ALTER Reflective",
+        "id": 10150,
+        "progweb_descr": " service provide conversion DNA protein alignment sequence biological research express information alternative notation input different analytical software package Input output format support include ALN FASTA GDE MSF NEXUS PHYLIP PIR Analytical package support include Clustal Mafft Tcoffee Muscle Probcons service also dedupe result remove multiple identical repetition result API method support description input data file include operating system analytical software data format along parameter desire output Methods allow selection conversion option treatment duplicate error result API return data convert input data express desired output format"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Pseudoviewer",
+        "id": 10263,
+        "progweb_descr": " service provide tool create visual representation genetic structure involve RNA It convert experimental data depict secondary structure pseudoknot structure By provide consistent flexible toolset help researcher overcome problem variation data structure software incompatibility API method support conversion large data set visualize complex RNA secondary structure pseudoknots Methods accept data uploads RNA sequence bracket paired format along specification output image desire service generates request image represent relationship RNA component imply data"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "SIMPA96",
+        "id": 10265,
+        "progweb_descr": " service provide prediction secondary protein nucleic acid sequence imply presence know primary sequence Its analysis base near neighbor methodology test homologous chromosome infers secondary structure associate API method support submission primary gene sequence retrieval predictive data describe associated secondary sequence Methods also allow status check monitor process API cancellation current analysis operation"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "MultAlin",
+        "id": 10266,
+        "progweb_descr": " service detects multiple alignment element within protein sequence submit Comparison sequence detect multiple source reveal similarity indicate share genetic heritage allow researcher infer common background API method support submission set protein sequence PearsonFasta format API return alignment detected sequence apply ClustalW algorithm allow researcher draw conclusion common genetic origin represent sequence"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "FastA protein similarity search",
+        "id": 10267,
+        "progweb_descr": " service compare protein sequence submit request database protein structure It report match know protein sequence indicate genetic relationship sample analysis sequence already document support conclusion sample biological heritage API method support submission protein sequence trigger analysis base FastA algorithm along specific reference database comparison API return match sequence find select database allow analysis genetic relationship know protein structure"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "SSearch protein similarity search",
+        "id": 10268,
+        "progweb_descr": " service compare submit protein sequence reference database analysis similarity know sequence output help identify sequence establish genetic relationship establish structure also note variation know pattern This analysis put sample context prior research link exist genetic structure API method support submission protein sequence identify research initiate comparison API identify similar sequence reference database allow researcher understand link establish genetic structure represent data"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "DSC protein secondary structure prediction",
+        "id": 10269,
+        "progweb_descr": " service provide prediction secondary protein structure assign test sequence one class structure base statistical measure probability This method decompose sequence prediction decision basic element combine find sample predict overall secondary structure This method adjust relevance particular structural pattern sample submit analysis API method support submission protein sequence initiate analysis job API generate prediction secondary structure base probability combination find submit sequence weight vary importance different element within specific analysis"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "GOR protein secondary structure prediction",
+        "id": 10270,
+        "progweb_descr": " This collection three service GORI GORIII GORIV provide prediction secondary protein sequence use method base information theory Garnier Osguthorpe Robson It evaluate check 17 residue determine score four possible conformation state correction know decision constant high score take indicate protein conformation API method support submission protein sequence experimental data API return prediction secondary sequence associate input data base estimate conformational state"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "PREDATOR protein secondary structure prediction",
+        "id": 10271,
+        "progweb_descr": " service predicts secondary protein structure analyze amino acid sequence submit detect hydrogenbonded residue within structure Potential hydrogen bond associate result secondary structure provide partial indicator may use combination output service API method support submission amino acid sequence generate job request begin process API return indicator hydrogenbonded residue detect within input data use secondary structure prediction Methods also allow control service include status monitoring cancellation current processing job"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "COILS predict protein coiled-coil regions",
+        "id": 10272,
+        "progweb_descr": " service provide prediction coiledcoil region within protein structure application algorithm Lupas et al It assess probability part protein structure represent coiledcoil formation compare flank sequence protein establish exhibit formation API method support submission protein sequence generate processing job begin process API return element within sequence match know exemplar coiledcoil structure"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Ensembl",
+        "id": 10418,
+        "progweb_descr": " Ensembl joint project EMBL EBI Wellcome Trust Sanger Institute project produce genome database vertebrates eukaryotic specie include mouse human zebrafish horse gorillas cat chimpanzees platypus duck fruitflies many others This information make freely available online database search directly Ensembl website use Ensembls REST API"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Madeline",
+        "id": 10480,
+        "progweb_descr": " service provide analysis format data reflect human genetic background use study genetic linkage pedigree It convert data genetic marker individual format compatible common software linkage analysis It also support query genetic pedigree datasets aid discovery relationship pattern Visualization tool generate Postscript image rapid review large complex datasets service also available instal software API method support submission genetic marker data analysis Methods analyze pedigree link represent data format submission common link analyzer package Methods also generate SVG image represent data define genetic link record human pedigree"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Retrotector",
+        "id": 10547,
+        "progweb_descr": " service University Uppsala Sweden provide analysis DNA sequence data generate viewable representation genetic link represent A Javabased viewer program available interpret analytical output depict genetic structure deep investigation API method support submission DNA sequence data FASTA format raw data possibly include position number Sequence size may range 5 10000 KB length Methods support queue management remove update analysis job along status monitoring either entire queue single job API also provide access analytical output file"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "JasparDB",
+        "id": 10566,
+        "progweb_descr": " service provide access database factorbinding profile depict genetic makeup structure typical specie It provide biological researcher lookup access matrix define genetic relationship document research API method generate profile transcription factor bind site vary format include Position Frequency Matrices PFM Position Weight Matrices PWM Information Content Matrices ICM Methods support retrieval matrix specific matrix specified system ID name API also support search among matrix describe system topicspecific tag apply"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "CIPF RENATO",
+        "id": 10672,
+        "progweb_descr": " service provide RESTful interface RENATO REgulatory Network Analysis TOol provide networkbased analysis identify regulatory element common list gene It intend interpretation visualization information gene regulation map gene submit regulatory network extract connection It also highlight overrepresentation specific regulatory connection among gene list API method support submission list gene parameter specify regulatory connection interest Methods generate data show transcriptional posttranscriptional regulatory connection highlight regulatory link common among gene within specified list"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "OMIM",
+        "id": 10677,
+        "progweb_descr": " OMIM Online Mendelian Inheritance Man comprehensive freely available authoritative compendium human gene genetic phenotype fulltext reference overview OMIM contain information 12000 gene know Mendelian disorder It update daily entry contain copious link genetics resource OMIM API let user retrieve information database use RESTful call"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "23andMe",
+        "id": 11454,
+        "progweb_descr": " 23andMe personal genetics service 23andMe offer individual genome DNA test information 23andMe API allow developer access integrate data 23andMe application create new application Individuals consent give thirdparty access 23andMe data Some example API method include access user information retrieve profile get information genotype"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Genome Maps",
+        "id": 11796,
+        "progweb_descr": " Genome Maps genome browser service allow realtime navigation along chromosome karyotypes Genomic data different standard format GFF BED VCF easily import displayed viewer result image export PNG JPEG format Currently Homo sapiens Mus musculus Rattus norvegicus C elegans Danio rerio include specie available soon"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "FlyMine",
+        "id": 12588,
+        "progweb_descr": " service aggregate genetic data fly organism commonly use biological research Drosophila Anopheles C elegans It document genomes protein data animal support data mining across domain within biological research API method support submission query database specify animal interest via constraint genus specie genetic symbol Methods also allow control result set include number result return output format"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "MyGene.Info",
+        "id": 12610,
+        "progweb_descr": " MyGeneInfo provide simple RESTbased API retrieve gene annotation data Such data currently available seven specie human mouse rat fruitfly nematode zebrafish thalecress frog MyGeneInfo design power web application need query gene obtain common gene annotation"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "AnnotQTL",
+        "id": 12616,
+        "progweb_descr": " AnnotQTL tool design gather functional annotation gene specific chromosomal region It provide location gene specific region use NCBI Ensembl data Then add functional annotation databases Gene Ontology Mammalian Phenotype HGNC PubMed etc AnnotQTL API make function available user via SOAP call"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Mutalyzer",
+        "id": 12624,
+        "progweb_descr": " Mutalyzer provide suite service check variant sequence nomenclature accord guideline Human Genome Variation Society These service allow user assess correctness sequence variant description generate valid description Batch checker also available assess multiple sequence description These service access programmatically via SOAP call"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "G-language GAE",
+        "id": 12625,
+        "progweb_descr": " Glanguage Genome Analysis Environment Glanguage GAE set Perl library genome sequence analysis It include 100 original analysis program tend focus bacterial genome analysis Programs provide identify bind site analyze nucleotide composition bias analyze distribution oligonucleotides analyze codon predict expression level visualize genomic information These function offer via REST SOAP APIs promote interoperability programming languages bioinformatics software tool"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "GenomeMatrix",
+        "id": 12693,
+        "progweb_descr": " GenomeMatrix performs parallel genome analysis connects multispecies functional information collection manually curated experimental data It capable display multispecies data set single gene pathway entire chromosomal region inside interactive matrix display If desire user retrieve additional detailed information reference Some GenomeMatrixs function available programmatically SOAP APIs"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EBI PRANK",
+        "id": 12829,
+        "progweb_descr": " PRANK probabilistic multiple alignment program DNA codon aminoacid sequence It also allow user define potential structure sequence align predicts location structural unit sequence EBI PRANK API provide access function via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EBI T-Coffee",
+        "id": 12830,
+        "progweb_descr": " TCoffee Treebased Consistency Objective Function alignmEnt Evaluation program performs multiple sequence alignment DNA RNA protein sequence program unique characteristic allow user combine result obtain different alignment program It provide output base similarity result TCoffee API provide European Bioinformatics Institute make function available SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EBI ClustalW2",
+        "id": 12863,
+        "progweb_descr": " ClustalW2 program global multiple alignment biological sequence It align anywhere 3 500 DNA protein sequence One notable feature alignment program considers sequence redundancy European Bioinformatics Institute make service available API via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EMBOSS Matcher",
+        "id": 12864,
+        "progweb_descr": " EMBOSS Matcher program perform local pairwise sequence alignment DNA protein sequence It employ WatermanEggert local alignment algorithm identify local similarity two input protein nucleotide sequence European Bioinformatics Institute make service available API via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EMBOSS Needle",
+        "id": 12865,
+        "progweb_descr": " EMBOSS Needle program performing global pairwise sequence alignment DNA protein sequence Using NeedlemanWunsch global alignment algorithm program take two protein nucleotide sequence return optimal global sequence alignment European Bioinformatics Institute make EMBOSS Needle available API via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EMBOSS Stretcher",
+        "id": 12866,
+        "progweb_descr": " EMBOSS Stretcher program performing global pairwise sequence alignment DNA protein sequence Using Myers Miller global alignment algorithm EMBOSS Stretcher calculate optimal global alignment two protein nucleotide sequence European Bioinformatics Institute make EMBOSS Stretcher available API via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EMBOSS Water",
+        "id": 12867,
+        "progweb_descr": " EMBOSS Water program perform local pairwise sequence alignment DNA protein sequence Using SmithWaterman local alignment algorithm modify speed enhancement program calculate local alignment two protein nucleotide sequence European Bioinformatics Institute make EMBOSS Water available API via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EBI Lalign",
+        "id": 12868,
+        "progweb_descr": " Lalign program local pairwise alignment DNA protein sequence It find internal duplication calculate nonintersecting local alignment two sequence input user analysis European Bioinformatics institute make function available API via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Center for Biological Sequence Analysis",
+        "id": 12950,
+        "progweb_descr": " Center Biological Sequence Analysis offer collection SOAPbased APIs work nucleotide sequence amino acid sequence small molecule nucleotide sequence APIs visualize analyze genome well find specific gene splice site within genome amino acid APIs ass posttranslational modification proteins identify immunological feature proteins determine protein structure function small molecule API help determine cardiotoxicology drug molecule Each APIs WSDL endpoint"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "miRMaid",
+        "id": 12951,
+        "progweb_descr": " miRMaid provide programmatic access data miRBase major database microRNA abbreviate miRNA information miRNA short ribonucleic acid RNA molecule find eukaryotic cell miRBase database contain publish miRNA sequence well annotation miRMaids REST API enable user query miRBase retrieve data either HTML XML format"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "FlyBase",
+        "id": 12999,
+        "progweb_descr": " FlyBase online database Drosophila fruit fly gene genome FlyBase API allow user retrieve Chado XML data FlyBase object use either primary FlyBase ID current symbol Searchable object include gene allele transcript protein clone etc XML data return contains data use create FlyBases web report exclude image gene summary information"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Genomic Name Server",
+        "id": 13002,
+        "progweb_descr": " Genomic Name Server GeNS provide unified access data reside different source different schemas different format Currently GeNS import data four major database UniProt SwissProt TrEMBL KEGG EMBLâ€ “ EBI Entrez Since database already incorporate data thirdparty resource GeNS offer 460000 unique gene 100000 biological relation 140 distinct data type"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Mouse Resource Browser",
+        "id": 13003,
+        "progweb_descr": " Mouse Resource Browser MRB provide dynamic interactive view 222 mouserelated bioinformatics resource around world SOAPbased MRB API use retrieve data information category custom ontology resource category CASIMIRs Database Description Framework Criteria WSDLs store MRBs database"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "e-Fungi",
+        "id": 13040,
+        "progweb_descr": " eFungi provide database integrates data multiple fungal genome include 23 fungi 2 oomycetes It way facilitate systematic comparative study genome allow less well understood specie study reference model organism fully explore functional characteristic It also offer information search method help researcher conduct study pathogenicity ability cause disease animal plant host evolution fungal organism"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "RNAshapes",
+        "id": 13284,
+        "progweb_descr": " Given RNA sequence RNAshapes help determine probable shape RNAshapes compute small set representative structure different shape well accumulated shape probability It also offer comparative prediction consensus structure RNAshapes available web console downloadable program SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "KnotInFrame",
+        "id": 13285,
+        "progweb_descr": " KnotInFrame predict frameshift site DNA RNA sequence simple pseudoknot secondary structure prediction base comparison minimal free energy structure KnotInFrame available web console SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "RNAfold",
+        "id": 13288,
+        "progweb_descr": " RNAfold interface RNA fold sequence design It use calculate secondary structure RNA sequence RNAfold available web console SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "RNAforester",
+        "id": 13289,
+        "progweb_descr": " RNAforester tool compare RNA secondary structure It support computation pairwise structure multiple alignment structure RNAforester available web console SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Reputer",
+        "id": 13290,
+        "progweb_descr": " Reputer API help user discover visualize repeat whole genome chromosomes Repeat type search include forwarddirect match reverse match complement match palindromic match Reputers function freely offer limited capacity web console SOAP API Downloading software require additional licensing agreement"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Divide-and-Conquer Multiple Sequence Alignment",
+        "id": 13292,
+        "progweb_descr": " DivideandConquer Multiple Sequence Alignment DCA program produce fast high quality simultaneous multiple alignment amino acid RNA DNA sequence program base algorithm provide heuristic approach sumofpairs optimal alignment DCA available download web console SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Roci",
+        "id": 13294,
+        "progweb_descr": " Roci Reconstruction Of Conserved Intervals tool reconstruct ancestral gene order phylogenetic tree Given branch pattern phylogenetic tree gene order leaf node calculates set gene order inner node Roci use web console SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "Phylogenetic Footprinting",
+        "id": 13343,
+        "progweb_descr": " Phylogenetic Footprinting approach identify regulatory region gene compare orthologous noncoding sequence Phylogenetic Footprinting API create manage UniversitÃ¤tsmedizin GÃ¶ttingen use collection SOAPbased tool accomplish identification process"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "DKFZ SoapDB",
+        "id": 13345,
+        "progweb_descr": " SoapDB API provide SOAPbased access 200 genetics protein sequence database user filter result field select format view return data Access database provide via German Cancer Research Center DKFZ"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "HUSAR Bioinformatics Lab",
+        "id": 13346,
+        "progweb_descr": " HUSAR Bioinformatics Lab DKFZ provide large number freely available APIs Many useful align DNA RNA protein sequence Alignments pairwise multiple local global Some APIs help visualize sequence alignment result Others edit biological sequence make comprehensible researcher One large group APIs dedicate specifically work nucleic acid sequence Some analyze sequence composition codon usage others locate specific gene motif CpG island within sequence One group APIs focus translate DNA sequence proteins vice versa A handful others focus work sequence profile Still look primer repeat restriction sit transcription factor A others allow user play sequence mutation Yet another group APIs work exclusively proteins A APIs category focus identification profile There assess secondary tertiary structure others focus determine protein composition motifs A couple design simulate mutation proteins A handful miscellaneous APIs provide background information sequence alignment method available database relevant subject One simply return current EMBOSS version number All HUSARs service base EMBOSS freeware posse individual WSDL endpoint"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "OligoSelection",
+        "id": 13347,
+        "progweb_descr": " OligoSelection API create help minimize cost DNA microarray experiment use determine presence absence specific biological unit DNA API minimize experimental cost calculate low possible number probe still allow researcher obtain explicit cod sought OligoSelection API make available via SOAP protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EMBOSS Backtranambig",
+        "id": 13348,
+        "progweb_descr": " EMBOSS Backtranambig API read protein sequence input user write nucleic acid sequence could come To us nucleotide ambiguity code represent possible codon amino acid API available RESTful SOAP form response format XML"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EMBOSS Backtranseq",
+        "id": 13349,
+        "progweb_descr": " EMBOSS Backtranseq API read protein sequence input user output nucleic acid sequence likely produce To determine nucleic acid sequence API implement codon usage table give frequency use codon amino acid It select frequently occur codon amino acid use output sequence API available RESTful SOAP form response format XML"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EMBOSS Sixpack",
+        "id": 13350,
+        "progweb_descr": " EMBOSS Sixpack API read DNA sequence thats input user output three forward optionally three reverse frame translation visual manner API available RESTful SOAP form response format XML"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EMBOSS Transeq",
+        "id": 13351,
+        "progweb_descr": " EMBOSS Transeq API translate nucleic acid sequence correspond peptide sequence It translate three forward three reverse read frame find DNA output multiple frame translation API available RESTful SOAP form response format XML"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EBI Phobius",
+        "id": 13362,
+        "progweb_descr": " Phobius tool use amino acid sequence protein predict transmembrane topology region polypeptide chain span lipid bilayer identify potential signal peptide sequence direct protein transport Phobius API provide access functionality tool via REST SOAP protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EBI Kalign",
+        "id": 13363,
+        "progweb_descr": " Kalign develop improve speed accuracy multiple sequence alignment fundamental part analyze biological data It use fast accurate WuManber stringmatching algorithm perform multiple sequence alignment DNA RNA protein sequence Kalign API provide European Bioinformatics Institute access via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EBI MAFFT",
+        "id": 13364,
+        "progweb_descr": " MAFFT Multiple Alignment use Fast Fourier Transform multiple sequence alignment program protein nucleic acid sequence It offer range multiple alignment method make suitable highvolume lowvolume job MAFFT API provide European Bioinformatics Institute allow user access functionality via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Genetics",
+        "api_name": "EBI MUSCLE",
+        "id": 13365,
+        "progweb_descr": " MUSCLE MUltiple Sequence Comparison LogExpectation tool alignment multiple nucleotide amino acid sequence Multiple sequence alignment crucial part process biological data This tool provide range option give user choice optimize accuracy speed compromise two European Bioinformatics Institute offer access MUSCLE API SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "iDigBio",
+        "id": 2585,
+        "progweb_descr": " iDigBio API integrate biodiversity collection data web service target education government public sector JSON format available response developer submit HTTP GET request Methods include data research dashboard access info image million biological specimen"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "PubMLST REST",
+        "id": 3540,
+        "progweb_descr": " This REST API allow thirdparty application retrieve data store within BIGSdb database send new submission database curator PubMLST public database molecular type microbial genome diversity"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "MOLGENIS",
+        "id": 4449,
+        "progweb_descr": " MOLGENIS API allow user programmatically retrieve modify data model entity entity collection It support CRUD method well resource collection page filter resource field expansion MOLGENIS offer suite web databases genotype phenotype QTL analysis pipeline It also serve software generator build web database biologist"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "Protein Data Bank in Europe (PDBe)",
+        "id": 5568,
+        "progweb_descr": " Protein Data Bank Europe PDBe REST API allow developer access functionality data Protein Data Bank Europe integration application Some example API method include retrieve detail model retrieve information compound retrieve publication Protein Data Bank Europe PDBe provide biologic bioinformatics data information It product European Bioinformatics Institute part European Molecular Biology Laboratory"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "Bio-LarK",
+        "id": 5751,
+        "progweb_descr": " BioLarK API enable user integrate Human Phenotype Ontology HPO Concept Recognition CR method In addition perform standard CR function BioLarK CR able decompose align conjunctive term well recognize process noncanonical phenotype This API part BioLarK project develop collect tool help researcher scientist acquire represent process biomedical data focus disorder phenotype genotype relation"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "Biostar",
+        "id": 6508,
+        "progweb_descr": " Biostars bioinformatics computational genomics biological data analysis resource web user post search information interest Biostar API let developer integrate application database allow developer request information include limited frequency post site number user number article searchedposted individual usersAll API response JSON format"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "Astronomy",
+        "id": 7665,
+        "progweb_descr": " Astronomy API API allow developer access astronomical data star data planet data astronomy information Astronomy API integrate application use create application"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "agINFRA",
+        "id": 7973,
+        "progweb_descr": " agINFRA Agricultural Data Infrastructure fund European Commission It design connect publicly available agricultural data resource around world make easily accessible user unify location agINFRA API allow user perform job monitor dataset transformation text mining data harvest function resource"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "BigWorldData NDWI",
+        "id": 8911,
+        "progweb_descr": " BigWorldData scientific information provider use satellite data monitor effect drought reduce water usage crop usage evaluate irrigation system derive information BigWorldData NDWI API provide scientist developer agronomist industry access global satellite data take every two day data derives Normalized Difference Water Index API free access"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "Human",
+        "id": 9521,
+        "progweb_descr": " Human API data aggregation provide platform store abstract data mobile device wearable sensor data source service aim make available activity data generate health track device monitor blood glucose wight physical activity caloric intake blood pressure many others data type API aim provide tool make data meaningful trackable utilize research application service use REST call return JSON"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "pyMantis",
+        "id": 12959,
+        "progweb_descr": " pyMantis collaborative lifescience data management software platform intend facilitate exchange data information experimentalists theoreticians It develop use TRANSLUCENT project aim document data model yeast Saccharomyces cerevisiae TRANSLUCENT part Systems Biology Microorganisms SysMO European transnational funding research initiative focus record describe molecular process unicellular microorganisms field Systems Biology This RESTful web service allow pyMantis data management software programmatically interact SysMO wide metadatabase enable share data within entirety SysMO project Currently method expose API allow GET POST operation run record hold TRANSLUCENT database"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "WEHUB",
+        "id": 13026,
+        "progweb_descr": " Water Environmental Hub WEHUB opensource opendata project collect aggregate connects data various source water environment Features include spatial map database tool data visualization WEHUB API allow developer access integrate functionality data WEHUB application create new application Documentation available free account registration login"
+    },
+    {
+        "progweb_cat": "Science,Data",
+        "api_name": "NSIDC",
+        "id": 13830,
+        "progweb_descr": " National Snow Ice Data Center NSIDC support research provide datasets Earths cryosphere frozen area polar ice cap frozen land water Data available topic snow land ice sea ice glacier ice sheet freeze ground More 500 datasets available ground satellite observation A series APIs provide access datasets metadata"
+    },
+    {
+        "progweb_cat": "Science,Cloud",
+        "api_name": "Transcriptic",
+        "id": 3895,
+        "progweb_descr": " Transcriptic ScienceasaService company enable researcher conduct bioinformatics research web browser Transcriptic REST API enable developer access fully automated laboratory program test run Transcriptic company focus make life science research easily accessible Users send sample Transcriptics biometrics laboratory get result research remotely"
+    },
+    {
+        "progweb_cat": "Science,Cloud",
+        "api_name": "CloudBroker",
+        "id": 8562,
+        "progweb_descr": " CloudBroker offer scientific technical application cloud platform enable user offer use computeintensive application different cloud compute infrastructure CloudBroker provide user RESTbased web service API API method include Jobs Accesses Organizations Users Resources Responses provide XML"
+    },
+    {
+        "progweb_cat": "Science,Catalogs",
+        "api_name": "LabCollector",
+        "id": 4269,
+        "progweb_descr": " LabCollector laboratory inventory management system lab supply sample LabCollector LIMS manage laboratory information work independent interactive module API integrate lab data via ICollector REST XML format Authentication possible via HTTP basic auth"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "CicerTransDB",
+        "id": 4799,
+        "progweb_descr": " CicerTransDB API RESTful URL API use retrieval sequence feature CicerTransDB CicerTransDB database Chickpea Transcription factor It unify portal various application provide user platform study chickpea transcription factor"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "polytraits",
+        "id": 7632,
+        "progweb_descr": " Polytraits database biological trait polychaetes bristle worm include information morphological behavioral reproductive larval characteristic collect literature polytraits database expose REST API consist two method taxon method search taxon name return correspond identifier trait method retrieve trait information taxon identifier"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "Mammalian Adult Neurogenesis Gene Ontology",
+        "id": 8129,
+        "progweb_descr": " Mammalian Neurogenesis Gene Ontology MANGO searchable database describe key stage development adult hippocampal neural stem cell MANGO expose developer API MANGO API accept HTTP GET request return HTML XML text format file Exposed field include GeneID PubMedID cell stage effect evidence specie type expression"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "The Materials Project",
+        "id": 10561,
+        "progweb_descr": " Materials Project provide comprehensive material information researcher across spectrum science industry goal accelerate material discovery advance compute design tool Materials Project make data analysis available REST API Resource type currently include material battery reaction API require SSL Encryption return JSON format response"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "The Global Proteome Machine",
+        "id": 10571,
+        "progweb_descr": " Global Proteome Machine attempt create knowledge proteomics data reuse solve biomedical research problem Global Proteome Machine Database build use GPM data help validate peptide MSMS spectrum protein coverage pattern Global Proteome Machine Database API provide RESTful access commonly require information base data GPM Database Responses JSON format"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "Scripps Center for Metabolomics METLIN",
+        "id": 11378,
+        "progweb_descr": " Metabolite Tandem Mass Spectrometry Database METLIN maintain Scripps Center Metabolomics This database contain annotated list know metabolite mass chemical formula structure Each metabolite link outside resource reference inquiry Tandem mass spectrometry data also available many metabolite database expand continuously metabolite information discover deposited Public access METLINs information provide order facilitate metabolomics experiment Programmatic access provide use SOAPbased API"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "ELMdb",
+        "id": 11636,
+        "progweb_descr": " ELMdb API provide programmatic interface ELM database ELM database contain description functional site representation functional site know instance ELMs eukaryotic linear motif These ELMs currently specify pattern use Regular Expression rule ELMdb API access use SOAP call XML format"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "CellBase",
+        "id": 11785,
+        "progweb_descr": " CellBase relational database contain relevant biological information genomic feature genomic protein gene expression regulation functional annotation genomic variation system biology information This database integrate repository include Ensembl Uniprot Omim COSMIC IntAct HapMap Reactome others An extensive REST API provide programmatic access database via approximately 100 method"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "Species Invaders",
+        "id": 12127,
+        "progweb_descr": " Species Invaders solution identify map invasive specie It RESTful API allow researcher look add information crowdsourced database invasive specie threats This allow user different apps widget input data separately develop knowledge base Users query data update submit new information via API It return JSONencoded data still alpha release stage"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "Phospho.ELM",
+        "id": 12431,
+        "progweb_descr": " PhosphoELM database experimentally verified phosphorylation sit eukaryotic protein database currently contain 8718 substrate protein different specie cover 42500 instance fully link literature reference PhosphoELM API allow user access database programmatically"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "TreeBASE",
+        "id": 12604,
+        "progweb_descr": " TreeBASE database information phylogenetic relationship It contain phylogenetic tree data matrix along information relevant publication taxa morphological character sequencebased character publish analysis TreeBASE provide RESTbased API allow user search retrieve desire phylogenetic information programmatically"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "SABIO-RK",
+        "id": 12611,
+        "progweb_descr": " System Analysis Biochemical Pathways Reaction Kinetics SABIORK webbased application us SABIO relational database This database contain information biochemical reaction kinetic equation equation parameter experimental condition parameter measure SABIORK API provide SOAPbased access information XML format"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "HMMER",
+        "id": 12615,
+        "progweb_descr": " HMMER online service use search sequence databases homologs protein sequence Users choose seven sequence database search HMMER also perform protein sequence alignments Its method use probabilistic model call Profile Hidden Markov Models RESTbased HMMER API make function available programmatically user"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "MyHits",
+        "id": 12688,
+        "progweb_descr": " MyHits free database devote protein domains It also collection tool investigate relationship protein sequence motifs describe Motifs define heterogeneous collection predictor include regular expression generalize profile hide Markov model Much MyHits data function available via SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "Nuclear Protein Database",
+        "id": 12690,
+        "progweb_descr": " Nuclear Protein Database NPD contain information protein localize nuclei vertebrate cell Over 1000 vertebrate protein mainly mice human include When know subnuclear compartment protein find report NPD also provide information protein amino acid sequence predict size isoelectric point well repeat motif domain within sequence Where appropriate link database provide"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "BioMart",
+        "id": 12695,
+        "progweb_descr": " BioMart provide free software data service international scientific community order foster scientific collaboration facilitate scientific discovery process A number server provide access wide range research data set BioMart community Using BioMarts data federation technology Data Portals establish provide convenient single point access data server"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "ProDom",
+        "id": 12696,
+        "progweb_descr": " ProDom host comprehensive database protein domain family These domain family automatically generate global comparison available protein sequence UniProt Knowledge Database In recent year ProDom place increase emphasis 3D modeling proteins A series SOAPbased APIs available allow ProDom information retrieve programmatically"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "Reactome",
+        "id": 12709,
+        "progweb_descr": " Reactome publicly available peer review biological pathway database core unit Reactome data model reaction Entities nucleic acid proteins complex small molecule participate reaction form network biological interaction group pathway Pathway annotation author expert biologist collaboration Reactome editorial staff crossreferenced many bioinformatics database"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "PlantTFDB",
+        "id": 12710,
+        "progweb_descr": " Plant Transcription Factor Database PlantTFDB contain 50000 transcription factor TF 49 specie green algae moss ferns gymnosperm angiosperm Each identify TF give comprehensive annotation include functional domain 3D structure gene ontology expression information annotation various database By infer orthologous group construct phylogenetic tree evolutionary relationship among identified TFs infer Data PlantTFDB access programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "Norwegian Bioinformatics Platform",
+        "id": 12716,
+        "progweb_descr": " Norwegian Bioinformatics Platform host collection APIs access Eukaryotic Linear Motif ELM database Jaspar database ELM database contain description representation know instance functional site protein Jaspar database contain profile transcription factor bind site DNA Data retrieve database via SOAP call"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "TFmodeller",
+        "id": 12719,
+        "progweb_descr": " TFmodeller scan DNAbinding protein sequence library proteinDNA complex build comparative model protein might bind DNA result output include complex coordinate schematic interface diagram interface alignment DNA motifs TFmodellers function available either web interface SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "CICC gNova",
+        "id": 12807,
+        "progweb_descr": " CICC gNova API provide SOAPbased access CICC Chemical Informatics Cyberinfrastructure Collaboratory database project develop Indiana University School Informatics Computing It support SMILES simplify molecularinput lineentry system format search base gNova Cartridge offer gNova Scientific Software"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "EBI WU-BLAST",
+        "id": 12871,
+        "progweb_descr": " WUBLAST Washington University Basic Local Alignment Search Tool Version 20 use compare nucleotide protein sequence contain database goal find region sequence similarity yield clue structure function give sequence Regions similarity detect WUBLAST either local region similarity base 1 location global region similarity detect across otherwise unrelated genetic code European Bioinformatics Institute provide access WUBLAST API via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "EBI WSDbfetch",
+        "id": 12874,
+        "progweb_descr": " EBI WSDbfetch API allow user retrieve entry various biological database use entry identifier accession number It provide easy way retrieve entry databases European Bioinformatics Institute consistent manner One request return maximum 200 entry This API access via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "Duplicated Genes Database",
+        "id": 12952,
+        "progweb_descr": " Duplicated Genes Database DGD provide list colocated duplicated gene These gene may either tandem repeat member multigene family Lists duplicate gene use analyze expression gene microarray profile experiment characterize genomic content specific chromosomal region study duplication status specific gene group gene SOAPbased DGD API use Ensembl gene IDs input data allow retrieval crossreferences output file"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "iRefIndex",
+        "id": 12953,
+        "progweb_descr": " iRefIndex APIs PSICQUIC PSISCORE provide programmatic access iRefIndex data protein interaction well many interaction databases These APIs allow user query one database website query replicate database implement APIs user receives compile list result match query regardless database contain information iRefIndex APIs available via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Database",
+        "api_name": "Golm Metabalome Database",
+        "id": 12954,
+        "progweb_descr": " Golm Metabolome Database GMD offer collection APIs provide programmatic access GMDs search function These APIs allow user search metabolite inputting GCMS spectral data consist retention index mass intensity ratios Metabolites dont yet reference mass spectrum include GMD characterize predict presence absence functional group There also search API specific GoBioSpace database part GMD GMD APIs operate SOAP GET POST protocol"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "neXtProt",
+        "id": 5159,
+        "progweb_descr": " neXtProt API allow developer integrate ability retrieve data human proteins include function expression interaction localization sequence structure thirdparty application neXtProt humancentric data discovery platform develop Swiss Institute Bioinformatics SIB Geneva Bioinformatics GeneBio SA"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "D2P2 Online Data",
+        "id": 6864,
+        "progweb_descr": " D2P2 disorder protein prediction database Disordered proteins also know intrinsically unstructured protein IUPs lack stable tertiary structure exist naturally unfolded state D2P2 Online Data API allow user programmatically retrieve D2P2 assignment base sequence accession IDs Sequence IDs originate genome also recognize API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "RNAcentral",
+        "id": 7252,
+        "progweb_descr": " RNAcentral allow user access RNA sequence data store multiple expert database RNAcentral API webbrowsable mean data serve human computerfriendly format Most data available RNAcentral integrate system application use API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "University College Dublin Bioware",
+        "id": 9391,
+        "progweb_descr": " University College Dublin host Bioware server offer collection bioinformatics tool These tool design task discover short linear motif characterize peptide perform analysis proteomics data Three tool PeptideLocator SLiMPred Gopher access programmatically via REST API PeptideLocator service find bioactive peptide give protein sequence SLiMPred examine protein sequence identify potential SLiMs Shared Linear Motifs Lastly Gopher generate alignment proteins orthologous ie fulfill similar role different specie"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "BioBricks Public Agreement",
+        "id": 9752,
+        "progweb_descr": " BioBricks Foundation publicbenefit organization create ensure synthetic biology conduct ethically transparently benefit people planet BioBrick Public Agreement free legal tool allow institution individual company make standardized biological part freely available BioBrick Public Agreement API provide developer access resource within Public Agreement database RESTful API currently support GET call HTTPS return XML format data Other method JSON format data plan future development"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "Indiana Crop Improvement Association LabLink",
+        "id": 9933,
+        "progweb_descr": " Indiana Crop Improvement Association ICIA nonprofit selfsupporting agency objectively carry seed certification laboratory test quality assurance program One service LabLink web interface allow user access result test perform ICIA It also show test people request lab report current test schedule ICIA LabLink SOAP API provide method user retrieve result image test conduct ICIA"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "IDT Oligo Analyzer",
+        "id": 9935,
+        "progweb_descr": " Integrated DNA Technologies IDT company manufacture sell oligonucleotides short singlestranded DNA RNA molecule On website provide Oligo Analyzer service use examine oligonucleotide oligo variety way This service primarily available web interface Analyze HeteroDimer SelfDimer function also available SOAP function Analyze service return physical property give oligo sequence HeteroDimer examine possible duplex one oligo combine another SelfDimer report possible duplexes stability oligo hybridizes"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "WormBase",
+        "id": 10039,
+        "progweb_descr": " WormBase international consortium provide research community accurate uptodate information genetics genomics biology Caenorhabditis elegans related nematode This information freely browse searched WormBase website It also accessible integration website application use REST API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "ChemSpider InChi Resolver",
+        "id": 10151,
+        "progweb_descr": " service provide tool discover generate new InChIStrings InChIKeys chemical compound These International Chemical Identifiers conform format determine International Union Pure Applied Chemistry uniquely name compound across different chemistry research context Functions include conversion alternative identifier string compound API method support generation InChI string either convert format eg SMILE upload create drawing chemical structure Resolver method interpret InChIString InChIKey value submit request return associate chemical structure"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "ZooBank",
+        "id": 10289,
+        "progweb_descr": " ZooBank worldâ€™s official registry Zoological Nomenclature recognize International Commission Zoological Nomenclature Zoobank accommodate registration four type data object Published usage scientific name animal publication contain usages author publication type specimen scientific name animal ZooBank API expose variety resource include search retrieval aforementioned data type Requests response may JSON HTML format"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "Stockholm University Palign",
+        "id": 10349,
+        "progweb_descr": " ProteinALIGNment Palign protein sequence alignment service provide Stockholm University consist set SOAP function resolve many type alignment problem It align two sequence sequence structure sequence profile two profile Palign well document freely available GPLlike license While fast program flexible"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "Stockholm University PRODIV-TMHMM",
+        "id": 10350,
+        "progweb_descr": " PRODIVTMHMM hidden Markov model HMMbased service topology prediction transmembrane protein In phylogenetics topology pattern branch phylogenetic tree show evolutionary relationship among group organisms PRODIVTMHMM accepts input form text file contain amino acid sequence FASTA format service return threestate topology prediction residue sequence increase accuracy user may supply evolutionary information protein form alignment"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "Emulab",
+        "id": 10353,
+        "progweb_descr": " Emulab network testbed provide researcher wide range environment develop debug evaluate system Emulab widely use computer science researcher field network distribute system well educator teach class field Emulab public facility available without charge researcher It XMLRPC interface mainly support creation modification swap termination experiment"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "ChemGPS",
+        "id": 10372,
+        "progweb_descr": " service provide principal component analysis PCA chemical sample relevance biology generate global space map In effect provide sort global positioning system GPS identify location sample overall matrix property base chemical composition Analysis produce description set compound base dimension component together represent physicalchemical property include size aromatic property lipophilic property polarity flexibility API method support submission sample data analysis result map property interpolation PCA score Methods support queue sample dataset analysis monitoring processing status Methods also support access analytical result upon completion process"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "EDIT CDM Library",
+        "id": 10754,
+        "progweb_descr": " EDIT Platform Cybertaxonomy collection tool service cover aspects taxonomic workflow CDM Common Data Model repository data produce taxonomist form core EDIT platform It host information taxon name concepts literature reference specimens distribution structure descriptive data CDM Library REST API provide programmatic access resource store CDM"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "IBIVU",
+        "id": 10764,
+        "progweb_descr": " IBIVU refers Centre Integrative Bioinformatics Vrije Universiteit They offer suite online service process bioinformatics data These service include multiple sequence analysis pairwise sequence alignment array data analysis protein secondary structure prediction protein analysis metabolic flux estimation They also provide service work phylogeny RNA databases matrix These service accessible use either web console SOAPbased APIs"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "ProBiS",
+        "id": 11783,
+        "progweb_descr": " ProBiS service allow user find binding site similarity local pairwise alignment PDB RCSB Protein Data Bank protein structure ProBiS contain record 30000 structure proteins input user compare RESTful ProBiS API allow user retrieve information XML JSON PDB format"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "MetaLocGramN",
+        "id": 11786,
+        "progweb_descr": " MetaLocGramN API provide method subcellular localization prediction Gramnegative proteins It act gateway number primary prediction method signal peptide betabarrel transmembrane helix subcellular localization predictor It integrate primary method base output provide overall consensus prediction"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "SDM Storage Resource Management",
+        "id": 11998,
+        "progweb_descr": " Storage Resource Management System develop Scientific Data Management SDM research group type grid service design enable largescale scientific investigation Such investigation frequently require deal multiple heterogeneous storage file system order manage replicate access necessary data SDM Storage Resource Management API design facilitate streamline process"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "EMBL Structure Filter",
+        "id": 12433,
+        "progweb_descr": " EMBL Structure Filter API useful evaluate location candidate short regulatory sequence protein need accessible interact ligand domain To calculates accessibility score secondary structure score total score match regular expression query sequence provide user"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "Index Fungorum Fungus",
+        "id": 12484,
+        "progweb_descr": " Index Fungorum global fungal nomenclator It contain name fungi include yeast lichens chromistan fungal analogue protozoan fungal analogue fossil form rank Index Fungorum Fungus API provide range SOAP call user may employ look name fungal organism"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "semanticSBML",
+        "id": 12626,
+        "progweb_descr": " SemanticSBML collection online tool view edit biochemical model SBML format Users work model BioModels Database upload annotate model SemanticSBML display model XML code network structure add Systems Biology Ontology term kinetic law parameter insert standard rate law balance parameter Most function semanticSBML accessible RESTful interface"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "CASPUR",
+        "id": 12627,
+        "progweb_descr": " CASPUR biology database access site provide several SOAPbased APIs perform structural analysis amino acid One method return set adjacency list contain referential amino acid x couple Once create adjacency list use build 3d graph Another function allow user find surface atom 3d Protein Data Bank model"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "TOPCONS",
+        "id": 12686,
+        "progweb_descr": " TOPCONS program predict topology alphahelical membrane protein base amino acid sequence prediction consensus five different topology prediction algorithm use input TOPCONS hide Markov model This give consensus prediction protein along reliability score base agreement include method across sequence In addition ZPRED use predict Zcoordinate amino acid TOPCONS function available programmatically via SOAP call"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "Pcons",
+        "id": 12687,
+        "progweb_descr": " Pcons program ranking protein model assess quality Users input set possible protein model produce use various method approach Pcons protocol analyze model look recur threedimensional structural pattern Each model assign score reflect common structural pattern whole ensemble model idea recur pattern likely correct pattern occur one model"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "ModeRNA",
+        "id": 12689,
+        "progweb_descr": " ModeRNA program comparative model RNA 3D structure It use pairwise sequence alignment structural template generate 3D structural model target RNA sequence via either fullyautomated scriptbased approach ModeRNA capable handle 115 different nucleotide modification also bridge gap use fragment derive extensive fragment library Apart ModeRNA offer multitude function examine modify RNA structure file"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "STRING",
+        "id": 12691,
+        "progweb_descr": " STRING database know predict protein interaction include direct physical indirect functional association They derive genomic context highthroughput experiment coexpression prior knowledge STRING quantitatively integrate interaction data source large number organisms transfer information organism applicable STRING database currently include five million protein one thousand organism"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "ConsensusPathDB",
+        "id": 12692,
+        "progweb_descr": " ConsensusPathDB integrate biological interaction network human yeast mouse Such network include binary complex proteinprotein genetic metabolic signal gene regulatory drugtarget interaction well biochemical pathway Data currently originate 30 public resource Programmatic access ConsensusPathDB possible use SOAPbased API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "CBRC MAFFT",
+        "id": 12694,
+        "progweb_descr": " CBRC MAFFT multiple sequence alignment program amino acid nucleotide Users must input sequence wish align FASTA format A number advanced setting available include style alignment constrain speed number sequence score matrix parameter use homologs CBRC MAFFTs function access programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "Arne Elofsson's EMBRACE",
+        "id": 12697,
+        "progweb_descr": " Arne Elofsson offer collection SOAP APIs base EMBRACE bioinformatics software Usable function include biological sequence alignment homology model Hidden Markov Model base homology score search among protein OPM database membrane protein Zcoordinate prediction Additional EMBRACEbased APIs development"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "CSC PairsDB",
+        "id": 12705,
+        "progweb_descr": " PairsDB collection protein sequence BLAST PSIBLAST alignment Instead run BLAST PSIBLAST individually result retrieve database precomputed alignment PairsDB continually update aim become comprehensive possible Alignment result retrieve PairsDB via SOAP API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "XSPAN",
+        "id": 12708,
+        "progweb_descr": " XSPAN internetbased crossspecies anatomy network design support access tissuebased genetic information It provide interoperability database key model embryos turn facilitate access gene expression tissuebased data across specie XSPANs database crossspecies anatomy information access programmatically via SOAP call"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "EBI MView",
+        "id": 12828,
+        "progweb_descr": " MView tool reformatting result sequence database search multiple sequence alignment It also use add HTML markup control result color layout webpage MView multiple sequence alignment program general purpose alignment editor EBI MView API provide access MViews function via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "EBI NCBI BLAST",
+        "id": 12869,
+        "progweb_descr": " NCBI BLAST similarity search program protein nucleotide sequence emphasis find region similarity yield clue structure function give sequence European Bioinformatics Institute make NCBI BLAST available API via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "EBI PSI BLAST",
+        "id": 12870,
+        "progweb_descr": " Position Specific Iterative BLAST PSIBLAST construct positionspecific score matrix PSSM profile protein sequence use set BLAST alignment PSSM use search database subsequent iteration allow detection distant evolutionary relationship protein sequence PSIBLAST API provide European Bioinformatics Institute via SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "EBI CENSOR",
+        "id": 12872,
+        "progweb_descr": " CENSOR program screen nucleotide amino acid sequence reference collection sequence repeat It â€œcensorsâ€ homologous portion mask symbol N nucleotide X amino acid generate report classify repeat find European Bioinformatics Institute make service available SOAP API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "EBI DaliLite",
+        "id": 12873,
+        "progweb_descr": " DaliLite tool pairwise protein structure comparison It use suite program compute optimal suboptimal protein structural alignment two input set atomic coordinate one input database know structure European Bioinformatics Institute make service available SOAP API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "CopasiWS",
+        "id": 12955,
+        "progweb_descr": " CopasiWS suite APIs base COPASI software simulate biochemical system In addition convert validate file use user find steady state dynamic system determine system trajectory One API quantify effect reaction rate chemical concentration others calculate sensitivity biochemical model responses parameter change All CopasiWS APIs make use SOAP protocol"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "Pfam",
+        "id": 13004,
+        "progweb_descr": " Pfam database large collection information protein domain family Domains functional region generally comprise protein presence different domain vary combination produce diverse assortment protein find nature RESTbased Pfam API provide programmatic access various method query Pfam database search information specific sequence member certain domain family"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "IBCP gBIO",
+        "id": 13005,
+        "progweb_descr": " Institute Biology Chemistry Proteins IBCP provide several tool protein sequence analysis These tool use perform multiple sequence alignment identify sequence similarity analyze secondary protein structure perform coiledcoil prediction create physicochemical profile protein SOAPbased IBCP APIs provide scientist developer programmatic access tool"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "Passta",
+        "id": 13094,
+        "progweb_descr": " Passta Protein annotation secondarystructure base alignment help determine whether protein sequence relate protein know structure give protein sequence program return Passta alignment associate secondary structure element information Passta available web console SOAP API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "Conservation Scorer",
+        "id": 13101,
+        "progweb_descr": " Conservation Scorer API calculate much Eukaryotic Linear Motif ELM match vary set homologous protein sequence A console give data input SOAP call also make available wish integrate Conservation Scorer API application"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "SEGUID",
+        "id": 13118,
+        "progweb_descr": " SEGUID protein sequence identifier base Secure Hash Algorithm SHA1 digest primary sequence This protein identification system create response change disappear protein identifier common problem bioinformatics community A SEGUID stable lifetime protein everyone derive SEGUID sequence information This allow easy data share database research group"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "GlobPlotter",
+        "id": 13119,
+        "progweb_descr": " GlobPlotter SOAPbased API allow user plot tendency within protein orderglobularity disorder plot generate API useful design construct correspond globular protein need many biochemical study particularly structural biology"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "SMART",
+        "id": 13120,
+        "progweb_descr": " SMART Simple Modular Architecture Research Tool SOAPbased API allow identification annotation genetically mobile protein domains analysis domain architectures More 500 domain family detectable extensively annotate regard phyletic distribution functional class tertiary structure functionally important residue"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "MARAN",
+        "id": 13122,
+        "progweb_descr": " MARAN web application preprocessing microarray data It use generic ANOVA model normalize measurement respect several source variation experiment Users integrate MARAN tool application use MARANS SOAPbased API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "RNAhybrid",
+        "id": 13286,
+        "progweb_descr": " RNAhybrid SOAPbased API find minimum free energy hybridization long short RNA molecule primarily intend mean microRNA target prediction In tool hybridization perform short sequence hybridize best fit part long one"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "pknotsRG",
+        "id": 13287,
+        "progweb_descr": " pknotsRG tool fold RNA secondary structure include class simple recursive pseudoknots Users input RNA sequence FASTA format receive secondary structure information output pknotsRG available web console download SOAP API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "ChromA",
+        "id": 13291,
+        "progweb_descr": " Chromatogram Alignment ChromatographyMass Spectrometry ChromA tool alignment visualization data chromatographymass spectrometry ChromA use align mass spectrometry image effectively compare ChromA available web console download SOAP API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "DIALIGN",
+        "id": 13293,
+        "progweb_descr": " DIALIGN program align multiple protein nucleic acid sequence It construct alignment compare entire segment sequence This method use global local alignment successful sequence share local homology DIALIGN available download web console SOAP API"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "BioDOM",
+        "id": 13296,
+        "progweb_descr": " BioDOM JAVA library convert native nonXML output various bioinformatic tool XML format validate XMLSchemas BioDOM available download web console SOAP API API consist four service AlignmentML SequenceML RNAStructML RNAStructAlignmentML convert native format xml back"
+    },
+    {
+        "progweb_cat": "Science",
+        "api_name": "EBI ClustalW2 Phylogeny",
+        "id": 13361,
+        "progweb_descr": " ClustalW2 Phylogeny generate phylogenetic tree multiple sequence alignment data Users choose two method calculate phylogeny neighbor join UPGMA Unweighted Pair Group Method Arithmetic Mean ClustalW2 Phylogeny API provide European Bioinformatics Institute make function available SOAP REST protocol"
+    },
+    {
+        "progweb_cat": "Science,Big Data",
+        "api_name": "The Agave",
+        "id": 7111,
+        "progweb_descr": " Agave provide scalable scienceasaservice platform help user power digital lab science application It give user access 600 top plant biology apps HPC Cloud system Agave API provide RESTful method integrate service thirdparty application"
+    },
+    {
+        "progweb_cat": "Science,Energy",
+        "api_name": "ThinkEco",
+        "id": 7397,
+        "progweb_descr": " ThinkEco green technology company create costeffective energy efficiency solution They modlet selfinstallable solution enables devicelevel energy management home office Their cloud base software access modlet allow user view energy use cost saving Additionally SmartAC dashboard control electronics computer ThinkEco API allow developer integrate modlet data building energy management system API also allow pull energy data control modlets system"
+    },
+    {
+        "progweb_cat": "Science,Energy",
+        "api_name": "Elia",
+        "id": 8435,
+        "progweb_descr": " Elia Belgiumâ€™s highvoltage transmission system operator key player energy market interconnect electricity system Europe company set multiple initiative promote development efficient transparent fair electricity market include integrate renewable energy source Elia offer REST API programmatic access Solar Forecasting page page display solarPV generation forecast realtime estimation actual solarPV generation historical solarPV power data API method include GetRegions GetChartDataForZone GetCapacities API free use signup requirement"
+    },
+    {
+        "progweb_cat": "Science,Energy",
+        "api_name": "KDF Billion-Ton",
+        "id": 10648,
+        "progweb_descr": " Knowledge Discovery Framework KDF service US Department Energy provide summary research data energy production conversion biomass It give projection production supply biomass feedstock may represent business opportunity build refinery biomass energy service summarize feedstock crop potential transportation route related factor facilitate analysis profitable opportunity develop biomass energy facility API method provide data market price refine biofuels price agricultural crop potential conversion bioenergy source similar variable specify time period Methods also support analysis probability certain supply price combination within particular time period"
+    },
+    {
+        "progweb_cat": "Science,Energy",
+        "api_name": "NREL Solar",
+        "id": 10740,
+        "progweb_descr": " service provide data collect potential actual solar energy collection along analytical service evaluate solar resource Mapping function generate average monthly annually solar resource specify location toolset include mapping tool performance data photovoltaic PV array support plan light expect efficiency solar electricity installation Another tool calculate potential energy production cost saving PV array connect conventional electrical energy grid Its estimate describe hypothetical benefit PV installation individual residence small business API method support calculation estimate solar electricity generation measure watthours per square meter per day location specify latitude longitude Methods also give estimate efficiency PV panel specify site Another tool evaluate productivity cost saving PV panel feed power excess local need back regional electrical power grid"
+    },
+    {
+        "progweb_cat": "Science,Analytics",
+        "api_name": "Standard Analytics IO",
+        "id": 7470,
+        "progweb_descr": " Standard Analytics IO design improve reproducibility scientific result link scientific content original data analysis method Standard Analytics IO REST API provide programmatic access data store accord link data package ontology JSONLD document"
+    },
+    {
+        "progweb_cat": "Science,Analytics",
+        "api_name": "PLOS Article-Level Metrics",
+        "id": 9223,
+        "progweb_descr": " Public Library Science PLOS nonprofit advocacy organization publisher aim transform scientific medical research communication Every article PLOS publish open access contains metadata describe articleâ€™s usage reach This metadata call ArticleLevel Metrics PLOS ArticleLevel Metrics API provide RESTful interface retrieve usage statistic page view downloads citation Wikipedia article mention social network reference coverage select blog"
+    },
+    {
+        "progweb_cat": "Science,Analytics",
+        "api_name": "IntrepidBio",
+        "id": 11455,
+        "progweb_descr": " IntrepidBio informationprocessing web service They cater specifically institution research biological science platform automates information process large amount biological information genetics polymorphism extensive sequence They also host information search reference purpose IntrepidBio offer API allow institution develop control system importation exportation data This allow researcher centralize dataload processing IntrepidBioâ€™s webbased software"
+    },
+    {
+        "progweb_cat": "Science,Solar",
+        "api_name": "The Helioviewer Project",
+        "id": 7630,
+        "progweb_descr": " Helioviewer Project opensource project design enable everyone explore sun inner heliosphere project allow user view kind feature event include coronal cavity coronal jet coronal rain eruption filament flare oscillation sunspot Helioviewer Project fund ESA NASA Its datasets access programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Science,Solar",
+        "api_name": "LISIRD",
+        "id": 13829,
+        "progweb_descr": " Laboratory Atmospheric Space Physics LASP space exploration institute University Colorado Boulder investigate solar influence atmospheric science planetary physic space physic LISIRD LASP Interactive Solar IRradiance Datacenter LISIRD collect provide access solar spectral irradiance measurement soft Xray XUV 01 nm near infrared NIR 2700 nm well Total Solar Irradiance LASP Time Series Server LaTiS API allow access LISIRD datasets Available datasets include American SPIDR Sunspot Numbers space weather data Lymanalpha composite time series solar spectral irradiance historical Total Solar Irradiance reconstruction daily solar radio flux LaTiS return response PNG CSV DODS HTML DAT BIN JSON INFO DAS PRO DDS"
+    },
+    {
+        "progweb_cat": "Science,Books",
+        "api_name": "Koninklijke Bibliotheek Early Dutch Books",
+        "id": 7648,
+        "progweb_descr": " dataset Early Dutch Books Online EDBO give access 2 million fulltext digitize page 11000 book print Netherlands 17811800 This set freely reusable open data metadata available CC0license individual object page scan OCR PDFs public domain Access via SRU OAIPMH protocols set make available national library Netherlands KB collaboration university libraries Leiden Amsterdam UvA documentation currently Dutch available English asap"
+    },
+    {
+        "progweb_cat": "Science,Mapping",
+        "api_name": "Earthquakes Canada Seismograph Stations",
+        "id": 7903,
+        "progweb_descr": " Datagcca part Canadas Action Plan Open Government enhance transparency accountability Earthquakes Canada Seismograph Stations API provide current information seismograph station Canada This information glean NRCans Canadian National Seismic Networks Station Book information available include location deployment date station name instrument type etc This API navigable HTML available GeoXML GeoJSON format"
+    },
+    {
+        "progweb_cat": "Science,Mapping",
+        "api_name": "Where the ISS at?",
+        "id": 8185,
+        "progweb_descr": " Where ISS At web service developer Bill Shupp track location International Space Station ISS realtime Where ISS At provide developer access data REST API delivers current past future position ISS time zone information give coordinate set Two Line Element TLE data space station"
+    },
+    {
+        "progweb_cat": "Science,Mapping",
+        "api_name": "National Geographic FieldScope",
+        "id": 8213,
+        "progweb_descr": " FieldScope interactive mapping platform provide National Geographic allow citizen scientist share analyze interpret locationbased data enthusiast Using FieldScope people join project start new one explore data others gather Using contribute FieldScope free require software downloads Project contributor simply add observation map collect Developers retrieve add update delete observation programmatically via REST API"
+    },
+    {
+        "progweb_cat": "Science,Mapping",
+        "api_name": "Jim Anning's International Space Station",
+        "id": 8286,
+        "progweb_descr": " International Space Station API free web service build developer Jim Anning API maintain database Two Line Element TLE data International Space Station ISS When user make request API find near valid TLE calculate stationâ€™s location API return latitude longitude altitude velocity ISS give time"
+    },
+    {
+        "progweb_cat": "Science,Mapping",
+        "api_name": "UK Biodiversity Action Reporting System",
+        "id": 9036,
+        "progweb_descr": " UK Biodiversity Action Reporting System BARS support conservation community provide place people post search information work do benefit important habitat species This information include level activity take place project goal BARS also map action location produce statistical summary data goal system help committee coordinate action help government agency report biodiversity loss prevention work various commitment treaty Developer access display BARS data use SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Science,Mapping",
+        "api_name": "Seismic Data Portal",
+        "id": 11809,
+        "progweb_descr": " service aggregate publicly available data earthquake event include seismic waveform wave velocity arrival time specified location Seismolink web service provide information seismic sensing network available resource detect track event Data available specialized QuakeML format API method support retrieval report seismic event include search specific event list recent event detail one location magnitude Methods also provide information seismic waveform detect velocity movement project arrival time specified location API also support identification data provider within Seismolink network"
+    },
+    {
+        "progweb_cat": "Science,Mapping",
+        "api_name": "MODIS Land Subsets",
+        "id": 12483,
+        "progweb_descr": " MODIS Land Subsets API allow user retrieve image take Earth Moderate Resolution Imaging Spectroradiometers MODIS aboard Aqua Terra satellite Users retrieve information available imagery choose desire image data product wavelength date latitude longitude location record"
+    },
+    {
+        "progweb_cat": "Science,Mapping",
+        "api_name": "SkyServer",
+        "id": 13589,
+        "progweb_descr": " service expose data Sloan Digital Sky Survey Sponsored Alfred P Sloan Foundation US National Science Foundation NASA project gather data observatory source allow creation map cover large section universe web service give access data 80 million astronomical object star galaxy quasars Teachers invite adapt exist project classroom use Methods support access photo animate skyscape image spectra graph data Support also provide search radial rectangular measurement create star chart location well manage resource create use SkyServer tool"
+    },
+    {
+        "progweb_cat": "Science,Animals",
+        "api_name": "PhyloPic",
+        "id": 7909,
+        "progweb_descr": " PhyloPic phylogenetic taxonomy database reusable silhouette image plant animal life form PhyloPic expose information database API API provide access PNG format image variety metadata names taxonomical information user information API also able manipulate database manage user account enable disable hyponym add edit name"
+    },
+    {
+        "progweb_cat": "Science,Animals",
+        "api_name": "xeno-canto",
+        "id": 10673,
+        "progweb_descr": " service provide database bird song sound recording contribute maintained enthusiast worldwide It provide access search connection play download recording submit new recording Discussion forum encourage interaction among member bird community exchange information bird song related topic API method support search database specify formal Latin name bird specie Returned data provide listing recording maintain service specie either without URLs audio still image file optionally request retrieve single representative record Methods also provide summary statistic listing relevant specie name request"
+    },
+    {
+        "progweb_cat": "Science,Names",
+        "api_name": "Global Names Resolver",
+        "id": 8013,
+        "progweb_descr": " Global Names Resolver service resolve list scientific name know source resolver par incoming name execute match require display confidence score match along identifier Global Names Resolver API allow developer programmatically resolve name either specify data source entire database"
+    },
+    {
+        "progweb_cat": "Science,Metadata",
+        "api_name": "EVEX",
+        "id": 8035,
+        "progweb_descr": " EVEX text mining web service build PubMed database biomedical life science reference abstract feature 23 million record EVEX extract 76 million geneprotein name 40 million biomolecular event EVEX present direct indirect association gene protein EVEX API provide developer access EVEX dataset provide information geneprotein relationship"
+    },
+    {
+        "progweb_cat": "Science,England",
+        "api_name": "NBN Gateway",
+        "id": 8266,
+        "progweb_descr": " National Biodiversity Network NBN Gateway enable user explore UK biodiversity data gateway bring together data many organization include Botanical Society British Isles British Trust Ornithology EnviroCentre Natural England Peoples Trust Endangered Species Scottish Environment Protection Agency name NBN Gateway REST API allow developer integrate NBN Gateways biological data website application"
+    },
+    {
+        "progweb_cat": "Science,England",
+        "api_name": "MIDAS",
+        "id": 10587,
+        "progweb_descr": " Multiple Instance Data Acquisition System MIDAS form data acquisition electronics control software develop STFC Nuclear Physics Group It modular objectbased software system consist graphical user interface hardware control servers Its data function access programmatically via SOAP call issue XML format"
+    },
+    {
+        "progweb_cat": "Science,Images",
+        "api_name": "AntWeb",
+        "id": 8365,
+        "progweb_descr": " AntWeb community driven online database ant image specimen record natural history information siteâ€™s goal publish high quality image worldâ€™s ant specie AntWeb expose data public API API allow developer programmatically query specimens taxonomy specimen code decimal coordinate day since specimen enter database"
+    },
+    {
+        "progweb_cat": "Science,Images",
+        "api_name": "Molinspiration",
+        "id": 12366,
+        "progweb_descr": " service provide tools cheminformatics generate image molecule model process manipulate molecular property structure It work SMILES notation allow SDfile conversion generate representation molecule fragment service screen result base molecular fragment predict biological activity compound represent API method support submission compound SMILES chemical notation Returned data include molecular characteristic need fully characterize modify compound specify request"
+    },
+    {
+        "progweb_cat": "Science,Text",
+        "api_name": "Science Ipsum",
+        "id": 8414,
+        "progweb_descr": " Science Ipsum science theme placeholder text generator service expose simple API Developers simply specify number paragraph optionally number word per paragraph API return request text"
+    },
+    {
+        "progweb_cat": "Science,Text",
+        "api_name": "ParsCit",
+        "id": 13229,
+        "progweb_descr": " ParsCit application performs reference string parse sometimes also call citation parse citation extraction logical structure parse scientific document ParsCits function call use free SOAPbased API"
+    },
+    {
+        "progweb_cat": "Science,Weather",
+        "api_name": "NWCC Air-Water Database",
+        "id": 8421,
+        "progweb_descr": " NWCC National Water Climate Center US government organization create develop information technology resource snow water climate hydrology NWCC provide AirWater Database AWDB API allow user retrieve data metadata 30year normal water availability forecast via SOAP call"
+    },
+    {
+        "progweb_cat": "Science,Weather",
+        "api_name": "EUMETSAT Product Navigator",
+        "id": 12152,
+        "progweb_descr": " main purpose European Organisation Exploitation Meteorological Satellites EUMETSAT make available weather climaterelated satellite data image product EUMETSAT Product Navigator service allow user search available data product Product Navigator access use either web interface SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Weather",
+        "api_name": "SNOTEL",
+        "id": 13218,
+        "progweb_descr": " Natural Resources Conservation Service NRCS install operate maintains extensive automated system collect snowpack relate climatic data Western United States call SNOTEL SNOwpack TELemetry SNOTEL API provide SOAPbased access data collect system"
+    },
+    {
+        "progweb_cat": "Science,Messaging",
+        "api_name": "QMachine",
+        "id": 8542,
+        "progweb_descr": " QMachine web service incorporate ordinary web browser World Wide Computer It provide JSONbased API messagepassing allows use virtually compute language platform support CrossOrigin Resource Sharing CORS use web browser domain without permanent installation"
+    },
+    {
+        "progweb_cat": "Science,Social",
+        "api_name": "PhyloBox",
+        "id": 8815,
+        "progweb_descr": " PhyloBox service create share phylogenetic tree online Trees view anonymously without sign user sign save return phylogenetic tree invite collaborator fork tree new version track many time tree view Forking phylogenetic tree result new tree new UUID disrupt original entire history lineage tree fork contribution maintain first author always original author"
+    },
+    {
+        "progweb_cat": "Science,Visualizations",
+        "api_name": "The X Toolkit",
+        "id": 8915,
+        "progweb_descr": " X Toolkit XTK lightweight toolkit visualize scientific data It read variety format surface model volume file tractography file scalar overlay file lookup table file 2D texture file XTK perform variety operation 3D image data include volume render thresholding crosssectional slice It also provide support constructive solid geometry label map color table surface overlay New user learn use XTK look demo follow along lesson provide XTK integrated website use JavaScript code"
+    },
+    {
+        "progweb_cat": "Science,Visualizations",
+        "api_name": "VisANT",
+        "id": 11090,
+        "progweb_descr": " service provide visualization tool represent network pathway within biological research Available web service instal software ingests data organism specie create image depict link relationship Interactions within active community drive development graphical tool create effective depiction researcher API method support define characteristic node visualization include link determine graphic representation Methods support lookup specie organism record help define node description"
+    },
+    {
+        "progweb_cat": "Science,Visualizations",
+        "api_name": "IceLogo",
+        "id": 13001,
+        "progweb_descr": " IceLogo program generates sequence logo align peptide sequence A sequence logo histogramlike presentation bar vertical stack symbols Stack height reflect level pattern conservation align peptide sequence height individual symbol measure frequency give position Unlike sequence logo generate program rely Shannonâ€™s information theory IceLogo operate base probability theory Basically algorithm take experimental set compare reference set configure user These two set use probability analysis result show result sequence logo IceLogos function freely available API use SOAP protocol"
+    },
+    {
+        "progweb_cat": "Science,Visualizations",
+        "api_name": "BiologicalNetworks",
+        "id": 13504,
+        "progweb_descr": " BiologicalNetworks software platform analyze query biological pathway It also use visualization gene regulation protein interaction network well metabolic signal pathway BiologicalNetworks API allow function platform incorporate software application"
+    },
+    {
+        "progweb_cat": "Science,Nordic",
+        "api_name": "Norwegian Biodiversity Information Centre",
+        "id": 8975,
+        "progweb_descr": " Norwegian Biodiversity Information Centre know Artsdatabanken Norwegian database information Norways species ecosystems It cooperate museums natural history research institution nature management institution others assemble information make available public Norwegian Biodiversity Information Centres API allow user search information organism Latin Norwegian name via SOAP call"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "scrazzl",
+        "id": 8990,
+        "progweb_descr": " Scrazzl social discovery platform research material build help scientist make improved decision research product solve technical problem scrazzl API provide developer access structure research product information include research publication Product example might include antibody enzymes chemical lab equipment animal model lab software service"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "SDSS CasJobs",
+        "id": 9889,
+        "progweb_descr": " Catalog Archive Server Jobs System CasJobs online workbench large scientific catalog It design emulate enhance local freeform query access web environment CasJobs provide synchronous asynchronous query execution History function record query statuses Each user get personalize serverside database call MyDB enable persistent table function procedure creation MyDB data download variety format share user via Groups mechanism CasJobs provide multiple interface option include browser client javabased command line tool It also offer SOAPbased web service manage user account job user group server"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "Nasa Exoplanet Archive",
+        "id": 10082,
+        "progweb_descr": " NASA Exoplanet Archive astronomical exoplanet stellar data service online catalog collates crosscorrelates astronomical data exoplanets host star archive astronomer vet provide tools work data NASA Exoplanet Archive API provide developer access search query API access HTTP call act SQL SELECT statement call specify data select particular table Default data format CSV several astronomy table format may specify"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "QuickGO",
+        "id": 10241,
+        "progweb_descr": " service maintain ontology term describe concept important genetic research relate biological science Its structure define standard language concept topic domain annotation describe meaning proper use term This standardization language use encourage consistent treatment discussion across genetic research effort API method support access ontology list standard term proteins descriptive property annotation correct usage taxonomic relationship term include broad meaning narrow meaning related usage Methods allow control scope result set depend application need complete streamline data"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "EnrichNet",
+        "id": 10503,
+        "progweb_descr": " service provide analysis expect functional association gene protein submit list It also generate cellular process pathways complex associate list gene protein Analysis result provide statistical rating importance overlap functional characteristic list gene protein API method support submission one gene proteins specified standard protocol ensembl HGNC symbol etc along database provide functional characteristic analysis large batch analysis method allow uploads file tabdelimited value specify genesproteins interaction analyze"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "BioGRID",
+        "id": 10674,
+        "progweb_descr": " service provide continuously curated repository reference source related raw protein genetic interaction search function index 35000 separate article publication document 550000 raw protein genetic interaction Search provide free access interaction data either immediate display download API method support submission search request specify single gene set gene retrieve list publication single gene publication reflect interaction gene Where multiple gene specify publication return address particular interaction Search request also specify source publication reference desire"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "MitoMiner",
+        "id": 10676,
+        "progweb_descr": " service provide mitochondrial data range organism It collect number interrelate datasets associate genetic protein structure allow singlesource access information expression living organism It also maintain provide ontology describe gene API method support flexible query database mathces protein name UniProt keywords gene name specie Methods give access datasets cover mitochondrial proteomics gene ontology metabolic pathway API also give access record association human disease mitochondrial profile"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "JChem ChemAxon",
+        "id": 10836,
+        "progweb_descr": " service provide number tool research chemistry relate field Search function help provide definition chemical term identify compound base atomic structure Other function describe markush operation molecular conversion reaction compound JChem Web Services provide web interface extend access ChemAxon tool Internet internal network This interface make easy integrate chemistry tool web application JChem Web Services setup server environment run Java"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "H-InvDB",
+        "id": 10890,
+        "progweb_descr": " service provide access HInvitational Database HInvDB human gene genetic structure database document research analyzine human gene transcript annotation service provider describe genetic structure observe variant highly detailed interaction genetic sequence process API method support search database individual gene identifier keywords description text location particular chromosome relation gene Methods"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "EcoSystemData",
+        "id": 11091,
+        "progweb_descr": " service International Council Exploration Sea ICES provide access data warehouse compile provider biological research data relevant ecosystem condition It collect datasets develop researcher study environmental condition make available via APIs data warehouse combine listing separate datasets maintain provider comprehensive listing across ecological science API method support search data particular specie particular region span particular time period Methods also provide structural information data warehouse summary listing datasets available data element datatypes within datasets geographic region data access listing specie track datasets"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "European Alien Species Information Network",
+        "id": 11092,
+        "progweb_descr": " service European Alien Species Information Network EASIN catalog report presence invasive nonnative specie within European environment It provide listings animal plant transplant region fish carry Mediterranean Sea water ship traffic It help track map new potentially invasive specie within Europe API method support search database specific specie region result XML option map Methods complaint standard OpenSearch Open Geospatial Consortium OGC Taxonomic Databases Working Group TDWG"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "FloraBrasil",
+        "id": 11093,
+        "progweb_descr": " service provide catalog plant specie Brazil goal support documentation conservation flora across national regional local area within country It part Brazilian government commitment international Convention Biological Diversity CBD support Global Strategy Plant Conservation GSPC API method support access checklist plant organism genus specie subspecies parameter output language data format etc Methods also support listing category organisms geographic location relate characteristic Brazilian environment"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "PaleoDB",
+        "id": 11094,
+        "progweb_descr": " service provide record fossil find document include location organisms represent live environment time alive It compile paleobiology information document plant animal life specific point space time Information individual fossil specie support broad taxonomic information API method support HTTP GET request fossil occurrence document presence organism distinctive part organism identify location timeframe API give access record compliant XML format Species 2000 Catalogue Life provide taxonomic stratigraphic geologic geochronological data along record particular fossil organism"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "Synergizer",
+        "id": 11095,
+        "progweb_descr": " service provide translation biological indentifiers one encode format another This function allow data express one format reuse combined compare data express different format example translation convert gene IDs state Ensembl Entrez format convert IPI identifier HGNC symbol API method support submission identifier specie name pertains along authority structure govern translation original final desire encoding namespaces Methods accept file list multiple identifier translate output spreadsheet format alternative default JSON output"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "EvoIO Phylotastic/TNRS",
+        "id": 11096,
+        "progweb_descr": " service provide resolution specie organism names scientific name define particular authority ideal resolution link specie name appear uniform resource identifier URI unambiguously specify within various authority list service intend standardize use specie name taxonomy tree depict specie relationship Phylotastic web service API method support submission list taxonomic name service resolve API return URL provide service output along date submit metadata Methods also support retrieval resolve name data return list authority URIs define submit name"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "WebScipio",
+        "id": 11097,
+        "progweb_descr": " service defines gene structure imply protein sequence within particular genome It aid research project define gene sequence analyze protein sequence identify gene define accommodation sequence error error ambiguously define gene even complete genome fully describe service provide location within genome submit protein sequence could appear indicates gene correspond sequence API method support submission protein sequence data source within particular genome Methods return comprehensive identification gene define sequence identifies available genetic profile specie characterize submit profile gene"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "BioCyc",
+        "id": 11348,
+        "progweb_descr": " service provide aggregated access almost 2000 database organism genome data formally PathwayGenome Databases PGDBs Each database describe genetic makeup metabolic pathways one biological organism service help navigate data tool visualization data relationship analysis individual organism data comparison among organisms API method support description individual gene include protein pathways enzyme reaction product generate In addition metabolic pathways characteristic individual gene method enable service genome browser metabolic map relate separate gene"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "Researchr",
+        "id": 11480,
+        "progweb_descr": " service provide citation database reference scientific paper publication It serve need researcher find published source topic author interest site collect citation share across scientific community provide reviews finding researcher API method support search citation database term author name match reference paper scientific journal conference presentation Methods also support generation bibliography listing"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "NASA EOS Metadata Clearninghouse (ECHO)",
+        "id": 11510,
+        "progweb_descr": " service provide data collect Earth Observing Satellite Data Information System OESDIS US National Aeronautics Space Administration NASA program collect provide information interest researcher Earth science relate discipline ECHO performs middleware allow information provider community publish data information consumer discover access resource collection API method support management user role group membership appropriate access Information resource include catalog repository datasets content taxonomy event listing relate function"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "NCBI Conserved Domain Database (CDD)",
+        "id": 11720,
+        "progweb_descr": " service provide access database molecular protein building block recur different combination part organisms genetic makeup search function help uncover association chemical element genetic structure document disparate data source API method support selection databases search configuration conserve domain define NCBI match Methods allow selection search modes basic advanced complex Boolean query filter result Methods also allow specification Entrezbased protein designation search query"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "Pacific Biosciences SMRT Pipe",
+        "id": 11777,
+        "progweb_descr": " service provide collaborative platform molecule sequence within life science It provide information proprietary technology sequence SMRTÂ® along data analytical software help process Tools access convert file allow manipulation data resource process different environment API method support management sequence data output secondary data analysis control analysis protocols validation sample sheet Separate APIs support conversion data file different format"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "Chemical Identifier Resolver",
+        "id": 12067,
+        "progweb_descr": " service help understanding us identifier chemical structure It take identifier chemical compound resolve standard nomenclature It also provide information molecular structure indicate identifier andor convert different identifier notation API method support submission chemical structure identifier range format include SMILES InChI Methods return standard chemical name structure information optionally include gif png image structure equivalent identifier different format"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "BioDB Hyperlink Management System",
+        "id": 12081,
+        "progweb_descr": " service maintains automatically update database hyperlink across major biology life science databases It define stable identifier link data IDs major database gene protein information Its update function return uptodate URLs access correspond data across multiple database API method support submission identifier particular input format desire output format Methods return correct identifier request output system Methods also allow retrieval listing identifier log system"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "DiscoveryGate",
+        "id": 12208,
+        "progweb_descr": " service provide information type availability chemical compound chemistry product It aggregate source information compound provider facilitate comparison purchase decision Products flag molecular structure make easy find along listing potential supplier API method support specification molecule flags descriptor identify progressively fine selection available chemical compound Methods return potential match procurement information like supplier location price"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "IndExs",
+        "id": 12511,
+        "progweb_descr": " IndExs index contain information title abbreviation bibliography mycological exsiccatae Exsiccatae publish uniform numbered set preserve specimen distribute printed label IndExs access web console use SOAP REST API"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "BIOBASE",
+        "id": 12669,
+        "progweb_descr": " BIOBASE lead provider expertcurated biological database software service life science BIOBASE product use identify relation aid drug biomarker discovery BIOBASE help researcher identify connection offer wellstructured data assemble highly qualified subjectmatter expert organize accessible easily searchable manner This data accessible via API API use RESTful call response format XML"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "Spire ITIS",
+        "id": 13124,
+        "progweb_descr": " Spires ITIS API allow user query local version database develop Integrated Taxonomic Information System Group ITIS Users find ITIS Taxonomic Serial Numbers give list scientific name taxa vice versa well edit give list These web service implement SOAP"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "ProThesaurus",
+        "id": 13344,
+        "progweb_descr": " ProThesaurus Protein Thesaurus API two part Biological Markup Service Biological Name Service Biological Markup Service scan text name identifier biological object eg protein mark hit Biological Name Service identifies biological object provide name database identifier frequently use synonyms BeThesaurus Beta Thesaurus extension ProThesaurus allow user propose name identifier biological object"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "ChemSpider",
+        "id": 13512,
+        "progweb_descr": " ChemSpider API free chemical structure database provide access 25 million structure property associate information This API enable researcher access information 400 data source single search Users search chemical name structure property elemental component"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "NSDL Search",
+        "id": 13791,
+        "progweb_descr": " Digital Discovery System DDS National Science Digital Library NSDL online library devote digital resource relate science technology engineering math General K12 high education resource available A search API provide access repository API RESTRPC hybrid return response XML JSON"
+    },
+    {
+        "progweb_cat": "Science,Reference",
+        "api_name": "NEEScentral",
+        "id": 15808,
+        "progweb_descr": " NEESit API let earthquake engineer organize share data participate experiment Use method access data NEEScentral include CRUD capability API file upload Located San Diego Supercomputer Center support National Science Foundation NEES Cyberinfrastructure Center NEESit seek give IT tool infrastructure earthquake engineer remotely engage experiment simulation organize share data collaborate"
+    },
+    {
+        "progweb_cat": "Science,Content",
+        "api_name": "Veeva Vault Platform",
+        "id": 9187,
+        "progweb_descr": " Veeva Vault Platform cloudbased content management system CMS build specifically life science community Veeva allow user manage life science content Veeva Vault Platform API allow developer access integrate functionality Veeva applications Some example API method include search content retrieve content managing content"
+    },
+    {
+        "progweb_cat": "Science,European",
+        "api_name": "EU-nomen PESI",
+        "id": 9392,
+        "progweb_descr": " EUnomens PESI PanEuropean Species directories Infrastructure provide online database taxonomic information specie occur Europe It merge information major online databases contains hundred thousand scientific name along vernacular name 89 language many specie PESI also include image distribution conservation status well link portal provide additional information Developers integrate PESIs taxonomic data application use SOAPbased PESI API"
+    },
+    {
+        "progweb_cat": "Science,Health",
+        "api_name": "Europe PubMed Central",
+        "id": 9406,
+        "progweb_descr": " Europe PubMed Central free database full text research article biomedical health researcher Europe PubMed Central REST API provide developer access publication relate information database Access supply 28 million abstract 26 million full text article crosslinks public biomolecular database reference list full text article cite article term text mine full text article Supported call include article search database hit count retrieval reference citation text mine term API available user require authentication database also accessible via SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Health",
+        "api_name": "The Cancer Cell Map",
+        "id": 9600,
+        "progweb_descr": " Cancer Cell Map select set browsable searchable human cancer focus pathway Created Computational Biology Center Memorial SloanKettering Cancer Center Institute Bioinformatics Cancer Cell Map freely available online downloadable database Cancer Cell Map API provide developer access Cancer Cell Map data Response data BioPax XML format"
+    },
+    {
+        "progweb_cat": "Science,Health",
+        "api_name": "National Cancer Institute TCGA Data Access Matrix",
+        "id": 13075,
+        "progweb_descr": " Cancer Genome Atlas TCGA pilot project aim improve ability diagnose treat prevent cancer application genome analysis technology include largescale genome sequence TCGA Data Access Matrix DAM Web Service allow programmatic generation data archive TCGA server API use RESTful call response format XML JSON"
+    },
+    {
+        "progweb_cat": "Science,Australian",
+        "api_name": "Australian Synchrotron",
+        "id": 10397,
+        "progweb_descr": " Australian Synchrotron Australiaâ€™s large national research facility synchrotron produce extremely bright xrays infrared light use study diverse range material process great detail Australian Synchrotron provide several SOAPbased APIs MyTARDIS interface VBL Storage Gateway view manage transfer experimental data secure manner Further information service require user login email provider"
+    },
+    {
+        "progweb_cat": "Science,Application Development",
+        "api_name": "SBML Validator",
+        "id": 10580,
+        "progweb_descr": " service provide review format validation sample system biology markup language SBML specialize flavor XML common specific category researcher biological science It ingest sample markup check SBML standard note variation proper syntax inconsistency format would prevent use application rely language API method support submission URI access sample SBML file validate API return notation identify syntax formatting problem state nature problem Methods allow control validation method disable certain syntax check validation consistency report unit measurement tailor result desire level completeness"
+    },
+    {
+        "progweb_cat": "Science,Nature",
+        "api_name": "National Institute for Geographic Information and forestry",
+        "id": 10614,
+        "progweb_descr": " service provide data map geographic information sysetms GIS application related forestry agricultural condition France It document forest coverage tree species health soil condition related environmental report tie specific location identify geographic point physical area It intend provide continuously updated inventory French forest resource API method support retrieval report tree specie environmental health forestation Data may format map layer integration thirdparty mapping application Native client integration available include Geoportal"
+    },
+    {
+        "progweb_cat": "Science,Nature",
+        "api_name": "openModeller",
+        "id": 12609,
+        "progweb_descr": " openModeller program performing specie niche model simulation It build representation ecological requirement specie extrapolate requirement geographical region openModeller make ecological niche model function available SOAPbased API facilitate standardize online use"
+    },
+    {
+        "progweb_cat": "Science,Agriculture",
+        "api_name": "Crop Ontology",
+        "id": 10675,
+        "progweb_descr": " service provide record plant anatomy structure phenotype It aim compile validate profile agricultural crop include interrelationship visible trait measurement It define concept define agronomic database record contain Accurate description map agronomic phenotype support comparative research phenotype genotypes experiment genediscovery API method support keyword search across database focus retrieval ontology define service component category Methods provide access root term within ontology parentchild structural relationship among term Methods also support create new ontology within database deletion exist one"
+    },
+    {
+        "progweb_cat": "Science,Geology",
+        "api_name": "EarthChem",
+        "id": 10847,
+        "progweb_descr": " service provide platform data share query serve researcher geology related science It focus especially data related chemistry chronology petroleum exploration production portal originate support US National Science Foundation give federate access major geochemical database US Geological Service international provider API method support search datasets publish research author name article title journal name year publication keyword character string Results filtered date range either publication data collection location specify map polygon less specific identifier Results may also limit specific characteristic data sample material chemical compound chonological age mineral sample"
+    },
+    {
+        "progweb_cat": "Science,Geology",
+        "api_name": "Integrated Earth Data Applications",
+        "id": 10848,
+        "progweb_descr": " service provide geology data mapping set web service build MapService platform Open Geospatial Consortium OGC That architecture expose datasets number OGCcompliant desktop client well service REST SOAP APIs Data include datasets seismograph recording geological sample profile System Earth Sample Registration SESAR API method support query XML record seismology datasets record earthquake geological event Methods also support retrieval analytical data sample rock mineral geological material universal identifier create time sample collect Methods manage sample also allow upload new record document sample collection user register account service"
+    },
+    {
+        "progweb_cat": "Science,Geology",
+        "api_name": "Geo3DModelService",
+        "id": 12935,
+        "progweb_descr": " Geo3DModelService API available via SOAP REST protocols program generate crosssectional model subterranean condition use geologic data Users create model vertical horizontal crosssections accompany key make generate map mean explicit All documentation Dutch"
+    },
+    {
+        "progweb_cat": "Science,Geology",
+        "api_name": "EarthScope Data Portal",
+        "id": 13088,
+        "progweb_descr": " EarthScope Data Portal API provide programmatic method student researcher others interested scientific data explore EarthScopes instrument network Users download data take one thousand instrument locate across North America Available information include seismic data GPS data strainmeter data SAFOD data airborne LiDAR imagery satellite InSAR imagery"
+    },
+    {
+        "progweb_cat": "Science,Testing",
+        "api_name": "openSNP",
+        "id": 11709,
+        "progweb_descr": " openSNP allow customer directtocustomer genetic test publish test result find others similar genetic variation learn result find late primary literature variation help scientist find new association openSNP API enable user retrieve information user genotypes phenotype openSNP use JSON call"
+    },
+    {
+        "progweb_cat": "Science,Tools",
+        "api_name": "Cocoa",
+        "id": 11784,
+        "progweb_descr": " Cocoa dense annotator biological text It annotate macromolecule chemical proteinDNA part organisms process anatomical part location physiological term parameter value experimental technique food It note Cocoas coverage general biological phenomenon ie evolution tend poor Cocoa provide RESTful API return information JSON"
+    },
+    {
+        "progweb_cat": "Science,Tools",
+        "api_name": "CSA/NBII Biocomplexity Thesaurus",
+        "id": 12577,
+        "progweb_descr": " CSANBII Biocomplexity Thesaurus Web Service allow user query Thesaurus match relate term use variety search operator Biocomplexity Thesaurus merger CERESNBII Thesaurus CSA Aquatic Sciences Fisheries Life Sciences Pollution Sociological Ecotourism thesaurus"
+    },
+    {
+        "progweb_cat": "Science,Internet of Things",
+        "api_name": "WISEBED",
+        "id": 11820,
+        "progweb_descr": " WISEBED provide multilevel infrastructure interconnect testbeds largescale wireless sensor network It design enable research large scale high quality would possible use testbeds individually WISEBEDs function accessible via SOAPbased APIs use XML data format"
+    },
+    {
+        "progweb_cat": "Science,Earthquakes",
+        "api_name": "TauP",
+        "id": 12474,
+        "progweb_descr": " TauP seismic travel time calculator In addition calculate derivative information ray path earth well pierce turn point It handle many type velocity model calculate time virtually seismic phase phase parser TauP available download access programmatically via SOAP API"
+    },
+    {
+        "progweb_cat": "Science,Earthquakes",
+        "api_name": "OpenHazards GetEarthquakeProbability",
+        "id": 12904,
+        "progweb_descr": " service gather data multiple sensor network public report generate forecast earthquake seismic hazard It aim predict specific event rather generate probabilistic forecast risk base event probability likely damage event occur Its goal aid preparation natural catastrophe anticipate API method support submission location generate forecast along radius around point timeframe magnitude threshold service return forecast hazard earthquake state threshold occur within radius around state location within timeframe specify"
+    },
+    {
+        "progweb_cat": "Science,Japanese",
+        "api_name": "TogoWS",
+        "id": 12707,
+        "progweb_descr": " TogoWS aim integrate simplify API access database provide major bioinformatics center NCBI EBI DDBJ KEGG PDBj CBRC These database APIs especially useful high throughput analysis TogoWS provide user way access uniformly via SOAP REST call TogoWS website API documentation available English Japanese"
+    },
+    {
+        "progweb_cat": "Science,Storage",
+        "api_name": "NEWT NERSC",
+        "id": 12762,
+        "progweb_descr": " collection RESTbased service allow creation operation application use resource US National Energy Research Scientific Computing Center NERSC It support High Performance Computing HPC application via browser interaction easy retrieval aggregation agency content API method handle initial authentication follow application interaction AJAX call javascript library newtjx In way application upload browse download file manage persistent storage repository Methods also run UNIX command submit batch job execution"
+    },
+    {
+        "progweb_cat": "Science,Semantics",
+        "api_name": "iPlant Semantic Web HTTP",
+        "id": 12911,
+        "progweb_descr": " service accepts JSON data conform specified format generates compliant RDFXML OWL code allow interaction via semantic web input format design support need botanical science ensures collection data need create useful RDFXML output data user remain focused botany rather learn new data format API method support creation RDF expression type property entity attribute generation link data graph number format Provider Description Graph PDG Resource Description Graph RDG others Documentation include instruction require JSON input format"
+    },
+    {
+        "progweb_cat": "Science,Semantics",
+        "api_name": "EBI SBO",
+        "id": 13042,
+        "progweb_descr": " Systems Biology Ontology SBO set control relational vocabulary term commonly use Systems Biology especially computational model These term use add layer semantic information standard description model annotate result biochemical experiment facilitate efficient reuse SBO access use via SOAPbased API"
+    },
+    {
+        "progweb_cat": "Science,Wiki",
+        "api_name": "WikiPathways",
+        "id": 13142,
+        "progweb_descr": " WikiPathways open public platform dedicate curation biological pathway scientific community It help facilitate contribution maintenance pathway information biology community WikiPathways wiki page pathway display current diagram description reference download option version history component gene protein list API let developer access service programmatically It use SOAP call response XML"
+    },
+    {
+        "progweb_cat": "Science,Water",
+        "api_name": "USGS National Water Information System",
+        "id": 13215,
+        "progweb_descr": " USGS National Water Information System NWIS provide suite APIs facilitate automate share water monitoring data USGS NWIS APIs provide information monitoring location within give geographic area also retrieve waterquality measurement site All data provide NWISWeb database"
+    },
+    {
+        "progweb_cat": "Science,DNA",
+        "api_name": "Rose",
+        "id": 13295,
+        "progweb_descr": " Rose Random model sequence evolution implement probabilistic model evolution RNA DNA proteinlike sequence help determine evolutionary order Data create Rose useful evaluate method multiple sequence alignment computation predict phylogenetic relationship Rose available download web console SOAP API"
+    },
+    {
+        "progweb_cat": "Science,DNA",
+        "api_name": "Decomp",
+        "id": 13297,
+        "progweb_descr": " Given mass DNA fragment Decomp calculate nucleotide combination possible Problems like refer mass decomposition problem often arise mass spectrometry information leave DNA protein sample fragment molecular mass Decomp available web console SOAP API It use solve mass decomposition problem"
+    },
+    {
+        "progweb_cat": "Science,Library",
+        "api_name": "NSDL Repository Update Service",
+        "id": 13319,
+        "progweb_descr": " National Science Digital Library NSDL national online portal education research learn science technology engineering mathematics United States NSDL provide XML repository search server tool call Digital Discovery System DDS complete API build top Apache Lucene When user use DDS tool conjunction XML repository use RESTful call remotely create update delete collection item repository use DDSs Repository Update Service web service Client access DDS repository system likewise API govern list valid IPs specify DDSs Collection Manager interface"
+    },
+    {
+        "progweb_cat": "Science,Library",
+        "api_name": "DLESE",
+        "id": 13831,
+        "progweb_descr": " Digital Library Earth System Education DLESE provide access educational resource collection Earth system datasets imagery community resource teacher student scientist DLESE library power Digital Discovery System DDS XMLbased repository search discovery feature A small set APIs available access update DLESE collection Search Service API RESTful return response XML JSON Updates repository make authorized client use RESTful API There also JavaScript Search Service available incorporating website"
+    },
+    {
+        "progweb_cat": "Science,Math",
+        "api_name": "RIOJA Journal Repository",
+        "id": 13638,
+        "progweb_descr": " RIOJA Repository Interface Overlaid Journal Archives Journal Repository API act interface digital repository article overlay journal Overlay journal journal draw one archive repository article This API provide XMLbased method retrieve information journal repository facilitate creation maintenance overlay journal"
+    },
+    {
+        "progweb_cat": "Science,Satellites",
+        "api_name": "Alaska Satellite Facility",
+        "id": 13828,
+        "progweb_descr": " Alaska Satellite Facility ASF one eight Distributed Active Archive Centers DAAC provide data NASA Earth Science Data Information System ESDIS ASFs DAAC synthetic aperture radar SAR Data Center specialize SAR data collection processing archive distribution An API allow access SAR Data Center archive use POST GET protocol"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "progweb_cat": "Medical Records,Data",
+        "api_name": "Bloom",
+        "id": 2451,
+        "progweb_descr": " This API allow release record digitally fax mail Bloom Record Release 100 HITECH HIPAA compliant federal standard Bloom Studio provide access healthcare data EMRs interoperable vendor cant hold data They help make healthcare technology accessible connect patient provider payer"
+    },
+    {
+        "progweb_cat": "Medical Records,Health",
+        "api_name": "Ocean Open",
+        "id": 4697,
+        "progweb_descr": " Ocean CognisantMD aim improve patient experience communication service healthcare combine mobile interactive survey medical office patient EMR Ocean Open API open implementation project relate medical record Integration aim integrate cloud service EMR data patient data clinical form Ocean Open API work home Ocean Online wait room Ocean Tablets"
+    }
+]

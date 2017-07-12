@@ -1,0 +1,74 @@
+[
+    {
+        "progweb_cat": "Prices,Cloud",
+        "api_name": "Amazon EC2 Price",
+        "id": 1772,
+        "progweb_descr": " EC2 Price API return price Amazons AWS EC2 service Parameters include purchase option location tenancy operate system instance type offering class lease contract length Calls make use HTTP POST"
+    },
+    {
+        "progweb_cat": "Prices,eCommerce",
+        "api_name": "Preisente Merchant MyShop",
+        "id": 5302,
+        "progweb_descr": " Preisente Merchant MyShop allow developer compare price supermarket city order discover best price give product API easily integrate point sale enterprise resource planning relate system Preisente German Price Duck search engine provide access late local price data website API documentation provide solely German"
+    },
+    {
+        "progweb_cat": "Prices,International",
+        "api_name": "Plivo Pricing",
+        "id": 5616,
+        "progweb_descr": " Plivo Pricing API let developer retrieve rate country inbound outbound call Plivo carrier service company provide business way communicate customer via SMS Voice call"
+    },
+    {
+        "progweb_cat": "Prices,Merchants",
+        "api_name": "Shopello",
+        "id": 5845,
+        "progweb_descr": " Shopello API allow developer retrieve information Scandinavian merchant price API also link store developer get pay click Shopellos network include hundred merchant million product enable user select vendor product relevant end user In addition API Shopello also offer Wordpress plugin"
+    },
+    {
+        "progweb_cat": "Prices,Discounts",
+        "api_name": "AppCorner.it",
+        "id": 6451,
+        "progweb_descr": " AppCorner discount listing service catalogue deal price drop App Store Deals include iPhone iPad Mac discount apps App Store worldwide AppCornerit API integrate 3rd party website application showcase special deal earn commission iTunes Affiliate Program AppCorner project open source forked GitHub AppCorner API use JSON RESTful"
+    },
+    {
+        "progweb_cat": "Prices,Charts",
+        "api_name": "getEquityOptions",
+        "id": 6746,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getEquityOptions API provide EOD option data strike expiration date volatility etc All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Prices,Charts",
+        "api_name": "getQuote",
+        "id": 7271,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getQuote API use request realtime delay endofday price data symbol In addition Last Price Settlement field include Open High Low Close Bid Ask 52week high low available All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Prices,Data",
+        "api_name": "getFuturesOptions",
+        "id": 6955,
+        "progweb_descr": " getFuturesOptions API provide EOD option data strike expiration date volatility etc"
+    },
+    {
+        "progweb_cat": "Prices,Analytics",
+        "api_name": "getSpecialOptions",
+        "id": 6957,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getSpecialOptions API provide Intraday data shortdated weekly future option All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Prices,Agriculture",
+        "api_name": "getQuoteEOD",
+        "id": 7276,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data getQuoteEod API us combine exchange symbol retrieve request endofday price data equity future fund All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Prices,Big Data",
+        "api_name": "getHistory",
+        "id": 7281,
+        "progweb_descr": " Barchart provider future equity foreign exchange market data With getHistory API timeseries data request stock index mutual fund ETFs future indices forex pair Historical data retrieve form tick minute endofday data All Barchart OnDemand APIs allow query JSON XML CSV format Developers visit BarCharts site request permission API usage"
+    },
+    {
+        "progweb_cat": "Prices,Products",
+        "api_name": "Priceonomics",
+        "id": 7944,
+        "progweb_descr": " Priceonomics help company crawl structure web data Priceonomics API service build help marketplace support customer post product API provide developer access Priceonomics product ontology database use item price estimate API accept GET call pass free text input return structure product information category make model price"
+    }
+]

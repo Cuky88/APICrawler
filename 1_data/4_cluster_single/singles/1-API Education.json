@@ -1,0 +1,8 @@
+[
+    {
+        "progweb_cat": "API Education,API Design",
+        "api_name": "Predic8 Shop Demo",
+        "id": 4091,
+        "progweb_descr": " Predic8 offer sample API learn use REST architectural style This API support standard HTTP method POST PATCH DELETE Resorces modify freely require registration API Keys training purpose sample API support JSON format file upload pagination filter hypermedia link"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "progweb_cat": "Wearable,Data",
+        "api_name": "Google Fit REST",
+        "id": 642,
+        "progweb_descr": " Google Fit REST API allow user store reference data Google Fitness store order create 3rd party fitness application API use create obtain list aggregate delete modify datasets Fitness store API also use session track time interval"
+    },
+    {
+        "progweb_cat": "Wearable,Data",
+        "api_name": "Garmin Wellness",
+        "id": 6578,
+        "progweb_descr": " Garmins Wellness API help developer create wellness program data Garmin device API provide solution corporate wellness program wellness fitness provider create wellness apps This API provide information track evaluate validate reward individual activity complete Garmin device primarily support health fitness data vívokí vívofit wearable device"
+    },
+    {
+        "progweb_cat": "Wearable,Fitness",
+        "api_name": "Misfit",
+        "id": 647,
+        "progweb_descr": " Misfit variety wearable technology product track user activity health data sleep Misfit API allow developer access integrate Misfit ’ functionality application create new application Some example API method include retrieve activity information retrieve health information manage account"
+    },
+    {
+        "progweb_cat": "Wearable,Fitness",
+        "api_name": "Misfit Cloud",
+        "id": 1877,
+        "progweb_descr": " Misfit Cloud API integrate connectivity third party application cloud It available HTTP protocol API Key authentication secure HTTPS With API developer create user profile include device add goal"
+    },
+    {
+        "progweb_cat": "Wearable,Fitness",
+        "api_name": "Hexoskin",
+        "id": 3753,
+        "progweb_descr": " Hexoskin RESTful API integrate metric data software Hexoskin wearable biometric shirt report train recovery sleep aim optimize health performance Available JSON architecture OAuth"
+    },
+    {
+        "progweb_cat": "Wearable,Fitness",
+        "api_name": "Recon Instruments Web",
+        "id": 5570,
+        "progweb_descr": " Recon Instruments Web API allow access detailed information regard user trip app permission grant Registration client application require make call Recon API Calls make HTTPS require access token authentication Request limit define reasonable enforced 503 error large amount request send Recon Instruments develop Headsup Display HUD eyewear sport active lifestyle include Jet Snow2 Recon Engage Recon HUDs provide information regard personal metric location user full color widescreen display Additionally Recon product audio video capability ability pair HUD mobile device ability add third party apps allow customization"
+    },
+    {
+        "progweb_cat": "Wearable,Fitness",
+        "api_name": "Sony Lifelog",
+        "id": 6070,
+        "progweb_descr": " Sony Lifelog application wearable track record various data user health information fitness information goal track Sony Lifelog API allow developer access integrate functionality Lifelog application create new application Some example API method include manage user retrieve activity information access location data"
+    },
+    {
+        "progweb_cat": "Wearable,Hardware",
+        "api_name": "This is ANT+",
+        "id": 3792,
+        "progweb_descr": " This ANT API integrate sensor monitor health wellness performance It available SDK include plugin service"
+    },
+    {
+        "progweb_cat": "Wearable,Audio",
+        "api_name": "Myle",
+        "id": 5388,
+        "progweb_descr": " With Myle user convert thought action use wearable device capture audible idea company refers product brain backup Think voice recorder schedule appointment track budget post social medium categorize activity Myle available preorder To know integrate APISDK contact sdkgetmylecom"
+    },
+    {
+        "progweb_cat": "Wearable,Clothing",
+        "api_name": "Under Armour",
+        "id": 6023,
+        "progweb_descr": " Under Armour sport fitness clothing company offer fitness platform fuel application Under Armour Women MapMyFitness MapMyRun MapMyRide MapMyWalk MapMyHike inspire athletic activity combine social experience RESTful Under Armour API access web HTTP call POST GET PUT DELETE manipulate resource relate wearable fitness technology Under Armour also offer iOS Android SDKs wrap native construct quick synchronicity across device Under Armour also offer sandbox allow developer easily test API"
+    },
+    {
+        "progweb_cat": "Wearable,Community",
+        "api_name": "Garmin Connect",
+        "id": 6577,
+        "progweb_descr": " Garmin Connect online community create work Forerunner Edge fēnix product Garmin Connect store analyze enduser data support 30 different activity type Garmin Connect API provide access robust data come many different activity"
+    }
+]

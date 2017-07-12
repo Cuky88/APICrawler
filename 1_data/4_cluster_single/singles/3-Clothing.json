@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Clothing,Printing",
+        "api_name": "Rapanui T-shirt Printing",
+        "id": 5854,
+        "progweb_descr": " Rapanui Tshirt Printing REST API allow developer access integrate functionality Rapanui applications Some example API method include post image tshirt retrieve product information send instruction print place order Rapanui clothing tshirt print service With Tshirt Printing API developer offer print ondemand application"
+    },
+    {
+        "progweb_cat": "Clothing,Art",
+        "api_name": "Print Aura T-Shirt Fulfillment",
+        "id": 6868,
+        "progweb_descr": " Print Aura tshirt order fulfillment service Using Print Aura API developer access function Sellers Management portal allow implement request list shirt information size price produce image 3rd party application websites API also use submit tshirt order print company brand onto demand product Print Aura API also power eCommerce tool mashups"
+    },
+    {
+        "progweb_cat": "Clothing",
+        "api_name": "Clothes2order",
+        "id": 7957,
+        "progweb_descr": " Clothes2order online supplier print embroidered clothing Clothes2order offer API allow application website place order In addition place order API able programmatically check orderâ€™s status deliver weekly invoice add default customization order garment"
+    }
+]

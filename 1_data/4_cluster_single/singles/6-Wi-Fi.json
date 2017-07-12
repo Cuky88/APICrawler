@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Wi-Fi,Mobile",
+        "api_name": "Open Garden",
+        "id": 600,
+        "progweb_descr": " Open Garden service allow user share internet connect device increase speed internet device without change setting Open Garden API allow developer access integrate functionality Open Garden application create new application Public documentation available interested developer email contactopengardencom information"
+    },
+    {
+        "progweb_cat": "Wi-Fi,Engagement",
+        "api_name": "WeShare",
+        "id": 1668,
+        "progweb_descr": " WeShare offer WiFi hotspot share engine design increase user engagement across platform Businesses benefit optimize layout response speed compare original WiFi functionality mobile system Developers need register order access documentation request Token"
+    },
+    {
+        "progweb_cat": "Wi-Fi,Browsers",
+        "api_name": "Mozilla WiFi Information",
+        "id": 2155,
+        "progweb_descr": " Mozilla WiFi Information API facilitate WiFi network connectivity mobile device run Firefox OS Users deploy API ’ interface search available WiFi network addition manipulate preference connect disconnect network"
+    },
+    {
+        "progweb_cat": "Wi-Fi,Billing",
+        "api_name": "HotspotSystem.com",
+        "id": 4911,
+        "progweb_descr": " HotspotSystemcom API allow implement hotspot feature mobile application bill internet usage Protocols available JSON XML SSL basic HTTP Api Key authentication method HotspotSystem provide hotspot management billing ability business offer internet customer"
+    },
+    {
+        "progweb_cat": "Wi-Fi,Location",
+        "api_name": "Orange Wifi Locator",
+        "id": 5683,
+        "progweb_descr": " Orange Wifi Locator API let developer integrate Orange wifi hotspot locator application enable customer locate near Orange hotspot area This API REST base Orange global telecommunication company provide IT telecommunication service"
+    },
+    {
+        "progweb_cat": "Wi-Fi,Office",
+        "api_name": "Workfrom Places",
+        "id": 6003,
+        "progweb_descr": " Workfrom Places API allow developer integrate service application enable user find cafes bar coffee shop library dedicate coworking space WiFi power outlet amenities public endpoint allow developer search place near location postal code Workfrom ID"
+    }
+]

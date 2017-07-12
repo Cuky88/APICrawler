@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Caching,Networking",
+        "api_name": "Akamai Connect",
+        "id": 4846,
+        "progweb_descr": " Akamai Connect API deployment management service Akamai Connect Cache engines It allow user register activate authenticate cache It include resource interact client device addition reference build information deploy project Akamai offer cloud content delivery service"
+    },
+    {
+        "progweb_cat": "Caching,Database",
+        "api_name": "Infinispan",
+        "id": 4912,
+        "progweb_descr": " Infinispan API allow developer integrate distribute inmemory keyvalue data storage project application API offer advance functionality transaction event query distribute process Infinispan opensource platform write Java It usually serve distributed cache also use NoSQL keyvalue store object database"
+    },
+    {
+        "progweb_cat": "Caching",
+        "api_name": "section.io",
+        "id": 5085,
+        "progweb_descr": " sectionio API automate gather information perform action stack Sectionio enable developer create manage Varnish Cache web application Varnish Caches deploy sectionio high availability scalable infrastructure global distribution SSL management instant access searchable Varnish log real time Varnish metric local development test framework"
+    }
+]

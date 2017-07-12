@@ -1,0 +1,38 @@
+[
+    {
+        "progweb_cat": "Editing,Library",
+        "api_name": "Augeas",
+        "id": 2867,
+        "progweb_descr": " Augeas API configure file C language It parse native format provide command line tool tree representation XML format resource Available binding Ruby Python OCaml Perl Haskell PHP Lua Java Nodejs Go Tcl"
+    },
+    {
+        "progweb_cat": "Editing,Documents",
+        "api_name": "Fuck Yeah Markdown",
+        "id": 3065,
+        "progweb_descr": " Fuck Yeah Markdown API allow developer access integrate functionality Fuck Yeah Markdown application websites main API method retrieve text HTML mark text editor document Fuck Yeah Markdown provide markdown edit functionality text HTML document content"
+    },
+    {
+        "progweb_cat": "Editing,Content",
+        "api_name": "ContentTools",
+        "id": 3560,
+        "progweb_descr": " ContentTools API Anthony Blackshaw integrate content edit HTML application It provide JavaScript library HTML parser minimal state machine aim facilitate development"
+    },
+    {
+        "progweb_cat": "Editing,Editing",
+        "api_name": "eAngel Human Proofreading",
+        "id": 3919,
+        "progweb_descr": " eAngel Human Proofreading API provide remote connectivity channel unedited content team human editor It use REST platform deliver correspondence content require grammar spell check API ’ access restrict monthly subscription cost 5 34 depending plan Users must contact provider instruction access API"
+    },
+    {
+        "progweb_cat": "Editing,Collaboration",
+        "api_name": "Etherpad",
+        "id": 5837,
+        "progweb_descr": " Etherpad API allow user access import export Etherpad data many popular format Etherpad open source collaborative editing service run inbrowser allow multiple party update document real time Users take advantage one publicly available instance Etherpad set server install instance"
+    },
+    {
+        "progweb_cat": "Editing,Language",
+        "api_name": "Scribendi Editing Services",
+        "id": 14126,
+        "progweb_descr": " Scribendi provide proofreading service Users get quotes place manage order review status order review complete document user interface web site application Using edit service API ensure client document professionally edit proofread interface allow focus core strength offering Documents send edit anywhere whether web mobile device"
+    }
+]

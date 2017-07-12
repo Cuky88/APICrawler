@@ -1,0 +1,20 @@
+[
+    {
+        "progweb_cat": "Safety,Security",
+        "api_name": "Bark",
+        "id": 1483,
+        "progweb_descr": " Bark REST API allow developer access integrate functionality Bark application main API method return safety message Bark platform Bark internet safety platform allow parent school help keep child safe online"
+    },
+    {
+        "progweb_cat": "Safety,Emergency",
+        "api_name": "React Mobile",
+        "id": 3671,
+        "progweb_descr": " React Mobile API allow developer access React Mobiles feature data order develop personal safety apps wearable device etc React Mobile personal safety platform provide mobile panic button call React Sidekick FollowMe feature allow others track user location real time make sure reach destination safely React Dispatch Console assist professional organization identify incident shorten response time document event"
+    },
+    {
+        "progweb_cat": "Safety,Mobile",
+        "api_name": "SafetyCulture",
+        "id": 4108,
+        "progweb_descr": " SafetyCulture inspection checklist app workplace SafteyCulture API give user access SafteyCulture data include audit image medium API access require premium plan obtain SafetyCulture This API HTTP JSON format"
+    }
+]
