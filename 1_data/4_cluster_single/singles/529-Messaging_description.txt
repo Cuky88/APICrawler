@@ -1,0 +1,9 @@
+Messaging Clusters:
+0	no usable description
+7	online sms (bulk)
+10	online chat & messaging & notification, push
+110	online mms
+111	voice calls to sms or otherway
+112	cloud communications with full service, sms, call, text
+113	message store
+114	messaging protocols and functions to be implemented in own app
