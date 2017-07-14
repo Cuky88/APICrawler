@@ -12,7 +12,7 @@ def transferCluster():
             loaded.append(api)
 
 
-    with open('../1_data/4_cluster_single/singles/517-eCommerce.json') as reader:
+    with open('../1_data/4_cluster_single/singles/417-Mapping.json') as reader:
         read = json.load(reader)
         for api in read:
             dic = {}
@@ -29,7 +29,7 @@ def transferCluster():
             final.append(dic)
 
 
-    with open('../1_data/4_cluster_single/singles/517-eCommerce_clusters.json', mode='w') as writer:
+    with open('../1_data/4_cluster_single/singles/417-Mapping_clusters.json', mode='w') as writer:
         print(len(final))
         json.dump(final, writer, indent=2)
         writer.write("\n")
