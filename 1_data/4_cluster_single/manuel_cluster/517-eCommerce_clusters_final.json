@@ -1,0 +1,292 @@
+[
+    {
+        "id": 7929,
+        "cluster_id": 1,
+        "name": "Macy's Mobile Utility Services"
+    },
+    {
+        "id": 7930,
+        "cluster_id": 1,
+        "name": "Macy's Promotion and Coupon Services"
+    },
+    {
+        "id": 1695,
+        "cluster_id": 1,
+        "name": "Logicbroker Commerce"
+    },
+    {
+        "id": 5642,
+        "cluster_id": 1,
+        "name": "Whiplash"
+    },
+    {
+        "id": 14117,
+        "cluster_id": 1,
+        "name": "Erply Inventory"
+    },
+    {
+        "id": 6151,
+        "cluster_id": 1,
+        "name": "Ecwid"
+    },
+    {
+        "id": 540,
+        "cluster_id": 1,
+        "name": "Walmart Open"
+    },
+    {
+        "id": 7931,
+        "cluster_id": 1,
+        "name": "Macy's Protected Services"
+    },
+    {
+        "id": 7932,
+        "cluster_id": 1,
+        "name": "Macy's Registry Services"
+    },
+    {
+        "id": 8962,
+        "cluster_id": 1,
+        "name": "Tienda Nube"
+    },
+    {
+        "id": 1110,
+        "cluster_id": 1,
+        "name": "Macy's Catalog and Store Services"
+    },
+    {
+        "id": 985,
+        "cluster_id": 1,
+        "name": "Highwire"
+    },
+    {
+        "id": 7928,
+        "cluster_id": 1,
+        "name": "Macy's Checkout Services"
+    },
+    {
+        "id": 9946,
+        "cluster_id": 1,
+        "name": "HobbyKing"
+    },
+    {
+        "id": 3371,
+        "cluster_id": 1,
+        "name": "ebay Post Order"
+    },
+    {
+        "id": 15483,
+        "cluster_id": 2,
+        "name": "Bonanzle"
+    },
+    {
+        "id": 15717,
+        "cluster_id": 2,
+        "name": "RealGifts"
+    },
+    {
+        "id": 12792,
+        "cluster_id": 2,
+        "name": "Ondango"
+    },
+    {
+        "id": 6756,
+        "cluster_id": 3,
+        "name": "Price Comparison"
+    },
+    {
+        "id": 1651,
+        "cluster_id": 3,
+        "name": "Direct Textbook"
+    },
+    {
+        "id": 13083,
+        "cluster_id": 3,
+        "name": "Consumer Notebook"
+    },
+    {
+        "id": 7337,
+        "cluster_id": 4,
+        "name": "Visa Checkout"
+    },
+    {
+        "id": 10327,
+        "cluster_id": 3,
+        "name": "Idealo"
+    },
+    {
+        "id": 3942,
+        "cluster_id": 3,
+        "name": "PriceJSON"
+    },
+    {
+        "id": 12593,
+        "cluster_id": 3,
+        "name": "Pricecut"
+    },
+    {
+        "id": 12670,
+        "cluster_id": 3,
+        "name": "PriceCheckIndia"
+    },
+    {
+        "id": 83,
+        "cluster_id": 3,
+        "name": "Google Shopping Search"
+    },
+    {
+        "id": 15037,
+        "cluster_id": 3,
+        "name": "Hitmeister"
+    },
+    {
+        "id": 15720,
+        "cluster_id": 3,
+        "name": "ShopWindow"
+    },
+    {
+        "id": 13723,
+        "cluster_id": 5,
+        "name": "Sierra Trading Post"
+    },
+    {
+        "id": 1132,
+        "cluster_id": 5,
+        "name": "Wine.com"
+    },
+    {
+        "id": 10342,
+        "cluster_id": 5,
+        "name": "Design Skins"
+    },
+    {
+        "id": 3875,
+        "cluster_id": 5,
+        "name": "Zalando"
+    },
+    {
+        "id": 12050,
+        "cluster_id": 6,
+        "name": "LoyaltyToolkit"
+    },
+    {
+        "id": 6721,
+        "cluster_id": 6,
+        "name": "MineWhat"
+    },
+    {
+        "id": 11661,
+        "cluster_id": 6,
+        "name": "Keen Print"
+    },
+    {
+        "id": 2397,
+        "cluster_id": 6,
+        "name": "HubSpot Deals Properties"
+    },
+    {
+        "id": 9920,
+        "cluster_id": 6,
+        "name": "Nomi"
+    },
+    {
+        "id": 4392,
+        "cluster_id": 6,
+        "name": "Avangate"
+    },
+    {
+        "id": 14703,
+        "cluster_id": 6,
+        "name": "Quixly"
+    },
+    {
+        "id": 10542,
+        "cluster_id": 7,
+        "name": "Groupdeal2U"
+    },
+    {
+        "id": 4157,
+        "cluster_id": 7,
+        "name": "DealsPricer"
+    },
+    {
+        "id": 14059,
+        "cluster_id": 7,
+        "name": "MyDealBag"
+    },
+    {
+        "id": 13353,
+        "cluster_id": 7,
+        "name": "OWS Coupons"
+    },
+    {
+        "id": 13192,
+        "cluster_id": 7,
+        "name": "Mphoria"
+    },
+    {
+        "id": 2386,
+        "cluster_id": 7,
+        "name": "HubSpot Deal Pipelines"
+    },
+    {
+        "id": 253,
+        "cluster_id": 7,
+        "name": "Oodle"
+    },
+    {
+        "id": 7564,
+        "cluster_id": 7,
+        "name": "CheapShark"
+    },
+    {
+        "id": 12422,
+        "cluster_id": 7,
+        "name": "Coupz"
+    },
+    {
+        "id": 9679,
+        "cluster_id": 7,
+        "name": "City Rewards Network"
+    },
+    {
+        "id": 15337,
+        "cluster_id": 7,
+        "name": "BView"
+    },
+    {
+        "id": 1272,
+        "cluster_id": 7,
+        "name": "HotUKDeals"
+    },
+    {
+        "id": 9047,
+        "cluster_id": 7,
+        "name": "LocalDeal"
+    },
+    {
+        "id": 2265,
+        "cluster_id": 7,
+        "name": "8 Coupons Developer"
+    },
+    {
+        "id": 1370,
+        "cluster_id": 7,
+        "name": "Sqoot"
+    },
+    {
+        "id": 14953,
+        "cluster_id": 7,
+        "name": "BuyDeals.in Local Deal"
+    },
+    {
+        "id": 14285,
+        "cluster_id": 7,
+        "name": "Dealinium"
+    },
+    {
+        "id": 15785,
+        "cluster_id": 7,
+        "name": "Vouchers.Im"
+    }
+]

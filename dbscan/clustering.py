@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 def load_json():
     with open(
-            '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/dbscan/preprocessed/preprocessed.json') as data_file:
+            '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/1_data/4_cluster_single/singles/517-eCommerce.json') as data_file:
         data = json.load(data_file)
     return data
 
@@ -29,7 +29,7 @@ print "START KMEANS"
 
 from sklearn.cluster import KMeans
 
-kmeans = KMeans(n_clusters=40, random_state=0).fit(X)
+kmeans = KMeans(n_clusters=10, random_state=0).fit(X)
 
 km_labels = kmeans.labels_.tolist()
 
@@ -39,19 +39,19 @@ json_kmeans = json.dumps(km_labels , codecs.open(file_path_kmeans, 'w', encoding
 with open(file_path_kmeans, "w") as f:
     f.write(json_kmeans)
 
-print "START DBSCAN"
+# print "START DBSCAN"
 
-from sklearn.cluster import DBSCAN
+# from sklearn.cluster import DBSCAN
 
-db = DBSCAN(eps=1.2, min_samples= 2).fit(X)
+# db = DBSCAN(eps=1.2, min_samples= 2).fit(X)
 
-db_labels = db.labels_.tolist()
+# db_labels = db.labels_.tolist()
 
-file_path_db = '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/dbscan/dest/db.json'
-json_db = json.dumps(db_labels , codecs.open(file_path_db, 'w', encoding='utf-8'),separators=(',', ':'), indent=4)
+# file_path_db = '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/dbscan/dest/db.json'
+# json_db = json.dumps(db_labels , codecs.open(file_path_db, 'w', encoding='utf-8'),separators=(',', ':'), indent=4)
 
-with open(file_path_db, "w") as f:
-    f.write(json_db)
+# with open(file_path_db, "w") as f:
+#     f.write(json_db)
 
 # pca = PCA(n_components=2).fit(X)
 # data2D = pca.transform(X)

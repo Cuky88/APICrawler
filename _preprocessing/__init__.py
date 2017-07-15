@@ -6,13 +6,13 @@ import punctuations
 import stopwords
 
 path_progweb_final = '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/1_data/1_raw/progweb_final.json'
-path_complete_final = '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/1_data/1_raw/complete_final.json'
+path_complete_final = '/Users/hanche/Downloads/complete_final.json'
 path_progweb_preprocessed = '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/1_data/2_preprocessed/progweb_preprocessed.json'
 path_complete_preprocessed = '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/1_data/2_preprocessed/complete_preprocessed.json'
 
 
-path_input = path_progweb_final
-path_output = path_progweb_preprocessed 
+path_input = path_complete_final
+path_output = path_complete_preprocessed
 
 file = json_reader.load(path_input)
 
