@@ -5,7 +5,7 @@ Scrapy crawler for querying google search and crawling api documentation for tex
 The final dataset with every information from programmableweb, the link checking, links found from google and the corresponding website contents can be found in this file:<br>
 https://drive.google.com/open?id=0B6pePF5DAf_hU0NhN3BpSmN1Tlk
 <br><br>
-In the api_docs folder is also a file called progweb_final_filtered.json, which only holds the data from programmableweb with the link checking results.
+In the api_docs folder is also a file called progweb_final_filtered.json, which only holds the data from programmableweb with the link checking results. This is the final version from programmableweb. You can also download it from GDrive:<br>  https://drive.google.com/open?id=0B6pePF5DAf_hZkhxWVZVcjFPMEU
 
 <br><br>
 #TODO
