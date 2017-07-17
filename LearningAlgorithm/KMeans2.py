@@ -73,10 +73,9 @@ def Kmeans2(df,K,MAX_ITERS):
     [centers, assignments] = sess.run([centroids, cluster_assignments])
     end = time.time()
     print ("Found in %.2f seconds" % (end - start)), iters, "iterations"
-    print "Centroids:"
-    print centers
     print "Cluster assignments:", assignments
 
+    return assignments
 
 
 

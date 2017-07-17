@@ -1,33 +1,30 @@
 import json
 import re
-import numpy
-from DataSet import DataSet
+from DSet import DataSet
 
 
 def load_descr(dataset):
     apiNr = []
     descr = []
-    namen = []
 
     #load Programmable Web descriptions
-    if dataset == "prog":
+    if dataset == 2:
         with open('/home/caro/Documents/KDD/VecPCAClustering/resources/ProgWeb_preprocessed.json') as data_file:
             data = json.load(data_file)
 
         for x in xrange(0, len(data)):
-            if ("id" in data[x]) & ("progweb_descr" in data[x]) & ("api_name" in data[x]):
+            if ("id" in data[x]) & ("progweb_descr" in data[x]):
                 apiNr.append(data[x]["id"])
-                namen.append(data[x]["api_name"])
 
                 text = data[x]["progweb_descr"]
                 #remove all digets
                 output = re.sub(r'\d+', '', text)
                 descr.append(output)
 
-                dsJson = DataSet(apiNr, descr, namen)
+                dsJson = DataSet(apiNr, descr)
         return dsJson
 
-    else:
+    elif dataset == 3:
         with open('/home/caro/Documents/APICrawler/VecPCAClustering/resources/complete.json') as data_file:
             data = json.load(data_file)
 
