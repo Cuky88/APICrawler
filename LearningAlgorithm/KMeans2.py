@@ -14,13 +14,7 @@ def Kmeans2(df,K,MAX_ITERS):
 
     start = time.time()
 
-    with tf.Session() as sess:
-        tf.global_variables_initializer().run()
-
-        points = tf.constant(df)
-        print(points.eval())
-
-    points = tf.Variable(points)
+    points = tf.Variable(df)
 
 
     #points = tf.Variable(tf.random_uniform([N, 100]))
