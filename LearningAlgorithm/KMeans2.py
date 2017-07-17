@@ -37,6 +37,8 @@ def Kmeans2(df,K,MAX_ITERS):
     # point, then subtract and compute the sum of squared distances.
     rep_centroids = tf.reshape(tf.tile(centroids, [N, 1]), [N, K, dim])
     rep_points = tf.reshape(tf.tile(points, [1, K]), [N, K, dim])
+    print rep_points.shape
+    print rep_centroids.shape
     sum_squares = tf.reduce_sum(tf.square(rep_points - rep_centroids),
                                 reduction_indices=2)
 

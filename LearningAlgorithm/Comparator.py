@@ -1,6 +1,6 @@
 import Reader
 
-apisManCluster = Reader.load_manual_cluster2()
+apisManCluster = Reader.load_manual_cluster()
 
 #set of pairs that are in the same cluster
 a = []
