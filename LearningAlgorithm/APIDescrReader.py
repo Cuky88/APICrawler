@@ -51,7 +51,3 @@ def load_descr(dataset):
                 dsJson = DataSet(apiNr, descr)
 
         return dsJson
-
-
-
-

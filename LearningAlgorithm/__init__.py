@@ -21,6 +21,6 @@ else:
 
 print("\nStart K-Means-Clustering for Dataset " + dataSetName + "...\n")
 #   params[0] => Clustersize, params[1] =>
-params = [['cosine', 'squared_euclidean'],[30,20]]
+params = [['cosine', 'squared_euclidean'],[20, 50, 100, 200, 300, 400, 500, 1000, 2000, 3000, 4000, 5000]]
 erg = RunKMeans.run(params, dataSet)
 

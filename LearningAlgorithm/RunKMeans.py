@@ -4,6 +4,7 @@ import KMeans_simple
 import APIDescrReader
 import Vectrizer
 import Comparator
+import json
 
 
 
@@ -61,12 +62,17 @@ def run(params, dataset):
             for x in assign:
                 assignment.append({'id': dataSetJson.apiNr[i], 'name': dataSetJson.name[i], 'cluster_id': x})
                 i = i + 1
-            quality = Comparator.compare(assignment)
+
+            ##write Kmeans result to file
+            #with open('/home/caro/Desktop/neu','w') as outfile:
+            #    json.dump(assignment, outfile)
+
+            """quality = Comparator.compare(assignment)
             erg.append({'param1': dist, 'param2': k, 'quality': quality})
             print quality
             print("--- Comparison: %s seconds ---" % (time.time() - start_time))
 
-    return erg
+    return erg"""
 
 
 
