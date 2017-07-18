@@ -61,7 +61,7 @@ def Kmeans2(df,K,MAX_ITERS):
             cluster_assignments.assign(best_centroids))
 
     sess = tf.Session()
-    sess.run(tf.initialize_all_variables())
+    sess.run(tf.global_variables_initializer())
 
     changed = True
     iters = 0

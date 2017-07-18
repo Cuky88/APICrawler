@@ -1,0 +1,21 @@
+It took 1.58790516853 seconds
+##########################################
+Crawled data from ProgrammableWeb
+##########################################
+Count of total APIs: 13302
+Count of APIs with url from programmableweb: 13302
+Count of APIs w/o url from programmableweb: 0
+Count of APIs with categories: 13272
+Count of APIs with description: 13300
+Count of APIs w/o description: 2
+
+Count of all Tag-Combination: 25266
+Count of missing Tags: 30
+
+Links w/o error: 10641
+Links with HTTPError: 1854
+Links with URLError: 795
+Links with BadStatusLine: 2
+Links with unknown error: 10
+Links not verified: 0
+Links found from Google: 2661
