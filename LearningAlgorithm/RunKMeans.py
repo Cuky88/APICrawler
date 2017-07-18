@@ -5,7 +5,9 @@ import APIDescrReader
 import Vectrizer
 import Comparator
 import json
-
+import JWriter as fw
+import subprocess
+import Reader
 
 
 def run(params, dataset):
@@ -64,16 +66,17 @@ def run(params, dataset):
                 i = i + 1
 
             ##write Kmeans result to file
-            #with open('/home/caro/Desktop/neu','w') as outfile:
-            #    json.dump(assignment, outfile)
+            fw.writeToJson(assignment, "KMeansResult.json")
+            Reader.load_manual_cluster(1)
 
-            """quality = Comparator.compare(assignment)
+            subprocess.call(['java', '-jar', 'Comparator.jar', 'results/manualClusters.json', 'results/KMeansResult.json', dist+str(k)], shell=True)
+            
+            quality = Comparator.compare(assignment)
             erg.append({'param1': dist, 'param2': k, 'quality': quality})
             print quality
             print("--- Comparison: %s seconds ---" % (time.time() - start_time))
 
-    return erg"""
-
+    fw.writeToJson(erg, "JaccardResults.json")
 
 
 
