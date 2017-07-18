@@ -283,7 +283,7 @@
   	"c_comment": "no usable description",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "SlidePay", 
-    "cluster_id": 0
+    "cluster_id": 0,
 	"progweb_descr": " SlidePay credit card payment acceptance service SlidePay allow merchant user accept swipe credit card payment application variety platform SlidePay API allow developer access integrate functionality SlidePay applications Some example API method include process payment retrieve payment send receipt", 
     "id": 9243
   }, 
@@ -299,7 +299,7 @@
   	"c_comment": "api to create payment functionalities",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "PrimoPay", 
-    "cluster_id": 16
+    "cluster_id": 16,
 	"progweb_descr": " service provide payment process ecommerce online transaction within Australia It work Australian bank verify customer account availability fund complete credit card processing transfer fund seller Batching function retry transaction fail initially due problem bank process system Because remain independent bank seller change bank relationship without reconfiguring online payment functionality API method support payment submission use popular credit card Visa MasterCard American Express Diners Club among others Methods interact issue bank preauthorize card verify available account balance obtain buyer confirmation complete payment processing API also handle refund cancel returned purchase", 
     "id": 10147
   }, 
@@ -352,7 +352,7 @@
     "id": 10359
   }, 
   {
-  	"c_comment": "payment plattform for processing transactions in russia"
+  	"c_comment": "payment plattform for processing transactions in russia",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "WebMoney", 
     "cluster_id": 9,
@@ -416,7 +416,7 @@
     "id": 10900
   }, 
   {
-  	"c_comment": "payments, PAypal"
+  	"c_comment": "payments, PAypal",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Paysbuy", 
     "cluster_id": 1,
@@ -560,7 +560,7 @@
     "id": 12255
   }, 
   {
-  	"c_comment": ,
+  	"c_comment": "",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "CartGenie OX", 
     "cluster_id": 19,
@@ -568,26 +568,26 @@
     "id": 12549
   }, 
   {
-  	"c_comment":,
+  	"c_comment": "",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Flo2Cash", 
-    "cluster_id": 
+    "cluster_id": 0,
 	"progweb_descr": " service handle process Visa MasterCard credit card payment either application custom page secure page host provider Both credit card debit card payment process recur payment schedule API method support submission transaction cardholder information debit card credit card Returned data detail either purchase preauthorization status full payment processing outcome Methods also support refund process payment related function", 
     "id": 12571
   }, 
   {
-  	"c_comment":,
+  	"c_comment": "",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "CommerceV3", 
-    "cluster_id": 
+    "cluster_id": 0,
 	"progweb_descr": " service provide storefront shop cart checkout function compliant PCI DSS specifications A configurable feature set display allow integration site API integration allow application level interaction Variable tax shipping option control account API method support creation management product catalog entry product category group similar item rule price shipping Methods also support book transaction process payment Administrative function include customer account creation update blast email communication order export reporting", 
     "id": 12760
   }, 
   {
-  	"c_comment":,
+  	"c_comment": "",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Zipmark", 
-    "cluster_id": 
+    "cluster_id": 0,
 	"progweb_descr": " Zipmark online mobile application allow user pay thing account automatically Users pay thing rent bill Zipmark user Zipmark API allow developer access integrate functionality Zipmark application create new application Public documentation available interested developer sign httpdevzipmarkcom information", 
     "id": 12975
   }, 
@@ -672,7 +672,7 @@
     "id": 14032
   }, 
   {
-  	"c_comment":,
+  	"c_comment": "",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Sellaround", 
     "cluster_id": 16,
@@ -680,10 +680,10 @@
     "id": 14178
   }, 
   {
-  	"c_comment":,
+  	"c_comment": "",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Vantiv Solution Builder", 
-    "cluster_id": 
+    "cluster_id": 0,
 	"progweb_descr": " Reduce time cost complexity develop secure commerceenabled application Vantiv Solution Builder developer Vantiv Solution Builder streamline integration program design help software company application developer easily combine Vantivs robust transaction process solution valueadded service workflows form complete payment solution With full suite developercentric resource include complete software development toolkits APIs sample code sample application developer sandbox ondemand support Vantiv Solution Builder provide business technical resource help Software Companies streamline integration project satisfy PCI PADSS compliance requirement define channel partnership publish application active Commerce Marketplaces", 
     "id": 14681
   }, 
@@ -691,7 +691,7 @@
   	"c_comment": "payment functionality",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "PayPal Adaptive Payments", 
-    "cluster_id": 
+    "cluster_id": 0,
 	"progweb_descr": " PayPal X Adaptive Payments API enable developer build apps process transaction interact PayPal Developers control entire transaction within single interface allow payment multiple platform include web mobile others Adaptive Payments make possible create ongoing relationship customer dont request user permission every single transaction Adaptive Payments API allow payment make different way either directly receiver multiple receiver two receiver row chain payment", 
     "id": 14804
   }, 

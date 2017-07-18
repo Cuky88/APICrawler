@@ -62,14 +62,14 @@ def run(params, dataset):
             assignment = []
             i = 0
             for x in assign:
-                assignment.append({'id': dataSetJson.apiNr[i], 'name': dataSetJson.name[i], 'cluster_id': x})
+                assignment.append({'id': dataSetJson.apiNr[i], 'cluster_id': x}) #'name': dataSetJson.name[i],
                 i = i + 1
 
             ##write Kmeans result to file
             fw.writeToJson(assignment, "KMeansResult.json")
             Reader.load_manual_cluster(1)
 
-            subprocess.call(['java', '-jar', 'Comparator.jar', 'results/manualClusters.json', 'results/KMeansResult.json', dist+str(k)], shell=True)
+            subprocess.call(['java', '-jar', 'Comparator.jar', 'results/KMeansResult.json', 'results/manualClusters.json', dist+str(k)], shell=True)
             
             quality = Comparator.compare(assignment)
             erg.append({'param1': dist, 'param2': k, 'quality': quality})
