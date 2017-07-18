@@ -22,7 +22,11 @@ def compare(input):
 
     apis = []
     for x in range(0, len(input)):
-        apis.append([input[x]['id'],input[x]['cluster_id']])
+        for y in range(0, len(apisManCluster)):
+            if apisManCluster[y][0]==input[x]['id']:
+                apis.append([input[x]['id'],input[x]['cluster_id']])
+
+    print("List is: " + str(len(apis)) + ", other list is " + str(len(apisManCluster)))
 
     #Generate all unique API pairs
     for x in range(0, len(apis)):
