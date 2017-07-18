@@ -18,6 +18,14 @@ def load_manual_cluster(dummy):
     for x in range(0, len(data)):
         if "id" in data[x] and 'cluster_id' in data[x]:
             apis.append([data[x]['id'], data[x]['cluster_id']])
+            
+    with open('../1_data/4_cluster_single/manuel_cluster/113-Payments_clusters.json') as data_file:
+        data = json.load(data_file)
+
+    for x in range(0, len(data)):
+        if "id" in data[x] and 'cluster_id' in data[x]:
+            apis.append([data[x]['id'], data[x]['cluster_id']])
+    
     if dummy:
         fw.writeToJson(apis, "manualClusters.json")
     

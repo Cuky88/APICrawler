@@ -560,7 +560,7 @@
     "id": 12255
   }, 
   {
-  	"c_comment": "
+  	"c_comment": ,
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "CartGenie OX", 
     "cluster_id": 19,
@@ -568,7 +568,7 @@
     "id": 12549
   }, 
   {
-  	"c_comment":
+  	"c_comment":,
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Flo2Cash", 
     "cluster_id": 
@@ -576,7 +576,7 @@
     "id": 12571
   }, 
   {
-  	"c_comment":
+  	"c_comment":,
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "CommerceV3", 
     "cluster_id": 
@@ -584,7 +584,7 @@
     "id": 12760
   }, 
   {
-  	"c_comment":
+  	"c_comment":,
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Zipmark", 
     "cluster_id": 
@@ -672,7 +672,7 @@
     "id": 14032
   }, 
   {
-  	"c_comment":
+  	"c_comment":,
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Sellaround", 
     "cluster_id": 16,
@@ -680,7 +680,7 @@
     "id": 14178
   }, 
   {
-  	"c_comment":
+  	"c_comment":,
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Vantiv Solution Builder", 
     "cluster_id": 
