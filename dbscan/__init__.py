@@ -9,10 +9,10 @@ save_path = '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawl
 
 json = readwrite.read(path)
 
-input = json[:1000]
+input = json[:3000]
+print len(input)
 
 
 labels = clustering.main(input)
-print labels
 
 readwrite.write(save_path,labels)
