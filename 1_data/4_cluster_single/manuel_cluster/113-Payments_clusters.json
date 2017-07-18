@@ -1,0 +1,906 @@
+[
+  {
+    "c_comment": "IP based payment gateway", 
+    "progweb_descr": " From site Since 1996 AuthorizeNet lead provider Internet Protocol IP base payment gateway service enable merchant authorize settle manage credit card electronic check transaction Web site retail store mail ordertelephone order MOTO call center mobile device With live internet connection developer authorize process payment AuthorizeNet API enable ability emulate HTML Form Post use Secure Sockets Layer SSL connection", 
+    "api_name": "Authorize.Net", 
+    "cluster_id": 1, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 63
+  }, 
+  {
+    "c_comment": "payments, invoices", 
+    "progweb_descr": " PayPal offer online payment solution 153 million customer worldwide PayPal API make powerful functionality available developer expose various feature PayPal platform Functionality include limited invoice management transaction process account management", 
+    "api_name": "PayPal", 
+    "cluster_id": 1, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 263
+  }, 
+  {
+    "c_comment": "payment gateway", 
+    "progweb_descr": " From site first payment service design ground specifically developers set web service APIs allow movement money two entity humans computer It build top Amazons reliable scalable payment infrastructure Amazon FPS offer developer unmatched flexibility structure payment instruction include stand instruction remain place multiple transaction", 
+    "api_name": "Amazon Flexible Payments Service", 
+    "cluster_id": 1, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 495
+  }, 
+  {
+    "c_comment": "send money", 
+    "progweb_descr": " Use Moneybookers Automated Payments Interface API send money make payondemand transaction check transaction status download account history Users main site send money via Moneybookers log account use Send Money option You automate process use API", 
+    "api_name": "Moneybookers", 
+    "cluster_id": 1, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 765
+  }, 
+  {
+    "c_comment": "payment plattform for processing transactions", 
+    "progweb_descr": " service provide secure payment platform integration application need checkout function credit card ACH automate clear house transaction Existing shop cart package already integrate service create range solution application API method support submission customer identity payment information either credit card number expiration etc bank account information ACH transaction Transaction submission also specify product specific information hotel auto rental industry", 
+    "api_name": "SecureNet", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 931
+  }, 
+  {
+    "c_comment": "payment gateway", 
+    "progweb_descr": " Google InApp Payments API give developer ability add app purchase flow allow sell digital virtual good within app API use JSON Web Token JWT represent item purchase buyer service allow purchase require minimum click let purchase across web mobile single secure account", 
+    "api_name": "Google In-App Payments", 
+    "cluster_id": 1, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 947
+  }, 
+  {
+    "c_comment": "processing payment transactions", 
+    "progweb_descr": " Payment Vision service payment plugin work receivables software shop cart bill website many payment application Payment Vision also suite built payment capture application PayAPI SOAPbased XML web service design software publisher add payment processing functionality software application compliance PCIDSS PayAPI process onetime recur credit card debit card ACH payment PaymentVision online payment gateway connect ACH Automated Clearing House major debit credit card network", 
+    "api_name": "Payment Vision Pay", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 1212
+  }, 
+  {
+    "c_comment": "create payment functionalities", 
+    "progweb_descr": " PayPal Button Manager API allow developer create manage edit large number PayPal Payments Standard button without touch HTML code This API available NVP SOAP It cover button create PayPal Profile This API available every country accept PayPal", 
+    "api_name": "PayPal Button Manager", 
+    "cluster_id": 16, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 1840
+  }, 
+  {
+    "c_comment": "payment processing", 
+    "progweb_descr": " PayTM API integrate payment feature mobile ecommerce application It available JSON format check balance request transaction interpret payment PayTM ecommerce company base India process mobile payment electronics men woman apparel home kitchen item car bike equipment musical instrument book music movie", 
+    "api_name": "PayTM", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 2329
+  }, 
+  {
+    "c_comment": "api for payment funcs", 
+    "progweb_descr": " Square Register iOS API mediate communication iOS apps Square \u2019 payment process apps API \u2019 provider vendor Square payment process hardware include Square contactless chip reader Developers choose Android iOS version Square Register API although Android option provide access native apps iOS option provide access web native apps API require OAuth 20 authorization transmits request response HTTP JSON format", 
+    "api_name": "Square Register iOS", 
+    "cluster_id": 16, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 2673
+  }, 
+  {
+    "c_comment": "api for payment funcs", 
+    "progweb_descr": " Satispay Online API add dedicate payment method third party application websites This API REST base use JSON request API Keys authentication pricing Satispay charge flat rate \u20ac020 transaction \u20ac10 Satispay online payment platform base Milan offer instore payment custom payment link ecommerce support", 
+    "api_name": "Satispay Online", 
+    "cluster_id": 16, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 2754
+  }, 
+  {
+    "c_comment": "api for payment funcs", 
+    "progweb_descr": " Satispay InStore API add new payment method store cash register This API REST base use JSON request API Keys authentication pricing Satispay charge flat rate \u20ac020 transaction \u20ac10 Satispay online payment platform base Milan offer instore payment custom payment link ecommerce support", 
+    "api_name": "Satispay InStore", 
+    "cluster_id": 16, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 2755
+  }, 
+  {
+    "c_comment": "processing transactions", 
+    "progweb_descr": " This API allow display line item level data Genius CED Cayan provide way business collect payment information run transaction Virtual Terminal This include Genius Certification Script Implementation Review Outline EMV Response message field value documentation Cayan provider payment technology merchant account service", 
+    "api_name": "Cayan Genius Line Item Display", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 3198
+  }, 
+  {
+    "c_comment": "processing transactions", 
+    "progweb_descr": " This API allow integrate payment shop cart AuthorizeNet It provide way business collect payment information run transaction Virtual Terminal This include Genius Certification Script Implementation Review Outline EMV Response message field value documentation Cayan lead provider payment technology merchant account service", 
+    "api_name": "Cayan Genius Transaction Processing", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 3199
+  }, 
+  {
+    "c_comment": "processing transactions", 
+    "progweb_descr": " This API Merchantware service split among various domain include follow list various unit compose overview credit transaction vault transaction EBT transaction gift card transaction LevelUp Transactions Cayan provider payment technology merchant account service", 
+    "api_name": "Cayan Merchantware Soap", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 3211
+  }, 
+  {
+    "c_comment": "processing payments", 
+    "progweb_descr": " North American Bancard NAB payment processing platform design developer friendly This platform offer multi currency support recurrent bill virtual terminal Apple Pay support fraud prevention Velocity API use full integration Velocity Managed Commerce Services Platform offer eCommerce Mobile Back Office payment support This API integrate use REST SOAP protocols use Tokens authentication return data JSON XML format", 
+    "api_name": "NAB Velocity", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 4270
+  }, 
+  {
+    "c_comment": "processing transactions", 
+    "progweb_descr": " PayMaya financial company locate Philippines develops online payment solution PayMaya tailor service business accept credit card payment function intermediary Checkout API offer merchant way accept online payment also offer express checkout feature This API REST base support webhooks developer require API key", 
+    "api_name": "PayMaya Checkout", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 4463
+  }, 
+  {
+    "c_comment": "processing payments", 
+    "progweb_descr": " PayTabs API allow integrate payment feature web service provide JSON REST protocols accessible Api Key In addition payment PayTabs offer eCommerce invoice service Middle East", 
+    "api_name": "PayTabs", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 4869
+  }, 
+  {
+    "c_comment": "processing transactions", 
+    "progweb_descr": " Poynt payment terminal connect business customer interact counter top device It use process several different form payment electronically Poynt API let developer integrate application service enable customer make payment well business keep track productivity", 
+    "api_name": "Poynt", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 6399
+  }, 
+  {
+    "c_comment": "processing transactions", 
+    "progweb_descr": " BlueSnap \u2019 Payment API enable merchant accept online payment via major credit debit card PayPal mobile wallet like MasterPass Visa Checkout Merchants also store shopper detail BlueSnap Payment API provide endtoend subscription management capability via BlueSnap \u2019 awardwinning Subscription Engine API available 180 country support 100 currency To reduce PCI compliance scope keep sensitive card data secure merchant use API BlueSnap \u2019 Hosted Payment Fields clientside encryption JS libraries An Android SDK available integration native Android apps BlueSnap Developer Hub include interactive API Explorer quickstart guide tutorial sample code complete reference info", 
+    "api_name": "BlueSnap Payment", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 6454
+  }, 
+  {
+    "c_comment": "processing payments", 
+    "progweb_descr": " PayPal ecommerce base business let user make transfer payment electronically PayPal Merchant API let developer integrate merchant feature functionality application enable client access manage PayPal \u2019 merchant account directly This API SOAP base", 
+    "api_name": "PayPal Merchant", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 6509
+  }, 
+  {
+    "c_comment": "processing payments", 
+    "progweb_descr": " HiPay French digital payment provider handle transaction type bill web eCommerce mobile integration HiPay TPP Gateway API access use JSON XML format free qualify member integrate 3rd party application All payment process HiPay do use SSL ensure secure payment protection", 
+    "api_name": "HiPay TPP Gateway", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 6705
+  }, 
+  {
+    "c_comment": "processing payments", 
+    "progweb_descr": " SudoPay single payment gateway API allow transparent integration website Allowed payment gateway include PayPal stripe Swolla Bitcoin Amazon Visa Mastercard Braintree SudoPay provide conversion method fraud avoidance ability create manual offline payment SudoPay subscription base API require website registration This REST API JSON XML response", 
+    "api_name": "SudoPay", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 6782
+  }, 
+  {
+    "c_comment": "processing payments", 
+    "progweb_descr": " PSP Platform whitelabel platform help user create complete payment gateway capable perform mobile transaction currency exchange Basic Operations API allow user transfer money ecards check ecards balance merge one ecard another split one ecard two change attribute ecard", 
+    "api_name": "PSP Platform Basic Operations", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 7123
+  }, 
+  {
+    "c_comment": "processing transactions", 
+    "progweb_descr": " Payscape Advisors provide financial tool help business accept payment streamline business increase cash flow Payscape Advisors\u00e2\u20ac\u2122 payment gateway programmatically accessible API Applications able request transaction several method vary ease integration feature require resource level security API also able retrieve transaction data manage shopping cart", 
+    "api_name": "Payscape Advisors", 
+    "cluster_id": 9, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 7965
+  }, 
+  {
+    "c_comment": "send money", 
+    "progweb_descr": " Openpay integrate service solution Latin America allow user accept send payment online without deal bank system compliance fraud security Openpay API allow handle Charges card bank store Payouts debit card bank account Transfers account Customers Cards Bank Accounts Plans Subscriptions Fees API use RESTful call response format JSON", 
+    "api_name": "Openpay", 
+    "cluster_id": 1, 
+    "progweb_cat": "Payments,eCommerce", 
+    "id": 8093
+  }, 
+  {
+	"c_comment": "processing transactions", 
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "UberGlobal Payment Gateway", 
+	"cluster_id": 9,
+    "progweb_descr": " UberGlobal Payment Gateway Australian ecommerce payment service allow merchant securely complete transaction online store service also offer realtime analytics help merchant well understand business follow transaction real time UberGlobal Payment Gateway provide REST API integration UberGlobal Payment service thirdparty application API method include Purchases Tokenization Refunds Responses return JSON authentication provide via HTTP Basic Authentication", 
+    "id": 8242
+  }, 
+  {
+	"c_comment": "processing transactions",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Conekta", 
+	"cluster_id": 9,
+    "progweb_descr": " Conekta online payment platform Latin American business enable process online payment use online offline method Conekta use type transaction sell physical product charge service take donation enable marketplace third party Conekta offer REST API provide Merchants Marketplaces easy way start accept payment website application API method include Charges Customers Cards Subscriptions Plans Events All response JSON session configure receive response XML An API key require", 
+    "id": 8442
+  }, 
+  {
+	"c_comment": "processing transactions",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Paytrail Connect", 
+	"cluster_id": 9,
+    "progweb_descr": " Paytrail Finnish online payment service aim help company provide pleasant shopping experience customer service allow customer make purchase use preferred payment method whether online bank payment card payment invoice installment Paytrail also offer account consumer allow use one login online purchase Paytrail Connect REST API offer programmatic access Paytrail service An account service require", 
+    "id": 8758
+  }, 
+  {
+	"c_comment": "no usable information",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Powa", 
+	"cluster_id": 0,
+    "progweb_descr": " Powa eCommerce mobile commerce solution provider Powa provide online mobile sale platform company vendor retaillers organization need online sale capability Powa API allow developer access integrate functionality Powa application Public documentation available interested developer sign developer account httpwwwpowacompageDevelopers26agencies", 
+    "id": 8858
+  }, 
+  {
+  	"c_comment": "processing payments",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Instamojo", 
+    "cluster_id": 9,
+	"progweb_descr": " Instamojo simple payment system let user sell digital creation directly customer simply share link Instamojo provide outofthebox ecommerce framework take care detail payment delivery All user need share link audience Instamojo offer REST API programmatic access Instamojo service Use API create new offer edit exist offer query offer archive offer Registrationand app ID require", 
+    "id": 8874
+  }, 
+  {
+  	"c_comment": "processing payments",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Gharpay", 
+    "cluster_id": 9,
+	"progweb_descr": " Gharpay doorstep cash payment network base Hyderabad India company offer service online merchant whose customer choose make cash payment online transaction Payments collect within 24 hour settle 48 hour Gharpay offer API push order information track order status API method include createOrder cancelOrder cancelProductsFromOrder viewOrderDetails getCityList getPincodesInCity isCityPresent", 
+    "id": 8876
+  }, 
+  {
+  	"c_comment": "creating payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Groosker", 
+    "cluster_id": 16,
+	"progweb_descr": " Groosker online shop solution eliminate hassle enter credit card information use QR code handle payment Shoppers need scan Groosker QR code mobile phone verify detail accept Groosker help merchant low transaction cost offer loyalty reward customer Groosker offer REST API merchant web developer Example method include request payment await payment accept payment decline payment An API key require", 
+    "id": 8877
+  }, 
+  {
+  	"c_comment": "creating payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Paysera Wallet", 
+    "cluster_id": 16,
+	"progweb_descr": " Paysera online payment service allow user send money make online payment receive money set merchant account Developers use Payseras Wallet API To get information Paysera system users account make payment Paysera account include send receive coordinate payment API base REST principle request content provide JSON", 
+    "id": 8947
+  }, 
+  {
+  	"c_comment": "secure credit card integration",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Quickpay", 
+    "cluster_id": 19,
+	"progweb_descr": " Quickpay online payment solution merchant allow secure integration credit debit card arbitrary site Internet service work major credit card well Paypal Sofort Banking ebanking facility QuickPay API enable merchant handle payment simple manner Based SSL encrypt HTTP communication action perform send HTTP POST request Responses send XML document", 
+    "id": 9059
+  }, 
+  {
+  	"c_comment": "no usable description",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "SlidePay", 
+    "cluster_id": 0
+	"progweb_descr": " SlidePay credit card payment acceptance service SlidePay allow merchant user accept swipe credit card payment application variety platform SlidePay API allow developer access integrate functionality SlidePay applications Some example API method include process payment retrieve payment send receipt", 
+    "id": 9243
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "goEmerchant", 
+    "cluster_id": 16,
+	"progweb_descr": " service provide online payment process ecommerce vendor integration application It aim ensure PCI compliance option transparent redirects whitelabel host checkout function API integration Payment option include credit debit card well automate clearinhouse ACH transfer API method support submission transaction information payment include vendor product information balance owe credit card payment account information Methods support preauthorization payment amount final confirmation fund transfer API also allow schedule recur billing subscription timebased payment", 
+    "id": 9940
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "PrimoPay", 
+    "cluster_id": 16
+	"progweb_descr": " service provide payment process ecommerce online transaction within Australia It work Australian bank verify customer account availability fund complete credit card processing transfer fund seller Batching function retry transaction fail initially due problem bank process system Because remain independent bank seller change bank relationship without reconfiguring online payment functionality API method support payment submission use popular credit card Visa MasterCard American Express Diners Club among others Methods interact issue bank preauthorize card verify available account balance obtain buyer confirmation complete payment processing API also handle refund cancel returned purchase", 
+    "id": 10147
+  }, 
+  {
+  	"c_comment": "secure credit debit card transaction",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "PayPoint", 
+    "cluster_id": 19,
+	"progweb_descr": " service headquarter UK provide payment process ecommerce transaction online exchange It verify validity credit limit credit debit card complete realtime payment transfer fund seller account Payment option include Visa MasterCardMaestro Paypal API method support secure real time payment process Methods handle preauthorization credit debit card number transaction amount provide authorization code use complete payment Methods also clear payment card provider system return confirmation fund transfer buyer seller", 
+    "id": 10178
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "SeQR Pay", 
+    "cluster_id": 16,
+	"progweb_descr": " SeQR Pay provide new way purchase product basic concept product product packaging advertisement unique SeQR Pay QR cod anyone may scan QR code purchase product use SeQR Pay app As result user longer need go store website make purchase users payment information shipping address store SeQR Pays secure server need enter So far brand incorporated SeQR Pay technology However SeQR Pay API still appear functional It include function customer merchant want integrate SeQR Pay function application service", 
+    "id": 10248
+  }, 
+  {
+  	"c_comment": "payment plattform for processing transactions fpr Philippines",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "DragonPay", 
+    "cluster_id": 9,
+	"progweb_descr": " service provide payment functionality within Philippines without process debit credit card account It rout secure payment transaction fund transfer via nation bank network merchant like convenience store pawnshops bill payment service It intend provide secure payment process market segment dependent credit card API method support submission transaction detail seller product purchase payment amount along buyer information include payment account detail API process payment return confirmation transaction status Methods also support transaction status inquiry payment cancellation retrieval billing information", 
+    "id": 10316
+  }, 
+  {
+  	"c_comment":"api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Lexity Commerce Central", 
+    "cluster_id": 16,
+	"progweb_descr": " Lexity Commerce Central online commerce platform Lexity allow user bill accept payment online good service Lexity API allow developer access integrate functionality Lexity applications Some example API method include manage account information retrieve payment information manage product pricing information", 
+    "id": 10338
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Metanga", 
+    "cluster_id": 16,
+	"progweb_descr": " Metanga online bill subscription payment service Metanga offer merchant tool feature bill accept payment service good either onetime payment recur subscription billing Metanga API allow developer access integrate functionality Metanga applications Some example API method include manage account information manage edit product price information manage bill Public documentation available interested developer sign information httpwwwmetangacombillingsystemdemorequest", 
+    "id": 10339
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "PayOnDelivery", 
+    "cluster_id": 16,
+	"progweb_descr": " PayOnDelivery online payment platform buying sell item online marketplace Craigslist Users pay item deliver PayOnDelivery API allow developer access integrate functionality PayOnDelivery applications Public documentation available interested developer sign API access httppayondeliverycomapipjoinus", 
+    "id": 10359
+  }, 
+  {
+  	"c_comment": "payment plattform for processing transactions in russia"
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "WebMoney", 
+    "cluster_id": 9,
+	"progweb_descr": " service Russia process payment online transaction ecommerce purchase It offer payment method option alongside credit card method It generate invoice complete transaction online delivery buyer Upon transfer fund buyer service trigger fulfillment purchase good service broker payment seller This clearinghouse function protect seller default payment save buyer need create payment account multiple seller hold personal information API method support submission transaction payment delivery invoice buyer Methods support collection fund buyer distribution seller along result trigger fulfill delivery purchase product", 
+    "id": 10444
+  }, 
+  {
+  	"c_comment": "payment plattform for processing transactions",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Merchee", 
+    "cluster_id": 9,
+	"progweb_descr": " Merchee online mobile application allow user accept payment manage recurrent payment subscription bill good service Merchee API allow developer access integrate functionality Merchee application create new application Some example API method include manage user information manage customer information retrieve transaction detail", 
+    "id": 10467
+  }, 
+  {
+  	"c_comment": "payment plattform for processing transactions",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "POLipayments", 
+    "cluster_id": 9,
+	"progweb_descr": " service provide online payment via direct interaction buyer bank order payment merchant bank deliver payment A seller application provide product selection purchase hand transaction payment service It establish contact buyer bank buyer behalf submits payment request URL It generate credit URL seller bank complete transfer fund API method support list bank interact service allow application let buyer choose Methods generate payment request format accept chosen bank confirmation notice seller bank Nudge method provide update buyer seller upon completion transaction", 
+    "id": 10479
+  }, 
+  {
+  	"c_comment": "Crypto currency trading",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Ukash", 
+    "cluster_id": 6,
+	"progweb_descr": " Ukash form eMoney treat exactly like cash spend online Ukash useful don\u00e2\u20ac\u2122t credit debit card don\u00e2\u20ac\u2122t want use card pay online Customers exchange cash unique 19digit Ukash code use pay thousand websites accept Ukash It also use load prepaid card eWallets If Ukash code value purchase change refund new code Ukash available 55 country outlet include shop petrol station kiosk ATMs online", 
+    "id": 10585
+  }, 
+  {
+  	"c_comment": "loyalty gifts for costumers",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Mocapay", 
+    "cluster_id": 20,
+	"progweb_descr": " Mocapay offer user platform mobileenables businesses\u00e2\u20ac\u2122 current payment loyalty gift social medium coupon program Mocapay API allow developer integrate Mocapay mobile commerce system third party POS solution Full public documentation available interested developer contact provider detail", 
+    "id": 10604
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "AmberCart", 
+    "cluster_id": 16,
+	"progweb_descr": " AmberCart eCommerce service allow user add eCommerce functionality websites application AmberCart allow user accept payment online ship product AmberCart Shipping API allow developer access integrate accurate shipping rate USPS UPS FedEx websites application Public documentation available API access come account service", 
+    "id": 10749
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Wirecard", 
+    "cluster_id": 16,
+	"progweb_descr": " Wirecard online payment process solution offer personal prepaid wireless corporate payment service Wirecard API offer option integration ecommerce payment processing service API allow user accept deliver payment process return offer subscription payment system function documentation information service contact wirecard", 
+    "id": 10789
+  }, 
+  {
+  	"c_comment": "payment plattform for processing transactions",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "paysafecard", 
+    "cluster_id": 9,
+	"progweb_descr": " service provide secure online payment ecommerce online transaction via website mobile apps A buyer establish confirmed account balance service prior make purchase receive voucher personal 16digit PIN buyer enter PIN complete purchase release fund seller exchange complete without enter personal data store device release seller API method support identify specific customer account payment service submit current purchase transaction payment account Methods also support customer authorization payment process transaction release fund seller API provide notification transaction completion buyer seller", 
+    "id": 10900
+  }, 
+  {
+  	"c_comment": "payments, PAypal"
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Paysbuy", 
+    "cluster_id": 1,
+	"progweb_descr": " service headquarter Thailand provide online payment credit card familiar network Paypal MasterCard Visa others It enable ecommerce online business overall quickly securely process payment Sample code available PHPMySQL NET environment API method support retrieve invoice data status information invoice Methods also support upload current payment information include payor card account information purchase invoice include product price API also manage currency rate detail international transaction", 
+    "id": 11089
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "NetWallet", 
+    "cluster_id": 16,
+	"progweb_descr": " NetWallet provide secure service online financial transaction Online merchant use NetWallet create simpler checkout procedure return customer When customer go checkout page NetWallet widget appear credit card information They verify identity Facebook account complete purchase single click customer\u00e2\u20ac\u2122s credit card information secure NetWallet\u00e2\u20ac\u2122s PCI compliant data vault API expose connection NetWallet widget datavault", 
+    "id": 11607
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "eKim eKart Fraud Buster", 
+    "cluster_id": 16,
+	"progweb_descr": " service headquarter Vietnam provide check fraud pending ecommerce transaction return result include recommendation proceed transaction close uncompleted It analyze information purchaser include bill shipping address comparison IP address bank identification number variables A component IPtolocation help verify consistency information provide purchaser API method support fraud analysis transaction base submit customer email phone ship billing address well IP address bank identification number payment card Methods return result fraud check recommendation complete block transaction Options include verify phone number bank identification number match IP address purchaser location", 
+    "id": 11640
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "eStore Advanced", 
+    "cluster_id": 16,
+	"progweb_descr": " eStore Advanced Ecommerce Software allow business quickly set online storefront eStore give user ability create online shop secure shop cart website host online marketing tool free support An API avaialable allow developer accept payment merchant site NTPnow payment gateway Documentation publicly available", 
+    "id": 11645
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Adyen", 
+    "cluster_id": 16,
+	"progweb_descr": " Adyen provide hosted payment page merchants Their solution support multiple currency accept 100 payment method across Europe USA Asia Latin America Some functionality service include oneclick payment single screen payment page AB test payment page This functionality support API well use singleclick without need store payment detail alternative payment method support hybrid model combination host payment page full 3DSecure support Full documentation publicly available", 
+    "id": 11660
+  }, 
+  {
+  	"c_comment": "IP based payments",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "VK Merchant", 
+    "cluster_id": 1,
+	"progweb_descr": " VK popular European social network website VK Merchant API offer provide mean connect application external internet store VK payment system This allow buyer pay item service internet store personal VK account One unique feature VK payment system allow user chip together purchase friend", 
+    "id": 11794
+  }, 
+  {
+  	"c_comment": "api to create payment functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "PingPing", 
+    "cluster_id": 16,
+	"progweb_descr": " PingPing mobile payment system allow user purchase product service mobile phone PingPing API allow user add PingPing payment button merchant websites API enable 1 click shopping verify text message user Technical documentation available upon request Documentation available upon request", 
+    "id": 11853
+  }, 
+  {
+  	"c_comment": "credit debit card transactions",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Australia Post SecurePay", 
+    "cluster_id": 19,
+	"progweb_descr": " service Australia Post provide credit card process ecommerce transaction bill payment It handle debit card payment well integration option base whitelabel service embed iframes addition API access API method support submission transaction amount vendor card detail number expiration date CVV code Methods also support preauthorization transaction payment without transfer fund well void pending transaction completion refund exist transaction", 
+    "id": 11888
+  }, 
+  {
+  	"c_comment": "credit debit card transaction",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "DalPay", 
+    "cluster_id": 19,
+	"progweb_descr": " service Iceland provide PCIcompliant process online payment via credit card debit card CVV validation It allow preauthorization transaction final payment processing include fund capture It also allow process refund update void transaction API method support submission transaction payment seller information transaction amount customer name card number etc Methods also handle preauthorization void pending transaction process refund need Rebilling method allow schedule recur payment", 
+    "id": 11954
+  }, 
+  {
+  	"c_comment": "credit debit card transaction",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "RedFin Network", 
+    "cluster_id": 19,
+	"progweb_descr": " service provide processing payment via credit card debit card automate clearinghouse ACH collection check It provide preauthorization final payment online application payment option Additional payment option include EBT gift card service also handle refund transaction update related correction post payment API method support submission preauthorization payment request specify merchant customer card number bank information transaction amount Methods also allow update merchant account information summary transaction merchant Methods support schedule recur payment subscription transaction", 
+    "id": 11955
+  }, 
+  {
+  	"c_comment": "web based payments",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "TargetPay Mister Cash", 
+    "cluster_id": 1,
+	"progweb_descr": " TargetPay web base payment system accessible website mobile site Mister Cash API enable user integrate TargetPay online payment system web shop mobile application service base Netherlands available internationally service setup monthly fee usage 500 payment month require licensing agreement", 
+    "id": 11963
+  }, 
+  {
+  	"c_comment": "credit debit card payment",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Web-Merchant", 
+    "cluster_id": 19,
+	"progweb_descr": " UK service process payment credit card debit card puchases online It emphasize largevolume process integration documentation available live technical support Applications implement via servicehosted secure payment page API integration API method support secure submission buyer payment card information return preauthorization status Methods complete payment support transaction confirmation messaging", 
+    "id": 12085
+  }, 
+  {
+  	"c_comment": "credit card payment",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "PayAnywhere", 
+    "cluster_id": 19,
+	"progweb_descr": " PayAnywhere online mobile application allow user accept process credit card statement smartphones tablet PayAnywhere API allow developer access integrate functionality PayAnywhere application mobile web Public documentation available interested developer contact developerspayanywherecom API access", 
+    "id": 12114
+  }, 
+  {
+  	"c_comment": "payment differnt currencies",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "DineroMail", 
+    "cluster_id": 11,
+	"progweb_descr": " service provide payment process ecommerce serve Mexico Argentina Brazil Chile Payments denominate four local currency Implementation option include whitelabel page format match base application iframe embed payment function local HTML page full API integration API method support submission payment request specify currency price product purchase purchaser accompany message Payment process bar code image return request application", 
+    "id": 12168
+  }, 
+  {
+  	"c_comment": "credit debit card payment",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Icepay", 
+    "cluster_id": 19,
+	"progweb_descr": " service base Netherlands provide online payment processing credit card charge ecommerce checkout subscription online purchase scenario Existing integration available common platform two flavor API allow creation new connection API method support submission transaction purchaser card detail amount relate information Methods attempt authorize card submit change payment status message return indicate success confirmation message outcome Methods also support payment debit card PayPal option", 
+    "id": 12169
+  }, 
+  {
+  	"c_comment": "online payment service",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Payson", 
+    "cluster_id": 16,
+	"progweb_descr": " Payson online payment service allow shop receive payment use Payson API operate HTTP Post call return confirmation tokens verify transaction API full documentation sample call include code building system program library C PHP This site Swedish", 
+    "id": 12184
+  }, 
+  {
+  	"c_comment": "payment service provider",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Paago", 
+    "cluster_id": 16,
+	"progweb_descr": " service provide process payment related ecommerce online shopping activity Functions available via web mobile device include electronic invoicing bill payment virtual terminal processing payment phone service also process payment via Facebook Paypal API method support creation invoice either individually recur schedule basis Methods resolve payment via credit card debit card automate clearinghouse ACH process Methods provide management customerpayor recipient account regular report transaction amount detail", 
+    "id": 12205
+  }, 
+  {
+  	"c_comment": "financial solution provider",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "BancBox", 
+    "cluster_id": 16,
+	"progweb_descr": " BancBox financial solution service BancBox allow user collect manage store send money payment BancBox integrate application inapp payment BancBox API allow developer integrate functionality BancBox applications Some example API method include manage client information manage payment schedule payment retrieve account activity", 
+    "id": 12255
+  }, 
+  {
+  	"c_comment": "
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "CartGenie OX", 
+    "cluster_id": 19,
+	"progweb_descr": " service book online order allow retrieval update item quantity detail process credit card payment Orders handle within service import application After update process order complete payment service email customer confirmation message API method support retrieval order specific merchant match criterion request update specify order Methods also support process credit card payment communicate order fulfillment customer", 
+    "id": 12549
+  }, 
+  {
+  	"c_comment":
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Flo2Cash", 
+    "cluster_id": 
+	"progweb_descr": " service handle process Visa MasterCard credit card payment either application custom page secure page host provider Both credit card debit card payment process recur payment schedule API method support submission transaction cardholder information debit card credit card Returned data detail either purchase preauthorization status full payment processing outcome Methods also support refund process payment related function", 
+    "id": 12571
+  }, 
+  {
+  	"c_comment":
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "CommerceV3", 
+    "cluster_id": 
+	"progweb_descr": " service provide storefront shop cart checkout function compliant PCI DSS specifications A configurable feature set display allow integration site API integration allow application level interaction Variable tax shipping option control account API method support creation management product catalog entry product category group similar item rule price shipping Methods also support book transaction process payment Administrative function include customer account creation update blast email communication order export reporting", 
+    "id": 12760
+  }, 
+  {
+  	"c_comment":
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Zipmark", 
+    "cluster_id": 
+	"progweb_descr": " Zipmark online mobile application allow user pay thing account automatically Users pay thing rent bill Zipmark user Zipmark API allow developer access integrate functionality Zipmark application create new application Public documentation available interested developer sign httpdevzipmarkcom information", 
+    "id": 12975
+  }, 
+  {
+  	"c_comment": "eCommerce functionalities",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Chirpify", 
+    "cluster_id": 16,
+	"progweb_descr": " Chirpify service allow user turn Tweets transaction Chirpify offer functionality Tweets become payment sale transaction donation eCommerce transaction Chirpify API allow developer access integrate functionality Chirpify application create new application Some example API method include integrate eCommerce functionality application receive realtime payment Twitter schedule automatic Tweets Public documentation available interested developer sign httpchirpifycomtwittercommercecontact", 
+    "id": 12980
+  }, 
+  {
+  	"c_comment":" payment transaction",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Jumio Netswipe", 
+    "cluster_id": 9,
+	"progweb_descr": " Jumio Netswipe online mobile payment service Jumio Netswipe allow traditional payment transaction like type credit card information newer way pay like swipe card online Jumio Netswipe API allow developer access integrate functionality Jumio Netswipe application create new application Some example API method include retrieve payment information manage user manage account information", 
+    "id": 13047
+  }, 
+  {
+  	"c_comment":"service handling",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Regal Technologies DevConnect", 
+    "cluster_id": 16,
+	"progweb_descr": " service handle online payment via credit card ACH bank account debit RecurPay schedule payment All service implement provider Fraud Detection Suite FDS configrable filter prevent suspicious transaction reduce risk potentially costly fraudulent payment API method support request process onetime schedule recur payment via credit card ACH bank account debit Methods also enforce rule determine use application detect possible fraudulent transaction process", 
+    "id": 13095
+  }, 
+  {
+  	"c_comment": "payment processing",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Paxum", 
+    "cluster_id": 9,
+	"progweb_descr": " Paxum offer secure ewallet payment service let user pay merchant user transfer fund bank Paxum Payment API give developer ability implement direct payment processing Integrating API let user accommodate various payment method include prepaid card check wire transfer work single provider process manage online payment API use RESTful call response format XML", 
+    "id": 13251
+  }, 
+  {
+  	"c_comment": "online payment functionality",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "GoCardless", 
+    "cluster_id": 16,
+	"progweb_descr": " GoCardless service let user accept online payment Users get pay directly customers\u00e2\u20ac\u2122 bank account without need merchant account without credit card fee API give developer access functionality service With API user create subscription pre authorization bill In addition read exist resource create bill exist pre authorization API use RESTful call response format JSON", 
+    "id": 13280
+  }, 
+  {
+  	"c_comment": "secure credit debit card",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "PowerPay", 
+    "cluster_id": 19,
+	"progweb_descr": " PowerPay payment solution provider eCommerce pointofsale scenario Solutions include credit card machine terminal merchant account credit card process PowerPay API integrate exist software service give user ability accept type electronic transaction secure webbased payment gateway It provide functionality provide realtime shipping quote store customer transaction profile process recur payment email receipt API use HTTP Post call", 
+    "id": 13456
+  }, 
+  {
+  	"c_comment": "payment functionality",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Virtapay", 
+    "cluster_id": 16,
+	"progweb_descr": " service provide payment function base virtual currency hold user account It allow seller test buyer response digital product plan support conversion virtual payment buyer national currency via ClickBank exchange Buyers monitor service provide feedback function product present Methods list pay website online marketplace well mobile apps handle VirtaPay payment API also support ingame use VirtaPay credit payment player Future method list currency exchange handle conversion world currency", 
+    "id": 13491
+  }, 
+  {
+  	"c_comment": "payment functionality",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "PayNearMe", 
+    "cluster_id": 16,
+	"progweb_descr": " PayNearMe payment service enable consumer pay cash good service company online local store 7Eleven store US via order slip PayNearMe API allow developer access functionality PayNearMe Some example API method include create order retrieve payment slip call server order place Public documentation available API access available account", 
+    "id": 13883
+  }, 
+  {
+  	"c_comment": "payment functionality",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "MobiCart", 
+    "cluster_id": 16,
+	"progweb_descr": " MobiCart mobile commerce mCommerce management platform work mobile tablet web application link companys website MobiCart build customize base customer need MobiCart API allow developer access integrate functionality MobiCart Some example API method include access store information manage product information retrieve user detail add manage order", 
+    "id": 13903
+  }, 
+  {
+  	"c_comment": "processing transaction",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Electronic Merchant Systems", 
+    "cluster_id": 9,
+	"progweb_descr": " EMS Electronic Merchant Systems eCommerce payment gateway It allow merchant handle transaction online realtime individually merchantoperated virtual point sale terminal VPOS EMS offer 2 APIs connect user EMS Merchant Services streamline transaction process payment authorization settlement transaction status request APIs use RESTful protocol", 
+    "id": 14032
+  }, 
+  {
+  	"c_comment":
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Sellaround", 
+    "cluster_id": 16,
+	"progweb_descr": " Sellaround eCommerce service integrate social networking site allow user increase social reach Sellaround API allow developer integrate Sellarounds functionality application sit Example API method include create manage widget manage account information manage shipping information retrieve order", 
+    "id": 14178
+  }, 
+  {
+  	"c_comment":
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Vantiv Solution Builder", 
+    "cluster_id": 
+	"progweb_descr": " Reduce time cost complexity develop secure commerceenabled application Vantiv Solution Builder developer Vantiv Solution Builder streamline integration program design help software company application developer easily combine Vantivs robust transaction process solution valueadded service workflows form complete payment solution With full suite developercentric resource include complete software development toolkits APIs sample code sample application developer sandbox ondemand support Vantiv Solution Builder provide business technical resource help Software Companies streamline integration project satisfy PCI PADSS compliance requirement define channel partnership publish application active Commerce Marketplaces", 
+    "id": 14681
+  }, 
+  {
+  	"c_comment": "payment functionality",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "PayPal Adaptive Payments", 
+    "cluster_id": 
+	"progweb_descr": " PayPal X Adaptive Payments API enable developer build apps process transaction interact PayPal Developers control entire transaction within single interface allow payment multiple platform include web mobile others Adaptive Payments make possible create ongoing relationship customer dont request user permission every single transaction Adaptive Payments API allow payment make different way either directly receiver multiple receiver two receiver row chain payment", 
+    "id": 14804
+  }, 
+  {
+  	"c_comment": "payment funtionality",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "PayLeap", 
+    "cluster_id": 16,
+	"progweb_descr": " PayLeap provide merchant secure singlesource payment solution include tokenized cardholder data vault secure checkout use LeapLock fraud management tool virtual terminal electronic invoice scheduledrecurring payment exclusive provider PaySecure\u00c2\u00ae internet PIN Debit IPD", 
+    "id": 15359
+  }, 
+  {
+  	"c_comment": "payment functionality",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "Chargify", 
+    "cluster_id": 16,
+	"progweb_descr": " Chargify online payment service feature recur billing Chargify API allow developer integrate service application website easily feature RESTful interface", 
+    "id": 15401
+  }, 
+  {
+  	"c_comment": "payment processing",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "LinkPoint", 
+    "cluster_id": 9,
+	"progweb_descr": " LinkPoint API provide payment processing service need sophisticated payment processing option You control payment process via code Process payment Web many terminal type", 
+    "id": 15678
+  }, 
+  {
+  	"c_comment": " payment processing",
+    "progweb_cat": "Payments,eCommerce", 
+    "api_name": "TrustCommerce", 
+    "cluster_id": 9,
+	"progweb_descr": " Most payment processing APIs tough use simpler Wide variety platform support Subscription payment Virtual Terminal Fraud Controls", 
+    "id": 15680
+  }, 
+  {
+  	"c_comment": "payment functionality",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "Stripe", 
+    "cluster_id": 16,
+	"progweb_descr": " Stripe API allow developer access functionality Stripe Some example API method include send invoice accept payment manage subscription billing edit manage account information Stripe service allow user accept payment online specifically developer With Stripe application user keep track payment search past payment create recur charge keep track customer", 
+    "id": 136
+  }, 
+  {
+  	"c_comment": "payment function",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "Recurly", 
+    "cluster_id": 16,
+	"progweb_descr": " Recurly API provide recur subscription billing system online business It available REST architecture JSON format public key token authentication method secure SSL HTTP status code With API developer integrate recur billing feature include adjustment invoice plan subscription", 
+    "id": 790
+  }, 
+  {
+  	"c_comment": "payment function",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "Beyonic", 
+    "cluster_id": 16,
+	"progweb_descr": " Beyonic REST API allow developer access integrate functionality Beyonic application Some example API method include receive money send money manage bill Beyonic mobile money payment bill collection platform", 
+    "id": 1498
+  }, 
+  {
+  	"c_comment": "payment function",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "Trexle", 
+    "cluster_id": 16,
+	"progweb_descr": " Trexle RESTful API service connects ecommerce shop cart 100 payment gateways It available API Key Developers use interface integrate transaction customer data payment application", 
+    "id": 1799
+  }, 
+  {
+  	"c_comment": "payment function",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "Orange Direct Carrier Billing Europe", 
+    "cluster_id": 16,
+	"progweb_descr": " Orange Direct Carrier Billing Europe API provide user efficient way incorporate billing digital service increase revenue across Europe This API integrate easily payment process digital good service micropayments Access Direct Carrier Billing Europe API must request fill form httpspartnerorangecomapplyfordirectbilling Orange global telecommunication company provide IT telecommunication service", 
+    "id": 2596
+  }, 
+  {
+  	"c_comment": "payment function",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "Paystack", 
+    "cluster_id": 16,
+	"progweb_descr": " Paystack REST API allow developer access integrate functionality Paystack applications Some example API method include manage customer manage payment manage transaction Paystack online payment platform allow user accept onetime recur payment online via mobile", 
+    "id": 2719
+  }, 
+  {
+  	"c_comment": "credit card payment",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "Payment Savvy", 
+    "cluster_id": 19,
+	"progweb_descr": " Payment Savvy payment process provider offer ACH credit card support online payment gateway Additionally support chargeback protection recur bill pay texting Payment Savvy API integrate platform third party application offer low rate free payment process use convenience fee model", 
+    "id": 3658
+  }, 
+  {
+  	"c_comment": "payment function",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "Heartland Payment Systems", 
+    "cluster_id": 16,
+	"progweb_descr": " Heartland Payment Systems API allow integrate payment bill functionality web service Tokens key available authenticate Also accessible example C PHP Java Ruby Python Nodejs Industries benefit integration include restaurant education K12 retail campus grocery park laundry petroleum Heartland provide payroll gift card point sale mobile payment school solution school nutrition mobile order service", 
+    "id": 4896
+  }, 
+  {
+  	"c_comment": "credit debit card",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "SegPay", 
+    "cluster_id": 19,
+	"progweb_descr": " SegPay billing platform handle credit card check European direct debit authorization platform come marketing tool sale report automate password management online web interface It provide payment portal multiple language accept variety currency Many SegPays function accessible programmatically via SOAP call", 
+    "id": 8601
+  }, 
+  {
+  	"c_comment":"payment function",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "ChargeOver", 
+    "cluster_id": 16,
+	"progweb_descr": " ChargeOver feature RESTful API allow developer easily integrate recur billing payment application website Create subscription send invoice collect payment use developerfriendly APIs ChargeOver also offer rich Javascript APIs PCIcompliant credit card signup form JSONbased web hook allow ChargeOver notify application event data change", 
+    "id": 8881
+  }, 
+  {
+  	"c_comment": "payment function",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "FirstACH", 
+    "cluster_id": 16,
+	"progweb_descr": " FirstACH business eCommerce payment solution FirstACH integrate business account management software application make receive payment FirstACH API allow developer access integrate functionality FirstACH application system Some example API method include automate transaction retrieve payment information manage account information", 
+    "id": 9091
+  }, 
+  {
+  	"c_comment": "payment function",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "Fusebill", 
+    "cluster_id": 16,
+	"progweb_descr": " Fusebill online platform bill payment subscription plan recur payment Fusebill offer automation invoice receive payment Fusebill API allow developer access integrate functionality Fusebill applications Public documentation available interested developer email salesfusebillcom information", 
+    "id": 9753
+  }, 
+  {
+  	"c_comment": "payment funciton",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "BillingOrchard", 
+    "cluster_id": 16,
+	"progweb_descr": " BillingOrchard online bill system BillingOrchard offer automate bill online invoice online payment report integration system BillingOrchard API allow developer access integrate functionality BillingOrchard applications Some example API method include manage function manage account information check method", 
+    "id": 9904
+  }, 
+  {
+  	"c_comment": "payment platform",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "instantPay.in", 
+    "cluster_id": 16,
+	"progweb_descr": " instantPayin provider anytime anywhere access user day day Mobile Data Card Topups DTH Recharges Utility Bill Payments via easy integrate API API compatible platform Interested developer contact provider information partnership API documentation", 
+    "id": 10384
+  }, 
+  {
+  	"c_comment": "transaction",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "VersaPay", 
+    "cluster_id": 9,
+	"progweb_descr": " VersaPay electronic check invoice service It offer wellintegrated package automate payment method payment request notification upon delivery Users send accept epayments electronically track transaction All data export automated notify user recipients Their API suite allow developer integrate payment request system payment transfer notification Included APIs Fund Sources Transactions Debit Agreements Webhook They RESTful APIs return JSON XML format data", 
+    "id": 12043
+  }, 
+  {
+  	"c_comment": "payment integration",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "SubscriptionBridge", 
+    "cluster_id": 16,
+	"progweb_descr": " SubscriptionBridge subscription management system provide Early Impact ecommerce solution business SubscriptionBridge combine automate recur billing account management function account management function allow online retailer communicate customer adjust customize customers\u00e2\u20ac\u2122 subscription plan They offer API integrate SubscriptionBridge web tool merchant checkout shop cart notification system It RESTful API return XMLformatted data", 
+    "id": 12197
+  }, 
+  {
+  	"c_comment": "payment management",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "HostBill", 
+    "cluster_id": 16,
+	"progweb_descr": " HostBill payment invoice management service Their service include automated bill payment management client data track API provide registered user access client invoice service data realtime HTML protocol They also provide free PHP HB wrapper simplifies call store users\u00e2\u20ac\u2122 API authentication detail API available user instal HostBill account", 
+    "id": 12295
+  }, 
+  {
+  	"c_comment": "secure credit debit card",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "PaymentVision Pay", 
+    "cluster_id": 19,
+	"progweb_descr": " service process online payment either onetime recurring charge credit card debit card ACH charge buyer bank account It provide realtime authorization payment process A tokenbased system schedule payment prevents need store card number bank account data maintain PCI security compliance prevent liability data loss API method support complete onetime sameday payment well schedule recur payment timebased contract Methods also allow verification bank account information user update payment account information", 
+    "id": 12576
+  }, 
+  {
+  	"c_comment": "sms",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "txtNation SMS", 
+    "cluster_id": 7,
+	"progweb_descr": " txtNation Mobile Billing SMS Messaging provider txtNation Gateway use deploy mobile billing messaging related service include SMS base campaign exist platform SMS Gateway enable business facilitate SMS message mobile subscriber It also allow message send use SMPP platform API use RESTful call response format XML", 
+    "id": 12750
+  }, 
+  {
+  	"c_comment": "payment platform",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "PayTrace", 
+    "cluster_id": 16,
+	"progweb_descr": " service handle payment processing realtime transaction configurable checkout functional data component secure exchange storage customer payment data It build customer profile compliance PCI processing requirement process schedule recur payment API method support secure submission transaction information validate pending order submit preauthorization request complete payment Related method handle create update customer account process refund schedule recur payment calculate shipping charge", 
+    "id": 12761
+  }, 
+  {
+  	"c_comment": "credit debit card",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "iPayDNA", 
+    "cluster_id": 19,
+	"progweb_descr": " iPayDNA online payment service provide credit card debit card noncard payment processing service online merchant iPayDNA focus international transaction support wide variety currency iPayDNA API expose functionality processing payment void refund This web service use integrate iPayDNAs payment system site application", 
+    "id": 13155
+  }, 
+  {
+  	"c_comment": "payment transaction",
+    "progweb_cat": "Payments,Billing", 
+    "api_name": "GoToBilling", 
+    "cluster_id": 9,
+	"progweb_descr": " GoToBilling online payment process gateway support wide variety payment type include credit card vendor payment direct deposit recur payment mobile payment business business payment GoToBilling founded intent create service support variety payment need one central interface GoToBilling SOAP web service main function create update customer record account search future pending past transaction process transaction This SOAPbased web service use integrate new exist website application GoToBilling system", 
+    "id": 13156
+  }
+]
