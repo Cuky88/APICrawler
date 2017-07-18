@@ -1,0 +1,34 @@
+[
+  {
+    "quality": [
+      0.0, 
+      0.0
+    ], 
+    "param2": 20, 
+    "param1": "cosine"
+  }, 
+  {
+    "quality": [
+      0.0, 
+      0.0
+    ], 
+    "param2": 50, 
+    "param1": "cosine"
+  }, 
+  {
+    "quality": [
+      0.0, 
+      0.0
+    ], 
+    "param2": 20, 
+    "param1": "squared_euclidean"
+  }, 
+  {
+    "quality": [
+      0.0, 
+      0.0
+    ], 
+    "param2": 50, 
+    "param1": "squared_euclidean"
+  }
+]
