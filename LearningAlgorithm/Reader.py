@@ -7,10 +7,13 @@ def load_manual_cluster(dummy):
     with open('../1_data/4_cluster_single/manuel_cluster/517-eCommerce_clusters_final.json') as data_file:
         data = json.load(data_file)
     apis=[]
+    apis2 =[]
+
 
     for x in range(0, len(data)):
         if "id" in data[x] and 'cluster_id' in data[x]:
             apis.append([data[x]['id'], data[x]['cluster_id']])
+            apis2.append({"id": data[x]['id'], "cluster_id": data[x]['cluster_id']})
 
     with open('../1_data/4_cluster_single/manuel_cluster/529-Messaging_clusters.json') as data_file:
         data = json.load(data_file)
@@ -18,6 +21,7 @@ def load_manual_cluster(dummy):
     for x in range(0, len(data)):
         if "id" in data[x] and 'cluster_id' in data[x]:
             apis.append([data[x]['id'], data[x]['cluster_id']])
+            apis2.append({"id": data[x]['id'], "cluster_id": data[x]['cluster_id']})
             
     with open('../1_data/4_cluster_single/manuel_cluster/113-Payments_clusters.json') as data_file:
         data = json.load(data_file)
@@ -25,9 +29,11 @@ def load_manual_cluster(dummy):
     for x in range(0, len(data)):
         if "id" in data[x] and 'cluster_id' in data[x]:
             apis.append([data[x]['id'], data[x]['cluster_id']])
+            apis2.append({"id": data[x]['id'], "cluster_id": data[x]['cluster_id']})
+            
     
     if dummy:
-        fw.writeToJson(apis, "manualClusters.json")
+        fw.writeToJson(apis2, "manualClusters.json")
     
     if not dummy:
         return apis
