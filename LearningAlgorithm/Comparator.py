@@ -31,11 +31,13 @@ def compare(input):
                 #print(str(apis[x]) + " vs " + str(apis[y]))
                 comparePair(apis[x], apis[y])
 
+    print len(d)
     bigM = len(a) + len(b) + len(c) + len(d)
     randStatistics = round((float(len(a)) + float(len(d))) / float(bigM),5)
     jaccard = round(float(len(a)) / (float(len(a))+float(len(b))+float(len(c))),5)
 
     #clear all arrays
+
     del a[:]
     del b[:]
     del c[:]
@@ -56,10 +58,10 @@ def comparePair(x1, x2):
     y2 = None
 
     for i in range(0, len(apisManCluster)):
-        if y[i][0]==x1[0]:
-            y1=y[0]
-        elif y[i][0]==x2[0]:
-            y2=y[0]
+        if y[i][0] == x1[0]:
+            y1=y[i]
+        elif y[i][0] == x2[0]:
+            y2=y[i]
 
     #given points haven't been manually cluster -> no quality measureable -> break!
     if y1==None or y2==None:
@@ -67,15 +69,15 @@ def comparePair(x1, x2):
 
     # Check if first one of pair is in same cluster (derive Sy or Dy regarding to the paper)
     if x1[1]==x2[1]:
-        first=True
+        first = True
     else:
-        first=False
+        first = False
 
     #Check if second part of pair is in same cluster (derive SD|DD, SS|SD)
     if y1[1]==y2[1]:
-        second=True
+        second = True
     else:
-        second=False
+        second = False
 
     #Decide to which set the pair contains
     if first and second:
