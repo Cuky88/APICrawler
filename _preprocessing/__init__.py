@@ -4,15 +4,17 @@ import json_reader
 import lemmatizer
 import punctuations
 import stopwords
+import unicode
+import lowercase
 
 path_progweb_final = '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/1_data/1_raw/progweb_final.json'
 path_complete_final = '/Users/hanche/Downloads/complete_final.json'
 path_progweb_preprocessed = '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/1_data/2_preprocessed/progweb_preprocessed.json'
 path_complete_preprocessed = '/Users/hanche/Google Drive/Studium/InWi Master/Seminar/KDD/APICrawler/1_data/2_preprocessed/complete_preprocessed.json'
 
-
 path_input = path_complete_final
 path_output = path_complete_preprocessed
+
 
 file = json_reader.load(path_input)
 
@@ -23,7 +25,10 @@ preprocessedFile = []
 def preprocess(data):
     sansPunct = punctuations.removePunct(data)
     sansStopWords = stopwords.removeStopWords(sansPunct)
-    lemmatized = lemmatizer.stem(sansStopWords)
+    sansUnicode = unicode.removeUnicode(sansStopWords)
+    sansCase = lowercase.removeCase(sansUnicode)
+    lemmatized = lemmatizer.stem(sansCase)
+
     return lemmatized
 
 
@@ -33,9 +38,9 @@ for api in xrange(0, process_amount):
     print  activeApi['id']
     d = {}
     d['id'] = activeApi['id']
-    d['api_name'] = activeApi['api_name']
 
     try:
+        d['api_name'] = unicode.removeUnicode(activeApi['api_name'])
         d['progweb_descr'] = preprocess(activeApi['progweb_descr'])
     except:
         d['progweb_descr'] = ""
