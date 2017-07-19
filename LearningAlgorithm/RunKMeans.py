@@ -88,10 +88,11 @@ def run(params, dataset, delTMP, compJar):
     fw.writeToJson(erg, "JaccardResults.json")
 
     if compJar:
+        start_time = time.time()
         print("\n--- Starting Comparator.jar ---\n")
         call('chmod +x test.sh', shell=True)
         call("./compJar.sh")
-        print("\n--- Comparator.jar finished. Check working directory! ---")
+        print("\n--- Comparator.jar %s seconds\nCheck working directory! ---" % (time.time() - start_time))
 
 
 
