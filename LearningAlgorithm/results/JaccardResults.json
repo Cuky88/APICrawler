@@ -1,34 +1,66 @@
 [
   {
     "quality": [
-      0.0, 
-      0.0
+      0.64663, 
+      0.64663
+    ], 
+    "param2": 2, 
+    "param1": "cosine"
+  }, 
+  {
+    "quality": [
+      0.48259, 
+      0.48259
     ], 
     "param2": 20, 
     "param1": "cosine"
   }, 
   {
     "quality": [
-      0.0, 
-      0.0
+      0.36736, 
+      0.36736
     ], 
     "param2": 50, 
     "param1": "cosine"
   }, 
   {
     "quality": [
-      0.0, 
-      0.0
+      0.28112, 
+      0.28112
+    ], 
+    "param2": 500, 
+    "param1": "cosine"
+  }, 
+  {
+    "quality": [
+      0.35991, 
+      0.35991
+    ], 
+    "param2": 2, 
+    "param1": "squared_euclidean"
+  }, 
+  {
+    "quality": [
+      0.3434, 
+      0.3434
     ], 
     "param2": 20, 
     "param1": "squared_euclidean"
   }, 
   {
     "quality": [
-      0.0, 
-      0.0
+      0.31086, 
+      0.31086
     ], 
     "param2": 50, 
+    "param1": "squared_euclidean"
+  }, 
+  {
+    "quality": [
+      0.27478, 
+      0.27478
+    ], 
+    "param2": 500, 
     "param1": "squared_euclidean"
   }
 ]

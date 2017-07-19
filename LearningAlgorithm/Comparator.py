@@ -19,7 +19,7 @@ e = []
 
 #return in [0] rand staistics and in [1] jaccard coefficient for input cluster and manual cluster
 def compare(input):
-
+    print apisManCluster
     apis = []
     for x in range(0, len(input)):
         for y in range(0, len(apisManCluster)):
@@ -36,9 +36,8 @@ def compare(input):
                 comparePair(apis[x], apis[y])
 
     bigM = len(a) + len(b) + len(c) + len(d)
-    randStatistics = round((len(a) + len(d)) / bigM,5)
-    jaccard = round(len(a) / (len(a)+len(b)+len(c)),5)
-
+    randStatistics = round((float(len(a)) + float(len(d))) / float(bigM),5)
+    jaccard = round(float(len(a)) / (float(len(a))+float(len(b))+float(len(c))),5)
     #clear all arrays
 
     return [randStatistics, jaccard]

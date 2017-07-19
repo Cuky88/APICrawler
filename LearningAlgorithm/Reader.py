@@ -2,41 +2,37 @@ import json
 import re
 import JWriter as fw
 
+
+#for reading the manual clustering
+def format_data(source):
+    apis = []
+    apis2 = []
+    for s in source:
+        with open(s) as data_file:
+            data = json.load(data_file)
+        for x in range(0, len(data)):
+            if "id" in data[x] and 'cluster_id' in data[x]:
+                apis.append([data[x]['id'], data[x]['cluster_id']])
+                apis2.append({"id": data[x]['id'], "cluster_id": data[x]['cluster_id']})
+    return [apis,apis2]
+
 #for reading the manual clustering
 def load_manual_cluster(dummy):
-    with open('../1_data/4_cluster_single/manuel_cluster/517-eCommerce_clusters_final.json') as data_file:
-        data = json.load(data_file)
-    apis=[]
-    apis2 =[]
+    source=[]
+    source.append('../1_data/4_cluster_single/manuel_cluster/517-eCommerce_clusters_final.json')
+    source.append('../1_data/4_cluster_single/manuel_cluster/529-Messaging_clusters.json')
+    source.append('../1_data/4_cluster_single/manuel_cluster/113-Payments_clusters.json')
 
-
-    for x in range(0, len(data)):
-        if "id" in data[x] and 'cluster_id' in data[x]:
-            apis.append([data[x]['id'], data[x]['cluster_id']])
-            apis2.append({"id": data[x]['id'], "cluster_id": data[x]['cluster_id']})
-
-    with open('../1_data/4_cluster_single/manuel_cluster/529-Messaging_clusters.json') as data_file:
-        data = json.load(data_file)
-
-    for x in range(0, len(data)):
-        if "id" in data[x] and 'cluster_id' in data[x]:
-            apis.append([data[x]['id'], data[x]['cluster_id']])
-            apis2.append({"id": data[x]['id'], "cluster_id": data[x]['cluster_id']})
-            
-    with open('../1_data/4_cluster_single/manuel_cluster/113-Payments_clusters.json') as data_file:
-        data = json.load(data_file)
-
-    for x in range(0, len(data)):
-        if "id" in data[x] and 'cluster_id' in data[x]:
-            apis.append([data[x]['id'], data[x]['cluster_id']])
-            apis2.append({"id": data[x]['id'], "cluster_id": data[x]['cluster_id']})
-            
+    erg= format_data(source)
     
+    #for comparison with Java
     if dummy:
-        fw.writeToJson(apis2, "manualClusters.json")
-    
+        fw.writeToJson(erg[1], "manualClusters.json")
+
+    #for comparison with Python
     if not dummy:
-        return apis
+        return erg[0]
+
 
 #for reading the clustering through Tag Groups
 def load_manual_cluster2():
