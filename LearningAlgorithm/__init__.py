@@ -17,9 +17,9 @@ else:
     print("Unknown dataset chosen (" + str(dataSet) + ")")
     exit(1)
 
-delTMP = input("\nDo you want to delete /tmp folder periodically? (recommended!)\n  - (1) Yes\n  - (0) No")
-compJar = input("\nDo you want to start Comparator.jar automatically?\n  - (1) Yes\n  - (0) No")
-paramsChoose = input("\nDo you want to use params2 list?\n  - (1) Yes\n  - (0) No")
+delTMP = input("\nDo you want to delete /tmp folder periodically? (recommended!)\n  - (1) Yes\n  - (0) No\n")
+compJar = input("\nDo you want to start Comparator.jar automatically?\n  - (1) Yes\n  - (0) No\n")
+paramsChoose = input("\nDo you want to use params2 list?\n  - (1) Yes\n  - (0) No\n")
 
 
 #K-Means clustering parameter

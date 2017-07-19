@@ -64,33 +64,30 @@ def run(params, dataset, delTMP, compJar):
 
                 i = 0
                 for x in assign:
-                    assignment.append({'id': dataSetJson.apiNr[i], 'cluster_id': x}) #'name': dataSetJson.name[i],
+                    assignment.append({'id': dataSetJson.apiNr[i], 'cluster_id': x, 'api_name': dataSetJson.name[i],
+                                       'progweb_descr': dataSetJson.descr[i]})
                     i = i + 1
                 fw.writeToJson(assignment, "kmeansresults/"+dist +"_"+ str(k)+"_"+str(n)+".json")
 
-                ##write Kmeans result to file
-                #fw.writeToJson(assignment, "KMeansResult.json")
                 Reader.load_manual_cluster(1)
-    
-                #subprocess.call(['java', '-jar', 'Comparator.jar', 'results/KMeansResult.json', 'results/manualClusters.json', dist+str(k)], shell=True)
-                
+
                 quality = Comparator.compare(assignment)
+
                 erg.append({'distance': dist, 'K': k, 'dim': n,'quality': quality})
-                print quality
+                print(quality)
                 print("--- Comparison: %s seconds ---" % (time.time() - start_time))
 
                 if delTMP:
                     print("\n--- Deleting /tmp folder ---\n")
-                    call('chmod +x delTMP.sh"', shell=True)
+                    call('chmod +x delTMP.sh', shell=True)
                     call("./delTMP.sh")
-                    print("\n--- Deleting /tmp folder status %s ---")
 
     fw.writeToJson(erg, "JaccardResults.json")
 
     if compJar:
         start_time = time.time()
         print("\n--- Starting Comparator.jar ---\n")
-        call('chmod +x test.sh', shell=True)
+        call('chmod +x compJar.sh', shell=True)
         call("./compJar.sh")
         print("\n--- Comparator.jar %s seconds\nCheck working directory! ---" % (time.time() - start_time))
 

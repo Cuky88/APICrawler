@@ -235,7 +235,7 @@
 	"c_comment": "no usable information",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Powa", 
-	"cluster_id": 0,
+	"cluster_id": 996699,
     "progweb_descr": " Powa eCommerce mobile commerce solution provider Powa provide online mobile sale platform company vendor retaillers organization need online sale capability Powa API allow developer access integrate functionality Powa application Public documentation available interested developer sign developer account httpwwwpowacompageDevelopers26agencies", 
     "id": 8858
   }, 
@@ -283,7 +283,7 @@
   	"c_comment": "no usable description",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "SlidePay", 
-    "cluster_id": 0,
+    "cluster_id": 996699,
 	"progweb_descr": " SlidePay credit card payment acceptance service SlidePay allow merchant user accept swipe credit card payment application variety platform SlidePay API allow developer access integrate functionality SlidePay applications Some example API method include process payment retrieve payment send receipt", 
     "id": 9243
   }, 
@@ -571,7 +571,7 @@
   	"c_comment": "",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Flo2Cash", 
-    "cluster_id": 0,
+    "cluster_id": 996699,
 	"progweb_descr": " service handle process Visa MasterCard credit card payment either application custom page secure page host provider Both credit card debit card payment process recur payment schedule API method support submission transaction cardholder information debit card credit card Returned data detail either purchase preauthorization status full payment processing outcome Methods also support refund process payment related function", 
     "id": 12571
   }, 
@@ -579,7 +579,7 @@
   	"c_comment": "",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "CommerceV3", 
-    "cluster_id": 0,
+    "cluster_id": 996699,
 	"progweb_descr": " service provide storefront shop cart checkout function compliant PCI DSS specifications A configurable feature set display allow integration site API integration allow application level interaction Variable tax shipping option control account API method support creation management product catalog entry product category group similar item rule price shipping Methods also support book transaction process payment Administrative function include customer account creation update blast email communication order export reporting", 
     "id": 12760
   }, 
@@ -587,7 +587,7 @@
   	"c_comment": "",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Zipmark", 
-    "cluster_id": 0,
+    "cluster_id": 996699,
 	"progweb_descr": " Zipmark online mobile application allow user pay thing account automatically Users pay thing rent bill Zipmark user Zipmark API allow developer access integrate functionality Zipmark application create new application Public documentation available interested developer sign httpdevzipmarkcom information", 
     "id": 12975
   }, 
@@ -683,7 +683,7 @@
   	"c_comment": "",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "Vantiv Solution Builder", 
-    "cluster_id": 0,
+    "cluster_id": 996699,
 	"progweb_descr": " Reduce time cost complexity develop secure commerceenabled application Vantiv Solution Builder developer Vantiv Solution Builder streamline integration program design help software company application developer easily combine Vantivs robust transaction process solution valueadded service workflows form complete payment solution With full suite developercentric resource include complete software development toolkits APIs sample code sample application developer sandbox ondemand support Vantiv Solution Builder provide business technical resource help Software Companies streamline integration project satisfy PCI PADSS compliance requirement define channel partnership publish application active Commerce Marketplaces", 
     "id": 14681
   }, 
@@ -691,7 +691,7 @@
   	"c_comment": "payment functionality",
     "progweb_cat": "Payments,eCommerce", 
     "api_name": "PayPal Adaptive Payments", 
-    "cluster_id": 0,
+    "cluster_id": 996699,
 	"progweb_descr": " PayPal X Adaptive Payments API enable developer build apps process transaction interact PayPal Developers control entire transaction within single interface allow payment multiple platform include web mobile others Adaptive Payments make possible create ongoing relationship customer dont request user permission every single transaction Adaptive Payments API allow payment make different way either directly receiver multiple receiver two receiver row chain payment", 
     "id": 14804
   }, 
@@ -875,7 +875,7 @@
   	"c_comment": "sms",
     "progweb_cat": "Payments,Billing", 
     "api_name": "txtNation SMS", 
-    "cluster_id": 7,
+    "cluster_id": 996699,
 	"progweb_descr": " txtNation Mobile Billing SMS Messaging provider txtNation Gateway use deploy mobile billing messaging related service include SMS base campaign exist platform SMS Gateway enable business facilitate SMS message mobile subscriber It also allow message send use SMPP platform API use RESTful call response format XML", 
     "id": 12750
   }, 

@@ -1825,6 +1825,10 @@
   }, 
   {
     "cluster_id": 7, 
+    "id": 8921
+  }, 
+  {
+    "cluster_id": 7, 
     "id": 8932
   }, 
   {
@@ -2904,28 +2908,8 @@
     "id": 15119
   }, 
   {
-    "cluster_id": 1, 
-    "id": 63
-  }, 
-  {
-    "cluster_id": 1, 
-    "id": 263
-  }, 
-  {
-    "cluster_id": 1, 
-    "id": 495
-  }, 
-  {
-    "cluster_id": 1, 
-    "id": 765
-  }, 
-  {
     "cluster_id": 9, 
     "id": 931
-  }, 
-  {
-    "cluster_id": 1, 
-    "id": 947
   }, 
   {
     "cluster_id": 9, 
@@ -3004,10 +2988,6 @@
     "id": 7965
   }, 
   {
-    "cluster_id": 1, 
-    "id": 8093
-  }, 
-  {
     "cluster_id": 9, 
     "id": 8242
   }, 
@@ -3020,7 +3000,7 @@
     "id": 8758
   }, 
   {
-    "cluster_id": 0, 
+    "cluster_id": 996699, 
     "id": 8858
   }, 
   {
@@ -3044,7 +3024,7 @@
     "id": 9059
   }, 
   {
-    "cluster_id": 0, 
+    "cluster_id": 996699, 
     "id": 9243
   }, 
   {
@@ -3112,10 +3092,6 @@
     "id": 10900
   }, 
   {
-    "cluster_id": 1, 
-    "id": 11089
-  }, 
-  {
     "cluster_id": 16, 
     "id": 11607
   }, 
@@ -3132,10 +3108,6 @@
     "id": 11660
   }, 
   {
-    "cluster_id": 1, 
-    "id": 11794
-  }, 
-  {
     "cluster_id": 16, 
     "id": 11853
   }, 
@@ -3150,10 +3122,6 @@
   {
     "cluster_id": 19, 
     "id": 11955
-  }, 
-  {
-    "cluster_id": 1, 
-    "id": 11963
   }, 
   {
     "cluster_id": 19, 
@@ -3188,15 +3156,15 @@
     "id": 12549
   }, 
   {
-    "cluster_id": 0, 
+    "cluster_id": 996699, 
     "id": 12571
   }, 
   {
-    "cluster_id": 0, 
+    "cluster_id": 996699, 
     "id": 12760
   }, 
   {
-    "cluster_id": 0, 
+    "cluster_id": 996699, 
     "id": 12975
   }, 
   {
@@ -3244,11 +3212,11 @@
     "id": 14178
   }, 
   {
-    "cluster_id": 0, 
+    "cluster_id": 996699, 
     "id": 14681
   }, 
   {
-    "cluster_id": 0, 
+    "cluster_id": 996699, 
     "id": 14804
   }, 
   {
@@ -3340,7 +3308,7 @@
     "id": 12576
   }, 
   {
-    "cluster_id": 7, 
+    "cluster_id": 996699, 
     "id": 12750
   }, 
   {
@@ -3354,5 +3322,233 @@
   {
     "cluster_id": 9, 
     "id": 13156
+  }, 
+  {
+    "cluster_id": 9696, 
+    "id": 26
+  }, 
+  {
+    "cluster_id": 13, 
+    "id": 80
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 177
+  }, 
+  {
+    "cluster_id": 3, 
+    "id": 196
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 257
+  }, 
+  {
+    "cluster_id": 5, 
+    "id": 351
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 445
+  }, 
+  {
+    "cluster_id": 5, 
+    "id": 459
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 493
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 512
+  }, 
+  {
+    "cluster_id": 13, 
+    "id": 529
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 563
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 573
+  }, 
+  {
+    "cluster_id": 5, 
+    "id": 576
+  }, 
+  {
+    "cluster_id": 14, 
+    "id": 722
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 723
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 814
+  }, 
+  {
+    "cluster_id": 13, 
+    "id": 853
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 934
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 955
+  }, 
+  {
+    "cluster_id": 13, 
+    "id": 1018
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 1037
+  }, 
+  {
+    "cluster_id": 5, 
+    "id": 1094
+  }, 
+  {
+    "cluster_id": 13, 
+    "id": 1129
+  }, 
+  {
+    "cluster_id": 13, 
+    "id": 5045
+  }, 
+  {
+    "cluster_id": 2, 
+    "id": 7237
+  }, 
+  {
+    "cluster_id": 6, 
+    "id": 366
+  }, 
+  {
+    "cluster_id": 11, 
+    "id": 1027
+  }, 
+  {
+    "cluster_id": 6, 
+    "id": 1075
+  }, 
+  {
+    "cluster_id": 6, 
+    "id": 1085
+  }, 
+  {
+    "cluster_id": 6, 
+    "id": 1086
+  }, 
+  {
+    "cluster_id": 6, 
+    "id": 1087
+  }, 
+  {
+    "cluster_id": 8, 
+    "id": 1107
+  }, 
+  {
+    "cluster_id": 12, 
+    "id": 1112
+  }, 
+  {
+    "cluster_id": 6, 
+    "id": 1119
+  }, 
+  {
+    "cluster_id": 11, 
+    "id": 1266
+  }, 
+  {
+    "cluster_id": 15, 
+    "id": 1524
+  }, 
+  {
+    "cluster_id": 11, 
+    "id": 2557
+  }, 
+  {
+    "cluster_id": 17, 
+    "id": 4227
+  }, 
+  {
+    "cluster_id": 12, 
+    "id": 7358
+  }, 
+  {
+    "cluster_id": 18, 
+    "id": 7466
+  }, 
+  {
+    "cluster_id": 12, 
+    "id": 7475
+  }, 
+  {
+    "cluster_id": 6, 
+    "id": 7719
+  }, 
+  {
+    "cluster_id": 12, 
+    "id": 7738
+  }, 
+  {
+    "cluster_id": 18, 
+    "id": 7765
+  }, 
+  {
+    "cluster_id": 6, 
+    "id": 7769
+  }, 
+  {
+    "cluster_id": 12, 
+    "id": 7884
+  }, 
+  {
+    "cluster_id": 12, 
+    "id": 7950
+  }, 
+  {
+    "cluster_id": 6, 
+    "id": 8011
+  }, 
+  {
+    "cluster_id": 18, 
+    "id": 8096
+  }, 
+  {
+    "cluster_id": 8, 
+    "id": 867
+  }, 
+  {
+    "cluster_id": 17, 
+    "id": 4062
+  }, 
+  {
+    "cluster_id": 7, 
+    "id": 5152
+  }, 
+  {
+    "cluster_id": 8, 
+    "id": 7455
+  }, 
+  {
+    "cluster_id": 8, 
+    "id": 7604
+  }, 
+  {
+    "cluster_id": 15, 
+    "id": 7672
+  }, 
+  {
+    "cluster_id": 8, 
+    "id": 7830
   }
 ]

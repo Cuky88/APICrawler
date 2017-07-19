@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-rm -rf /tmp/*
+bash -c "rm -rf /tmp/*"

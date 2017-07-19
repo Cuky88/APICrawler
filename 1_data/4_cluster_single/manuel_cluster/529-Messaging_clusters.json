@@ -2073,7 +2073,9 @@
     "progweb_cat": "Messaging", 
     "api_name": "BulkSMSVilla", 
     "progweb_descr": " BulkSMSVilla bulk SMS service base Nigeria offer twoway SMS communication Its SMS gateway connect 700 GSM CDMA mobile network operator worldwide BulkSMSVilla API enable user send receive message via REST call also use check account balance", 
-    "id": 8921
+    "id": 8921,
+    "cluster_id": 7,
+    "c_comment": "online sms"
   }, 
   {
     "progweb_cat": "Messaging", 
