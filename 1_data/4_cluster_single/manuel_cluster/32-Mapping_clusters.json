@@ -1,0 +1,200 @@
+[
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 0, 
+    "progweb_descr": " Note commercial feebased service 45 trial account available", 
+    "id": 26
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 13, 
+    "progweb_descr": " Google Directions Web Service web service calculates direction location use REST request Directions may specify origin destination waypoints either text string eg Chicago IL latitudelongitude coordinate Directions web service return multipart direction use series waypoints This service also available part Google Maps JavaScript API Java client library", 
+    "id": 80
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " Onestop service global AJAX mapping rout geocoding search POI Europe\u00ef\u00bf\u00bds 1 provider mapping location service consumer business", 
+    "id": 177
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 3, 
+    "progweb_descr": " Google Elevation web service provide simple interface query location earth elevation data Additionally may request sample elevation data along path allow calculate elevation change along route Elevation service provide elevation data location surface earth include depth location ocean floor return negative value In case Google posse exact elevation measurement precise location request service interpolate return average value use four near location", 
+    "id": 196
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 4, 
+    "progweb_descr": " From site Google Static Maps API let embed Google Maps image webpage without require JavaScript dynamic page load Google Static Map service create map base URL parameter send standard HTTP request return map image display web page", 
+    "id": 232
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " Google Geocoding API webservice Google Maps API Geocoding API provide direct way access geocoder via HTTP request though must use conjunction Google Maps Additionally service allow perform converse operation turn coordinate address process know reverse geocoding Also choose limit search certain bound area Viewport Biasing region Region Biasing", 
+    "id": 257
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 5, 
+    "progweb_descr": " SmartIPnet service offer suite online network tool let user perform task IP lookup WHOIS query spam check email analysis API provide interface IP lookup service allow user determine geographical location IPaddress host precision city level API use RESTful call response format XML JSON", 
+    "id": 351
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 4, 
+    "progweb_descr": " ZeeMaps provide easytouse mechanism embed Google Maps websiteThey also provide International Geocoding service", 
+    "id": 393
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " Yahoo PlaceFinder API give developer multilanguage global geocoding name place PlaceFinder support buildinglevel address recognition 75 country point interest airport city place name include administrative area country rest world In addition support freeform singleline multiline address input PlaceFinder also support query include cross street WOEID IATA airport code It also support reverse geocoding give longitudelatitude coordinate get back near address", 
+    "id": 445
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 5, 
+    "progweb_descr": " IP2Location API service IP Location lookups obtain City Country Lattitude Longitude country code data It simple API one RESTful call return data CSV format An API key require use service", 
+    "id": 459
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " Urban Mappings Mapfluence product platform help developer enterprise market create geospatial application use data technological service Urban Mapping provide Mapfluence API allow developer access geospatial data Mapfluence Urban Mapping Some example API method include add data layer demographic web map access contextual information location search data create table chart", 
+    "id": 493
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " Manage geopermanent name place Earth API provide vocabulary grammar describe world geography unequivocal permanent languageneutral manner", 
+    "id": 512
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 13, 
+    "progweb_descr": " Google Distance Matrix API service provide travel distance time matrix origins destination information return base recommend route start end point calculate Google Maps API consist row contain duration distance value pair Distance Matrix API follow limit place 100 element per query 100 element per 10 second 2500 element per 24 hour period API use RESTful call response format XML JSON", 
+    "id": 529
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " From site resource manage geopermanent name place Earth Our purpose create Internet Location Platform provide Yahoo Geographic Developer Community vocabulary grammar describe world geography unequivocal permanent languageneutral manner Internet Location Platform design facilitate spatial interoperability geographic discovery user traverse spatial hierarchy identify geography relevant user business turn unambiguously geotag geotarget geolocate data across Web", 
+    "id": 563
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " Yahoo Placemaker new geoenrichment platform freelyavailable API enable developer publisher make application data set locationaware determine whereness unstructured content blog post new article feed web page To use developer specify structure unstructued content feed web page news status article etc Then Placemaker identifies disambiguate extract place And finally Placemaker return geographic metadata determines whereness structure unstructured content", 
+    "id": 573
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 5, 
+    "progweb_descr": " IP Location API enable detect user location base user IP address By provide API IP address return country IP register Use customize visitor experience display content language may native user", 
+    "id": 576
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 4, 
+    "progweb_descr": " Google Maps Android API allow developer add map application base Google Maps data API automatically take care access Google Maps server download data display map respond map gesture API allow user add marker polylines polygon grind overlay tile overlay map", 
+    "id": 669
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 14, 
+    "progweb_descr": " Mapstraction library provide common API Google Yahoo Microsofts javascript map APIs enable switch one another smoothly possible aim Mapstraction mainly protect company build commercial product top Google Maps change term condition introduction ad emergence compete library well map different imagery preferable licensing term Mapstraction additionally fill hole provider current offering take advantage exist open source solution possible normalise feature set across platform In future Mapstraction also talk OpenStreetMap people want build map without restriction derive work", 
+    "id": 722
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " MetaCarta Inc provider geographic intelligence solution MetaCarta \u2019 unique technology combine geographic search geographic tag capability user find content place view result map MetaCarta \u2019 product make data unstructured content locationaware geographically relevant", 
+    "id": 723
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " Geocoding API allow find coordinate latitudelongitude location base address provide Additional feature include reverse geocoding batch geocoding viewport bias thumbnail image Requests submit keyvalue pair JSON XML", 
+    "id": 814
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 13, 
+    "progweb_descr": " Bing Maps Routes API use create route include two location create route major road Users option create route drive walk Driving route include traffic information final route overlay route map imagery API use REST SOAP protocol response format XML JSON JSONP", 
+    "id": 853
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " Geocode Dataflow API component Bing Spatial Data Services API use geocode reversegeocode large set spatial data Additional functionality include create job geocode reversegeocode data upload data get status geocode job API use RESTful call response format XML JSON TXT CSV", 
+    "id": 934
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " GeoAdmin Swiss Confederation geospatial mapping tool GeoAdmin allow access geospatial data provide Swiss Confederation GeoAdmin API allow developer access integrate functionality data GeoAdmin application websites create new application Some example API method include map map render create layer manage edit map create", 
+    "id": 955
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 13, 
+    "progweb_descr": " service provide route definition state start destination point part general map render function Map rendering option include specify location place pin discover local information along definition polygon mark specific area within map API method support route definition base start destination point option itinerary 20 interim point avoidance specify obstacle Map render method support designation location point place marker discover information relate location", 
+    "id": 1018
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " service generates precise geolocation mapping coordinate standardize address base user application input specify location vary format It also provide information relevant location include business organization nearby geographic feature place interest precision geolocation influence detail data submit service General information location return neighborhood postal code street specific information resolve precise physical address API method support submission know location data either free text structure parameter Optional parameter include street thoroughfare section specific spot along thoroughfare postal code district neighborhood city state province administrative zone eg county Depending completeness request API return map specification either general area precise physical address standard format Methods allow either individual submission single location batch submission group distinct location", 
+    "id": 1037
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 5, 
+    "progweb_descr": " Telize API allow user get site visitor IP address use obtain location information use REST call API accept call JSON JSONP return request IP geolocation data JSON As write service free use rate limit", 
+    "id": 1094
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 13, 
+    "progweb_descr": " This API open version MapQuests Directions API It base OpenStreetMap data also provide result internationally service provide rout two latitudelongitude point include drive walk bike transit direction", 
+    "id": 1129
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 4, 
+    "progweb_descr": " Bing Maps Imagery API provide developer ability get static map metadata Bing Maps imagery Users also display route static map API use REST SOAP protocol response format XML JSON JSONP", 
+    "id": 1373
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 4, 
+    "progweb_descr": " Mapwize API allow developer access Mapwize indoor map platform system application Mapwize multipurpose map platform smart building healthcare facility office building retail store university Pricing Mapwize varies base size build number universe eg visitor occupant maintenance use", 
+    "id": 1515
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 4, 
+    "progweb_descr": " From site ArcWeb Services nocost Web service map API available Web developer wish access ArcWeb Services Commercial Services functionality personal noncommercial nongovernmental development project Public Services offer oneyear subscription provide almost API functionality Commercial Services however make available subset mapping data Public Services provide personal interest Web developer SOAP REST OpenLS mobile map APIs integrate map GIS functionality Webbased application", 
+    "id": 1624
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 4, 
+    "progweb_descr": " ViaMichelin Web Services Maps API allow developer embed map website application via JavaScript API static library offer four different map style ViaMichelin satellite hybrid light Methods provide let user control marker layer polygon", 
+    "id": 3702
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 13, 
+    "progweb_descr": " Google Maps Roads API allow developer identify road vehicle travel along provide additional metadata road speed limit With API developer able integrate Maps Roads service application This API RESTful require API key making request", 
+    "id": 5045
+  }, 
+  {
+    "progweb_cat": "Mapping", 
+    "cluster_id": 2, 
+    "progweb_descr": " OpenCage Geocoder combine multiple geocoding system lot open data provide geocoding reverse geocoding service cover entire world Users free display geocoding result type map even use result commercial purpose OpenCage Geocoder API currently support bulk geocoding user encourage request want", 
+    "id": 7237
+  }
+]

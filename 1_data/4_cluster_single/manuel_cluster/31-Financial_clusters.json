@@ -1,0 +1,219 @@
+[
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "Crypto currency trading", 
+    "cluster_id": 6, 
+    "progweb_descr": " VirCurEx online exchange user buy sell trade bitcoins cryptocurrencies VirCurEx allow user make call bid currency info check trade make trade review account information numerous call An account required service Users attempt utilize API without intention execute trade block API use REST call return XML JSON An account required service", 
+    "id": 366
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "shows exchange rates", 
+    "cluster_id": 11, 
+    "progweb_descr": " service Central Bank former Soviet republic Armenia provide exchange rate quote national currency Dram It intend facilitate international trade denominate currency enable government policy support currency purchase sell maintain freely float exchange rate within open international capital market API method support list exchange rate Dram national currency specify ISO country code specific date range API also supply current exchange rate base recent transaction", 
+    "id": 1027
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency trading", 
+    "cluster_id": 6, 
+    "progweb_descr": " Bitcurex Bitcoin trading system allow user purchase hold trade sell Bitcoins within Bitcurex community Bitcurex API allow user manipulate trading account use trade bot API allow call get fund get order buy sell Bitcoins cancel order get transaction history withdraw fund service use REST call return JSON", 
+    "id": 1075
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency trading", 
+    "cluster_id": 6, 
+    "progweb_descr": " Cryptsy online cryptocurrency trading service allow user trade Bitcoins variety alternative currency fiat currency Cryptsy API public authenticate method public method require API key allow user query general market data general orderbook data Authenticated method permit user query advanced information market data user transaction market trade market order user trade user order well creation execution trade service sue REST call return JSON use SSL API key authentication", 
+    "id": 1085
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency trading", 
+    "cluster_id": 6, 
+    "progweb_descr": " CoinsE cryptocurrency exchange allow user purchase store trade assortment cryptocurrencies CoinsE CoinsE trade API allow user place buy sell many order 30 different cryptocoins service use REST call return JSON An account required service", 
+    "id": 1086
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency trading", 
+    "cluster_id": 6, 
+    "progweb_descr": " Kraken professional Bitcoin trading platform aim bring Bitcoin cryptocurrencies main stream site offer robust trading capability secure holding high level regulatory compliance Kraken API use REST call return JSON API offer public market data private user data information user account ability place manipulate trade order An account required service", 
+    "id": 1087
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "financial stock data", 
+    "cluster_id": 8, 
+    "progweb_descr": " Ghana Stock Exchange API allow user query realtime trading statistic get indepth market data analysis authentic company information It also allow user quickly easily integrate stock exchange market data thirdparty application use RESTstyle call API return JSON JSONP XML service free use", 
+    "id": 1107
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency chart data", 
+    "cluster_id": 12, 
+    "progweb_descr": " CryptoCoin Charts provide chart longtime price altcoins ie cryptocurrencies Bitcoin along order book There lot altcoins available CryptoCoin Charts intend help user identify one worth invest CryptoCoin Charts currently store 50 million trade 263 currency pair collect 27 different exchange Developers access information via REST call", 
+    "id": 1112
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency trading", 
+    "cluster_id": 6, 
+    "progweb_descr": " Bitfinex bitcoin trading platform provide user bitcoin wallet storage margin trading liquidity provision Bitfinex API allow user access full functionality Bitfinex platform include orderbook personal account data attribute API use REST call return JSON An account required service SSL API key use security", 
+    "id": 1119
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "exchange rates", 
+    "cluster_id": 11, 
+    "progweb_descr": " Exchange Rate API provide accurate exchange rate serve European Central Reserve Bank release It involve get content return URL This API free use personal commercial use", 
+    "id": 1266
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "forex rates", 
+    "cluster_id": 15, 
+    "progweb_descr": " 1Forge Realtime Forex Quotes API offer realtime currency pair quote JSON format Developers use API retrieve quote symbol specific pairs several support realtime quote This service free use", 
+    "id": 1524
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "exchange rate", 
+    "cluster_id": 11, 
+    "progweb_descr": " Exchange Rate REST API offer foreign exchange conversion track platform broad range currency pair JSON XML use response API Keys require authentication This API available invitation", 
+    "id": 2557
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "investment and trading", 
+    "cluster_id": 17, 
+    "progweb_descr": " GCXio API allow developer integrate ability invest trade pay gold websites application GCX allow user possess digital gold fully back LBMAapproved physical gold Users gold holding auditable physical bullion reserve hold Brinks facility London Heathrow", 
+    "id": 4227
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "#11# currency charts data", 
+    "cluster_id": 12, 
+    "progweb_descr": " Coinfinance provide users Price Ticker widget allow embed price information give cryptocurrency websites blog Users set price appear Bitcoins US Dollars Euros Chinese Yuan widget display current price information daily high low price movement last 24 hour", 
+    "id": 7358
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency mining", 
+    "cluster_id": 18, 
+    "progweb_descr": " BTCDig server allow people pool effort reward mine Bitcoins BTCDig support GPU FPGAASIC mining hardware BTCDigs User Account API retrieve user balance stats well miner stats Pool Stats API retrieve pool state stats well round state block statistic", 
+    "id": 7466
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency chart data", 
+    "cluster_id": 12, 
+    "progweb_descr": " Prelude product Moolah cryptographic payment platform Preludes Public API allow user retrieve ticker information trade make US Dollars USD Bitcoins BTC information available trade include high low trade make last 24 hour 24 hour volume buy sell order pair last executed trade price last 10 execute trade value last execute trade pairing", 
+    "id": 7475
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency trading", 
+    "cluster_id": 6, 
+    "progweb_descr": " BTCDealer bitcoin service allow user purchase bitcoins use credit card BTCDealer API allow merchant integrate credit card payment option site sell bitcoins To use site user must country service operate As 262014 site provide service US user", 
+    "id": 7719
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency chart data", 
+    "cluster_id": 12, 
+    "progweb_descr": " MercadoBitcoin Argentine bitcoin exchange provide trade quote pesos bitcoin MercadoBitcoin API allow user make call get Last Trade last average price mtgox price listing fiat currency exchange rate data API use REST call return XML JSON CSV An account required service", 
+    "id": 7738
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency mining", 
+    "cluster_id": 18, 
+    "progweb_descr": " Mincoin Tools cryptocurrency mine pool user combine process power solve block receive coin Mincoin Tool API allow user make call access statistic pool API allow user see block dificulty block count hash rate btc price USD price trading mnc trading btc current date API use REST call return JSON JSONP An account required service", 
+    "id": 7765
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency trading", 
+    "cluster_id": 6, 
+    "progweb_descr": " Bit2c Ltd Israeli company provide monetary exchange system Bitcoins Bit2c API use REST call return JSON API allow user access various trade resource include orderbook transaction An authenticated user query view account balance add order get order cancel order get order history create merchant credential An account required service SSL API key use authentication", 
+    "id": 7769
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency charts and transactions", 
+    "cluster_id": 12, 
+    "progweb_descr": " Masterchain collective ledger mastercoin transaction Individuals partake purchase trade mastercoin cryptocurrency utilize masterchain verify ownership mastercoins transact store mastercoins Masterchain API use REST call return JSON Users make call get trade ID get address delivery receipt check currency exchange rate", 
+    "id": 7884
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency charts", 
+    "cluster_id": 12, 
+    "progweb_descr": " WorldCoin Price Ticker free service provide current average WorldCoin price WorldCoin cryptocurrency similar Bitcoin Price Ticker website provide exchange rate WorldCoin Bitcoin WorldCoin US dollar These price update per minute", 
+    "id": 7950
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency trading", 
+    "cluster_id": 6, 
+    "progweb_descr": " 796 Xchange platform buy selling Bitcoins website also give member access Bitcoin mining stock MtGox dailyweekly future 796 Xchange provide several APIs return ticker information market depth trade history BTC Futures 796XchangeMRI ASICMINER796 BTCDICE796 796 Xchange also provide API method check Bitcoin price index history get account information perform trade", 
+    "id": 8011
+  }, 
+  {
+    "progweb_cat": "Financial,Currency", 
+    "c_comment": "crypto currency mining", 
+    "cluster_id": 18, 
+    "progweb_descr": " Cexio Bitcoin commodity exchange doesnt sell bitcoins share equipment use mine Users ownership share pay fee equipment cost upkeep earn bitcoins machine produce Cexio API use REST call return JSON allow user make query execute trade get price information An account required service API key SSL use authentication", 
+    "id": 8096
+  }, 
+  {
+    "progweb_cat": "Financial,Stocks", 
+    "c_comment": "financial stock data", 
+    "cluster_id": 8, 
+    "progweb_descr": " NASDAQ DataOnDemand provide historical stock quote data NASDAQ DataOnDemand enable user choose specific symbol trading time period quick efficient analysis data use integrate stock quote data developer application analyze trend stock quote data back test trading strategy algorithms build stock quote book An API provide pull data use RESTful SOAP call API include call let user select historical stock data exact trading date time download stock data market close premarket analysis request bulk data downloads Responses format XML", 
+    "id": 867
+  }, 
+  {
+    "progweb_cat": "Financial,Stocks", 
+    "c_comment": "investment and trading", 
+    "cluster_id": 17, 
+    "progweb_descr": " Kite Connect API enable developer build complete investment trading platform simply perform trade programmatically It include method execute order real time manage portfolio stream live market data Users need Zerodah trading account get start API", 
+    "id": 4062
+  }, 
+  {
+    "progweb_cat": "Financial,Stocks", 
+    "c_comment": "online sms", 
+    "cluster_id": 7, 
+    "progweb_descr": " XigniteFactSetFundamentals API allow developer access financial statement data daily calculate fundamental data 70000 equity around world This data gather crosschecked data team FactSet Research Systems This API provide Xignite lead provider market data cloud solution Documentation available upon request", 
+    "id": 5152
+  }, 
+  {
+    "progweb_cat": "Financial,Stocks", 
+    "c_comment": "stock data", 
+    "cluster_id": 8, 
+    "progweb_descr": " Initial Public Offering Calendar Performance Data API xignite offer initial public offering IPO data include IPO pipeline IPO calendar IPO schedule performance data US stock API provide comprehensive coverage IPOs list NASDAQ NYSE BATS Exchange OTCBB market", 
+    "id": 7455
+  }, 
+  {
+    "progweb_cat": "Financial,Stocks", 
+    "c_comment": "stock and trading data", 
+    "cluster_id": 8, 
+    "progweb_descr": " EnClout Yahoo Finance API assist developer decode Yahoo stock symbol JSON XML protocol In site user test service observe important data last date trade low high value past 52 week Developers work finance sector benefit API long list stock display investment information simplify format result vary accord data availability HTML JSON XML TXT format available along contact page well result developer must sign get API key", 
+    "id": 7604
+  }, 
+  {
+    "progweb_cat": "Financial,Stocks", 
+    "c_comment": "forex data", 
+    "cluster_id": 15, 
+    "progweb_descr": " NYSE Technologies market data financial information provide live data across variety exchange NYXdata API provide user access data subset interested Users access realtime historical data reduces time deploymentbuilding front end application function spot check price validation ease integration back test requirement An account required service", 
+    "id": 7672
+  }, 
+  {
+    "progweb_cat": "Financial,Stocks", 
+    "c_comment": "#15# financial and stock data. also forex", 
+    "cluster_id": 8, 
+    "progweb_descr": " Trading Economics provide user access economic data 196 country include historical data 300000 economic indicator exchange rate stock market indexes government bond yield commodity price Trading Economics API allow user make call get list country get list indicator get matrix country get indicator country get indicator category API use REST call return HTML CSV JSON", 
+    "id": 7830
+  }
+]
