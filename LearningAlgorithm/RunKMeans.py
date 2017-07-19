@@ -4,13 +4,12 @@ import KMeans_simple
 import APIDescrReader
 import Vectrizer
 import Comparator
-import json
 import JWriter as fw
-import subprocess
+from subprocess import call
 import Reader
 
 
-def run(params, dataset):
+def run(params, dataset, delTMP, compJar):
     start_time = time.time()
 
 
@@ -80,7 +79,19 @@ def run(params, dataset):
                 print quality
                 print("--- Comparison: %s seconds ---" % (time.time() - start_time))
 
+                if delTMP:
+                    print("\n--- Deleting /tmp folder ---")
+                    call('chmod +x delTMP.sh"', shell=True)
+                    call("./delTMP.sh")
+                    print("\n--- Deleting /tmp folder status %s ---")
+
     fw.writeToJson(erg, "JaccardResults.json")
+
+    if compJar:
+        print("\n--- Starting Comparator.jar ---")
+        call('chmod +x test.sh', shell=True)
+        call("./compJar.sh")
+        print("\n--- Comparator.jar finished. Check working directory! ---")
 
 
 
