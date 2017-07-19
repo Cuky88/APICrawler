@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 
-for file in results/kmeansresults/*
+FILES=results/kmeansresults/*
+#printf '%s\n' "${PWD##*/}"
+
+for f in $FILES
 do
-    java -jar Comparator.jar file 'results/manualClusters.json'
+    bash -c "java -jar Comparator.jar '$f' 'results/manualClusters.json'"
 done

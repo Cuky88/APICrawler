@@ -80,7 +80,7 @@ def run(params, dataset, delTMP, compJar):
                 print("--- Comparison: %s seconds ---" % (time.time() - start_time))
 
                 if delTMP:
-                    print("\n--- Deleting /tmp folder ---")
+                    print("\n--- Deleting /tmp folder ---\n")
                     call('chmod +x delTMP.sh"', shell=True)
                     call("./delTMP.sh")
                     print("\n--- Deleting /tmp folder status %s ---")
@@ -88,7 +88,7 @@ def run(params, dataset, delTMP, compJar):
     fw.writeToJson(erg, "JaccardResults.json")
 
     if compJar:
-        print("\n--- Starting Comparator.jar ---")
+        print("\n--- Starting Comparator.jar ---\n")
         call('chmod +x test.sh', shell=True)
         call("./compJar.sh")
         print("\n--- Comparator.jar finished. Check working directory! ---")
