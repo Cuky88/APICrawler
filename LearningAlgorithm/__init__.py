@@ -17,8 +17,9 @@ else:
     print("Unknown dataset chosen (" + str(dataSet) + ")")
     exit(1)
 
-delTMP = input("Do you want to delete /tmp folder periodically? (recommended!)\n  - (1) Yes\n  - (0) No")
-compJar = input("Do you want to start Comparator.jar automatically\n  - (1) Yes\n  - (0) No")
+delTMP = input("\nDo you want to delete /tmp folder periodically? (recommended!)\n  - (1) Yes\n  - (0) No")
+compJar = input("\nDo you want to start Comparator.jar automatically?\n  - (1) Yes\n  - (0) No")
+paramsChoose = input("\nDo you want to use params2 list?\n  - (1) Yes\n  - (0) No")
 
 
 #K-Means clustering parameter
@@ -27,8 +28,10 @@ print("\nStart K-Means-Clustering for Dataset " + dataSetName + "...\n")
 #   params[0] => Clustersize, params[1] =>
 
 ##dist, k Clusters, n Dimensions
-params = [['cosine', 'squared_euclidean'],[1,5,10,20,50,100,300,500,700,1000,2500,5000,7500],[10,100,500]]
+params = [['cosine', 'squared_euclidean'],[1,5,10,20,50,100,300,500,700,1000,2500,5000,7500],[10,100,250,500]]
+params2 = [['cosine', 'squared_euclidean'],[1,5,10,20,50,100,300,500,700,1000,2500,5000,7500],[10,100,250,500]]
 
-#erg = RunKMeans.run(params, dataSet)
-RunKMeans.run(params, dataSet, delTMP, compJar)
-
+if paramsChoose:
+    RunKMeans.run(params2, dataSet, delTMP, compJar)
+else:
+    RunKMeans.run(params, dataSet, delTMP, compJar)
