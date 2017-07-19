@@ -2,19 +2,15 @@ import Reader
 
 apisManCluster = Reader.load_manual_cluster(0)
 
-#set of pairs that are in the same cluster
+# set of pairs that are in the same cluster
 a = []
-
-#set of pairs where only the first api is in the same cluster
+# set of pairs where only the first api is in the same cluster
 b = []
-
-#set of pairs where only the last api is in the same cluster
+# set of pairs where only the last api is in the same cluster
 c = []
-
-#set of pairs where none of apis are in the same cluster
+# set of pairs where none of apis are in the same cluster
 d = []
-
-#set of pairs that does not match any pattern - |e|=0 otherwise an error occured!
+# set of pairs that does not match any pattern - |e|=0 otherwise an error occured!
 e = []
 
 #return in [0] rand staistics and in [1] jaccard coefficient for input cluster and manual cluster
@@ -38,12 +34,19 @@ def compare(input):
     bigM = len(a) + len(b) + len(c) + len(d)
     randStatistics = round((float(len(a)) + float(len(d))) / float(bigM),5)
     jaccard = round(float(len(a)) / (float(len(a))+float(len(b))+float(len(c))),5)
+
     #clear all arrays
+    del a[:]
+    del b[:]
+    del c[:]
+    del d[:]
+    del e[:]
 
     return [randStatistics, jaccard]
 
 #Compair for pair x1, x2 how apis are clustered in manual and in machine approach
 def comparePair(x1, x2):
+
 
     #Find corresponding pair for x1, x2 in manual clustering
 
@@ -88,3 +91,4 @@ def comparePair(x1, x2):
 
     else:
         e.append([x1,x2])
+
