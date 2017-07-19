@@ -1,66 +1,704 @@
 [
   {
+    "distance": "cosine", 
+    "K": 1, 
     "quality": [
-      0.64663, 
-      0.64663
+      0.21442, 
+      0.21442
     ], 
-    "param2": 2, 
-    "param1": "cosine"
+    "dim": 10
   }, 
   {
+    "distance": "cosine", 
+    "K": 1, 
     "quality": [
-      0.48259, 
-      0.48259
+      0.21442, 
+      0.21442
     ], 
-    "param2": 20, 
-    "param1": "cosine"
+    "dim": 100
   }, 
   {
+    "distance": "cosine", 
+    "K": 1, 
     "quality": [
-      0.36736, 
-      0.36736
+      0.21442, 
+      0.21442
     ], 
-    "param2": 50, 
-    "param1": "cosine"
+    "dim": 500
   }, 
   {
+    "distance": "cosine", 
+    "K": 5, 
     "quality": [
-      0.28112, 
-      0.28112
+      0.78842, 
+      0.4802
     ], 
-    "param2": 500, 
-    "param1": "cosine"
+    "dim": 10
   }, 
   {
+    "distance": "cosine", 
+    "K": 5, 
     "quality": [
-      0.35991, 
-      0.35991
+      0.79528, 
+      0.48768
     ], 
-    "param2": 2, 
-    "param1": "squared_euclidean"
+    "dim": 100
   }, 
   {
+    "distance": "cosine", 
+    "K": 5, 
     "quality": [
-      0.3434, 
-      0.3434
+      0.78946, 
+      0.47879
     ], 
-    "param2": 20, 
-    "param1": "squared_euclidean"
+    "dim": 500
   }, 
   {
+    "distance": "cosine", 
+    "K": 10, 
     "quality": [
-      0.31086, 
-      0.31086
+      0.82616, 
+      0.51812
     ], 
-    "param2": 50, 
-    "param1": "squared_euclidean"
+    "dim": 10
   }, 
   {
+    "distance": "cosine", 
+    "K": 10, 
     "quality": [
-      0.27478, 
-      0.27478
+      0.82143, 
+      0.5116
     ], 
-    "param2": 500, 
-    "param1": "squared_euclidean"
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 10, 
+    "quality": [
+      0.82143, 
+      0.51172
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 20, 
+    "quality": [
+      0.8374, 
+      0.52993
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 20, 
+    "quality": [
+      0.83561, 
+      0.52855
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 20, 
+    "quality": [
+      0.82962, 
+      0.52338
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 50, 
+    "quality": [
+      0.84926, 
+      0.4278
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 50, 
+    "quality": [
+      0.84596, 
+      0.39035
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 50, 
+    "quality": [
+      0.87077, 
+      0.50818
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 100, 
+    "quality": [
+      0.81476, 
+      0.23252
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 100, 
+    "quality": [
+      0.82272, 
+      0.24042
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 100, 
+    "quality": [
+      0.83428, 
+      0.33336
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 300, 
+    "quality": [
+      0.80464, 
+      0.12738
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 300, 
+    "quality": [
+      0.81062, 
+      0.15279
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 300, 
+    "quality": [
+      0.81057, 
+      0.15867
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 500, 
+    "quality": [
+      0.79313, 
+      0.05705
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 500, 
+    "quality": [
+      0.79736, 
+      0.07777
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 500, 
+    "quality": [
+      0.80034, 
+      0.09303
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 700, 
+    "quality": [
+      0.79181, 
+      0.04677
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 700, 
+    "quality": [
+      0.79549, 
+      0.06589
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 700, 
+    "quality": [
+      0.79702, 
+      0.07325
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 1000, 
+    "quality": [
+      0.79029, 
+      0.03451
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 1000, 
+    "quality": [
+      0.79417, 
+      0.05726
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 1000, 
+    "quality": [
+      0.79451, 
+      0.05728
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 2500, 
+    "quality": [
+      0.78733, 
+      0.01343
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 2500, 
+    "quality": [
+      0.78973, 
+      0.02611
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 2500, 
+    "quality": [
+      0.78936, 
+      0.0269
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 5000, 
+    "quality": [
+      0.78666, 
+      0.00708
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 5000, 
+    "quality": [
+      0.78767, 
+      0.01261
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 5000, 
+    "quality": [
+      0.78824, 
+      0.01785
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 7500, 
+    "quality": [
+      0.78634, 
+      0.00495
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 7500, 
+    "quality": [
+      0.78679, 
+      0.00742
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 7500, 
+    "quality": [
+      0.78722, 
+      0.01025
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 1, 
+    "quality": [
+      0.21442, 
+      0.21442
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 1, 
+    "quality": [
+      0.21442, 
+      0.21442
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 1, 
+    "quality": [
+      0.21442, 
+      0.21442
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 5, 
+    "quality": [
+      0.81474, 
+      0.49167
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 5, 
+    "quality": [
+      0.78574, 
+      0.45512
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 5, 
+    "quality": [
+      0.75244, 
+      0.42283
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 10, 
+    "quality": [
+      0.85071, 
+      0.5364
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 10, 
+    "quality": [
+      0.83519, 
+      0.51284
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 10, 
+    "quality": [
+      0.8291, 
+      0.50548
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 20, 
+    "quality": [
+      0.8804, 
+      0.56404
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 20, 
+    "quality": [
+      0.86445, 
+      0.55618
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 20, 
+    "quality": [
+      0.84722, 
+      0.5298
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 50, 
+    "quality": [
+      0.8209, 
+      0.2983
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 50, 
+    "quality": [
+      0.82333, 
+      0.30266
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 50, 
+    "quality": [
+      0.82905, 
+      0.36962
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 100, 
+    "quality": [
+      0.81141, 
+      0.19032
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 100, 
+    "quality": [
+      0.82675, 
+      0.25993
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 100, 
+    "quality": [
+      0.82633, 
+      0.26459
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 300, 
+    "quality": [
+      0.79821, 
+      0.09202
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 300, 
+    "quality": [
+      0.80889, 
+      0.14823
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 300, 
+    "quality": [
+      0.81854, 
+      0.20071
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 500, 
+    "quality": [
+      0.79067, 
+      0.04237
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 500, 
+    "quality": [
+      0.7973, 
+      0.07736
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 500, 
+    "quality": [
+      0.80464, 
+      0.11762
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 700, 
+    "quality": [
+      0.78999, 
+      0.03499
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 700, 
+    "quality": [
+      0.79476, 
+      0.06157
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 700, 
+    "quality": [
+      0.80007, 
+      0.09564
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 1000, 
+    "quality": [
+      0.78886, 
+      0.0266
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 1000, 
+    "quality": [
+      0.79312, 
+      0.04857
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 1000, 
+    "quality": [
+      0.79752, 
+      0.07675
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 2500, 
+    "quality": [
+      0.78727, 
+      0.01303
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 2500, 
+    "quality": [
+      0.78956, 
+      0.02442
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 2500, 
+    "quality": [
+      0.79107, 
+      0.03625
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 5000, 
+    "quality": [
+      0.78666, 
+      0.00714
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 5000, 
+    "quality": [
+      0.78752, 
+      0.01192
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 5000, 
+    "quality": [
+      0.78902, 
+      0.03043
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 7500, 
+    "quality": [
+      0.78638, 
+      0.00509
+    ], 
+    "dim": 10
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 7500, 
+    "quality": [
+      0.78694, 
+      0.00807
+    ], 
+    "dim": 100
+  }, 
+  {
+    "distance": "squared_euclidean", 
+    "K": 7500, 
+    "quality": [
+      0.7882, 
+      0.02269
+    ], 
+    "dim": 500
   }
 ]
