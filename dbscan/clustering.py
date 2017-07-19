@@ -3,6 +3,15 @@ import codecs, json
 from sklearn.cluster import DBSCAN
 
 from sklearn.feature_extraction.text import TfidfVectorizer
+# from pylev import levenshtein
+
+# def mylev(s, u, v):
+#     return levenshtein(s[int(u)], s[int(v)])
+
+def lev_metric(x, y):
+    print x
+    print y
+    return 1
 
 
 def loadDescr(file):
@@ -37,15 +46,15 @@ def tdidf(descr):
 
 print "START DBSCAN"
 
-def dbscan(vect):
-    db = DBSCAN(eps=1.2, min_samples= 2).fit(vect)
+def dbscan(vect, epsi, min_samp):
+    db = DBSCAN(eps=epsi, min_samples= min_samp, metric='jaccard').fit(vect)
     db_labels = db.labels_.tolist()
     return db_labels
 
-def main(file):
+def main(file, epsi, min_samp):
     descr = loadDescr(file)
     vect = tdidf(descr)
-    labels = dbscan(vect)
+    labels = dbscan(vect,epsi, min_samp)
     return labels
 
 
