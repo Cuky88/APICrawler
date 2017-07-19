@@ -54,8 +54,8 @@ def run(params, dataset):
                 ##simple implementation
                 assign = KMeans_simple.start(sklearn_transf, dist, k)
 
-                print "distance:" + dist + " K:" + str(k)
-                print assign
+                print "distance:" + dist + " K:" + str(k) + " dim:"+ str(n)
+
                 print("--- KMeans: %s seconds ---" % (time.time() - start_time))
                 start_time = time.time()
 

@@ -15,7 +15,7 @@ e = []
 
 #return in [0] rand staistics and in [1] jaccard coefficient for input cluster and manual cluster
 def compare(input):
-    print apisManCluster
+    
     apis = []
     for x in range(0, len(input)):
         for y in range(0, len(apisManCluster)):

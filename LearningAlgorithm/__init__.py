@@ -23,8 +23,8 @@ print("\nStart K-Means-Clustering for Dataset " + dataSetName + "...\n")
 #   params[0] => Clustersize, params[1] =>
 
 ##dist, k Clusters, n Dimensions
-#params = [['cosine', 'squared_euclidean'],[1,5,10,20,50,100,300,500,700,1000,2500,5000,7500],[10,100,500]]
-params = [['cosine', 'squared_euclidean'],[300,200],[100]]
+params = [['cosine', 'squared_euclidean'],[1,5,10,20,50,100,300,500,700,1000,2500,5000,7500],[10,100,500]]
+
 
 
 
