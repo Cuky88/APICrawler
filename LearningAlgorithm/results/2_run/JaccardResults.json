@@ -1,0 +1,92 @@
+[
+  {
+    "distance": "cosine", 
+    "K": 420, 
+    "quality": [
+      0.82437, 
+      0.11907
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 440, 
+    "quality": [
+      0.82082, 
+      0.0976
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 460, 
+    "quality": [
+      0.82012, 
+      0.09283
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 480, 
+    "quality": [
+      0.82073, 
+      0.09427
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 500, 
+    "quality": [
+      0.81982, 
+      0.08978
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 520, 
+    "quality": [
+      0.82008, 
+      0.09203
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 540, 
+    "quality": [
+      0.82017, 
+      0.09159
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 560, 
+    "quality": [
+      0.81944, 
+      0.08698
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 580, 
+    "quality": [
+      0.8194, 
+      0.0863
+    ], 
+    "dim": 500
+  }, 
+  {
+    "distance": "cosine", 
+    "K": 600, 
+    "quality": [
+      0.81956, 
+      0.08617
+    ], 
+    "dim": 500
+  }
+]

@@ -29,7 +29,7 @@ print("\nStart K-Means-Clustering for Dataset " + dataSetName + "...\n")
 
 ##dist, k Clusters, n Dimensions
 params = [['cosine', 'squared_euclidean'],[1,5,10,20,50,100,300,500,700,1000,2500,5000,7500],[10,100,250,500]]
-params2 = [['cosine', 'squared_euclidean'],[1,5,10,20,50,100,300,500,700,1000,2500,5000,7500],[10,100,250,500]]
+params2 = [['cosine'],[420,440,460,480,500,520,540,560,580,600],[500]]
 
 if paramsChoose:
     RunKMeans.run(params2, dataSet, delTMP, compJar)
