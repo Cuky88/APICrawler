@@ -5,3 +5,4 @@ test.csv
 DATA_FROM_REMOTE/
 api_docs/zwischenspeicher/
 api_docs/complete_final.json
+conf.json

@@ -17,7 +17,7 @@ def get_urls_from_json():
     lines = []
     cnt = 0
 
-    with open('notinlist_v1.json') as reader:
+    with open('progweb_final_filtered.json') as reader:
         read = json.load(reader)
         for i, obj in enumerate(read):
             dic = {}
@@ -41,6 +41,23 @@ def get_urls_from_json():
 
 class GsearchSpider(scrapy.Spider):
     name = "gsearch"
+
+    custom_settings = {
+        'DOWNLOAD_DELAY': '3',
+        'CONCURRENT_REQUESTS_PER_DOMAIN': '1',
+        'RETRY_TIMES': '0',
+        'PROXY': 'http://127.0.0.1:8888/?noconnect',
+        'API_SCRAPOXY_PASSWORD': 'KDD2017',
+        'WAIT_FOR_START': '50',
+        'DOWNLOADER_MIDDLEWARES': {
+            'scrapoxy.downloadmiddlewares.proxy.ProxyMiddleware': 100,
+            'scrapoxy.downloadmiddlewares.wait.WaitMiddleware': 101,
+            'scrapoxy.downloadmiddlewares.scale.ScaleMiddleware': 102,
+            'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': None,
+            'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
+            'api_docs.middlewares.RandomUserAgentMiddleware': 400,
+        }
+    }
 
     queries = '+%22api+documentation%22+OR+%22api+reference%22+OR+%22documentation%22'
     url = []

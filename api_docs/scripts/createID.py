@@ -1,10 +1,33 @@
 import jsonlines
 import json
 import sys
-from pprint import pprint
+import os
 
 
 def main(argv):
+    print("******* Create unique IDs for APIs in dataset and filter duplicates **********")
+
+    dataSet = input(
+        "Which data set do you want to process?\n  - (1) Programmable Web\n  - (2) Google Crawled Data\n")
+
+    if dataSet == 1:
+        dataSetName = "apispider_results.json"
+        print("You chose (1) Programmable Web, processing " + dataSetName)
+        if not os.path.isfile('./' + dataSetName):
+            print("Error, the file you chose does not exist, yet. Please start the apispider crawler. See Github Readme file!")
+            exit(1)
+        outName = "apispider_results_id.json"
+    elif dataSet == 2:
+        dataSetName = "gsearch_final.json"
+        print("You chose (2) Google Crawled Data, processing " + dataSetName)
+        if not os.path.isfile('./' + dataSetName):
+            print("Error, the file you chose does not exist, yet. Please start the gsearch crawler. See Github Readme file!")
+            exit(1)
+        outName = "gsearch_final_id.json"
+    else:
+        print("Unknown dataset chosen (" + str(dataSet) + ")")
+        exit(1)
+
     lines = []
 
     cnt_name = 0
@@ -12,7 +35,7 @@ def main(argv):
     cnt = 0
 
     #with jsonlines.open('gsearch_final.json') as reader:
-    with open('gsearch_final.json') as reader:
+    with open(dataSetName) as reader:
         read = json.load(reader)
         mem = {}
         #for i, api in enumerate(reader):
@@ -40,7 +63,7 @@ def main(argv):
         #pprint(mem.values())
 
 
-    with open('gsearch_final_filtered.json', mode='w') as writer:
+    with open(outName, mode='w') as writer:
         json.dump(lines, writer, indent=2)
         writer.write('\n')
         #writer.write(lines)
