@@ -1,6 +1,6 @@
 {
     "commander": {
-        "password": "KDD2017"
+        "password": "SET YOU PW HERE"
     },
     "instance": {
         "port": 3128,
@@ -12,8 +12,8 @@
     "providers": {
         "type": "awsec2",
         "awsec2": {
-            "accessKeyId": "AKIAIYWHRKHDK2EBYW5Q",
-            "secretAccessKey": "VQ5yTY8623nQrsZxk437k/iPpkuMymuoJaRGFLx1",
+            "accessKeyId": "SET YOUR ACCESS KEYS HERE",
+            "secretAccessKey": "SET YOUR ACCESS KEYS HERE",
             "region": "eu-west-1",
             "instance": {
                 "InstanceType": "t1.micro",
