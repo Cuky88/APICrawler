@@ -8,22 +8,22 @@ def main(argv):
     print("******* Create unique IDs for APIs in dataset and filter duplicates **********")
 
     dataSet = input(
-        "Which data set do you want to process?\n  - (1) Programmable Web\n  - (2) Google Crawled Data\n")
+        "Which data set do you want to process?\n  - (1) Programmable Web\n")#"  - (2) Google Crawled Data\n")
 
     if dataSet == 1:
-        dataSetName = "apispider_results.json"
+        dataSetName = "apispider_result.json"
         print("You chose (1) Programmable Web, processing " + dataSetName)
         if not os.path.isfile('./' + dataSetName):
             print("Error, the file you chose does not exist, yet. Please start the apispider crawler. See Github Readme file!")
             exit(1)
-        outName = "apispider_results_id.json"
-    elif dataSet == 2:
-        dataSetName = "gsearch_final.json"
-        print("You chose (2) Google Crawled Data, processing " + dataSetName)
-        if not os.path.isfile('./' + dataSetName):
-            print("Error, the file you chose does not exist, yet. Please start the gsearch crawler. See Github Readme file!")
-            exit(1)
-        outName = "gsearch_final_id.json"
+        outName = "apispider_result_id.json"
+    # elif dataSet == 2:
+    #     dataSetName = "gsearch_result.json"
+    #     print("You chose (2) Google Crawled Data, processing " + dataSetName)
+    #     if not os.path.isfile('./' + dataSetName):
+    #         print("Error, the file you chose does not exist, yet. Please start the gsearch crawler. See Github Readme file!")
+    #         exit(1)
+    #     outName = "gsearch_result_id.json"
     else:
         print("Unknown dataset chosen (" + str(dataSet) + ")")
         exit(1)

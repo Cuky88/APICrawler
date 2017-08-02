@@ -10,7 +10,7 @@ from pprint import pprint
 def main(argv):
     lines = []
 
-    with open('apispider_results_id.json') as reader:
+    with open('apispider_result_id.json') as reader:
         read = json.load(reader)
         start_time = time.time()
         for i, obj in enumerate(read):

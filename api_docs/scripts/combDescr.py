@@ -8,7 +8,7 @@ def main(argv):
     full = []
     tmp = []
 
-    with open('apidescr_result_v1.json') as reader:
+    with open('apidescr_result.json') as reader:
         read = json.load(reader)
         for t in read:
             tmp.append(t)

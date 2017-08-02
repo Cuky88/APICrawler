@@ -12,7 +12,7 @@ def main(argv):
         for t in read:
             tmp.append(t)
 
-    with open('apispider_results_id.json') as reader:
+    with open('apispider_result_id.json') as reader:
         read = json.load(reader)
 
         for api in read:

@@ -9,8 +9,8 @@ from w3lib.html import remove_tags, remove_tags_with_content
 from bs4 import BeautifulSoup
 import re
 import json
-import nltk
-from nltk.corpus import stopwords
+#import nltk
+#from nltk.corpus import stopwords
 from scrapy.spidermiddlewares.httperror import HttpError
 from twisted.internet.error import DNSLookupError
 from twisted.internet.error import TimeoutError, TCPTimedOutError
@@ -21,7 +21,7 @@ def get_urls_from_json():
     with_link = []
     no_link = []
 
-    with open('gsearch_final_filtered.json') as reader:
+    with open('gsearch_results.json') as reader:
         read = json.load(reader)
         for obj in read:
             if 'link1' in obj:
@@ -50,11 +50,11 @@ class DescrSpider(scrapy.Spider):
         'AUTOTHROTTLE_ENABLED': 'False',
     }
 
-    nltk.data.path.append('/home/cuky/Devel/kdd2017/Crawler/api_docs/nltk')
+    #nltk.data.path.append('/home/cuky/Devel/kdd2017/Crawler/api_docs/nltk')
     # for VM
     #nltk.data.path.append('/home/kdd/kdd/APICrawler/api_docs/nltk')
-    cachedStopWords = set(stopwords.words("english"))
-    cachedStopWords.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{', '}'])
+    #cachedStopWords = set(stopwords.words("english"))
+    #cachedStopWords.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{', '}'])
 
     def __init__(self, *args, **kwargs):
         super(DescrSpider, self).__init__(*args, **kwargs)
@@ -191,7 +191,8 @@ class DescrSpider(scrapy.Spider):
         return text.strip().lower()
 
     def remove_stopword(self, text):
-        return ' '.join([word for word in text.split() if word not in self.cachedStopWords])
+        #return ' '.join([word for word in text.split() if word not in self.cachedStopWords])
+        return text
 
     def err_handler(self, failure, meta):
         loader = meta['loader']
