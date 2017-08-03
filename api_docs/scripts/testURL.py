@@ -1,3 +1,8 @@
+'''
+This script tests the URL from Progweb, if they are reachable or not and saves the results in a json file with the error code
+See Wiki on Github
+'''
+
 import jsonlines
 import json
 import sys

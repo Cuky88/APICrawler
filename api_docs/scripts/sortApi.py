@@ -1,3 +1,7 @@
+'''
+This script sorts the json files according the tag key. But like randsel.py, it was not used.
+'''
+
 from random import randint
 import json
 

@@ -1,3 +1,7 @@
+'''
+Since the Learning Algorithm works on the preprocessed descriptions, we need to bring back the original descriptions (human readable)
+'''
+
 import json
 import sys
 import re
@@ -18,13 +22,13 @@ def fullDescr(file1, file2):
                 if a['id'] == b['id']:
                     descr.append({'api_name': a['api_name'], 'id': a['id'], 'cluster_id': a['cluster_id'], 'progweb_descr': b['progweb_descr']})
 
-    with open('cosine_500_500_descr.json', mode='w') as writer:
+    with open('../results/cosine_500_500_descr.json', mode='w') as writer:
         json.dump(descr, writer, indent=2)
         writer.write('\n')
 
 
 def main(argv):
-    file1 = 'final_results/1_run/kmeansresults/cosine_500_500.json'
+    file1 = '../results/kmeansresults/cosine_500_500.json'
     file2 = '../../api_docs/progweb_final_filtered.json'
 
     fullDescr(file1, file2)

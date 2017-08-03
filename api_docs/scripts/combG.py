@@ -1,3 +1,8 @@
+'''
+This script combines the different Google data json to one file. It needs to be started after you've run gsearch crawler
+with multiple interruptions.
+'''
+
 import json
 import jsonlines
 import sys

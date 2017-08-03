@@ -1,16 +1,19 @@
+'''
+This file checks the average cluster sizes of the final KMeans clusters and exports them in json and in csv.
+'''
+
 import json
 import sys
 import csv
 
 
 def main(argv):
-    leng = 0
     cnt = 0
     clusters = []
     api = []
 
     #with open('BigClusterApiStats.json') as reader:
-    with open('../../../LearningAlgorithm/results/cosine_500_500_descr.json') as reader:
+    with open('../results/cosine_500_500_descr.json') as reader:
         read = json.load(reader)
         for t in read:
             cnt += 1

@@ -1,3 +1,8 @@
+'''
+This script combines the allready combined Google and Progweb data with the crawled documentation sites.
+See Wiki on Github
+'''
+
 import json
 import sys
 from pprint import pprint

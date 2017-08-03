@@ -1,3 +1,8 @@
+'''
+This script combines the output from Google crawled data with the Progweb data and saves it in a tmp json.
+See Wiki on Github
+'''
+
 import json
 import sys
 from pprint import pprint

@@ -1,3 +1,7 @@
+'''
+This script counts the APIs in a given json file
+'''
+
 import jsonlines
 import json
 import sys

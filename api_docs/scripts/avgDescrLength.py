@@ -1,3 +1,6 @@
+'''
+This script counts the average length of the descriptions.
+'''
 import json
 import sys
 import re

@@ -1,3 +1,8 @@
+'''
+This script picks 100 random APIs. It was meant to be used for the manual clustering, but was not used at all. It will still remain
+in case it could be useful at some time.
+'''
+
 from random import randint
 import json
 

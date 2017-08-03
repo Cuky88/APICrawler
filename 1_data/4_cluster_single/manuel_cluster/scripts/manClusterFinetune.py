@@ -1,3 +1,11 @@
+'''
+This files is also checking the manual clusters and looking for cluster_id, which might be assigned multiple times in
+different files. This shouldn't be the case. If so, checkDup will print out those clusters, which need to be fixed manually.
+This file also gives some information about the cluster sizes and number of API per clusters. Clusters with less then
+5 APIs will be discarded. Those to be deleted cluster_id are written in IDToDelete.json.
+'''
+
+
 import json
 import sys
 
@@ -39,7 +47,7 @@ def main(argv):
 
     cnt = 0
 
-    with open('31-Financial_clusters.json') as reader:
+    with open('../31-Financial_clusters.json') as reader:
         read = json.load(reader)
         for t in read:
             cnt += 1
@@ -53,7 +61,7 @@ def main(argv):
             cluster_api.append(dic)
             clusters.append(t['cluster_id'])
 
-    with open('32-Mapping_clusters.json') as reader:
+    with open('../32-Mapping_clusters.json') as reader:
         read = json.load(reader)
         for t in read:
             map.append(t['cluster_id'])
@@ -66,7 +74,7 @@ def main(argv):
             cluster_api.append(dic)
             clusters.append(t['cluster_id'])
 
-    with open('113-Payments_clusters.json') as reader:
+    with open('../113-Payments_clusters.json') as reader:
         read = json.load(reader)
         for t in read:
             pay.append(t['cluster_id'])
@@ -79,7 +87,7 @@ def main(argv):
             cluster_api.append(dic)
             clusters.append(t['cluster_id'])
 
-    with open('399-eCommerce_clusters_final.json') as reader:
+    with open('../399-eCommerce_clusters_final.json') as reader:
         read = json.load(reader)
         for t in read:
             eco.append(t['cluster_id'])
@@ -92,7 +100,7 @@ def main(argv):
             cluster_api.append(dic)
             clusters.append(t['cluster_id'])
 
-    with open('529-Messaging_clusters.json') as reader:
+    with open('../529-Messaging_clusters.json') as reader:
         read = json.load(reader)
         for t in read:
             if 'cluster_id' in t:
@@ -109,7 +117,7 @@ def main(argv):
                 print("Missing:" + str(t['id']))
 
     # check for duplicate cluster ids in different files
-    # checkDup(fin, map, pay, eco, mes)
+    checkDup(fin, map, pay, eco, mes)
 
     clusters = list(set(clusters))
 
@@ -155,15 +163,15 @@ def main(argv):
 
     #print(big_cluster)
 
-    with open(file, mode='w') as writer:
+    with open('../'+file, mode='w') as writer:
         json.dump(total, writer, indent=2)
         writer.write('\n')
 
-    with open(file2, mode='w') as writer:
+    with open('../'+file2, mode='w') as writer:
         json.dump(big_cluster, writer, indent=2)
         writer.write('\n')
 
-    with open(file3, mode='w') as writer:
+    with open('../'+file3, mode='w') as writer:
         json.dump(idToDelete, writer, indent=2)
         writer.write('\n')
 

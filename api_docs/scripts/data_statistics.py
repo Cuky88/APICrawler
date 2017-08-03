@@ -1,3 +1,7 @@
+'''
+This script gives a overview of the crawled data and some statistics. It needs to be adjusted if you want to run it, e.g. data reading etc.
+'''
+
 import jsonlines
 import json
 import sys

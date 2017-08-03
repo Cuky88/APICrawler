@@ -1,3 +1,8 @@
+'''
+This script checks the key-value population in the crawled json files and adds dummy values if a key is not available.
+See Wiki on Github
+'''
+
 import json
 import sys
 import unicodedata

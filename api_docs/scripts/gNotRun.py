@@ -1,3 +1,14 @@
+'''
+This script is only needed, when the Google crawler is disrupted due to any reason. The crawled data from Google will be
+saved anyway. This data will be loaded here and will be compared with the url_test.json. Every API in url_test.json which
+is not in the Google crawled set, will be written in a tmp file notinlist_v1.json. This json needs to be imported by the
+gsearch crawler and used for further crawling. If the gsearch crawler is interrupted several times, then this procedure
+needs to be done multiple times. Each time, you have to add the Google crawled partial data into this script as input.
+At the end, you should not get any APIs after the comparison, when every API was crawled.
+
+You can use the combG.py to combine the partial data from Google.
+'''
+
 import json
 import jsonlines
 import sys
@@ -19,7 +30,7 @@ def main(argv):
     print(len(title))
 
 
-    with open('url_test_15877.json') as reader:
+    with open('url_test.json') as reader:
         read = json.load(reader)
         for t in read:
             dic = {}
@@ -32,7 +43,7 @@ def main(argv):
                 notinlist.append(dic)
 
 
-    with open('notinlist_v2.json', 'w') as outfile:
+    with open('notinlist_v1.json', 'w') as outfile:
         print(len(title))
         json.dump(notinlist, outfile, indent=2)
         outfile.write('\n')

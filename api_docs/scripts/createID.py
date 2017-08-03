@@ -1,3 +1,8 @@
+'''
+This script creates unique IDs for crawled Progweb data.
+See Wiki on Github
+'''
+
 import jsonlines
 import json
 import sys
