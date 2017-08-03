@@ -5,13 +5,13 @@ by Selcuk Aklanoglu, Jan-Peter Schmidt, Caroline Dieterich, Han Che and Marcel R
 ## APICrawler, Text Mining & Clustering
 This document is describing the software and tools used for our work “From textual to structured Web API Descriptions” in the course of the seminar “Knowledge Discovery and Data Mining 2017” at KIT. It is also a step-by-step guidance how to setup and use the software.
 
-## Download and Installation
+## 1. Download and Installation
 1. To be able to use the software, you need python 2.7. We also highly recommend to setup [virtualenv](https://virtualenv.pypa.io/en/stable/), since many packages need to be installed. 
 2. Clone the private repository `git clone git@github.com:Cuky88/APICrawler.git` and activate your virtualenv. 
 3. Install all the needed packages with the command `pip install >> requierements.txt` ODER SO ÄHNLICH! <br><br>
 **Important:** Tensorflow with GPU version will be installed for the K-Means part. Make sure, that you have a graphics card and CUDA/cudnn is installed!
 
-## Setting up and using the Crawler
+## 2. Setting up and using the Crawler
 The crawler is divided in 3 parts and multi steps, one for [Programmable Web](https://www.programmableweb.com/) (abbr. Progweb), one for crawling Google search results and the last one for crawling the actual API documentation. The crawler files are all located in `APICrawler/api_docs/api_docs/spiders/`. Your working directory should be `APICrawler/api_docs/`.<br><br>
 1. [**api_spider.py**](api_docs/api_docs/spiders/api_spider.py) for crawling Progweb:<br>
     **a) Change your working directory to folder `APICrawler/api_docs/`**<br>
@@ -118,6 +118,60 @@ Google is very effective in blocking the crawler. One solution to overcome this 
     
 **That's it! Now you should have 3 datasets, the linked Web API, crawled Progweb and the API documentation sites from Google.**
 
+## 3. Preprocessing
+This is fairly straight forward. This part of the code will do some text processing like lowercase conversion, punctuation cleaning, stopwords removal and lemmatizing. <br><br>
+
+TODO: Describe how NLTK needs to be adjusted!!
+
+**Change your working directory to folder `APICrawler/_preprocessing/`** and run the script [runPreprocessing.py](_preprocessing/runPreprocessing.py) in the command line with `python runPreprocessing.py`. At the prompt, choose (1) for the Progweb dataset. It will be loaded out of the `APICrawler/api_docs/` folder. After finishing, the preprocessed file will be saved in `APICrawler/1_data/2_preprocessed/`
+
+## 4. Manual Cluster Creation
+1. **Change your working directory to folder `APICrawler/1_data/3_tag_clustered/`**
+
+2. Start the script `tag_cluster.js` in `APICrawler/1_data/3_tag_clustered/` with the commaned XXXXXXXX.<br>
+
+3. This will generate the file `tag-clustered-result.json` in the same folder.
+
+4. Start the script `cluster_single.js` in `APICrawler/1_data/4_cluster_single/` with the command XXXXXXXX. This will create a subdirectory called `singles` with one json file for every Progweb tag.
+
+5. Based on those files, the manual clustering was done as described in the [Wiki 5. How To: Manual Cluster Creation](../../wiki/5.-How-To:-Manual-Cluster-Creation)
+
+6. Those manually created cluster json files need to be moved to the folder `APICrawler/1_data/4_cluster_single/manuel_cluster/`
+
+7. If you did not manually cluster every API in those file, for example, because there too many to cluster them, than you need to filter out the unclustered APIs. For this reason, you can use the script [filterApis.py](1_data/4_cluster_single/manuel_cluster/scripts/filterApis.py) in the folder `APICrawler/1_data/4_cluster_single/manuel_cluster/scripts/`. However you need to adjust the [line 15](1_data/4_cluster_single/manuel_cluster/scripts/filterApis.py#L15) and [line 31](1_data/4_cluster_single/manuel_cluster/scripts/filterApis.py#L31) to the actual name of the json file, which should be filtered. You need to this for every manually clustered file. Afterwards, delete or move the first manually but not completely clustered file out of the folder.
+
+8. Now some cleaning up of the manual clusters is need. We check the manual clusters to see, if there are someIf you did not manually cluster every API in those file, for example, because there too many to cluster them, than you need to filter out the unclustered APIs. For this reason, you can use the script [filterApis.py](1_data/4_cluster_single/manuel_cluster/scripts/filterApis.py) in the folder `APICrawler/1_data/4_cluster_single/manuel_cluster/scripts/`. However you need to adjust the [line 15](1_data/4_cluster_single/manuel_cluster/scripts/filterApis.py#L15) and [line 31](1_data/4_cluster_single/manuel_cluster/scripts/filterApis.py#L31) to the actual name of the json file, which should be filtered. You need to this for every manually clustered file. Afterwards, delete or move the first manually but not completely clustered file out of the folder.
+
+9. Afterwards you have to start [manClustersFinetune.py](1_data/4_cluster_single/manuel_cluster/scripts/manClustersFinetune.py) in `APICrawler/1_data/4_cluster_single/manuel_cluster/scripts/` **AFTER** you adjusted the json reading parts from [line 50 to 117](1_data/4_cluster_single/manuel_cluster/scripts/manClustersFinetune.py#L50). This will check the sizes and number of manual clusters, which have less than 5 APIs. Thos cluster ids will be save in the same directory in the file `IDToDelete.json`. This will be important in the following step, when you load the manual clusters for the KMeans comparison. Those cluster ids will be removed before the comparison starts.
+
+TODO: HAN BITTE BESCHREIBEN WIE DIE .js DATEIN AUSGEFÜHRT WERDEN KÖNNEN!
+
+## 5. Learning and KMeans Algorithm
+This is the part, where everything comed together.
+1. **Change your working directory to folder `APICrawler/LearningAlgorithm/`**
+
+2.  First, you need to check the file paths to the json files.<br>
+    a) The file [APIDescrReader.py](LearningAlgorithm/APIDescrReader.py) needs to be given the correct path to the Progweb data on [line 13](LearningAlgorithm/APIDescrReader.py#L13). If you did not change anything in the preprocessing step, then you do not need to adjust it.<br>
+    b) In file [Reader.py](LearningAlgorithm/Reader.py) change the [lines 21 to 27](LearningAlgorithm/Reader.py#L21) to the correct path of the manual clustered json files.
+
+3. Run `python __init__.py` and choose (1) for the Progweb preprocessed dataset, (yes) for /tmp folder deletion and (yes) for invoking the Comparator.jar and (no) for params2 list (will be needed later). The dataset will be automatically loaded from the folders in step 4. It will run the **Jaccard Coefficient** defined in [Comparator.py](LearningAlgorithm/Comparator.py) and also invoke the [Comparator.jar](LearningAlgorithm/Comparator.jar), which will calculate presicion and recall.
+
+4. Results will be saved in directory `APICrawler/LearningAlgorithm/results`:<br>
+   
+    | File  | Description |
+    | ------------- | ------------- |
+    | finalResults.csv  | It contains the results of the clustering and the precision and recall values for every parameter combinations  |
+    | JaccardResults.json  | Contains the parameters and the according Jaccard Coefficients  |
+    | manualClusters.json  | Contains all the manually created clusters with the ID of inherent API  |
+    | kmeansresults/  | Contains several files; each filename is a combination of distance metric_K_Dimension of LSA and inherents the KMeans cllusters with additional API data  |
+
+5. At the current state, [finalResults.csv](LearningAlgorithm/results/finalResults.csv) needs to be checked manually. Youhave to choose those parameter combinations, which giv the best precision and recall values. We picked up the 5 best results.
+
+6. Then look into [JaccardResults.json](LearningAlgorithm/results/JaccardResults.json) and get the according Jaccard Coefficients. Based on that, we choose the best clustering. In the case of the paper, we chose `cosine_500_500.json`, since the distance metric `cosine`, the number of clusters k `500` and the LSA dimension `500` gave the best results.
+
+7. We need to do a last processing step. Since the Learning Algorithm works on the preprocessed descriptions, we need to bring back the original descriptions (human readable). Edit the file [changeDescr.py](LearningAlgorithm/scripts/changeDescr.py) in `APICrawler/LearningAlgorithm/scripts/` and adjust the [line 25 and 31](LearningAlgorithm/scripts/changeDescr.py#L25) according to the file name of the paramters you chose to go with, e.g. `cosine_500_500.json` and run the script within the scripts folder with `python changeDescr.py`. This file will be uploaded to the [webserver](http://webapi.bplaced.net) and will be used to manually evaluate the KMeans clusters.
+
+8. If you want to, you can also run the script [avgClusterSize.py](LearningAlgorithm/scripts/avgClusterSize.py). but again, you must adjust the file reading part, to read the correct json file. This script will create another json and csv file, which can be used to visualize the sizes of the KMeans clusters.
 
 
 ## Final dataset
