@@ -21,7 +21,7 @@ def get_urls_from_json():
     with_link = []
     no_link = []
 
-    with open('gsearch_results.json') as reader:
+    with open('gsearch_result_id.json') as reader:
         read = json.load(reader)
         for obj in read:
             if 'link1' in obj:

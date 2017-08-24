@@ -13,7 +13,7 @@ def main(argv):
     print("******* Create unique IDs for APIs in dataset and filter duplicates **********")
 
     dataSet = input(
-        "Which data set do you want to process?\n  - (1) Programmable Web\n")#"  - (2) Google Crawled Data\n")
+        "Which data set do you want to process?\n  - (1) Programmable Web\n  - (2) Google Crawled Data\n")
 
     if dataSet == 1:
         dataSetName = "apispider_result.json"
@@ -22,13 +22,13 @@ def main(argv):
             print("Error, the file you chose does not exist, yet. Please start the apispider crawler. See Github Readme file!")
             exit(1)
         outName = "apispider_result_id.json"
-    # elif dataSet == 2:
-    #     dataSetName = "gsearch_result.json"
-    #     print("You chose (2) Google Crawled Data, processing " + dataSetName)
-    #     if not os.path.isfile('./' + dataSetName):
-    #         print("Error, the file you chose does not exist, yet. Please start the gsearch crawler. See Github Readme file!")
-    #         exit(1)
-    #     outName = "gsearch_result_id.json"
+    elif dataSet == 2:
+        dataSetName = "gsearch_result.json"
+        print("You chose (2) Google Crawled Data, processing " + dataSetName)
+        if not os.path.isfile('./' + dataSetName):
+            print("Error, the file you chose does not exist, yet. Please start the gsearch crawler. See Github Readme file!")
+            exit(1)
+        outName = "gsearch_result_id.json"
     else:
         print("Unknown dataset chosen (" + str(dataSet) + ")")
         exit(1)
@@ -39,12 +39,12 @@ def main(argv):
     cnt_title = 0
     cnt = 0
 
-    #with jsonlines.open('gsearch_final.json') as reader:
-    with open(dataSetName) as reader:
-        read = json.load(reader)
+    with jsonlines.open(dataSetName) as reader:
+    #with open(dataSetName) as reader:
+        #read = json.load(reader)
         mem = {}
-        #for i, api in enumerate(reader):
-        for i, api in enumerate(read):
+        for i, api in enumerate(reader):
+        #for i, api in enumerate(read):
             cnt = i
             if 'progweb_title' in api:
                 cnt_name += 1

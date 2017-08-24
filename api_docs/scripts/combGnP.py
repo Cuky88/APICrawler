@@ -13,7 +13,7 @@ def main(argv):
     tmp = []
 
     # add information from google crawling to progweb dataset
-    with open('gsearch_result.json') as reader:
+    with open('gsearch_result_id.json') as reader:
         read = json.load(reader)
         for t in read:
             tmp.append(t)
