@@ -9,15 +9,16 @@ This document is describing the software and tools used for our work “From tex
 Please refere to the [Wiki](../../wiki/1.Start) and make sure, that you read everything carefully. Every step and every other solutions we tried, are described in there.
 
 ## Final dataset
-The final dataset with every information from Programmable Web, the URL checking, links found from Google and the corresponding website contents can be found [here](https://drive.google.com/open?id=0B6pePF5DAf_hU0NhN3BpSmN1Tlk).
-<br><br>
-In the api_docs folder is also a file called progweb_final_filtered.json, which only holds the data from Programmable Web with the URL checking results. This is the final version from Programmable Web. You can also download it from [here](https://drive.google.com/open?id=0B6pePF5DAf_hZkhxWVZVcjFPMEU).
+If you don't want to run the crawlers, you can download our crawled data from the following links: (they are too big to be uploaded here!)<br>
 
-## Manually Clustered API
-The manual clustered APIs are located [here](1_data/4_cluster_single/manuel_cluster/).
-
-## Preprocessed Data
-The preprocessed data is located [here](1_data/).
+ | Dataset  | Description |
+    | ------------- | ------------- |
+    | [linked_data.json](https://drive.google.com/file/d/0B6pePF5DAf_hU0I0WE9uOEtpQkE/view?usp=sharing)  | Linked Web API dataset converted in JSON format  |
+    | [progweb_final_filtered.json](https://drive.google.com/open?id=0B6pePF5DAf_hZkhxWVZVcjFPMEU)  | Crawled and filtered data from Progweb  |
+    | [complete_final.json](https://drive.google.com/open?id=0B6pePF5DAf_hU0NhN3BpSmN1Tlk)  | Crawled, filtered data from Google, merged with Progweb  |
+<br>
+**Place the files in `APICrawler/api_docs/`.**<br>
+If you want to use the linked web api dataset, then you need to edit the code, since in that json, some keys are missing. Since we did not work on that dataset, we didn't put much effort in this.
 
 ## Live Demo
 You can view the live demo on this [website](http://webapi.bplaced.net).
