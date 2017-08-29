@@ -13,8 +13,7 @@
 \usepackage{algorithmic}
 \usepackage{color}
 \usepackage{amssymb}
-
-
+\usepackage{varwidth}
 
 \hyphenation{op-tical net-works semi-conduc-tor}
 
@@ -174,7 +173,15 @@ For the correlation matrix we tried to implement the algorithm introduced by Jia
  \\ \textit{Procedure} :
 \FOR {$\forall s_1 \in API$}
 \FOR {$\forall s_2 \in API$} 
-\STATE \begin{equation*}{Sim}_{con}\left(s_1,s_2\right)=\frac{\sum_{\epsilon\ {con}_{s1}}\sum_{w_j\epsilon\ {con}_{s2}}{1-NGD(w_i,\ w_j)}}{\left|{con}_{s1}\right|\times\left|{con}_{s2}\right|} \end{equation*}
+\STATE 
+\parbox[c][1cm]{1\linewidth}{
+$Sim_{con}(s_1,s_2)=$
+}
+\parbox[c][1cm]{1\linewidth}{
+$\dfrac{\sum_{\epsilon\ {con}_{s1}}\sum_{w_j\epsilon\ {con}_{s2}}{1-NGD(w_i,\ w_j)}}{\left|{con}_{s1}\right|\times\left|{con}_{s2}\right|}$
+}
+
+
  \STATE Add ${Sim}_{con}\left(s_1,s_2\right)$ to the correlation matrix 
 \ENDFOR
 \ENDFOR
@@ -197,11 +204,7 @@ The main advantage is that the authors already tried to solve our use-case with 
 To determine the normalized google distance, which is crucial for the determination of our results, we had to crawl google for each word combination in our word-vectors. Because we lacked the time we tried to use google ngram. Google ngram is a database with scanned books. It also provides command lines to build correlation-matrixes for given words, which would make it possible to implement the normalized google distance. Unfortunately, the current version is from 2012 which resulted in an insuperable problem. Words like “instagram” which were used in our word vectors and were crucial for interpretable results were not included in google ngrams. Because of this we did not use the implementation of this paper in our further project.
 
 \subsection{Density-Based Clustering}
-<<<<<<< Updated upstream
-The first clustering algorithm we tried out was the density-based spatial clustering of applications with noise (DBSCAN). DBSCAN\cite{kanungo2002efficient} is a density based clustering algorithm grouping together closely packed data-points with a given number of neighbours required for a point to be dense (minPts) and a maximum distance between two neighbours in a cluster $(\epsilon)$. 
-=======
-The first clustering algorithm we tried out was the density-based spatial clustering of applications with noise (DBSCAN). DBSCAN is a density based clustering algorithm grouping together closely packed data-points with a given number of neighbours required for a point to be dense ($minPts$) and a maximum distance between two neighbours in a cluster $(\epsilon)$ (Algorithm \ref{alg:algo2}). 
->>>>>>> Stashed changes
+The first clustering algorithm we tried out was the density-based spatial clustering of applications with noise (DBSCAN). DBSCAN\cite{kanungo2002efficient} is a density based clustering algorithm grouping together closely packed data-points with a given number of neighbours required for a point to be dense ($minPts$) and a maximum distance between two neighbours in a cluster $(\epsilon)$ (Algorithm \ref{alg:algo2}). 
 
 \begin{algorithm}[H]
  \caption{Density-Based Clustering}
@@ -214,11 +217,8 @@ neighbours in a cluster, \newline word-vectors of the APIs
  \ENSURE  Clusters with associated APIs
  \\ \textit{Procedure}:
   \STATE Arbitrarily choose an initial API $s_1$
-<<<<<<< Updated upstream
  \STATE 
-=======
- \STATE Mark $s_1$ and calculate the number of neighbours N in the distance ε
->>>>>>> Stashed changes
+
 %...
 % Das musst du irgendwie noch geschickter darstellen
  \end{algorithmic}
@@ -229,15 +229,8 @@ Another advantage is that there is no fixed number of clusters because this will
 The decisive disadvantage is that only the distance between two neighbours in a cluster are considered in the algorithm. Resulting in an unknown width of the clusters. This means that two completely different APIs could end up in the same cluster because there is a linking chain of APIs between them. With this problem there was no assurance that the algorithm produces a logical result for our use-case.
 Another problem occurred during the execution of our implementation. Given a set of 3000 APIs, number of neighbours required for a API to be consider dense of $minPts = 2$ and a $ε = 1,2$ our algorithm considered half of these APIs noise and the other half was put into clusters with an average number of seven APIs. The input can be interpreted that there have to be one other API in a distance of 1,2 around a given API. This means our input had to be very vague for any results. Because of this and the wrong assignment of APIs to the noise category we did not use DBSCAN for further implementation.
 
-\vspace{-12mm}
-
 \subsection{K-Means Clustering}
-<<<<<<< Updated upstream
-The clustering algorithm we used for our final implementation is k-means, one of the most widely used clustering algorithm. For a given set of data-points in a n-dimensional space Rn and an integer k the algorithm determines k points, called centres, minimizing the sum of the mean square distance from the data points to their nearest centre. We are using the k-means adaptation of the Lloyed-algorithm described in Algorithm 3\cite{kanungo2002efficient}.
-=======
-
-The clustering algorithm we used for our final implementation is K-Means, one of the most widely used clustering algorithm. For a given set of data-points in a n-dimensional space R\textsuperscript{n} and an integer $k$ the algorithm determines $k$ points, called centres, minimizing the sum of the mean square distance from the data points to their nearest centre. We are using the K-Means adaptation of the Lloyed-algorithm described in Algorithm \ref{Algorithm 3}.
->>>>>>> Stashed changes
+The clustering algorithm we used for our final implementation is K-Means, one of the most widely used clustering algorithm. For a given set of data-points in a n-dimensional space R\textsuperscript{n} and an integer $k$ the algorithm determines $k$ points, called centres, minimizing the sum of the mean square distance from the data points to their nearest centre. We are using the K-Means adaptation of the Lloyed-algorithm described in Algorithm \ref{Algorithm 3}\cite{kanungo2002efficient}.
 
 \begin{algorithm}[H]
  \caption{K-Means Algorithm}
