@@ -13,6 +13,7 @@
 \usepackage{algorithm}
 \usepackage{algorithmic}
 \usepackage{color}
+\usepackage{amssymb}
 
 
 \hyphenation{op-tical net-works semi-conduc-tor}
@@ -34,9 +35,9 @@
         Han~Che,
         Caroline~Dieterich,
         Marcel~Ruoff,
-        Jan-Peterl~Schmidt  \\
+        Jan-Peter~Schmidt  \\
 Karlsruhe Institute of Technology \\
-Sebastian~Baader \\
+Sebastian~Bader \\
 Department Applied Informatics and  Formal Description Methods (AIFB)  \\
 Karlsruhe Institute of Technology
 
@@ -94,18 +95,24 @@ For our research paper, we investigate one the basic requirements for machines t
 %\piccaption{Amount of working links in Programmable Web} 
 %\parpic[r]{\includegraphics[width=1.5in]{img/pie.png}} 
 Prior to our research and development, we looked for suitable datasets with good quality. There was not much research done in this field, therefore we had to look for different alternatives, which will be described in the following Sections. Section II.A describes the Linked Web API dataset and the issues. Section II.B deals with the dataset crawled from Programmable Web  \footnote[1]{https://www.programmableweb.com} and Section II.C shows an alternative way to get data from Google.
-\begin{figure}[!t]
+
+\subsection{Linked Web API Dataset}
+Starting point was the Linked Web API dataset \cite{dojchinovskilinked} with 9.850 APIs. Besides short descriptions of the API, it inherits also semantic annotations and links between different attributes like title, tags and links to websites. For our purpose only the descriptions were relevant. The first inspection shows, that the descriptions were too short. Since we want to cluster the APIs on similarity based on their descriptions, those were crucial. First solution was to crawl the website of the API. This seemed to be easily done, since the dataset also had a link to the API documentation website. When checking the links, we found out that 78 \% (Fig. 2) of the links were missing. From the remaining links only 9 \% were working. We tried to fix the rest of the links by deleting path and subdomain from the link. This slightly increased the amount of usable links. Overall the data quality which is achieved with this approach can be considered insufficient. A lot of the links do not point to the actual API description either because they are outdated or because the fixing approach just led us to a general page with often little connection to the API description.
+\begin{figure}[h]
+\centering
+\includegraphics[width= 3.5in]{img/fig2.png}
+\caption{Amount of working links in the Linked Data API Dataset}
+\label{fig_sim}
+\end{figure}
+
+\subsection{Programmable Web Dataset}
+Another approach to get usable data was, to crawl Programmable Web with over 15.800 APIs. Therefore, we constructed a crawler with the Scrapy Framework \footnote[2]{https://scrapy.org} to crawl all the data. The API descriptions from Programmable Web have an averege length of 70 words, which we assumed to be not enough. We examined the linkts to the API documentation sites, to see if we can crawl them, too. From the 15.800 APIs, about 32 \% (Fig. 2) were not working. When we investigated the links further, we found out, that approximately 30 to 45 \% of the links redirect to a subpages like  main, authentication or payment pages. This was the same issue like with the Linked Web API dataset.
+\begin{figure}[h]
 \centering
 \includegraphics[width= 2in]{img/pie.png}
 \caption{Amount of working links in Programmable Web}
 \label{fig_sim}
 \end{figure}
-
-\subsection{Linked Web API Dataset}
-Starting point was the Linked Web API dataset \cite{dojchinovskilinked} with 9.850 APIs. Besides short descriptions of the API, it inherits also semantic annotations and links between different attributes like title, tags and links to websites. For our purpose only the descriptions were relevant. The first inspection shows, that the descriptions were too short. Since we want to cluster the APIs on similarity based on their descriptions, those were crucial. First solution was to crawl the website of the API. This seemed to be easily done, since the dataset also had a link to the API documentation website. When checking the links, we found out that 78 \% (Fig. 1) of the links were missing. The remaining 1.500 links where leading to any subpages, but not to the actual API documentation. Therefore, crawling those sites would result in a poor data quality, since we have no control over which textual content would be crawled.
-
-\subsection{Programmable Web Dataset}
-Another approach to get usable data was, to crawl Programmable Web with over 15.800 APIs. Therefore, we constructed a crawler with the Scrapy Framework \footnote[2]{https://scrapy.org} to crawl all the data. The API descriptions from Programmable Web have an averege length of 70 words, which we assumed to be not enough. We examined the linkts to the API documentation sites, to see if we can crawl them, too. From the 15.800 APIs, about 32 \% (Fig. 2) were not working. When we investigated the links further, we found out, that approximately 30 to 45 \% of the links redirect to a subpages like  main, authentication or payment pages. This was the same issue like with the Linked Web API dataset.
 
 \subsection{Google Crawled Dataset}
 Since the links from the datasets in Section II.A and II.B were not usefull, we decided to crawl a complete new dataset from Google. We constructed a search query out of the API names with additional filters, shown in (1).
@@ -172,10 +179,10 @@ For the correlation matrix we tried to implement the algorithm introduced by Jia
  \end{algorithm}
 
 The main advantage is that the authors already tried to solve our use-case with their algorithm and demonstrated that it could work. They also used the same pre-processing techniques to determine the word-vectors. This means we had the same initial situation.
-To determine the normalized google distance, which is crucial for the determination of our results, we had to crawl google for each word combination in our word-vectors. Because we lacked the time we tried to use google ngram. Google ngram is a database with scanned books. It also provides command lines to build correlation-matrixes for given words, which would make it possible to implement the normalized google distance. Unfortunately, the current version is from 2012 which resulted in an insuperable problem. Words like “instagram” which were used in our word vectors and were crucial for interpretable results weren’t included in google ngrams. Because of this we didn’t used the implementation of this paper in our further project.
+To determine the normalized google distance, which is crucial for the determination of our results, we had to crawl google for each word combination in our word-vectors. Because we lacked the time we tried to use google ngram. Google ngram is a database with scanned books. It also provides command lines to build correlation-matrixes for given words, which would make it possible to implement the normalized google distance. Unfortunately, the current version is from 2012 which resulted in an insuperable problem. Words like “instagram” which were used in our word vectors and were crucial for interpretable results were not included in google ngrams. Because of this we did not use the implementation of this paper in our further project.
 
 \subsection{Density-Based Clustering}
-The first clustering algorithm we tried out was the density-based spatial clustering of applications with noise (DBSCAN). DBSCAN is a density based clustering algorithm grouping together closely packed data-points with a given number of neighbours required for a point to be dense ( minPts ) and a maximum distance between two neighbours in a cluster ( ε ). 
+The first clustering algorithm we tried out was the density-based spatial clustering of applications with noise (DBSCAN). DBSCAN is a density based clustering algorithm grouping together closely packed data-points with a given number of neighbours required for a point to be dense (minPts) and a maximum distance between two neighbours in a cluster $(\epsilon)$. 
 
 \begin{algorithm}[H]
  \caption{Algorithm 2}
@@ -196,7 +203,7 @@ neighbours in a cluster, word-vectors of the APIs
 The main advantage of DBSCAN is that APIs without any similar APIs in a given distance, also called noise, will be ignored an assigned to a separate cluster. This results in an undistorted result and as an information for a user that there is no similar API. 
 Another advantage is that there is no fixed number of clusters because this will be optimized during the execution of the algorithm.
 The decisive disadvantage is that only the distance between two neighbours in a cluster are considered in the algorithm. Resulting in an unknown width of the clusters. This means that two completely different APIs could end up in the same cluster because there is a linking chain of APIs between them. With this problem there was no assurance that the algorithm produces a logical result for our use-case.
-Another problem occurred during the execution of our implementation. Given a set of 3000 APIs, number of neighbours required for a API to be consider dense of minPts = 2 and a ε = 1,2 our algorithm considered half of these APIs noise and the other half was put into clusters with an average number of seven APIs. The input can be interpreted that there only must be one other API in a distance of 1,2 around a given API. This means our input had to be very vague for any results. Because of this and the wrong assignment of APIs to the noise category we didn’t use DBSCAN for further implementation.
+Another problem occurred during the execution of our implementation. Given a set of 3000 APIs, number of neighbours required for a API to be consider dense of minPts = 2 and a ε = 1,2 our algorithm considered half of these APIs noise and the other half was put into clusters with an average number of seven APIs. The input can be interpreted that there only must be one other API in a distance of 1,2 around a given API. This means our input had to be very vague for any results. Because of this and the wrong assignment of APIs to the noise category we did not use DBSCAN for further implementation.
 
 
 \subsection{K-Means Clustering}
@@ -254,7 +261,7 @@ X= ( x_1,x_2) : x_1= y_1,x_2= y_2 \in K
 
 Now we can derive for every possible X and Y whether $y_1$  and $y_2$ are in the same cluster and if $x_1$  and $x_2$ are in the same cluster. We can get the following combinations: \\
 \begin{labeling}{Different-Diffr. (DD)}
-\item [Same-same (SS)]  $i.e.~y_1,y_2 \in c_l; x_1,x_2∈k_h$ \\
+\item [Same-same (SS)]  $i.e.~y_1,y_2 \in c_l; x_1,x_2 \in k_h$ \\
 \item [Same-Different (SD)]  $i.e.~ y_1,y_2 \in c_l; x_1 \in k_h; x_2 \notin k_h$ \\
 \item [Different-Same (DS)]  $i.e.~ y_1 \in c_l; y_2 \notin c_l; x_1,x_2 \in k_h$ \\
 \item [Different-Diffr. (DD)]  $i.e.~y_1 \in c_l; y_2 \notin c_l; x_1 \in k_h;x_2 \notin k_h$
@@ -283,7 +290,7 @@ We tried to fix that problem with two different ideas. One is described in the n
 \subsection{Precision and Recall}
 The other idea of fixing the runtime problem was using precision and recall as coefficient for similarity. These two are also often used for cluster similarity measurement. Basically, the use the same concept with classifying if one api is true positive, false positive, true negative or false negative sorted into a clustered according to a certain set of clusters that is assumed to be correct. The advantage is that we do not need to build pairs for calculation and can decrease runtime by that. \cite{powers2011evaluation}
 
-Let assume we have to sets of APIs:
+Let assume we have two sets of APIs:
 \begin{equation*}
 manual~Cluster~C := \{ c_1,c_2,...,c_n \}
 \end{equation*}
@@ -342,11 +349,11 @@ The low k suggested by the Jaccard coefficient would mean that we have an averag
 \label{fig_sim}
 \end{figure}
 
-The F-measure shows a similar hight for a dimenson reduction to $dim⁡= 100$, $dim⁡= 250$ or $dim⁡= 500$ dimensions. The F-measure of a clustering with a $dim=10$ is overall lower than one of a clustering with $dim⁡= 100$, $dim⁡= 250$ or $dim⁡= 500$. 
+The F-measure shows a similar height for a dimension reduction to $dim⁡= 100$, $dim⁡= 250$ or $dim⁡= 500$ dimensions. The F-measure of a clustering with a $dim=10$ is overall lower than one of a clustering with $dim⁡= 100$, $dim⁡= 250$ or $dim⁡= 500$. 
 It is not possible to make a general assumption which distance metric produces better cluster quality. It changes depending on the parameter combination. The Euclidian metric gives a gives a higher F-measure with a $dim⁡= 100$ and the cosine metric with $dim⁡= 250$ or $dim⁡= 500$.
 
 Of all the parameter combination we tested, the parameter combinations $k⁡= 500$, $dim⁡= 500$, cosine and $k⁡= 700$, $dim⁡= 100$, euclidian had the best F-measures with 0,71 and 0,74.
-The results of the K-Means clustering with the parameters $k⁡= 500$, $dim⁡= 500$, cosine were den integrated into the website. 303 APIs were evaluated through the website. The resulting quality is 59 \%.
+The results of the K-Means clustering with the parameters $k⁡= 500$, $dim⁡= 500$, cosine were then integrated into the website. 303 APIs were evaluated through the website. The resulting quality is 59 \%.
 
 \section{Conclusion}
 \textcolor{red} {XXXXXXX}
