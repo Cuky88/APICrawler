@@ -123,9 +123,16 @@ With the rise of API demand and supply, the API Economy calls for a product mark
 For our research paper, we investigate one the basic requirements for machines to accomplish such breaking changes on their own. Our focus is on whether we can transform textual description to machine-usable structural descriptions, by using ProgrammableWeb, one of the largest API aggregation open source available.
 
 \section{Datasets and Crawling}
-\piccaption{Amount of working links in Programmable Web} 
-\parpic[r]{\includegraphics[width=1.5in]{img/pie.png}} 
+%rechtsbündige grafik
+%\piccaption{Amount of working links in Programmable Web} 
+%\parpic[r]{\includegraphics[width=1.5in]{img/pie.png}} 
 Prior to our research and development, we looked for suitable datasets with good quality. There was not much research done in this field, therefore we had to look for different alternatives, which will be described in the following Sections. Section II.A describes the Linked Web API dataset and the issues. Section II.B deals with the dataset crawled from Programmable Web  \footnote[1]{https://www.programmableweb.com} and Section II.C shows an alternative way to get data from Google.
+\begin{figure}[!t]
+\centering
+\includegraphics[width= 2in]{img/pie.png}
+\caption{Amount of working links in Programmable Web}
+\label{fig_sim}
+\end{figure}
 
 \subsection{Linked Web API Dataset}
 Starting point was the Linked Web API dataset [1] with 9.850 APIs. Besides short descriptions of the API, it inherits also semantic annotations and links between different attributes like title, tags and links to websites. For our purpose only the descriptions were relevant. The first inspection shows, that the descriptions were too short. Since we want to cluster the APIs on similarity based on their descriptions, those were crucial. First solution was to crawl the website of the API. This seemed to be easily done, since the dataset also had a link to the API documentation website. When checking the links, we found out that 78 \% (Fig. 1) of the links were missing. The remaining 1.500 links where leading to any subpages, but not to the actual API documentation. Therefore, crawling those sites would result in a poor data quality, since we have no control over which textual content would be crawled.
@@ -165,6 +172,7 @@ With the TF-IDF Vectorizer terms with a high term frequency but a low document f
 A dimension reduction was not only necessary because of the size of the Matrix, but is also suggested by Ding and He 2004 \cite{ding2004k}. They showed, that a dimension reduction with the Principal Component Analysis (PCA) before the use of K-Means leads to better clustering  results. Having a huge sparse matrix makes it difficult to perform a PCA. Therefore, we used the transformer TruncatedSVD from the scikitLearn library to perform a dimension reduction \cite{scikit-learn}. The transformer uses a truncated Singular Value Decomposition (SVD) which is specially tailored to TF-IDF matrixes and therefore called Latent Semantic Analysis. This makes a centering of the data not necessary and is for that reason suitable for large sparse data sets \cite{albright2004taming}.
 
 \section{Manual Clustering}
+To be able to assess the quality of our trained clusters, we decided to manually create clusters and only evaluate (in Section V) on those manually clustered APIs. With that, we could test different clustering parameters described in Section IV and choose the best parameters. We split the dataset according to the existing categories and took the five tags: “Messaging”, “Payments”, “eCommerce”, “Mapping” and “Finance”, since they contained most of the APIs. Based on the descriptions we clustered those APIs manually, so that we receive about 30 APIs per cluster. After 2-3 days of processing, we had 26 manually created clusters with 962 APIs.
 
 \section{Clustering}
 To suggest for a given API from a user similar APIs we tried two different approaches. In our first approach we used clustering algorithms which are mostly used for data mining and knowledge discovery, data compression and pattern recognition. Mostly the field of clustering algorithms for pattern recognition were capable to solve our given problem. In our case the algorithms assigned APIs to the same cluster if they had similar wording patterns and descriptions. 
