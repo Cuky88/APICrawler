@@ -46,6 +46,8 @@
 % *** MATH PACKAGES ***
 \usepackage{amsmath}
 \usepackage{scrextend}
+\usepackage{algorithm}
+\usepackage{algorithmic}
 
 
 \hyphenation{op-tical net-works semi-conduc-tor}
@@ -182,9 +184,26 @@ To implement and test these approaches we used the following algorithms.
 \subsection{API Clustering}
 For the correlation matrix we tried to implement the algorithm introduced by Jian Wu, Liang Chen, Zibin Zheng, Michael R. Lyu and Zhaohui Wu in their Paper “Clustering Web services to facilitate service discovery”. The algorithm determines the similarity of each APIs word-vector with all the other word vectors by comparing the word in the word-vector with the normalized google distance. As a result, the algorithm produces a correlation-matrix where for any given API the distance to each other API can be withdrawn.
 
-\begin{equation*}
-Algorthm
-\end{equation*}
+\begin{algorithm}[H]
+ \caption{Algorithm for API Clustering}
+ \begin{algorithmic}[1]
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+ \renewcommand{\algorithmicensure}{\textbf{Output:}}
+ \REQUIRE word-vectors of the APIs
+ \ENSURE  Correlation matrix
+ \\ \textit{Procedure} :
+  \STATE Calculate for each API combination s1 and s2
+ \STATE Accumulate the to a correlation matrix
+ %\\ \textit{LOOP Process}
+  %\FOR {$i = l-2$ to $0$}
+  %\STATE statements..
+  %\IF {($i \ne 0$)}
+  %\STATE statement..
+  %\ENDIF
+  %\ENDFOR
+ %\RETURN $P$
+ \end{algorithmic}
+ \end{algorithm}
 
 The main advantage is that the authors already tried to solve our use-case with their algorithm and demonstrated that it could work. They also used the same pre-processing techniques to determine the word-vectors. This means we had the same initial situation.
 To determine the normalized google distance, which is crucial for the determination of our results, we had to crawl google for each word combination in our word-vectors. Because we lacked the time we tried to use google ngram. Google ngram is a database with scanned books. It also provides command lines to build correlation-matrixes for given words, which would make it possible to implement the normalized google distance. Unfortunately, the current version is from 2012 which resulted in an insuperable problem. Words like “instagram” which were used in our word vectors and were crucial for interpretable results weren’t included in google ngrams. Because of this we didn’t used the implementation of this paper in our further project.
@@ -192,9 +211,21 @@ To determine the normalized google distance, which is crucial for the determinat
 \subsection{Density-Based Clustering}
 The first clustering algorithm we tried out was the density-based spatial clustering of applications with noise (DBSCAN). DBSCAN is a density based clustering algorithm grouping together closely packed data-points with a given number of neighbours required for a point to be dense ( minPts ) and a maximum distance between two neighbours in a cluster ( ε ). 
 
-\begin{equation*}
-Algorthm
-\end{equation*}
+\begin{algorithm}[H]
+ \caption{Algorithm for Density Based Clustering}
+ \begin{algorithmic}[1]
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+ \renewcommand{\algorithmicensure}{\textbf{Output:}}
+ \REQUIRE given number of neighbours required for a point to be dense, maximum distance between two
+neighbours in a cluster, word-vectors of the APIs
+ \ENSURE  Clusters with associated APIs
+ \\ \textit{Procedure} :
+  \STATE Arbitrarily choose an initial API $s_1$
+ \STATE Mark s 1 and calculate the number of neighbours N in the distance ε
+%...
+% Das musst du irgendwie noch geschickter darstellen
+ \end{algorithmic}
+ \end{algorithm}
 
 The main advantage of DBSCAN is that APIs without any similar APIs in a given distance, also called noise, will be ignored an assigned to a separate cluster. This results in an undistorted result and as an information for a user that there is no similar API. 
 Another advantage is that there is no fixed number of clusters because this will be optimized during the execution of the algorithm.
@@ -205,9 +236,22 @@ Another problem occurred during the execution of our implementation. Given a set
 \subsection{K-Means Clustering}
 The clustering algorithm we used for our final implementation is k-means, one of the most widely used clustering algorithm. For a given set of data-points in a n-dimensional space Rn and an integer k the algorithm determines k points, called centres, minimizing the sum of the mean square distance from the data points to their nearest centre. We are using the k-means adaptation of the Lloyed-algorithm described in Algorithm 3.
 
-\begin{equation*}
-Algorthm
-\end{equation*}
+\begin{algorithm}[H]
+ \caption{Algorithm for K-Means}
+ \begin{algorithmic}[1]
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+ \renewcommand{\algorithmicensure}{\textbf{Output:}}
+ \REQUIRE Integer k, word-vectors of the APIs
+ \ENSURE  k centres
+ \\ \textit{Procedure} :
+  \STATE Arbitrarily choose an initial k centres $C = {c_1, c_2, ..., c_k}$.
+ \STATE For each $i \in {1, ..., k}$, set the cluster Ci to be the set of points in X that are closer to $c_i$ than
+they are to $c_j~for ~all ~j ~6= i$.
+\STATE For each $i \in {1, . . . , k}$, set $c_i$ to be the centre of mass of all points in $C_i : c_i = 1 |C_i| P x \in C_i x$.
+\STATE Repeat Steps 2 and 3 until C no longer changes % Das kann man auch als Loop schreiben
+
+ \end{algorithmic}
+ \end{algorithm}
 
 The main advantage is the simplicity of the algorithm and performance. Another advantage is that because of the minimization of the mean square distance of the APIs to their centres we also minimize the distance between two APIs in the same cluster.
 The main challenge of the k-means algorithm is that the integer k is fixed and can’t be optimized with the algorithm itself. To counteract this problem we split the possible number of clusters into intervals. For each interval we executed the k-means algorithm for the boarder points of the interval and compared the result of these outputs in our evaluation.
