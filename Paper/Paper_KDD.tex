@@ -50,6 +50,14 @@
 
 \hyphenation{op-tical net-works semi-conduc-tor}
 
+\usepackage{lipsum}
+\makeatletter
+\def\footnoterule{\relax%
+  \kern-5pt
+  \hbox to \columnwidth{\hfill\vrule width 0.5\columnwidth height 0.4pt\hfill}
+  \kern4.6pt}
+\makeatother
+
 \begin{document}
 
 \title{From textual to structured Web API Descriptions\\ \large Knowledge Discovery and Data Mining Seminar 2017 }
@@ -72,26 +80,58 @@ Karlsruhe Institute of Technology
 \maketitle
 
 \begin{abstract}
-The abstract goes here.
+In this study, we investigate the possibility of using Knowledge Discovery and Data Mining approaches to transform human written textual Web Application Programming Interface
+(API) descriptions into structural descriptions, which
+can be consumed by machines. The central vision
+is to provide a solution, which ultimately allows
+machines to interchange APIs with similar purposes
+automatically. A use case would be to replace non-
+responding data providing API (e.g. weather,
+location, news) with another. Using descriptions
+provided by ProgrammableWeb, with over 15000
+APIs one of the most prominent public API library,
+we conducted multiple steps of data cleaning and
+preprocessing followed by machine learning
+algorithms (K-Means, DBSCAN) to create clusters,
+which we validated manually. With an average only
+68,3 Words per descriptions (45,6 after
+preprocessing) our results suggests, that the
+needed quantity for text mining and clustering was insufficiently met. Our clusters were thus also
+inconclusive.
 \end{abstract}
 
 
 \IEEEpeerreviewmaketitle
 
 \section{Introduction}
-\IEEEPARstart{H}{ans} bla bal bal asd asgfas bla bal bal asd asgfas bla bal bal asd asgfas bla bal bal asd asgfas
-I wish you the best of success.
+\IEEEPARstart{A}{pplication} Programming Interfaces (API) are not just a way to give developers access to software or services anymore. A whole business economy has established around the concept of exposing APIs in order to provide access and services. Programmable Web currently lists 15839 public available API (State June 2017). While ProgrammableWeb represent as set of manually collected APIs, APIHound claims to have crawled and indexed over 50000 APIs.
+According to 3scale CEO Steve Willmott, eBay, Flickr, and Salesforce were among the companies that helped popularize the API [1] leading towards entire business models evolving around API services and strategies. Along came new terminologies to define this industry such as API Economy and Business to Developer (B2D).
+
+API Economy is defined as the positive affect APIs can have on an organization’s profitability. [2]
+It can be loosely compared to the prestige of patents plaques. The more holistic a company provides APIs the more developers can make use of it. Well documented API’s attracts developers to either actively consume APIs or even build their own business on top of it.
+
+\begin{figure}[!t]
+\centering
+\includegraphics[width= 3in]{img/APIcycle.png}
+\caption{MuleSoft on API Econom}
+\label{fig_sim}
+\end{figure}
+
+Business to Developer (B2D), implies a business model, which is targeting developers as customers. With the movement of open source and cloud technologies developers rarely have to rely on in-house resources anymore. Instead of building a new project form the ground up, developers can access numerous available 3rd party libraries to reduce developing time and effort. For certain services and libraries, they are event willing to pay a premium.
+
+With the rise of API demand and supply, the API Economy calls for a product market similar ecosystem. While human customers have various sources to evaluate a product or service (or API), currently no solutions exist which lets machines choose their own source of information or functionality. Most APIs are hardcoded into the application or software. The current digital market boasts of interconnectedness. Every product is in one way or the other connected to the internet and thus “made smart”, yet any or especially so called breaking changes to the API will require developers to update their code manually. 
+For our research paper, we investigate one the basic requirements for machines to accomplish such breaking changes on their own. Our focus is on whether we can transform textual description to machine-usable structural descriptions, by using ProgrammableWeb, one of the largest API aggregation open source available.
 
 \section{Datasets and Crawling}
 \piccaption{Amount of working links in Programmable Web} 
 \parpic[r]{\includegraphics[width=1.5in]{img/pie.png}} 
-Prior to our research and development, we looked for suitable datasets with good quality. There was not much research done in this field, therefore we had to look for different alternatives, which will be described in the following Sections. Section II.A describes the Linked Web API dataset and the issues. Section II.B deals with the dataset crawled from Programmable Web1 and Section II.C shows an alternative way to get data from Google.
+Prior to our research and development, we looked for suitable datasets with good quality. There was not much research done in this field, therefore we had to look for different alternatives, which will be described in the following Sections. Section II.A describes the Linked Web API dataset and the issues. Section II.B deals with the dataset crawled from Programmable Web  \footnote[1]{https://www.programmableweb.com} and Section II.C shows an alternative way to get data from Google.
 
 \subsection{Linked Web API Dataset}
 Starting point was the Linked Web API dataset [1] with 9.850 APIs. Besides short descriptions of the API, it inherits also semantic annotations and links between different attributes like title, tags and links to websites. For our purpose only the descriptions were relevant. The first inspection shows, that the descriptions were too short. Since we want to cluster the APIs on similarity based on their descriptions, those were crucial. First solution was to crawl the website of the API. This seemed to be easily done, since the dataset also had a link to the API documentation website. When checking the links, we found out that 78 \% (Fig. 1) of the links were missing. The remaining 1.500 links where leading to any subpages, but not to the actual API documentation. Therefore, crawling those sites would result in a poor data quality, since we have no control over which textual content would be crawled.
 
 \subsection{Programmable Web Dataset}
-Another approach to get usable data was, to crawl Programmable Web with over 15.800 APIs. Therefore, we constructed a crawler with the Scrapy Framework2 to crawl all the data. The API descriptions from Programmable Web have an averege length of 70 words, which we assumed to be not enough. We examined the linkts to the API documentation sites, to see if we can crawl them, too. From the 15.800 APIs, about 32 \% (Fig. 2) were not working. When we investigated the links further, we found out, that approximately 30 to 45 \% of the links redirect to a subpages like  main, authentication or payment pages. This was the same issue like with the Linked Web API dataset.
+Another approach to get usable data was, to crawl Programmable Web with over 15.800 APIs. Therefore, we constructed a crawler with the Scrapy Framework \footnote[2]{https://scrapy.org} to crawl all the data. The API descriptions from Programmable Web have an averege length of 70 words, which we assumed to be not enough. We examined the linkts to the API documentation sites, to see if we can crawl them, too. From the 15.800 APIs, about 32 \% (Fig. 2) were not working. When we investigated the links further, we found out, that approximately 30 to 45 \% of the links redirect to a subpages like  main, authentication or payment pages. This was the same issue like with the Linked Web API dataset.
 
 \subsection{Google Crawled Dataset}
 Since the links from the datasets in Section II.A and II.B were not usefull, we decided to crawl a complete new dataset from Google. We constructed a search query out of the API names with additional filters, shown in (1).
@@ -103,10 +143,10 @@ We decided to use the Programmable Web dataset with the limited amount of API de
 The preprocessing was done in three steps. First the data was cleaned, afterwards the words of API descriptions were transformed into a matrix and finally the dimensions of the matrix were reduced.
 
 \subsection{Data Cleaning}
-The data cleaning included punctuation removal, number removal, transformation to lower case, stop word removal and lemmetization. The cleaning was done with Python, for lemmatization the lemmatizer from the “Natural Language Toolkit” (nltk) library was used. The cleaned API descriptions were saved in JSON format.
+The data cleaning included punctuation removal, number removal, transformation to lower case, stop word removal and lemmetization. The cleaning was done with Python, for lemmatization the lemmatizer from the Natural Language Toolkit (nltk) library was used \cite{bird2009natural}. The cleaned API descriptions were saved in JSON format.
 
 \subsection{Vectorization}
-After the data cleaning, we are left with API descriptions, referenced as documents, which consist of a varying number of words, referenced as terms. Before clustering algorithms can be applied on the data it has to be transformed. The aim is to generate a matrix where every row represents an document and each column a term. The values of that matrix determine if a term is part of a description and which importance the term has. To archive this, we used the term frequency times inverse document frequency (TF-IDF) Vectorizer from the Python library scikitLearn. The Vectorizer counts the frequency of a word in an API description and the frequency of that word in the whole data set. The importance of a Word then is calculated by the following formula.
+After the data cleaning, we are left with API descriptions, referenced as documents, which consist of a varying number of words, referenced as terms. Before clustering algorithms can be applied on the data it has to be transformed. The aim is to generate a matrix where every row represents an document and each column a term. The values of that matrix determine if a term is part of a description and which importance the term has. To archive this, we used the term frequency times inverse document frequency (TF-IDF) Vectorizer from the Python library scikitLearn \cite{scikit-learn}. The Vectorizer counts the frequency of a word in an API description and the frequency of that word in the whole data set. The importance of a Word then is calculated by the following formula.
 
 \begin{equation*}
 tfidf (d,t) = tf(t) * idf(d,t) 
@@ -122,7 +162,7 @@ N is the total number of API descriptions and df(d,t) the document frequency, th
 With the TF-IDF Vectorizer terms with a high term frequency but a low document frequency have the highest tf-idf-value and can be considered more important than terms with a lower tf-idf-value. The result of the vectorization is a spars matrix with xx dimensions.
 
 \subsection{Latent Semantic Analysis}
-bla bla bla bal bla bla bla bla bla
+A dimension reduction was not only necessary because of the size of the Matrix, but is also suggested by Ding and He 2004 \cite{ding2004k}. They showed, that a dimension reduction with the Principal Component Analysis (PCA) before the use of K-Means leads to better clustering  results. Having a huge sparse matrix makes it difficult to perform a PCA. Therefore, we used the transformer TruncatedSVD from the scikitLearn library to perform a dimension reduction \cite{scikit-learn}. The transformer uses a truncated Singular Value Decomposition (SVD) which is specially tailored to TF-IDF matrixes and therefore called Latent Semantic Analysis. This makes a centering of the data not necessary and is for that reason suitable for large sparse data sets \cite{albright2004taming}.
 
 \section{Manual Clustering}
 To suggest for a given API from a user similar APIs we tried two different approaches. In our first approach we used clustering algorithms which are mostly used for data mining and knowledge discovery, data compression and pattern recognition. Mostly the field of clustering algorithms for pattern recognition were capable to solve our given problem. In our case the algorithms assigned APIs to the same cluster if they had similar wording patterns and descriptions. 
@@ -169,7 +209,7 @@ Since we used k-means for our final implementation the results of this algorithm
 K-Means in combination with LSA leaves us with three parameters that have to be determined, the cluster size, the distance metric, and the number of dimensions the input data was reduced to. To determine the best values for those parameters we run the clustering with different parameter combinations. The clusters resulting from the different combinations were then compared to the manually formed clusters. We used two different methods to determine the quality of the machine created clusters, the Jaccard coefficient together with the Rand Statistic and Precision and Recall. As a last step we selected one of the best parameter combinations to manually evaluate the correctness of the clustering. The following paragraph introduces the two different quality measurements and the process of the manual evaluation.
 
 \subsection{Jaccard Coefficient}
-As [Halkidi, 2002]  suggests we used Jaccard-Coefficient for quality measurement. Jaccard measures the intersection of two quantities. In our case on quantity is the manual created cluster, lets name it C, the other one is the cluster set that k-means provides, lets name it K. In formal:
+As [Halkidi, 2002] \cite{halkidi2002cluster}  suggests we used Jaccard-Coefficient for quality measurement. Jaccard measures the intersection of two quantities. In our case on quantity is the manual created cluster, lets name it C, the other one is the cluster set that k-means provides, lets name it K. In formal:
 
 \begin{equation*}
 manual~Cluster~C := \{ c_1,c_2,...,c_n \}
@@ -296,32 +336,20 @@ Manuelles Clustering Verbessern
 Längere Beschreibungstexte
 Mehr werte für Parameter einsetzten
 Mehr APIs manuell evaluieren
-Parameter learning…
+Parameter learning… 
 
 
-\ifCLASSOPTIONcaptionsoff
-  \newpage
-\fi
+\newpage
 
 
-% can use a bibliography generated by BibTeX as a .bbl file
-% BibTeX documentation can be easily obtained at:
-% http://mirror.ctan.org/biblio/bibtex/contrib/doc/
-% The IEEEtran BibTeX style support page is at:
-% http://www.michaelshell.org/tex/ieeetran/bibtex/
-%\bibliographystyle{IEEEtran}
-% argument is your BibTeX string definitions and bibliography database(s)
-%\bibliography{IEEEabrv,../bib/paper}
-%
-% <OR> manually copy in the resultant .bbl file
-% set second argument of \begin to the number of references
-% (used to reserve space for the reference number labels box)
 
-\begin{thebibliography}{1}
-\bibitem{IEEEhowto:kopka}
-H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
-  0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
-\end{thebibliography}
+
+
+\bibliographystyle{IEEEtran}
+\bibliography{quellen}
+
+
+
 
 \end{document}
 
