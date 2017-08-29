@@ -1,0 +1,711 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.29)  29 AUG 2017 20:38
+entering extended mode
+**C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/Paper_KDD.tex
+(C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/Paper_KDD.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran
+.cls"
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 210mm x 297mm (a4) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) ("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+
+! LaTeX Error: File `picins.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen128
+))
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen129
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen130
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks17
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks18
+\eqnshift@=\dimen131
+\alignsep@=\dimen132
+\tagshift@=\dimen133
+\tagwidth@=\dimen134
+\totwidth@=\dimen135
+\lineht@=\dimen136
+\@envbody=\toks19
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\screx
+tend.sty"
+Package: scrextend 2017/04/13 v3.23 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrkb
+ase.sty"
+Package: scrkbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrba
+se.sty"
+Package: scrbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlf
+ile.sty"
+Package: scrlfile 2017/04/13 v3.23 KOMA-Script package (loading files)
+
+Package scrlfile, 2017/04/13 v3.23 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+)))
+LaTeX Info: Redefining \textsubscript on input line 1298.
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithms\algori
+thm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks21
+\float@box=\box30
+\@float@everytoks=\toks22
+\@floatcapt=\box31
+) ("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks23
+\c@algorithm=\count108
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithms\algori
+thmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count109
+\c@ALC@line=\count110
+\c@ALC@rem=\count111
+\c@ALC@depth=\count112
+\ALC@tlm=\skip47
+\algorithmicindent=\skip48
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
+y"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
+sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
+"
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count113
+)
+No file Paper_KDD.aux.
+\openout1 = `Paper_KDD.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+-- Lines per column: 58 (exact).
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen137
+\scratchbox=\box32
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen138
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks25
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
+cmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
+ex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+
+LaTeX Warning: Citation `tmcnet' on page 1 undefined on input line 77.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+LaTeX Warning: Citation `mulesoft' on page 1 undefined on input line 79.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+<img/APIcycle.png, id=1, 476.53032pt x 299.61937pt>
+File: img/APIcycle.png Graphic file (type png)
+ <use img/APIcycle.png>
+Package pdftex.def Info: img/APIcycle.png used on input line 84.
+(pdftex.def)             Requested size: 216.81pt x 136.32245pt.
+
+
+LaTeX Warning: Citation `mulesoft' on page 1 undefined on input line 85.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+LaTeX Font Info:    Try loading font information for U+msa on input line 98.
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 98.
+ ("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: Citation `dojchinovskilinked' on page 1 undefined on input line 
+101.
+
+<img/fig2.png, id=2, 578.91281pt x 371.13657pt>
+File: img/fig2.png Graphic file (type png)
+ <use img/fig2.png>
+Package pdftex.def Info: img/fig2.png used on input line 104.
+(pdftex.def)             Requested size: 252.94499pt x 162.16231pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 104--105
+ [][] 
+ []
+
+[1{C:/Users/Arbeit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/img/APIcycle.png>]
+<img/pie.png, id=11, 197.23688pt x 194.97844pt>
+File: img/pie.png Graphic file (type png)
+ <use img/pie.png>
+Package pdftex.def Info: img/pie.png used on input line 113.
+(pdftex.def)             Requested size: 144.54pt x 142.88347pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+LaTeX Warning: Citation `bird2009natural' on page 2 undefined on input line 128
+.
+
+
+LaTeX Warning: Citation `scikit-learn' on page 2 undefined on input line 131.
+
+[2 <C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/img/fig2.png> <C:/Users/Arbe
+it/Documents/KDD/APICrawler/Paper/img/pie.png>]
+
+LaTeX Warning: Citation `ding2004k' on page 3 undefined on input line 147.
+
+
+LaTeX Warning: Citation `scikit-learn' on page 3 undefined on input line 147.
+
+
+LaTeX Warning: Citation `albright2004taming' on page 3 undefined on input line 
+147.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+LaTeX Warning: Citation `kanungo2002efficient' on page 3 undefined on input lin
+e 158.
+
+
+Overfull \hbox (7.43051pt too wide) detected at line 170
+[][] [] \OT1/cmr/m/n/10 = []
+ []
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190  \end{algorithmic}
+                        
+? 
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no Œ in font ptmr7t!
+Missing character: There is no µ in font ptmr7t!
+[3]
+Missing character: There is no Œ in font ptmr7t!
+Missing character: There is no µ in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+
+LaTeX Warning: Citation `halkidi2002cluster' on page 4 undefined on input line 
+251.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+
+LaTeX Warning: Citation `powers2011evaluation' on page 5 undefined on input lin
+e 303.
+
+[5]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+ <img/Jaccard.png, id=35, 313.9228pt x 243.15843pt>
+File: img/Jaccard.png Graphic file (type png)
+ <use img/Jaccard.png>
+Package pdftex.def Info: img/Jaccard.png used on input line 359.
+(pdftex.def)             Requested size: 252.94499pt x 195.92578pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 359--360
+ [][] 
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no § in font ptmr7t!
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+No file Paper_KDD.bbl.
+[6 <C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/img/Jaccard.png>]
+(Paper_KDD.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4577 strings out of 493323
+ 71221 string characters out of 3129581
+ 258526 words of memory out of 3000000
+ 8029 multiletter control sequences out of 15000+200000
+ 45906 words of font info for 91 fonts, out of 3000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 48i,8n,39p,1268b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Arbeit/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
+c}<C:/Users/Arbeit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmex10.pfb><C:/Users/Arbeit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb><C:/Users/Arbeit/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Arbeit/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Arbeit/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/
+Arbeit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pf
+b><C:/Users/Arbeit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr7.pfb><C:/Users/Arbeit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Users/Arbeit/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/urw/times/utmb8a.pfb><C:/Users/Arbeit/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Arbeit/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Arbeit/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Paper_KDD.pdf (6 pages, 398874 bytes).
+PDF statistics:
+ 78 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
