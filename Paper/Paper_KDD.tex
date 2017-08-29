@@ -167,10 +167,12 @@ For the correlation matrix we tried to implement the algorithm introduced by Jia
  \\ \textit{Procedure} :
 \FOR {$\forall s_1 \in API$}
 \FOR {$\forall s_2 \in API$} 
-\STATE \begin{equation*}{Sim}_{con}\left(s_1,s_2\right)=\frac{\sum_{\epsilon\ {con}_{s1}}\sum_{w_j\epsilon\ {con}_{s2}}{sim(w_i,\ w_j)}}{\left|{con}_{s1}\right|\times\left|{con}_{s2}\right|} \end{equation*}
+\STATE \begin{equation*}{Sim}_{con}\left(s_1,s_2\right)=\frac{\sum_{\epsilon\ {con}_{s1}}\sum_{w_j\epsilon\ {con}_{s2}}{1-NGD(w_i,\ w_j)}}{\left|{con}_{s1}\right|\times\left|{con}_{s2}\right|} \end{equation*}
+ \STATE Add ${Sim}_{con}\left(s_1,s_2\right)$ to the correlation matrix 
 \ENDFOR
 \ENDFOR
- \STATE Accumulate the to a correlation matrix
+\RETURN correlation matrix
+
 % als inspiration ;)
  %\\ \textit{LOOP Process}
   %\FOR {$i = l-2$ to $0$}
@@ -183,12 +185,6 @@ For the correlation matrix we tried to implement the algorithm introduced by Jia
  \end{algorithmic}
  \end{algorithm}
 
-\begin{table}
-\begin{tabular}{lll}
-\hline
-tester & test \\
-\end{tabular}
-\end{table}
 
 The main advantage is that the authors already tried to solve our use-case with their algorithm and demonstrated that it could work. They also used the same pre-processing techniques to determine the word-vectors. This means we had the same initial situation.
 To determine the normalized google distance, which is crucial for the determination of our results, we had to crawl google for each word combination in our word-vectors. Because we lacked the time we tried to use google ngram. Google ngram is a database with scanned books. It also provides command lines to build correlation-matrixes for given words, which would make it possible to implement the normalized google distance. Unfortunately, the current version is from 2012 which resulted in an insuperable problem. Words like “instagram” which were used in our word vectors and were crucial for interpretable results were not included in google ngrams. Because of this we did not use the implementation of this paper in our further project.
@@ -227,7 +223,7 @@ The clustering algorithm we used for our final implementation is k-means, one of
 \renewcommand{\algorithmicrequire}{\textbf{Input:}}
  \renewcommand{\algorithmicensure}{\textbf{Output:}}
  \REQUIRE Integer k, \newline word-vectors of the APIs $W={w_1, w_1, ... w_n}$
- \ENSURE  k centres
+ \ENSURE  k centres, affiliation of the APIs
  \\ \textit{Procedure} :
   \STATE Arbitrarily choose an initial k centres $C = {c_1, c_2, ..., c_k}$.
  \STATE Repeat \newline
@@ -237,8 +233,8 @@ The clustering algorithm we used for our final implementation is k-means, one of
 			the closest cetroid;\newline
 \noindent\hspace*{5mm}%
 			Calculate new mean for each cluster;\newline
-\newline
 	Until convergence criteria is met.
+\RETURN centres, affiliation of the APIs
  \end{algorithmic}
  \end{algorithm}
 
