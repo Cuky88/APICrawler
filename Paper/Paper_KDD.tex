@@ -164,25 +164,16 @@ To implement and test these approaches we used the algorithms described in the f
 For the correlation matrix we tried to implement the algorithm introduced by Jian Wu, Liang Chen, Zibin Zheng, Michael R. Lyu and Zhaohui Wu in their Paper “Clustering Web services to facilitate service discovery” \cite{kanungo2002efficient}. The algorithm determines the similarity of each APIs word-vector with all the other word vectors by comparing the word in the word-vector with the normalized google distance. As a result, the algorithm produces a correlation-matrix where for any given API the distance to each other API can be withdrawn (Algorithm \ref{alg:algo1}).
 
 \begin{algorithm}[H]
- \caption{Normalized Google Distance}
- \label{alg:algo1}
+ \caption{Algorithm 1}
  \begin{algorithmic}[1]
 \renewcommand{\algorithmicrequire}{\textbf{Input:}}
  \renewcommand{\algorithmicensure}{\textbf{Output:}}
  \REQUIRE word-vectors of the APIs
  \ENSURE  Correlation matrix
  \\ \textit{Procedure} :
-\FOR {$\forall s_1 \in API$}
-\FOR {$\forall s_2 \in API$} 
-\STATE 
-\parbox[c][1cm]{1\linewidth}{
-$Sim_{con}(s_1,s_2)=$
-}
-\parbox[c][1cm]{1\linewidth}{
-$\dfrac{\sum_{\epsilon\ {con}_{s1}}\sum_{w_j\epsilon\ {con}_{s2}}{1-NGD(w_i,\ w_j)}}{\left|{con}_{s1}\right|\times\left|{con}_{s2}\right|}$
-}
-
-
+\FOR {each API $s_1$}
+\FOR {each API $s_2$} 
+\STATE \begin{equation*}{Sim}_{con}\left(s_1,s_2\right)=\frac{\sum_{\epsilon\ {con}_{s1}}\sum_{w_j\epsilon\ {con}_{s2}}{1-NGD(w_i,\ w_j)}}{\left|{con}_{s1}\right|\times\left|{con}_{s2}\right|} \end{equation*}
  \STATE Add ${Sim}_{con}\left(s_1,s_2\right)$ to the correlation matrix 
 \ENDFOR
 \ENDFOR
@@ -208,18 +199,22 @@ To determine the normalized google distance, which is crucial for the determinat
 The first clustering algorithm we tried out was the density-based spatial clustering of applications with noise (DBSCAN). DBSCAN\cite{kanungo2002efficient} is a density based clustering algorithm grouping together closely packed data-points with a given number of neighbours required for a point to be dense ($minPts$) and a maximum distance between two neighbours in a cluster $(\epsilon)$ (Algorithm \ref{alg:algo2}). 
 
 \begin{algorithm}[H]
- \caption{Density-Based Clustering}
- \label{alg:algo2}
+ \caption{Algorithm 2}
  \begin{algorithmic}[1]
 \renewcommand{\algorithmicrequire}{\textbf{Input:}}
  \renewcommand{\algorithmicensure}{\textbf{Output:}}
  \REQUIRE given number of neighbours required for a point to be dense, \newline maximum distance between two
 neighbours in a cluster, \newline word-vectors of the APIs
  \ENSURE  Clusters with associated APIs
- \\ \textit{Procedure}:
-  \STATE Arbitrarily choose an initial API $s_1$
- \STATE 
-
+ \\ \textit{Procedure} :
+  \FOR{each unvisited API S in dataset}
+\STATE mark S as visited
+\STATE N = all points within S eps-neighborhood including S
+\IF{sizeof(N)  minPts}
+\STATE marks S as NOISE
+\ENDIF
+ \STATE mkk
+\ENDFOR
 %...
 % Das musst du irgendwie noch geschickter darstellen
  \end{algorithmic}
@@ -234,8 +229,7 @@ Another problem occurred during the execution of our implementation. Given a set
 The clustering algorithm we used for our final implementation is K-Means, one of the most widely used clustering algorithm. For a given set of data-points in a n-dimensional space R\textsuperscript{n} and an integer $k$ the algorithm determines $k$ points, called centres, minimizing the sum of the mean square distance from the data points to their nearest centre. We are using the K-Means adaptation of the Lloyed-algorithm described in Algorithm \ref{Algorithm 3}\cite{kanungo2002efficient}.
 
 \begin{algorithm}[H]
- \caption{K-Means Algorithm}
- \label{Algorithm 3}
+ \caption{Algorithm 3}
  \begin{algorithmic}[1]
 \renewcommand{\algorithmicrequire}{\textbf{Input:}}
  \renewcommand{\algorithmicensure}{\textbf{Output:}}
