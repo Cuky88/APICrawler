@@ -14,6 +14,8 @@
 \usepackage{color}
 \usepackage{amssymb}
 \usepackage{varwidth}
+\usepackage{setspace}
+
 
 \hyphenation{op-tical net-works semi-conduc-tor}
 
@@ -27,18 +29,17 @@
 
 \begin{document}
 
-\title{From textual to structured Web API Descriptions\\ \large Knowledge Discovery and Data Mining Seminar 2017 }
-
+\title{ From textual to structured Web API Descriptions {\large Knowledge Discovery and Data Mining Seminar 2017}}
 
 \author{Selcuk~Aklanoglu,
         Han~Che,
         Caroline~Dieterich,
         Marcel~Ruoff,
-        Jan-Peter~Schmidt  \\
-Karlsruhe Institute of Technology \\
+        Jan-Peter~Schmidt,  \\
+\textit{Karlsruhe Institute of Technology}  \\
 Sebastian~Bader \\
-Department Applied Informatics and  Formal Description Methods (AIFB)  \\
-Karlsruhe Institute of Technology
+\textit{Department Applied Informatics and  Formal Description Methods (AIFB),  \\
+Karlsruhe Institute of Technology}
 
 }
 
@@ -145,7 +146,7 @@ idf (d,t) = log\left( \frac{1+n}{1+df(d,t)} \right)
 \end{equation}
 
 $n$ is the total number of API descriptions and $df(d,t)$ the document frequency, the number of documents in which a term $t$ appears. 
-With the TF-IDF Vectorizer, terms with a high term frequency but a low document frequency, have the highest tf-idf-value and can be considered more important than terms with a lower tf-idf-value. The result of the vectorization is a sparse matrix with \textcolor{red} {XXXXXXX} dimensions.
+With the TF-IDF Vectorizer, terms with a high term frequency but a low document frequency, have the highest tf-idf-value and can be considered more important than terms with a lower tf-idf-value. The result of the vectorization is a high dimensional sparse matrix.
 
 \subsection{Latent Semantic Analysis}
 A dimension reduction was not only necessary because of the size of the matrix, but is also suggested by \cite{ding2004k}. They showed, that a dimension reduction with the Principal Component Analysis (PCA) before the use of K-Means leads to better clustering  results. Having a huge sparse matrix makes it difficult to perform a PCA. Therefore, we used the transformer TruncatedSVD from the scikitLearn library to perform a dimension reduction \cite{scikit-learn}. The transformer uses a truncated Singular Value Decomposition (SVD) which is specially tailored to TF-IDF matrixes and therefore called "Latent Semantic Analysis". This makes a centering of the data unnecessary and is for that reason suitable for large sparse datasets \cite{albright2004taming}.
@@ -404,7 +405,7 @@ The results of the K-Means clustering with the parameters $k⁡= 500$, $dim⁡= 
 \section{Conclusion}
 Starting with 3 different datasets, we came down to use only one dataset, due to data quality issues. Attempts to solve those issues where unsuccessful. We used therefore state-of-the-art text preprocessing techniques on a quite small text corpus and evaluated three clustering algorithms. At the end, we decided for K-Means clustering and a sort of grid-search to find the best parameter combinations. We used two metrics, the Jaccard-Coefficient and precision and recall, to assess the quality of the machine generated clusters and to compare them with our manually created clusters. At the end, we created a prototype-website, where we could apply social-tagging and assess the overall quality, with about 60~\%.\\
 
-This shows clearly, that our approach works and enables an useful new functionality. Nevertheless, there is a huge potential for improvements. First of all, more descriptions of an API needs to be collected. We think, that it will be very difficult, even impossible to automate this step. Our efforts to do so, were unfruitful. Another point, which can be optimized, is the manual clustering. It would be very interesting to see, which effect more manual clustered APIs as well more social-tagged APIs would have on the quality metrics. We assume that it will influence the Jaccard-Coefficient highly as stated in section \ref{sec:result}. And of course the search for the optimal parameter combination can be optimized. It is crucial, which interval is chosen for $k$. We chose a high interval and bigger steps between the $k$. Even running on a GPU, it took about an hour to run all the combinations in K-Means. To have better results, the steps need to be reduced, preferably to 1. But this would cause high computational costs. So, other approaches, for example like heuristic search could be evaluted.\\
+This shows clearly, that our approach works and enables an useful new functionality. Nevertheless, there is a huge potential for improvements. First of all, more descriptions of an API need to be collected. We think, that it will be very difficult, even impossible to automate this step. Our efforts to do so, were unfruitful. Another point, which can be optimized, is the manual clustering. It would be very interesting to see, which effect more manual clustered APIs as well more social-tagged APIs would have on the quality metrics. We assume that it will influence the Jaccard-Coefficient highly as stated in section \ref{sec:result}. And of course the search for the optimal parameter combination can be optimized. It is crucial, which interval is chosen for $k$. We chose a high interval and bigger steps between the $k$. Even running on a GPU, it took about an hour to run all the combinations in K-Means. To have better results, the steps need to be reduced, preferably to 1. But this would cause high computational costs. So, other approaches, for example like heuristic search could be evaluted.\\
 
 We prepared a github-wiki\footnote{https://github.com/Cuky88/APICrawler/wiki} with every needed information and a guide, how to setup and run the code. 
 
