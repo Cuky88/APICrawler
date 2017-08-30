@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.29)  29 AUG 2017 20:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.29)  30 AUG 2017 12:33
 entering extended mode
 **C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/Paper_KDD.tex
 (C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/Paper_KDD.tex
@@ -306,41 +306,53 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.
+sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box32
+\sift@deathcycles=\count113
+\@vwid@loff=\dimen137
+\@vwid@roff=\dimen138
+)
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace
+.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
 ("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
 "
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count113
+\c@lips@count=\count114
 )
 No file Paper_KDD.aux.
 \openout1 = `Paper_KDD.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 -- Lines per column: 58 (exact).
 
 ("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
 kii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count114
-\scratchdimen=\dimen137
-\scratchbox=\box32
-\nofMPsegments=\count115
-\nofMParguments=\count116
+\scratchcounter=\count115
+\scratchdimen=\dimen139
+\scratchbox=\box33
+\nofMPsegments=\count116
+\nofMParguments=\count117
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count117
-\MPscratchDim=\dimen138
-\MPnumerator=\count118
-\makeMPintoPDFobject=\count119
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen140
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
 \everyMPtoPDFconversion=\toks25
 )
 ("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
@@ -397,6 +409,19 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
+LaTeX Font Info:    Try loading font information for U+msa on input line 67.
+
+("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 67.
+ ("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 67.
+
 
 LaTeX Warning: Citation `tmcnet' on page 1 undefined on input line 77.
 
@@ -406,9 +431,6 @@ Missing character: There is no ô in font ptmr7t!
 
 LaTeX Warning: Citation `mulesoft' on page 1 undefined on input line 79.
 
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
 <img/APIcycle.png, id=1, 476.53032pt x 299.61937pt>
 File: img/APIcycle.png Graphic file (type png)
  <use img/APIcycle.png>
@@ -418,26 +440,27 @@ Package pdftex.def Info: img/APIcycle.png used on input line 84.
 
 LaTeX Warning: Citation `mulesoft' on page 1 undefined on input line 85.
 
+
+LaTeX Warning: Reference `fig_sim' on page 1 undefined on input line 89.
+
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
-LaTeX Font Info:    Try loading font information for U+msa on input line 98.
-("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 98.
- ("C:\Users\Arbeit\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+[1{C:/Users/Arbeit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-LaTeX Warning: Citation `dojchinovskilinked' on page 1 undefined on input line 
+
+ <C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/img/APIcycle.png>]
+
+LaTeX Warning: Citation `dojchinovskilinked' on page 2 undefined on input line 
 101.
 
-<img/fig2.png, id=2, 578.91281pt x 371.13657pt>
+
+LaTeX Warning: Reference `fig_sim2' on page 2 undefined on input line 101.
+
+<img/fig2.png, id=10, 578.91281pt x 371.13657pt>
 File: img/fig2.png Graphic file (type png)
  <use img/fig2.png>
 Package pdftex.def Info: img/fig2.png used on input line 104.
@@ -447,52 +470,57 @@ Overfull \hbox (0.94499pt too wide) in paragraph at lines 104--105
  [][] 
  []
 
-[1{C:/Users/Arbeit/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
+LaTeX Warning: Reference `fig_sim3' on page 2 undefined on input line 110.
 
- <C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/img/APIcycle.png>]
-<img/pie.png, id=11, 197.23688pt x 194.97844pt>
+<img/pie.png, id=12, 197.23688pt x 194.97844pt>
 File: img/pie.png Graphic file (type png)
  <use img/pie.png>
 Package pdftex.def Info: img/pie.png used on input line 113.
 (pdftex.def)             Requested size: 144.54pt x 142.88347pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+ []
 
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
 
-LaTeX Warning: Citation `bird2009natural' on page 2 undefined on input line 128
+Underfull \hbox (badness 6284) in paragraph at lines 122--123
+[]\OT1/ptm/m/n/10 site:paypal.com "api doc-u-men-ta-tion" OR "api
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+LaTeX Warning: Citation `bird2009natural' on page 2 undefined on input line 132
 .
 
 
-LaTeX Warning: Citation `scikit-learn' on page 2 undefined on input line 131.
+LaTeX Warning: Citation `scikit-learn' on page 2 undefined on input line 135.
+
+
+LaTeX Warning: Reference `eq:tdf' on page 2 undefined on input line 135.
 
 [2 <C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/img/fig2.png> <C:/Users/Arbe
 it/Documents/KDD/APICrawler/Paper/img/pie.png>]
 
-LaTeX Warning: Citation `ding2004k' on page 3 undefined on input line 147.
+LaTeX Warning: Reference `eq:idf' on page 3 undefined on input line 142.
 
 
-LaTeX Warning: Citation `scikit-learn' on page 3 undefined on input line 147.
+LaTeX Warning: Citation `ding2004k' on page 3 undefined on input line 153.
+
+
+LaTeX Warning: Citation `scikit-learn' on page 3 undefined on input line 153.
 
 
 LaTeX Warning: Citation `albright2004taming' on page 3 undefined on input line 
-147.
+153.
+
+
+LaTeX Warning: Reference `sec:clustering' on page 3 undefined on input line 156
+.
 
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
@@ -532,12 +560,29 @@ Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
 
 LaTeX Warning: Citation `kanungo2002efficient' on page 3 undefined on input lin
-e 158.
+e 165.
 
 
-Overfull \hbox (7.43051pt too wide) detected at line 170
+LaTeX Warning: Reference `alg:algo1' on page 3 undefined on input line 165.
+
+
+Overfull \hbox (33.2843pt too wide) detected at line 177
 [][] [] \OT1/cmr/m/n/10 = []
  []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+[3]
+
+LaTeX Warning: Citation `kanungo2002efficient' on page 4 undefined on input lin
+e 200.
+
+
+LaTeX Warning: Reference `alg:algo2' on page 4 undefined on input line 200.
 
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
@@ -546,56 +591,103 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.190  \end{algorithmic}
-                        
+l.215 \ENDIF
+            
 ? 
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no Œ in font ptmr7t!
-Missing character: There is no µ in font ptmr7t!
-[3]
-Missing character: There is no Œ in font ptmr7t!
-Missing character: There is no µ in font ptmr7t!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no µ in font cmr10!
+
+LaTeX Warning: Reference `Algorithm 3' on page 4 undefined on input line 229.
+
+
+LaTeX Warning: Citation `kanungo2002efficient' on page 4 undefined on input lin
+e 229.
+
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
+
+LaTeX Warning: Reference `sec:eval' on page 4 undefined on input line 257.
 
 
 LaTeX Warning: Citation `halkidi2002cluster' on page 4 undefined on input line 
-251.
+265.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
-
- []
+LaTeX Warning: Reference `eq:manClus' on page 4 undefined on input line 265.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
-
- []
+LaTeX Warning: Reference `eq:kmeanClus' on page 4 undefined on input line 265.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+LaTeX Warning: Citation `halkidi2002cluster' on page 5 undefined on input line 
+276.
+
+
+LaTeX Warning: Reference `eq:yinc' on page 5 undefined on input line 276.
+
+
+LaTeX Warning: Reference `eq:yink' on page 5 undefined on input line 283.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+
+LaTeX Warning: Reference `eq:jacc' on page 5 undefined on input line 300.
+
+
+LaTeX Warning: Reference `eq:rand' on page 5 undefined on input line 300.
+
+
+LaTeX Warning: Citation `halkidi2002cluster' on page 5 undefined on input line 
+315.
+
+
+LaTeX Warning: Reference `eq:mpair' on page 5 undefined on input line 315.
 
 
 LaTeX Warning: Citation `powers2011evaluation' on page 5 undefined on input lin
-e 303.
+e 326.
+
+
+LaTeX Warning: Reference `eq:prec' on page 5 undefined on input line 347.
+
+
+LaTeX Warning: Reference `eq:recall' on page 5 undefined on input line 347.
 
 [5]
+
+LaTeX Warning: Reference `eq:fmeas' on page 6 undefined on input line 358.
+
+
+LaTeX Warning: Reference `eq:qual' on page 6 undefined on input line 371.
+
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ° in font cmr10!
@@ -608,13 +700,16 @@ Missing character: There is no ° in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ° in font cmr10!
- <img/Jaccard.png, id=35, 313.9228pt x 243.15843pt>
+
+LaTeX Warning: Reference `fig_sim4' on page 6 undefined on input line 383.
+
+<img/Jaccard.png, id=35, 313.9228pt x 243.15843pt>
 File: img/Jaccard.png Graphic file (type png)
  <use img/Jaccard.png>
-Package pdftex.def Info: img/Jaccard.png used on input line 359.
+Package pdftex.def Info: img/Jaccard.png used on input line 388.
 (pdftex.def)             Requested size: 252.94499pt x 195.92578pt.
 
-Overfull \hbox (0.94499pt too wide) in paragraph at lines 359--360
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 388--389
  [][] 
  []
 
@@ -663,16 +758,24 @@ Missing character: There is no ° in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Å in font cmr10!
 Missing character: There is no ° in font cmr10!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no § in font ptmr7t!
-Missing character: There is no √ in font ptmr7t!
-Missing character: There is no º in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ¶ in font ptmr7t!
-No file Paper_KDD.bbl.
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+
+ []
+
+
+LaTeX Warning: Reference `sec:result' on page 6 undefined on input line 402.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
 [6 <C:/Users/Arbeit/Documents/KDD/APICrawler/Paper/img/Jaccard.png>]
-(Paper_KDD.aux)
+No file Paper_KDD.bbl.
+[7
+
+] (Paper_KDD.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -681,13 +784,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 4577 strings out of 493323
- 71221 string characters out of 3129581
- 258526 words of memory out of 3000000
- 8029 multiletter control sequences out of 15000+200000
- 45906 words of font info for 91 fonts, out of 3000000 for 9000
+ 4708 strings out of 493323
+ 73299 string characters out of 3129581
+ 260490 words of memory out of 3000000
+ 8146 multiletter control sequences out of 15000+200000
+ 50213 words of font info for 100 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 48i,8n,39p,1268b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,8n,39p,1310b,483s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Arbeit/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
 c}<C:/Users/Arbeit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmex10.pfb><C:/Users/Arbeit/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
@@ -703,9 +806,9 @@ fonts/type1/urw/times/utmb8a.pfb><C:/Users/Arbeit/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Arbeit/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Arbeit/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Paper_KDD.pdf (6 pages, 398874 bytes).
+Output written on Paper_KDD.pdf (7 pages, 404226 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

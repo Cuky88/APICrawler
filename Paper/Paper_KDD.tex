@@ -17,6 +17,7 @@
 \usepackage{setspace}
 
 
+
 \hyphenation{op-tical net-works semi-conduc-tor}
 
 \usepackage{lipsum}
@@ -209,11 +210,29 @@ neighbours in a cluster, \newline word-vectors of the APIs
  \\ \textit{Procedure} :
   \FOR{each unvisited API S in dataset}
 \STATE mark S as visited
-\STATE N = all points within S eps-neighborhood including S
-\IF{sizeof(N)  minPts}
-\STATE marks S as NOISE
+\STATE N = getNeighbors(S)
+\IF {sizeOf(N) $<$ minPts}
+\STATE mark S as NOISE
+\ELSE
+\STATE C = next Cluster
+\STATE expandCluster(S, N, C)
 \ENDIF
- \STATE mkk
+\ENDFOR
+\newline
+ \end{algorithmic}
+ \begin{algorithmic}[2]
+ \STATE expandClusters(S, N, eps, minPts) :
+\STATE add P to cluster C 
+\FOR {each point in S'}
+\IF {S' is not visited}
+\STATE mark S' as visited
+\STATE N' = getNeighbors(S')
+\IF {sizeOf(N') $\geqslant$ minPts}
+\STATE N = N joined with N'
+\ENDIF
+\ELSIF {P' is not yet menmer of any cluster}
+\STATE add S' to cluster C
+\ENDIF
 \ENDFOR
 %...
 % Das musst du irgendwie noch geschickter darstellen
