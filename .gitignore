@@ -6,3 +6,5 @@ DATA_FROM_REMOTE/
 api_docs/zwischenspeicher/
 api_docs/complete_final.json
 conf.json
+api_docs/api_docs/spiders/api_spider_bckp.py
+api_docs/api_docs/spiders/apidescr_bckp.py
