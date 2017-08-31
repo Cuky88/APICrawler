@@ -3,7 +3,7 @@
 by Selcuk Aklanoglu, Jan-Peter Schmidt, Caroline Dieterich, Han Che and Marcel Ruoff
 <br><br>
 Link to final paper and presentation:<br>
-[Structured Web API Paper](../blob/master/Paper/Paper_KDD.pdf)<br>
+[Structured Web API Paper](Paper/Paper_KDD.pdf)<br>
 [Structured Web API Presentation](https://drive.google.com/open?id=0B4CA9vTVxktALWZSLXd1M29Odk0)
 
 ## APICrawler, Text Mining & Clustering
