@@ -16,7 +16,10 @@
 \usepackage{amssymb}
 \usepackage{varwidth}
 \usepackage{setspace}
-
+\usepackage{url}
+\def\UrlBreaks{\do\/\do.}
+\usepackage{breakurl}
+\usepackage[breaklinks]{hyperref}
 
 \hyphenation{op-tical net-works semi-conduc-tor}
 
@@ -64,9 +67,9 @@ preprocessing followed by machine learning
 algorithms (K-Means, DBSCAN) to create clusters,
 which we validated manually. With an average of only
 68,3 words per descriptions (45,6 after
-preprocessing), we found that the amount of clusters are between 300 and 700 unique clusters. After social-tagging activities on the prototype-website\footnote{http://webapi.bplaced.net/} for about 300 APIs, we receive a quality score of 60~\%, which means, that more than half of the APIs are probably clustered correctly. But our results suggests, that the
+preprocessing), we found that the amount of clusters are between 300 and 700 unique clusters. After social-tagging activities on the prototype-website\footnote{\url{http://webapi.bplaced.net/}} for about 300 APIs, we receive a quality score of 60~\%, which means, that more than half of the APIs are probably clustered correctly. But our results suggests, that the
 needed quantity for text mining and clustering was insufficiently met. Our clusters were thus also inconclusive. 
-The complete code is available on github\footnote{https://github.com/Cuky88/APICrawler}.
+The complete code is available on github\footnote{\url{https://github.com/Cuky88/APICrawler}}.
 \end{abstract}
 
 
@@ -95,7 +98,7 @@ For our research paper, we investigate on the basic requirements for machines to
 %rechtsbündige grafik (habe ich jetzt erst mal rausgenommen, da es komisch aussah):
 %\piccaption{Amount of working links in Programmable Web} 
 %\parpic[r]{\includegraphics[width=1.5in]{img/pie.png}} 
-Prior to our research and development, we looked for suitable datasets with good quality. There was not much research done in this field, therefore we had to look for different alternatives, which will be described in the following sections. Section II.A describes the Linked Web API dataset and its issues. Section II.B deals with the dataset crawled from Programmable Web  \footnote[1]{https://www.programmableweb.com} and section II.C shows an alternative way to get data from Google.
+Prior to our research and development, we looked for suitable datasets with good quality. There was not much research done in this field, therefore we had to look for different alternatives, which will be described in the following sections. Section II.A describes the Linked Web API dataset and its issues. Section II.B deals with the dataset crawled from Programmable Web  \footnote[1]{\url{https://www.programmableweb.com}} and section II.C shows an alternative way to get data from Google.
 
 \subsection{Linked Web API Dataset}
 Starting point was the Linked Web API dataset \cite{dojchinovskilinked} with 9.850 APIs. Besides short descriptions of the API, it inherits semantic annotations and links between different attributes like title, tags and links to websites. For our purpose only the descriptions were relevant. The first inspection showed, that the descriptions were too short. Since we want to cluster the APIs on similarity based on their descriptions, those were crucial. First solution was to crawl the website of the API to get more textual descriptions. This seemed to be easily done, since the dataset also had a link to the API documentation website. When checking the links, we found out that 78~\% (Fig. \ref{fig_sim2}) of the links were missing. From the remaining links only 9~\% were working. We tried to fix the rest of the links by deleting path and subdomain from the link. This slightly increased the amount of usable links. Overall the data quality which is achieved with this approach can be considered insufficient. A lot of the links do not point to the actual API description either because they are outdated or because the fixing approach just led us to a general page with often little connection to the API description.
@@ -107,7 +110,7 @@ Starting point was the Linked Web API dataset \cite{dojchinovskilinked} with 9.8
 \end{figure}
 
 \subsection{Programmable Web Dataset}
-Another approach to get usable data was to crawl Programmable Web with over 15.800 APIs. Therefore, we constructed a crawler with the Scrapy Framework \footnote[2]{https://scrapy.org} to crawl all the data. The API descriptions from Programmable Web have an averege length of about 70 words, which we assumed to be not enough. We examined the links to the API documentation sites, to see if we can crawl them, too. From the 15.800 APIs, about 32~\% (Fig.  \ref{fig_sim3}) were not working. When we investigated the links deeper, we found out, that approximately 30 to 45~\% of the links redirect to a subpages like  main, authentication or payment pages. This was the same issue like with the Linked Web API dataset.
+Another approach to get usable data was to crawl Programmable Web with over 15.800 APIs. Therefore, we constructed a crawler with the Scrapy Framework \footnote[2]{\url{https://scrapy.org}} to crawl all the data. The API descriptions from Programmable Web have an averege length of about 70 words, which we assumed to be not enough. We examined the links to the API documentation sites, to see if we can crawl them, too. From the 15.800 APIs, about 32~\% (Fig.  \ref{fig_sim3}) were not working. When we investigated the links deeper, we found out, that approximately 30 to 45~\% of the links redirect to a subpages like  main, authentication or payment pages. This was the same issue like with the Linked Web API dataset.
 \begin{figure}[h]
 \centering
 \includegraphics[width= 3.5in]{img/graph1.pdf}
@@ -162,7 +165,7 @@ Our other approach was to create a correlation matrix which declares for each AP
 To implement and test these approaches we used the algorithms described in the following subsections.
 
 \subsection{Normalized Google Distance}
-For the correlation matrix we tried to implement the algorithm introduced by Jian Wu, Liang Chen, Zibin Zheng, Michael R. Lyu and Zhaohui Wu in their Paper “Clustering Web services to facilitate service discovery” \cite{kanungo2002efficient}. The algorithm determines the similarity of each APIs word-vector with all the other word vectors by comparing the word in the word-vector with the normalized google distance. As a result, the algorithm produces a correlation-matrix where for any given API the distance to each other API can be withdrawn (Algorithm \ref{alg:algo1}).
+For the correlation matrix we tried to implement the algorithm introduced by J. Wu, L. Chen, Z. Zheng, M. R. Lyu and Z. Wu in their Paper “Clustering Web services to facilitate service discovery” \cite{wu2014}. The algorithm determines the similarity of each APIs word-vector with all the other word vectors by comparing the word in the word-vector with the normalized google distance. As a result, the algorithm produces a correlation-matrix where for any given API the distance to each other API can be withdrawn (Algorithm \ref{alg:algo1}).
 
 \begin{algorithm}[H]
 \caption{Normalized Google Distance}
@@ -381,7 +384,7 @@ F=2* \frac{Precision*Recall}{Precision+Recall}
 The F-measure is the harmonic mean between precision and recall. The higher the value the better the quality of the clusters.
 
 \subsection{Manual Evaluation}
-We created a simple website\footnote{http://webapi.bplaced.net} to do social-tagging. It enables an easy manual evaluation and access to anyone to use our results. The data the site is based on is a JSON file. It contains the result of the K-Means clustering with a parameter combination that had one of the best quality measures.
+We created a simple website\footnote{\url{http://webapi.bplaced.net}} to do social-tagging. It enables an easy manual evaluation and access to anyone to use our results. The data the site is based on is a JSON file. It contains the result of the K-Means clustering with a parameter combination that had one of the best quality measures.
 
 The user can enter a name of an API to find similar APIs. The site provides the data of our machine clustered data. It looks up similar APIs from the JSON file and provides them with a small description. The user has then the possibility to give a positive vote if a suggested API matches the one he put in or give a negative vote if not.
 With the user input an overall quality measure can be calculated as the percentage of correctly clustered APIs (\ref{eq:qual}).
@@ -417,7 +420,7 @@ Starting with 3 different datasets, we came down to use only one dataset, due to
 
 This shows clearly, that our approach works and enables an useful new functionality. Nevertheless, there is a huge potential for improvements. First of all, more descriptions of an API need to be collected. We think, that it will be very difficult, even impossible to automate this step. Our efforts to do so, were unfruitful. Another point, which can be optimized, is the manual clustering. It would be very interesting to see, which effect more manual clustered APIs as well more social-tagged APIs would have on the quality metrics. We assume that it will influence the Jaccard-Coefficient highly as stated in section \ref{sec:result}. And of course the search for the optimal parameter combination can be optimized. It is crucial, which interval is chosen for $k$. We chose a high interval and bigger steps between the $k$. Even running on a GPU, it took about an hour to run all the combinations in K-Means. To have better results, the steps need to be reduced, preferably to 1. But this would cause high computational costs. So, other approaches, for example like heuristic search could be evaluted.\\
 
-We prepared a github-wiki\footnote{https://github.com/Cuky88/APICrawler/wiki} with every needed information and a guide, how to setup and run the code. 
+We prepared a github-wiki\footnote{\url{https://github.com/Cuky88/APICrawler/wiki}} with every needed information and a guide, how to setup and run the code. 
 
 \bibliographystyle{IEEEtran}
 \bibliography{quellen}
