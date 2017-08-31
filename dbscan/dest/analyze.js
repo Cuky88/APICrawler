@@ -1,6 +1,6 @@
 var fs = require('fs')
 
-var dbscan = JSON.parse(fs.readFileSync('./db.json', 'utf8'));
+var dbscan = JSON.parse(fs.readFileSync('./db_jaccard.json', 'utf8'));
 var raw = JSON.parse(fs.readFileSync('../../1_data/2_preprocessed/progweb_preprocessed.json', 'utf8'));
 
 result = {
