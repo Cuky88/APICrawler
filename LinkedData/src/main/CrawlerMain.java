@@ -60,7 +60,7 @@ public class CrawlerMain {
 	
 	public static void storeTxtToList() {
 		
-		String fileName = "KDD Seminar/lwapis_v1.txt";
+		String fileName = "LinkedData/lwapis_v1.txt";
 		
 		try {
 			String content = readFile(fileName, Charset.forName("UTF-8"));

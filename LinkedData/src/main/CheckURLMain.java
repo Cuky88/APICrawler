@@ -29,9 +29,9 @@ public class CheckURLMain {
 
         int counterBlog = 0;
 
-        //Try to read the data_all.json - dump from SPARQL Endpoint of the LinkedData with relevant information about the api
+        //Try to read the linked_data_sparql.json - dump from SPARQL Endpoint of the LinkedData with relevant information about the api
         try {
-            String fileContent = CrawlerMain.readFile("data_all.json", Charset.forName("UTF-8"));
+            String fileContent = CrawlerMain.readFile("LinkedData/data/linked_data_sparql.json", Charset.forName("UTF-8"));
 
             JSONObject file = new JSONObject(fileContent);
             JSONObject results = file.getJSONObject("results");
@@ -313,7 +313,7 @@ public class CheckURLMain {
 
             //Write all BodyAPIs to JSON
             try {
-                PrintWriter writer = new PrintWriter("data_complete.json", "UTF-8");
+                PrintWriter writer = new PrintWriter("data_final/data_complete.json", "UTF-8");
                 createJSONHead(writer);
 
                 Iterator<JSON_API> iterator1 = bodyList.iterator();
@@ -380,7 +380,7 @@ public class CheckURLMain {
             System.out.println("Create JSON...");
 
             try{
-                PrintWriter writer = new PrintWriter("data_json_formatted.json", "UTF-8");
+                PrintWriter writer = new PrintWriter("LinkedData/data/data_json_formatted.json", "UTF-8");
 
                 writer.println("[");
                 Iterator<JSON_API> iterator1 = bodyList.iterator();
@@ -427,7 +427,7 @@ public class CheckURLMain {
 
             //Write triples to File
             try {
-                PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("lwapis_v1.txt", true)));
+                PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("LinkedData/lwapis_v1.txt", true)));
                 out.println(triples);
                 out.close();
             } catch (IOException e) {

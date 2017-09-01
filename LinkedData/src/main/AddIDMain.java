@@ -22,8 +22,8 @@ import java.util.Set;
 public class AddIDMain {
 
     public static void main(String[] args) {
-        String progwebFile = "data/progweb_data.json";
-        String linkedDataFile = "data/linked_data_no_id.json";
+        String progwebFile = "1_data/2_preprocessed/progweb_preprocessed.json";
+        String linkedDataFile = "LinkedData/data/linked_data_no_id.json";
 
         try {
             String progwebString = CrawlerMain.readFile(progwebFile, Charset.forName("UTF-8"));
